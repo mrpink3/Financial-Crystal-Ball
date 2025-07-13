@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-04-22",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Biden Administration Debating How to Overhaul a Trump-Era Tax Break",
+      "snippet": "The president promised on the campaign trail to overhaul opportunity zones, which a new study suggests mostly fueled real estate investment in gentrifying areas in 2019.",
+      "abstract": "The president promised on the campaign trail to overhaul opportunity zones, which a new study suggests mostly fueled real estate investment in gentrifying areas in 2019.",
+      "lead_paragraph": "WASHINGTON — The Biden administration is weighing how to overhaul a Trump-era tax incentive that was pitched as a way to drive investment to economically depressed swaths of the country but which early evidence suggests has primarily fueled real estate development in areas like Brooklyn neighborhoods that were already becoming richer and whiter.",
+      "publication_date": "2021-04-21T21:42:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/21/business/biden-trump-opportunity-zones.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Putin Warns of a Russian ‘Red Line’ the West Will Regret Crossing",
+      "snippet": "In a state-of-the nation speech, President Vladimir Putin warned of a “fast and tough” response to security threats, in a message seemingly aimed at President Biden and delivered amid large protests.",
+      "abstract": "In a state-of-the nation speech, President Vladimir Putin warned of a “fast and tough” response to security threats, in a message seemingly aimed at President Biden and delivered amid large protests.",
+      "lead_paragraph": "MOSCOW — He warned ominously of “red lines” in Russia’s security that, if crossed, would bring a powerful “asymmetric” response. He reminded Western leaders once again of the fearsomeness of his country’s modernized nuclear arsenal. And he boasted of Russia’s moral superiority over the West.",
+      "publication_date": "2021-04-21T21:56:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/21/world/europe/russia-putin-ukraine-navalny.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Justice Dept. Opens Broad Inquiry Into Minneapolis Police",
+      "snippet": "The investigation was a sign that President Biden intends to wield federal law enforcement as a tool to combat police abuses.",
+      "abstract": "The investigation was a sign that President Biden intends to wield federal law enforcement as a tool to combat police abuses.",
+      "lead_paragraph": "WASHINGTON — Attorney General Merrick B. Garland announced on Wednesday a sweeping investigation into the Minneapolis Police Department, signaling that the Biden administration will seek to combat police abuses around the country and apply stricter federal oversight to local forces.",
+      "publication_date": "2021-04-21T23:53:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/21/us/politics/justice-department-minneapolis-police.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Federal Inspectors Fear More Vaccines Were Exposed to Contamination",
+      "snippet": "Last month, up to 15 million doses of Johnson & Johnson’s vaccine had to be discarded at Emergent’s factory in Baltimore. A new report says problems were not fully investigated and other doses may be compromised.",
+      "abstract": "Last month, up to 15 million doses of Johnson & Johnson’s vaccine had to be discarded at Emergent’s factory in Baltimore. A new report says problems were not fully investigated and other doses may be compromised.",
+      "lead_paragraph": "WASHINGTON — Federal regulators have found serious flaws at the Baltimore plant that had to throw out up to 15 million possibly contaminated doses of Johnson & Johnson’s coronavirus vaccine — casting doubt on further production in the United States of a vaccine that the government once viewed as essential in fighting the pandemic.",
+      "publication_date": "2021-04-22T00:20:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/21/us/politics/emergent-johnson-johnson-covid-vaccine.html",
+      "byline": "By Sharon LaFraniere, Sheryl Gay Stolberg and Chris Hamby"
+    },
+    {
+      "headline": "Jack Ma Shows Why China’s Tycoons Keep Quiet",
+      "snippet": "High-profile business leaders have been detained, sidelined or silenced as the Communist Party moves forcefully to keep companies in line. Today, the best strategy is to lie low.",
+      "abstract": "High-profile business leaders have been detained, sidelined or silenced as the Communist Party moves forcefully to keep companies in line. Today, the best strategy is to lie low.",
+      "lead_paragraph": "Jack Ma, the most famous businessman China has ever produced, is avoiding the spotlight. Friends say he is painting and practicing tai chi. Sometimes, he shares drawings with Masayoshi Son, the billionaire head of the Japanese conglomerate SoftBank.",
+      "publication_date": "2021-04-22T09:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "b",
+      "web_url": "https://www.nytimes.com/2021/04/22/technology/jack-ma-alibaba-tycoons.html",
+      "byline": "By Raymond Zhong and Alexandra Stevenson"
+    },
+    {
+      "headline": "Once Crippled by the Pandemic, Airlines See a Fast Recovery Coming",
+      "snippet": "As demand for tickets recovers, airlines are calling back workers, adding flights and planning for a summer they say could be normal.",
+      "abstract": "As demand for tickets recovers, airlines are calling back workers, adding flights and planning for a summer they say could be normal.",
+      "lead_paragraph": "As the pandemic decimated travel a year ago, a top industry executive predicted that a major U.S. airline would go bankrupt and the carriers themselves warned of painful cuts to come.",
+      "publication_date": "2021-04-22T12:29:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/22/business/airlines-recovery-american-southwest.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Biden Will Seek Tax Increase on Rich to Fund Child Care and Education",
+      "snippet": "The American Family Plan, which the president wants to pay for by increasing the capital gains tax and the top marginal income tax rate, currently doesn’t include an effort to expand health coverage.",
+      "abstract": "The American Family Plan, which the president wants to pay for by increasing the capital gains tax and the top marginal income tax rate, currently doesn’t include an effort to expand health coverage.",
+      "lead_paragraph": "WASHINGTON — President Biden will seek new taxes on the rich, including a near doubling of the capital gains tax for people earning more than $1 million a year, to pay for the next phase in his $4 trillion plan to reshape the American economy.",
+      "publication_date": "2021-04-22T14:22:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/22/business/economy/biden-taxes.html",
+      "byline": "By Jim Tankersley"
+    }
+  ]
+}

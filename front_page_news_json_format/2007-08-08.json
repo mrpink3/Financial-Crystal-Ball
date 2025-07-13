@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2007-08-08",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Fed Leaves Rate Steady; No Sign of Future Cut",
+      "snippet": "The Federal Reserve Tuesday largely sidestepped the growing anxiety over how tightening credit standards will affect the economy.",
+      "abstract": "The Federal Reserve Tuesday largely sidestepped the growing anxiety over how tightening credit standards will affect the economy.",
+      "lead_paragraph": "WASHINGTON, Aug. 7  The Federal Reserve kept its key interest rate unchanged on Tuesday and signaled that it still expected to avoid cutting short-term rates despite the recent tumult in credit markets and on Wall Street. The Fed suggested that it would change course only if economic conditions deteriorate badly in the weeks and months ahead.",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/08/08/business/08fed.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "U.S. Says Iran-Supplied Bomb Kills More Troops",
+      "snippet": "Attacks on American forces using a lethal type of bomb reached a new high in July, the U.S. military said.",
+      "abstract": "Attacks on American forces using a lethal type of bomb reached a new high in July, the U.S. military said.",
+      "lead_paragraph": "BAGHDAD, Aug. 7 — Attacks on American-led forces using a lethal type of roadside bomb said to be supplied by Iran reached a new high in July, according to the American military. ",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/08/08/world/middleeast/08military.html",
+      "byline": "By Michael R. Gordon"
+    },
+    {
+      "headline": "The Almighty Ruble",
+      "snippet": "Lifted by high oil prices and a wave of foreign investment, the once humble ruble is showing its muscle, and fueling a consumer boom.",
+      "abstract": "Lifted by high oil prices and a wave of foreign investment, the once humble ruble is showing its muscle, and fueling a consumer boom.",
+      "lead_paragraph": "MOSCOW, Aug. 6 — The ruble got no respect. ",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/08/08/business/worldbusiness/08ruble.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Free Lunch on Health? Think Again",
+      "snippet": "No one really knows whether preventive medicine will save money in the long run, let alone free up the billions of dollars to help pay for universal health insurance.",
+      "abstract": "No one really knows whether preventive medicine will save money in the long run, let alone free up the billions of dollars to help pay for universal health insurance.",
+      "lead_paragraph": " The great hope of every health care reformer is that better care will mean cheaper care.",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/08/08/business/08leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Cooking Up More Uses for the Leftovers of Biofuel Production",
+      "snippet": "Scientists, entrepreneurs and venture capitalists are becoming increasingly interested in making more than fuel out of the raw materials for biodiesel fuel and ethanol.",
+      "abstract": "Scientists, entrepreneurs and venture capitalists are becoming increasingly interested in making more than fuel out of the raw materials for biodiesel fuel and ethanol.",
+      "lead_paragraph": " The baking tins and muffin cups lining the countertops in a corner of Ronald Holser’s cluttered laboratory were filled with curious substances resembling angel food cakes and loaves of bread. ",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/08/08/business/08biodiesel.html",
+      "byline": "By Hillary Rosner"
+    },
+    {
+      "headline": "Ex-Brocade Chief Convicted in Backdating Case",
+      "snippet": "The case of a former Brocade Communications executive was the first stock options backdating case to go to trial.",
+      "abstract": "The case of a former Brocade Communications executive was the first stock options backdating case to go to trial.",
+      "lead_paragraph": "Federal prosecutors scored a guilty verdict yesterday in the first options backdating case to go to trial, securing a conviction that is expected to embolden them to pursue similar cases.",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/08/08/business/08brocade.html",
+      "byline": "By Eric Dash and Matt Richtel"
+    },
+    {
+      "headline": "Ethanol Is Feeding Hot Market for Farmland",
+      "snippet": "Skyrocketing farmland prices are stirring optimism, but for young and small-scale farmers, the news is grim.",
+      "abstract": "Skyrocketing farmland prices are stirring optimism, but for young and small-scale farmers, the news is grim.",
+      "lead_paragraph": "DEKALB, Ill. — While much of the nation worries about a slumping real estate market, people in Midwestern farm country are experiencing exactly the opposite. Take, for instance, the farm here — nearly 80 acres of corn and soybeans off a gravel road in a universe of corn and soybeans — that sold for $10,000 an acre at auction this spring, a price that astonished even the auctioneer.",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/08/08/us/08farmers.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "More Generics Slow Rise in Drug Prices",
+      "snippet": "Prescription bottles bearing catchy brand names are being pushed aside by cheaper, tongue-twisting generics.",
+      "abstract": "Prescription bottles bearing catchy brand names are being pushed aside by cheaper, tongue-twisting generics.",
+      "lead_paragraph": "A quiet coup is taking place in American medicine cabinets. Prescription bottles bearing catchy brand names like Zoloft and Flonase are being pushed aside by tongue-twisting generics like sertraline and fluticasone propionate.",
+      "publication_date": "2007-08-08T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/08/08/business/08generic.html",
+      "byline": "By Stephanie Saul"
+    }
+  ]
+}

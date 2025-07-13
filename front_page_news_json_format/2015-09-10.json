@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-09-10",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Jeb Bush Tax Plan Makes Forays Into Populism",
+      "snippet": "Mr. Bush proposed to eliminate some tax brackets and curtail valuable deductions and the carried interest tax loophole that have enriched investment managers for years.",
+      "abstract": "Mr. Bush proposed to eliminate some tax brackets and curtail valuable deductions and the carried interest tax loophole that have enriched investment managers for years.",
+      "lead_paragraph": "WASHINGTON — Former Gov. Jeb Bush of Florida challenged some long-held tenets of conservative tax policy on Wednesday by proposing to curtail valuable deductions that benefit businesses and the wealthy and eliminate a loophole that has benefited hedge fund and private equity managers for years.",
+      "publication_date": "2015-09-09T19:50:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/10/us/politics/jeb-bush-tax-plan.html",
+      "byline": "By Alan Rappeport and Matt Flegenheimer"
+    },
+    {
+      "headline": "Apple’s iPhone Keeps Going Its Own Way",
+      "snippet": "Unlike other tech devices that have become commodities, Apple’s iPhone remains in demand as both a highly useful item and a status symbol.",
+      "abstract": "Unlike other tech devices that have become commodities, Apple’s iPhone remains in demand as both a highly useful item and a status symbol.",
+      "lead_paragraph": "You will hear some carping, in the coming days, about a lack of revolutionary upgrades in the new iPhone. At its media event in San Francisco on Wednesday, Apple added just a handful of features to its latest smartphones, the 6S and 6S Plus, including a pressure-sensitive screen, better cameras and a new color — pink, or “Rose Gold,” in Apple’s marketing argot.",
+      "publication_date": "2015-09-09T21:36:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/10/technology/personaltech/apples-iphone-still-breaks-the-rules-eight-years-on.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "The Bloomberg Terminal, a Wall Street Fixture, Faces Upstarts",
+      "snippet": "The data terminals, which have generated billions for Bloomberg L.P., are in the cross hairs of new rivals, while Wall Street is looking to shave costs.",
+      "abstract": "The data terminals, which have generated billions for Bloomberg L.P., are in the cross hairs of new rivals, while Wall Street is looking to shave costs.",
+      "lead_paragraph": "For nearly three decades, the flickering orange-on-black screens of the Bloomberg terminal have been omnipresent on Wall Street trading floors and executive suite desks, maintaining a vital lifeline of data and communication.",
+      "publication_date": "2015-09-09T22:22:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/10/business/dealbook/the-bloomberg-terminal-a-wall-street-fixture-faces-upstarts.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Report Renews Hope and Doubt on Missing Students in Mexico",
+      "snippet": "An independent inquiry contradicting the official account has renewed parents’ hopes and has brought new cynicism into the public’s perceptions of its leaders.",
+      "abstract": "An independent inquiry contradicting the official account has renewed parents’ hopes and has brought new cynicism into the public’s perceptions of its leaders.",
+      "lead_paragraph": "MEXICO CITY — When the government told Cristina Bustamante that her son had been murdered and incinerated in an enormous pyre, that should have been it, the final chapter in the search for her child and the 42 other college students who vanished last September.",
+      "publication_date": "2015-09-09T23:27:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/10/world/americas/report-on-missing-students-reverberates-through-mexico.html",
+      "byline": "By Azam Ahmed"
+    },
+    {
+      "headline": "Justice Department Sets Sights on Wall Street Executives",
+      "snippet": "New policies prioritize the prosecution of individual employees and put pressure on corporations to turn over evidence against their executives.",
+      "abstract": "New policies prioritize the prosecution of individual employees and put pressure on corporations to turn over evidence against their executives.",
+      "lead_paragraph": "WASHINGTON — Stung by years of criticism that it has coddled Wall Street criminals, the Justice Department issued new policies on Wednesday that prioritize the prosecution of individual employees — not just their companies — and put pressure on corporations to turn over evidence against their executives.",
+      "publication_date": "2015-09-10T00:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/10/us/politics/new-justice-dept-rules-aimed-at-prosecuting-corporate-executives.html",
+      "byline": "By Matt Apuzzo and Ben Protess"
+    },
+    {
+      "headline": "The Rail Executive United Airlines Tapped to Lift Its Fortunes",
+      "snippet": "Until his surprise appointment on Tuesday as chief executive of United Airlines, Oscar Munoz had been a rising star at CSX Corporation.",
+      "abstract": "Until his surprise appointment on Tuesday as chief executive of United Airlines, Oscar Munoz had been a rising star at CSX Corporation.",
+      "lead_paragraph": "At first glance, Oscar Munoz might seem like an unlikely pick to run one of the world’s largest airlines.",
+      "publication_date": "2015-09-10T00:44:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/10/business/the-rail-executive-united-airlines-tapped-to-lift-its-fortunes.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Fires in West Have Residents Gasping on the Soot Left Behind",
+      "snippet": "California’s largest fire has exposed an effect of record drought in the Central Valley: dangerous drops in air quality that exacerbate ongoing public health problems in this region.",
+      "abstract": "California’s largest fire has exposed an effect of record drought in the Central Valley: dangerous drops in air quality that exacerbate ongoing public health problems in this region.",
+      "lead_paragraph": "FRESNO, Calif. — The air in the San Joaquin Valley hangs thick with gray-brown dust, a result of the state’s largest fire, which has burned through more than 160 square miles in the nearby hills.",
+      "publication_date": "2015-09-10T01:03:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/10/us/fires-in-west-leave-residents-gasping-on-the-soot-left-behind.html",
+      "byline": "By Ian Lovett and Jennifer Medina"
+    },
+    {
+      "headline": "Japan Faces Severe Flooding After Heavy Rain in the East",
+      "snippet": "Helicopters were used to pull people to safety in Joso, north of Tokyo, where levees broke along the Kinu River, according to local news reports.",
+      "abstract": "Helicopters were used to pull people to safety in Joso, north of Tokyo, where levees broke along the Kinu River, according to local news reports.",
+      "lead_paragraph": "TOKYO — Heavy rain from a tropical storm caused severe flooding in eastern Japan on Thursday, and television footage showed rescuers airlifting people who were stranded after river embankments collapsed.",
+      "publication_date": "2015-09-10T10:35:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/11/world/asia/japan-floods.html",
+      "byline": "By Hisako Ueno and Makiko Inoue"
+    },
+    {
+      "headline": "How Stanford Took On the Giants of Economics",
+      "snippet": "The university’s recruiting success in recent years shows how the profession is shifting from a focus on one doctrine to multiple ways of thinking.",
+      "abstract": "The university’s recruiting success in recent years shows how the profession is shifting from a focus on one doctrine to multiple ways of thinking.",
+      "lead_paragraph": "The center of gravity for economic thought in the United States has long been found along the two miles in Cambridge, Mass., that run between Harvard University and M.I.T. But there is new competition for that title, and it is quite a bit farther west.",
+      "publication_date": "2015-09-10T11:00:43+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2015/09/13/upshot/how-stanford-took-on-the-giants-of-economics.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "Democrats Hand Victory to Obama on Iran Nuclear Deal",
+      "snippet": "A procedural vote by the Senate fell two short of the number needed to break a Democratic filibuster, ensuring that the deal will take effect without a veto showdown.",
+      "abstract": "A procedural vote by the Senate fell two short of the number needed to break a Democratic filibuster, ensuring that the deal will take effect without a veto showdown.",
+      "lead_paragraph": "WASHINGTON — Senate Democrats delivered a major victory to President Obama when they blocked a Republican resolution to reject a six-nation nuclear accord with Iran on Thursday, ensuring the landmark deal will take effect without a veto showdown between Congress and the White House.",
+      "publication_date": "2015-09-10T14:50:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/11/us/politics/iran-nuclear-deal-senate.html",
+      "byline": "By Jennifer Steinhauer"
+    }
+  ]
+}

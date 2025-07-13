@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2013-04-16",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Blasts at Boston Marathon Kill 3 and Injure 100",
+      "snippet": "Two bombs exploded seconds apart near the finish line at the Boston Marathon on Monday, creating a bloody, chaotic scene more than four hours into the race.",
+      "abstract": "Two bombs exploded seconds apart near the finish line at the Boston Marathon on Monday, creating a bloody, chaotic scene more than four hours into the race.",
+      "lead_paragraph": "BOSTON — Two powerful bombs exploded near the finish line of the Boston Marathon on Monday afternoon, killing three people, including an 8-year-old child, and injuring more than 100, as one of this city’s most cherished rites of spring was transformed from a scene of cheers and sweaty triumph to one of screams and carnage.",
+      "publication_date": "2013-04-15T19:17:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/16/us/explosions-reported-at-site-of-boston-marathon.html",
+      "byline": "By John Eligon and Michael Cooper"
+    },
+    {
+      "headline": "Drug Makers Use Safety Rule to Block Generics",
+      "snippet": "Big pharmaceutical companies are using a safety law to prevent generic manufacturers from developing low-cost copies of their drugs.",
+      "abstract": "Big pharmaceutical companies are using a safety law to prevent generic manufacturers from developing low-cost copies of their drugs.",
+      "lead_paragraph": "For decades, pharmaceutical companies have deployed an array of tactics aimed at preventing low-cost copies of their drugs from entering the marketplace.",
+      "publication_date": "2013-04-15T22:38:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/04/16/business/drug-makers-use-safety-rule-to-block-generics.html",
+      "byline": "By Katie Thomas"
+    },
+    {
+      "headline": "War Zone at Mile 26: ‘So Many People Without Legs’",
+      "snippet": "Witnesses said that the finish line, normally a festive site of celebration and exhaustion, suddenly felt like a battlefield.",
+      "abstract": "Witnesses said that the finish line, normally a festive site of celebration and exhaustion, suddenly felt like a battlefield.",
+      "lead_paragraph": "BOSTON — About 100 feet from the end of the 26.2-mile Boston Marathon, explosions shook the street and sent runners frantically racing for cover. The marathon finish line, normally a festive area of celebration and exhaustion, was suddenly like a war zone.",
+      "publication_date": "2013-04-15T22:52:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/16/us/witnesses-describe-scene-of-carnage-after-blasts-at-boston-marathon.html",
+      "byline": "By Tim Rohan"
+    },
+    {
+      "headline": "Europe Split Over Austerity as a Path to Growth",
+      "snippet": "Europe is divided over the road to recovery: is strict belt-tightening or an easing of monetary policy and some stimulus best? The tension in that question will be on full display in Washington this week.",
+      "abstract": "Europe is divided over the road to recovery: is strict belt-tightening or an easing of monetary policy and some stimulus best? The tension in that question will be on full display in Washington this week.",
+      "lead_paragraph": "WASHINGTON — In the last year, the International Monetary Fund has performed a major reassessment of how it thinks austerity harms a weak, financially troubled economy. But while warning of the perils of slow growth, it still often insists on austerity for just such economies.",
+      "publication_date": "2013-04-15T23:59:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/04/16/business/global/europe-split-over-austerity-as-a-path-to-growth.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Price of Gold Takes a Flashy Fall; Other Markets Follow",
+      "snippet": "Gold prices tumbled 9 percent on Monday, the sharpest drop in 30 years, as stocks and other commodities also felt the impact of a disappointing report on Chinese growth.",
+      "abstract": "Gold prices tumbled 9 percent on Monday, the sharpest drop in 30 years, as stocks and other commodities also felt the impact of a disappointing report on Chinese growth.",
+      "lead_paragraph": "9:02 p.m. | Updated ",
+      "publication_date": "2013-04-16T00:17:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/04/15/golds-plunge-shakes-confidence-in-a-haven/",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "U.S. Engaged in Torture After 9/11, Review Concludes",
+      "snippet": "A nonpartisan review concluded that the use of torture had “damaged the standing” of the United States and “potentially increased the danger to U.S. military personnel.”",
+      "abstract": "A nonpartisan review concluded that the use of torture had “damaged the standing” of the United States and “potentially increased the danger to U.S. military personnel.”",
+      "lead_paragraph": "WASHINGTON — A nonpartisan, independent review of interrogation and detention programs in the years after the Sept. 11, 2001, terrorist attacks concludes that “it is indisputable that the United States engaged in the practice of torture” and that the nation’s highest officials bore ultimate responsibility for it.",
+      "publication_date": "2013-04-16T06:31:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/16/world/us-practiced-torture-after-9-11-nonpartisan-review-concludes.html",
+      "byline": "By Scott Shane"
+    },
+    {
+      "headline": "An Unbowed Goldman Reports Profit Growth, but Caution Remains",
+      "snippet": "While its first-quarter earnings rose 5 percent from the period a year earlier, Goldman Sachs faces many market and regulatory challenges.",
+      "abstract": "While its first-quarter earnings rose 5 percent from the period a year earlier, Goldman Sachs faces many market and regulatory challenges.",
+      "lead_paragraph": "8:36 p.m. | Updated ",
+      "publication_date": "2013-04-16T11:49:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/04/16/goldman-sachss-first-quarter-profit-beats-estimates/",
+      "byline": "By Susanne Craig"
+    },
+    {
+      "headline": " Europe Vote Sets Back Carbon Plan",
+      "snippet": "Europe chose to put its recovery and concerns about the economy ahead of the environment in refusing to make a cap-and-trade system on carbon emissions more expensive for industry.",
+      "abstract": "Europe chose to put its recovery and concerns about the economy ahead of the environment in refusing to make a cap-and-trade system on carbon emissions more expensive for industry.",
+      "lead_paragraph": "LONDON — Europe, which led the world in creating a system of emission permits to combat greenhouse-gas emissions, dealt a potential death blow to that system on Tuesday.",
+      "publication_date": "2013-04-16T12:04:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/04/17/business/global/europe-rejects-carbon-plan.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Boston Bombs Were Loaded to Maim",
+      "snippet": "Officials said they were still at the start of an inquiry on the attack at the Boston Marathon that killed three people and hurt more than 170, using what were likely kitchen pressure cookers set up to shoot shrapnel.",
+      "abstract": "Officials said they were still at the start of an inquiry on the attack at the Boston Marathon that killed three people and hurt more than 170, using what were likely kitchen pressure cookers set up to shoot shrapnel.",
+      "lead_paragraph": "BOSTON — The explosives that killed three people and injured more than 170 during the Boston Marathon on Monday were most likely rudimentary devices made from ordinary kitchen pressure cookers, except they were rigged to shoot sharp bits of shrapnel into anyone within reach of their blast and maim them severely, law enforcement officials said Tuesday.",
+      "publication_date": "2013-04-16T12:19:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/17/us/officials-investigate-boston-explosions.html",
+      "byline": "By Katharine Q. Seelye, Eric Schmitt and Scott Shane"
+    }
+  ]
+}

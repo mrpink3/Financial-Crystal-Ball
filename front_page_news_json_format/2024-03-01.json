@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-03-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "As Hungry Gazans Crowd an Aid Convoy, a Crush of Bodies, Israeli Gunshots and a Deadly Toll",
+      "snippet": "Palestinian and Israeli officials offered differing accounts of a deadly scene in northern Gaza, in which local health officials said more than 100 people were killed.",
+      "abstract": "Palestinian and Israeli officials offered differing accounts of a deadly scene in northern Gaza, in which local health officials said more than 100 people were killed.",
+      "lead_paragraph": "Israeli forces opened fire on Thursday as a crowd gathered near a convoy of aid trucks in Gaza City in a chaotic scene in which scores were killed and injured, according to Gazan officials and the Israeli military, which attributed most of the deaths to a stampede.",
+      "publication_date": "2024-03-01T00:00:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/29/world/middleeast/israel-gaza-palestinian-death-toll.html",
+      "byline": "By Hiba Yazbek and Aaron Boxerman"
+    },
+    {
+      "headline": "Thousands Turn Out for Navalny’s Funeral in Moscow",
+      "snippet": "The police presence appeared heavy for the service. Some attendees shouted, “No to war” and “Russia will be free” as they marched to the cemetery where the opposition leader was to be buried.",
+      "abstract": "The police presence appeared heavy for the service. Some attendees shouted, “No to war” and “Russia will be free” as they marched to the cemetery where the opposition leader was to be buried.",
+      "lead_paragraph": "Thousands of people crowded a neighborhood on Moscow’s outskirts on Friday — some bearing flowers and chanting, “No to war!” — as they tried to catch a glimpse of the funeral for Aleksei A. Navalny. The outpouring turned the opposition leader’s last rites into a striking display of dissent in Russia at a time of deep repression.",
+      "publication_date": "2024-03-01T09:58:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/03/01/world/europe/aleksei-navalny-funeral-moscow-russia.html",
+      "byline": "By Valerie Hopkins"
+    },
+    {
+      "headline": "Developers Got Backing for Affordable Housing. Then the Neighborhood Found Out.",
+      "snippet": "The push from an affluent community in South Carolina to kill a plan for 60 subsidized apartments brought into public view how hard it is to give low-income families access to opportunity-rich neighborhoods.",
+      "abstract": "The push from an affluent community in South Carolina to kill a plan for 60 subsidized apartments brought into public view how hard it is to give low-income families access to opportunity-rich neighborhoods.",
+      "lead_paragraph": "When developers set out to build 60 subsidized apartments in an affluent corner of Florence, S.C., the chairman of the County Council waxed enthusiastic. Affordable housing “would serve a great need,” he wrote, and its proximity to services and jobs fit county planning goals. He pledged a small grant.",
+      "publication_date": "2024-03-01T10:02:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/03/01/us/politics/affordable-housing-florence-south-carolina.html",
+      "byline": "By Jason DeParle and Bobby Altman"
+    },
+    {
+      "headline": "Shrinkflation 101: The Economics of Smaller Groceries",
+      "snippet": "Have you noticed your grocery products shrinking? Here’s how that gets counted — and what gets missed — in inflation data.",
+      "abstract": "Have you noticed your grocery products shrinking? Here’s how that gets counted — and what gets missed — in inflation data.",
+      "lead_paragraph": "Grocery store shoppers are noticing something amiss. Air-filled bags of chips. Shrunken soup cans. Diminished detergent packages.",
+      "publication_date": "2024-03-01T10:02:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/03/01/business/economy/shrinkflation-groceries.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "How Germany’s Most Wanted Criminal Hid in Plain Sight",
+      "snippet": "Daniela Klette, a militant from the Red Army Faction, was on the run for decades. Yet with publicly available digital recognition tools, German police could probably have found her much sooner.",
+      "abstract": "Daniela Klette, a militant from the Red Army Faction, was on the run for decades. Yet with publicly available digital recognition tools, German police could probably have found her much sooner.",
+      "lead_paragraph": "It took authorities more than 30 years to hunt down one of Germany’s most wanted fugitives. For Michael Colborne, an investigative journalist running old photographs through a facial recognition service, it took about 30 minutes.",
+      "publication_date": "2024-03-01T11:56:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/03/01/world/europe/daniela-klette-red-army-faction.html",
+      "byline": "By Erika Solomon and Christopher F. Schuetze"
+    },
+    {
+      "headline": "Elon Musk Sues OpenAI and Sam Altman for Violating the Company’s Principles",
+      "snippet": "Musk said the prominent A.I. start-up had put profits and commercial interests ahead of seeking to benefit humanity.",
+      "abstract": "Musk said the prominent A.I. start-up had put profits and commercial interests ahead of seeking to benefit humanity.",
+      "lead_paragraph": "OpenAI, the influential artificial intelligence company that ousted and then reinstated its high-profile chief executive three months ago, faces a new drama: a lawsuit from Elon Musk, one of the richest men in the world and a co-founder of the A.I. lab.",
+      "publication_date": "2024-03-01T12:28:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/03/01/technology/elon-musk-openai-sam-altman-lawsuit.html",
+      "byline": "By Adam Satariano, Cade Metz and Tripp Mickle"
+    }
+  ]
+}

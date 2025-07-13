@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2013-12-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Weinsteins in Deal to Reunite With Miramax",
+      "snippet": "Bob and Harvey Weinstein, who founded Miramax but left in a split with its then-owner, Walt Disney, in 2005, will produce and distribute films and television shows based on the studio’s library.",
+      "abstract": "Bob and Harvey Weinstein, who founded Miramax but left in a split with its then-owner, Walt Disney, in 2005, will produce and distribute films and television shows based on the studio’s library.",
+      "lead_paragraph": "The Weinsteins and Miramax Films are together again. And that means movies like “Shakespeare in Love” and “Swingers” may get a second life.",
+      "publication_date": "2013-12-16T16:01:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/12/17/business/media/weinsteins-to-reunite-with-miramax.html",
+      "byline": "By Michael Cieply"
+    },
+    {
+      "headline": "Whole Foods Finds Success in Smaller Cities",
+      "snippet": "In a furious effort to expand, the chain is opening shop and looking for local suppliers in places like Boise, Idaho.",
+      "abstract": "In a furious effort to expand, the chain is opening shop and looking for local suppliers in places like Boise, Idaho.",
+      "lead_paragraph": "BOISE, Idaho — A local illustrator’s chalk portraits of workers hang inside the store, where the same artist’s murals decorate the wall behind the cheese case.",
+      "publication_date": "2013-12-16T19:29:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/12/17/business/whole-foods-finds-success-in-smaller-cities.html",
+      "byline": "By Stephanie Strom"
+    },
+    {
+      "headline": "Judge Questions Legality of N.S.A. Phone Records",
+      "snippet": "A federal judge ruled that keeping records of Americans’ phone calls probably violates the Constitution and ordered the government to stop collecting data on two plaintiffs.",
+      "abstract": "A federal judge ruled that keeping records of Americans’ phone calls probably violates the Constitution and ordered the government to stop collecting data on two plaintiffs.",
+      "lead_paragraph": "WASHINGTON — A federal district judge ruled on Monday that the National Security Agency program that is systematically keeping records of all Americans’ phone calls most likely violates the Constitution, describing its technology as “almost Orwellian” and suggesting that James Madison would be “aghast” to learn that the government was encroaching on liberty in such a way.",
+      "publication_date": "2013-12-16T20:26:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/12/17/us/politics/federal-judge-rules-against-nsa-phone-data-program.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Glaxo Says It Will Stop Paying Doctors to Promote Drugs",
+      "snippet": "The announcement, an apparent first for a major drug company, would end a common practice that is criticized for posing a conflict of interest.",
+      "abstract": "The announcement, an apparent first for a major drug company, would end a common practice that is criticized for posing a conflict of interest.",
+      "lead_paragraph": "The British drug maker GlaxoSmithKline will no longer pay doctors to promote its products and will stop tying compensation of sales representatives to the number of prescriptions doctors write, its chief executive said Monday, effectively ending two common industry practices that critics have long assailed as troublesome conflicts of interest.",
+      "publication_date": "2013-12-17T00:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/12/17/business/glaxo-says-it-will-stop-paying-doctors-to-promote-drugs.html",
+      "byline": "By Katie Thomas"
+    },
+    {
+      "headline": "S.E.C. Calls for Stiff Penalties Against Tourre",
+      "snippet": "Four months after being found liable for defrauding investors in a soured mortgage deal, the former Goldman Sachs trader faces $910,000 in fines.",
+      "abstract": "Four months after being found liable for defrauding investors in a soured mortgage deal, the former Goldman Sachs trader faces $910,000 in fines.",
+      "lead_paragraph": "Four months after being found liable for defrauding investors in a soured mortgage deal, Fabrice Tourre now faces a stiff financial penalty for his actions.",
+      "publication_date": "2013-12-17T01:27:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/12/16/s-e-c-seeks-910000-in-civil-penalties-against-tourre/",
+      "byline": "By Michael J. de la Merced"
+    },
+    {
+      "headline": "Big Bonuses, but a Shift in Who Gets the Biggest",
+      "snippet": "In a shift of rainmakers on Wall Street, asset and hedge fund managers are edging out bankers when it comes to the size of year-end bonuses.",
+      "abstract": "In a shift of rainmakers on Wall Street, asset and hedge fund managers are edging out bankers when it comes to the size of year-end bonuses.",
+      "lead_paragraph": "Wall Street’s senior executives have been holed up in conference rooms across Manhattan the last couple of weeks, locked in tense all-day sessions. The special project: dividing up this year’s spoils as bonus season approaches.",
+      "publication_date": "2013-12-17T01:52:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/12/16/big-bonuses-but-a-shift-in-who-gets-the-biggest/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Many Detect End of Line for Stimulus by the Fed",
+      "snippet": "Even officials who support the stimulus agree that the Federal Reserve should taper off on its bond buying and focus on stimulating the economy by other means. It’s just a matter of timing.",
+      "abstract": "Even officials who support the stimulus agree that the Federal Reserve should taper off on its bond buying and focus on stimulating the economy by other means. It’s just a matter of timing.",
+      "lead_paragraph": "WASHINGTON — The beginning of the end probably will not come on Wednesday, but it is coming soon. The Federal Reserve has made clear that its bond-buying campaign will not continue at the present pace for much longer.",
+      "publication_date": "2013-12-17T02:05:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/12/17/business/economy/many-detect-shift-by-fed-on-program-to-buy-bonds.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Obama’s Library, Advisers’ Dream",
+      "snippet": "President Obama’s loyalists are quietly jockeying over who will plan his post-presidential library, a plum task at the intersection of wealthy donors, perks and powerful networks.",
+      "abstract": "President Obama’s loyalists are quietly jockeying over who will plan his post-presidential library, a plum task at the intersection of wealthy donors, perks and powerful networks.",
+      "lead_paragraph": "WASHINGTON — This spring, a longtime staff member for President Obama, Alyssa Mastromonaco, let a friend in on a secret. Mr. Obama had assigned her to begin planning his post-presidential library and foundation.",
+      "publication_date": "2013-12-17T02:54:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/12/17/us/politics/obamas-library-advisers-dream.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "A Political Deal in a Deeply Divided Tunisia as Islamists Agree to Yield Power",
+      "snippet": "The deal between longtime enemies among the Islamists and the secular old guard aims to put in place an independent caretaker government until new elections next year.",
+      "abstract": "The deal between longtime enemies among the Islamists and the secular old guard aims to put in place an independent caretaker government until new elections next year.",
+      "lead_paragraph": "TUNIS — Compromise has been in short supply since Tunisia sparked the Arab Spring nearly three years ago. But this small North African nation has once again broken new ground with a political deal between longtime enemies among the Islamists and the secular old guard.",
+      "publication_date": "2013-12-17T04:04:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/12/17/world/africa/a-political-deal-in-a-deeply-divided-tunisia-as-islamists-agree-to-yield-power.html",
+      "byline": "By Carlotta Gall"
+    },
+    {
+      "headline": "No-Frills Car With Romanian Lineage Is Hottest in Europe",
+      "snippet": "The latest European auto data show that sales for Dacia, Renault’s low-cost brand, are up 21 percent this year, higher than any other.",
+      "abstract": "The latest European auto data show that sales for Dacia, Renault’s low-cost brand, are up 21 percent this year, higher than any other.",
+      "lead_paragraph": "PARIS — The hottest car in Europe this year was not a BMW, a Benz or a Bentley. It was Renault’s low-cost brand, Dacia, out of Romania.",
+      "publication_date": "2013-12-17T09:48:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/12/18/business/international/europes-hottest-car-the-no-frills-dacia.html",
+      "byline": "By David Jolly"
+    }
+  ]
+}

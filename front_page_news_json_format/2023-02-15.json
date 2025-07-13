@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-02-15",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Earthquakes Destroy. People Rebuild.",
+      "snippet": "Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.",
+      "abstract": "Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.",
+      "lead_paragraph": "She wanted to retrieve her medicine, and if memory serves all these years later, also a hairbrush and a photograph from her apartment.",
+      "publication_date": "2023-02-14T16:41:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/14/world/turkey-earthquake-rebuild.html",
+      "byline": "By Michael Kimmelman"
+    },
+    {
+      "headline": "European Union to Ban Gas-Powered Cars by 2035",
+      "snippet": "The law is part of the E.U.’s ambitious plans to make the 27-member bloc carbon neutral by 2050.",
+      "abstract": "The law is part of the E.U.’s ambitious plans to make the 27-member bloc carbon neutral by 2050.",
+      "lead_paragraph": "Lawmakers for the European Union put an expiration date on the sale of new cars with combustion engines, approving legislation on Tuesday that in effect bans vehicles powered with diesel or gasoline from automobile showrooms beginning in 2035.",
+      "publication_date": "2023-02-14T19:29:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/14/world/europe/eu-gas-powered-cars-ban.html",
+      "byline": "By Melissa Eddy"
+    },
+    {
+      "headline": "As Taliban Settle In, Kabul’s Green Zone Comes Back to Life",
+      "snippet": "Walking down its streets a year ago was like wandering into the modern ruins of another empire come and gone from Afghanistan. Now, the Taliban have adopted the former diplomatic enclave as their own.",
+      "abstract": "Walking down its streets a year ago was like wandering into the modern ruins of another empire come and gone from Afghanistan. Now, the Taliban have adopted the former diplomatic enclave as their own.",
+      "lead_paragraph": "Scattered across a neighborhood in central Kabul are the ruins of another empire come and gone from Afghanistan.",
+      "publication_date": "2023-02-15T05:01:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/15/world/asia/kabul-afghanistan-greenzone-taliban.html",
+      "byline": "By Christina Goldbaum"
+    },
+    {
+      "headline": "As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast",
+      "snippet": "New budget projections show that the program’s spending is outpacing tax revenues as an aging population claims benefits.",
+      "abstract": "New budget projections show that the program’s spending is outpacing tax revenues as an aging population claims benefits.",
+      "lead_paragraph": "WASHINGTON — President Biden scored an early political point this month in his fight with congressional Republicans over taxes, spending and raising the federal debt limit: He forced Republican leaders to profess, repeatedly, that they will not seek cuts to Social Security and Medicare.",
+      "publication_date": "2023-02-15T10:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/15/us/politics/social-security-costs-biden-republicans.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "FTX Negotiates for Return of $400 Million From Obscure Hedge Fund",
+      "snippet": "The founders of the trading firm Modulo Capital are in talks with FTX about returning the investment that Sam Bankman-Fried made in the fund.",
+      "abstract": "The founders of the trading firm Modulo Capital are in talks with FTX about returning the investment that Sam Bankman-Fried made in the fund.",
+      "lead_paragraph": "After the cryptocurrency exchange FTX collapsed last year, bankruptcy lawyers, federal prosecutors and forensic investigators embarked on a global hunt to recover billions of dollars in lost deposits and repay the firm’s customers.",
+      "publication_date": "2023-02-15T10:00:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/15/technology/ftx-modulo-capital.html",
+      "byline": "By Matthew Goldstein and David Yaffe-Bellany"
+    },
+    {
+      "headline": "Carmakers Are Pushing Autonomous Tech. This Engineer Wants Limits.",
+      "snippet": "Missy Cummings, who spent more than a year at the federal auto safety agency, said that drivers were putting too much trust in systems like Tesla’s Autopilot and that regulators needed to restrict their use.",
+      "abstract": "Missy Cummings, who spent more than a year at the federal auto safety agency, said that drivers were putting too much trust in systems like Tesla’s Autopilot and that regulators needed to restrict their use.",
+      "lead_paragraph": "Last fall, Missy Cummings sent a document to her colleagues at the National Highway Traffic Safety Administration that revealed a surprising trend: When people using advanced driver-assistance systems die or are injured in a car crash, they are more likely to have been speeding than people driving cars on their own.",
+      "publication_date": "2023-02-15T10:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/15/business/missy-cummings-tesla-autopilot.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Retail Sales Surge as Prices Rise and Shoppers Keep Buying",
+      "snippet": "Consumer spending jumped in January, which was good news for retailers but could weigh on the Federal Reserve’s efforts to tame rapid inflation.",
+      "abstract": "Consumer spending jumped in January, which was good news for retailers but could weigh on the Federal Reserve’s efforts to tame rapid inflation.",
+      "lead_paragraph": "Retail sales surged in January, a sign of the resiliency of consumers as prices continued rising at a rapid pace. It was also good news for companies but a potential worry for the Federal Reserve as it tries to slow the economy to rein in inflation.",
+      "publication_date": "2023-02-15T14:03:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/15/business/retail-sales-january-inflation.html",
+      "byline": "By Jordyn Holman and Jeanna Smialek"
+    }
+  ]
+}

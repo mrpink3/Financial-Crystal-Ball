@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-03-11",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Beth Moore, a Prominent Evangelical, Splits With Southern Baptists",
+      "snippet": "A teacher on biblical topics, she cited the “staggering” disorientation of seeing denominational leaders support Donald J. Trump, among other issues.",
+      "abstract": "A teacher on biblical topics, she cited the “staggering” disorientation of seeing denominational leaders support Donald J. Trump, among other issues.",
+      "lead_paragraph": "From the outside, the marriage of convenience between white conservative Christians and Donald J. Trump looked like a devoted one: White evangelicals voted for Mr. Trump overwhelmingly in 2016 and stuck with him in 2020, brushing aside perpetual lies and sexual impropriety to support a man they saw as their protector.",
+      "publication_date": "2021-03-10T17:58:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/10/us/beth-moore-southern-baptists.html",
+      "byline": "By Ruth Graham and Elizabeth Dias"
+    },
+    {
+      "headline": "Roblox Tops $45 Billion on First Day of Trading as Gaming Booms",
+      "snippet": "The gaming site, valued at $4 billion a year ago, has benefited from the way children are passing their time in the pandemic.",
+      "abstract": "The gaming site, valued at $4 billion a year ago, has benefited from the way children are passing their time in the pandemic.",
+      "lead_paragraph": "When the pandemic forced people indoors a year ago, many passed the time by playing games on their iPhones, building gaming computers and exploring the latest blockbuster titles on their Xbox and PlayStation consoles.",
+      "publication_date": "2021-03-10T18:39:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/10/technology/roblox-stock-price.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "Paper Source’s Bankruptcy Leaves Female Cardmakers Feeling Burned",
+      "snippet": "The chain’s vendors, most of them small-business owners, say they are worried they won’t be paid for orders delivered in the weeks just before the filing.",
+      "abstract": "The chain’s vendors, most of them small-business owners, say they are worried they won’t be paid for orders delivered in the weeks just before the filing.",
+      "lead_paragraph": "“Hell hath no fury like a stationer scorned.”",
+      "publication_date": "2021-03-10T22:05:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/10/business/paper-source-bankruptcy.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Congress Clears $1.9 Trillion Aid Bill, Sending It to Biden",
+      "snippet": "The sweeping legislation had no support from Republican lawmakers, who called it bloated and unaffordable. It will deliver emergency aid and broader assistance to low- and middle-income Americans.",
+      "abstract": "The sweeping legislation had no support from Republican lawmakers, who called it bloated and unaffordable. It will deliver emergency aid and broader assistance to low- and middle-income Americans.",
+      "lead_paragraph": "WASHINGTON — Congress gave final approval on Wednesday to President Biden’s sweeping, nearly $1.9 trillion stimulus package, as Democrats acted over unified Republican opposition to push through an emergency pandemic aid plan that carries out a vast expansion of the country’s social safety net.",
+      "publication_date": "2021-03-10T23:59:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/10/us/politics/covid-stimulus-bill.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "With Relief Plan, Biden Takes on a New Role: Crusader for the Poor",
+      "snippet": "President Biden’s new role as a crusader for Americans in poverty is an evolution for a politician who has focused on the working class and his Senate work on the judiciary and foreign relations.",
+      "abstract": "President Biden’s new role as a crusader for Americans in poverty is an evolution for a politician who has focused on the working class and his Senate work on the judiciary and foreign relations.",
+      "lead_paragraph": "WASHINGTON — Days before his inauguration, President-elect Biden was eying a $1.3 trillion rescue plan aimed squarely at the middle class he has always championed, but pared down to attract some Republican support.",
+      "publication_date": "2021-03-11T08:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/11/us/politics/biden-stimulus.html",
+      "byline": "By Michael D. Shear, Carl Hulse and Jonathan Martin"
+    },
+    {
+      "headline": "Companies That Rode Pandemic Boom Get a Reality Check",
+      "snippet": "Investors, who flocked to companies like Zoom as the virus spread, have started to look elsewhere.",
+      "abstract": "Investors, who flocked to companies like Zoom as the virus spread, have started to look elsewhere.",
+      "lead_paragraph": "While the pandemic battered the economy, tech companies and consumer companies powered by digital technology stood out as islands of growth.",
+      "publication_date": "2021-03-11T10:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/11/technology/pandemic-boom-stocks.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Why $4-a-Gallon Gas May Be Coming Your Way This Summer",
+      "snippet": "The oil industry, known for boom-bust cycles, is resisting the temptation to pump more oil — for now.",
+      "abstract": "The oil industry, known for boom-bust cycles, is resisting the temptation to pump more oil — for now.",
+      "lead_paragraph": "HOUSTON — Even as oil and gasoline prices rise, industry executives are resisting their usual impulse to pump more oil out of the ground, which could keep energy prices moving up as the economy recovers.",
+      "publication_date": "2021-03-11T10:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/11/business/energy-environment/oil-prices-opec-shale.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Seattle’s Virus Success Shows What Could Have Been",
+      "snippet": "The Seattle area once had more coronavirus deaths than anywhere else in the United States. A year later, the region’s deaths per capita are lower than any other large metropolitan area.",
+      "abstract": "The Seattle area once had more coronavirus deaths than anywhere else in the United States. A year later, the region’s deaths per capita are lower than any other large metropolitan area.",
+      "lead_paragraph": "SEATTLE — Facing the nation’s first widespread coronavirus outbreak, some of Washington State’s top leaders quietly gathered on a Sunday morning last March for an urgent strategy session.",
+      "publication_date": "2021-03-11T10:00:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/11/us/coronavirus-seattle-success.html",
+      "byline": "By Mike Baker"
+    },
+    {
+      "headline": "South Korea’s Answer to Amazon Debuts on Wall Street",
+      "snippet": "Coupang, a start-up founded by a Harvard Business School dropout, helped transform e-commerce in South Korea, one of the world’s fastest-growing markets for online shopping.",
+      "abstract": "Coupang, a start-up founded by a Harvard Business School dropout, helped transform e-commerce in South Korea, one of the world’s fastest-growing markets for online shopping.",
+      "lead_paragraph": "SEOUL, South Korea — The small white delivery trucks zip down streets all over South Korea. The uniformed workers send photos of safely delivered packages to impatient customers. Workers can move so fast, their employer promises, that it calls the service “rocket delivery.”",
+      "publication_date": "2021-03-11T10:38:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/11/business/korea-coupang-ipo.html",
+      "byline": "By Choe Sang-Hun and Lauren Hirsch"
+    },
+    {
+      "headline": "China’s Jaded Techies Find a Hero in Elon Musk",
+      "snippet": "The Tesla boss and digital prankster is striking a chord, at a time of disillusionment with the tech industry and its leading tycoons.",
+      "abstract": "The Tesla boss and digital prankster is striking a chord, at a time of disillusionment with the tech industry and its leading tycoons.",
+      "lead_paragraph": "China is having its techlash moment.",
+      "publication_date": "2021-03-11T15:29:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/11/technology/china-elon-musk-fans.html",
+      "byline": "By Raymond Zhong"
+    }
+  ]
+}

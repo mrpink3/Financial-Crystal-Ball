@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2024-09-18",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Secret Service Told Trump It Needs to Bolster Security if He Keeps Golfing",
+      "snippet": "The agency’s acting director, Ronald L. Rowe Jr., met with Donald J. Trump on Monday in the aftermath of the apparent assassination attempt on Sunday.",
+      "abstract": "The agency’s acting director, Ronald L. Rowe Jr., met with Donald J. Trump on Monday in the aftermath of the apparent assassination attempt on Sunday.",
+      "lead_paragraph": "The acting director of the Secret Service told former President Donald J. Trump that significant additional security arrangements and planning would be needed if he wanted to continue safely playing golf, according to three people with knowledge of their conversation.",
+      "publication_date": "2024-09-17T18:17:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/17/us/politics/trump-secret-service-golf.html",
+      "byline": "By Jonathan Swan, Maggie Haberman and Kate Kelly"
+    },
+    {
+      "headline": "For Presidents, Golf Is a Refuge. For the Secret Service, It Can Be a Headache.",
+      "snippet": "Sitting and former presidents must be mindful of when and where they play. Ronald Reagan largely gave up the game after a man took hostages while he was at Augusta.",
+      "abstract": "Sitting and former presidents must be mindful of when and where they play. Ronald Reagan largely gave up the game after a man took hostages while he was at Augusta.",
+      "lead_paragraph": "Ronald Reagan had gone to Augusta National Golf Club in 1983 for a break: He would stay in a cottage formerly favored by Dwight D. Eisenhower and play the course renowned as the home of the Masters Tournament.",
+      "publication_date": "2024-09-17T21:07:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/17/us/politics/trump-ronald-reagan-golf-secret-service.html",
+      "byline": "By Alan Blinder"
+    },
+    {
+      "headline": "Exploding Pagers Targeting Hezbollah Kill 11 and Wound Thousands",
+      "snippet": "The Iranian-backed militant group, which uses pagers to safeguard communications, blamed Israel for the attacks in Lebanon. Israel declined to comment.",
+      "abstract": "The Iranian-backed militant group, which uses pagers to safeguard communications, blamed Israel for the attacks in Lebanon. Israel declined to comment.",
+      "lead_paragraph": "Hundreds of pagers carried by Hezbollah members exploded simultaneously across Lebanon on Tuesday, a day after Israeli officials said they were ready to step up attacks against the Iranian-backed militia.",
+      "publication_date": "2024-09-17T22:43:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/17/world/middleeast/hezbollah-pager-explosions-lebanon.html",
+      "byline": "By Patrick Kingsley, Euan Ward, Ronen Bergman and Michael Levenson"
+    },
+    {
+      "headline": "An Irish Bishop Was Buried in a Cathedral Vault. His Secrets Were Not.",
+      "snippet": "The funeral of Bishop Eamonn Casey in 2017 seemed to draw a line under his scandalous affair years before. But this summer, disturbing new allegations emerged.",
+      "abstract": "The funeral of Bishop Eamonn Casey in 2017 seemed to draw a line under his scandalous affair years before. But this summer, disturbing new allegations emerged.",
+      "lead_paragraph": "The funeral Mass for Eamonn Casey seemed to befit one of the best-known Catholic bishops in all of Ireland. The pageantry on that cool March day in 2017 included 11 bishops and five dozen priests, all in white, gliding as if airborne up the center aisle of the pew-packed cathedral in Galway.",
+      "publication_date": "2024-09-18T09:04:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/18/world/europe/ireland-bishop-eamonn-casey.html",
+      "byline": "By Dan Barry"
+    },
+    {
+      "headline": "The Fed Makes a Large Rate Cut and Forecasts More to Come",
+      "snippet": "Fed officials kicked off rate cuts with a half-point reduction, confident that inflation is cooling and eager to keep the job market strong.",
+      "abstract": "Fed officials kicked off rate cuts with a half-point reduction, confident that inflation is cooling and eager to keep the job market strong.",
+      "lead_paragraph": "The Federal Reserve cut interest rates on Wednesday by half a percentage point, an unusually large move and a clear signal that central bankers think they are winning their war against inflation and are turning their attention to protecting the job market.",
+      "publication_date": "2024-09-18T09:04:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/18/business/economy/fed-reserve-interest-rate-cut.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Foldables Are Becoming Good Enough to Be Your Next Smartphone",
+      "snippet": "New devices from Motorola and Google prove that phones with bendable screens keep getting better — and some are even becoming cheaper.",
+      "abstract": "New devices from Motorola and Google prove that phones with bendable screens keep getting better — and some are even becoming cheaper.",
+      "lead_paragraph": "Let’s be real. The rectangular design of the quintessential smartphone is getting stale for lots of people, including this graying gadget reviewer. That’s why the next phone I buy won’t be another “same, same” iteration of the iPhone. It will be a foldable, a phone with a bendable display that flips open like a book to increase its screen size and closes up to fit in my pocket.",
+      "publication_date": "2024-09-18T09:05:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/18/technology/personaltech/foldable-smartphones.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Waves of Small Explosions Cause Chaos Inside Hezbollah",
+      "snippet": "Two series of coordinated attacks targeting the group’s wireless devices caused thousands of injuries, piercing the group’s rank and file and raising questions about how it will respond.",
+      "abstract": "Two series of coordinated attacks targeting the group’s wireless devices caused thousands of injuries, piercing the group’s rank and file and raising questions about how it will respond.",
+      "lead_paragraph": "First, hundreds of pagers blew up, killing and injuring members of Lebanon’s most effective military organization and filling the country’s hospitals with wounded patients.",
+      "publication_date": "2024-09-18T10:27:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-pager-lebanon.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "California Mountain Towns Are Too Risky for Insurers, but Residents Want to Stay",
+      "snippet": "In the San Bernardino Mountains, another wildfire has forced residents to flee, the latest reminder that they must accept the risks of climate change if they want to remain.",
+      "abstract": "In the San Bernardino Mountains, another wildfire has forced residents to flee, the latest reminder that they must accept the risks of climate change if they want to remain.",
+      "lead_paragraph": "The snow-blanketed peaks, fishing holes and cool alpine air of the San Bernardino Mountains have beckoned Southern Californians for generations. As far back as the 1880s, travelers braved a 6,000-foot climb in horse-drawn carriages to reach the pine forests that now surround the resort towns of Lake Arrowhead and Big Bear.",
+      "publication_date": "2024-09-18T13:00:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/18/us/san-bernardino-wildfire-risk.html",
+      "byline": "By Soumya Karlamangla"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2016-01-22",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Donald Trump or Ted Cruz? Republicans Argue Over Who Is Greater Threat",
+      "snippet": "Conservative intellectuals fear Mr. Trump will spell the end of conservatism, while the cadre in Washington fears Mr. Cruz will build a new party machine and bypass them.",
+      "abstract": "Conservative intellectuals fear Mr. Trump will spell the end of conservatism, while the cadre in Washington fears Mr. Cruz will build a new party machine and bypass them.",
+      "lead_paragraph": "WASHINGTON — With Donald J. Trump and Senator Ted Cruz battling for the Republican nomination, two powerful factions of their party are now clashing over the question: Which man is more dangerous?",
+      "publication_date": "2016-01-21T16:30:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/22/us/politics/donald-trump-ted-cruz-republican-establishment.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Dov Charney Argues in Court for His Return to American Apparel",
+      "snippet": "Mr. Charney, who was fired from American Apparel in 2014, said that the board conspired to wrest control from him and that his alliance with investors was the only way to save the company.",
+      "abstract": "Mr. Charney, who was fired from American Apparel in 2014, said that the board conspired to wrest control from him and that his alliance with investors was the only way to save the company.",
+      "lead_paragraph": "Dov Charney, the colorful ousted founder of American Apparel, made a last-ditch effort to wrest back control of the company on Thursday, accusing former partners of stealing away his multimillion-dollar empire and declaring that his new alliance with investors was the only way to save it.",
+      "publication_date": "2016-01-21T18:10:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/22/business/dov-charney-argues-in-court-for-a-return-to-american-apparel.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "Zika Virus May be Linked to Surge in Rare Syndrome in Brazil",
+      "snippet": "Brazilian officials said that Zika, a virus linked to brain damage in infants, may be causing an increase in the number of cases of Guillain-Barré, an autoimmune condition.",
+      "abstract": "Brazilian officials said that Zika, a virus linked to brain damage in infants, may be causing an increase in the number of cases of Guillain-Barré, an autoimmune condition.",
+      "lead_paragraph": "RIO DE JANEIRO — A mosquito-borne virus that has been linked to severe brain damage in infants may be causing another serious health crisis as well, Brazilian officials and doctors warn: hundreds of cases of a rare syndrome in which patients can be almost completely paralyzed for weeks.",
+      "publication_date": "2016-01-21T19:37:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/22/world/americas/zika-virus-may-be-linked-to-surge-in-rare-syndrome-in-brazil.html",
+      "byline": "By Simon Romero and Donald G. McNeil Jr"
+    },
+    {
+      "headline": "This Time, Cheaper Oil Does Little for the U.S. Economy",
+      "snippet": "Oil’s downturn may not have helped the economy because more oil is being produced domestically, and consumers may not be spending their windfalls.",
+      "abstract": "Oil’s downturn may not have helped the economy because more oil is being produced domestically, and consumers may not be spending their windfalls.",
+      "lead_paragraph": "WASHINGTON — It has been a truism of the American economy for decades: When oil prices rise, the economy suffers; when they fall, growth improves.",
+      "publication_date": "2016-01-21T21:08:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/22/business/energy-environment/this-time-cheaper-oil-does-little-for-the-us-economy.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Freeport-McMoRan Battles the Oil Slump",
+      "snippet": "Once an aggressive bidder for trophy assets, the company now finds itself in the position of a desperate seller as the price of oil and other commodities falters.",
+      "abstract": "Once an aggressive bidder for trophy assets, the company now finds itself in the position of a desperate seller as the price of oil and other commodities falters.",
+      "lead_paragraph": "For a look at the damage that the plunging price of commodities — especially oil — is inflicting on the global economy, consider the plight of the venerable Freeport-McMoRan.",
+      "publication_date": "2016-01-21T21:28:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/22/business/energy-environment/freeport-mcmoran-battles-the-oil-slump.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Cable Acquisitions by Charter Communications Face Rising Opposition",
+      "snippet": "If approved, the deals are likely to include provisions meant to prevent Charter from using its market power to hurt rival streaming services.",
+      "abstract": "If approved, the deals are likely to include provisions meant to prevent Charter from using its market power to hurt rival streaming services.",
+      "lead_paragraph": "Comcast’s failed $45 billion merger with Time Warner Cable collapsed last year under pressure from regulators, who found that the combined company would have had both the power and incentive to inhibit the future of streaming video.",
+      "publication_date": "2016-01-22T01:38:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/22/business/big-merger-in-cable-faces-rising-opposition.html",
+      "byline": "By Emily Steel and Cecilia Kang"
+    },
+    {
+      "headline": "A Question of Environmental Racism in Flint ",
+      "snippet": "Civil rights advocates say that the Michigan city’s health crisis smacks of the kind of discrimination that causes the disproportionate exposure of blacks to polluted air, water and soil.",
+      "abstract": "Civil rights advocates say that the Michigan city’s health crisis smacks of the kind of discrimination that causes the disproportionate exposure of blacks to polluted air, water and soil.",
+      "lead_paragraph": "If Flint were rich and mostly white, would Michigan’s state government have responded more quickly and aggressively to complaints about its lead-polluted water? ",
+      "publication_date": "2016-01-22T02:27:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/22/us/a-question-of-environmental-racism-in-flint.html",
+      "byline": "By John Eligon"
+    },
+    {
+      "headline": "Older Drivers Hit the Road for Uber and Lyft",
+      "snippet": "Seniors are turning to ride-sharing services for the extra income and flexibility they provide, but there are concerns about possible exploitation.",
+      "abstract": "Seniors are turning to ride-sharing services for the extra income and flexibility they provide, but there are concerns about possible exploitation.",
+      "lead_paragraph": "When Carol Sue Johnson, 73, wheels her silver Mazda S.U.V. out of her driveway in suburban Minneapolis, she doesn’t know how much money she will make driving for the ride-hailing service Uber, but she’s sure she will have an adventure.",
+      "publication_date": "2016-01-22T10:00:22+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/23/your-money/older-drivers-hit-the-road-for-uber-and-lyft.html",
+      "byline": "By Elizabeth Olson"
+    },
+    {
+      "headline": "Dire Warnings Along East Coast as Snow Piles Up",
+      "snippet": "Millions of people along the East Coast braced for travel disruptions and possible power losses. In some areas, as much as two feet of snow may fall.",
+      "abstract": "Millions of people along the East Coast braced for travel disruptions and possible power losses. In some areas, as much as two feet of snow may fall.",
+      "lead_paragraph": "WASHINGTON — A massive winter storm that threatens to dump two feet of snow on the nation’s capital began pummeling the East Coast on Friday afternoon, as millions of people from the Carolinas to New York braced for a weekend of severe winds, power losses and coastal flooding. Thousands of flights were canceled; governors and mayors warned people to stay indoors and off the roads.",
+      "publication_date": "2016-01-22T14:02:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/23/us/blizzard-east-coast.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "How Larry Page’s Obsessions Became Google’s Business",
+      "snippet": "Mr. Page is hardly the first Silicon Valley chief with a case of intellectual wanderlust, but to a rare degree he has made his company a reflection of his personal fascinations.",
+      "abstract": "Mr. Page is hardly the first Silicon Valley chief with a case of intellectual wanderlust, but to a rare degree he has made his company a reflection of his personal fascinations.",
+      "lead_paragraph": "Three years ago, Charles Chase, an engineer who manages Lockheed Martin’s nuclear fusion program, was sitting on a white leather couch at Google’s Solve for X conference when a man he had never met knelt down to talk to him.",
+      "publication_date": "2016-01-22T14:59:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2016/01/24/technology/larry-page-google-founder-is-still-innovator-in-chief.html",
+      "byline": "By Conor Dougherty"
+    }
+  ]
+}

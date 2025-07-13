@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-03-13",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Mueller Report Has Washington Spinning (and It’s Not Even Filed)",
+      "snippet": "Like a becalmed ship in the dead air before a coming storm, the nation’s capital is waiting, and waiting, for the special counsel’s report.",
+      "abstract": "Like a becalmed ship in the dead air before a coming storm, the nation’s capital is waiting, and waiting, for the special counsel’s report.",
+      "lead_paragraph": "WASHINGTON — Television crews have been positioned outside the offices of the special counsel, the federal courthouse and, at least before they were asked to leave, the McLean, Va., home of the new attorney general, William P. Barr.",
+      "publication_date": "2019-03-12T19:42:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/12/us/politics/mueller-report-trump-democrats.html",
+      "byline": "By Nicholas Fandos and Noah Weiland"
+    },
+    {
+      "headline": "Theresa May Finds Herself Without a Voice, or a Friend",
+      "snippet": "Speaking in a raspy, croaking voice, the British prime minister angrily told lawmakers they would now need to make the hard choices.",
+      "abstract": "Speaking in a raspy, croaking voice, the British prime minister angrily told lawmakers they would now need to make the hard choices.",
+      "lead_paragraph": "LONDON — If you watched Theresa May closely in Parliament on Tuesday, hours before a critical vote on her Brexit plan, there were signs that she knew her deal was close to extinction.",
+      "publication_date": "2019-03-12T21:44:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/12/world/europe/theresa-may-defiant.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "U.S. Under Pressure to Cease Flights of Troubled Boeing Jet",
+      "snippet": "Boeing’s chief made a personal appeal to President Trump, calling from Chicago to express his confidence in the safety of the company’s 737 Max 8 jets.",
+      "abstract": "Boeing’s chief made a personal appeal to President Trump, calling from Chicago to express his confidence in the safety of the company’s 737 Max 8 jets.",
+      "lead_paragraph": "[Update: The United States has now grounded Boeing’s 737 Max aircraft, reversing an earlier decision.]",
+      "publication_date": "2019-03-12T23:43:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/12/business/boeing-flights-grounded.html",
+      "byline": "By David Gelles, Thomas Kaplan, Kenneth P. Vogel and Natalie Kitroeff"
+    },
+    {
+      "headline": "British Panel Calls for Stricter Antitrust Rules on Tech Giants",
+      "snippet": "Big Tech is reducing consumer choice and harming innovation, according to a report ordered by the country’s top economic official.",
+      "abstract": "Big Tech is reducing consumer choice and harming innovation, according to a report ordered by the country’s top economic official.",
+      "lead_paragraph": "LONDON — The expanding power of technology companies has become a talking point in the United States presidential race, a subject of debate in India and a top focus of regulators in the European Union. Now, Britain is adding its voice to the worldwide backlash.",
+      "publication_date": "2019-03-13T00:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/12/business/britain-antitrust-big-tech.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "‘We Know Them. We Trust Them.’ Uber and Airbnb Alumni Fuel Tech’s Next Wave.",
+      "snippet": "As some of Silicon Valley’s most prominent start-ups prepare to go public, networks of their former employees are expected to plow big sums of money into a new generation of firms.",
+      "abstract": "As some of Silicon Valley’s most prominent start-ups prepare to go public, networks of their former employees are expected to plow big sums of money into a new generation of firms.",
+      "lead_paragraph": "SAN FRANCISCO — Riley Newman, a former head of data science at Airbnb, set out in mid-2017 to raise a venture capital fund that would invest in a multitude of tech trends.",
+      "publication_date": "2019-03-13T09:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/13/technology/silicon-valley-network-mafias.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Paul Manafort’s Prison Sentence Is Nearly Doubled to 7½ Years",
+      "snippet": "President Trump’s former campaign chairman’s total prison sentence is now 7½ years after a second judge ruled in one of the special counsel’s highest-profile cases.",
+      "abstract": "President Trump’s former campaign chairman’s total prison sentence is now 7½ years after a second judge ruled in one of the special counsel’s highest-profile cases.",
+      "lead_paragraph": "WASHINGTON — A federal judge on Wednesday nearly doubled the prison sentence of President Trump’s former campaign chairman, Paul Manafort, to seven and a half years, denouncing him as a man who “spent a significant portion of his career gaming the system.”",
+      "publication_date": "2019-03-13T11:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/13/us/politics/paul-manafort-sentencing.html",
+      "byline": "By Sharon LaFraniere"
+    },
+    {
+      "headline": "Spotify Accuses Apple of Anticompetitive Practices in Europe",
+      "snippet": "The music streaming service said Apple used its App Store to undercut companies that compete with its own services, like Apple Music.",
+      "abstract": "The music streaming service said Apple used its App Store to undercut companies that compete with its own services, like Apple Music.",
+      "lead_paragraph": "LONDON — Apple’s powerful role as gatekeeper of the App Store has long frustrated the makers of apps who must abide by its rules or risk losing access to hundreds of millions of customers who own Apple devices.",
+      "publication_date": "2019-03-13T13:19:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/13/business/spotify-apple-complaint.html",
+      "byline": "By Adam Satariano and Jack Nicas"
+    }
+  ]
+}

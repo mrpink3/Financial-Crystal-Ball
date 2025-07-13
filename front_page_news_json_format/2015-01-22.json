@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-01-22",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "At Windows 10 Event, Microsoft Jumps Into Augmented Reality With HoloLens Headset",
+      "snippet": "The HoloLens could help renew some of the luster Microsoft has lost in the last decade, when it reacted late to critical new technology trends.",
+      "abstract": "The HoloLens could help renew some of the luster Microsoft has lost in the last decade, when it reacted late to critical new technology trends.",
+      "lead_paragraph": "REDMOND, Wash. — Microsoft wants back in the game, and it is using a little science fiction to get there.",
+      "publication_date": "2015-01-21T18:13:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/01/22/technology/microsoft-to-give-away-windows-10-in-move-to-woo-software-developers.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "Marissa Mayer’s Plan for Yahoo Takes Hold. The Question Now Is Time.",
+      "snippet": "Marissa Mayer has made sharp acquisitions and rebuilt crucial products, but her future may depend on reaction to her plans for the Alibaba investment.",
+      "abstract": "Marissa Mayer has made sharp acquisitions and rebuilt crucial products, but her future may depend on reaction to her plans for the Alibaba investment.",
+      "lead_paragraph": "When Marissa Mayer was offered the chief executive job at Yahoo in the summer of 2012, she had a script for returning the pioneering Internet company to the tiny club of Silicon Valley powerhouses.",
+      "publication_date": "2015-01-21T20:38:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/01/22/technology/personaltech/marissa-mayers-plan-for-yahoo-takes-hold-the-question-now-is-time.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "U.S. Not Expected to Fault Officer in Ferguson Case",
+      "snippet": "Authorities have found no evidence to support charges against Darren Wilson, a former police officer in Ferguson, Mo., in the shooting death of Michael Brown, officials said.",
+      "abstract": "Authorities have found no evidence to support charges against Darren Wilson, a former police officer in Ferguson, Mo., in the shooting death of Michael Brown, officials said.",
+      "lead_paragraph": "WASHINGTON — Justice Department lawyers will recommend that no civil rights charges be brought against the police officer who fatally shot an unarmed teenager in Ferguson, Mo., after an F.B.I. investigation found no evidence to support charges, law enforcement officials said Wednesday.",
+      "publication_date": "2015-01-21T20:45:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/01/22/us/justice-department-ferguson-civil-rights-darren-wilson.html",
+      "byline": "By Matt Apuzzo and Michael S. Schmidt"
+    },
+    {
+      "headline": "Russia Presses Ahead With Plan for Gas Pipeline to Turkey",
+      "snippet": "In the face of European Union opposition to the South Stream pipeline project, Gazprom is moving to an alternate route.",
+      "abstract": "In the face of European Union opposition to the South Stream pipeline project, Gazprom is moving to an alternate route.",
+      "lead_paragraph": "LONDON — President Vladimir V. Putin surprised the world in December when he aborted long-laid plans for a natural gas pipeline under the Black Sea to Europe, saying Russia would run pipes to Turkey instead.",
+      "publication_date": "2015-01-21T21:48:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/01/22/business/international/russia-presses-ahead-with-plan-for-gas-pipeline-to-turkey.html",
+      "byline": "By Stanley Reed and Sebnem Arsu"
+    },
+    {
+      "headline": "Goldman Sachs Investments Test the Volcker Rule",
+      "snippet": "Goldman Sachs has found ways to put its money to work in formats that appear to comply with the Volcker Rule, but its investments have caused concern among some of its big clients.",
+      "abstract": "Goldman Sachs has found ways to put its money to work in formats that appear to comply with the Volcker Rule, but its investments have caused concern among some of its big clients.",
+      "lead_paragraph": "Goldman Sachs has been on a shopping spree with its own money, snapping up apartments in Spain, a mall in Utah and a European ink company, all of which the bank hopes eventually to sell for a profit.",
+      "publication_date": "2015-01-22T01:54:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2015/01/21/goldman-investments-are-testing-volcker-rule/",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Google Hopes to Take the Web Directly to Billions Lacking Access",
+      "snippet": "The company believes it can use its growing collection of devices in the sky to spread the Internet to underserved areas around the world.",
+      "abstract": "The company believes it can use its growing collection of devices in the sky to spread the Internet to underserved areas around the world.",
+      "lead_paragraph": "SAN FRANCISCO — Google has never shied from novelty or spending big to find ways to connect more people to the Internet. Over the last two years, its ideas have included fleets of little satellites, solar-powered drones that would fly around the world and balloons that float high into the stratosphere, beaming the Internet to those below.",
+      "publication_date": "2015-01-22T02:06:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/01/22/business/google-hopes-to-take-the-web-directly-to-billions-lacking-access.html",
+      "byline": "By Conor Dougherty"
+    },
+    {
+      "headline": "Talk of Wealth Gap Prods the G.O.P. to Refocus ",
+      "snippet": "With the economy on more solid ground, leading Republicans are tempering complaints about overall economic growth and refocusing on income disparity.",
+      "abstract": "With the economy on more solid ground, leading Republicans are tempering complaints about overall economic growth and refocusing on income disparity.",
+      "lead_paragraph": "WASHINGTON — President Obama’s push for a new “middle-class economics” may go nowhere in Congress, but his ambitious array of proposals to raise stagnant incomes and provide more government support for struggling working families will frame his last two years in office and help make the politics of rich and poor a central issue in the campaign to succeed him.",
+      "publication_date": "2015-01-22T02:09:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/01/22/business/economy/talk-of-inequality-prods-republicans-to-refocus.html",
+      "byline": "By Jonathan Weisman and Ashley Parker"
+    },
+    {
+      "headline": "Argentine Phone Calls Detail Efforts to Shield Iran",
+      "snippet": "The intercepted telephone conversations, if proved accurate, describe an elaborate effort to reward Argentina for shipping food to Iran and for seeking to derail the investigation into a terrorist attack.",
+      "abstract": "The intercepted telephone conversations, if proved accurate, describe an elaborate effort to reward Argentina for shipping food to Iran and for seeking to derail the investigation into a terrorist attack.",
+      "lead_paragraph": "BUENOS AIRES — Intercepted conversations between representatives of the Iranian and Argentine governments point to a long pattern of secret negotiations to reach a deal in which Argentina would receive oil in exchange for shielding Iranian officials from charges that they orchestrated the bombing of a Jewish community center in 1994. ",
+      "publication_date": "2015-01-22T02:11:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/01/22/world/americas/argentine-calls-detail-efforts-to-shield-iran.html",
+      "byline": "By Jonathan Gilbert and Simon Romero"
+    },
+    {
+      "headline": "U.S. Fears Chaos as Government of Yemen Falls",
+      "snippet": "President Abdu Rabbu Mansour Hadi and his government abruptly stepped down, leaving Yemen leaderless as it is convulsed by pro-Iran rebels and a resurgent Qaeda.",
+      "abstract": "President Abdu Rabbu Mansour Hadi and his government abruptly stepped down, leaving Yemen leaderless as it is convulsed by pro-Iran rebels and a resurgent Qaeda.",
+      "lead_paragraph": "SANA, Yemen — The American-backed government of Yemen abruptly collapsed Thursday night, leaving the country leaderless as it is convulsed by an increasingly powerful force of pro-Iran rebels and a resurgent Qaeda.",
+      "publication_date": "2015-01-22T12:25:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/01/23/world/middleeast/yemen-houthi-crisis-sana.html",
+      "byline": "By Shuaib Almosawa and Rod Nordland"
+    },
+    {
+      "headline": "Stimulus for Eurozone, but It May Be Too Little or Too Late",
+      "snippet": "The big question is whether the flood of new money will jolt Europe out its economic doldrums or merely create a short-term lift to financial markets.",
+      "abstract": "The big question is whether the flood of new money will jolt Europe out its economic doldrums or merely create a short-term lift to financial markets.",
+      "lead_paragraph": "The European Central Bank unleashed a surprisingly aggressive stimulus plan on Thursday that looked like the last, best hope to prevent the region from sliding toward another lost economic decade with the stagnant growth, high unemployment and political strains that it would mean.",
+      "publication_date": "2015-01-22T15:26:59+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/01/23/upshot/mario-draghis-bombshell-is-europes-last-best-hope-to-return-to-growth.html",
+      "byline": "By Neil Irwin"
+    }
+  ]
+}

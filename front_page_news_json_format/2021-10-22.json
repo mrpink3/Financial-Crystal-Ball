@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-10-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "‘It’s Terror’: In Haiti, Gangs Gain Power as Security Vacuum Grows",
+      "snippet": "Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression.",
+      "abstract": "Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression.",
+      "lead_paragraph": "They raped women, burned homes and killed dozens of people, including children, chopping up their bodies with machetes and throwing their remains to pigs.",
+      "publication_date": "2021-10-21T17:31:50+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html",
+      "byline": "By Catherine Porter and Natalie Kitroeff"
+    },
+    {
+      "headline": "Fed Unveils Stricter Trading Rules Amid Fallout From Ethics Scandal",
+      "snippet": "The Federal Reserve faced scrutiny after two regional bank presidents disclosed questionable 2020 trading. Now it’s revamping the rules.",
+      "abstract": "The Federal Reserve faced scrutiny after two regional bank presidents disclosed questionable 2020 trading. Now it’s revamping the rules.",
+      "lead_paragraph": "The Federal Reserve unveiled a sweeping set of changes to its ethics practices on Thursday, outlining new rules governing the types of financial securities that policymakers can own and how they can trade them in response to an ethics scandal that has embroiled the central bank.",
+      "publication_date": "2021-10-21T18:03:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/21/business/federal-reserve-trading-ethics.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions",
+      "snippet": "The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet.",
+      "abstract": "The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet.",
+      "lead_paragraph": "LONDON — For the last four months, Britain has run a grand epidemiological experiment, lifting virtually all coronavirus restrictions, even in the face of a high daily rate of infections. Its leaders justified the approach on the grounds that the country’s rapid rollout of vaccines had weakened the link between infection and serious illness.",
+      "publication_date": "2021-10-21T19:47:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "House Finds Bannon in Contempt for Defying Jan. 6 Inquiry Subpoena",
+      "snippet": "The vote came after a bitterly partisan debate over the Capitol attack and as Republicans sought to deflect questions about Donald J. Trump’s role in the violence.",
+      "abstract": "The vote came after a bitterly partisan debate over the Capitol attack and as Republicans sought to deflect questions about Donald J. Trump’s role in the violence.",
+      "lead_paragraph": "WASHINGTON — The House voted on Thursday to find Stephen K. Bannon in criminal contempt of Congress for stonewalling the investigation into the Jan. 6 Capitol attack, pressing for information from a close ally of Donald J. Trump even as Republicans moved to insulate the former president from accountability.",
+      "publication_date": "2021-10-21T20:19:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/21/us/politics/bannon-contempt-jan-6-subpoena.html",
+      "byline": "By Luke Broadwater"
+    },
+    {
+      "headline": "Trump Takes Advantage of Wall Street Fad to Bankroll New Venture",
+      "snippet": "A merger with a so-called blank check company is poised to give the former president access to hundreds of millions of dollars.",
+      "abstract": "A merger with a so-called blank check company is poised to give the former president access to hundreds of millions of dollars.",
+      "lead_paragraph": "After decades of bankruptcies, loan defaults, business disputes and commercial failures — not to mention a polarizing presidency that ended with a violent mob storming the Capitol — Donald J. Trump was shunned by much of corporate America.",
+      "publication_date": "2021-10-21T22:52:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/21/business/media/trump-spac-social-media-venture.html",
+      "byline": "By David Enrich, Matthew Goldstein and Shane Goldmacher"
+    },
+    {
+      "headline": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
+      "snippet": "The actor was told a gun being used as a prop was safe before he fired it on the set of “Rust,” killing the film’s cinematographer and wounding its director, law enforcement officials said.",
+      "abstract": "The actor was told a gun being used as a prop was safe before he fired it on the set of “Rust,” killing the film’s cinematographer and wounding its director, law enforcement officials said.",
+      "lead_paragraph": "SANTA FE — On a ranch in northern New Mexico, where the cottonwoods and the dusty foothills have formed the backdrop of Westerns since the 1950s, Alec Baldwin was filming a new movie on Thursday afternoon when his character, an outlaw, needed a gun.",
+      "publication_date": "2021-10-22T02:24:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+      "byline": "By Simon Romero, Julia Jacobs and Glenn Thrush"
+    },
+    {
+      "headline": "Russia Is Censoring the Internet, With Coercion and Black Boxes",
+      "snippet": "Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation.",
+      "abstract": "Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation.",
+      "lead_paragraph": "Russia’s boldest moves to censor the internet began in the most mundane of ways — with a series of bureaucratic emails and forms.",
+      "publication_date": "2021-10-22T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html",
+      "byline": "By Adam Satariano and Paul Mozur"
+    },
+    {
+      "headline": "To Get Ahead at Work, Lawyers Find It Helps to Actually Be at Work",
+      "snippet": "The generational divide on returning to the office is not neatly drawn. For some young professionals, even in a pandemic, showing up is more than half the battle.",
+      "abstract": "The generational divide on returning to the office is not neatly drawn. For some young professionals, even in a pandemic, showing up is more than half the battle.",
+      "lead_paragraph": "It looked like a middle-aged person’s idea of what a young person would find fun. There was a dartboard on the wall, a pool table to the side and a Blue Bunny ice cream cart near the entrance, tended to by representatives from H.R.",
+      "publication_date": "2021-10-22T09:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/10/22/business/economy/law-firm-return-to-office.html",
+      "byline": "By Noam Scheiber and David Kasnic"
+    },
+    {
+      "headline": "How the Supply Chain Broke, and Why It Won’t Be Fixed Anytime Soon",
+      "snippet": "Confession: We didn’t even have a logistics beat before the pandemic. Now we do. Here’s what we’ve learned about the global supply chain disruption.",
+      "abstract": "Confession: We didn’t even have a logistics beat before the pandemic. Now we do. Here’s what we’ve learned about the global supply chain disruption.",
+      "lead_paragraph": "Computer chips. Exercise equipment. Breakfast cereal. By now, you’ve probably heard: The world has run short of a great many products.",
+      "publication_date": "2021-10-22T11:57:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
+      "byline": "By Peter S. Goodman"
+    }
+  ]
+}

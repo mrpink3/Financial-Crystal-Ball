@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-05-31",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trade War Starts Changing Manufacturers in Hard-to-Reverse Ways",
+      "snippet": "With no end in sight to the tariff duel with China, American companies are shifting supply chains and making other moves for the long haul.",
+      "abstract": "With no end in sight to the tariff duel with China, American companies are shifting supply chains and making other moves for the long haul.",
+      "lead_paragraph": "PORTLAND, Ore. — When the Trump administration first imposed tariffs on $34 billion in Chinese imports in July, Andy LaFrazia figured it was just another curveball for his company.",
+      "publication_date": "2019-05-30T16:35:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/30/business/economy/trump-tariff-manufacturer.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Uber’s First Earnings Report After I.P.O.: $1 Billion Loss",
+      "snippet": "The ride-hailing giant’s quarterly report raised questions about where the company would find new growth and whether it could ever make money.",
+      "abstract": "The ride-hailing giant’s quarterly report raised questions about where the company would find new growth and whether it could ever make money.",
+      "lead_paragraph": "SAN FRANCISCO — Uber’s start as a publicly traded company has gone from bumpy to bumpier.",
+      "publication_date": "2019-05-30T20:05:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/30/technology/uber-stock-earnings.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Trump Says U.S. Will Hit Mexico With 5% Tariffs on All Goods",
+      "snippet": "The president said he would use tariffs to punish Mexico until it stops the flow of migrants into the United States.",
+      "abstract": "The president said he would use tariffs to punish Mexico until it stops the flow of migrants into the United States.",
+      "lead_paragraph": "WASHINGTON — President Trump said Thursday that he would impose a 5 percent tariff on all imported goods from Mexico beginning June 10, a tax that would “gradually increase” until the flow of undocumented immigrants across the border stopped.",
+      "publication_date": "2019-05-30T23:48:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/30/us/politics/trump-mexico-tariffs.html",
+      "byline": "By Annie Karni, Ana Swanson and Michael D. Shear"
+    },
+    {
+      "headline": "A Financial Checklist for Your Newly Minted High School Graduate",
+      "snippet": "We’ve got budget, retirement account, credit, information security and insurance advice for your independent adult, college student, gap-year taker or future soldier.",
+      "abstract": "We’ve got budget, retirement account, credit, information security and insurance advice for your independent adult, college student, gap-year taker or future soldier.",
+      "lead_paragraph": "The summer after high school graduation inevitably includes monthslong encounters with various to-do lists.",
+      "publication_date": "2019-05-31T09:00:15+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/31/your-money/teenager-financial-preparation.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "$146 Million Default by Nursing Home Chain Leaves U.S. on the Hook",
+      "snippet": "The failure of the Rosewood Care Centers is the biggest default in the history of a little-known program that underpins 15 percent of the nation’s nursing homes.",
+      "abstract": "The failure of the Rosewood Care Centers is the biggest default in the history of a little-known program that underpins 15 percent of the nation’s nursing homes.",
+      "lead_paragraph": "The cracks in the foundation of a Chicago nursing-home business began to appear almost immediately. ",
+      "publication_date": "2019-05-31T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/31/business/nursing-homes-mortgage-hud.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "How Trump’s Trade War Is Being Fought Around the World",
+      "snippet": "Mexico, China, Japan, Europe, Canada: The White House’s various conflicts add up to a broad assault on a postwar effort to build economic ties around the world.",
+      "abstract": "Mexico, China, Japan, Europe, Canada: The White House’s various conflicts add up to a broad assault on a postwar effort to build economic ties around the world.",
+      "lead_paragraph": "President Trump on Thursday threatened to hit Mexico with new tariffs, escalating his immigration fight with America’s largest trading partner. And with that, he showed, once again, that he’s ready to employ trade as an all-purpose tool for his policy goals.",
+      "publication_date": "2019-05-31T12:35:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/31/business/trade-war-trump.html",
+      "byline": "By Carlos Tejada and Amie Tsang"
+    }
+  ]
+}

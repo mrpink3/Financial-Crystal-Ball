@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2010-12-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "In Tax Cuts, the Options Run Short",
+      "snippet": "Democrats’ only chance to pass legislation on the Bush tax cuts before they expire involves a retreat, and a millionaire’s tax may be part of the calculation.",
+      "abstract": "Democrats’ only chance to pass legislation on the Bush tax cuts before they expire involves a retreat, and a millionaire’s tax may be part of the calculation.",
+      "lead_paragraph": "WASHINGTON",
+      "publication_date": "2010-12-01T01:32:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/01/business/economy/01leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Delaying Vote, Debt Panel Splits on Taxes and Spending",
+      "snippet": "Divisions within President Obama’s debt-reduction commission underscore the reluctance of both parties to risk short-term political backlash in pursuit of long-term fiscal health.",
+      "abstract": "Divisions within President Obama’s debt-reduction commission underscore the reluctance of both parties to risk short-term political backlash in pursuit of long-term fiscal health.",
+      "lead_paragraph": "WASHINGTON  The chairmen of President Obama’s debt-reduction commission have been unable to win support from any of the panel’s elected officials for their proposed spending cuts and tax increases, underscoring the reluctance of both parties to risk short-term political backlash in pursuit of the nation’s long-term fiscal health.",
+      "publication_date": "2010-12-01T02:16:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/01/us/politics/01obama.html",
+      "byline": "By Jackie Calmes and Peter Baker"
+    }
+  ]
+}

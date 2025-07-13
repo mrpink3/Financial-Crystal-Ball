@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-06-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Fyre Was Bad. For the Concert Industry, This One Could Be Worse.",
+      "snippet": "The failures of the Fyre and Pemberton music festivals are spurring worries about eroding consumer confidence and growing hurdles for smaller, independent festivals.",
+      "abstract": "The failures of the Fyre and Pemberton music festivals are spurring worries about eroding consumer confidence and growing hurdles for smaller, independent festivals.",
+      "lead_paragraph": "For the concert industry, the disastrous failure of the Fyre Festival in the Bahamas was an outlier — a sad spectacle, but an isolated one.",
+      "publication_date": "2017-06-01T18:08:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/01/business/media/fyre-pemberton-music-festival-market-tickets.html",
+      "byline": "By Ben Sisario"
+    },
+    {
+      "headline": "Hyundai Faces Tough Times as Buyers Go Big",
+      "snippet": "Hyundai bet big on smaller vehicles, and it worked well for a time. But not anymore, as consumers have turned to larger models.",
+      "abstract": "Hyundai bet big on smaller vehicles, and it worked well for a time. But not anymore, as consumers have turned to larger models.",
+      "lead_paragraph": "Andrew DiFeo can remember a time, just four years ago, when he could hardly keep enough cars on the lot at his Hyundai dealership in Florida. Gasoline was selling for $3.50 or more a gallon, Americans were looking for good fuel economy, and Hyundai seemed to have the answer.",
+      "publication_date": "2017-06-02T00:17:58+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/01/automobiles/wheels/hyundai-consumer-preferences.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "In Texas, Some Rare Good News About Cities With Pension Woes",
+      "snippet": "Dallas and Houston, faced with possible bankruptcies tied to underfunded pensions, will be able to reduce some pension payments under new state laws.",
+      "abstract": "Dallas and Houston, faced with possible bankruptcies tied to underfunded pensions, will be able to reduce some pension payments under new state laws.",
+      "lead_paragraph": "Detroit. Stockton. Puerto Rico. The list of places bankrupted by ballooning pension obligations and other debts is growing. But now comes some good news about two cities, Dallas and Houston, that have pulled back from the brink.",
+      "publication_date": "2017-06-02T00:59:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/01/business/dealbook/municipal-pensions-dallas-houston-bankruptcy.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Trump Hands the Chinese a Gift: The Chance for Global Leadership",
+      "snippet": "In quitting the Paris climate accord, President Trump creates a vacuum of global leadership that gives allies and adversaries the chance to reorder the world’s power structure.",
+      "abstract": "In quitting the Paris climate accord, President Trump creates a vacuum of global leadership that gives allies and adversaries the chance to reorder the world’s power structure.",
+      "lead_paragraph": "WASHINGTON — President Trump has managed to turn America First into America Isolated.",
+      "publication_date": "2017-06-02T01:41:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/01/us/politics/climate-accord-trump-china-global-leadership.html",
+      "byline": "By David E. Sanger and Jane Perlez"
+    },
+    {
+      "headline": "Trump, Prioritizing Economy Over Climate, Cites Disputed Premises",
+      "snippet": "The president’s withdrawal from the Paris accord seemed more about his belief in the potential to save jobs and ease economic burdens than any disbelief in climate science.",
+      "abstract": "The president’s withdrawal from the Paris accord seemed more about his belief in the potential to save jobs and ease economic burdens than any disbelief in climate science.",
+      "lead_paragraph": "WASHINGTON — In making his case for abandoning the Paris climate accord, President Trump characterized the agreement as an economic straitjacket — one that would impose terrible burdens on Americans by shuttering the coal industry, suffocating growth and redistributing jobs and wealth from the United States to its competitors.",
+      "publication_date": "2017-06-02T02:54:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/01/us/politics/fact-check-climate-change-trump.html",
+      "byline": "By Mark Landler, Brad Plumer and Linda Qiu"
+    },
+    {
+      "headline": "Airbnb Is Popular, but Renting Out Your Car? That’s Another Story",
+      "snippet": "There are reasons — accidents, thefts, insurance questions — why lending services like Turo and Getaround for people’s private vehicles haven’t taken off.",
+      "abstract": "There are reasons — accidents, thefts, insurance questions — why lending services like Turo and Getaround for people’s private vehicles haven’t taken off.",
+      "lead_paragraph": "On any given holiday weekend, there might be a million people paying to stay in rooms in somebody’s house or putting their whole family up at private homes. Airbnb helps many of those travelers and is now a household name.",
+      "publication_date": "2017-06-02T09:00:35+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/02/your-money/airbnb-is-popular-but-renting-out-your-car-thats-another-story.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "U.S. Unemployment at 16-Year Low, but Economy’s Weak Spots Remain",
+      "snippet": "Unemployment fell to 4.3 percent, the Labor Department said, but largely because participation in the work force declined. Payrolls grew by 138,000.",
+      "abstract": "Unemployment fell to 4.3 percent, the Labor Department said, but largely because participation in the work force declined. Payrolls grew by 138,000.",
+      "lead_paragraph": "Unemployment sank to 4.3 percent in May, its lowest level in 16 years, the government reported Friday, but halfhearted wage growth and a shrinking labor force revealed the economy’s stubborn weak spots.",
+      "publication_date": "2017-06-02T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/02/business/economy/jobs-report.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "C.I.A. Names the ‘Dark Prince’ to Run Iran Operations, Signaling a Tougher Stance",
+      "snippet": "The appointment of Michael D’Andrea, a.k.a. the Dark Prince, is one of many moves inside the agency that signal a more muscular approach to espionage and covert operations.",
+      "abstract": "The appointment of Michael D’Andrea, a.k.a. the Dark Prince, is one of many moves inside the agency that signal a more muscular approach to espionage and covert operations.",
+      "lead_paragraph": "WASHINGTON — He is known as the Dark Prince or Ayatollah Mike, nicknames he earned as the Central Intelligence Agency officer who oversaw the hunt for Osama bin Laden and the American drone strike campaign that killed thousands of Islamist militants and hundreds of civilians.",
+      "publication_date": "2017-06-02T09:00:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/02/world/middleeast/cia-iran-dark-prince-michael-dandrea.html",
+      "byline": "By Matthew Rosenberg and Adam Goldman"
+    }
+  ]
+}

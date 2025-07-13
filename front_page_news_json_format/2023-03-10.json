@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-03-10",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Biden’s $6.8 Trillion Budget Proposes New Social Programs and Higher Taxes",
+      "snippet": "The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.",
+      "abstract": "The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.",
+      "lead_paragraph": "WASHINGTON — President Biden on Thursday proposed a $6.8 trillion budget that sought to increase spending on the military and a wide range of new social programs while also reducing future budget deficits, defying Republican calls to scale back government and reasserting his economic vision before an expected re-election campaign.",
+      "publication_date": "2023-03-09T17:00:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/09/us/politics/biden-budget.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Biden Moves to Recapture the Centrist Identity That Has Long Defined Him",
+      "snippet": "After two years championing progressive priorities, the president is speaking more to the concerns of the political middle as he prepares to announce a campaign for a second term.",
+      "abstract": "After two years championing progressive priorities, the president is speaking more to the concerns of the political middle as he prepares to announce a campaign for a second term.",
+      "lead_paragraph": "WASHINGTON — In his announcement video kicking off his presidential campaign in the spring of 2019, Joseph R. Biden Jr. never mentioned the word “deficit.” Nor did the word escape his lips when he accepted the Democratic Party nomination a year later. Nor did it appear once in the party platform he approved.",
+      "publication_date": "2023-03-10T00:02:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/09/us/politics/biden-centrist.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Russia Blasts Ukrainian Cities, Including Biggest Use of Advanced Missiles",
+      "snippet": "Of 81 missiles fired, six were hypersonic weapons, among Russia’s newest and most advanced, which are all but impossible to shoot down.",
+      "abstract": "Of 81 missiles fired, six were hypersonic weapons, among Russia’s newest and most advanced, which are all but impossible to shoot down.",
+      "lead_paragraph": "KYIV, Ukraine — Russia launched its biggest aerial barrage in weeks on Thursday, blasting targets across Ukraine with a diverse array of weapons, including its newest hypersonic missiles, in what it said was retaliation for an armed incursion into Russian territory last week.",
+      "publication_date": "2023-03-10T00:08:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/09/world/europe/russia-ukraine-missile-hypersonic.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Xi Seals His Political Supremacy, Focusing on Economy and U.S. Rivalry",
+      "snippet": "The Communist Party-controlled legislature endorsed Xi Jinping for an unprecedented third term as China’s president in a ritual ballot, cementing his dominance.",
+      "abstract": "The Communist Party-controlled legislature endorsed Xi Jinping for an unprecedented third term as China’s president in a ritual ballot, cementing his dominance.",
+      "lead_paragraph": "Xi Jinping solidified his status as China’s most powerful leader in decades by sweeping into a new term as president on Friday, as he steels the country for an era of superpower rivalry and seeks to revive a battered economy.",
+      "publication_date": "2023-03-10T02:59:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/09/world/asia/xi-economy-us-rivalry.html",
+      "byline": "By Chris Buckley and Keith Bradsher"
+    },
+    {
+      "headline": "Why Russia Has Such a Strong Grip on Europe’s Nuclear Power",
+      "snippet": "New energy sources to replace oil and natural gas have been easier to find than kicking the dependency on Rosatom, the state-owned nuclear superstore.",
+      "abstract": "New energy sources to replace oil and natural gas have been easier to find than kicking the dependency on Rosatom, the state-owned nuclear superstore.",
+      "lead_paragraph": "The pinched cylinders of Russian-built nuclear power plants that dot Europe’s landscape are visible reminders of the crucial role that Russia still plays in the continent’s energy supply.",
+      "publication_date": "2023-03-10T05:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/10/business/economy/russia-nuclear-energy-ukraine.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "A Bank Failure Jolts Markets, Sending Stocks Down Sharply",
+      "snippet": "The collapse of Silicon Valley Bank added to worries about the economy. The S&P 500 suffered its sharpest weekly decline of the year.",
+      "abstract": "The collapse of Silicon Valley Bank added to worries about the economy. The S&P 500 suffered its sharpest weekly decline of the year.",
+      "lead_paragraph": "The collapse of a small bank in California on Friday set off a wave of concern over the health of the banking sector, amplifying fears for the broader economy and sending global stock markets lower.",
+      "publication_date": "2023-03-10T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/10/business/stock-market-jobs-report.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "U.S. Employers Keep Hiring, but Signs of Easing Are Seen",
+      "snippet": "The economy added 311,000 jobs in February despite higher interest rates. But hourly earnings rose more slowly as the pool of available workers grew.",
+      "abstract": "The economy added 311,000 jobs in February despite higher interest rates. But hourly earnings rose more slowly as the pool of available workers grew.",
+      "lead_paragraph": "The labor market continued its energetic expansion in February, extending a hotter-than-expected streak that has created abundant job opportunities while frustrating the Federal Reserve in its drive to contain stubborn inflation.",
+      "publication_date": "2023-03-10T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/10/business/economy/jobs-report-february-2023.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Saudi Arabia and Iran Agree to Restore Ties, in Talks Hosted by China",
+      "snippet": "The deal between regional rivals underlines China’s growing economic and political importance in the Middle East, and what some analysts say is waning American influence.",
+      "abstract": "The deal between regional rivals underlines China’s growing economic and political importance in the Middle East, and what some analysts say is waning American influence.",
+      "lead_paragraph": "RIYADH, Saudi Arabia — After years of open hostility and proxy conflicts across the Middle East, Saudi Arabia and Iran have agreed to re-establish diplomatic ties, they announced on Friday, in a significant pivot for the two regional rivals that was facilitated by China.",
+      "publication_date": "2023-03-10T13:20:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/10/world/middleeast/saudi-arabia-iran-reestablish-ties.html",
+      "byline": "By Vivian Nereim"
+    }
+  ]
+}

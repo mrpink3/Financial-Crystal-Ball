@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2012-01-25",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "For Romneys, Friendly Code Reduces Taxes",
+      "snippet": "Mitt Romney on Tuesday released documents that show he and his wife had an effective federal tax rate in 2010 of 13.9 percent.",
+      "abstract": "Mitt Romney on Tuesday released documents that show he and his wife had an effective federal tax rate in 2010 of 13.9 percent.",
+      "lead_paragraph": "Mitt Romney and his wife, Ann, made $27 million in 2010. They held millions of dollars in a Swiss bank account and millions more in partnerships in the Cayman Islands. His family’s trusts sold thousands of shares in Goldman Sachs that were offered to favored clients when the storied investment house first went public. The couple’s effective federal tax rate for the year worked out to 13.9 percent, a rate typical of households earning about $80,000 a year.",
+      "publication_date": "2012-01-24T17:42:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/25/us/politics/romneys-tax-returns-show-21-6-million-income-in-10.html",
+      "byline": "By Nicholas Confessore and David Kocieniewski"
+    },
+    {
+      "headline": "European Central Bank Moves to Avoid Loss on Greek Bonds",
+      "snippet": "Tentative talks begin in effort to prevent the European Central Bank from having to take a loss on its 55 billion-euro portfolio of Greek bonds.",
+      "abstract": "Tentative talks begin in effort to prevent the European Central Bank from having to take a loss on its 55 billion-euro portfolio of Greek bonds.",
+      "lead_paragraph": "LONDON — European leaders have begun discussions with the European Central Bank on several options that might keep it from having to take a loss on its 55 billion-euro portfolio of Greek bonds.",
+      "publication_date": "2012-01-24T20:02:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/25/business/global/eu-officials-continue-to-press-for-a-quick-deal-on-greek-debt.html",
+      "byline": "By Landon Thomas Jr. and James Kanter"
+    },
+    {
+      "headline": "Apple’s Profit Doubles on Holiday iPhone 4S Sales",
+      "snippet": "Though neither iPhones nor iPads existed five years ago, they account for 72 percent of Apple’s total revenue.",
+      "abstract": "Though neither iPhones nor iPads existed five years ago, they account for 72 percent of Apple’s total revenue.",
+      "lead_paragraph": "It turns out Apple didn’t need an iPhone 5 to bolster sales.",
+      "publication_date": "2012-01-24T22:10:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/25/technology/apples-profit-doubles-as-holiday-customers-snapped-up-iphones.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "Lawsuit Seeks Records From Toyota Investigation",
+      "snippet": "A safety consulting firm accused the National Highway Traffic Safety Administration of holding back evidence that electronic systems in Toyota vehicles were causing unintended acceleration.",
+      "abstract": "A safety consulting firm accused the National Highway Traffic Safety Administration of holding back evidence that electronic systems in Toyota vehicles were causing unintended acceleration.",
+      "lead_paragraph": "DETROIT — Concerned that regulators are dismissing electronic problems in Toyota vehicles, an auto safety firm said Tuesday that it had sued the federal government to get records of its investigation into the unintended acceleration of a Prius last year.",
+      "publication_date": "2012-01-24T22:29:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/25/business/lawsuit-seeks-records-from-us-investigation-of-toyota-acceleration.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "In Address, Obama Makes Pitch for Economic Fairness",
+      "snippet": "With an election year ahead, President Obama set forth a long list of domestic economic proposals, many of which centered on jobs and changing the tax code.",
+      "abstract": "With an election year ahead, President Obama set forth a long list of domestic economic proposals, many of which centered on jobs and changing the tax code.",
+      "lead_paragraph": "WASHINGTON — President Obama pledged on Tuesday night to use government power to balance the scale between America’s rich and the rest of the public, trying to present an election-year choice between continued leadership toward an economy “built to last” and what he called irresponsible policies of the past that caused an economic collapse.",
+      "publication_date": "2012-01-24T23:07:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/25/us/politics/state-of-the-union-2012.html",
+      "byline": "By Helene Cooper"
+    },
+    {
+      "headline": "Obama Urges Tougher Laws on Financial Fraud",
+      "snippet": "President Obama’s State of the Union proposals seek to acknowledge the public frustration that few financial executives were prosecuted after the crisis.",
+      "abstract": "President Obama’s State of the Union proposals seek to acknowledge the public frustration that few financial executives were prosecuted after the crisis.",
+      "lead_paragraph": "WASHINGTON — President Obama called on Congress Tuesday to toughen laws against securities fraud and to strengthen the ability of the Securities and Exchange Commission to punish Wall Street firms that repeatedly violate antifraud statutes.",
+      "publication_date": "2012-01-25T02:00:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/25/business/obama-urges-tougher-laws-on-financial-fraud.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Public College, Private Dorm",
+      "snippet": "To free scarce capital for classrooms and labs, some universities, including Montclair State in New Jersey, have decided to farm out the construction of residence halls.",
+      "abstract": "To free scarce capital for classrooms and labs, some universities, including Montclair State in New Jersey, have decided to farm out the construction of residence halls.",
+      "lead_paragraph": "With state budgets tight and demand for a college education at a high point, public universities across the country are increasingly turning to the private sector to build and finance on-campus dormitories. ",
+      "publication_date": "2012-01-25T02:27:25+0000",
+      "section_name": "Real Estate",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/25/realestate/commercial/public-college-private-dorm.html",
+      "byline": "By Ronda Kaysen"
+    },
+    {
+      "headline": "Economic Crisis Adds Dangers on Egypt’s New Political Path",
+      "snippet": "With mounting debts, negligible growth and dwindling foreign reserves, Egypt’s military rulers and the new Islamist-led Parliament face a crisis that could undermine the political transition.",
+      "abstract": "With mounting debts, negligible growth and dwindling foreign reserves, Egypt’s military rulers and the new Islamist-led Parliament face a crisis that could undermine the political transition.",
+      "lead_paragraph": "CAIRO — After a year of unending turmoil and military rule, Egypt faces an acute financial crisis that could undermine its political transition and pose a defining challenge to Islamists now coming to power.",
+      "publication_date": "2012-01-25T02:44:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/25/world/middleeast/egypts-new-path-complicated-by-economic-problems.html",
+      "byline": "By David D. Kirkpatrick and Mayy El Sheikh"
+    },
+    {
+      "headline": "U.S. Swoops In to Free 2 From Pirates in Somali Raid",
+      "snippet": "Navy Seals, drawn from the unit that killed Osama bin Laden, rescued two hostages, including an American woman, who had been held for months.",
+      "abstract": "Navy Seals, drawn from the unit that killed Osama bin Laden, rescued two hostages, including an American woman, who had been held for months.",
+      "lead_paragraph": "KHARTOUM, Sudan — Around 2 a.m. Wednesday, elders in the Somali village of Galkayo said they began hearing an unusual sound: the whir of helicopters.",
+      "publication_date": "2012-01-25T08:56:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/26/world/africa/us-raid-frees-2-hostages-from-somali-pirates.html",
+      "byline": "By Jeffrey Gettleman, Eric Schmitt and Thom Shanker"
+    }
+  ]
+}

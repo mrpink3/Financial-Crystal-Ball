@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2024-09-10",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "How to Turn Your Old iPhone Into an A.I. Phone (and Skip the Upgrade)",
+      "snippet": "Apple is using Apple Intelligence, a suite of tools for generating images and text, to upsell the iPhone 16. But you can get similar features elsewhere.",
+      "abstract": "Apple is using Apple Intelligence, a suite of tools for generating images and text, to upsell the iPhone 16. But you can get similar features elsewhere.",
+      "lead_paragraph": "The latest iPhones, unveiled by Apple at a marketing event on Monday, look virtually identical to last year’s models. But Apple hopes that what’s underneath — new software that brings what it describes as artificial intelligence to the new phones — will persuade people to upgrade.",
+      "publication_date": "2024-09-09T17:53:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/09/technology/personaltech/iphone-ai-upgrade.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "U.S. Argues Google Created Ad Tech Monopoly",
+      "snippet": "The tech giant went to court on Monday in a second antitrust trial, this one focused on its dominance in advertising technology software. The case could reshape its business.",
+      "abstract": "The tech giant went to court on Monday in a second antitrust trial, this one focused on its dominance in advertising technology software. The case could reshape its business.",
+      "lead_paragraph": "The Justice Department told a federal judge on Monday that Google had built a monopoly in lucrative technology that delivers online ads, kicking off a second federal antitrust trial against the tech giant amid mounting scrutiny of the industry.",
+      "publication_date": "2024-09-09T18:50:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/09/technology/google-antitrust-ad-technology.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "As Debate Looms, Trump Is Now the One Facing Questions About Age and Capacity",
+      "snippet": "With President Biden no longer in the race, former President Donald J. Trump would be the oldest person ever to serve in the Oval Office. But his rambling, sometimes incoherent public statements have stirred concern among voters.",
+      "abstract": "With President Biden no longer in the race, former President Donald J. Trump would be the oldest person ever to serve in the Oval Office. But his rambling, sometimes incoherent public statements have stirred concern among voters.",
+      "lead_paragraph": "The last time the nation held a debate with the presidency on the line, a candidate with about eight decades of life behind him faced the challenge of proving that he was still up to the job of running the country. He failed.",
+      "publication_date": "2024-09-09T19:40:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/09/us/politics/debate-trump-age-capacity.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "China’s Huawei Shows the World Its $2,800 ‘Trifold’ Phone",
+      "snippet": "The latest announcement from Apple’s China rival came just hours after the unveiling of iPhone 16.",
+      "abstract": "The latest announcement from Apple’s China rival came just hours after the unveiling of iPhone 16.",
+      "lead_paragraph": "Over successive administrations, the U.S. government has used stiff trade restrictions to try to stifle the Chinese telecom giant Huawei. In turn, the company never misses an opportunity to show that it is still standing.",
+      "publication_date": "2024-09-10T04:53:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/10/business/huawei-trifold-iphone.html",
+      "byline": "By Meaghan Tobin and John Liu"
+    },
+    {
+      "headline": "Google and Apple Face Billions in Penalties After Losing E.U. Appeals",
+      "snippet": "The cases had established the European Union as the world’s leading tech watchdog, but have since raised questions about its protracted appeals process.",
+      "abstract": "The cases had established the European Union as the world’s leading tech watchdog, but have since raised questions about its protracted appeals process.",
+      "lead_paragraph": "The European Union’s highest court delivered the 27-nation bloc a major victory on Tuesday in its yearslong campaign to regulate the technology industry, ruling against Apple and Google in two landmark legal cases.",
+      "publication_date": "2024-09-10T08:17:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html",
+      "byline": "By Adam Satariano and Jenny Gross"
+    },
+    {
+      "headline": "He’s Known as ‘Ivan the Troll.’ His 3D-Printed Guns Have Gone Viral.",
+      "snippet": "From his Illinois home, he champions guns for all. The Times confirmed his real name and linked the firearm he helped design to terrorists, drug dealers and freedom fighters in at least 15 countries.",
+      "abstract": "From his Illinois home, he champions guns for all. The Times confirmed his real name and linked the firearm he helped design to terrorists, drug dealers and freedom fighters in at least 15 countries.",
+      "lead_paragraph": "After an attempted gang murder in the French city of Marseille last year, the police found what appeared to be a toy assault rifle, seemingly crafted from plastic and Lego parts.",
+      "publication_date": "2024-09-10T09:00:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/10/world/europe/ivan-troll-3d-printed-homemade-guns-fgc9.html",
+      "byline": "By Lizzie Dearden and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "Lured by a Promising Job, He Was Forced to Scam People",
+      "snippet": "A Ugandan man named Jalil Muyeke traveled to Thailand for a promising job opportunity. He ended up being trafficked into a cybercrime operation.",
+      "abstract": "A Ugandan man named Jalil Muyeke traveled to Thailand for a promising job opportunity. He ended up being trafficked into a cybercrime operation.",
+      "lead_paragraph": "Internet scammers steal billions from Americans each year. In one workroom in Southeast Asia, where dozens of fraudsters trolled dating apps for fresh victims, they would beat a giant drum and chant each time they successfully duped someone into sending them money.",
+      "publication_date": "2024-09-10T09:02:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/10/business/scammers-trafficking-cybercrime.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Man vs. Trees: How a Rancher’s Bulldozing Project Cost Utah Taxpayers",
+      "snippet": "The state footed a big bill for the owner of a hunting retreat to knock down trees on his and nearby properties. He made big environmental promises, but the science was lacking.",
+      "abstract": "The state footed a big bill for the owner of a hunting retreat to knock down trees on his and nearby properties. He made big environmental promises, but the science was lacking.",
+      "lead_paragraph": "Mike Siaperas, a wealthy software executive, was looking for a change. He found it 10,000 feet above sea level in Utah, buying a ranch that he would turn into a luxury hunting retreat. But there was a problem.",
+      "publication_date": "2024-09-10T09:02:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/10/us/utah-forestry-contracts.html",
+      "byline": "By Leia Larsen"
+    },
+    {
+      "headline": "Just Miles from Kroger’s Court Battle, a Food Desert Shows What’s at Stake",
+      "snippet": "Federal regulators are trying to block Kroger’s merger with Albertsons. In a Portland suburb, residents already know what deteriorating access to fresh food looks like.",
+      "abstract": "Federal regulators are trying to block Kroger’s merger with Albertsons. In a Portland suburb, residents already know what deteriorating access to fresh food looks like.",
+      "lead_paragraph": "In a courthouse in Portland, Ore., the federal government is challenging the biggest supermarket consolidation in U.S. history.",
+      "publication_date": "2024-09-10T09:02:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/10/business/kroger-albertsons-merger-impact.html",
+      "byline": "By Danielle Kaye"
+    },
+    {
+      "headline": "For Trump, Tariffs Are the Solution to Almost Any Problem",
+      "snippet": "The former president has proposed using tariffs to fund child care, boost manufacturing, quell immigration and encourage use of the dollar. Economists are skeptical.",
+      "abstract": "The former president has proposed using tariffs to fund child care, boost manufacturing, quell immigration and encourage use of the dollar. Economists are skeptical.",
+      "lead_paragraph": "It has been more than five years since former President Donald J. Trump called himself a “Tariff Man,” but since then, his enthusiasm for tariffs seems only to have grown.",
+      "publication_date": "2024-09-10T09:04:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/10/us/politics/trump-enthusiasm-tariffs.html",
+      "byline": "By Ana Swanson"
+    }
+  ]
+}

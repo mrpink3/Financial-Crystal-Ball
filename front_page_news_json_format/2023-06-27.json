@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-06-27",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Google Pixel Fold Review: Foldable Phones Are Improving",
+      "snippet": "Google’s new $1,800 gadget proves that phones with bendable screens are something people might want. Now they just need to get cheaper.",
+      "abstract": "Google’s new $1,800 gadget proves that phones with bendable screens are something people might want. Now they just need to get cheaper.",
+      "lead_paragraph": "When I recently turned on Google’s new Pixel Fold smartphone and unfolded it as if it were a book, it transformed into a miniature tablet, similar to an iPad Mini or an Amazon Fire. Then something unexpected happened.",
+      "publication_date": "2023-06-26T17:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/26/technology/personaltech/google-pixel-fold-review.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Putin Says Russia Is United Behind Him, After Quelling Rebellion",
+      "snippet": "President Vladimir V. Putin spoke angrily of those who want “Russians to fight each other,” but his former ally, Yevgeny V. Prigozhin, said the mutiny he led was not a coup attempt.",
+      "abstract": "President Vladimir V. Putin spoke angrily of those who want “Russians to fight each other,” but his former ally, Yevgeny V. Prigozhin, said the mutiny he led was not a coup attempt.",
+      "lead_paragraph": "A visibly angry Vladimir V. Putin on Monday denounced as “blackmail” a weekend rebellion by the Wagner mercenary group even as he defended his response to the mutiny and hinted at leniency for those who took part, saying that “the entire Russian society united” around his government.",
+      "publication_date": "2023-06-26T23:31:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/26/world/europe/russia-wagner-prigozhin-ukraine.html",
+      "byline": "By Valerie Hopkins"
+    },
+    {
+      "headline": "Tesla May Have Already Won the Charging Wars",
+      "snippet": "Deals with Ford and G.M. will make it easier to find a charger but could give Elon Musk control of critical infrastructure.",
+      "abstract": "Deals with Ford and G.M. will make it easier to find a charger but could give Elon Musk control of critical infrastructure.",
+      "lead_paragraph": "Mary Barra and Elon Musk may be intense business rivals, but they sounded like old pals as they chatted on Twitter this month about a deal that could help remove one of the biggest barriers to electric vehicle ownership: not enough chargers.",
+      "publication_date": "2023-06-27T07:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/27/business/energy-environment/tesla-gm-ford-charging-electric-vehicles.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "How Vivek Ramaswamy Made the Fortune Fueling His Presidential Run",
+      "snippet": "Mr. Ramaswamy calls himself a scientist from the biotech industry, but his vast fortune stems from two huge paydays that speak to hope and hype in the world of finance.",
+      "abstract": "Mr. Ramaswamy calls himself a scientist from the biotech industry, but his vast fortune stems from two huge paydays that speak to hope and hype in the world of finance.",
+      "lead_paragraph": "On the campaign trail, as he lays out why he is a different kind of presidential candidate, Vivek Ramaswamy calls himself a Harvard-trained “scientist” from the lifesaving world of biotechnology.",
+      "publication_date": "2023-06-27T07:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/27/us/politics/vivek-ramaswamy-wealth.html",
+      "byline": "By Jonathan Weisman, Rebecca Robbins and Maureen Farrell"
+    },
+    {
+      "headline": "A Giant Wind Farm Is Taking Root Off Massachusetts",
+      "snippet": "The offshore energy project will have turbines taller than any building in Boston, but they will be barely visible from Martha’s Vineyard.",
+      "abstract": "The offshore energy project will have turbines taller than any building in Boston, but they will be barely visible from Martha’s Vineyard.",
+      "lead_paragraph": "On a chilly June day, with the Massachusetts island of Martha’s Vineyard just over the distant horizon, a low-riding, green-hulled vessel finished hammering a steel column nearly 100 feet into the bottom of the Atlantic Ocean.",
+      "publication_date": "2023-06-27T09:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/27/business/energy-environment/marthas-vineyard-wind-farm-massachusetts.html",
+      "byline": "By Stanley Reed and Ivan Penn"
+    },
+    {
+      "headline": "Supreme Court Rejects Theory That Would Have Transformed American Elections",
+      "snippet": "The 6-to-3 majority dismissed the “independent state legislature” theory, which would have given state lawmakers nearly unchecked power over federal elections.",
+      "abstract": "The 6-to-3 majority dismissed the “independent state legislature” theory, which would have given state lawmakers nearly unchecked power over federal elections.",
+      "lead_paragraph": "The Supreme Court on Tuesday rejected a legal theory that would have radically reshaped how federal elections are conducted by giving state legislatures largely unchecked power to set rules for federal elections and to draw congressional maps warped by partisan gerrymandering.",
+      "publication_date": "2023-06-27T14:24:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/27/us/politics/supreme-court-state-legislature-elections.html",
+      "byline": "By Adam Liptak"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2008-02-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Rescues for Homeowners in Debt Weighed",
+      "snippet": "The government is considering proposals to rescue the nearly 8.8 million homeowners who are underwater.",
+      "abstract": "The government is considering proposals to rescue the nearly 8.8 million homeowners who are underwater.",
+      "lead_paragraph": "WASHINGTON  Prodded in part by some of the nation’s biggest banks, the Bush administration and Congress are considering costly new proposals for the government to rescue hundreds of thousands of homeowners whose mortgages are higher than the value of their houses.",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/02/22/business/22homes.html",
+      "byline": "By Edmund L. Andrews and Louis Uchitelle"
+    },
+    {
+      "headline": "When Bankers Fear to Act",
+      "snippet": "In financial crises of the past, financial chiefs have managed to find a cooperative way to turn things around. These days, they seem afraid to do anything.",
+      "abstract": "In financial crises of the past, financial chiefs have managed to find a cooperative way to turn things around. These days, they seem afraid to do anything.",
+      "lead_paragraph": "Where is the next J. P. Morgan?",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/02/22/business/22norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Donors Worried by Clinton Campaign Spending",
+      "snippet": "Hillary Rodham Clinton’s campaign finance report appeared to be a map of her management failings.",
+      "abstract": "Hillary Rodham Clinton’s campaign finance report appeared to be a map of her management failings.",
+      "lead_paragraph": "This article was reported by Michael Luo, Jo Becker and Patrick Healy and was written by Mr. Healy.",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/02/22/us/politics/22clinton.html",
+      "byline": "By Michael Luo, Jo Becker and Patrick Healy"
+    },
+    {
+      "headline": "For Founder’s Grandson, On-the-Job Education",
+      "snippet": "Running Toyota might seem to be Akio Toyoda’s birthright, but it is not guaranteed.",
+      "abstract": "Running Toyota might seem to be Akio Toyoda’s birthright, but it is not guaranteed.",
+      "lead_paragraph": "TOYOTA CITY, Japan   A verdigris-coated bust of the company founder Kiichiro Toyoda greets visitors to Toyota’s headquarters building here. ",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/02/22/business/worldbusiness/22toyotaside.html",
+      "byline": "By Micheline Maynard"
+    },
+    {
+      "headline": "At Toyota, a Global Giant Reaches for Agility",
+      "snippet": "Toyota’s top executives are trying to replicate the company’s success and operating principles in other countries while ceding more control to these new outposts.",
+      "abstract": "Toyota’s top executives are trying to replicate the company’s success and operating principles in other countries while ceding more control to these new outposts.",
+      "lead_paragraph": "TOYOTA CITY, Japan  At Toyota’s training center inside its Motomachi assembly complex here, workers use golf balls to limber up their fingers before they learn new tasks on the factory floor. ",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/02/22/business/worldbusiness/22toyota.html",
+      "byline": "By Micheline Maynard"
+    },
+    {
+      "headline": "Pakistanis Strike Political Accord",
+      "snippet": "The leaders of the two main opposition parties announced Thursday that they would form a government, but they were unclear on the future of President Pervez Musharraf.",
+      "abstract": "The leaders of the two main opposition parties announced Thursday that they would form a government, but they were unclear on the future of President Pervez Musharraf.",
+      "lead_paragraph": "ISLAMABAD, Pakistan  The two main opposition parties that won Pakistan’s elections this week announced Thursday that they had set aside their differences and would form a government, further isolating President Pervez Musharraf, America’s favored ally here. ",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/02/22/world/asia/22pstan.html",
+      "byline": "By Jane Perlez and Carlotta Gall"
+    },
+    {
+      "headline": "Microsoft to Share More Technical Secrets",
+      "snippet": "Seeking to satisfy European antitrust officials, Microsoft said on Thursday that it would open up and share many more of its technical secrets with the rest of the software industry.",
+      "abstract": "Seeking to satisfy European antitrust officials, Microsoft said on Thursday that it would open up and share many more of its technical secrets with the rest of the software industry.",
+      "lead_paragraph": "Seeking to satisfy European antitrust officials, Microsoft said on Thursday that it would open up and share many more of its technical secrets with the rest of the software industry and competitors.",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/02/22/technology/22soft.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Researchers Find Way to Steal Encrypted Data",
+      "snippet": "A computer security research group has developed a way to steal encrypted information from computer hard disks.",
+      "abstract": "A computer security research group has developed a way to steal encrypted information from computer hard disks.",
+      "lead_paragraph": "SAN FRANCISCO  A group led by a Princeton University computer security researcher has developed a simple method to steal encrypted information stored on computer hard disks.",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/02/22/technology/22chip.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Debate Takes On Contentious Air",
+      "snippet": "Hillary Rodham Clinton and Barack Obama veered from collegial to combative in a debate on Thursday.",
+      "abstract": "Hillary Rodham Clinton and Barack Obama veered from collegial to combative in a debate on Thursday.",
+      "lead_paragraph": "Senators Hillary Rodham Clinton and Barack Obama veered from collegial to clenched and combative in a debate on Thursday, with Mrs. Clinton turning especially aggressive as she all but accused Mr. Obama of plagiarism and derided his political message as “change you can Xerox.”",
+      "publication_date": "2008-02-22T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/02/22/us/politics/22debate.html",
+      "byline": "By Patrick Healy and Jeff Zeleny"
+    }
+  ]
+}

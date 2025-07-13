@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2024-12-25",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Raging Waves Batter California’s Coast and Its Beloved Piers",
+      "snippet": "An increasingly ferocious and volatile surf is raising questions about the future of the state’s piers, which have defined the coastline for generations.",
+      "abstract": "An increasingly ferocious and volatile surf is raising questions about the future of the state’s piers, which have defined the coastline for generations.",
+      "lead_paragraph": "The towering waves that have hammered California’s coast this week have been unusually destructive, killing at least one person and prompting warnings by officials to the public to stay away from the state’s beaches. ",
+      "publication_date": "2024-12-24T19:39:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html",
+      "byline": "By Amy Qin and Kate Selig"
+    },
+    {
+      "headline": "A.I., the Electricians and the Boom Towns of Central Washington",
+      "snippet": "The rural region is changing fast as electricians from around the country plug the tech industry’s new, giant data centers into its ample power supply.",
+      "abstract": "The rural region is changing fast as electricians from around the country plug the tech industry’s new, giant data centers into its ample power supply.",
+      "lead_paragraph": "The tangy smell of Buffalo wings filled Side Chicks Sport Bar, as a dozen electricians crammed their big frames into booths. It was Tuesday night in East Wenatchee, Wash., and “brotherhood night” for the electrical union. Out-of-towners and locals swapped notes on who was coming and going, when new jobs were starting and what drama had gone down with a foreman.",
+      "publication_date": "2024-12-25T10:00:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html",
+      "byline": "By Karen Weise and Jovelle Tamayo"
+    },
+    {
+      "headline": "Assist or Resist: Local Officials Debate Trump’s Mass Deportation Threat",
+      "snippet": "Communities are divided on how much to cooperate with immigration agents. In San Diego, the sheriff has vowed to defy a new policy protecting migrants.",
+      "abstract": "Communities are divided on how much to cooperate with immigration agents. In San Diego, the sheriff has vowed to defy a new policy protecting migrants.",
+      "lead_paragraph": "The San Diego region, like many communities that hug the southern border, saw a sharp drop in migrants entering the United States after the Biden administration made it harder to apply for asylum.",
+      "publication_date": "2024-12-25T10:01:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/25/us/trump-deportations-migrants-san-diego.html",
+      "byline": "By Tim Arango and Hamed Aleaziz"
+    }
+  ]
+}

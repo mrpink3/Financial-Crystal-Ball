@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-07-19",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "In Hollywood’s Labor Tumult, Directors Stand Apart",
+      "snippet": "Their union agreed to a deal with the studios last month. With actors and writers on strike, the industry is shut down anyway.",
+      "abstract": "Their union agreed to a deal with the studios last month. With actors and writers on strike, the industry is shut down anyway.",
+      "lead_paragraph": "When the Directors Guild of America agreed to a new three-year contract with the major Hollywood studios last month, the union hailed the agreement as “unprecedented” and “historic.”",
+      "publication_date": "2023-07-18T19:36:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/18/business/media/hollywood-strikes-directors.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Michigan Charges 16 in False Elector Scheme to Overturn Trump’s 2020 Loss",
+      "snippet": "Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.",
+      "abstract": "Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.",
+      "lead_paragraph": "The Michigan attorney general announced felony charges on Tuesday against 16 Republicans for falsely portraying themselves as electors from the state in an effort to overturn Donald J. Trump’s 2020 defeat there.",
+      "publication_date": "2023-07-18T20:38:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/18/us/politics/michigan-attorney-general-charges-false-electors.html",
+      "byline": "By Danny Hakim, Alexandra Berzon and Maggie Astor"
+    },
+    {
+      "headline": "As Sunak Makes His Case to Britons, the Economy Could Undermine It",
+      "snippet": "Britain’s Conservative government faces a morass of problems, some new, others longstanding, that are stymying Prime Minister Rishi Sunak.",
+      "abstract": "Britain’s Conservative government faces a morass of problems, some new, others longstanding, that are stymying Prime Minister Rishi Sunak.",
+      "lead_paragraph": "Prime Minister Rishi Sunak hopes to hold on to power by promoting himself as the repairman for a broken Britain. With the country’s high inflation, spiraling debt and sputtering growth, it often seems hard to know where he should start.",
+      "publication_date": "2023-07-19T04:01:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/19/world/europe/sunak-uk-economy-inflation.html",
+      "byline": "By Mark Landler and Eshe Nelson"
+    },
+    {
+      "headline": "Where the Sheriff Is King, These Women Say He Coerced Them Into Sex",
+      "snippet": "Sheriff Eddie Scott has been the top lawman in rural Clay County, Miss., for more than a decade despite repeated allegations.",
+      "abstract": "Sheriff Eddie Scott has been the top lawman in rural Clay County, Miss., for more than a decade despite repeated allegations.",
+      "lead_paragraph": "In 2012, three months after Eddie Scott became sheriff of Clay County, Miss., a claim by a woman he had helped put behind bars threatened to tarnish his earliest days in office.",
+      "publication_date": "2023-07-19T09:01:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/19/us/mississippi-sheriff-sexual-abuse.html",
+      "byline": "By Ilyssa Daly, Jerry Mitchell and Rory Doyle"
+    },
+    {
+      "headline": "China’s Xi Rebuffs Kerry’s Call for Faster Climate Action",
+      "snippet": "John Kerry, President Biden’s climate envoy, emerges from talks in Beijing without a new agreement. But just talking is progress, he said.",
+      "abstract": "John Kerry, President Biden’s climate envoy, emerges from talks in Beijing without a new agreement. But just talking is progress, he said.",
+      "lead_paragraph": "Chinese leaders rebuffed attempts by John Kerry, President Biden’s climate envoy, to persuade them to commit to tougher climate action during three days of talks in Beijing, a response that suggested that tensions between the countries are making it difficult to work together on a crisis that threatens the planet.",
+      "publication_date": "2023-07-19T09:17:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/19/world/asia/xi-china-climate-kerry.html",
+      "byline": "By Lisa Friedman, Chris Buckley and Keith Bradsher"
+    },
+    {
+      "headline": "The Pandemic’s Labor Market Myths",
+      "snippet": "Amid the pandemic, people thought the labor market had permanently changed in important ways. It was a bad bet.",
+      "abstract": "Amid the pandemic, people thought the labor market had permanently changed in important ways. It was a bad bet.",
+      "lead_paragraph": "Remember the “she-cession”? What about the early-retirement wave, or America’s army of quiet quitters?",
+      "publication_date": "2023-07-19T15:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/19/business/economy/pandemic-labor-market-myths.html",
+      "byline": "By Jeanna Smialek and Ben Casselman"
+    },
+    {
+      "headline": "Could the Recession in the Distance Be Just a Mirage?",
+      "snippet": "Rising interest rates were widely expected to put the U.S. economy in reverse. Now things are looking rosier, but don’t pop the Champagne corks yet.",
+      "abstract": "Rising interest rates were widely expected to put the U.S. economy in reverse. Now things are looking rosier, but don’t pop the Champagne corks yet.",
+      "lead_paragraph": "The recession was supposed to have begun by now.",
+      "publication_date": "2023-07-19T15:05:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/19/business/economy/economy-soft-landing.html",
+      "byline": "By Ben Casselman and Jeanna Smialek"
+    }
+  ]
+}

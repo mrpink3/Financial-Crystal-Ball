@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2022-12-23",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Winter Storm Raises Fears and Scrambles Plans as It Moves South",
+      "snippet": "The powerful storm has bombarded the eastern half of the country, prompting dire warnings to avoid dangerous conditions, and widespread flight cancellations.",
+      "abstract": "The powerful storm has bombarded the eastern half of the country, prompting dire warnings to avoid dangerous conditions, and widespread flight cancellations.",
+      "lead_paragraph": "A perilous brew of winds, heavy snow and ice and plunging temperatures swept across a swath of the United States on Thursday, leaving at least five dead and upending holiday plans during one of the busiest weeks for travel.",
+      "publication_date": "2022-12-22T16:25:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/22/us/winter-storm-snow-cold-ice.html",
+      "byline": "By Rick Rojas, Eliza Fawcett, Campbell Robertson and Judson Jones"
+    },
+    {
+      "headline": "ByteDance Inquiry Finds Employees Obtained User Data of 2 Journalists",
+      "snippet": "The company’s internal investigation showed that workers also obtained data on a small number of other U.S. users.",
+      "abstract": "The company’s internal investigation showed that workers also obtained data on a small number of other U.S. users.",
+      "lead_paragraph": "ByteDance, the Chinese parent company of TikTok, said on Thursday that an internal investigation found that employees had inappropriately obtained the data of U.S. TikTok users, including that of two reporters.",
+      "publication_date": "2022-12-22T17:04:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/22/technology/byte-dance-tik-tok-internal-investigation.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Sam Bankman-Fried Released on $250 Million Bond With Restrictions",
+      "snippet": "The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas. He will live with his parents in California.",
+      "abstract": "The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas. He will live with his parents in California.",
+      "lead_paragraph": "Sam Bankman-Fried, the disgraced former cryptocurrency executive, was granted release from federal custody in a Manhattan court on Thursday under highly restrictive bail conditions, including a $250 million bond secured by his parents’ interest in their California home and a requirement that he remain in home detention with them.",
+      "publication_date": "2022-12-22T18:52:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/22/business/sam-bankman-fried-ftx-bail.html",
+      "byline": "By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany"
+    },
+    {
+      "headline": "How a Bipartisan Senate Group Addressed a Flaw Exposed by Jan. 6",
+      "snippet": "Democrats and Republicans managed to come together to update the archaic Electoral Count Act after they recognized it could again be abused to subvert the presidential vote.",
+      "abstract": "Democrats and Republicans managed to come together to update the archaic Electoral Count Act after they recognized it could again be abused to subvert the presidential vote.",
+      "lead_paragraph": "WASHINGTON — Like most members of Congress, Senator Susan Collins was rocked by the events of Jan. 6, 2021, as a pro-Trump mob stormed the Capitol and violently disrupted the ceremonial tally of presidential electoral votes.",
+      "publication_date": "2022-12-22T19:20:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/22/us/politics/electoral-count-act-jan-6.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Trump Audit Shows Depths of I.R.S. Funding Woes",
+      "snippet": "The agency lacks the resources to go after rich taxpayers. For years, a single revenue agent was responsible for the audits of Donald J. Trump.",
+      "abstract": "The agency lacks the resources to go after rich taxpayers. For years, a single revenue agent was responsible for the audits of Donald J. Trump.",
+      "lead_paragraph": "WASHINGTON — Before Donald J. Trump became president and after, his exceedingly complex and voluminous tax returns came under regular scrutiny by the Internal Revenue Service. The number of agents assigned to the audit team: one.",
+      "publication_date": "2022-12-22T20:17:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/22/us/politics/trump-audit-irs.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington",
+      "snippet": "The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.",
+      "abstract": "The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.",
+      "lead_paragraph": "WASHINGTON — President Volodymyr Zelensky’s triumphant visit to Washington ended with promises of billions more in U.S. support for Ukraine, but not what he wanted most: American battle tanks, fighter jets and long-range precision missiles.",
+      "publication_date": "2022-12-22T23:13:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/22/us/politics/ukraine-zelensky-biden-weapons.html",
+      "byline": "By Eric Schmitt, Zolan Kanno-Youngs and Julian E. Barnes"
+    },
+    {
+      "headline": "For Many Wall Street Bankers, This Year’s Bonus Season Is a Bust",
+      "snippet": "There were fewer mergers and public listings this year, shrinking investment banking revenue. For bankers, that means a smaller pot of money for bonuses.",
+      "abstract": "There were fewer mergers and public listings this year, shrinking investment banking revenue. For bankers, that means a smaller pot of money for bonuses.",
+      "lead_paragraph": "The luxury travel bookings will be more subdued this year, as will the purchases of $200,000 Aston Martins and vacation homes. Splurges on expensive bottles of wine and jewelry will be less spontaneous. For many bankers, it might not be the most wonderful time of the year.",
+      "publication_date": "2022-12-23T08:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/23/business/wall-street-bonuses.html",
+      "byline": "By Maureen Farrell, Lauren Hirsch and Anupreeta Das"
+    },
+    {
+      "headline": "New Retirement Law Would Bring Twists to Roth I.R.A.s and 401(k)s",
+      "snippet": "Want to transfer money from a 529 plan to a Roth I.R.A. or get an after-tax employee match in your Roth 401(k)? You may be in luck.",
+      "abstract": "Want to transfer money from a 529 plan to a Roth I.R.A. or get an after-tax employee match in your Roth 401(k)? You may be in luck.",
+      "lead_paragraph": "The $1.7 trillion federal spending bill that President Biden is expected to sign in the coming days includes dozens of changes to retirement plans. It makes it easier for employers to help workers open emergency savings accounts, assist employees who are repaying student loan debt and give more part-time workers access to retirement plans.",
+      "publication_date": "2022-12-23T10:00:20+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/23/your-money/401k-roth-ira-new-rules.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "BlackRock’s Pitch for Socially Conscious Investing Antagonizes All Sides",
+      "snippet": "Right-wing officials are attacking BlackRock for overstepping. Those on the left say the world’s biggest asset manager is not doing enough.",
+      "abstract": "Right-wing officials are attacking BlackRock for overstepping. Those on the left say the world’s biggest asset manager is not doing enough.",
+      "lead_paragraph": "It was a clarion call to chief executives everywhere.",
+      "publication_date": "2022-12-23T10:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/23/business/blackrock-esg-investing.html",
+      "byline": "By Matthew Goldstein and Maureen Farrell"
+    },
+    {
+      "headline": "Jeep Plant Shutdown Imperils Illinois Town and 1,350 Workers",
+      "snippet": "Stellantis plans to idle the factory, which makes the Cherokee, as it shifts to electric vehicles. Labor talks and a union election may be affected.",
+      "abstract": "Stellantis plans to idle the factory, which makes the Cherokee, as it shifts to electric vehicles. Labor talks and a union election may be affected.",
+      "lead_paragraph": "The Jeep Cherokee was a strong seller just a few years ago. In 2019, a plant in Belvidere, Ill., produced about 190,000 of the sport utility vehicles, employing close to 5,000 people and operating three shifts a day.",
+      "publication_date": "2022-12-23T10:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/23/business/jeep-factory.html",
+      "byline": "By Neal E. Boudette and Robert Chiarito"
+    },
+    {
+      "headline": "France Desperately Needs Workers, but the Fixes Could Anger Left and Right",
+      "snippet": "Legalization of undocumented workers and pared-down unemployment benefits are part of the government’s plan to fill hundreds of thousands of jobs.",
+      "abstract": "Legalization of undocumented workers and pared-down unemployment benefits are part of the government’s plan to fill hundreds of thousands of jobs.",
+      "lead_paragraph": "The sign on the window of Red Rhino, a popular barbecue restaurant in central Paris, has been up for a month: “Closed until further notice due to lack of personnel.” Bus and train service has been cut back in the tourist city of Lyon amid a dearth of drivers. In the Loire Valley, tons of vegetables went unharvested in the summer as thousands of picking jobs were left unfilled.",
+      "publication_date": "2022-12-23T10:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/23/business/france-jobs.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Like a Walk-In Freezer: Pre-Holiday Storm Pummels the Nation",
+      "snippet": "Roughly two-thirds of the U.S. population — more than 200 million people — were under winter warnings or advisories at one point on Friday.",
+      "abstract": "Roughly two-thirds of the U.S. population — more than 200 million people — were under winter warnings or advisories at one point on Friday.",
+      "lead_paragraph": "CHICAGO — A frigid winter storm pummeled the United States for a third day on Friday, leaving more than 500,000 homes and businesses without power, causing crashes and epic delays on ice-slicked expressways and stranding thousands of travelers at airports just before Christmas.",
+      "publication_date": "2022-12-23T10:31:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/23/us/winter-storm-snow-power-outages-christmas.html",
+      "byline": "By Julie Bosman, Richard Fausset and Jamie McGee"
+    },
+    {
+      "headline": "Consumer Spending Cooled in November as Closely Watched Inflation Gauge Slowed",
+      "snippet": "The Personal Consumption Expenditures index showed prices increased 5.5 percent last month, as consumer spending pulled back.",
+      "abstract": "The Personal Consumption Expenditures index showed prices increased 5.5 percent last month, as consumer spending pulled back.",
+      "lead_paragraph": "The Federal Reserve’s preferred inflation measure is showing signs of moderating after months of rapid price increases, and a closely watched gauge of consumer spending slowed last month, a sign that the economy may have less steam as it heads into 2023.",
+      "publication_date": "2022-12-23T13:41:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/23/business/economy/consumer-spending-inflation-november.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

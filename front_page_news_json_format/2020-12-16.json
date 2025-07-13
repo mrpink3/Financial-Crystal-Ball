@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2020-12-16",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "The Virus Trains: How Lockdown Chaos Spread Covid-19 Across India",
+      "snippet": "Prime Minister Narendra Modi’s coronavirus restrictions sent migrant workers fleeing. To get them home, the government offered special trains. But the trains would spread the virus across the country.",
+      "abstract": "Prime Minister Narendra Modi’s coronavirus restrictions sent migrant workers fleeing. To get them home, the government offered special trains. But the trains would spread the virus across the country.",
+      "lead_paragraph": "SURAT, India — The crowds surged through the gates, fought their way up the stairs of the 160-year-old station, poured across the platforms and engulfed the trains.",
+      "publication_date": "2020-12-15T18:58:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/15/world/asia/india-coronavirus-shramik-specials.html",
+      "byline": ""
+    },
+    {
+      "headline": "Biden to Face a Confrontational Russia in a World Changed From His Time in Office",
+      "snippet": "The president-elect will have to assure American national security in ways that will require pushing back on the Kremlin at times and, at others, seeking Russian cooperation.",
+      "abstract": "The president-elect will have to assure American national security in ways that will require pushing back on the Kremlin at times and, at others, seeking Russian cooperation.",
+      "lead_paragraph": "WASHINGTON — The extensive hack of American government computer systems, almost certainly orchestrated by the Kremlin, underscores the daunting foreign policy challenge that President Vladimir V. Putin of Russia poses to the incoming Biden administration.",
+      "publication_date": "2020-12-15T19:52:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/15/us/politics/biden-russia-trump-putin.html",
+      "byline": "By Jennifer Steinhauer and Michael Crowley"
+    },
+    {
+      "headline": "Critical to Vaccines, Cold Storage Is Wall Street’s Shiny New Thing",
+      "snippet": "Smaller companies that are key to the cold storage and distribution of Covid-19 vaccines are seeing a flurry of new investments.",
+      "abstract": "Smaller companies that are key to the cold storage and distribution of Covid-19 vaccines are seeing a flurry of new investments.",
+      "lead_paragraph": "The situation was dire. As the pandemic raged in March, some Covid-19 patients in Milan were going into septic shock and their blood pressure was perilously low.",
+      "publication_date": "2020-12-15T19:56:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/15/business/cold-storage-covid-vaccine.html",
+      "byline": "By Kate Kelly"
+    },
+    {
+      "headline": "Defying Trump, McConnell Seeks to Squelch Bid to Overturn the Election",
+      "snippet": "Senator Mitch McConnell, the majority leader, congratulated President-elect Joseph R. Biden Jr. and pleaded with Republicans privately not to join an effort by House members to throw out the results.",
+      "abstract": "Senator Mitch McConnell, the majority leader, congratulated President-elect Joseph R. Biden Jr. and pleaded with Republicans privately not to join an effort by House members to throw out the results.",
+      "lead_paragraph": "Breaking with President Trump’s drive to overturn his election loss, Senator Mitch McConnell of Kentucky on Tuesday congratulated President-elect Joseph R. Biden Jr. on his victory and began a campaign to keep fellow Republicans from joining a doomed last-ditch effort to reverse the outcome in Congress.",
+      "publication_date": "2020-12-15T23:13:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/15/us/politics/mcconnell-congratulates-biden.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Red Flags for Economy as Retail Sales Fall for a Second Month",
+      "snippet": "Drops in November and October raise questions about how retailers are faring in the all-important holiday shopping season.",
+      "abstract": "Drops in November and October raise questions about how retailers are faring in the all-important holiday shopping season.",
+      "lead_paragraph": "Consumer spending has been one of the few bright spots in the pandemic-battered economy. Since the spring, Americans have spent more each month even in the face of mounting job losses, political turmoil and recurring virus outbreaks.",
+      "publication_date": "2020-12-16T13:49:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/16/business/us-retail-sales-november.html",
+      "byline": "By Michael Corkery and Sapna Maheshwari"
+    }
+  ]
+}

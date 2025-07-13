@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2017-11-03",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Metaphor for G.E.’s Ills: A Corporate Jet With No Passengers",
+      "snippet": "General Electric’s use of one plane to trail another has raised questions about excess, and lack of oversight, at a company whose share price continues to slide.",
+      "abstract": "General Electric’s use of one plane to trail another has raised questions about excess, and lack of oversight, at a company whose share price continues to slide.",
+      "lead_paragraph": "The bizarre case of General Electric’s use of a second corporate jet to follow its former chief executive, Jeff Immelt, as he hopscotched around the globe seems such an outlandish waste of money that many reacted with disbelief after The Wall Street Journal reported it on Oct. 18.",
+      "publication_date": "2017-11-02T18:23:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/02/business/ge-corporate-jets.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Why It’s Too Soon to Predict What the Tax Changes Will Mean for You",
+      "snippet": "Your workplace retirement savings account lives, for now. So does a pretty big mortgage interest deduction. But plenty will change in the coming weeks.",
+      "abstract": "Your workplace retirement savings account lives, for now. So does a pretty big mortgage interest deduction. But plenty will change in the coming weeks.",
+      "lead_paragraph": "The news on Thursday that Congress does not (for now at least) plan to fundamentally alter our workplace savings plans was a pleasant surprise on its own. Current homeowners won’t see their mortgage interest deductions disappear, either.",
+      "publication_date": "2017-11-02T20:22:33+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/02/your-money/tax-plan-changes-predict.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Trump and Sessions Denied Knowing About Russian Contacts. Records Suggest Otherwise.",
+      "snippet": "Court documents show an aide trumpeted his Russian connections in front of Donald J. Trump during the campaign, the first concrete evidence Mr. Trump was told of Russian ties.",
+      "abstract": "Court documents show an aide trumpeted his Russian connections in front of Donald J. Trump during the campaign, the first concrete evidence Mr. Trump was told of Russian ties.",
+      "lead_paragraph": "WASHINGTON — Standing before reporters in February, President Trump said unequivocally that he knew of nobody from his campaign who was in contact with Russians during the election. Attorney General Jeff Sessions has told the Senate the same thing.",
+      "publication_date": "2017-11-02T23:04:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html",
+      "byline": "By Michael S. Schmidt, Matt Apuzzo and Scott Shane"
+    },
+    {
+      "headline": "‘Major, Major’ Tax Cut May Not Be in Store for Middle Class",
+      "snippet": "The typical family would get a break from the Republican tax plan, but millions could experience tax increases.",
+      "abstract": "The typical family would get a break from the Republican tax plan, but millions could experience tax increases.",
+      "lead_paragraph": "WASHINGTON — The House Republican tax bill is a clear windfall for corporate America and a roll of the dice for the middle-class families that President Trump promised would be the centerpiece of his economic agenda.",
+      "publication_date": "2017-11-02T23:42:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/02/us/politics/middle-class-tax-cut-republican-bill.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "‘Very Frustrated’ Trump Becomes Top Critic of Law Enforcement",
+      "snippet": "Mr. Trump’s repeated assaults on the criminal justice system cross lines other presidents have largely observed since the Watergate era.",
+      "abstract": "Mr. Trump’s repeated assaults on the criminal justice system cross lines other presidents have largely observed since the Watergate era.",
+      "lead_paragraph": "WASHINGTON — One of President Trump’s biggest disappointments in office, by his own account, was discovering that he is not supposed to personally direct law enforcement decisions by the Justice Department and the F.B.I. So, instead, he has made himself into perhaps the most vocal critic of America’s system of justice ever to occupy the Oval Office.",
+      "publication_date": "2017-11-03T11:57:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/03/us/politics/trump-says-justice-dept-and-fbi-must-do-what-is-right-and-investigate-democrats.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Bill Ackman’s Battle With ADP Is a Litmus Test for Activist Investing",
+      "snippet": "Mr. Ackman is seeking to shake up the payroll processing firm in a fight that will challenge the shifting power of activists in an era of record corporate profits.",
+      "abstract": "Mr. Ackman is seeking to shake up the payroll processing firm in a fight that will challenge the shifting power of activists in an era of record corporate profits.",
+      "lead_paragraph": "One night in early August, Carlos Rodriguez, the chief executive of the payroll processing firm ADP, was driving home from a board meeting to celebrate his wife’s birthday when he got a call that every corporate leader dreads. On the phone was William A. Ackman, the brash activist investor, announcing that he had taken a stake in ADP and wanted to shake up the board.",
+      "publication_date": "2017-11-03T14:06:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/03/business/ackman-adp-activist-investor.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Bowe Bergdahl Avoids Prison for Desertion; Trump Calls Sentence a ‘Disgrace’",
+      "snippet": "The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is dishonorably discharged from the Army, has his rank reduced and must forfeit some pay.",
+      "abstract": "The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is dishonorably discharged from the Army, has his rank reduced and must forfeit some pay.",
+      "lead_paragraph": "FORT BRAGG, N.C. — Sgt. Bowe Bergdahl, who walked off his Army base in Afghanistan in 2009 and was held captive by the Taliban for five years, received no prison time for desertion or endangering troops, but was ordered by a military judge on Friday to be dishonorably discharged from the Army.",
+      "publication_date": "2017-11-03T15:44:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/03/us/bowe-bergdahl-sentence.html",
+      "byline": "By Richard A. Oppel Jr"
+    }
+  ]
+}

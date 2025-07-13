@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2022-01-13",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Libor, Long the Most Important Number in Finance, Dies at 52",
+      "snippet": "Bankers used it until the end. Regulators say good riddance after its infamous fall.",
+      "abstract": "Bankers used it until the end. Regulators say good riddance after its infamous fall.",
+      "lead_paragraph": "The London interbank offered rate, a number that spent decades as a central force of international finance and was used in setting interest rates on everything from mortgages to student loans, has died after a long battle with regulators. It was 52.",
+      "publication_date": "2022-01-12T18:38:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/12/business/libor-finance.html",
+      "byline": "By Lananh Nguyen and Jeanna Smialek"
+    },
+    {
+      "headline": "An Alabama Town’s Sewage Woes Test Biden’s Infrastructure Ambitions",
+      "snippet": "The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most?",
+      "abstract": "The new law allocates $11.7 billion for wastewater and stormwater projects. Will it get to the impoverished communities who need it most?",
+      "lead_paragraph": "HAYNEVILLE, Ala. — What babbles behind Marilyn Rudolph’s house in the rural countryside is no brook.",
+      "publication_date": "2022-01-12T19:08:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/12/us/politics/infrastructure-environmental-racism-alabama-black-belt.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "Kevin McCarthy Refuses Interview Request From Jan. 6 Committee",
+      "snippet": "The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward.",
+      "abstract": "The panel said it was interested in conversations the top House Republican had with President Donald J. Trump on the day of the riot and afterward.",
+      "lead_paragraph": "WASHINGTON — The House select committee scrutinizing the Jan. 6 attack on the Capitol on Wednesday formally requested an interview with Representative Kevin McCarthy, taking the unusual step of calling the minority leader, who was in close contact with former President Donald J. Trump before, during and after the violence and has fought to shut down any investigation of the events.",
+      "publication_date": "2022-01-12T21:03:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/12/us/politics/kevin-mccarthy-jan-6-committee.html",
+      "byline": "By Luke Broadwater"
+    },
+    {
+      "headline": "C.E.O.s Were Our Heroes, at Least According to Them",
+      "snippet": "They stepped up in the pandemic “to save the world,” says Marc Benioff of Salesforce. Even as their tax practices and perches kept them above its troubles.",
+      "abstract": "They stepped up in the pandemic “to save the world,” says Marc Benioff of Salesforce. Even as their tax practices and perches kept them above its troubles.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-01-13T10:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/01/13/business/davos-man-marc-benioff-book.html",
+      "byline": ""
+    }
+  ]
+}

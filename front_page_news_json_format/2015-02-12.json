@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2015-02-12",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Kings of Their Crafts, but on Divergent Paths",
+      "snippet": "Jon Stewart of “The Daily Show” is leaving on his own terms, while Brian Williams was suspended after an untruth was exposed.",
+      "abstract": "Jon Stewart of “The Daily Show” is leaving on his own terms, while Brian Williams was suspended after an untruth was exposed.",
+      "lead_paragraph": "Other than timing, Jon Stewart’s triumphant retirement and Brian Williams’s public and humbling disenfranchisement would seem to have little in common.",
+      "publication_date": "2015-02-11T18:48:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/12/business/media/brian-williamss-and-jon-stewarts-common-ground.html",
+      "byline": "By David Carr"
+    },
+    {
+      "headline": "Google, Mighty Now, but Not Forever",
+      "snippet": "The tech giant is trying to evolve beyond a search behemoth, but it faces the same problems as the once-mighty tech companies that came before it.",
+      "abstract": "The tech giant is trying to evolve beyond a search behemoth, but it faces the same problems as the once-mighty tech companies that came before it.",
+      "lead_paragraph": "Technology giants often meet their end not with a bang but a whimper, a slow, imperceptible descent into irrelevancy that may not immediately be reflected in the anodyne language of corporate earnings reports.",
+      "publication_date": "2015-02-11T18:53:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/12/technology/personaltech/googles-time-at-the-top-may-be-nearing-its-end.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Valentine’s Day Chocolate Will Cost More This Year, as Cocoa Prices Rise",
+      "snippet": "Higher demand in Asia, difficult weather in the major cocoa-producing countries in West Africa and attacks of fungus are contributing to the price increases.",
+      "abstract": "Higher demand in Asia, difficult weather in the major cocoa-producing countries in West Africa and attacks of fungus are contributing to the price increases.",
+      "lead_paragraph": "This year, perhaps more than ever, kisses may not come cheap. ",
+      "publication_date": "2015-02-12T01:44:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/12/business/valentines-day-chocolate-will-cost-more-this-year-as-cocoa-prices-rise.html",
+      "byline": "By Stephanie Strom"
+    },
+    {
+      "headline": "Comedy Central Ponders How to Replace Jon Stewart",
+      "snippet": "“The Daily Show” commands its own brand loyalty, but the network faces a slippery mission in finding a replacement for Mr. Stewart ahead of an election year.",
+      "abstract": "“The Daily Show” commands its own brand loyalty, but the network faces a slippery mission in finding a replacement for Mr. Stewart ahead of an election year.",
+      "lead_paragraph": "Jon Stewart’s announcement that he will give up his anchor chair on Comedy Central’s “The Daily Show” by the end of the year reverberated on Wednesday through the corridors of power in Washington, New York publishing houses and most important, the network’s parent company, Viacom. ",
+      "publication_date": "2015-02-12T01:51:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/12/business/media/comedy-central-ponders-how-to-replace-jon-stewart.html",
+      "byline": "By Lorne Manly"
+    },
+    {
+      "headline": "Brian Williams Scandal Prompts Frantic Efforts at NBC to Curb Rising Damage",
+      "snippet": "Interviews show a news division in crisis mode as it investigated Brian Williams and assessed whether its celebrity anchor could salvage his position.",
+      "abstract": "Interviews show a news division in crisis mode as it investigated Brian Williams and assessed whether its celebrity anchor could salvage his position.",
+      "lead_paragraph": "Hours before Brian Williams took the anchor’s chair for the nightly newscast on Feb. 4, a sense of dread began to spread through the Rockefeller Plaza offices of NBC News.",
+      "publication_date": "2015-02-12T02:06:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/12/business/media/frantic-efforts-at-nbc-to-curb-rising-damage-caused-by-brian-williams.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "In Ukraine, It’s Putin’s Game ",
+      "snippet": "In Minsk, Europe’s often fractious leaders confronted the reality that President Vladimir V. Putin of Russia retains the upper hand precisely because he is prepared to use military force to get what he wants in diplomacy.",
+      "abstract": "In Minsk, Europe’s often fractious leaders confronted the reality that President Vladimir V. Putin of Russia retains the upper hand precisely because he is prepared to use military force to get what he wants in diplomacy.",
+      "lead_paragraph": "BRUSSELS — His country’s oil export revenues and currency have slumped. Its economy is shrinking, and some of his own allies in Moscow have questioned where he is leading them. Yet when President Vladimir V. Putin of Russia sat down Wednesday in the Belarussian capital of Minsk with the leaders of Ukraine, Germany and France to discuss the conflict in eastern Ukraine, he still held the decisive cards.",
+      "publication_date": "2015-02-12T03:29:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/12/world/in-ukraine-its-putins-game.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Ukraine’s Latest Peace Plan Inspires Hope and Doubts",
+      "snippet": "After marathon negotiations, the leaders of France, Germany, Russia and Ukraine announced a new cease-fire and a deal to end the conflict in eastern Ukraine.",
+      "abstract": "After marathon negotiations, the leaders of France, Germany, Russia and Ukraine announced a new cease-fire and a deal to end the conflict in eastern Ukraine.",
+      "lead_paragraph": "MINSK, Belarus — The coming days will provide a quick, tangible test of whether a new peace agreement announced Thursday will prove any more effective in calming the nearly year-old war in Ukraine than a similar cease-fire last September that was widely ignored.",
+      "publication_date": "2015-02-12T09:33:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/13/world/europe/ukraine-talks-cease-fire.html",
+      "byline": "By Neil MacFarquhar"
+    }
+  ]
+}

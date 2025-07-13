@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "date": "2014-03-11",
+    "total_articles": 14
+  },
+  "articles": [
+    {
+      "headline": "Snowden Tries to Rally Tech Conference to Buttress Privacy Shields",
+      "snippet": "Edward J. Snowden discussed spying by the National Security Agency via videoconference at the South by Southwest conference, and told attendees that they were “the folks who can fix this.”",
+      "abstract": "Edward J. Snowden discussed spying by the National Security Agency via videoconference at the South by Southwest conference, and told attendees that they were “the folks who can fix this.”",
+      "lead_paragraph": " AUSTIN, Tex. — Edward J. Snowden wants the technology industry to get serious about protecting the privacy of its users and customers.",
+      "publication_date": "2014-03-10T16:09:49+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://bits.blogs.nytimes.com/2014/03/10/at-sxsw-snowden-speaks-about-n-s-a-spying/",
+      "byline": "By Jenna Wortham and Nicole Perlroth"
+    },
+    {
+      "headline": "Faulting Army, Judge Puts Off Assault Case",
+      "snippet": "The judge said Army officials may not have acted independent of external politics and possible pressure from senior Pentagon officials when they decided to turn down a plea offer.",
+      "abstract": "The judge said Army officials may not have acted independent of external politics and possible pressure from senior Pentagon officials when they decided to turn down a plea offer.",
+      "lead_paragraph": "FORT BRAGG, N.C. — The military judge overseeing the court-martial of Brig. Gen. Jeffrey A. Sinclair on sexual assault charges brought the trial to a halt on Monday, suggesting that a senior Army official may have been improperly influenced by political considerations in his handling of the case. ",
+      "publication_date": "2014-03-10T16:59:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/11/us/judge-in-generals-assault-case-weighs-claim-that-prosecution-was-tainted.html",
+      "byline": "By Alan Blinder and Richard A. Oppel Jr"
+    },
+    {
+      "headline": "Titans in Russia Fear New Front in Ukraine Crisis",
+      "snippet": "Business titans face the prospect of losing access to Western finance if the United States and Europe carry out threats of tougher sanctions against Moscow.",
+      "abstract": "Business titans face the prospect of losing access to Western finance if the United States and Europe carry out threats of tougher sanctions against Moscow.",
+      "lead_paragraph": "MOSCOW — When Vladimir V. Putin returned to the Russian presidency in 2012, one of the first messages he sent to his political elite, many of them heads of banks and large corporations, was that the times had changed: Owning assets outside Russia makes you too vulnerable to moves by foreign governments, he told them. It is time to bring your wealth home.",
+      "publication_date": "2014-03-10T18:44:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/11/world/europe/russian-oligarchs-on-ukraine-crisis.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Secret Agent, Book Agent, All the Same",
+      "snippet": "Chris Pavone, a novelist and former nonfiction editor, contends that the sedate book publishing industry can make an exciting setting for a fictional thriller.",
+      "abstract": "Chris Pavone, a novelist and former nonfiction editor, contends that the sedate book publishing industry can make an exciting setting for a fictional thriller.",
+      "lead_paragraph": "Thriller writers have a knack for picking settings that are inherently suspenseful. A sinking yacht. The homicide unit of a police department. A secret lair stocked with covert C.I.A. operatives.",
+      "publication_date": "2014-03-10T21:39:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2014/03/11/business/media/chris-pavones-thriller-the-accident-set-in-book-world.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "Coal to the Rescue, but Maybe Not Next Winter",
+      "snippet": "Energy companies have struggled to meet demand during the coldest winter in recent memory, and they have relied on coal plants that are soon to close.",
+      "abstract": "Energy companies have struggled to meet demand during the coldest winter in recent memory, and they have relied on coal plants that are soon to close.",
+      "lead_paragraph": "COLUMBUS, Ohio — When the temperature here dropped into the teens this winter, ice formed on the inside of Ernestine J. Cundiff’s windows in the drafty 50-year-old apartment building where she lives. At 81, with diabetes, poor circulation in her legs and both shoulders damaged in separate falls last year, Ms. Cundiff said wearing leggings and fur-lined slippers was not enough to keep her warm, so she took to using an electric space heater in her bedroom.",
+      "publication_date": "2014-03-10T23:39:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/11/business/energy-environment/coal-to-the-rescue-this-time.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "House to Investigate Slow Response to Fault in G.M. Vehicles",
+      "snippet": "Congressional hearings will include General Motors, which learned of ignition switch problems in 2004, and federal safety regulators, who received more than 260 complaints.",
+      "abstract": "Congressional hearings will include General Motors, which learned of ignition switch problems in 2004, and federal safety regulators, who received more than 260 complaints.",
+      "lead_paragraph": "WASHINGTON — A House committee has started an investigation into the response by General Motors and federal safety regulators to complaints about faulty ignition switches that have been linked to 13 deaths, officials said on Monday.",
+      "publication_date": "2014-03-11T00:34:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/11/us/politics/house-to-investigate-slow-response-to-fault-in-gm-vehicles.html",
+      "byline": "By Matthew L. Wald and Bill Vlasic"
+    },
+    {
+      "headline": "Icahn’s War of Words With eBay",
+      "snippet": "Carl C. Icahn, the activist investor, is in a battle with Marc Andreessen, the entrepreneur turned technology investor.",
+      "abstract": "Carl C. Icahn, the activist investor, is in a battle with Marc Andreessen, the entrepreneur turned technology investor.",
+      "lead_paragraph": "It’s a fight that pits Wall Street against Silicon Valley.",
+      "publication_date": "2014-03-11T01:10:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/10/icahns-war-of-words-with-ebay/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Use of Stolen Passports on Missing Jet Highlights Security Flaw",
+      "snippet": "Aviation safety experts said the discovery that two passengers were traveling on stolen passports has revealed a major gap in security procedures developed since the attacks of Sept. 11, 2001.",
+      "abstract": "Aviation safety experts said the discovery that two passengers were traveling on stolen passports has revealed a major gap in security procedures developed since the attacks of Sept. 11, 2001.",
+      "lead_paragraph": "WASHINGTON — As an armada of ships, planes and helicopters combed the waters south of Vietnam on Monday for any sign of a missing Malaysian airliner, aviation safety experts said the discovery that two passengers aboard the plane were traveling on stolen passports has revealed a major gap in airline security procedures developed since the attacks of Sept. 11, 2001. ",
+      "publication_date": "2014-03-11T01:24:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/11/world/asia/missing-malaysian-airliner-said-to-highlight-a-security-gap.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Puerto Rico Gets a Break With Rates on Its Bonds",
+      "snippet": "The commonwealth, which is selling $3 billion in bonds on Tuesday, is also raising concern that it may be planning to revamp its existing debt.",
+      "abstract": "The commonwealth, which is selling $3 billion in bonds on Tuesday, is also raising concern that it may be planning to revamp its existing debt.",
+      "lead_paragraph": " Puerto Rico is expected to sell roughly $3 billion in bonds on Tuesday at interest rates that are considerably lower than many investors in the municipal market had expected, providing a rare bright spot for the cash-squeezed island.",
+      "publication_date": "2014-03-11T01:30:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/10/puerto-rico-gets-a-break-with-rates-on-its-bonds/",
+      "byline": "By Michael Corkery and Mary Williams Walsh"
+    },
+    {
+      "headline": "Yen-Pinching Undercuts Japan’s Push Against Years of Deflation",
+      "snippet": "After years of falling prices, many Japanese have the mind-set that they need to save, not spend, putting a burden on the economy.",
+      "abstract": "After years of falling prices, many Japanese have the mind-set that they need to save, not spend, putting a burden on the economy.",
+      "lead_paragraph": "TOKYO — The loose change in Yusa Nishimura’s purse could be undermining Prime Minister Shinzo Abe’s economic recovery plan for Japan.",
+      "publication_date": "2014-03-11T01:50:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/11/business/international/yen-pinching-undercuts-japans-push-against-years-of-deflation.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "For Hateful Comic in France, Muzzle Becomes a Megaphone",
+      "snippet": "Despite dozens of charges, French officials have been confounded in efforts to stop the performances of Dieudonné M’bala M’bala, who is seen as anti-Semitic.",
+      "abstract": "Despite dozens of charges, French officials have been confounded in efforts to stop the performances of Dieudonné M’bala M’bala, who is seen as anti-Semitic.",
+      "lead_paragraph": "PARIS — Thirty-eight times in recent years the French authorities have charged the comedian Dieudonné M’bala M’bala with violating anti-hate laws. The government has urged cities and towns to ban his performances, and some have done so, canceling his sold-out shows. Senior officials have condemned him as an anti-Semitic Holocaust denier who is inciting hatred.",
+      "publication_date": "2014-03-11T03:31:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/11/world/europe/for-hateful-comic-in-france-muzzle-becomes-a-megaphone.html",
+      "byline": "By Alissa J. Rubin"
+    },
+    {
+      "headline": "Bangladesh Inspections Find Gaps in Safety",
+      "snippet": "Nearly a year after the collapse of a factory building killed more than 1,100 workers, reports released on Tuesday detail problems at 10 other factories.",
+      "abstract": "Nearly a year after the collapse of a factory building killed more than 1,100 workers, reports released on Tuesday detail problems at 10 other factories.",
+      "lead_paragraph": "Nearly a year after a factory building collapsed in Bangladesh, killing more than 1,100 workers, engineering teams sponsored by Western retailers have been rigorously inspecting that country’s garment industry, resulting in at least two temporary closings because of safety problems.",
+      "publication_date": "2014-03-11T13:43:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/12/business/safety-flaws-found-in-new-inspections-of-factories-in-bangladesh.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Conflict Erupts in Public Rebuke on C.I.A. Inquiry",
+      "snippet": "Senator Dianne Feinstein, the chairwoman of the Senate Intelligence Committee, said the C.I.A. searched computers being used by committee staff members to investigate the agency’s interrogation tactics.",
+      "abstract": "Senator Dianne Feinstein, the chairwoman of the Senate Intelligence Committee, said the C.I.A. searched computers being used by committee staff members to investigate the agency’s interrogation tactics.",
+      "lead_paragraph": "WASHINGTON — A festering conflict between the Central Intelligence Agency and its congressional overseers broke into the open Tuesday when Senator Dianne Feinstein, chairwoman of the Intelligence Committee and one of the C.I.A.’s staunchest defenders, delivered an extraordinary denunciation of the agency, accusing it of withholding information about its treatment of prisoners and trying to intimidate committee staff members investigating the detention program.",
+      "publication_date": "2014-03-11T14:39:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/12/us/cia-accused-of-illegally-searching-computers-used-by-senate-committee.html",
+      "byline": "By Mark Mazzetti and Jonathan Weisman"
+    },
+    {
+      "headline": "Founder Missing in Men’s Wearhouse Deal for Jos. A. Bank",
+      "snippet": "Almost accidentally, George Zimmer, through his actions, slapped a red-letter “Sale” sign on the company he had founded..",
+      "abstract": "Almost accidentally, George Zimmer, through his actions, slapped a red-letter “Sale” sign on the company he had founded..",
+      "lead_paragraph": "Updated, 8:35 p.m. | The man who inadvertently lit the fuse that led to the hottest takeover battle in years was left unmentioned in the announcement of a $1.8 billion merger of two once-warring men’s suits chains.",
+      "publication_date": "2014-03-11T15:39:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/11/mens-wearhouse-nears-deal-for-jos-a-bank/",
+      "byline": "By David Gelles"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-03-21",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "In Nafta Talks, U.S. Tries to Limit Junk Food Warning Labels",
+      "snippet": "A Trump administration proposal would limit the ability of Mexico, Canada and the U.S. to warn consumers about the dangers of foods linked to obesity.",
+      "abstract": "A Trump administration proposal would limit the ability of Mexico, Canada and the U.S. to warn consumers about the dangers of foods linked to obesity.",
+      "lead_paragraph": "MEXICO CITY — The contentious negotiations over the fate of the North American Free Trade Agreement have veered into one of the world’s most pressing health issues: fighting obesity.",
+      "publication_date": "2018-03-20T16:28:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/20/world/americas/nafta-food-labels-obesity.html",
+      "byline": "By Azam Ahmed, Matt Richtel and Andrew Jacobs"
+    },
+    {
+      "headline": "Trump Congratulates Putin, but Doesn’t Mention Meddling in U.S.",
+      "snippet": "“We had a very good call,” President Trump told reporters in the Oval Office after speaking with the Russian leader after his re-election. “We will probably be meeting in the not-too-distant future.”",
+      "abstract": "“We had a very good call,” President Trump told reporters in the Oval Office after speaking with the Russian leader after his re-election. “We will probably be meeting in the not-too-distant future.”",
+      "lead_paragraph": "WASHINGTON — President Trump called on Tuesday to congratulate President Vladimir V. Putin of Russia on his re-election, but did not raise with him the lopsided nature of his victory, Russia’s meddling in the 2016 presidential election or Moscow’s role in a nerve agent attack on a former Russian spy and his daughter living in Britain.",
+      "publication_date": "2018-03-20T17:04:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/20/us/politics/trump-putin-russia.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Ex-Playboy Model Karen McDougal Sues to Speak on Alleged Trump Affair",
+      "snippet": "Ms. McDougal is the second woman this month to challenge Trump associates’ efforts to bury stories of extramarital relationships.",
+      "abstract": "Ms. McDougal is the second woman this month to challenge Trump associates’ efforts to bury stories of extramarital relationships.",
+      "lead_paragraph": "A former Playboy model who claimed she had an affair with Donald J. Trump sued on Tuesday to be released from a 2016 legal agreement restricting her ability to speak, becoming the second woman this month to challenge Trump allies’ efforts during the presidential campaign to bury stories about extramarital relationships.",
+      "publication_date": "2018-03-20T17:27:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/20/us/ex-playboy-model-sues-to-break-silence-on-trump.html",
+      "byline": "By Jim Rutenberg and Rebecca R. Ruiz"
+    },
+    {
+      "headline": "Once an S.E.C. Regulator, Now Thriving as a Lawyer for Whistle-Blowers",
+      "snippet": "Jordan A. Thomas helped create an S.E.C. program to encourage employees to alert authorities to corporate wrongdoing. Now his firm is sharing in the proceeds.",
+      "abstract": "Jordan A. Thomas helped create an S.E.C. program to encourage employees to alert authorities to corporate wrongdoing. Now his firm is sharing in the proceeds.",
+      "lead_paragraph": "When Jordan A. Thomas left the Securities and Exchange Commission in 2011, he could have landed a job at a top law firm, likely earning $500,000 or more a year to defend corporations and Wall Street firms in government investigations.",
+      "publication_date": "2018-03-20T18:40:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/20/business/jordan-thomas-sec-whistleblower-settlement.html",
+      "byline": "By Randall Smith"
+    },
+    {
+      "headline": "The End for Facebook’s Security Evangelist",
+      "snippet": "Alex Stamos, Facebook’s chief information security officer, who plans to leave the company by August, is known in Silicon Valley for his strong stands.",
+      "abstract": "Alex Stamos, Facebook’s chief information security officer, who plans to leave the company by August, is known in Silicon Valley for his strong stands.",
+      "lead_paragraph": "Alex Stamos, the Facebook executive who plans to leave the company by August amid a backlash over disinformation, has not been one to hold back.",
+      "publication_date": "2018-03-20T23:44:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/20/technology/alex-stamos-facebook-security.html",
+      "byline": "By Nicole Perlroth and Sheera Frenkel"
+    },
+    {
+      "headline": "Welcome to Zucktown. Where Everything Is Just Zucky.",
+      "snippet": "In Menlo Park, Calif., Facebook is building a real community and testing the proposition: Do people love tech companies so much they will live inside them?",
+      "abstract": "In Menlo Park, Calif., Facebook is building a real community and testing the proposition: Do people love tech companies so much they will live inside them?",
+      "lead_paragraph": "MENLO PARK, Calif. — John Tenanes, Facebook’s vice president for real estate, is showing off the company’s plans for expansion. It will have offices for thousands of programmers to extend Facebook’s fearsome reach. But that is not what Mr. Tenanes is excited about.",
+      "publication_date": "2018-03-21T09:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/03/21/technology/facebook-zucktown-willow-village.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Lucky Breaks, Video and Pink Gloves Led to Austin Bombing Suspect",
+      "snippet": "An intense, three-week manhunt came to an end when the suspect, Mark Anthony Conditt, drove into a ditch and blew himself up, the police said.",
+      "abstract": "An intense, three-week manhunt came to an end when the suspect, Mark Anthony Conditt, drove into a ditch and blew himself up, the police said.",
+      "lead_paragraph": "ROUND ROCK, Tex. — It was not much — surveillance footage in and near an Austin-area FedEx store showing a man in a disguise dropping off packages. But for investigators from federal, state and local agencies who had been hunting a mysterious and prolific bomb-maker, it was what they needed — their first big break.",
+      "publication_date": "2018-03-21T10:05:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/21/us/austin-bombings-suspect.html",
+      "byline": "By Manny Fernandez, Adam Goldman and Dave Montgomery"
+    },
+    {
+      "headline": "Think Cryptocurrency Is Confusing? Try Paying Taxes on It",
+      "snippet": "With this year’s April 17 filing deadline fast approaching, many virtual currency traders are sweating over their tax returns.",
+      "abstract": "With this year’s April 17 filing deadline fast approaching, many virtual currency traders are sweating over their tax returns.",
+      "lead_paragraph": "The room was full of stressed-out cryptocurrency traders. And for once, they weren’t nervous about the price of Bitcoin, or the roller coaster swings of the virtual currency markets.",
+      "publication_date": "2018-03-21T15:36:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/21/technology/think-cryptocurrency-is-confusing-try-paying-taxes-on-it.html",
+      "byline": "By Kevin Roose"
+    }
+  ]
+}

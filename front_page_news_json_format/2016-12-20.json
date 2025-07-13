@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2016-12-20",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Russian Ambassador to Turkey Is Assassinated in Ankara",
+      "snippet": "The shooting at an art exhibit, said to be carried out by a 22-year-old police officer, forced Turkey and Russia to confront a new crisis tied directly to the Syrian conflict.",
+      "abstract": "The shooting at an art exhibit, said to be carried out by a 22-year-old police officer, forced Turkey and Russia to confront a new crisis tied directly to the Syrian conflict.",
+      "lead_paragraph": "ISTANBUL — Russia’s ambassador to Turkey was assassinated at an Ankara art exhibit on Monday evening by a lone Turkish gunman shouting “God is great!” and “don’t forget Aleppo, don’t forget Syria!” in what the leaders of Turkey and Russia called a provocative terrorist attack.",
+      "publication_date": "2016-12-19T16:36:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/19/world/europe/russia-ambassador-shot-ankara-turkey.html",
+      "byline": "By Tim Arango and Rick Gladstone"
+    },
+    {
+      "headline": "Berlin Crash Is Suspected to Be a Terror Attack, Police Say",
+      "snippet": "Police said the truck jumped the sidewalk and drove into crowds at a holiday market, killing 12 and injuring dozens. The suspected driver was arrested.",
+      "abstract": "Police said the truck jumped the sidewalk and drove into crowds at a holiday market, killing 12 and injuring dozens. The suspected driver was arrested.",
+      "lead_paragraph": "BERLIN — The Berlin police said early Tuesday that the killing of at least 12 people and the wounding of dozens more when a truck plowed through a Christmas market on Monday night was “a suspected terrorist attack.”",
+      "publication_date": "2016-12-19T20:22:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/19/world/europe/berlin-christmas-market-truck-crash.html",
+      "byline": "By Melissa Eddy and Alison Smale"
+    },
+    {
+      "headline": "Study Tied to Food Industry Tries to Discredit Sugar Guidelines",
+      "snippet": "Critics say the review, a scathing attack on recommendations to eat less sugar, is the latest in a series of efforts by the food industry to shape global nutrition advice.",
+      "abstract": "Critics say the review, a scathing attack on recommendations to eat less sugar, is the latest in a series of efforts by the food industry to shape global nutrition advice.",
+      "lead_paragraph": "A prominent medical journal on Monday published a scathing attack on global health advice to eat less sugar. Warnings to cut sugar, the study argued, are based on weak evidence and cannot be trusted.",
+      "publication_date": "2016-12-19T22:00:03+0000",
+      "section_name": "Well",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/19/well/eat/a-food-industry-study-tries-to-discredit-advice-about-sugar.html",
+      "byline": "By Anahad O'Connor"
+    },
+    {
+      "headline": "Rail Crossing Warnings Are Sought for Mapping Apps",
+      "snippet": "The National Transportation Safety Board asked tech companies to add the locations of grade crossings into digital maps and to provide alerts for drivers.",
+      "abstract": "The National Transportation Safety Board asked tech companies to add the locations of grade crossings into digital maps and to provide alerts for drivers.",
+      "lead_paragraph": "SAN FRANCISCO — Following directions from Google Maps on a smartphone last year, Jose Alejandro Sanchez-Ramirez turned a Ford truck, hauling a trailer, where he thought the app was telling him to go. But he ended up stuck on the railroad tracks at a poorly marked California crossing.",
+      "publication_date": "2016-12-20T00:39:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/19/technology/google-digital-maps-railroad-crossings-ntsb.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Electoral College Settles Donald Trump’s Victory, but Little Else",
+      "snippet": "Electors across the country faced protests, reflecting a vast divide that carried over from a tumultuous race and that the new president will be facing.",
+      "abstract": "Electors across the country faced protests, reflecting a vast divide that carried over from a tumultuous race and that the new president will be facing.",
+      "lead_paragraph": "WASHINGTON — In Florida, protesters swarmed the Capitol rotunda, one hoisting a “Trump Is Too Rusky” sign featuring a hammer and sickle. In Wisconsin’s statehouse, a heckler shouted, “We’re all going to go to war and die thanks to you,” during the formal meeting of the Electoral College.",
+      "publication_date": "2016-12-20T02:32:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/19/us/politics/election-donald-trump.html",
+      "byline": "By Jonathan Martin and Michael Wines"
+    },
+    {
+      "headline": "A New Fund Seeks Both Financial and Social Returns",
+      "snippet": "William E. McGlashan Jr., a partner at the private equity firm TPG, is developing Rise, a $2 billion social impact fund with a number of well-known philanthropists.",
+      "abstract": "William E. McGlashan Jr., a partner at the private equity firm TPG, is developing Rise, a $2 billion social impact fund with a number of well-known philanthropists.",
+      "lead_paragraph": "“There is a lazy mindedness that we afford the do-gooders.”",
+      "publication_date": "2016-12-20T02:43:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/19/business/dealbook/a-new-fund-seeks-both-financial-and-social-returns.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Germany Releases Berlin Attack Suspect as ISIS Claims Involvement",
+      "snippet": "German officials, citing a lack of evidence, freed their initial suspect in the assault that killed 12, and continued to search for an attacker that the militant group said had acted on its behalf.",
+      "abstract": "German officials, citing a lack of evidence, freed their initial suspect in the assault that killed 12, and continued to search for an attacker that the militant group said had acted on its behalf.",
+      "lead_paragraph": "BERLIN — For a Germany that likes to see itself as meticulous, the slip-up was startling: Hours after the authorities said they had grabbed a suspect in the deadly truck rampage at a Christmas market in Berlin, they acknowledged they may have detained the wrong man and began a desperate search for the actual driver.",
+      "publication_date": "2016-12-20T10:44:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/20/world/europe/berlin-attack-christmas-market.html",
+      "byline": "By Melissa Eddy and Alison Smale"
+    },
+    {
+      "headline": "Russian Cyberforgers Steal Millions a Day With Fake Sites",
+      "snippet": "A criminal ring is diverting as much as $5 million in advertising revenue a day in a scheme to show video ads to phantom internet users.",
+      "abstract": "A criminal ring is diverting as much as $5 million in advertising revenue a day in a scheme to show video ads to phantom internet users.",
+      "lead_paragraph": "SAN FRANCISCO — In a twist on the peddling of fake news to real people, researchers say a Russian cyberforgery ring has created more than half a million fake internet users and 250,000 fake websites to trick advertisers into collectively paying as much as $5 million a day for video ads that are never watched.",
+      "publication_date": "2016-12-20T14:00:02+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/20/technology/forgers-use-fake-web-users-to-steal-real-ad-revenue.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "To Problems With China’s Financial System, Add the Bond Market",
+      "snippet": "More than a year after the country’s stock market crashed, the $9 trillion bond market, a crucial part of efforts to overhaul the economy, is suffering.",
+      "abstract": "More than a year after the country’s stock market crashed, the $9 trillion bond market, a crucial part of efforts to overhaul the economy, is suffering.",
+      "lead_paragraph": "SHANGHAI — Chinese officials cheered on the country’s stock market when it reached heady new highs, offering hope that it could become a new source of money to fix China’s economic problems. Then, last year, the market crashed.",
+      "publication_date": "2016-12-20T15:44:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/20/business/dealbook/china-bonds-fall-rates.html",
+      "byline": "By Keith Bradsher"
+    }
+  ]
+}

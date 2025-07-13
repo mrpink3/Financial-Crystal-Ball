@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2023-03-29",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Rift Between Gaming Giants Shows Toll of China’s Economic Crackdown",
+      "snippet": "Activision Blizzard and NetEase could not agree on a new deal to distribute video games in China, cutting millions of players from the games in January.",
+      "abstract": "Activision Blizzard and NetEase could not agree on a new deal to distribute video games in China, cutting millions of players from the games in January.",
+      "lead_paragraph": "Last October, executives at the Chinese gaming company NetEase and the American video game developer Activision Blizzard joined a Zoom videoconference to discuss the future of their 14-year partnership to offer Activision’s games like World of Warcraft in China.",
+      "publication_date": "2023-03-29T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/29/technology/activision-netease-china-breakup.html",
+      "byline": "By Kellen Browning and Chang Che"
+    },
+    {
+      "headline": "How ChatGPT and Bard Performed as My Executive Assistants",
+      "snippet": "Google’s Bard chatbot fared far worse than OpenAI’s ChatGPT, but human assistants might soon be out of their jobs.",
+      "abstract": "Google’s Bard chatbot fared far worse than OpenAI’s ChatGPT, but human assistants might soon be out of their jobs.",
+      "lead_paragraph": "By now, plenty of us know that artificially intelligent virtual assistants like OpenAI’s ChatGPT and Google’s Bard can pull off sensational stunts, such as winning coding contests, passing bar exams and professing love to a tech columnist.",
+      "publication_date": "2023-03-29T09:00:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/29/technology/personaltech/ai-chatgpt-google-bard-assistant.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "The Liberal Maverick Fighting Race-Based Affirmative Action",
+      "snippet": "For decades, Richard Kahlenberg has pushed for a class-conscious approach to college admissions. He may finally get his wish, but it comes at a personal cost.",
+      "abstract": "For decades, Richard Kahlenberg has pushed for a class-conscious approach to college admissions. He may finally get his wish, but it comes at a personal cost.",
+      "lead_paragraph": "ROCKVILLE, Md. — For the college class he teaches on inequality, Richard D. Kahlenberg likes to ask his students about a popular yard sign.",
+      "publication_date": "2023-03-29T15:32:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/29/us/richard-kahlenberg-affirmative-action.html",
+      "byline": "By Anemona Hartocollis"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2023-05-10",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "How Wall Street Is Preparing for a Debt Ceiling Showdown",
+      "snippet": "Stocks aren’t showing signs of panic about the government’s ability to pay its bills, but there is anxiety creeping into other markets.",
+      "abstract": "Stocks aren’t showing signs of panic about the government’s ability to pay its bills, but there is anxiety creeping into other markets.",
+      "lead_paragraph": "If the federal government defaults on its debt, the effects could be disastrous, threatening to undermine the role of the United States at the heart of global finance and tip its economy into recession. But after the government hit its debt limit and approaches the day when it runs out of cash to pay its bills, the stock market is showing no signs of panic. The S&P 500 is up more than 7 percent for the year.",
+      "publication_date": "2023-05-09T16:48:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/09/business/markets-investors-debt-ceiling.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Donald Trump … on CNN? A Live Town Hall Reignites a Debate.",
+      "snippet": "Wednesday’s town hall has already proved divisive — and it could be an unsettling preview for the TV news industry as it prepares to cover a presidential contest that is likely to feature Mr. Trump.",
+      "abstract": "Wednesday’s town hall has already proved divisive — and it could be an unsettling preview for the TV news industry as it prepares to cover a presidential contest that is likely to feature Mr. Trump.",
+      "lead_paragraph": "Follow for live updates on the Trump CNN town hall meeting.",
+      "publication_date": "2023-05-10T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/10/business/cnn-trump-town-hall.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Inflation Slowed in April, Marking 10th Month of Moderation",
+      "snippet": "Price increases cooled, capping months of declines. The details held hints of hope.",
+      "abstract": "Price increases cooled, capping months of declines. The details held hints of hope.",
+      "lead_paragraph": "Inflation slowed for a 10th straight month in April, a closely watched report on Wednesday showed, good news for American families struggling under the burden of higher costs and for policymakers in Washington as they try to wrangle rapid price increases.",
+      "publication_date": "2023-05-10T09:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/10/business/economy/cpi-inflation-april-economy.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "The Companies Trying to Make Live Shopping a Thing in the U.S.",
+      "snippet": "The market for selling goods in real time online is relatively small, but a number of start-ups and big tech names are betting American consumers will catch on.",
+      "abstract": "The market for selling goods in real time online is relatively small, but a number of start-ups and big tech names are betting American consumers will catch on.",
+      "lead_paragraph": "On a warm spring evening in New York, dozens of people gathered on a rooftop in Midtown Manhattan to sip fruity cocktails and chat. Shortly after the happy hour began, a woman stepped away from the crowd and went to work.",
+      "publication_date": "2023-05-10T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/10/business/live-shopping-us.html",
+      "byline": "By Jordyn Holman and Kalley Huang"
+    }
+  ]
+}

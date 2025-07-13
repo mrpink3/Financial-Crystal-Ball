@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-03-12",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Dow Ends 11-Year Bull Market as Coronavirus Defies Economic Remedies",
+      "snippet": "Stocks plunged anew as the outbreak was officially declared a pandemic and policies to address its impact proved lacking or ineffective.",
+      "abstract": "Stocks plunged anew as the outbreak was officially declared a pandemic and policies to address its impact proved lacking or ineffective.",
+      "lead_paragraph": "The coronavirus outbreak ended one of the longest winning streaks in market history on Wednesday as the Dow Jones industrial average plunged and global policymakers grappled with the growing economic crisis.",
+      "publication_date": "2020-03-11T19:43:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/11/business/economy/markets-plunge-coronavirus.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Dow Skids Into Bear Market, Heralding an Uncertain Future",
+      "snippet": "The Dow Jones industrial average closed down more than 20 percent from its high last month, ending a bull market that ran for more than a decade.",
+      "abstract": "The Dow Jones industrial average closed down more than 20 percent from its high last month, ending a bull market that ran for more than a decade.",
+      "lead_paragraph": "The 11-year bull market, which grew in tandem with one of the longest economic expansions in United States history, weathered a European debt crisis and survived President Trump’s trade war with China, is dead — a casualty of the global coronavirus pandemic.",
+      "publication_date": "2020-03-11T21:17:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/11/business/bear-market-stocks-dow.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "A Fumbled Global Response to the Virus in a Leadership Void",
+      "snippet": "While world leaders are at last speaking out about the gravity of the pandemic, their voices are less a choir than a cacophony, with the United States absent from its traditional conductor role.",
+      "abstract": "While world leaders are at last speaking out about the gravity of the pandemic, their voices are less a choir than a cacophony, with the United States absent from its traditional conductor role.",
+      "lead_paragraph": "LONDON — In Frankfurt, the president of the European Central Bank warned that the coronavirus could trigger an economic crash as dire as that of 2008. In Berlin, the German chancellor warned the virus could infect two-thirds of her country’s population. In London, the British prime minister rolled out a nearly $40 billion rescue package to cushion his economy from the shock.",
+      "publication_date": "2020-03-11T23:27:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/11/world/europe/coronavirus-leadership-trump.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "‘An Eviction Notice’: Chaos After Colleges Tell Students to Stay Away",
+      "snippet": "One after the other, like dominoes, colleges announced that because of coronavirus fears, they were suspending classes and asking students to pack up and go.",
+      "abstract": "One after the other, like dominoes, colleges announced that because of coronavirus fears, they were suspending classes and asking students to pack up and go.",
+      "lead_paragraph": "The day after colleges across the country suspended classes over fears of the coronavirus, Abigail Lockhart-Calpito, a freshman from San Antonio, ran across the Harvard campus trying to get answers.",
+      "publication_date": "2020-03-11T23:33:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/11/us/colleges-cancel-classes-coronavirus.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "Halting China’s Economy Was Hard. Restarting It Is Harder.",
+      "snippet": "Beijing brought the world’s No. 2 economy to a halt to quell the coronavirus epidemic. Its difficulties in reviving business offer a potential lesson for other countries.",
+      "abstract": "Beijing brought the world’s No. 2 economy to a halt to quell the coronavirus epidemic. Its difficulties in reviving business offer a potential lesson for other countries.",
+      "lead_paragraph": "SHANGHAI — China is starting to get back to work. More than six weeks after its leaders virtually shut down the world’s second-largest economy to stop a relentless coronavirus outbreak, factories are reopening and offices are starting to fill.",
+      "publication_date": "2020-03-12T09:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/12/business/china-coronavirus-economy.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Airlines Cancel Flights and Lay Off Workers as Stocks Plummet",
+      "snippet": "The Trump administration’s 30-day ban on most travelers from Continental Europe because of the coronavirus has dealt a fresh blow to the industry. Norwegian will temporarily halve its staff.",
+      "abstract": "The Trump administration’s 30-day ban on most travelers from Continental Europe because of the coronavirus has dealt a fresh blow to the industry. Norwegian will temporarily halve its staff.",
+      "lead_paragraph": "Airlines around the world on Thursday scrambled to cancel flights, lay off workers and reassure anxious travelers, capping a dizzying period of weeks in which bookings have evaporated and investors have lost confidence in the industry.",
+      "publication_date": "2020-03-12T13:35:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/12/business/economy/coronavirus-airlines-trump-europe.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Troubles Percolate in the Plumbing of Wall Street",
+      "snippet": "Even Treasury bonds were hard to trade Wednesday, and funding markets have shown hints of strain. Investors are looking to the Fed.",
+      "abstract": "Even Treasury bonds were hard to trade Wednesday, and funding markets have shown hints of strain. Investors are looking to the Fed.",
+      "lead_paragraph": "While most investors have been focused on the rapid decline in the stock market, which had its worst day since the crash of 1987 on Thursday, a different drama is going on behind the scenes on Wall Street — potentially with bigger implications for the economy.",
+      "publication_date": "2020-03-12T13:39:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/12/business/economy/wall-street-funding-troubles-fed.html",
+      "byline": "By Jeanna Smialek and Matt Phillips"
+    },
+    {
+      "headline": "The President as Bystander: Trump Struggles to Unify a Nation on Edge",
+      "snippet": "School superintendents, sports commissioners, college presidents, governors and business owners have taken it upon themselves to shut down much of American life without clear guidance from the president.",
+      "abstract": "School superintendents, sports commissioners, college presidents, governors and business owners have taken it upon themselves to shut down much of American life without clear guidance from the president.",
+      "lead_paragraph": "WASHINGTON — As he confronts the most serious crisis of his tenure, President Trump has been assertive in closing borders to many outsiders, one of his favorite policies. But within the United States, as the coronavirus spreads from one community to another, he has been more follower than leader.",
+      "publication_date": "2020-03-12T14:37:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/12/us/politics/trumps-coronavirus-unity.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    }
+  ]
+}

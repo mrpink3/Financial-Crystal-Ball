@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-03-13",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Starbucks’ Gathering-Spot Model Is Threatened by Coronavirus",
+      "snippet": "The coffee chain, which sees itself as a “third place” between work and home, is trying to reassure customers and employees about its response to the outbreak.",
+      "abstract": "The coffee chain, which sees itself as a “third place” between work and home, is trying to reassure customers and employees about its response to the outbreak.",
+      "lead_paragraph": "For millions of people, visiting Starbucks is a daily ritual. But these are extraordinary times for one of the world’s most popular brands.",
+      "publication_date": "2020-03-12T18:24:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/12/business/starbucks-coronavirus.html",
+      "byline": "By David Yaffe-Bellany and Noam Scheiber"
+    },
+    {
+      "headline": "Italy’s Health Care System Groans Under Coronavirus — a Warning to the World",
+      "snippet": "In less than three weeks, the virus has overloaded hospitals in northern Italy, offering a glimpse of what countries face if they cannot slow the contagion.",
+      "abstract": "In less than three weeks, the virus has overloaded hospitals in northern Italy, offering a glimpse of what countries face if they cannot slow the contagion.",
+      "lead_paragraph": "ROME — The mayor of one town complained that doctors were forced to decide not to treat the very old, leaving them to die. In another town, patients with coronavirus-caused pneumonia were being sent home. Elsewhere, a nurse collapsed with her mask on, her photograph becoming a symbol of overwhelmed medical staff.",
+      "publication_date": "2020-03-12T21:44:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/12/world/europe/12italy-coronavirus-health-care.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Congress Nears Stimulus Deal With White House as Wall Street Suffers Rout",
+      "snippet": "House Democrats closed in on a compromise with the Trump administration that would provide paid sick leave and free testing as coronavirus fears fueled a steep sell-off in stocks.",
+      "abstract": "House Democrats closed in on a compromise with the Trump administration that would provide paid sick leave and free testing as coronavirus fears fueled a steep sell-off in stocks.",
+      "lead_paragraph": "WASHINGTON — Financial markets plunged on Thursday in the biggest one-day drop since the Black Monday stock market crash of 1987, and Congress neared a deal with the White House on a sweeping economic rescue package to respond to the colossal effect of the coronavirus pandemic.",
+      "publication_date": "2020-03-12T23:39:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/12/business/economy/coronavirus-response-wall-street.html",
+      "byline": "By Emily Cochrane, Jeanna Smialek and Jim Tankersley"
+    },
+    {
+      "headline": "Sick People Across the U.S. Say They Are Being Denied the Coronavirus Test",
+      "snippet": "In a health care system that is already difficult to navigate, some patients describe Kafkaesque quests for tests.",
+      "abstract": "In a health care system that is already difficult to navigate, some patients describe Kafkaesque quests for tests.",
+      "lead_paragraph": "BOSTON — First came the tickle in the throat. Then, a hacking cough. Then, a shortness of breath she had never experienced before. Hillary King, a 32-year-old consultant in Boston who lives down the street from a hotel where dozens of Biogen executives contracted the new coronavirus, decided that she had better get tested.",
+      "publication_date": "2020-03-12T23:40:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/12/us/coronavirus-testing-challenges.html",
+      "byline": "By Farah Stockman"
+    },
+    {
+      "headline": "Baby Brezza, a $200 Formula Maker, May Pose Health Risks to Infants",
+      "snippet": "Pediatricians say the automated Baby Brezza dispenser may produce watery bottles of formula.",
+      "abstract": "Pediatricians say the automated Baby Brezza dispenser may produce watery bottles of formula.",
+      "lead_paragraph": "Like many first-time parents, Jon Borgese, a tech executive in Manhattan, had heard the buzz around the Baby Brezza formula maker, a countertop device that automatically dispenses warm bottles of formula at the touch of a button.",
+      "publication_date": "2020-03-13T09:00:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/13/technology/baby-brezza-formula-pro-health-risks.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Worst-Case Estimates for U.S. Coronavirus Deaths",
+      "snippet": "Projections based on C.D.C. scenarios show a potentially vast toll. But those numbers don’t account for interventions now underway.",
+      "abstract": "Projections based on C.D.C. scenarios show a potentially vast toll. But those numbers don’t account for interventions now underway.",
+      "lead_paragraph": "Officials at the U.S. Centers for Disease Control and Prevention and epidemic experts from universities around the world conferred last month about what might happen if the new coronavirus gained a foothold in the United States. How many people might die? How many would be infected and need hospitalization?",
+      "publication_date": "2020-03-13T09:00:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/13/us/coronavirus-deaths-estimate.html",
+      "byline": "By Sheri Fink"
+    },
+    {
+      "headline": "In a Texas Oil Town, Pain but No Panic as Prices Crash",
+      "snippet": "The shale drilling peak of a decade ago may never return, but the coronavirus fallout is being taken in stride: “Everyone knows oil is boom and bust.”",
+      "abstract": "The shale drilling peak of a decade ago may never return, but the coronavirus fallout is being taken in stride: “Everyone knows oil is boom and bust.”",
+      "lead_paragraph": "KARNES CITY, Texas — Leaner days are back in the oil patch of South Texas.",
+      "publication_date": "2020-03-13T09:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/13/business/energy-environment/texas-oil-prices-coronavirus.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "They Ordered Her to Be a Suicide Bomber. She Had Another Idea.",
+      "snippet": "Hundreds of women in Nigeria have been recruited by Boko Haram as suicide bombers, but some managed to outsmart the terrorist group. This is one woman’s story.",
+      "abstract": "Hundreds of women in Nigeria have been recruited by Boko Haram as suicide bombers, but some managed to outsmart the terrorist group. This is one woman’s story.",
+      "lead_paragraph": "MAIDUGURI, Nigeria — The six young women set down their bombs and stood around the well, staring into the dark void.",
+      "publication_date": "2020-03-13T09:00:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/13/world/africa/Nigeria-Boko-Haram-bomber.html",
+      "byline": "By Dionne Searcey and Laura Boushnak"
+    },
+    {
+      "headline": "Markets Plunge. Economies Stall. Panic Spreads. It All Feels Very 2008.",
+      "snippet": "Ineffective monetary policy, scant action from governments, and fear of a leadership void is raising alarm about the pandemic’s economic shock.",
+      "abstract": "Ineffective monetary policy, scant action from governments, and fear of a leadership void is raising alarm about the pandemic’s economic shock.",
+      "lead_paragraph": "The last time the world seized with panic over an economic catastrophe, those given the job of limiting the damage knew what to do. The global financial crisis of 2008 presented a textbook case of what happens when people lose faith in the banking system all at once. World leaders could rely on lessons gleaned from history to forge a plan: They flooded the markets with money and waited for calm to return.",
+      "publication_date": "2020-03-13T15:16:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/13/business/coronavirus-global-economy.html",
+      "byline": "By Peter S. Goodman"
+    }
+  ]
+}

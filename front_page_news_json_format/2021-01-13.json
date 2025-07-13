@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-01-13",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "States Told to Vaccinate Everyone 65 and Over as Deaths Surge",
+      "snippet": "The Trump administration ordered states to use Covid-19 vaccines set aside for second doses to get the shots to more people more quickly.",
+      "abstract": "The Trump administration ordered states to use Covid-19 vaccines set aside for second doses to get the shots to more people more quickly.",
+      "lead_paragraph": "WASHINGTON — The Trump administration, racing a surging Covid-19 death toll, instructed states on Tuesday to immediately begin vaccinating every American 65 and older, as well as tens of millions of adults with medical conditions that put them at higher risk of dying from coronavirus infection.",
+      "publication_date": "2021-01-12T21:03:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/12/us/politics/vaccine-states.html",
+      "byline": "By Sheryl Gay Stolberg and Abby Goodnough"
+    },
+    {
+      "headline": "Atop the Powerful Budget Committee at Last, Bernie Sanders Wants to Go Big",
+      "snippet": "To the chagrin of Republicans, the democratic socialist senator will play a central role in shepherding Joseph R. Biden Jr.’s agenda through Congress.",
+      "abstract": "To the chagrin of Republicans, the democratic socialist senator will play a central role in shepherding Joseph R. Biden Jr.’s agenda through Congress.",
+      "lead_paragraph": "Shortly before the 2016 election, Paul D. Ryan of Wisconsin, the Republican nominee for vice president and the speaker of the House, told a group of college Republicans why he thought Democrats winning control of the Senate would be a policy nightmare.",
+      "publication_date": "2021-01-12T21:17:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/12/us/politics/bernie-sanders-budget-committee.html",
+      "byline": "By Alan Rappeport and Jim Tankersley"
+    },
+    {
+      "headline": "McConnell Privately Backs Impeachment as House Moves to Charge Trump",
+      "snippet": "The House formally called on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation.",
+      "abstract": "The House formally called on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation.",
+      "lead_paragraph": "WASHINGTON — Senator Mitch McConnell has concluded that President Trump committed impeachable offenses and believes that Democrats’ move to impeach him will make it easier to purge Mr. Trump from the party, according to people familiar with Mr. McConnell’s thinking.",
+      "publication_date": "2021-01-13T00:48:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.html",
+      "byline": "By Jonathan Martin, Maggie Haberman and Nicholas Fandos"
+    },
+    {
+      "headline": "Manhunt Intensifies as Authorities Warn Some Rioters May Face Sedition Charges",
+      "snippet": "Evidence emerged that top officials, including at the F.B.I., had warnings about violence before the riot at the Capitol.",
+      "abstract": "Evidence emerged that top officials, including at the F.B.I., had warnings about violence before the riot at the Capitol.",
+      "lead_paragraph": "WASHINGTON — Federal law enforcement officials vowed on Tuesday to accelerate a nationwide manhunt for hundreds of people who committed serious crimes during last week’s assault on the Capitol, even as new evidence surfaced that the F.B.I., police and White House were warned of potential violence that day.",
+      "publication_date": "2021-01-13T01:31:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/12/us/politics/fbi-trump.html",
+      "byline": "By Michael D. Shear, Adam Goldman and Katie Benner"
+    },
+    {
+      "headline": "Lack of Tiny Parts Disrupts Auto Factories Worldwide",
+      "snippet": "Carmakers can’t buy the semiconductors they need because home electronics are taking all the supply.",
+      "abstract": "Carmakers can’t buy the semiconductors they need because home electronics are taking all the supply.",
+      "lead_paragraph": "Automakers braced for turmoil when the pandemic hit. They expected supply chain disruptions and plummeting sales. But they never figured that a year later one of their biggest problems would be PlayStations.",
+      "publication_date": "2021-01-13T10:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/13/business/auto-factories-semiconductor-chips.html",
+      "byline": "By Jack Ewing and Don Clark"
+    },
+    {
+      "headline": "Jobless, Selling Nudes Online and Still Struggling",
+      "snippet": "OnlyFans, a social media platform that allows people to sell explicit photos of themselves, has boomed during the pandemic. But competition on the site means many won’t earn much.",
+      "abstract": "OnlyFans, a social media platform that allows people to sell explicit photos of themselves, has boomed during the pandemic. But competition on the site means many won’t earn much.",
+      "lead_paragraph": "Savannah Benavidez stopped working at her job as a medical biller in June to take care of her 2-year-old son after his day care shut down. Needing a way to pay her bills, she created an account on OnlyFans — a social media platform where users sell original content to monthly subscribers — and started posting photos of herself nude or in lingerie.",
+      "publication_date": "2021-01-13T10:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/13/business/onlyfans-pandemic-users.html",
+      "byline": "By Gillian Friedman"
+    }
+  ]
+}

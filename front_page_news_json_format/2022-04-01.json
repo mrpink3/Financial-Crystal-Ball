@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-04-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "‘I’m in Hot Demand, Baby’: Nebraska Thrives (and Copes) With Low Unemployment",
+      "snippet": "The jobless rate in February, 2.1 percent, was close to the lowest ever. Employers are adjusting to the power of workers.",
+      "abstract": "The jobless rate in February, 2.1 percent, was close to the lowest ever. Employers are adjusting to the power of workers.",
+      "lead_paragraph": "Harry’s Wonder Bar is a trusted old dive in Nebraska’s capital, frequented by office clerks, construction workers and graduate students alike: the sort of wood-paneled place with a pool table in the back where phones generally stay in pockets, second fiddle to casual conversation, and beer mugs come frosted regardless of the season.",
+      "publication_date": "2022-04-01T07:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/01/business/economy/nebraska-economy-unemployment-labor.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "Strong Job Gains in March Keep a Flame Under the Recovery",
+      "snippet": "The U.S. economy added 431,000 jobs and the unemployment rate fell to 3.6 percent. Wages showed sharp gains, but that has been blunted by inflation.",
+      "abstract": "The U.S. economy added 431,000 jobs and the unemployment rate fell to 3.6 percent. Wages showed sharp gains, but that has been blunted by inflation.",
+      "lead_paragraph": "A continued torrent of consumer demand, paired with a decline in coronavirus caseloads and health restrictions, led to a burst of job creation last month, showing the staying power of the economic recovery.",
+      "publication_date": "2022-04-01T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/01/business/economy/jobs-report-march-2022.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "As Earmarks Return to Congress, Lawmakers Rush to Steer Money Home",
+      "snippet": "Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden.",
+      "abstract": "Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden.",
+      "lead_paragraph": "WASHINGTON — One hundred million dollars for an airport in Mobile, Ala. Tens of thousands for upgrades to a police station in the tiny town of Milton, W.Va. Hundreds of thousands of dollars sent to Arkansas to deal with feral swine.",
+      "publication_date": "2022-04-01T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/01/us/politics/congress-earmarks.html",
+      "byline": "By Luke Broadwater, Emily Cochrane and Alicia Parlapiano"
+    },
+    {
+      "headline": "Energy prices in Europe soar 45 percent as inflation hits another record.",
+      "snippet": "A continued run-up in prices shows how rapidly the impact of the war in Ukraine is coursing through Europe’s economy.",
+      "abstract": "A continued run-up in prices shows how rapidly the impact of the war in Ukraine is coursing through Europe’s economy.",
+      "lead_paragraph": "PARIS — Soaring energy and food prices driven by Russia’s continued aggression against Ukraine pushed inflation in Europe last month to levels not seen in four decades, with prices in the 19 countries that use the euro soaring 7.5 percent, according to data released Friday by Europe’s statistics agency.",
+      "publication_date": "2022-04-01T10:56:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/01/business/economy/eurozone-inflation.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Rising Wages Are Good News for Workers but Keep Pressure on the Fed",
+      "snippet": "Federal Reserve officials have said the pace of pay gains, if they continue, would not be consistent with stable inflation.",
+      "abstract": "Federal Reserve officials have said the pace of pay gains, if they continue, would not be consistent with stable inflation.",
+      "lead_paragraph": "Wages climbed at a rapid pace in the year through March and the unemployment rate dropped notably last month, signs of a hot labor market that could keep pressure on the Federal Reserve as it contemplates how much and how quickly to cool down the economy.",
+      "publication_date": "2022-04-01T13:36:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "War in Ukraine Compounds Hunger in East Africa",
+      "snippet": "The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades.",
+      "abstract": "The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades.",
+      "lead_paragraph": "NAIROBI, Kenya — First came the drought, drying up rivers, and claiming the lives of two of Ruqiya Hussein Ahmed’s children as her family fled the barren countryside in southwest Somalia.",
+      "publication_date": "2022-04-01T14:35:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/01/world/africa/food-crisis-africa-drought-ukraine.html",
+      "byline": "By Abdi Latif Dahir"
+    }
+  ]
+}

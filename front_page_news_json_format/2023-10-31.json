@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-10-31",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Google C.E.O. Says Tech Giant Has Improved the Web for All Consumers",
+      "snippet": "Sundar Pichai, the chief executive of Google, appeared in court to defend his company against a landmark federal antitrust case.",
+      "abstract": "Sundar Pichai, the chief executive of Google, appeared in court to defend his company against a landmark federal antitrust case.",
+      "lead_paragraph": "As Google’s chief executive, Sundar Pichai, tells it, his company has always been on the side of consumers. It has paid billions to other industry giants, like Apple and Samsung, he said, to make sure Google’s internet search engine worked as well as it should on those companies’ devices.",
+      "publication_date": "2023-10-30T16:35:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/30/technology/google-sundar-pichai-antitrust-trial.html",
+      "byline": "By Nico Grant and David McCabe"
+    },
+    {
+      "headline": "‘A Very Slow Game:’ Why the Pace of Israel’s Ground Operation Counts",
+      "snippet": "Israel’s invasion of Gaza is proceeding more slowly than expected. That may suit the needs of its allies — and its adversaries, analysts say.",
+      "abstract": "Israel’s invasion of Gaza is proceeding more slowly than expected. That may suit the needs of its allies — and its adversaries, analysts say.",
+      "lead_paragraph": "In the 23 harrowing days since Hamas attacked Israeli civilians and soldiers, Israel’s Western allies have had to perform a delicate balancing act: expressing steadfast support for the country during its darkest hours, while navigating the growing public anger on their streets over the intensifying bombardment of Gaza.",
+      "publication_date": "2023-10-30T18:09:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/30/world/middleeast/israel-ground-operation.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Prosecutors Turn Sam Bankman-Fried’s Own Words Against Him",
+      "snippet": "Asked during his cross-examination about his public statements and how he ran his crypto empire, the FTX founder repeatedly said he couldn’t remember.",
+      "abstract": "Asked during his cross-examination about his public statements and how he ran his crypto empire, the FTX founder repeatedly said he couldn’t remember.",
+      "lead_paragraph": "When the cryptocurrency exchange FTX was riding high, Sam Bankman-Fried, the company founder, communicated with the public in a relentless torrent of tweets, TV interviews and pronouncements in front of Congress.",
+      "publication_date": "2023-10-30T18:11:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/30/technology/sam-bankman-fried-fraud-trial-cross-examination.html",
+      "byline": "By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno"
+    },
+    {
+      "headline": "Israelis Advance on Gaza City, as Netanyahu Rules Out Cease-Fire",
+      "snippet": "Israel’s leaders vowed to destroy Hamas, which controls the Gaza Strip, after the deadly Oct. 7 attack, and Israeli ground forces are closing in on the city from three directions.",
+      "abstract": "Israel’s leaders vowed to destroy Hamas, which controls the Gaza Strip, after the deadly Oct. 7 attack, and Israeli ground forces are closing in on the city from three directions.",
+      "lead_paragraph": "Israeli forces on Monday advanced from three directions toward the battered and densely populated Hamas stronghold of Gaza City, slowly pushing deeper into the Gaza Strip while battering the territory with airstrikes and renewing evacuation warnings to people and hospitals.",
+      "publication_date": "2023-10-30T20:45:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/30/world/middleeast/israel-gaza-netanyahu.html",
+      "byline": "By Isabel Kershner, Lauren Leatherby, Vivian Yee and Aaron Boxerman"
+    },
+    {
+      "headline": "Biden’s Support for Israel Now Comes With Words of Caution",
+      "snippet": "The administration has become more critical of Israel’s response to the Hamas attacks, a shift that U.S. officials attribute to the humanitarian crisis in Gaza.",
+      "abstract": "The administration has become more critical of Israel’s response to the Hamas attacks, a shift that U.S. officials attribute to the humanitarian crisis in Gaza.",
+      "lead_paragraph": "Three days after Hamas terrorists slaughtered more than 1,400 people, President Biden offered Prime Minister Benjamin Netanyahu support in the wake of the vow by Israel’s leader to “avenge this black day” and to turn Hamas hide-outs “into a ruin” from the air and on the ground.",
+      "publication_date": "2023-10-30T20:45:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/30/us/politics/biden-israel.html",
+      "byline": "By Michael D. Shear, David E. Sanger and Edward Wong"
+    },
+    {
+      "headline": "Police Were Told Maine Gunman Had Threatened to Carry Out Shooting Spree",
+      "snippet": "The Army Reserve and a Maine sheriff’s department knew of a reservist’s deteriorating mental health five months before he carried out America’s deadliest mass shooting this year.",
+      "abstract": "The Army Reserve and a Maine sheriff’s department knew of a reservist’s deteriorating mental health five months before he carried out America’s deadliest mass shooting this year.",
+      "lead_paragraph": "The Army Reserve and a Maine sheriff’s department were aware of a reservist’s deteriorating mental health more than five months before he killed 18 people in Lewiston, Maine, according to records released on Monday. Just six weeks ago, the records show, he had grown increasingly paranoid, punched a friend and said he was going to carry out a shooting spree.",
+      "publication_date": "2023-10-30T23:25:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/30/us/police-maine-shooting-gunman.html",
+      "byline": "By Nicholas Bogel-Burroughs and Chelsia Rose Marcius"
+    }
+  ]
+}

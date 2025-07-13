@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2023-06-30",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "With Supreme Court Decision, College Admissions Could Become More Subjective",
+      "snippet": "Colleges have a game plan, like emphasizing the personal essay, but so do conservative groups that promise to monitor and, if necessary, go back to court.",
+      "abstract": "Colleges have a game plan, like emphasizing the personal essay, but so do conservative groups that promise to monitor and, if necessary, go back to court.",
+      "lead_paragraph": "In the Supreme Court decision striking down racial and ethnic preferences in college admissions, Chief Justice John G. Roberts Jr. had harsh words for Harvard and the University of North Carolina, calling their admissions process “elusive,\" “opaque” and “imponderable.”",
+      "publication_date": "2023-06-29T20:45:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/29/us/affirmative-action-college-admissions-future.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "Police Shooting in France Presents New Challenge for Macron",
+      "snippet": "Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.",
+      "abstract": "Protests over the fatal police shooting of a teenager come as President Emmanuel Macron seeks to restore a sense of calm after his pension overhaul ignited turbulence in the streets.",
+      "lead_paragraph": "The deadly shooting of a teenager, a French citizen of Algerian and Moroccan descent, by a police officer outside Paris has ignited a wave of violent protest that once again confronts President Emmanuel Macron with turmoil in the streets and has revived accusations of endemic racism in France’s law enforcement agencies.",
+      "publication_date": "2023-06-30T00:54:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/29/world/europe/police-shooting-france-macron.html",
+      "byline": "By Roger Cohen"
+    }
+  ]
+}

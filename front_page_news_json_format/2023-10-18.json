@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-10-18",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Middle East War Adds to Surge in International Arms Sales",
+      "snippet": "Israel’s conflict with Hamas, Russia’s invasion of Ukraine and the rise of China have brought a boom for weapons makers and a chance for Washington to build closer military ties to other countries.",
+      "abstract": "Israel’s conflict with Hamas, Russia’s invasion of Ukraine and the rise of China have brought a boom for weapons makers and a chance for Washington to build closer military ties to other countries.",
+      "lead_paragraph": "Just days after the assault by Hamas ignited a new war in the Middle East, shipments of American weapons began arriving in Israel: smart bombs, ammunition and interceptors for the Iron Dome missile-defense system. In President Biden’s planned meeting in Israel on Wednesday with Prime Minister Benjamin Netanyahu, more military aid is a likely topic.",
+      "publication_date": "2023-10-17T16:49:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/17/us/politics/israel-gaza-global-arms-sales.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "Hundreds Reported Killed in Blast at a Gaza Hospital",
+      "snippet": "With President Biden about to arrive in Israel, Palestinians and Israelis blamed each other for the explosion at a  hospital, where people had sought shelter from Israeli bombing.",
+      "abstract": "With President Biden about to arrive in Israel, Palestinians and Israelis blamed each other for the explosion at a  hospital, where people had sought shelter from Israeli bombing.",
+      "lead_paragraph": "An explosion killed hundreds of people on Tuesday at a hospital in Gaza City that was packed with people sheltering there, Gazan officials said, as Palestinians and Israelis blamed each other for a tragedy that inflamed the region just as President Biden was expected to arrive in Israel.",
+      "publication_date": "2023-10-18T01:47:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/17/world/middleeast/gaza-hospital-explosion-israel.html",
+      "byline": "By Patrick Kingsley, Aaron Boxerman and Hiba Yazbek"
+    },
+    {
+      "headline": "In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning",
+      "snippet": "In a rare wartime visit, President Biden paired his support for Israel with a plea not to let overwhelming grief or anger drive the country to go too far.",
+      "abstract": "In a rare wartime visit, President Biden paired his support for Israel with a plea not to let overwhelming grief or anger drive the country to go too far.",
+      "lead_paragraph": "As President Biden slowly made his way around a hotel conference room, each of the survivors or relatives of victims of the devastating Hamas attacks in Israel told him their story of tragedy or defiance. One by one, he gave each of them a hug and talked about his own experiences with loss.",
+      "publication_date": "2023-10-18T07:56:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-visit-gaza-hospital-strike.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "After Writing an Anti-Israel Letter, Harvard Students Are Doxxed",
+      "snippet": "A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.",
+      "abstract": "A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.",
+      "lead_paragraph": "On a campus already bitterly divided, the statement poured acid all over Harvard Yard.",
+      "publication_date": "2023-10-18T09:03:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/18/us/harvard-students-israel-hamas-doxxing.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "How Phoenix Fans Watch Their Teams May Change How You Watch Yours",
+      "snippet": "Numerous franchises are expected to overhaul their local media deals, returning games to free networks. The transition is underway in Arizona.",
+      "abstract": "Numerous franchises are expected to overhaul their local media deals, returning games to free networks. The transition is underway in Arizona.",
+      "lead_paragraph": "Days after Mat Ishbia reached a deal in December to buy majority stakes in the N.B.A.’s Phoenix Suns and the Phoenix Mercury of the W.N.B.A., he met with top executives to learn more about the teams’ business operations, including how local fans were able to watch their games on TV.",
+      "publication_date": "2023-10-18T09:03:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/18/business/sports-tv-rights-phoenix.html",
+      "byline": "By Ken Belson and Tania Ganguli"
+    },
+    {
+      "headline": "A Sudden Blast, Then Carnage in a Hospital Courtyard",
+      "snippet": "“We’ve never lived through a war this intense,” said a Palestinian journalist who captured the aftermath of the blast in Gaza that killed hundreds.",
+      "abstract": "“We’ve never lived through a war this intense,” said a Palestinian journalist who captured the aftermath of the blast in Gaza that killed hundreds.",
+      "lead_paragraph": "Sameh al-Jaroosha was sitting on the edge of the grassy courtyard of the Ahli Arab Hospital in Gaza City on Tuesday night, talking to a new acquaintance who was among the thousands of Palestinian residents of the city seeking refuge there in hopes that it would be safer than staying at home.",
+      "publication_date": "2023-10-18T11:50:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/18/world/middleeast/gaza-hospital-deaths-aftermath.html",
+      "byline": "By Raja Abdulrahim, Hiba Yazbek and Yousur Al-Hlou"
+    }
+  ]
+}

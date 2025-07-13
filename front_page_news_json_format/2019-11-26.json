@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-11-26",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Chasing Amazon, Retailers Are in a Never-Ending Arms Race",
+      "snippet": "The economy is relatively strong, and consumers are spending. So why are things so tough for some retailers?",
+      "abstract": "The economy is relatively strong, and consumers are spending. So why are things so tough for some retailers?",
+      "lead_paragraph": "Retailers are trying everything they can to keep up with Amazon. Macy’s offers same-day delivery and in-store returns for online purchases. Black Friday deals are already starting at Kohl’s. And craft cocktails are served in the women’s shoe department at Nordstrom.",
+      "publication_date": "2019-11-25T16:03:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/25/business/macys-kohls-nordstrom-problems.html",
+      "byline": "By Sapna Maheshwari and Michael Corkery"
+    },
+    {
+      "headline": "Donald McGahn Must Testify to Congress, Judge Rules; Administration Will Appeal",
+      "snippet": "A judge rejected the Trump administration’s argument that senior White House officials were immune from congressional subpoenas.",
+      "abstract": "A judge rejected the Trump administration’s argument that senior White House officials were immune from congressional subpoenas.",
+      "lead_paragraph": "WASHINGTON — The former White House counsel Donald F. McGahn II must testify before House impeachment investigators about President Trump’s efforts to obstruct the Mueller inquiry, a judge ruled on Monday, saying that senior presidential aides must comply with congressional subpoenas and calling the administration’s arguments to the contrary “fiction.”",
+      "publication_date": "2019-11-25T22:57:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/25/us/politics/mcgahn-testimony-ruling.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Activists Build a Grass-Roots Alliance Against Amazon",
+      "snippet": "As groups join a coalition against the internet giant, a new report underlines its troubling impact in warehouse towns.",
+      "abstract": "As groups join a coalition against the internet giant, a new report underlines its troubling impact in warehouse towns.",
+      "lead_paragraph": "SAN FRANCISCO — Amazon flourished over its first two decades with little opposition and less scrutiny. A new coalition and a report unveiled on Tuesday make clear that era is over.",
+      "publication_date": "2019-11-26T05:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/26/technology/amazon-grass-roots-activists.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "When Mom Slams a Brand on Instagram",
+      "snippet": "Mom influencers hold great sway over their loyal audiences. So how much research should they do before criticizing a company?",
+      "abstract": "Mom influencers hold great sway over their loyal audiences. So how much research should they do before criticizing a company?",
+      "lead_paragraph": "As a mom with influence, Caitlin Houston felt the need to act. ",
+      "publication_date": "2019-11-26T10:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/26/business/mommy-influencers.html",
+      "byline": "By Alyson Krueger"
+    },
+    {
+      "headline": "Meet the Leftish Economist With a New Story About Capitalism",
+      "snippet": "Mariana Mazzucato wants liberals to talk less about the redistribution of wealth and more about its creation. Politicians around the world are listening.",
+      "abstract": "Mariana Mazzucato wants liberals to talk less about the redistribution of wealth and more about its creation. Politicians around the world are listening.",
+      "lead_paragraph": "Mariana Mazzucato was freezing. Outside, it was a humid late-September day in Manhattan, but inside — in a Columbia University conference space full of scientists, academics and businesspeople advising the United Nations on sustainability — the air conditioning was on full blast.",
+      "publication_date": "2019-11-26T12:54:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/11/26/business/mariana-mazzucato.html",
+      "byline": "By Katy Lederer"
+    },
+    {
+      "headline": "Thomas Barrack, a Trump Confidant, Is Targeted by an Investor",
+      "snippet": "Blackwells Capital has started a campaign to pressure Mr. Barrack, the chairman of President Trump’s inaugural committee, to resign from Colony Capital.",
+      "abstract": "Blackwells Capital has started a campaign to pressure Mr. Barrack, the chairman of President Trump’s inaugural committee, to resign from Colony Capital.",
+      "lead_paragraph": "Thomas J. Barrack Jr., the chairman of President Trump’s inaugural committee, is under pressure from an activist investor to resign as chief executive of Colony Capital, a real estate investment firm he founded.",
+      "publication_date": "2019-11-26T15:16:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/26/business/dealbook/thomas-barrack-colony-trump-resign.html",
+      "byline": "By Andrew Ross Sorkin and Gregory Schmidt"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2024-12-13",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "How U.S. Firms Battled a Government Crackdown to Keep Tech Sales to China",
+      "snippet": "An intense struggle has unfolded in Washington between companies and officials over where to draw the line on selling technology to China.",
+      "abstract": "An intense struggle has unfolded in Washington between companies and officials over where to draw the line on selling technology to China.",
+      "lead_paragraph": "At a meeting in Washington this spring, tech company representatives and government officials once again found themselves at odds over where to draw the line when it came to selling coveted technology to China.",
+      "publication_date": "2024-12-12T17:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/12/us/politics/tech-sales-china-huawei.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Trump’s Middle East Adviser Pick Is a Small-Time Truck Salesman",
+      "snippet": "The lore around Massad Boulos, Tiffany Trump’s father-in-law, is that he is a billionaire dealmaker. Records show otherwise.",
+      "abstract": "The lore around Massad Boulos, Tiffany Trump’s father-in-law, is that he is a billionaire dealmaker. Records show otherwise.",
+      "lead_paragraph": "President-elect Donald Trump’s incoming Middle East adviser, Massad Boulos, has enjoyed a reputation as a billionaire mogul at the helm of a business that bears his family name.",
+      "publication_date": "2024-12-12T17:11:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/12/world/africa/trump-massad-boulos-middle-east.html",
+      "byline": "By Ruth Maclean, Justin Scheck, Charles Homans and Oladeinde Olawoyin"
+    },
+    {
+      "headline": "Los Angeles Times Owner Wades Deeper Into Opinion Section",
+      "snippet": "Dr. Patrick Soon-Shiong’s public comments and actions, including recently blocking an editorial weighing in on President-elect Trump’s cabinet picks, have concerned many staff members.",
+      "abstract": "Dr. Patrick Soon-Shiong’s public comments and actions, including recently blocking an editorial weighing in on President-elect Trump’s cabinet picks, have concerned many staff members.",
+      "lead_paragraph": "After President-elect Donald J. Trump announced a cascade of cabinet picks last month, the editorial board of The Los Angeles Times decided it would weigh in. One writer prepared an editorial arguing that the Senate should follow its traditional process for confirming nominees, particularly given the board’s concerns about some of his picks, and ignore Mr. Trump’s call for so-called recess appointments.",
+      "publication_date": "2024-12-12T19:47:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/12/business/media/la-times-patrick-soon-shiong.html",
+      "byline": "By Katie Robertson"
+    },
+    {
+      "headline": "Months Before C.E.O.’s Killing, the Suspect Went Silent. Where Was He?",
+      "snippet": "New details are emerging about Luigi Mangione’s growing impatience with “a capitalist society” and his search for refuge in the mountains of Japan.",
+      "abstract": "New details are emerging about Luigi Mangione’s growing impatience with “a capitalist society” and his search for refuge in the mountains of Japan.",
+      "lead_paragraph": "After a drizzly hike through one of Japan’s lush mountain ranges earlier this year, Luigi Mangione, a computer engineer in his mid-20s who had set off on a long solo trip to Asia, paused to record a voice message to a friend he had met while traveling abroad.",
+      "publication_date": "2024-12-12T20:36:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/12/us/luigi-mangione-gunman-united-healthcare-shooting.html",
+      "byline": "By Mike Baker, Nicholas Bogel-Burroughs, Shawn Hubler and Jacey Fortin"
+    },
+    {
+      "headline": "Enslaved People’s Graves Discovered at Andrew Jackson’s Hermitage",
+      "snippet": "The burial ground at the former American president’s home in Nashville is the latest to be discovered at a presidential site.",
+      "abstract": "The burial ground at the former American president’s home in Nashville is the latest to be discovered at a presidential site.",
+      "lead_paragraph": "The South is a land of lost graves.",
+      "publication_date": "2024-12-12T21:42:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/12/us/enslaved-peoples-graves-andrew-jacksons-hermitage.html",
+      "byline": "By Annie Correal"
+    },
+    {
+      "headline": "The Fall of al-Assad Quickly Infuses Europe’s Debate Over Asylum",
+      "snippet": "Nearly a million Syrians in Germany alone have made new lives. But after the fall of Bashar al-Assad, some politicians across the continent have suggested that refugees could return home.",
+      "abstract": "Nearly a million Syrians in Germany alone have made new lives. But after the fall of Bashar al-Assad, some politicians across the continent have suggested that refugees could return home.",
+      "lead_paragraph": "Just hours after President Bashar al-Assad boarded a plane for Russia on Sunday, thousands of Syrians who had fled to escape his rule and the civil war to unseat him celebrated in the streets across Germany.",
+      "publication_date": "2024-12-13T10:19:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/13/world/europe/syria-assad-europe-germany-refugees.html",
+      "byline": "By Christopher F. Schuetze"
+    },
+    {
+      "headline": "How Claude Became Tech Insiders’ Chatbot of Choice",
+      "snippet": "A.I. insiders are falling for Claude, a chatbot from Anthropic. Is it a passing fad, or a preview of artificial relationships to come?",
+      "abstract": "A.I. insiders are falling for Claude, a chatbot from Anthropic. Is it a passing fad, or a preview of artificial relationships to come?",
+      "lead_paragraph": "His fans rave about his sensitivity and wit. Some talk to him dozens of times a day — asking for advice about their jobs, their health, their relationships. They entrust him with their secrets, and consult him before making important decisions. Some refer to him as their best friend.",
+      "publication_date": "2024-12-13T15:27:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/13/technology/claude-ai-anthropic.html",
+      "byline": "By Kevin Roose"
+    }
+  ]
+}

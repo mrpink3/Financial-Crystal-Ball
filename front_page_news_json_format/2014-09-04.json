@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-09-04",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "First Vaccine for Dengue Fever Shows Promise in 2nd Big Trial",
+      "snippet": "A French drug company said that use of the vaccine cut the risk of getting dengue by 60.8 percent and those vaccinated had an 80 percent lower risk of being hospitalized for the disease.",
+      "abstract": "A French drug company said that use of the vaccine cut the risk of getting dengue by 60.8 percent and those vaccinated had an 80 percent lower risk of being hospitalized for the disease.",
+      "lead_paragraph": "An experimental vaccine against dengue fever being developed by Sanofi proved about 60 percent effective in its second large clinical trial. The results could clear the way for the introduction of the world’s first inoculation against the disease, which is mosquito-borne and becoming an increasing threat.",
+      "publication_date": "2014-09-03T16:02:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/04/business/experimental-vaccine-shows-promise-against-dengue-fever.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "August Sales Fall for G.M. as Trucks Lift Chrysler",
+      "snippet": "General Motors’ sales streak came to an end with a 1 percent decline in August, but Chrysler sales jumped 20 percent; Ford sales were flat.",
+      "abstract": "General Motors’ sales streak came to an end with a 1 percent decline in August, but Chrysler sales jumped 20 percent; Ford sales were flat.",
+      "lead_paragraph": "Though battered by the recall of millions of vehicles and revelations that it failed to fix a deadly defect in its ignition switches, General Motors maintained a monthly winning streak in selling vehicles since March.",
+      "publication_date": "2014-09-03T19:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/04/business/gm-sales-fall-while-trucks-continue-to-propel-chrysler.html",
+      "byline": "By Aaron M. Kessler"
+    },
+    {
+      "headline": "Grading Teachers, With Data From Class ",
+      "snippet": "Panorama Education, aided by prominent tech investors, is refining student feedback through innovative data collection. School systems are embracing the concept.",
+      "abstract": "Panorama Education, aided by prominent tech investors, is refining student feedback through innovative data collection. School systems are embracing the concept.",
+      "lead_paragraph": "Halfway through the last school year, Leila Campbell, a young humanities teacher at a charter high school in Oakland, Calif., received the results from a recent survey of her students.",
+      "publication_date": "2014-09-03T20:10:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/04/technology/students-grade-teachers-and-a-start-up-harnesses-the-data.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Michael Bloomberg to Return to Lead Bloomberg L.P.",
+      "snippet": "Only eight months after ending his final term as mayor of New York City, Michael R. Bloomberg has decided to resume the leadership of his business empire.",
+      "abstract": "Only eight months after ending his final term as mayor of New York City, Michael R. Bloomberg has decided to resume the leadership of his business empire.",
+      "lead_paragraph": "Michael R. Bloomberg has decided to reassume the leadership of his business empire only eight months after ending his final term as mayor of New York.",
+      "publication_date": "2014-09-04T00:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/04/business/media/michael-bloomberg-to-return-as-chief-of-company-he-founded.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Another Shadow in Ferguson as Outside Firms Buy and Rent Out Distressed Homes",
+      "snippet": "In Ferguson and other close suburbs of St. Louis, out-of-state investment firms have bought distressed homes to rent them out, a consequence of foreclosures from the financial crisis.",
+      "abstract": "In Ferguson and other close suburbs of St. Louis, out-of-state investment firms have bought distressed homes to rent them out, a consequence of foreclosures from the financial crisis.",
+      "lead_paragraph": "Ethel Walker and her daughter Tasha pay $650 a month to rent a home in Ferguson, Mo., from an investment firm 1,800 miles away in Los Angeles. A few miles from the Walkers, Corey Bryant and his mother are renting a two-bedroom home in Ferguson from the same California firm.",
+      "publication_date": "2014-09-04T00:25:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/09/03/another-shadow-in-ferguson-as-outside-firms-buy-and-rent-out-distressed-homes/",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Cuts at W.H.O. Hurt Response to Ebola Crisis",
+      "snippet": "The epidemic has exposed gaping holes in the ability to tackle outbreaks in an increasingly interconnected world, where diseases can quickly spread from remote villages to cities housing millions of people.",
+      "abstract": "The epidemic has exposed gaping holes in the ability to tackle outbreaks in an increasingly interconnected world, where diseases can quickly spread from remote villages to cities housing millions of people.",
+      "lead_paragraph": "With treatment centers overflowing, and alarmingly little being done to stop Ebola from sweeping through West African villages and towns, Dr. Joanne Liu, the president of Doctors Without Borders, knew that the epidemic had spun out of control.",
+      "publication_date": "2014-09-04T01:40:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/04/world/africa/cuts-at-who-hurt-response-to-ebola-crisis.html",
+      "byline": "By Sheri Fink"
+    },
+    {
+      "headline": "Escaping Death in Northern Iraq",
+      "snippet": "Ali Hussein Kadhim, an Iraqi soldier, was captured with hundreds of other soldiers by Sunni militants in June. As a Shiite, he was marked for death. [Video includes graphic images.]",
+      "abstract": "Ali Hussein Kadhim, an Iraqi soldier, was captured with hundreds of other soldiers by Sunni militants in June. As a Shiite, he was marked for death. [Video includes graphic images.]",
+      "lead_paragraph": "DIWANIYA, Iraq — Ali Hussein Kadhim, an Iraqi soldier and a Shiite, was captured with hundreds of other soldiers by Sunni militants in June and taken to the grounds of a palace complex in Tikrit where Saddam Hussein once lived.",
+      "publication_date": "2014-09-04T03:00:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/04/world/middleeast/surviving-isis-massacre-iraq-video.html",
+      "byline": "By Tim Arango"
+    },
+    {
+      "headline": "Vice Lands 2nd Investment, to Fuel Expansion",
+      "snippet": "The $250 million investment from Technology Crossover Ventures comes on the heels of financing from A&E Networks.",
+      "abstract": "The $250 million investment from Technology Crossover Ventures comes on the heels of financing from A&E Networks.",
+      "lead_paragraph": "Vice Media, the rabble-rouser of the news and entertainment business, has landed a pair of investments totaling $500 million to fuel the expansion of its media empire.",
+      "publication_date": "2014-09-04T04:01:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/04/business/media/vice-lands-2nd-investment-to-fuel-expansion.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "Europe’s Bank Takes Aggressive Steps",
+      "snippet": "The new measures show resolve by the central bank. But its president called on eurozone leaders to do their part to stimulate the economy.",
+      "abstract": "The new measures show resolve by the central bank. But its president called on eurozone leaders to do their part to stimulate the economy.",
+      "lead_paragraph": "FRANKFURT — Mario Draghi, the European Central Bank president, is reaching deep into his toolbox to revive the region’s moribund economy. ",
+      "publication_date": "2014-09-04T11:53:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/05/business/international/ecb-cuts-interest-rate-further-paving-way-for-more-drastic-measures.html",
+      "byline": "By Jack Ewing and Neil Irwin"
+    },
+    {
+      "headline": "BP May Be Fined Up to $18 Billion for Spill in Gulf",
+      "snippet": "BP said it was not chiefly responsible for the blowout on the Deepwater Horizon oil rig, but on Thursday, a federal judge for the first time found that BP was indeed the primary culprit.",
+      "abstract": "BP said it was not chiefly responsible for the blowout on the Deepwater Horizon oil rig, but on Thursday, a federal judge for the first time found that BP was indeed the primary culprit.",
+      "lead_paragraph": "NEW ORLEANS — In the four years since the blowout on the Deepwater Horizon oil rig killed 11 workers and sent millions of barrels of oil gushing into the Gulf of Mexico, BP has spent more than $28 billion on damage claims and cleanup costs, pleaded guilty to criminal charges and emerged a shrunken giant. ",
+      "publication_date": "2014-09-04T15:12:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/05/business/bp-negligent-in-2010-oil-spill-us-judge-rules.html",
+      "byline": "By Campbell Robertson and Clifford Krauss"
+    }
+  ]
+}

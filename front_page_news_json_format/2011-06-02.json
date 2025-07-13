@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2011-06-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Virulent E. Coli Strain Spreads in Germany and Puzzles Health Officials",
+      "snippet": "The source of an unusually lethal strain of E. coli bacteria that has killed at least 16 people is unknown.",
+      "abstract": "The source of an unusually lethal strain of E. coli bacteria that has killed at least 16 people is unknown.",
+      "lead_paragraph": "BERLIN — An unusually lethal strain of E. coli bacteria has infected more than 1,500 people in Germany, mystifying public health officials, ravaging Spain’s agricultural heartland, and touching off panic in Europe as people weighed whether it was safe to eat raw vegetables. ",
+      "publication_date": "2011-06-01T16:52:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/02/world/europe/02ecoli.html",
+      "byline": "By Alan Cowell and William Neuman"
+    },
+    {
+      "headline": "Devilish Packaging, Tamed",
+      "snippet": "The high price of oil and a sickly economy have retailers dispensing with frustrating plastic packaging.",
+      "abstract": "The high price of oil and a sickly economy have retailers dispensing with frustrating plastic packaging.",
+      "lead_paragraph": "The Pyranna, the Jokari Deluxe, the Insta Slit, the ZipIt and the OpenIt apply blades and batteries to what should be a simple task: opening a retail package.",
+      "publication_date": "2011-06-01T19:41:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/02/business/energy-environment/02packaging.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "A Camera, a Card, a Connection",
+      "snippet": "If you place an Eye-Fi Mobile X2 memory card in your camera, you can automatically send photos to your phone or tablet for sharing online.",
+      "abstract": "If you place an Eye-Fi Mobile X2 memory card in your camera, you can automatically send photos to your phone or tablet for sharing online.",
+      "lead_paragraph": "According to my Twitter followers, certain laws govern the consumer electronics industry. There’s @Slbrink’s Law: “The cheaper the printer, the more expensive the ink cartridge.” And @MichaeLVosburg’s law: “Any gadget’s ease of use is inversely proportional to the number of engineers who worked on it.” And @Invisible_Daddy’s law: “Any cool feature you try to show your spouse won’t work, discrediting your enthusiasm for your new purchase.”",
+      "publication_date": "2011-06-01T20:53:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/02/technology/personaltech/02pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Google Says Hackers in China Stole Gmail Passwords",
+      "snippet": "Google said that the hacked accounts included those of senior American government officials and political activists.",
+      "abstract": "Google said that the hacked accounts included those of senior American government officials and political activists.",
+      "lead_paragraph": "SAN FRANCISCO — Google said Wednesday that hundreds of users of Gmail, its e-mail service, had been the targets of clandestine attacks apparently originating in China that were aimed at stealing their passwords and monitoring their e-mail.",
+      "publication_date": "2011-06-01T21:05:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/02/technology/02google.html",
+      "byline": "By John Markoff and David Barboza"
+    },
+    {
+      "headline": "Plan for China’s Water Crisis Spurs Concern",
+      "snippet": "The cost and environmental impact of the plan, and the sacrifices it imposes on the poor, are drawing criticism.",
+      "abstract": "The cost and environmental impact of the plan, and the sacrifices it imposes on the poor, are drawing criticism.",
+      "lead_paragraph": "DANJIANGKOU, China — North China is dying.",
+      "publication_date": "2011-06-01T21:43:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/02/world/asia/02water.html",
+      "byline": "By Edward Wong"
+    },
+    {
+      "headline": "Advocates and Bankers Join to Fight Loan Rules",
+      "snippet": "As banking regulators rewrite mortgage rules, unusual alliances have sprung up to oppose tighter standards.",
+      "abstract": "As banking regulators rewrite mortgage rules, unusual alliances have sprung up to oppose tighter standards.",
+      "lead_paragraph": "WASHINGTON — The weight of the mortgage crisis fell heavily on lower-income and minority communities, where first-time home buyers often fell victim to the predatory lending practices that resulted in an explosion of defaults and foreclosures.",
+      "publication_date": "2011-06-02T00:17:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/02/business/02mortgage.html",
+      "byline": "By Edward Wyatt and Ben Protess"
+    },
+    {
+      "headline": "Employment Data May Be the Key to the President’s Job",
+      "snippet": "Analysts are predicting only modest progress on unemployment before November 2012, and gridlock is limiting President Obama’s options.",
+      "abstract": "Analysts are predicting only modest progress on unemployment before November 2012, and gridlock is limiting President Obama’s options.",
+      "lead_paragraph": "WASHINGTON — No American president since Franklin Delano Roosevelt has won a second term in office when the unemployment rate on Election Day topped 7.2 percent.",
+      "publication_date": "2011-06-02T01:37:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/02/business/economy/02jobs.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Chaos in Yemen Drives Economy to Edge of Ruin",
+      "snippet": "Even if its political situation stabilizes and the fighting ends, Yemen faces an economic collapse with shortages of oil, electricity and water and rising food prices.",
+      "abstract": "Even if its political situation stabilizes and the fighting ends, Yemen faces an economic collapse with shortages of oil, electricity and water and rising food prices.",
+      "lead_paragraph": "WASHINGTON — Even as Yemen’s political crisis deepens, the country is on the brink of an economic collapse so dire it could take years to recover, and hobble efforts to rebuild its fragmented society. ",
+      "publication_date": "2011-06-02T10:41:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/03/world/middleeast/03yemen.html",
+      "byline": "By Robert F. Worth and Laura Kasinof"
+    },
+    {
+      "headline": "Trichet Urges Creation of Euro Oversight Panel",
+      "snippet": "Jean-Claude Trichet, president of the European Central Bank, called for the creation of a central finance ministry to monitor spending in the European Union.",
+      "abstract": "Jean-Claude Trichet, president of the European Central Bank, called for the creation of a central finance ministry to monitor spending in the European Union.",
+      "lead_paragraph": "FRANKFURT — Jean-Claude Trichet, the president of the European Central Bank, called on Thursday for the creation of a central finance ministry to oversee spending by countries that use the euro. ",
+      "publication_date": "2011-06-02T12:33:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/03/business/global/03euro.html",
+      "byline": "By Jack Ewing and Niki Kitsantonis"
+    },
+    {
+      "headline": "Abramson Named Executive Editor at The Times",
+      "snippet": "Jill Abramson, a managing editor, will succeed Bill Keller, who is stepping down to become a full-time writer.",
+      "abstract": "Jill Abramson, a managing editor, will succeed Bill Keller, who is stepping down to become a full-time writer.",
+      "lead_paragraph": "Jill Abramson, a former investigative reporter who rose to prominence as a Washington correspondent and editor, will become the next executive editor of The New York Times, succeeding Bill Keller, who is stepping down to become a full-time writer for the paper.   ",
+      "publication_date": "2011-06-02T14:34:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/03/business/media/03paper.html",
+      "byline": "By Jeremy W. Peters"
+    }
+  ]
+}

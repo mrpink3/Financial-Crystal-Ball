@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-03-22",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Zuckerberg, Facing Facebook’s Worst Crisis Yet, Pledges Better Privacy",
+      "snippet": "In his first public statements concerning a scandal involving Cambridge Analytica, Mark Zuckerberg said “there’s more to do, and we need to step up and do it.”",
+      "abstract": "In his first public statements concerning a scandal involving Cambridge Analytica, Mark Zuckerberg said “there’s more to do, and we need to step up and do it.”",
+      "lead_paragraph": "SAN FRANCISCO — Facebook’s chief executive, Mark Zuckerberg, on Wednesday publicly addressed for the first time the misuse of data belonging to 50 million users of the social network and described the steps the company would take to safeguard the information of its more than two billion monthly users.",
+      "publication_date": "2018-03-21T20:05:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/21/technology/facebook-zuckerberg-data-privacy.html",
+      "byline": "By Sheera Frenkel and Kevin Roose"
+    },
+    {
+      "headline": "For Many Facebook Users, a ‘Last Straw’ That Led Them to Quit",
+      "snippet": "Patrons of the social network are deleting their profiles in protest over reports that the company allowed a political data firm to harvest private information.",
+      "abstract": "Patrons of the social network are deleting their profiles in protest over reports that the company allowed a political data firm to harvest private information.",
+      "lead_paragraph": "Debates over privacy have plagued Facebook for years.",
+      "publication_date": "2018-03-21T21:51:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/21/technology/users-abandon-facebook.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "How 2 Gulf Monarchies Sought to Influence the White House",
+      "snippet": "Hundreds of pages of correspondence between two intermediaries reveal an active effort to win over President Trump on behalf of Saudi Arabia and the United Arab Emirates.",
+      "abstract": "Hundreds of pages of correspondence between two intermediaries reveal an active effort to win over President Trump on behalf of Saudi Arabia and the United Arab Emirates.",
+      "lead_paragraph": "A cooperating witness in the special counsel investigation worked for more than a year to turn a top Trump fund-raiser into an instrument of influence at the White House for the rulers of Saudi Arabia and the United Arab Emirates, according to interviews and previously undisclosed documents.",
+      "publication_date": "2018-03-21T21:59:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/21/us/politics/george-nader-elliott-broidy-uae-saudi-arabia-white-house-influence.html",
+      "byline": "By David D. Kirkpatrick and Mark Mazzetti"
+    },
+    {
+      "headline": "Trump Plans Stiff Trade Tariffs and Other Penalties on China",
+      "snippet": "The president, denouncing China’s trade practices, will announce a range of restrictions on Chinese imports and investment, raising concerns of a trade war.",
+      "abstract": "The president, denouncing China’s trade practices, will announce a range of restrictions on Chinese imports and investment, raising concerns of a trade war.",
+      "lead_paragraph": "WASHINGTON — President Trump on Thursday plans to announce at least $50 billion worth of annual tariffs and other penalties on China for its theft of technology and trade secrets, which administration officials say has robbed American companies of billions of dollars in revenue and killed thousands of jobs.",
+      "publication_date": "2018-03-21T23:46:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/21/us/politics/trump-china-tariff-trade.html",
+      "byline": "By Mark Landler and Alan Rappeport"
+    },
+    {
+      "headline": "Mark Zuckerberg’s Reckoning: ‘This Is a Major Trust Issue’",
+      "snippet": "Facebook’s chief executive spoke with The New York Times about data privacy of users, Cambridge Analytica and the company’s next steps.",
+      "abstract": "Facebook’s chief executive spoke with The New York Times about data privacy of users, Cambridge Analytica and the company’s next steps.",
+      "lead_paragraph": "For much of the past week, Facebook has been embroiled in a controversy involving Cambridge Analytica, a political consulting firm with ties to Donald J. Trump’s 2016 presidential campaign, and how the firm improperly obtained and exploited personal data from 50 million Facebook users.",
+      "publication_date": "2018-03-22T01:06:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/21/technology/mark-zuckerberg-q-and-a.html",
+      "byline": "By Kevin Roose and Sheera Frenkel"
+    },
+    {
+      "headline": "At Mars, Jeff Bezos Hosted Roboticists, Astronauts, Other Brainiacs and Me",
+      "snippet": "At the exclusive three-day conference run by Amazon in the California desert, the merely brilliant rub shoulders with the geniuses.",
+      "abstract": "At the exclusive three-day conference run by Amazon in the California desert, the merely brilliant rub shoulders with the geniuses.",
+      "lead_paragraph": "PALM SPRINGS, Calif. — “I get invited to everything, and everywhere I go, everyone wishes they had my job. But that’s not true here,” said Pablos Holman, a self-described futurist and inventor who has worked on lasers that kill mosquitoes and machines that suppress hurricanes.",
+      "publication_date": "2018-03-22T07:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/22/technology/at-mars-jeff-bezos-hosted-roboticists-astronauts-other-brainiacs-and-me.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "Citigroup Sets Restrictions on Gun Sales by Business Partners",
+      "snippet": "The banking and financial services giant is the first on Wall Street to create gun control policies after the massacre in Parkland, Fla.",
+      "abstract": "The banking and financial services giant is the first on Wall Street to create gun control policies after the massacre in Parkland, Fla.",
+      "lead_paragraph": "Citigroup is setting restrictions on the sale of firearms by its business customers, making it the first Wall Street bank to take a stance in the divisive nationwide gun control debate.",
+      "publication_date": "2018-03-22T15:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/22/business/citigroup-gun-control-policy.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "Trump’s Lawyer Resigns as President Adopts Aggressive Approach in Russia Inquiry",
+      "snippet": "The lawyer, John Dowd, was said to have left over a disagreement with President Trump about whether Mr. Trump should agree to be interviewed by the special counsel.",
+      "abstract": "The lawyer, John Dowd, was said to have left over a disagreement with President Trump about whether Mr. Trump should agree to be interviewed by the special counsel.",
+      "lead_paragraph": "WASHINGTON — John Dowd resigned on Thursday as President Trump’s lead lawyer for the special counsel investigation as Mr. Trump signaled that he was prepared to ignore his advice and wanted a sit-down with investigators.",
+      "publication_date": "2018-03-22T15:21:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/22/us/politics/john-dowd-resigns-trump-lawyer.html",
+      "byline": "By Michael S. Schmidt and Maggie Haberman"
+    }
+  ]
+}

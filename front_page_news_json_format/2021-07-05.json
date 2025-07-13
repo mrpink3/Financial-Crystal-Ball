@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "date": "2021-07-05",
+    "total_articles": 14
+  },
+  "articles": [
+    {
+      "headline": "June Jobs Report Delivers Good News and Big Questions for Washington",
+      "snippet": "Payrolls surged and wages climbed, both positives for President Biden and the Federal Reserve. But stagnant labor market participation highlights a key risk.",
+      "abstract": "Payrolls surged and wages climbed, both positives for President Biden and the Federal Reserve. But stagnant labor market participation highlights a key risk.",
+      "lead_paragraph": "Employers are hiring and wages are rising but the number of people actively working or looking for jobs remains stagnant, a phenomenon that is making it difficult for the Federal Reserve and White House to determine how much the labor market has recovered and how long the U.S. economy will continue to need hefty support.",
+      "publication_date": "2021-07-02T21:02:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/02/business/economy/jobs-economy-covid.html",
+      "byline": "By Jeanna Smialek and Jim Tankersley"
+    },
+    {
+      "headline": "A Supreme Court Term Marked by a Conservative Majority in Flux",
+      "snippet": "The chief justice’s power waned, and the three Trump justices grew more influential. The term ended with an exclamation point, with the court imposing new limits on the Voting Rights Act.",
+      "abstract": "The chief justice’s power waned, and the three Trump justices grew more influential. The term ended with an exclamation point, with the court imposing new limits on the Voting Rights Act.",
+      "lead_paragraph": "WASHINGTON — There were two very different Supreme Courts in the term that just ended.",
+      "publication_date": "2021-07-02T22:49:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/02/us/supreme-court-conservative-voting-rights.html",
+      "byline": "By Adam Liptak and Alicia Parlapiano"
+    },
+    {
+      "headline": "In Case Against Trump’s Company, Echoes of His Father’s Tactics on Taxes",
+      "snippet": "The first criminal prosecution involving the former president’s business hearkens back to Fred Trump’s $16,135 purchase of boilers in the 1990s.",
+      "abstract": "The first criminal prosecution involving the former president’s business hearkens back to Fred Trump’s $16,135 purchase of boilers in the 1990s.",
+      "lead_paragraph": "Long before Donald J. Trump’s company was accused of plotting detours around the tax code to compensate its chief financial officer with carpeting, televisions and car leases, there were the $16,135 boilers.",
+      "publication_date": "2021-07-03T09:00:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/03/us/weisselberg-fred-trump-invoice-scheme.html",
+      "byline": "By Mike McIntire and Russ Buettner"
+    },
+    {
+      "headline": "The Relics of America’s War in Afghanistan",
+      "snippet": "Just a mile from Bagram Air Base, where U.S. forces departed on Thursday, shops sell items left over from two decades of fighting. Each one tells a story.",
+      "abstract": "Just a mile from Bagram Air Base, where U.S. forces departed on Thursday, shops sell items left over from two decades of fighting. Each one tells a story.",
+      "lead_paragraph": "BAGRAM, Afghanistan — For almost 20 years, Bagram Air Base in Afghanistan was the anchor for America’s war, its sprawling twin runways serving to launch bombing raids, journeys home, medical evacuations, mail runs and U.S.O. shows.",
+      "publication_date": "2021-07-03T09:00:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/03/world/asia/bagram-afghanistan.html",
+      "byline": "By Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "Condo Wreckage Hints at First Signs of Possible Construction Flaw",
+      "snippet": "Engineers studying the collapsed Florida tower said there seemed to be less steel reinforcement in certain areas than would have been expected from the 1979 design drawings.",
+      "abstract": "Engineers studying the collapsed Florida tower said there seemed to be less steel reinforcement in certain areas than would have been expected from the 1979 design drawings.",
+      "lead_paragraph": "Engineers who have visited or examined photos of the wreckage of the Champlain Towers South condominium complex have been struck by a possible flaw in its construction: Critical places near the base of the building appeared to use less steel reinforcement than called for in the project’s original design drawings.",
+      "publication_date": "2021-07-03T15:27:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/03/us/florida-condo-collapse-steel-rebar.html",
+      "byline": "By James Glanz, Mike Baker and Anjali Singhvi"
+    },
+    {
+      "headline": "Inside the Tumultuous Years Before the Florida Condo Collapse",
+      "snippet": "The condo board knew that Champlain Towers South in Surfside, Fla., needed major repairs. It did not know the complex was in a race against time.",
+      "abstract": "The condo board knew that Champlain Towers South in Surfside, Fla., needed major repairs. It did not know the complex was in a race against time.",
+      "lead_paragraph": "SURFSIDE, Fla. — Elena Blasser kept her two-bedroom, two-bath condo in the Champlain Towers South as a beachside gathering place for family reunions. She adored the ocean and the small town of Surfside, Fla., because they reminded her of homes in Cuba and Puerto Rico.",
+      "publication_date": "2021-07-03T15:28:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/03/us/miami-florida-surfside-collapse.html",
+      "byline": "By Patricia Mazzei, Kimiko de Freytas-Tamura, Nicholas Bogel-Burroughs, Alexandra E. Petri and Stephanie Saul"
+    },
+    {
+      "headline": "Pandemic Wave of Automation May Be Bad News for Workers",
+      "snippet": "The need for social distancing led restaurants and grocery stores to seek technological help. That may improve productivity, but could also cost jobs.",
+      "abstract": "The need for social distancing led restaurants and grocery stores to seek technological help. That may improve productivity, but could also cost jobs.",
+      "lead_paragraph": "When Kroger customers in Cincinnati shop online these days, their groceries may be picked out not by a worker in their local supermarket but by a robot in a nearby warehouse.",
+      "publication_date": "2021-07-03T17:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/03/business/economy/automation-workers-robots-pandemic.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Why America’s Politics Are Stubbornly Fixed, Despite Momentous Changes",
+      "snippet": "The country is recovering from a pandemic and an economic crisis, and its former president is in legal and financial peril. But no political realignment appears to be at hand.",
+      "abstract": "The country is recovering from a pandemic and an economic crisis, and its former president is in legal and financial peril. But no political realignment appears to be at hand.",
+      "lead_paragraph": "In another age, the events of this season would have been nearly certain to produce a major shift in American politics — or at least a meaningful, discernible one.",
+      "publication_date": "2021-07-04T09:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/04/us/politics/biden-infrastructure-trump-republicans-democrats.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "A Diamond Rush in South Africa, Born of Desperation and Distrust",
+      "snippet": "When rumors of a diamond find hit social media, thousands of jobless South Africans rushed to a sleepy village. The government’s claim that the discovery was actually quartz was met with suspicion.",
+      "abstract": "When rumors of a diamond find hit social media, thousands of jobless South Africans rushed to a sleepy village. The government’s claim that the discovery was actually quartz was met with suspicion.",
+      "lead_paragraph": "KWAHLATHI, South Africa — Sbusiso Molefe stretched the pickax high above his head and hacked into the clumpy black dirt around his feet. He took a few more vigorous whacks into the edges of the shallow crater he had dug at the bottom of a hillside, before scooping up a handful of loose dirt and shaking it in search of the sparkle of a gem.",
+      "publication_date": "2021-07-04T09:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/04/world/africa/south-africa-diamond-rush.html",
+      "byline": "By John Eligon and Joao Silva"
+    },
+    {
+      "headline": "The Tech Cold War’s ‘Most Complicated Machine’ That’s Out of China’s Reach",
+      "snippet": "A $150 million chip-making tool from a Dutch company has become a lever in the U.S.-Chinese struggle. It also shows how entrenched the global supply chain is.",
+      "abstract": "A $150 million chip-making tool from a Dutch company has become a lever in the U.S.-Chinese struggle. It also shows how entrenched the global supply chain is.",
+      "lead_paragraph": "SAN FRANCISCO — President Biden and many lawmakers in Washington are worried these days about computer chips and China’s ambitions with the foundational technology.",
+      "publication_date": "2021-07-04T18:41:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/04/technology/tech-cold-war-chips.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "Lax Enforcement Let South Florida Towers Skirt Inspections for Years",
+      "snippet": "The collapse of Champlain Towers South has prompted a review of hundreds of older high-rises. Some buildings ignored or delayed action on serious maintenance issues.",
+      "abstract": "The collapse of Champlain Towers South has prompted a review of hundreds of older high-rises. Some buildings ignored or delayed action on serious maintenance issues.",
+      "lead_paragraph": "Out of the smoke and cinders of a city convulsed by race riots and an immigration crisis, the towers kept rising, each new development remaking Miami’s skyline in the early 1980s and marking an ambitious bet that the battered community would turn itself around.",
+      "publication_date": "2021-07-04T22:44:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/04/us/south-florida-condo-maintenance-violations.html",
+      "byline": "By Michael LaForgia, Adam Playford and Lazaro Gamio"
+    },
+    {
+      "headline": "Naomi Osaka Is Talking to the Media Again, but on Her Own Terms",
+      "snippet": "The tennis superstar is guest-editing Racquet magazine and has written a cover essay for Time. What’s left for traditional sports journalism?",
+      "abstract": "The tennis superstar is guest-editing Racquet magazine and has written a cover essay for Time. What’s left for traditional sports journalism?",
+      "lead_paragraph": "In early May, a couple of weeks before she tweeted that she wouldn’t appear at a required news conference at the French Open, Naomi Osaka was on a Zoom call with a writer for Racquet magazine who was trying to gain insight into the athlete’s inner life.",
+      "publication_date": "2021-07-05T00:13:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/04/business/media/naomi-osaka-tennis-journalism.html",
+      "byline": "By Ben Smith"
+    },
+    {
+      "headline": "China’s Crackdown on Didi Is a Reminder That Beijing Is in Charge",
+      "snippet": "After targeting the ride-hailing platform days after its I.P.O., regulators on Monday moved against more companies that had recently been listed on Wall Street.",
+      "abstract": "After targeting the ride-hailing platform days after its I.P.O., regulators on Monday moved against more companies that had recently been listed on Wall Street.",
+      "lead_paragraph": "In less than a week, China’s leading ride-hailing platform, Didi, has gone from investor darling with a megabucks Wall Street debut to the biggest new target in Beijing’s fast-moving efforts to tame the country’s internet industry.",
+      "publication_date": "2021-07-05T13:17:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/05/technology/china-didi-crackdown.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "As Lebanon’s Crisis Deepens, Lines for Fuel Grow, and Food and Medicine Are Scarce",
+      "snippet": "The World Bank said the financial crisis could rank among the world’s three worst since the mid-1800s. The currency has lost more than 90 percent of its value and unemployment has skyrocketed.",
+      "abstract": "The World Bank said the financial crisis could rank among the world’s three worst since the mid-1800s. The currency has lost more than 90 percent of its value and unemployment has skyrocketed.",
+      "lead_paragraph": "BEIRUT, Lebanon — As she sat in the sun in her Mini Cooper inching her way through a long line of cars to get gas, Lynn Husami, 23, tried to use her time well. She had a phone meeting with the adviser of her master’s thesis, called an old friend and played video games on her Nintendo Switch.",
+      "publication_date": "2021-07-05T15:36:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/05/world/middleeast/lebanon-economic-crisis.html",
+      "byline": "By Ben Hubbard"
+    }
+  ]
+}

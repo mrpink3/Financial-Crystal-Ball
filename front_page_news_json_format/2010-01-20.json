@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-01-20",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "G.O.P. Senate Victory Stuns Democrats",
+      "snippet": "Scott Brown, a little-known Republican state senator, defeated the Democrat, Martha Coakley, in the race to fill the Massachusetts Senate seat long held by Edward M. Kennedy.",
+      "abstract": "Scott Brown, a little-known Republican state senator, defeated the Democrat, Martha Coakley, in the race to fill the Massachusetts Senate seat long held by Edward M. Kennedy.",
+      "lead_paragraph": "BOSTON  Scott Brown, a little-known Republican state senator, rode an old pickup truck and a growing sense of unease among independent voters to an extraordinary upset Tuesday night when he was elected to fill the Senate seat that was long held by Edward M. Kennedy in the overwhelmingly Democratic state of Massachusetts. ",
+      "publication_date": "2010-01-19T18:05:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/20/us/politics/20election.html",
+      "byline": "By Michael Cooper"
+    },
+    {
+      "headline": "Fearing Hackers Who Leave No Trace",
+      "snippet": "Tech companies live in fear of hackers who build a back door into their source code and add rogue instructions.",
+      "abstract": "Tech companies live in fear of hackers who build a back door into their source code and add rogue instructions.",
+      "lead_paragraph": "MOUNTAIN VIEW, Calif.  The crown jewels of Google, Cisco Systems or any other technology company are the millions of lines of programming instructions, known as source code, that make its products run.",
+      "publication_date": "2010-01-19T18:25:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/20/technology/20code.html",
+      "byline": "By John Markoff and Ashlee Vance"
+    },
+    {
+      "headline": "A.I.G. Unit May Be Sold to MetLife",
+      "snippet": "The deal, if it goes through, would help pay off $9 billion of A.I.G.’s rescue debt to the government.",
+      "abstract": "The deal, if it goes through, would help pay off $9 billion of A.I.G.’s rescue debt to the government.",
+      "lead_paragraph": "MetLife, where Robert H. Benmosche made his mark as an insurance executive, has emerged as the lead bidder for a major subsidiary of the American International Group, where Mr. Benmosche is now chief executive. ",
+      "publication_date": "2010-01-20T01:21:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/20/business/20aig.html",
+      "byline": "By Mary Williams Walsh and Michael J. de la Merced"
+    },
+    {
+      "headline": "Centrist, and Yet Not Unified",
+      "snippet": "The current health bills are the product of decades of political debate and more conservative than other attempts at reform. Yet they are flailing.",
+      "abstract": "The current health bills are the product of decades of political debate and more conservative than other attempts at reform. Yet they are flailing.",
+      "lead_paragraph": " So what should happen with health reform now?",
+      "publication_date": "2010-01-20T01:39:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/20/business/economy/20leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Insider Faces Sentencing in ’07 Case",
+      "snippet": "Mark Lenowitz is to be sentenced for his role in a criminal case that was described in 2007 as the largest insider-trading crackdown in 20 years.",
+      "abstract": "Mark Lenowitz is to be sentenced for his role in a criminal case that was described in 2007 as the largest insider-trading crackdown in 20 years.",
+      "lead_paragraph": "A former hedge fund manager named Mark E. Lenowitz has been secretly cooperating with an expanding federal investigation of insider trading on Wall Street for more than two years, in hopes of reducing his jail time.",
+      "publication_date": "2010-01-20T02:09:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/20/business/20insider.html",
+      "byline": "By Diana B. Henriques and Zachery Kouwe"
+    },
+    {
+      "headline": "Obama Pressing for Protections Against Lenders",
+      "snippet": "Despite the president’s influence, Democrats may drop a consumer protection agency from the financial bill.",
+      "abstract": "Despite the president’s influence, Democrats may drop a consumer protection agency from the financial bill.",
+      "lead_paragraph": "WASHINGTON  President Obama on Tuesday stepped into the middle of a fierce lobbying battle by reinforcing his support for an independent agency to protect consumers against lending abuses that contributed to the financial crisis. The president’s move also signaled a tougher line and a more direct role as Congress weighs an overhaul of banking regulation.",
+      "publication_date": "2010-01-20T03:09:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/20/us/politics/20regulate.html",
+      "byline": "By Jackie Calmes and Sewell Chan"
+    },
+    {
+      "headline": "A Year Later, Voters Send a Different Message",
+      "snippet": "The Senate election result in Massachusetts leaves President Obama with a long list of tough choices.",
+      "abstract": "The Senate election result in Massachusetts leaves President Obama with a long list of tough choices.",
+      "lead_paragraph": "BOSTON  Special elections come and go. And the party that wins the White House one year ordinarily loses seats in the next Congressional election that comes along.",
+      "publication_date": "2010-01-20T03:39:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/20/us/politics/20assess.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Nightmare in Haiti: Untreated Illness and Injury",
+      "snippet": "Even after an aftershock, the biggest danger facing survivors was untreated wounds and rising disease.",
+      "abstract": "Even after an aftershock, the biggest danger facing survivors was untreated wounds and rising disease.",
+      "lead_paragraph": "PORT-AU-PRINCE, Haiti  A strong aftershock rattled Haiti once again on Wednesday, causing even more physical damage and further traumatizing the jittery population. But the authorities said the biggest dangers now facing survivors of last week’s major earthquake were untreated wounds and rising disease, not falling debris.",
+      "publication_date": "2010-01-20T13:26:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/21/world/americas/21haiti.html",
+      "byline": "By Marc Lacey"
+    },
+    {
+      "headline": "Morgan Stanley’s Quarter Is Weak, Unlike Its Pay Pool",
+      "snippet": "The bank added $3.8 billion to its compensation pool — for salaries and bonuses — in the fourth quarter, for a total of $14.43 billion for the year.",
+      "abstract": "The bank added $3.8 billion to its compensation pool — for salaries and bonuses — in the fourth quarter, for a total of $14.43 billion for the year.",
+      "lead_paragraph": "By almost any measure, 2009 was a lean year for Morgan Stanley  except when it came to pay. ",
+      "publication_date": "2010-01-20T13:57:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/21/business/21morgan.html",
+      "byline": "By Graham Bowley"
+    },
+    {
+      "headline": "The Times to Charge for Frequent Access to Its Web Site",
+      "snippet": "Starting in early 2011, nonsubscribers who visit NYTimes.com will get a certain number of articles free every month before being asked to pay a flat fee for access.",
+      "abstract": "Starting in early 2011, nonsubscribers who visit NYTimes.com will get a certain number of articles free every month before being asked to pay a flat fee for access.",
+      "lead_paragraph": "Taking a step that has tempted and terrified much of the newspaper industry, The New York Times announced on Wednesday that it would charge some frequent readers for access to its Web site  news that drew ample reaction from media analysts and consumers, ranging from enthusiastic to withering.",
+      "publication_date": "2010-01-20T14:17:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/21/business/media/21times.html",
+      "byline": "By Richard Pérez-Peña"
+    }
+  ]
+}

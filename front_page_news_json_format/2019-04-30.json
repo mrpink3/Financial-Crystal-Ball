@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-04-30",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "ISIS’ Mysterious Leader Is Not Dead, New Video Shows",
+      "snippet": "Abu Bakr al-Baghdadi appeared on video for the first time in five years, reasserting authority in the wake of lost territory and a major attack in Sri Lanka.",
+      "abstract": "Abu Bakr al-Baghdadi appeared on video for the first time in five years, reasserting authority in the wake of lost territory and a major attack in Sri Lanka.",
+      "lead_paragraph": "BEIRUT, Lebanon — Five years ago, Abu Bakr al-Baghdadi mounted the pulpit of a mosque in Iraq to declare himself the head of a rapidly expanding terrorist organization.",
+      "publication_date": "2019-04-29T17:05:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/29/world/middleeast/isis-baghdadi-video.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Labor Dept. Says Workers at a Gig Company Are Contractors",
+      "snippet": "The department exempted an unnamed operation from pay standards applied to employees, marking a shift from the Obama administration view.",
+      "abstract": "The department exempted an unnamed operation from pay standards applied to employees, marking a shift from the Obama administration view.",
+      "lead_paragraph": "The Labor Department weighed in Monday on a question whose answer could be worth billions of dollars to gig-economy companies, deciding that one company’s workers were contractors, not employees.",
+      "publication_date": "2019-04-29T17:45:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/29/business/economy/gig-economy-workers-contractors.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "In California, Home to Many Hate Groups, Officials Struggle to Spot the Next Threat",
+      "snippet": "Lone actors who come out of the blue present a daunting challenge for law enforcement, even in a region where investigators have a solid grasp on extremist networks.",
+      "abstract": "Lone actors who come out of the blue present a daunting challenge for law enforcement, even in a region where investigators have a solid grasp on extremist networks.",
+      "lead_paragraph": "California has more organized hate groups than any other state — it has chapters for street-fighting skinheads and black nationalists, Holocaust deniers and Muslim haters.",
+      "publication_date": "2019-04-29T18:13:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/29/us/synagogue-shooting-fbi-warning.html",
+      "byline": "By Shaila Dewan and Ali Winston"
+    },
+    {
+      "headline": "WeWork Files for I.P.O., Joining Wave of Cash-Burning Start-Ups in Going Public",
+      "snippet": "The company initially filed paperwork with the Securities and Exchange Commission in December, according to a memo to employees.",
+      "abstract": "The company initially filed paperwork with the Securities and Exchange Commission in December, according to a memo to employees.",
+      "lead_paragraph": "Over nine years, WeWork has grown from one work space in Manhattan into a global empire of trendily designed shared offices, business services and more.",
+      "publication_date": "2019-04-29T18:45:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/04/29/business/dealbook/wework-ipo-filing.html",
+      "byline": "By Michael J. de la Merced and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Who Killed Atlanta’s Children?",
+      "snippet": "Forty years ago, a serial killer terrorized the city. Families have been searching for answers ever since.",
+      "abstract": "Forty years ago, a serial killer terrorized the city. Families have been searching for answers ever since.",
+      "lead_paragraph": "[For more coverage of race, sign up here to have our Race/Related newsletter delivered weekly to your inbox.]",
+      "publication_date": "2019-04-30T09:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/30/us/atlanta-child-murders.html",
+      "byline": "By Audra D. S. Burch"
+    },
+    {
+      "headline": "As Buttigieg Builds His Campaign, Gay Donors Provide the Foundation",
+      "snippet": "In amassing a small fortune, the South Bend mayor has had the backing of an exuberant L.G.B.T. donor base. But relying on wealthy contributors carries political risk.",
+      "abstract": "In amassing a small fortune, the South Bend mayor has had the backing of an exuberant L.G.B.T. donor base. But relying on wealthy contributors carries political risk.",
+      "lead_paragraph": "Barely two months ago, when Pete Buttigieg, the mayor of South Bend, Ind., was rating no higher than 1 or 2 percent in national polls, he had a well-worn punch line he used as he pitched himself in living rooms and conference rooms where many of the guests were, like him, young, male and gay.",
+      "publication_date": "2019-04-30T09:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/30/us/politics/pete-buttigieg-gay-donors.html",
+      "byline": "By Jeremy W. Peters and Shane Goldmacher"
+    }
+  ]
+}

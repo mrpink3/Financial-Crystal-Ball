@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2024-04-10",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "F.A.A. Investigates Claims by Boeing Whistle-Blower About Flaws in 787 Dreamliner",
+      "snippet": "The whistle-blower, an engineer, says that sections of the plane’s body are being assembled in a way that could weaken the aircraft over time. Boeing says there is no safety issue.",
+      "abstract": "The whistle-blower, an engineer, says that sections of the plane’s body are being assembled in a way that could weaken the aircraft over time. Boeing says there is no safety issue.",
+      "lead_paragraph": "The Federal Aviation Administration is investigating claims made by a Boeing engineer who says that sections of the fuselage of the 787 Dreamliner are improperly fastened together and could break apart mid-flight after thousands of trips.",
+      "publication_date": "2024-04-09T16:05:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/09/us/politics/boeing-787-dreamliner-whistle-blower.html",
+      "byline": "By Mark Walker and James Glanz"
+    },
+    {
+      "headline": "Biden’s Trade Moves Raise Tensions Abroad but Draw Cheers in Swing States",
+      "snippet": "The president’s efforts to restrict Chinese imports and block a Japanese steel merger have pleased labor unions and sent a message to rival Donald J. Trump.",
+      "abstract": "The president’s efforts to restrict Chinese imports and block a Japanese steel merger have pleased labor unions and sent a message to rival Donald J. Trump.",
+      "lead_paragraph": "President Biden has intensified efforts to shield American industries from foreign competition in an election year, as he courts blue-collar workers and attempts to avoid being outflanked on trade by his Republican rival, former President Donald J. Trump.",
+      "publication_date": "2024-04-09T16:19:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/09/us/politics/biden-trade-steel-china-japan.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Arizona Reinstates 160-Year-Old Abortion Ban",
+      "snippet": "The state’s highest court said the law, moribund for decades under Roe v. Wade, was now enforceable, but it put its decision on hold for a lower court to hear other challenges to the law.",
+      "abstract": "The state’s highest court said the law, moribund for decades under Roe v. Wade, was now enforceable, but it put its decision on hold for a lower court to hear other challenges to the law.",
+      "lead_paragraph": "Arizona’s highest court on Tuesday upheld an 1864 law that bans nearly all abortions, a decision that could have far-reaching consequences for women’s health care and election-year politics in a critical battleground state.",
+      "publication_date": "2024-04-09T17:11:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/09/us/arizona-abortion-ban.html",
+      "byline": "By Jack Healy and Kellen Browning"
+    },
+    {
+      "headline": "TV Networks to Urge Biden and Trump to Debate, Wading Into a Fraught Topic",
+      "snippet": "Speculation has swirled in the political world about whether the presumptive candidates will agree to the traditional face-to-face events, a campaign staple since 1976.",
+      "abstract": "Speculation has swirled in the political world about whether the presumptive candidates will agree to the traditional face-to-face events, a campaign staple since 1976.",
+      "lead_paragraph": "In an unusual move, the five major broadcast and cable news networks have prepared a joint open letter that urges President Biden and former President Donald J. Trump to participate in televised debates ahead of Election Day, according to two people with direct knowledge of their plans.",
+      "publication_date": "2024-04-09T17:20:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/09/business/media/networks-biden-trump-debate-letter.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Trump Allies Have a Plan to Hurt Biden’s Chances: Elevate Outsider Candidates",
+      "snippet": "The more candidates in the race, the better for Donald J. Trump, supporters say. And in a tight presidential contest, a small share of voters could change the result.",
+      "abstract": "The more candidates in the race, the better for Donald J. Trump, supporters say. And in a tight presidential contest, a small share of voters could change the result.",
+      "lead_paragraph": "Allies of Donald J. Trump are discussing ways to elevate third-party candidates in battleground states to divert votes away from President Biden, along with other covert tactics to diminish Democratic votes.",
+      "publication_date": "2024-04-10T09:03:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/10/us/politics/trump-rfk-jr-biden.html",
+      "byline": "By Jonathan Swan, Maggie Haberman, Shane Goldmacher and Rebecca Davis O'Brien"
+    },
+    {
+      "headline": "Inflation Was Hotter Than Expected in March, Unwelcome News for the Fed",
+      "snippet": "The surprisingly stubborn reading raised doubts about when — and even whether — the Federal Reserve will be able to start cutting interest rates this year.",
+      "abstract": "The surprisingly stubborn reading raised doubts about when — and even whether — the Federal Reserve will be able to start cutting interest rates this year.",
+      "lead_paragraph": "A closely watched measure of inflation remained stronger than expected in March, worrying news for Federal Reserve officials who have become increasingly concerned that their progress on lowering price increases might be stalling.",
+      "publication_date": "2024-04-10T09:21:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/10/business/cpi-inflation-fed.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Now Hiring: Sophisticated (but Part-Time) Chatbot Tutors",
+      "snippet": "The human work of teaching A.I. is getting a lot more complex as the technology improves.",
+      "abstract": "The human work of teaching A.I. is getting a lot more complex as the technology improves.",
+      "lead_paragraph": "After her second child was born, Chelsea Becker took an unpaid, yearlong leave from her full-time job as a flight attendant. After watching a video on TikTok, she found a side hustle: training artificial intelligence models for a website called Data Annotation Tech.",
+      "publication_date": "2024-04-10T15:06:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/10/technology/ai-chatbot-training-chatgpt.html",
+      "byline": "By Yiwen Lu"
+    },
+    {
+      "headline": "The Worst Part of a Wall Street Career May Be Coming to an End",
+      "snippet": "Artificial intelligence tools can replace much of Wall Street’s entry-level white-collar work, raising tough questions about the future of finance.",
+      "abstract": "Artificial intelligence tools can replace much of Wall Street’s entry-level white-collar work, raising tough questions about the future of finance.",
+      "lead_paragraph": "Pulling all-nighters to assemble PowerPoint presentations. Punching numbers into Excel spreadsheets. Finessing the language on esoteric financial documents that may never be read by another soul.",
+      "publication_date": "2024-04-10T15:07:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/10/business/investment-banking-jobs-artificial-intelligence.html",
+      "byline": "By Rob Copeland"
+    },
+    {
+      "headline": "After Trump Broadside, Surveillance Bill Collapses in the House",
+      "snippet": "Right-wing lawmakers blocked a move by Speaker Johnson to extend a key foreign intelligence surveillance tool after former President Donald J. Trump urged lawmakers to “kill” the law underlying it.",
+      "abstract": "Right-wing lawmakers blocked a move by Speaker Johnson to extend a key foreign intelligence surveillance tool after former President Donald J. Trump urged lawmakers to “kill” the law underlying it.",
+      "lead_paragraph": "Right-wing House Republicans on Wednesday blocked legislation to extend an expiring warrantless surveillance law that national security officials call crucial to gathering intelligence and fighting terrorism, dealing Speaker Mike Johnson a stinging defeat after former President Donald J. Trump urged lawmakers to kill the bill.",
+      "publication_date": "2024-04-10T15:33:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/10/us/politics/fisa-trump-johnson-house.html",
+      "byline": "By Luke Broadwater and Charlie Savage"
+    }
+  ]
+}

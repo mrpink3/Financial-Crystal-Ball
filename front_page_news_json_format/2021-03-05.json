@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-03-05",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Ministry of Supply Sold Office Apparel. It Has Had to Rethink Things.",
+      "snippet": "The start-up had to decide what to do when its merchandise became virtually irrelevant during the pandemic. Revamping its focus was not easy, but the company has survived.",
+      "abstract": "The start-up had to decide what to do when its merchandise became virtually irrelevant during the pandemic. Revamping its focus was not easy, but the company has survived.",
+      "lead_paragraph": "Alison Hop, the vice president of commerce for the office apparel start-up Ministry of Supply, woke up on the morning of March 13, 2020, ready to help host a store reopening party that night in Washington’s Georgetown neighborhood.",
+      "publication_date": "2021-03-04T19:57:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/04/business/ministry-of-supply-pandemic-clothing.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Fed Chair Powell Offered a Patient Message. Markets Quivered Anyway.",
+      "snippet": "Stocks fell and bond yields rose after the Fed leader reiterated that the central bank did not plan to pull back policy support soon.",
+      "abstract": "Stocks fell and bond yields rose after the Fed leader reiterated that the central bank did not plan to pull back policy support soon.",
+      "lead_paragraph": "Jerome H. Powell, the chair of the Federal Reserve, said he and his colleagues have a “high standard” for what full employment means, underscoring that the central bank is likely to be patient in removing its support for the economy.",
+      "publication_date": "2021-03-04T21:28:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/04/business/economy/federal-reserve-powell-economy.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "As Biden Urges Caution on Covid, Governors Split on How Fast to Reopen",
+      "snippet": "Even within political parties, governors were taking different approaches as they tried to balance public health guidance with residents’ eagerness to get back to normal life.",
+      "abstract": "Even within political parties, governors were taking different approaches as they tried to balance public health guidance with residents’ eagerness to get back to normal life.",
+      "lead_paragraph": "Despite President Biden’s sharp criticism of Texas and Mississippi for abruptly removing mask mandates, states and cities are aggressively going their own ways on Covid-19 restrictions as they decide when and how to reopen their economies.",
+      "publication_date": "2021-03-05T01:10:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/04/us/covid-states-reopening-governors.html",
+      "byline": "By Julie Bosman, Michael D. Shear and Reid J. Epstein"
+    },
+    {
+      "headline": "The World Needs Syringes. He Jumped In to Make 5,900 Per Minute.",
+      "snippet": "Rajiv Nath’s family-run Hindustan Syringes bets it can help meet the pandemic need for billions of barrels and needles.",
+      "abstract": "Rajiv Nath’s family-run Hindustan Syringes bets it can help meet the pandemic need for billions of barrels and needles.",
+      "lead_paragraph": "BALLABGARH, India — In late November, an urgent email popped up in the inbox of Hindustan Syringes & Medical Devices, one of the world’s largest syringe makers.",
+      "publication_date": "2021-03-05T10:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/05/technology/covid-vaccine-syringes-factory.html",
+      "byline": "By Karan Deep Singh"
+    },
+    {
+      "headline": "When Amazon Raises Its Minimum Wage, Local Companies Follow Suit",
+      "snippet": "New research suggests that when big companies increase wages, they drive up pay in the places where they operate — without a notable loss in jobs.",
+      "abstract": "New research suggests that when big companies increase wages, they drive up pay in the places where they operate — without a notable loss in jobs.",
+      "lead_paragraph": "Amazon has embarked on an advertising blitz this winter, urging Congress to follow the company’s lead and raise the federal minimum wage to $15 an hour. American workers “simply can’t wait” for higher pay, the company said in a recent blog post.",
+      "publication_date": "2021-03-05T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/05/business/economy/amazon-wage-effect.html",
+      "byline": "By Ben Casselman and Jim Tankersley"
+    },
+    {
+      "headline": "Job Market Picks Up Strength, Led by Food and Drink",
+      "snippet": "U.S. employers added 379,000 to their payrolls in February, increasing hopes that vaccinations and reopenings are giving the economic recovery a firmer grip.",
+      "abstract": "U.S. employers added 379,000 to their payrolls in February, increasing hopes that vaccinations and reopenings are giving the economic recovery a firmer grip.",
+      "lead_paragraph": "Driven by unexpectedly large job gains at the nation’s restaurants and bars, the labor market picked up strength in February, raising hopes that the economic recovery was taking hold more firmly.",
+      "publication_date": "2021-03-05T10:19:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/05/business/economy/february-2021-jobs-report.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

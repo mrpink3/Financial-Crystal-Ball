@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-11-12",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Fight Over Gig Workers Persists Despite Win for Uber and Lyft",
+      "snippet": "A successful ballot measure in California makes drivers and other workers contractors, but the companies face continued pushback.",
+      "abstract": "A successful ballot measure in California makes drivers and other workers contractors, but the companies face continued pushback.",
+      "lead_paragraph": "Last week’s election produced a crisp result in at least one high-stakes contest: California voters approved a ballot measure that exempts companies like Uber and Lyft from having to treat workers as employees.",
+      "publication_date": "2020-11-11T18:03:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/11/business/economy/california-gig-workers-ballot-uber-lyft.html",
+      "byline": "By Noam Scheiber and Kate Conger"
+    },
+    {
+      "headline": "Fact-Checked on Facebook and Twitter, Conservatives Switch Their Apps",
+      "snippet": "Since the election, millions have migrated to alternative social media and media sites like Parler, Rumble and Newsmax.",
+      "abstract": "Since the election, millions have migrated to alternative social media and media sites like Parler, Rumble and Newsmax.",
+      "lead_paragraph": "Corey Adam, a political comedian from Minneapolis, joined a mass social media switcheroo last week.",
+      "publication_date": "2020-11-11T20:18:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/11/technology/parler-rumble-newsmax.html",
+      "byline": "By Mike Isaac and Kellen Browning"
+    },
+    {
+      "headline": "Biden’s Policy Agenda Rests Heavily on Senate Outcome",
+      "snippet": "Which party controls the Senate will largely dictate how ambitious President-elect Joe Biden can get on taxes, health care, climate change and other policy priorities.",
+      "abstract": "Which party controls the Senate will largely dictate how ambitious President-elect Joe Biden can get on taxes, health care, climate change and other policy priorities.",
+      "lead_paragraph": "WASHINGTON — President-elect Joseph R. Biden Jr.’s transition team is preparing multiple sets of policy proposals for the economy, health care, climate change and other domestic issues, including the ambitious agenda Mr. Biden laid out in his winning campaign, while acknowledging it may have to be pared back in recognition of divided government.",
+      "publication_date": "2020-11-11T22:04:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/11/business/biden-policy-agenda.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Trump’s Post-Election Tactics Put Him in Unsavory Company",
+      "snippet": "Denying defeat, claiming fraud and using government machinery to reverse election results are the time-honored tools of dictators.",
+      "abstract": "Denying defeat, claiming fraud and using government machinery to reverse election results are the time-honored tools of dictators.",
+      "lead_paragraph": "MOSCOW — When the strongman ruler of Belarus declared an implausible landslide victory in an election in August, and had himself sworn in for a sixth term as president, the United States and other Western nations denounced what they said was brazen defiance of the voters’ will.",
+      "publication_date": "2020-11-11T23:25:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/11/world/europe/trump-autocrats-dictators.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?",
+      "snippet": "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent.",
+      "abstract": "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent.",
+      "lead_paragraph": "WASHINGTON — President Trump’s abrupt installation of a group of hard-line loyalists into senior jobs at the Pentagon has elevated officials who have pushed for more aggressive actions against Iran and for an imminent withdrawal of all American forces from Afghanistan over the objections of the military.",
+      "publication_date": "2020-11-12T00:56:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.html",
+      "byline": "By David E. Sanger and Eric Schmitt"
+    },
+    {
+      "headline": "After a Long Ride, Harley-Davidson Is Leaving India",
+      "snippet": "The American icon saw promise in the world’s largest market for two-wheelers. But its bikes sold poorly in a country where incomes are low and manufacturing isn’t easy.",
+      "abstract": "The American icon saw promise in the world’s largest market for two-wheelers. But its bikes sold poorly in a country where incomes are low and manufacturing isn’t easy.",
+      "lead_paragraph": "NEW DELHI — Bhupender Singh crouched over a fuel tank inside a Harley-Davidson showroom. A row of motorcycles gleamed in the afternoon sun; one metallic red, another with a black matte finish and a slightly taller variant in blue.",
+      "publication_date": "2020-11-12T10:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/12/technology/india-harley-davidson.html",
+      "byline": "By Karan Deep Singh"
+    },
+    {
+      "headline": "How Pfizer Plans to Distribute Its Vaccine (It’s Complicated)",
+      "snippet": "Success will hinge on an untested network of governments, companies and health workers.",
+      "abstract": "Success will hinge on an untested network of governments, companies and health workers.",
+      "lead_paragraph": "For months, scientists and public health experts have been saying the most crucial part of defusing the Covid-19 pandemic will be developing a safe and effective vaccine. So it was cause for celebration this week when Pfizer announced that an early analysis showed its vaccine candidate was more than 90 percent effective.",
+      "publication_date": "2020-11-12T14:38:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/12/business/pfizer-covid-vaccine-coronavirus.html",
+      "byline": "By Rebecca Robbins and David Gelles"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2012-09-26",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "British Bankers Group May Give Up Control Over Libor",
+      "snippet": "The British Bankers’ Association is expected to give up its responsibility for the global interest rate at the center of a recent manipulation scandal, according to a person with direct knowledge of the matter.",
+      "abstract": "The British Bankers’ Association is expected to give up its responsibility for the global interest rate at the center of a recent manipulation scandal, according to a person with direct knowledge of the matter.",
+      "lead_paragraph": "LONDON — A British banking group is preparing to give up its control over the interest rate at the center of a recent manipulation scandal, according to a person with direct knowledge of the matter.",
+      "publication_date": "2012-09-25T17:11:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/09/25/british-bankers-group-seen-losing-control-over-libor/",
+      "byline": "By Mark Scott"
+    },
+    {
+      "headline": "In Romney-Obama ‘Redistribution’ Debate, a Gray Area",
+      "snippet": "Demographics alone suggest that regardless of who is the next president, the government is going to wind up distributing more of the nation’s wealth than it does today.",
+      "abstract": "Demographics alone suggest that regardless of who is the next president, the government is going to wind up distributing more of the nation’s wealth than it does today.",
+      "lead_paragraph": "Mitt Romney may be right about President Obama’s Robin Hood tendencies. Future historians could well conclude that Mr. Obama led the biggest redistribution of wealth in decades.",
+      "publication_date": "2012-09-25T23:50:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/09/26/business/obama-and-romneys-redistribution-debate-has-a-gray-area.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Relic of an Era, Revitalized",
+      "snippet": "The River North section of Chicago, once a dormant area of warehouses, has evolved into an aspiring rival to Silicon Valley, with Motorola Mobility the latest tech company to sign a lease.",
+      "abstract": "The River North section of Chicago, once a dormant area of warehouses, has evolved into an aspiring rival to Silicon Valley, with Motorola Mobility the latest tech company to sign a lease.",
+      "lead_paragraph": "CHICAGO — Once a dormant area of empty warehouses, the River North section of Chicago has evolved into a nexus of dining, night life and, most recently, an aspiring rival to Silicon Valley. Its 45 square blocks are home to the headquarters of Groupon, the Chicago offices of Google and several hundred technology start-ups.",
+      "publication_date": "2012-09-26T01:28:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/09/26/business/merchandise-mart-in-chicago-attracts-tech-start-ups.html",
+      "byline": "By Erin Chan Ding"
+    },
+    {
+      "headline": "New Limits Considered in Airwaves",
+      "snippet": "In an effort to compete with companies like AT&T and Verizon, smaller telecommunications firms asked the F.C.C. to limit ownership of spectrum that is valuable in urban areas.",
+      "abstract": "In an effort to compete with companies like AT&T and Verizon, smaller telecommunications firms asked the F.C.C. to limit ownership of spectrum that is valuable in urban areas.",
+      "lead_paragraph": "WASHINGTON — From East Hampton to Malibu, the only limit on how much beachfront property one can own is usually however much one can afford.",
+      "publication_date": "2012-09-26T01:30:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/09/26/business/media/fcc-considers-new-spectrum-rules-for-wireless-companies.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Test for Obama as Deficit Stays Over $1 Trillion",
+      "snippet": "President Obama and Mitt Romney have very different ideas on reducing the budget deficit, but experts have doubts that either plan is up to the challenge.",
+      "abstract": "President Obama and Mitt Romney have very different ideas on reducing the budget deficit, but experts have doubts that either plan is up to the challenge.",
+      "lead_paragraph": "WASHINGTON — Four years ago, Barack Obama campaigned for president on a promise to cut annual federal budget deficits in half by the end of his term. Then came financial calamity, $1.4 trillion in stimulus measures and a maddeningly slow economic recovery.",
+      "publication_date": "2012-09-26T01:44:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/09/26/us/politics/obama-faces-test-as-deficit-stays-above-1-trillion.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Seeking Cures, Patients Enlist Mice Stand-Ins",
+      "snippet": "In what could be the ultimate in personalized medicine, animal models, referred to by researchers as avatars, are being used to help determine the best treatment for a patient.",
+      "abstract": "In what could be the ultimate in personalized medicine, animal models, referred to by researchers as avatars, are being used to help determine the best treatment for a patient.",
+      "lead_paragraph": "BALTIMORE — Megan Sykes, a medical researcher, has a mouse with a human immune system — her own. She calls it “Mini-Me.” ",
+      "publication_date": "2012-09-26T02:43:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/09/26/business/mice-as-stand-ins-in-the-fight-against-disease.html",
+      "byline": "By Andrew Pollack"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-04-19",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Fox Will Pay $787.5 Million to Settle Defamation Suit",
+      "snippet": "The settlement with Dominion Voting Systems was the latest extraordinary twist in a case that exposed the inner workings of the most powerful voice in conservative news.",
+      "abstract": "The settlement with Dominion Voting Systems was the latest extraordinary twist in a case that exposed the inner workings of the most powerful voice in conservative news.",
+      "lead_paragraph": "Fox News abruptly agreed on Tuesday to pay $787.5 million to resolve a defamation suit filed by Dominion Voting Systems over the network’s promotion of misinformation about the 2020 election, averting a lengthy and embarrassing trial just as a packed courtroom was seated in anticipation of hearing opening statements.",
+      "publication_date": "2023-04-18T23:54:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/18/business/media/fox-dominion-defamation-settle.html",
+      "byline": "By Jeremy W. Peters and Katie Robertson"
+    },
+    {
+      "headline": "A $787.5 Million Settlement and Embarrassing Disclosures: The Costs of Airing a Lie",
+      "snippet": "Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.",
+      "abstract": "Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.",
+      "lead_paragraph": "In settling with Dominion Voting Systems, Fox News has avoided an excruciating, drawn-out trial in which its founding chief, Rupert Murdoch, its top managers and its biggest stars would have had to face hostile grilling on an embarrassing question: Why did they allow a virulent and defamatory conspiracy theory about the 2020 election to spread across the network when so many of them knew it to be false?",
+      "publication_date": "2023-04-19T00:30:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/18/technology/fox-news-dominion-settlement.html",
+      "byline": "By Jim Rutenberg and Katie Robertson"
+    },
+    {
+      "headline": "India Is Passing China in Population. Can Its Economy Ever Do the Same?",
+      "snippet": "India has a young, vast work force that is expanding as China’s ages and shrinks. But the country’s immense size also lays bare its enormous challenges.",
+      "abstract": "India has a young, vast work force that is expanding as China’s ages and shrinks. But the country’s immense size also lays bare its enormous challenges.",
+      "lead_paragraph": "India’s leaders rarely miss a chance to cheer the nation’s many distinctions, from its status as the world’s largest democracy to its new rank as the world’s fifth-largest economy, after recently surpassing Britain, its former colonial overlord. Even its turn this year as host of the Group of 20 summit is being celebrated as announcing India’s arrival on the global stage.",
+      "publication_date": "2023-04-19T04:02:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/19/world/asia/india-china-population.html",
+      "byline": "By Mujib Mashal and Alex Travelli"
+    },
+    {
+      "headline": "Supreme Court Delays Decision on Abortion Pill, Preserving Access for Now",
+      "snippet": "The drug will remain widely available as the justices extended their deadline to Friday on whether to uphold the F.D.A.’s approval of the pill.",
+      "abstract": "The drug will remain widely available as the justices extended their deadline to Friday on whether to uphold the F.D.A.’s approval of the pill.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Wednesday extended for two days a pause on a lower-court ruling that had sought to limit access to the abortion pill mifepristone, ensuring that the drug would continue to remain widely available for now.",
+      "publication_date": "2023-04-19T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/19/us/politics/abortion-pill-supreme-court.html",
+      "byline": "By Abbie VanSickle"
+    },
+    {
+      "headline": "3 Nuclear Superpowers, Rather Than 2, Usher In a New Strategic Era",
+      "snippet": "China is on track to massively expand its nuclear arsenal, just as Russia suspends the last major arms control treaty. It augurs a new world in which Beijing, Moscow and Washington will likely be atomic peers.",
+      "abstract": "China is on track to massively expand its nuclear arsenal, just as Russia suspends the last major arms control treaty. It augurs a new world in which Beijing, Moscow and Washington will likely be atomic peers.",
+      "lead_paragraph": "WASHINGTON — On the Chinese coast, just 135 miles from Taiwan, Beijing is preparing to start a new reactor the Pentagon sees as delivering fuel for a vast expansion of China’s nuclear arsenal, potentially making it an atomic peer of the United States and Russia. The reactor, known as a fast breeder, excels at making plutonium, a top fuel of atom bombs.",
+      "publication_date": "2023-04-19T09:00:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/19/us/politics/china-nuclear-weapons-russia-arms-treaties.html",
+      "byline": "By David E. Sanger, William J. Broad and Chris Buckley"
+    },
+    {
+      "headline": "A Tech Industry Pioneer Sees a Way for the U.S. to Lead in Advanced Chips",
+      "snippet": "Ivan Sutherland played a key role in foundational computer technologies. Now he sees a path for America to claim the mantle in “superconducting” chips.",
+      "abstract": "Ivan Sutherland played a key role in foundational computer technologies. Now he sees a path for America to claim the mantle in “superconducting” chips.",
+      "lead_paragraph": "It has been six decades since Ivan Sutherland created Sketchpad, a software system that foretold the future of interactive and graphical computing. In the 1970s, he played a role in rallying the computer industry to build a new type of microchip with hundreds of thousands of circuits that would become the foundation of today’s semiconductor industry.",
+      "publication_date": "2023-04-19T09:00:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/19/technology/ivan-sutherland-superconducting-chips.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Sudan’s Generals Dined With Peace Negotiators, Then Started a War",
+      "snippet": "What led the two generals, recently allies, to turn their forces on each other — devastating a country of 45 million people?",
+      "abstract": "What led the two generals, recently allies, to turn their forces on each other — devastating a country of 45 million people?",
+      "lead_paragraph": "NAIROBI, Kenya — As they talked peace, Sudan’s generals prepared for war.",
+      "publication_date": "2023-04-19T09:00:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/19/world/africa/sudan-war-army-paramilitary.html",
+      "byline": "By Declan Walsh"
+    },
+    {
+      "headline": "What’s Next for Dominion After Its $787.5 Million Settlement With Fox News?",
+      "snippet": "The election technology company has several more defamation lawsuits pending against public figures and news outlets.",
+      "abstract": "The election technology company has several more defamation lawsuits pending against public figures and news outlets.",
+      "lead_paragraph": "Dominion Voting Systems did more on Tuesday than settle its lawsuit against Fox News for $787.5 million: It also set the tone for the many related defamation cases it has filed.",
+      "publication_date": "2023-04-19T13:46:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/19/business/media/dominion-fox-news-settlement.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "The Future of Social Media Is a Lot Less Social",
+      "snippet": "Facebook, TikTok and Twitter seem to be increasingly connecting users with brands and influencers. To restore a sense of community, some users are trying smaller social networks.",
+      "abstract": "Facebook, TikTok and Twitter seem to be increasingly connecting users with brands and influencers. To restore a sense of community, some users are trying smaller social networks.",
+      "lead_paragraph": "Nearly two decades ago, Facebook exploded on college campuses as a site for students to stay in touch. Then came Twitter, where people posted about what they had for breakfast, and Instagram, where friends shared photos to keep up with one another.",
+      "publication_date": "2023-04-19T15:45:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/19/technology/personaltech/tiktok-twitter-facebook-social.html",
+      "byline": "By Brian X. Chen"
+    }
+  ]
+}

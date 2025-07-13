@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-09-20",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Stocks Hit Record High a Day After Fed’s Big Interest Rate Cut",
+      "snippet": "The S&P 500 rose 1.7 percent on Thursday, rallying a day after the Federal Reserve cut interest rates by half a percentage point.",
+      "abstract": "The S&P 500 rose 1.7 percent on Thursday, rallying a day after the Federal Reserve cut interest rates by half a percentage point.",
+      "lead_paragraph": "Stocks on Wall Street notched new highs on Thursday, after a momentous cut to interest rates from the Federal Reserve invigorated a global market rally.Markets had been butting up against the record for the past two weeks, after recovering from a round of turmoil in late July and early August. But the Fed’s announcement on Wednesday that it would lower rates by a half a percentage point erased uncertainty about a decision that has loomed over financial markets for months.",
+      "publication_date": "2024-09-19T16:28:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/19/business/stock-market-federal-reserve.html",
+      "byline": "By Joe Rennison and Danielle Kaye"
+    },
+    {
+      "headline": "Interest Rates Fall, but Central Banks Are No Longer in Lock Step",
+      "snippet": "Officials in some countries started cutting rates last year, but others, including those in Europe and the United States, have taken a more cautious approach.",
+      "abstract": "Officials in some countries started cutting rates last year, but others, including those in Europe and the United States, have taken a more cautious approach.",
+      "lead_paragraph": "Two years ago, central banks around the world were engaged in a battle against high inflation that resulted in an aggressive and synchronized jump in interest rates. Now, many policymakers are reversing course — but in a less coordinated way as price increases slow at different paces in various countries.",
+      "publication_date": "2024-09-19T17:36:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/19/business/economy/central-bank-interest-rates.html",
+      "byline": "By Eshe Nelson and Karl Russell"
+    },
+    {
+      "headline": "North Carolina Governor Race Jolted by Report That G.O.P. Nominee Called Himself a ‘Black Nazi’",
+      "snippet": "Mr. Robinson, the Republican nominee for governor of North Carolina, vowed to stay in the race and sought to deny the report, which also said he had defended slavery in online posts years ago.",
+      "abstract": "Mr. Robinson, the Republican nominee for governor of North Carolina, vowed to stay in the race and sought to deny the report, which also said he had defended slavery in online posts years ago.",
+      "lead_paragraph": "Lt. Gov. Mark Robinson of North Carolina, the Republican nominee for governor with a long history of inflammatory and offensive remarks in the battleground state, on Thursday vowed to stay in the race as CNN reported that he had once called himself a “black NAZI!” and defended slavery on a pornographic forum.",
+      "publication_date": "2024-09-19T19:59:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/19/us/politics/mark-robinson-north-carolina-gubernatorial-race.html",
+      "byline": "By Shane Goldmacher, Maggie Haberman, Jonathan Swan and Nicholas Nehamas"
+    },
+    {
+      "headline": "What Lies Beneath Canada’s Former Indigenous School Sites Fuels a Debate",
+      "snippet": "Despite possible evidence of hundreds of graves at former schools for Indigenous children, challenges in making a clear conclusion have given rise to skeptics.",
+      "abstract": "Despite possible evidence of hundreds of graves at former schools for Indigenous children, challenges in making a clear conclusion have given rise to skeptics.",
+      "lead_paragraph": "The revelation convulsed all of Canada.",
+      "publication_date": "2024-09-20T09:00:30+0000",
+      "section_name": "International Home",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/20/canada-indigenous-schools-unmarked-graves.html",
+      "byline": "By Ian Austen and Amber Bracken"
+    },
+    {
+      "headline": "Harris, With an Online Avalanche, Outspends Trump by Tens of Millions",
+      "snippet": "The week of their debate, Kamala Harris outspent Donald Trump by 20 to 1 on Facebook and Instagram. It was just one sign of how uneven their online advertising battle has become.",
+      "abstract": "The week of their debate, Kamala Harris outspent Donald Trump by 20 to 1 on Facebook and Instagram. It was just one sign of how uneven their online advertising battle has become.",
+      "lead_paragraph": "Follow live updates on the 2024 election here.",
+      "publication_date": "2024-09-20T09:03:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/20/us/politics/kamala-harris-trump-campaign-spending.html",
+      "byline": "By Shane Goldmacher and Nicholas Nehamas"
+    },
+    {
+      "headline": "Georgia Election Board Orders Hand-Counting of Ballots",
+      "snippet": "Critics say the move could significantly delay the reporting of results in the battleground state and inject chaos into the post-election period.",
+      "abstract": "Critics say the move could significantly delay the reporting of results in the battleground state and inject chaos into the post-election period.",
+      "lead_paragraph": "The Georgia State Election Board voted on Friday to force counties to hand-count all ballots cast on Election Day, a move critics say could significantly delay the reporting of results in the battleground state and inject chaos into the post-election period.",
+      "publication_date": "2024-09-20T13:18:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/20/us/elections/georgia-election-board-rules.html",
+      "byline": "By Nick Corasaniti and Johnny Kauffman"
+    }
+  ]
+}

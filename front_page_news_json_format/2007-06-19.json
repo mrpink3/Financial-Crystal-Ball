@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2007-06-19",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Yahoo’s Chief Resigns, and a Founder Takes Over",
+      "snippet": "Terry Semel will hand over the reins to Jerry Yang in Yahoo’s latest attempt to regain investor confidence.",
+      "abstract": "Terry Semel will hand over the reins to Jerry Yang in Yahoo’s latest attempt to regain investor confidence.",
+      "lead_paragraph": "SAN FRANCISCO, June 18 — When Yahoo hired Terry S. Semel as its chief executive in the midst of the dot-com implosion in 2001, it became a bit of an oddity in Silicon Valley: a technology company run by a Hollywood executive.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/19/technology/19yahoo.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "As More Toys Are Recalled, Trail Ends in China",
+      "snippet": "China manufactured every one of the 24 kinds of toys recalled for safety reasons in the United States this year.",
+      "abstract": "China manufactured every one of the 24 kinds of toys recalled for safety reasons in the United States this year.",
+      "lead_paragraph": "WASHINGTON, June 18 — China manufactured every one of the 24 kinds of toys recalled for safety reasons in the United States so far this year, including the enormously popular Thomas & Friends wooden train sets, a record that is causing alarm among consumer advocates, parents and regulators.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/19/business/worldbusiness/19toys.html",
+      "byline": "By ERIC S. LIPTON and DAVID BARBOZA"
+    },
+    {
+      "headline": "Mortgages Give Wall St. New Worries",
+      "snippet": "The fallout from the subprime mortgage industry could further constrict consumers with weak, or subprime, credit while helping to prolong the housing downturn.",
+      "abstract": "The fallout from the subprime mortgage industry could further constrict consumers with weak, or subprime, credit while helping to prolong the housing downturn.",
+      "lead_paragraph": "After the first cracks in the subprime mortgage business appeared late last year, several large lenders were forced into bankruptcy.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/19/business/19mortgage.html",
+      "byline": "By Vikas Bajaj and Julie Creswell"
+    },
+    {
+      "headline": "Airbus Seeks a Welcome in Alabama",
+      "snippet": "The troubled European aerospace and military giant wants to land a $40 billion contract to provide refueling tankers to the United States Air Force.",
+      "abstract": "The troubled European aerospace and military giant wants to land a $40 billion contract to provide refueling tankers to the United States Air Force.",
+      "lead_paragraph": "PARIS, June 18 — Louis Gallois, the co-chief executive of EADS, the parent company of Airbus, could have his pick of invitations among dozens of parties during the Paris air show, the giant industry gathering this week. ",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/19/business/worldbusiness/19tanker.html",
+      "byline": "By Leslie Wayne"
+    },
+    {
+      "headline": "States Face Decisions on Who Is Mentally Fit to Vote",
+      "snippet": "Advocates for the mentally ill are trying to secure voting rights while concern mounts about the rights and risks.",
+      "abstract": "Advocates for the mentally ill are trying to secure voting rights while concern mounts about the rights and risks.",
+      "lead_paragraph": "  ",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/19/us/19vote.html",
+      "byline": "By Pam Belluck"
+    },
+    {
+      "headline": "RC2’s Train Wreck",
+      "snippet": "The company that recalled Thomas the Tank Engine wooden trains, which were contaminated with paint containing lead, is learning about crisis management.",
+      "abstract": "The company that recalled Thomas the Tank Engine wooden trains, which were contaminated with paint containing lead, is learning about crisis management.",
+      "lead_paragraph": "In the toy business, RC2 was the little company that could.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/19/business/19thomas.html",
+      "byline": "By David Barboza and Louise Story"
+    },
+    {
+      "headline": "U.S. Unfreezes Millions in Aid to Palestinians",
+      "snippet": "The decision ending an embargo of the Palestinian Authority was a bid to bolster President Mahmoud Abbas.",
+      "abstract": "The decision ending an embargo of the Palestinian Authority was a bid to bolster President Mahmoud Abbas.",
+      "lead_paragraph": "WASHINGTON, June 18 — The United States on Monday ended an economic and political embargo of the Palestinian Authority in a bid to bolster President Mahmoud Abbas and the new Fatah-led emergency government he has established in the West Bank as a counterweight to Hamas-controlled Gaza.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/19/world/middleeast/19diplo.html",
+      "byline": "By Helene Cooper"
+    },
+    {
+      "headline": "Justices Back Underwriters on New Issues",
+      "snippet": "The Supreme Court found that Wall Street investment banks could not be sued under antitrust law over losses in the crash of technology stocks seven years ago.",
+      "abstract": "The Supreme Court found that Wall Street investment banks could not be sued under antitrust law over losses in the crash of technology stocks seven years ago.",
+      "lead_paragraph": "WASHINGTON, June 18 — The securities industry dodged a bullet on Monday when the Supreme Court threw out a private antitrust suit that accused 10 leading investment banks of conspiring to fix prices for the initial public offerings of hundreds of technology companies during the 1990s.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/19/business/19bizcourt.html",
+      "byline": "By Linda Greenhouse"
+    },
+    {
+      "headline": "Military Strikes Insurgents’ Base East of Baghdad",
+      "snippet": "The assault by more than 2,000 American troops  represents a more aggressive strategy of attacking several insurgent strongholds at the same time.",
+      "abstract": "The assault by more than 2,000 American troops  represents a more aggressive strategy of attacking several insurgent strongholds at the same time.",
+      "lead_paragraph": "BAQUBA, Iraq, Tuesday, June 19 — The American military began a major attack against Sunni insurgent positions here in the capital of Diyala Province overnight, part of a larger operation aimed at blunting the persistent car and suicide bombings that have terrorized Iraqis and thwarted political reconciliation.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/19/world/middleeast/19iraq.html",
+      "byline": "By Michael R. Gordon and Damien Cave"
+    },
+    {
+      "headline": "Running Guns to Gaza: A Living in the Desert",
+      "snippet": "The Hamas takeover was partly fueled by weapons moved through tunnels below the town of Rafah.",
+      "abstract": "The Hamas takeover was partly fueled by weapons moved through tunnels below the town of Rafah.",
+      "lead_paragraph": "RAFAH, Egypt, June 17 — The Hamas military takeover of Gaza last week was partly fueled by caches of weapons smuggled through tunnels below this gritty Sinai border town. Two days spent with smugglers here suggest that to stanch the flow of weapons, Egypt will have to address the economic and social concerns of the region, and not rely solely on its security forces.",
+      "publication_date": "2007-06-19T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/19/world/middleeast/19rafah.html",
+      "byline": "By Michael Slackman"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2016-03-17",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Ex-President ‘Lula’ Joins Brazil’s Cabinet, Gaining Legal Shield",
+      "snippet": "Luiz Inácio Lula da Silva, facing multiple corruption investigations, will become President Dilma Rousseff’s chief of staff, a position that offers him increased protection.",
+      "abstract": "Luiz Inácio Lula da Silva, facing multiple corruption investigations, will become President Dilma Rousseff’s chief of staff, a position that offers him increased protection.",
+      "lead_paragraph": "RIO DE JANEIRO — After the police raided his home and prosecutors sought his arrest, the former president of Brazil, Luiz Inácio Lula da Silva, seemed destined to become the biggest figure caught in the widening corruption investigation upending Latin America’s largest country.",
+      "publication_date": "2016-03-16T16:26:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/17/world/americas/brazil-ex-president-luiz-inacio-lula-da-silva.html",
+      "byline": "By Simon Romero"
+    },
+    {
+      "headline": "Fed Slows Down on Plans to Pursue Interest Rate Increases",
+      "snippet": "While finding little domestic economic harm in recent market turmoil, policy makers expect to raise rates by just half a percentage point this year.",
+      "abstract": "While finding little domestic economic harm in recent market turmoil, policy makers expect to raise rates by just half a percentage point this year.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve has once again pared its plans for raising interest rates, citing the weakness of the global economy as a reason for greater caution about the prospects for domestic growth.",
+      "publication_date": "2016-03-16T18:06:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/17/business/economy/fed-interest-rates-meeting.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Republicans Enter a Shadow Campaign to Sew Up Delegates",
+      "snippet": "With a contested convention a possibility, Republicans are turning their attention to the byzantine contests used to select individual delegates.",
+      "abstract": "With a contested convention a possibility, Republicans are turning their attention to the byzantine contests used to select individual delegates.",
+      "lead_paragraph": "COLUMBUS, Ohio — With more than half the states having now held their nominating contests, Donald J. Trump and Senator Ted Cruz are quietly directing their attention to a second, shadow election campaign — one that is out of sight, little understood but absolutely critical if Republicans arrive at their national convention with Mr. Trump short of a majority of delegates.",
+      "publication_date": "2016-03-16T20:22:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/17/us/politics/republicans-enter-a-shadow-campaign-to-sew-up-delegates.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Brazen Heist of Millions Puts Focus on the Philippines",
+      "snippet": "The country’s lightly regulated casinos and tough bank secrecy laws had prompted warnings from the United States and money-laundering experts before the theft.",
+      "abstract": "The country’s lightly regulated casinos and tough bank secrecy laws had prompted warnings from the United States and money-laundering experts before the theft.",
+      "lead_paragraph": "MANILA — It is a financial whodunit for the digital era: More than $80 million of Bangladesh’s money vanished last month after it was electronically transferred out of that country’s account at the Federal Reserve Bank of New York.",
+      "publication_date": "2016-03-16T21:21:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/17/business/dealbook/brazen-heist-of-millions-puts-focus-on-the-philippines.html",
+      "byline": "By Floyd Whaley and Neil Gough"
+    },
+    {
+      "headline": "Merrick Garland’s Path to Nomination Marked by Deference, With Limits",
+      "snippet": "A series of carefully considered steps has positioned Judge Merrick B. Garland for a job his friends say he has dreamed of for years: a seat on the United States Supreme Court.",
+      "abstract": "A series of carefully considered steps has positioned Judge Merrick B. Garland for a job his friends say he has dreamed of for years: a seat on the United States Supreme Court.",
+      "lead_paragraph": "WASHINGTON — Merrick B. Garland, a Harvard-educated lawyer and classic overachiever, was working in lucrative private practice at Arnold & Porter in the nation’s capital when, in 1989, he was offered a position as a federal prosecutor handling criminal cases here. It meant a 50 percent cut in pay and trading a sumptuous office for one that smelled of stale cigarettes.",
+      "publication_date": "2016-03-17T01:15:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/17/us/politics/merrick-garland-supreme-court-nominee.html",
+      "byline": "By Sheryl Gay Stolberg and Adam Liptak"
+    },
+    {
+      "headline": "Eurowings, Lufthansa’s Budget Service, Is Off to a Rocky Start",
+      "snippet": "Eurowings is a key part of Lufthansa’s long-term strategy to expand low-fare operations, but poor service has added to the parent company’s headaches.",
+      "abstract": "Eurowings is a key part of Lufthansa’s long-term strategy to expand low-fare operations, but poor service has added to the parent company’s headaches.",
+      "lead_paragraph": "Jürgen Haug’s suntan from his vacation in Cuba in January has long faded.",
+      "publication_date": "2016-03-17T07:25:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/18/business/international/lufthansa-eurowings-long-haul-budget-service-off-to-a-rocky-start.html",
+      "byline": "By Nicola Clark"
+    },
+    {
+      "headline": "What Donald Trump Gets Pretty Much Right, and Completely Wrong, About China",
+      "snippet": "A combination of legitimate complaints and misstatements of how things work between the world’s two largest economies.",
+      "abstract": "A combination of legitimate complaints and misstatements of how things work between the world’s two largest economies.",
+      "lead_paragraph": "If there is one thing Donald Trump seems sure about, it is that the United States is getting a raw deal from China.",
+      "publication_date": "2016-03-17T07:28:22+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/17/upshot/what-donald-trump-gets-pretty-much-right-and-completely-wrong-about-china.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "A ‘High Degree of Miserable’ in a Refugee-Swollen Greece",
+      "snippet": "More than 44,000 people are already trapped in the country, a number ticking upward each day, as aid groups warn of a potential humanitarian crisis by summer.",
+      "abstract": "More than 44,000 people are already trapped in the country, a number ticking upward each day, as aid groups warn of a potential humanitarian crisis by summer.",
+      "lead_paragraph": "IDOMENI, Greece — Taha al-Ahmad’s family is sleeping in mud. His youngest daughter, age 1, lies beneath wet blankets, coughing inside their soggy tent. It has rained for days. Portable toilets are overflowing. Men burn firewood to stay warm. A drone circles overhead. Television trucks beam images of misery to the world.",
+      "publication_date": "2016-03-17T09:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/18/world/europe/greece-idomeni-refugees.html",
+      "byline": "By Jim Yardley"
+    }
+  ]
+}

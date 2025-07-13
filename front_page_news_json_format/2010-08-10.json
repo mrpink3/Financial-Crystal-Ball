@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2010-08-10",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Pentagon Plans Steps to Reduce Budget and Jobs",
+      "snippet": "Defense Secretary Robert M. Gates wants to close a major military command, restrict use of contractors and reduce the number of generals and admirals.",
+      "abstract": "Defense Secretary Robert M. Gates wants to close a major military command, restrict use of contractors and reduce the number of generals and admirals.",
+      "lead_paragraph": "WASHINGTON  Defense Secretary Robert M. Gates said Monday that he would close a military command, restrict the use of outside contractors and reduce the number of generals and admirals across the armed forces as part of a broad effort to rein in Pentagon spending.",
+      "publication_date": "2010-08-09T19:56:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/10/us/10gates.html",
+      "byline": "By Thom Shanker"
+    },
+    {
+      "headline": "Web Plan From Google and Verizon Is Criticized",
+      "snippet": "The plan, which includes exceptions for wireless Net access, was criticized by groups that want to keep the network as open as possible.",
+      "abstract": "The plan, which includes exceptions for wireless Net access, was criticized by groups that want to keep the network as open as possible.",
+      "lead_paragraph": "SAN FRANCISCO  Google and Verizon on Monday introduced a proposal for how Internet service should be regulated  and were immediately criticized by groups that favor keeping the network as open as possible. ",
+      "publication_date": "2010-08-09T20:13:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/10/technology/10net.html",
+      "byline": "By Claire Cain Miller and Miguel Helft"
+    },
+    {
+      "headline": "Merrill’s Risk Disclosure Dodges Are Unearthed",
+      "snippet": "Merrill Lynch kept quiet about the extent of its exposure to risky subprime investments. Now regulators are studying that decision and others that helped lead to the financial crisis in 2008.",
+      "abstract": "Merrill Lynch kept quiet about the extent of its exposure to risky subprime investments. Now regulators are studying that decision and others that helped lead to the financial crisis in 2008.",
+      "lead_paragraph": "It was named after a faint constellation in the southern sky: Pyxis, the Mariner’s Compass. But it helped to steer the mighty Merrill Lynch toward disaster. ",
+      "publication_date": "2010-08-09T21:18:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/10/business/10merrill.html",
+      "byline": "By Louise Story"
+    },
+    {
+      "headline": "Fed Will Meet With Concerns on Deflation Rising",
+      "snippet": "The Federal Reserve on Tuesday will face a key decision: whether to drop the idea that the economy is improving.",
+      "abstract": "The Federal Reserve on Tuesday will face a key decision: whether to drop the idea that the economy is improving.",
+      "lead_paragraph": "WASHINGTON  The Federal Reserve will meet on Tuesday faced with a pivotal decision about whether to abandon its presumption that the economy is gradually picking up steam and begin to consider new steps to keep the recovery from sputtering out. ",
+      "publication_date": "2010-08-09T23:24:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/10/business/economy/10fed.html",
+      "byline": "By Sewell Chan"
+    },
+    {
+      "headline": "Economic Pessimists Gain Cachet",
+      "snippet": "The opinions of some especially bearish investors have moved from the margins to the mainstream.",
+      "abstract": "The opinions of some especially bearish investors have moved from the margins to the mainstream.",
+      "lead_paragraph": "LONDON  The central question dividing economists these days is whether Western governments should spend more to ward off a potential second recession or retrench to hold down their ballooning debts to restore confidence among investors.",
+      "publication_date": "2010-08-10T00:12:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/10/business/global/10gloom.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "For G.M., a Subprime Solution",
+      "snippet": "The automaker wants to pursue an initial public offering this year, but its acquisition of AmeriCredit, a subprime lender, raises questions about its strategy.",
+      "abstract": "The automaker wants to pursue an initial public offering this year, but its acquisition of AmeriCredit, a subprime lender, raises questions about its strategy.",
+      "lead_paragraph": "There goes the General Motors pre-I.P.O. roadshow.",
+      "publication_date": "2010-08-10T00:51:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/10/business/10sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "10-Year Treasury Yields Slide on Fed’s Decision to Buy Debt",
+      "snippet": "The Federal Reserve, unable to lower interest rates by decree, intends to increase demand for Treasuries, thus reducing their yields and, in turn, a range of interest rates.",
+      "abstract": "The Federal Reserve, unable to lower interest rates by decree, intends to increase demand for Treasuries, thus reducing their yields and, in turn, a range of interest rates.",
+      "lead_paragraph": "Yields on 10-year Treasury securities, a vital benchmark for home mortgages and corporate loans, tumbled to the lowest level in more than a year on Tuesday after the Federal Reserve said it would buy up government debt in an effort to bolster the nation’s increasingly fragile economy.",
+      "publication_date": "2010-08-10T12:31:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/11/business/11markets.html",
+      "byline": "By Christine Hauser"
+    }
+  ]
+}

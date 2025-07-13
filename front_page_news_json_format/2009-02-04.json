@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2009-02-04",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Can the Cellphone Industry Keep Growing?",
+      "snippet": "Motorola’s latest decline underscores the challenge for the industry: how to expand when most people already have a phone.",
+      "abstract": "Motorola’s latest decline underscores the challenge for the industry: how to expand when most people already have a phone.",
+      "lead_paragraph": "Cellphone sales are falling, manufacturers have announced thousands of layoffs and wireless carriers are finding it harder to acquire and keep customers.",
+      "publication_date": "2009-02-03T16:21:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/04/technology/companies/04cell.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "Rider Paradox: Surge in Mass, Drop in Transit",
+      "snippet": "Transit systems across the country are raising fares and cutting service despite rising numbers of riders.",
+      "abstract": "Transit systems across the country are raising fares and cutting service despite rising numbers of riders.",
+      "lead_paragraph": "ST. LOUIS  Buses will no longer stop at some 2,300 stops in and around this city at the end of next month because, despite rising ridership, the struggling transit system plans to balance its books with layoffs and drastic service cuts. ",
+      "publication_date": "2009-02-03T19:20:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/04/us/04transit.html",
+      "byline": "By Michael Cooper"
+    },
+    {
+      "headline": "On Madison Avenue, Shops Pack Their Hand-Tooled Bags",
+      "snippet": "Rents that skyrocketed in boom times are dropping as sales slide for luxury goods.",
+      "abstract": "Rents that skyrocketed in boom times are dropping as sales slide for luxury goods.",
+      "lead_paragraph": "After more than 30 years on Madison Avenue, the retailer E. Braun & Company is packing up its $3,500 hand-embroidered tablecloths and $2,390 bedding sets and will defect in April for cheaper space on Park Avenue.",
+      "publication_date": "2009-02-03T20:49:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/04/business/04madison.html",
+      "byline": "By Terry Pristin"
+    },
+    {
+      "headline": "How to Avoid a Tom Daschle Tax Problem",
+      "snippet": "Tax problems brought down two of President Obama’s nominees on Tuesday. So what sort of mess is lurking in your return?",
+      "abstract": "Tax problems brought down two of President Obama’s nominees on Tuesday. So what sort of mess is lurking in your return?",
+      "lead_paragraph": "In just a couple of hours on Tuesday, two high-level nominees for jobs in the Obama administration took themselves out of the running because of tax problems that they could have avoided.",
+      "publication_date": "2009-02-04T01:50:29+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/04/your-money/04money.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Time to Steer 'Forceful Course' for Stimulus",
+      "snippet": "The administration has not answered criticisms that its stimulus package is not as effective as it could be.",
+      "abstract": "The administration has not answered criticisms that its stimulus package is not as effective as it could be.",
+      "lead_paragraph": "The most serious charge against the stimulus package is that it does not pack enough punch. Two different camps have been making this argument over the last few weeks. Publicly, the Obama administration hasn’t really answered either one.",
+      "publication_date": "2009-02-04T02:07:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/04/business/04leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Dark Days for Green Energy",
+      "snippet": "After years of blistering growth, installation of wind and solar power is plummeting due to the credit crisis and the broader economic downturn.",
+      "abstract": "After years of blistering growth, installation of wind and solar power is plummeting due to the credit crisis and the broader economic downturn.",
+      "lead_paragraph": "Wind and solar power have been growing at a blistering pace in recent years, and that growth seemed likely to accelerate under the green-minded Obama administration. But because of the credit crisis and the broader economic downturn, the opposite is happening: installation of wind and solar power is plummeting.",
+      "publication_date": "2009-02-04T02:24:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/04/business/04windsolar.html",
+      "byline": "By Kate Galbraith"
+    },
+    {
+      "headline": "Daschle Ends Bid for Post; Obama Concedes Mistake",
+      "snippet": "Tom Daschle’s decision to withdraw his nomination as secretary of health and human services prompted President Obama to admit having “screwed up.”",
+      "abstract": "Tom Daschle’s decision to withdraw his nomination as secretary of health and human services prompted President Obama to admit having “screwed up.”",
+      "lead_paragraph": "WASHINGTON  Tom Daschle withdrew his nomination as secretary of health and human services on Tuesday after weathering four days of scrutiny over unpaid taxes, prompting President Obama to concede having “screwed up” in undermining his own ethical standards by pushing the appointment.",
+      "publication_date": "2009-02-04T02:41:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/04/us/politics/04obama.html",
+      "byline": "By Jeff Zeleny"
+    },
+    {
+      "headline": "U.S. Plans $500,000 Cap on Executive Pay in Bailouts",
+      "snippet": "The new rules come amid public anger about huge pay packages at financial companies being propped up by federal tax dollars.",
+      "abstract": "The new rules come amid public anger about huge pay packages at financial companies being propped up by federal tax dollars.",
+      "lead_paragraph": "WASHINGTON  The Obama administration is expected to impose a cap of $500,000 for top executives at companies that receive large amounts of bailout money, according to people familiar with the plan.",
+      "publication_date": "2009-02-04T02:43:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/04/business/04pay.html",
+      "byline": "By Edmund L. Andrews and Vikas Bajaj"
+    },
+    {
+      "headline": "In Shattered Gaza Town, Roots of Seething Split",
+      "snippet": "The fighting in El Atatra tells the story of Israel’s offensive, with each side giving a very different version.",
+      "abstract": "The fighting in El Atatra tells the story of Israel’s offensive, with each side giving a very different version.",
+      "lead_paragraph": "EL ATATRA, Gaza — The phosphorus smoke bomb punched through the roof in exactly the spot where much of the family had taken refuge — the upstairs hall away from the windows.",
+      "publication_date": "2009-02-04T02:57:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/04/world/middleeast/04gaza.html",
+      "byline": "By Ethan Bronner and Sabrina Tavernise"
+    },
+    {
+      "headline": "Target of Immigrant Raids Shifted",
+      "snippet": "A program meant to capture immigrants with criminal records instead pursued easier targets, a report says.",
+      "abstract": "A program meant to capture immigrants with criminal records instead pursued easier targets, a report says.",
+      "lead_paragraph": "The raids on homes around the country were billed as carefully planned hunts for dangerous immigrant fugitives, and given catchy names like Operation Return to Sender. ",
+      "publication_date": "2009-02-04T04:18:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/04/us/04raids.html",
+      "byline": "By Nina Bernstein"
+    },
+    {
+      "headline": "U.S. Searches for Alternative to Central Asian Base",
+      "snippet": "Officials believe that Russia has pressed Kyrgyzstan to close the U.S. base, a supply link for Afghanistan.",
+      "abstract": "Officials believe that Russia has pressed Kyrgyzstan to close the U.S. base, a supply link for Afghanistan.",
+      "lead_paragraph": "WASHINGTON  The Obama administration scrambled Wednesday to come up with an alternative to a crucial United States air base in Central Asia, used to supply the growing military operation in Afghanistan, after the president of Kyrgyzstan ordered the American base in his country closed. ",
+      "publication_date": "2009-02-04T09:23:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/05/world/europe/05kyrgyz.html",
+      "byline": "By Elisabeth Bumiller and Ellen Barry"
+    },
+    {
+      "headline": "Vatican Move on Bishop Exposes Fissures of Church",
+      "snippet": "After global outrage, the church called on a rehabilitated bishop to take back his statements denying the Holocaust.",
+      "abstract": "After global outrage, the church called on a rehabilitated bishop to take back his statements denying the Holocaust.",
+      "lead_paragraph": "ROME  Responding to an extraordinary burst of global outrage, especially in Pope Benedict XVI’s native Germany, the Vatican for the first time on Wednesday called on a recently rehabilitated bishop to take back his statements denying the Holocaust. ",
+      "publication_date": "2009-02-04T15:19:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/05/world/europe/05pope.html",
+      "byline": "By Rachel Donadio"
+    }
+  ]
+}

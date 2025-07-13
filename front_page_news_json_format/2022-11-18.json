@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2022-11-18",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Resignations Roil Twitter as Elon Musk Tries Persuading Some Workers to Stay",
+      "snippet": "Mr. Musk, Twitter’s new owner, had given employees a Thursday deadline to decide whether to leave or stay “to build a breakthrough Twitter 2.0.”",
+      "abstract": "Mr. Musk, Twitter’s new owner, had given employees a Thursday deadline to decide whether to leave or stay “to build a breakthrough Twitter 2.0.”",
+      "lead_paragraph": "The World Cup usually brings a surge of traffic to Twitter, and that is expected again as the tournament starts this weekend.",
+      "publication_date": "2022-11-17T20:44:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/17/technology/twitter-elon-musk-ftc.html",
+      "byline": "By Ryan Mac, Mike Isaac and David McCabe"
+    },
+    {
+      "headline": "Biden Administration Offers New Path to Discharging Student Debt in Bankruptcy",
+      "snippet": "The Justice and Education Departments said the process would be more fair and consistent for people in bankruptcy seeking relief on their federal student loans.",
+      "abstract": "The Justice and Education Departments said the process would be more fair and consistent for people in bankruptcy seeking relief on their federal student loans.",
+      "lead_paragraph": "As President Biden’s broad plan to cancel student debt for millions of borrowers faces mounting legal challenges, his administration took a separate step that could make it easier for the most vulnerable student borrowers to clear their debts: through bankruptcy.",
+      "publication_date": "2022-11-18T00:56:19+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/17/your-money/bankruptcy-student-loans.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Will Taxing the Windfall Profits of Oil Giants Fix Countries’ Economies?",
+      "snippet": "Britain is raising a tax on gas and oil producers, and adding a levy on companies that supply electricity — a similar approach to that of other governments chasing revenue.",
+      "abstract": "Britain is raising a tax on gas and oil producers, and adding a levy on companies that supply electricity — a similar approach to that of other governments chasing revenue.",
+      "lead_paragraph": "Major oil and gas companies have raked in multibillion-dollar profits at unheard-of levels. Households around the world are reeling from soaring energy prices, while governments are struggling with outsize spending and slowing economic growth.",
+      "publication_date": "2022-11-18T05:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/18/business/economy/windfall-taxes.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "U.S. Backs Immunity for Saudi Leader in Lawsuit Over Khashoggi Murder",
+      "snippet": "The State Department said Crown Prince Mohammed bin Salman, the kingdom’s de facto ruler, should have legal immunity as the head of the Saudi government.",
+      "abstract": "The State Department said Crown Prince Mohammed bin Salman, the kingdom’s de facto ruler, should have legal immunity as the head of the Saudi government.",
+      "lead_paragraph": "ISTANBUL — The Biden administration has declared that Crown Prince Mohammed bin Salman of Saudi Arabia should be granted immunity in a U.S. legal case over his role in the murder of the Saudi dissident Jamal Khashoggi, effectively blocking yet another effort to hold the kingdom’s leader accountable for the grisly crime.",
+      "publication_date": "2022-11-18T09:47:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/18/us/politics/us-saudi-mbs-khashoggi-murder.html",
+      "byline": "By Ben Hubbard and Edward Wong"
+    },
+    {
+      "headline": "How FTX’s Sister Firm Brought the Crypto Exchange Down",
+      "snippet": "Alameda Research was Sam Bankman-Fried’s first company. He built FTX partly to help Alameda’s trading business. Then things got out of control.",
+      "abstract": "Alameda Research was Sam Bankman-Fried’s first company. He built FTX partly to help Alameda’s trading business. Then things got out of control.",
+      "lead_paragraph": "In late 2017, Sam Bankman-Fried, then 25 years old, co-founded Alameda Research, a small trading firm that marked the beginning of his cryptocurrency empire.",
+      "publication_date": "2022-11-18T10:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/18/business/ftx-alameda-ties.html",
+      "byline": "By Matthew Goldstein, Alexandra Stevenson, Maureen Farrell and David Yaffe-Bellany"
+    }
+  ]
+}

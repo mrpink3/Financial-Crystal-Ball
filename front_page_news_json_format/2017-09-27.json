@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-09-27",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Senate Republicans Say They Will Not Vote on Health Bill",
+      "snippet": "Senate Republicans said they would not move ahead with a vote on the latest plan to repeal the Affordable Care Act, which lacked the support to pass.",
+      "abstract": "Senate Republicans said they would not move ahead with a vote on the latest plan to repeal the Affordable Care Act, which lacked the support to pass.",
+      "lead_paragraph": "WASHINGTON — Senate Republicans on Tuesday officially abandoned the latest plan to repeal the Affordable Care Act, shelving a showdown vote on the measure and effectively admitting defeat in their last-gasp drive to fulfill a core promise of President Trump and Republican lawmakers.",
+      "publication_date": "2017-09-26T18:20:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/26/us/politics/mcconnell-obamacare-repeal-graham-cassidy-trump.html",
+      "byline": "By Thomas Kaplan and Robert Pear"
+    },
+    {
+      "headline": "Will a Corporate Tax Holiday Give Workers Anything to Cheer?",
+      "snippet": "Investment and jobs from the repatriation of profits held abroad have been promised in the past. But the incentives to executives will need to change.",
+      "abstract": "Investment and jobs from the repatriation of profits held abroad have been promised in the past. But the incentives to executives will need to change.",
+      "lead_paragraph": "It was the summer of 2004, and to the glee of multinational corporations across the United States, a bipartisan majority in Congress offered them a gift they had long sought: an opportunity to repatriate billions of dollars stashed overseas and pay just 5.25 percent in taxes, instead of the statutory corporate rate of 35 percent.",
+      "publication_date": "2017-09-26T18:28:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/26/business/economy/corporate-tax.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Saudi Arabia Agrees to Let Women Drive",
+      "snippet": "The monarchy abandoned its driving ban for women, long criticized as an infringement on women’s rights and a drag on the economy and society.",
+      "abstract": "The monarchy abandoned its driving ban for women, long criticized as an infringement on women’s rights and a drag on the economy and society.",
+      "lead_paragraph": "Saudi Arabia announced on Tuesday that it would allow women to drive, ending a longstanding policy that has become a global symbol of the oppression of women in the ultraconservative kingdom.",
+      "publication_date": "2017-09-26T18:58:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/26/world/middleeast/saudi-arabia-women-drive.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "As Google Fights Fake News, Voices on the Margins Raise Alarm",
+      "snippet": "The editorial head of a socialist website complained that Google is censoring the internet by curbing search traffic to his publication.",
+      "abstract": "The editorial head of a socialist website complained that Google is censoring the internet by curbing search traffic to his publication.",
+      "lead_paragraph": "SAN FRANCISCO — When David North, the editorial chairman of the World Socialist Web Site, noticed a drop in the site’s traffic in April, he initially chalked it up to news fatigue over President Trump or a shift in political consciousness.",
+      "publication_date": "2017-09-26T22:01:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/26/technology/google-search-bias-claims.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Trump to Propose Sweeping Tax Cut for Corporations and Individuals",
+      "snippet": "The proposal is an attempt to answer wealthy donors’ demands for lower taxes without being seen by the president’s working-class base as a windfall for the rich.",
+      "abstract": "The proposal is an attempt to answer wealthy donors’ demands for lower taxes without being seen by the president’s working-class base as a windfall for the rich.",
+      "lead_paragraph": "WASHINGTON — President Trump will propose a sweeping rewrite of the federal tax code on Wednesday, outlining a plan to reduce rates for corporations and individuals and eliminate some popular deductions, in a move that will set off a scramble among powerful groups eager to protect their tax breaks.",
+      "publication_date": "2017-09-26T22:18:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/26/us/politics/trump-tax-cut-corporations-individuals.html",
+      "byline": "By Glenn Thrush and Alan Rappeport"
+    },
+    {
+      "headline": "‘This Is Like in War’: A Scramble to Care for Puerto Rico’s Sick and Injured",
+      "snippet": "The situation on Puerto Rico was becoming increasingly critical as residents struggled to find medical care amid a shortage of power, water and gasoline.",
+      "abstract": "The situation on Puerto Rico was becoming increasingly critical as residents struggled to find medical care amid a shortage of power, water and gasoline.",
+      "lead_paragraph": "SAN JUAN, P.R. — As Hurricane Maria pummeled Puerto Rico, María Martínez Espada, 86, slipped because of a water leak in her apartment and broke her hip. Almost a week later, doctors at Hospital del Maestro have not been able to operate because of a shortage of medical supplies.",
+      "publication_date": "2017-09-27T00:47:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/26/us/puerto-rico-hurricane-healthcare-hospitals.html",
+      "byline": "By Luis Ferré-Sadurní, Frances Robles and Lizette Alvarez"
+    },
+    {
+      "headline": "Roy Moore Wins Senate G.O.P. Runoff in Alabama",
+      "snippet": "Mr. Moore, a firebrand former chief justice of the Alabama Supreme Court, overcame efforts by top Republicans to rescue his rival, Senator Luther Strange.",
+      "abstract": "Mr. Moore, a firebrand former chief justice of the Alabama Supreme Court, overcame efforts by top Republicans to rescue his rival, Senator Luther Strange.",
+      "lead_paragraph": "MONTGOMERY, Ala. — Roy S. Moore, a firebrand former chief justice of the Alabama Supreme Court, overcame efforts by top Republicans to rescue his rival, Senator Luther Strange, soundly defeating him on Tuesday in a special primary runoff.",
+      "publication_date": "2017-09-27T01:29:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/26/us/politics/roy-moore-alabama-senate.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Should the Middle Class Invest in Risky Tech Start-Ups?",
+      "snippet": "With the tech industry’s increasing dominance, Jason Calacanis, a tech investor, offers a radical guide for prospering: betting on more of it.",
+      "abstract": "With the tech industry’s increasing dominance, Jason Calacanis, a tech investor, offers a radical guide for prospering: betting on more of it.",
+      "lead_paragraph": "Jason Calacanis cuts an unusual figure for a financial savior in Silicon Valley, where it’s fashionable for the world’s richest men to feign embarrassed modesty about their wealth and power.",
+      "publication_date": "2017-09-27T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/27/technology/when-tech-disrupts-wealth-and-stability-angels-may-be-solution.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Trump Proposes the Most Sweeping Tax Overhaul in Decades",
+      "snippet": "In Indiana, President Trump began an intense push to slash taxes and salvage what is left of his foundering legislative agenda in Congress.",
+      "abstract": "In Indiana, President Trump began an intense push to slash taxes and salvage what is left of his foundering legislative agenda in Congress.",
+      "lead_paragraph": "INDIANAPOLIS — President Trump on Wednesday began an ambitious push to slash taxes and salvage what remains of his embattled legislative agenda in Congress this year, proposing a politically challenging array of tax cuts for individuals and businesses that would constitute the most sweeping changes to the federal tax code in decades.",
+      "publication_date": "2017-09-27T14:20:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/27/us/politics/trump-tax-cut-plan-middle-class-deficit.html",
+      "byline": "By Julie Hirschfeld Davis and Alan Rappeport"
+    },
+    {
+      "headline": "Google Offers Concessions to Europe After Record Antitrust Fine",
+      "snippet": "The search giant is changing how it operates its online shopping service, signaling a new willingness to bow to tightening regulatory pressure around the world.",
+      "abstract": "The search giant is changing how it operates its online shopping service, signaling a new willingness to bow to tightening regulatory pressure around the world.",
+      "lead_paragraph": "Google announced concessions on Wednesday to European regulators over its online shopping service, signaling a new willingness by the Silicon Valley company to bow to tightening pressures from governments around the world.",
+      "publication_date": "2017-09-27T16:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/27/business/google-eu-antitrust.html",
+      "byline": "By James Kanter"
+    }
+  ]
+}

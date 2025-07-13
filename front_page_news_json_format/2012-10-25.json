@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2012-10-25",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "U.S. Accuses Bank of America of a ‘Brazen’ Mortgage Fraud",
+      "snippet": "The bank is accused of selling “defective” mortgages to Fannie Mae and Freddie Mac, the government-controlled housing giants, which were stuck with more than $1 billion in losses and many foreclosures.",
+      "abstract": "The bank is accused of selling “defective” mortgages to Fannie Mae and Freddie Mac, the government-controlled housing giants, which were stuck with more than $1 billion in losses and many foreclosures.",
+      "lead_paragraph": "9:34 p.m. | Updated ",
+      "publication_date": "2012-10-24T16:35:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2012/10/24/federal-prosecutors-sue-bank-of-america-over-mortgage-program/",
+      "byline": "By Ben Protess"
+    },
+    {
+      "headline": "Shifting Mood May End Blank Check for U.S. Security Efforts",
+      "snippet": "The looming federal budget crunch, waning predictions of attacks on the United States and bipartisan criticism may mean the end of lavish spending on counterterrorism.",
+      "abstract": "The looming federal budget crunch, waning predictions of attacks on the United States and bipartisan criticism may mean the end of lavish spending on counterterrorism.",
+      "lead_paragraph": "WASHINGTON — Last week, a Bangladeshi student was charged in an F.B.I. sting operation with plotting to blow up the Federal Reserve Bank in New York. A Somali-American man was convicted of sending young recruits from Minneapolis to a terrorist group in Somalia. In Libya, extremists responsible for the killing of four Americans last month in Benghazi remained at large.",
+      "publication_date": "2012-10-24T17:45:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/25/us/politics/rethinking-an-open-checkbook-for-a-security-colossus.html",
+      "byline": "By Scott Shane"
+    },
+    {
+      "headline": "Fed Pledges to Maintain  Stimulus",
+      "snippet": "The Federal Reserve said that it would continue its economic stimulus campaign, aimed at reducing unemployment, amid fresh evidence of a housing recovery that could help to bolster those efforts.",
+      "abstract": "The Federal Reserve said that it would continue its economic stimulus campaign, aimed at reducing unemployment, amid fresh evidence of a housing recovery that could help to bolster those efforts.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve said Wednesday that it would continue its economic stimulus campaign, aimed at reducing unemployment, amid fresh evidence of a housing recovery that could help to bolster those efforts.",
+      "publication_date": "2012-10-24T18:24:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/25/business/economy/fed-affirms-low-rates-and-sees-moderate-growth.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Illinois Debt Takes Toll, Study Finds",
+      "snippet": "In its report, the State Budget Crisis Task Force recommends overhauling Illinois budgeting practices and warns that tax increases may be necessary.",
+      "abstract": "In its report, the State Budget Crisis Task Force recommends overhauling Illinois budgeting practices and warns that tax increases may be necessary.",
+      "lead_paragraph": "For years, Illinois has racked up billions in public debt to plug budget holes, pay overdue bills, and put money into its mismanaged pension funds. And for the people who live there, this has resulted in decrepit commuter trains and buses, thousands of unsound bridges, 200 hazardous dams and one of the most inequitable public school systems in America.",
+      "publication_date": "2012-10-24T19:12:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/25/business/illinois-debt-takes-toll-on-services-study-finds.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Ex-Goldman Director to Serve 2 Years in Insider Case",
+      "snippet": "Rajat K. Gupta, the former Goldman Sachs director, was sentenced to two years in prison on Wednesday for leaking boardroom secrets to the former hedge fund manager Raj Rajaratnam.",
+      "abstract": "Rajat K. Gupta, the former Goldman Sachs director, was sentenced to two years in prison on Wednesday for leaking boardroom secrets to the former hedge fund manager Raj Rajaratnam.",
+      "lead_paragraph": "9:37 p.m. | Updated ",
+      "publication_date": "2012-10-24T20:17:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/10/24/rajat-gupta-gets-2-years-in-prison/",
+      "byline": "By Peter Lattman"
+    },
+    {
+      "headline": "Zynga, Survival at Stake, Beats Forecasts",
+      "snippet": "Among once-hot Internet companies now under siege, the social gaming pioneer is the most embattled, firing employees, shutting games and losing players.",
+      "abstract": "Among once-hot Internet companies now under siege, the social gaming pioneer is the most embattled, firing employees, shutting games and losing players.",
+      "lead_paragraph": "SAN FRANCISCO — Zynga is putting all its chips on a game called survival.",
+      "publication_date": "2012-10-24T20:51:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/25/technology/zynga-survival-at-stake-beats-forecasts.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Windows, Revamped and Split in 2",
+      "snippet": "Microsoft’s Windows 8 has two different worlds, one designed primarily for touch screens, the other for mouse and keyboard.",
+      "abstract": "Microsoft’s Windows 8 has two different worlds, one designed primarily for touch screens, the other for mouse and keyboard.",
+      "lead_paragraph": "This may be the biggest week in Microsoft’s 37-year history. The company is releasing its very first computer (the Surface tablet), a new phone operating system (Windows Phone 8), and, believe it or not, two PC operating systems. ",
+      "publication_date": "2012-10-25T00:15:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/25/technology/personaltech/microsofts-windows-revamped-and-split-in-2.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Bleary-Eyed Troops Fight a Building at a Time in Syria",
+      "snippet": "Syrian soldiers’ battle to retake a rebel-held school in Homs is a war of attrition, in which the opposition gains ground and the government takes it back.",
+      "abstract": "Syrian soldiers’ battle to retake a rebel-held school in Homs is a war of attrition, in which the opposition gains ground and the government takes it back.",
+      "lead_paragraph": "HOMS, Syria — For more than 24 hours, President Bashar al-Assad’s soldiers fought their way through this city, bleary-eyed men, worn down by months of combat. Afraid to go into the streets, where snipers pick their targets, the government men snaked their way through “mouse holes” punched in walls of blown-out buildings. Their goal was to retake one building, just one, a former school controlled by the rebel Free Syrian Army.",
+      "publication_date": "2012-10-25T00:36:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/25/world/middleeast/syrian-soldiers-fight-rebels-and-fatigue-in-homs.html",
+      "byline": "By Janine di Giovanni"
+    },
+    {
+      "headline": "Crucial Subset: Female Voters Still Deciding",
+      "snippet": "While female voters generally tend to favor President Obama, that cannot be said of white women without college degrees, a subset known — in this race — as waitress moms.",
+      "abstract": "While female voters generally tend to favor President Obama, that cannot be said of white women without college degrees, a subset known — in this race — as waitress moms.",
+      "lead_paragraph": "DERRY, N.H. — Emmakate Paris was a one-woman tornado the other day, whipping through the racks at the thrift shop here, hunting for clothes for her children and one special item for herself: a green suit. For Halloween, she wants to dress up as Tippi Hedren in the Hitchcock movie “The Birds.”",
+      "publication_date": "2012-10-25T02:59:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/25/us/politics/female-swing-voters-a-coveted-demographic.html",
+      "byline": "By Katharine Q. Seelye"
+    }
+  ]
+}

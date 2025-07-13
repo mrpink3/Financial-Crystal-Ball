@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-04-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Former Hulu Boss Will Lead WarnerMedia, Home of HBO and CNN",
+      "snippet": "Just before the start of HBO Max, AT&T names Jason Kilar as the head of its entertainment and news unit. He replaces John Stankey, who remains AT&T’s president.",
+      "abstract": "Just before the start of HBO Max, AT&T names Jason Kilar as the head of its entertainment and news unit. He replaces John Stankey, who remains AT&T’s president.",
+      "lead_paragraph": "AT&T announced on Wednesday that it would bring in the former head of Hulu to lead WarnerMedia, the news and entertainment division that includes HBO, CNN and the Warner Bros. movie studio.",
+      "publication_date": "2020-04-01T16:11:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/01/business/media/warner-media-jason-kilar-john-stankey.html",
+      "byline": "By Edmund Lee and John Koblin"
+    },
+    {
+      "headline": "Florida Governor, at Long Last, Orders Residents to Stay Home to Avoid Coronavirus",
+      "snippet": "Gov. Ron DeSantis said the decision corresponded with the “national pause” effectively recommended by the White House.",
+      "abstract": "Gov. Ron DeSantis said the decision corresponded with the “national pause” effectively recommended by the White House.",
+      "lead_paragraph": "MIAMI — Florida’s coronavirus cases kept ballooning, especially in the dense neighborhoods of Miami and Fort Lauderdale. Hospitals in Fort Myers and Naples begged for donations of masks and other protective equipment. Young people started to die.",
+      "publication_date": "2020-04-01T18:04:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/01/us/coronavirus-florida-de-santis-trump.html",
+      "byline": "By Patricia Mazzei and Maggie Haberman"
+    },
+    {
+      "headline": "Retailers Under Growing Pressure to Let Workers Wear Masks",
+      "snippet": "Restrictions that follow current C.D.C. guidelines have become a source of tension at many stores supplying essential goods during the coronavirus pandemic.",
+      "abstract": "Restrictions that follow current C.D.C. guidelines have become a source of tension at many stores supplying essential goods during the coronavirus pandemic.",
+      "lead_paragraph": "At Office Depot, employees have been told that they cannot wear masks in the store. Some Walgreens workers say they were also discouraged from wearing them. Many other large retailers, including Target, have started to allow masks, but are leaving it up to employees to procure their own supplies.",
+      "publication_date": "2020-04-01T22:45:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/01/business/coronavirus-retail-workers-masks.html",
+      "byline": "By Michael Corkery and Sapna Maheshwari"
+    },
+    {
+      "headline": "Alarm, Denial, Blame: The Pro-Trump Media’s Coronavirus Distortion",
+      "snippet": "Sean Hannity, Rush Limbaugh and other right-wing commentators turned a pandemic into a battle of us vs. them — the kind of battle President Trump has waged for much of his life.",
+      "abstract": "Sean Hannity, Rush Limbaugh and other right-wing commentators turned a pandemic into a battle of us vs. them — the kind of battle President Trump has waged for much of his life.",
+      "lead_paragraph": "On Feb. 27, two days after the first reported case of the coronavirus spreading inside a community in the United States, Candace Owens was underwhelmed. “Now we’re all going to die from Coronavirus,” she wrote sarcastically to her two million Twitter followers, blaming a “doomsday cult” of liberal paranoia for the growing anxiety over the outbreak.",
+      "publication_date": "2020-04-01T23:55:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/01/us/politics/hannity-limbaugh-trump-coronavirus.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "SoftBank Won’t Buy $3 Billion in WeWork Stock",
+      "snippet": "The move is a blow to shareholders like Adam Neumann, the company’s co-founder, and venture capital firms that had hoped to cash out of the troubled office space company.",
+      "abstract": "The move is a blow to shareholders like Adam Neumann, the company’s co-founder, and venture capital firms that had hoped to cash out of the troubled office space company.",
+      "lead_paragraph": "SoftBank has decided it will not buy $3 billion in WeWork stock from other shareholders, a board committee of the office space company said Wednesday night, dealing a blow to shareholders, including Adam Neumann, the company’s co-founder and former chief executive, who had hoped to sell their stock.",
+      "publication_date": "2020-04-02T00:27:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/01/business/economy/wework-softbank-stock.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "The Apocalypse as an ‘Unveiling’: What Religion Teaches Us About the End Times",
+      "snippet": "For people of many faiths, and even none at all, it can feel lately like the end of the world is near.",
+      "abstract": "For people of many faiths, and even none at all, it can feel lately like the end of the world is near.",
+      "lead_paragraph": "Shamain Webster, who lives in the suburbs outside of Dallas, has seen the signs of a coming apocalypse for a while now, just as the Bible foretold.",
+      "publication_date": "2020-04-02T07:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/02/us/coronavirus-apocalypse-religion.html",
+      "byline": "By Elizabeth Dias"
+    },
+    {
+      "headline": "Farmworkers, Mostly Undocumented, Become ‘Essential’ During Pandemic",
+      "snippet": "Immigrant field workers have been told to keep working despite stay-at-home directives, and given letters attesting to their “critical” role in feeding the country.",
+      "abstract": "Immigrant field workers have been told to keep working despite stay-at-home directives, and given letters attesting to their “critical” role in feeding the country.",
+      "lead_paragraph": "LOS ANGELES — Like legions of immigrant farmworkers, Nancy Silva for years has done the grueling work of picking fresh fruit that Americans savor, all the while afraid that one day she could lose her livelihood because she is in the country illegally.",
+      "publication_date": "2020-04-02T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/02/us/coronavirus-undocumented-immigrant-farmworkers-agriculture.html",
+      "byline": "By Miriam Jordan"
+    },
+    {
+      "headline": "A Widening Toll on Jobs: ‘This Thing Is Going to Come for Us All’",
+      "snippet": "After the initial impact of shutdowns on a few industries, the coronavirus pandemic is leaving a much broader swath of unemployment.",
+      "abstract": "After the initial impact of shutdowns on a few industries, the coronavirus pandemic is leaving a much broader swath of unemployment.",
+      "lead_paragraph": "A staggering 6.6 million people applied for unemployment benefits last week as the coronavirus outbreak ravaged nearly every corner of the American economy, the Labor Department reported Thursday.",
+      "publication_date": "2020-04-02T12:39:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/02/business/economy/coronavirus-unemployment-claims.html",
+      "byline": "By Ben Casselman and Patricia Cohen"
+    },
+    {
+      "headline": "Under Modi, India’s Press Is Not So Free Anymore",
+      "snippet": "India’s government has pressured advertisers and even shut down channels to shape the information that 1.3 billion Indians receive. It’s part of a wider assault on dissent.",
+      "abstract": "India’s government has pressured advertisers and even shut down channels to shape the information that 1.3 billion Indians receive. It’s part of a wider assault on dissent.",
+      "lead_paragraph": "NEW DELHI — The Media One anchorman Vinesh Kunhiraman went on air as usual on March 6, ready to tell the station’s five million viewers in India’s Kerala State about the death anniversary of a beloved comedian and the latest news on the coronavirus pandemic.",
+      "publication_date": "2020-04-02T13:10:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/02/world/asia/modi-india-press-media.html",
+      "byline": "By Vindu Goel, Jeffrey Gettleman and Saumya Khandelwal"
+    },
+    {
+      "headline": "Banks Warn of ‘Overwhelming’ Demand and Messy Start for Small Business Loans",
+      "snippet": "The government has promised to lend $349 billion to small businesses starting Friday, but banks and owners have no idea how it will play out.",
+      "abstract": "The government has promised to lend $349 billion to small businesses starting Friday, but banks and owners have no idea how it will play out.",
+      "lead_paragraph": "[Read our Coronavirus Relief Small Business F.A.Q.]",
+      "publication_date": "2020-04-02T15:35:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/02/business/small-business-coronavirus-stimulus.html",
+      "byline": "By Stacy Cowley"
+    }
+  ]
+}

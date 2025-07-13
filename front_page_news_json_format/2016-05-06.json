@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2016-05-06",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Facebook Has 50 Minutes of Your Time Each Day. It Wants More.",
+      "snippet": "The average person spends more time on Facebook than any other leisure activity surveyed by the government except watching TV and movies.",
+      "abstract": "The average person spends more time on Facebook than any other leisure activity surveyed by the government except watching TV and movies.",
+      "lead_paragraph": "Facebook reported dazzling first quarter results last week: Net income nearly tripled to $1.5 billion, and monthly active users hit a record 1.65 billion. But it’s a much smaller number that leapt out at me.",
+      "publication_date": "2016-05-05T17:51:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/05/06/business/facebook-bends-the-rules-of-audience-engagement-to-its-advantage.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Sumner Redstone Trial Captivates Hollywood and Wall Street",
+      "snippet": "A suit challenging Mr. Redstone’s mental competence, filed by a former companion who was removed from his house and his will, goes to trial on Friday.",
+      "abstract": "A suit challenging Mr. Redstone’s mental competence, filed by a former companion who was removed from his house and his will, goes to trial on Friday.",
+      "lead_paragraph": "The media mogul Sumner M. Redstone was in the middle of a bitter divorce from his wife of 52 years in December 2000 when he was spotted with a decades-younger woman at the New York premiere of the Paramount movie “What Women Want.”",
+      "publication_date": "2016-05-05T19:06:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/05/06/business/media/sumner-redstone-trial-could-be-lurid-and-spark-power-struggle.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "Paul Ryan Says He Is ‘Not Ready’ to Endorse Donald Trump",
+      "snippet": "After the House speaker said he couldn’t endorse Mr. Trump, the presumptive Republican nominee fired back that he was “not ready to support Speaker Ryan’s agenda.”",
+      "abstract": "After the House speaker said he couldn’t endorse Mr. Trump, the presumptive Republican nominee fired back that he was “not ready to support Speaker Ryan’s agenda.”",
+      "lead_paragraph": "WASHINGTON — In an extraordinary rebuke of his party’s presumed nominee, Speaker Paul D. Ryan, the nation’s highest-ranking elected Republican, said Thursday that he was “not ready” to endorse Donald J. Trump for president.",
+      "publication_date": "2016-05-05T20:10:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/05/06/us/politics/paul-ryan-donald-trump.html",
+      "byline": "By Jennifer Steinhauer and Alexander Burns"
+    },
+    {
+      "headline": "2 Big Labor Unions Share Efforts to Gain Power and Scale",
+      "snippet": "The Service Employees International Union and the American Federation of State, County and Municipal Employees are collaborating in ways some see as a path to a merger.",
+      "abstract": "The Service Employees International Union and the American Federation of State, County and Municipal Employees are collaborating in ways some see as a path to a merger.",
+      "lead_paragraph": "The leaders of two of the nation’s biggest, most powerful labor unions — the Service Employees International Union and the American Federation of State, County and Municipal Employees — are completing a plan that calls for unusually close cooperation in political campaigning, organizing and bargaining in states and cities across the United States.",
+      "publication_date": "2016-05-06T00:31:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/05/06/business/afscme-seiu-labor-unions-merger.html",
+      "byline": "By Steven Greenhouse and Noam Scheiber"
+    },
+    {
+      "headline": "From Ryan, a Reminder to Trump of the Stakes for the G.O.P.",
+      "snippet": "The House speaker’s remarks showed how deeply top congressional Republicans fear Donald Trump could damage the party.",
+      "abstract": "The House speaker’s remarks showed how deeply top congressional Republicans fear Donald Trump could damage the party.",
+      "lead_paragraph": "WASHINGTON — If Donald J. Trump loses the presidency, he can return to his Manhattan office tower and get back to business. But Speaker Paul D. Ryan intends to remain on the job in the Capitol after November, and he would like as many fellow Republicans as possible right there with him.",
+      "publication_date": "2016-05-06T01:01:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/05/06/us/politics/from-ryan-a-reminder-to-trump-of-the-stakes-for-the-gop.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Sadiq Khan Elected in London, Becoming Its First Muslim Mayor",
+      "snippet": "His victory is a ray of hope for the Labour Party, which lost ground in Scotland, and ends eight years of Conservative rule over Britain’s capital.",
+      "abstract": "His victory is a ray of hope for the Labour Party, which lost ground in Scotland, and ends eight years of Conservative rule over Britain’s capital.",
+      "lead_paragraph": "LONDON — In a Europe struggling with a rise in Islamophobia, riven by debates about the flood of Syrian migrants and on edge over religious, ethnic and cultural disputes, London has elected its first Muslim mayor.",
+      "publication_date": "2016-05-06T07:52:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/05/07/world/europe/britain-election-results.html",
+      "byline": "By Stephen Castle"
+    },
+    {
+      "headline": "U.S. Added 160,000 Jobs Last Month as Brisk Hiring Slowed",
+      "snippet": "After racing ahead for many months, the jobs machine cooled a bit, but wages continued to climb steadily.",
+      "abstract": "After racing ahead for many months, the jobs machine cooled a bit, but wages continued to climb steadily.",
+      "lead_paragraph": "After racing ahead for many months, the American jobs machine cooled in April, as employers took their cue from other signs that economic growth was slowing by easing up on new hiring.",
+      "publication_date": "2016-05-06T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/05/07/business/economy/jobs-report-unemployment-wages.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Donald Trump Seeks Republican Unity but Finds Rejection",
+      "snippet": "Mr. Trump may find it difficult to raise funds after being shunned by respected party figures including Mitt Romney, George Bush, George W. Bush and Paul D. Ryan.",
+      "abstract": "Mr. Trump may find it difficult to raise funds after being shunned by respected party figures including Mitt Romney, George Bush, George W. Bush and Paul D. Ryan.",
+      "lead_paragraph": "A hasty effort to make peace between Donald J. Trump and Republican Party leaders veered toward the point of collapse on Friday as Jeb Bush announced he would not back Mr. Trump in the general election and Mr. Trump unleashed a caustic personal attack on a prominent senator who declined to endorse his campaign.",
+      "publication_date": "2016-05-06T14:31:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/05/07/us/politics/donald-trump-seeks-republican-unity-but-finds-rejection.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "Jamie Dimon Wants to Protect You From Innovative Start-Ups",
+      "snippet": "The JPMorgan chief complained that personal finance start-ups exploit banking data, but much of what he said misses the mark.",
+      "abstract": "The JPMorgan chief complained that personal finance start-ups exploit banking data, but much of what he said misses the mark.",
+      "lead_paragraph": "Last month, the JPMorgan Chase shareholders’ letter went up online, and the bank’s chief executive, Jamie Dimon, had some harsh words for start-ups selling services that try to improve upon his bank’s offerings.",
+      "publication_date": "2016-05-06T15:32:02+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/05/07/your-money/jamie-dimon-wants-to-protect-you-from-innovative-start-ups.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

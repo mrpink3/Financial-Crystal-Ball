@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2015-10-09",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Kevin McCarthy Withdraws From Speaker’s Race, Putting House in Chaos",
+      "snippet": "In a stunning retreat, Representative Kevin McCarthy of California took himself out of the race to succeed John A. Boehner.",
+      "abstract": "In a stunning retreat, Representative Kevin McCarthy of California took himself out of the race to succeed John A. Boehner.",
+      "lead_paragraph": "WASHINGTON — Representative Kevin McCarthy of California abruptly withdrew on Thursday from the race to succeed Speaker John A. Boehner, blindsiding his House Republican colleagues and throwing their already tumultuous chamber into deeper chaos with no clear leader in sight just weeks before a series of high-stakes fiscal battles.",
+      "publication_date": "2015-10-08T16:29:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/09/us/politics/house-speaker-vote.html",
+      "byline": "By Jennifer Steinhauer and David M. Herszenhorn"
+    },
+    {
+      "headline": "Léo Apotheker May Have Been Worse H.P. Chief Than Carly Fiorina",
+      "snippet": "While Carly Fiorina’s tenure at Hewlett-Packard has been questioned, the Autonomy deal makes Léo Apotheker a contender for the company’s worst chief.",
+      "abstract": "While Carly Fiorina’s tenure at Hewlett-Packard has been questioned, the Autonomy deal makes Léo Apotheker a contender for the company’s worst chief.",
+      "lead_paragraph": "Jeffrey A. Sonnenfeld, a professor at the Yale School of Management, has memorably called the rising Republican presidential star Carly Fiorina “one of the worst technology C.E.O.s in history.”",
+      "publication_date": "2015-10-08T19:01:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/10/09/business/leo-apotheker-may-have-been-worse-hp-chief-than-carly-fiorina.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "House, and a Republican Party, Divided Against Itself",
+      "snippet": "Kevin McCarthy’s decision to drop out of the race for speaker echoed chaos in the House 17 years ago, but some Republicans worry that this time may be worse.",
+      "abstract": "Kevin McCarthy’s decision to drop out of the race for speaker echoed chaos in the House 17 years ago, but some Republicans worry that this time may be worse.",
+      "lead_paragraph": "WASHINGTON — Republicans expanded their numbers in the House and won the Senate in 2014 by asking voters to give them control of Congress and let them prove they could govern the country. Right now, they appear unable to govern themselves.",
+      "publication_date": "2015-10-08T19:45:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/09/us/politics/house-republicans-kevin-mccarthy.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Microsoft’s Mission to Reignite PC Sector May Be Taking Hold",
+      "snippet": "As sales of personal computers continue to slump, PC makers are having to innovate, and, in many ways, Microsoft is leading the way — even lending to the industry’s budding optimism.",
+      "abstract": "As sales of personal computers continue to slump, PC makers are having to innovate, and, in many ways, Microsoft is leading the way — even lending to the industry’s budding optimism.",
+      "lead_paragraph": "Shipments of personal computers fell nearly 11 percent last quarter, to the shock of almost no one. Sales have been declining for so long — 14 consecutive quarters — that it is becoming harder to remember a time when PCs ruled the tech world.",
+      "publication_date": "2015-10-09T01:04:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/10/09/business/microsofts-mission-to-reignite-pc-sector-may-be-taking-hold.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "Wary of Escalation in Syria, U.S. Is Waiting Out Putin’s Moves",
+      "snippet": "President Obama is unwilling to risk escalating the conflict and does not have a new strategy to resolve it or defeat the Islamic State.",
+      "abstract": "President Obama is unwilling to risk escalating the conflict and does not have a new strategy to resolve it or defeat the Islamic State.",
+      "lead_paragraph": "WASHINGTON — President Obama this year defined his approach to crises like the civil war in Syria as “strategic patience and persistence.” But with Russian jets and missiles now rocketing through the skies over Syria, what he calls patience looks to many critics like paralysis.",
+      "publication_date": "2015-10-09T01:15:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/09/world/wary-of-escalation-the-us-is-waiting-out-putins-moves.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Avoiding Risky Seas, Migrants Reach Europe With an Arctic Bike Ride",
+      "snippet": "A route to Norway through Russia has made a remote far-north border an increasingly popular back door into Europe. A legal quirk makes pedaling necessary.",
+      "abstract": "A route to Norway through Russia has made a remote far-north border an increasingly popular back door into Europe. A legal quirk makes pedaling necessary.",
+      "lead_paragraph": "STORSKOG, Norway — Pelted by hailstones and buffeted by an icy wind, Yasir Arslanuk, a 55-year-old Syrian engineer, his wife and two young sons wobbled across the border from Russia into Norway astride bicycles last week, the latest migrants to complete an improbable new route to Europe.",
+      "publication_date": "2015-10-09T09:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/10/world/europe/bypassing-the-risky-sea-refugees-reach-europe-through-the-arctic.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Behind the European Privacy Ruling That’s Confounding Silicon Valley",
+      "snippet": "It began with an Austrian law student in California who “had to write about something,” but has led to a decision that is roiling United States tech companies.",
+      "abstract": "It began with an Austrian law student in California who “had to write about something,” but has led to a decision that is roiling United States tech companies.",
+      "lead_paragraph": "On Tuesday, when Max Schrems won a landmark privacy case in the European Court of Justice, Edward J. Snowden told him on Twitter that he had “changed the world for the better.” Penny Pritzker, the United States commerce secretary, had a different opinion, saying the decision “puts at risk the thriving trans-Atlantic digital economy.” The brouhaha, however, had little evident effect on the apparently imperturbable Mr. Schrems.",
+      "publication_date": "2015-10-09T09:05:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2015/10/11/business/international/behind-the-european-privacy-ruling-thats-confounding-silicon-valley.html",
+      "byline": "By Robert Levine"
+    },
+    {
+      "headline": "Obama Administration Ends Effort to Train Syrians to Combat ISIS",
+      "snippet": "The effort to build a rebel force against the Islamic State failed in part because many rebels focused on a campaign against President Bashar al-Assad, officials said.",
+      "abstract": "The effort to build a rebel force against the Islamic State failed in part because many rebels focused on a campaign against President Bashar al-Assad, officials said.",
+      "lead_paragraph": "WASHINGTON — The Obama administration on Friday abandoned its efforts to build up a new rebel force inside Syria to combat the Islamic State, acknowledging the failure of its $500 million campaign to train thousands of fighters and announcing that it will instead use the money to provide ammunition and some weapons for groups already engaged in the battle.",
+      "publication_date": "2015-10-09T11:39:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/10/world/middleeast/pentagon-program-islamic-state-syria.html",
+      "byline": "By Michael D. Shear, Helene Cooper and Eric Schmitt"
+    },
+    {
+      "headline": "In ‘Steve Jobs,’ Tolerating Tech’s Unpleasant Visionaries",
+      "snippet": "The new movie about the Apple co-founder suggests that the future envisioned by the tech industry’s leaders is worth putting up with them.",
+      "abstract": "The new movie about the Apple co-founder suggests that the future envisioned by the tech industry’s leaders is worth putting up with them.",
+      "lead_paragraph": "Not long ago, Larry Page watched the Disney film “Tomorrowland.” He didn’t like it.",
+      "publication_date": "2015-10-09T15:21:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/12/technology/in-steve-jobs-tolerating-techs-unpleasant-visionaries.html",
+      "byline": "By Farhad Manjoo"
+    }
+  ]
+}

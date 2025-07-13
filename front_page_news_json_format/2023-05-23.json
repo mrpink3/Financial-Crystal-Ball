@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-05-23",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "TikTok Sues Montana, Calling State Ban Unconstitutional",
+      "snippet": "The Chinese-owned video app filed the lawsuit days after Montana’s governor signed the ban, which takes effect on Jan. 1, into law.",
+      "abstract": "The Chinese-owned video app filed the lawsuit days after Montana’s governor signed the ban, which takes effect on Jan. 1, into law.",
+      "lead_paragraph": "TikTok on Monday sued to block Montana from banning the popular video app, escalating its efforts to stop a prohibition that would be the first of its kind in the nation.",
+      "publication_date": "2023-05-22T20:15:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/22/technology/tiktok-montana-ban-lawsuit.html",
+      "byline": "By David McCabe and Sapna Maheshwari"
+    },
+    {
+      "headline": "Russia Claims Bakhmut, but Some See a ‘Pyrrhic Victory’",
+      "snippet": "A top Ukrainian official essentially acknowledged that the devastated city had been lost. Thousands of Ukrainian and Russian soldiers died there, but the cost for Moscow was especially steep, experts say.",
+      "abstract": "A top Ukrainian official essentially acknowledged that the devastated city had been lost. Thousands of Ukrainian and Russian soldiers died there, but the cost for Moscow was especially steep, experts say.",
+      "lead_paragraph": "It took the Kremlin almost a year and cost the lives of thousands of soldiers to capture Bakhmut, but now that Russian forces appear to have control of the Ukrainian city, it is fair to question the value of what they have gained.",
+      "publication_date": "2023-05-22T20:21:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/22/world/europe/bakhmut-russia-ukraine-retreat.html",
+      "byline": "By Michael Schwirtz and Marc Santora"
+    },
+    {
+      "headline": "Emails, Chat Logs, Code and a Notebook: The Mountain of FTX Evidence",
+      "snippet": "Prosecutors investigating Sam Bankman-Fried, the cryptocurrency exchange’s founder, have accumulated more than six million pages of documents and other records.",
+      "abstract": "Prosecutors investigating Sam Bankman-Fried, the cryptocurrency exchange’s founder, have accumulated more than six million pages of documents and other records.",
+      "lead_paragraph": "Snippets of computer code. More than six million pages of emails, Slack messages and other digital records. And a small black notebook, filled with handwritten observations.",
+      "publication_date": "2023-05-23T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/23/technology/ftx-evidence-sam-bankman-fried.html",
+      "byline": "By David Yaffe-Bellany and Matthew Goldstein"
+    },
+    {
+      "headline": "Australia Tries to Break Its Dependence on China for Lithium Mining",
+      "snippet": "Half of the world’s supply of the critical battery ingredient is mined in Australia, which ships virtually all of it to China. The government and business are betting they can change that.",
+      "abstract": "Half of the world’s supply of the critical battery ingredient is mined in Australia, which ships virtually all of it to China. The government and business are betting they can change that.",
+      "lead_paragraph": "Deep in rural Western Australia, Pilbara Minerals’ vast processing plant looms above the red dirt, quivering as tons of a lithium ore slurry move through its pipes.",
+      "publication_date": "2023-05-23T09:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/23/business/australia-lithium-refining.html",
+      "byline": "By Natasha Frost and Matthew Abbott"
+    },
+    {
+      "headline": "China and Russia, Targets at G7 Summit, Draw Closer to Fend Off West",
+      "snippet": "Beijing and Moscow are holding visits this week as alarm grows in China that Western countries backing Ukraine are turning their attention to Asia.",
+      "abstract": "Beijing and Moscow are holding visits this week as alarm grows in China that Western countries backing Ukraine are turning their attention to Asia.",
+      "lead_paragraph": "When Russian troops poured into Ukraine over a year ago, many experts foresaw a strategic windfall for China, with the United States distracted again by a war far from Asia. Now, Beijing is increasingly alarmed that the Western bloc backing Ukraine is entrenching itself in China’s neighborhood.",
+      "publication_date": "2023-05-23T13:06:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/23/world/asia/china-g7-russia-us.html",
+      "byline": "By David Pierson and Chris Buckley"
+    },
+    {
+      "headline": "Belarus Turns a Story of Love and Protest Into a Tale of Betrayal",
+      "snippet": "Roman Protasevich became a symbol of the struggle for democracy when Belarus forced down a plane and arrested him. Now it has pardoned him, and former allies say he has turned on them.",
+      "abstract": "Roman Protasevich became a symbol of the struggle for democracy when Belarus forced down a plane and arrested him. Now it has pardoned him, and former allies say he has turned on them.",
+      "lead_paragraph": "When the Belarusian dictator Aleksandr G. Lukashenko sent a MIG fighter jet to intercept a Ryanair passenger plane carrying an exiled antigovernment activist and his girlfriend two years ago, he turned the young dissident into a martyr of the struggle for democracy.",
+      "publication_date": "2023-05-23T13:59:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/23/world/europe/belarus-roman-protasevich-pardon.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "A.I.’s Threat to Jobs Prompts Question of Who Protects Workers",
+      "snippet": "Tens of millions of jobs could be automated by generative artificial intelligence. The makers of new technologies are looking to the government to step in.",
+      "abstract": "Tens of millions of jobs could be automated by generative artificial intelligence. The makers of new technologies are looking to the government to step in.",
+      "lead_paragraph": "When Congress held a series of hearings on jobs and technological advancement in October 1955, the head of a railroad worker organization took the stand to express his fears about automation. “There is uneasiness among our workers as they assess the advance of the new technology,” said W.P. Kennedy, president of the Brotherhood of Railroad Trainmen. “Will it bring increasing unemployment rather than economic security?”",
+      "publication_date": "2023-05-23T14:43:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/23/business/jobs-protections-artificial-intelligence.html",
+      "byline": "By Emma Goldberg"
+    }
+  ]
+}

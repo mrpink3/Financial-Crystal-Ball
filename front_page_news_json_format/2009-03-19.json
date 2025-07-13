@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2009-03-19",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Fed Plans to Inject Another $1 Trillion to Aid the Economy",
+      "snippet": "An attempt to jolt the nation out of recession by creating new money carries the risk of inflation.",
+      "abstract": "An attempt to jolt the nation out of recession by creating new money carries the risk of inflation.",
+      "lead_paragraph": "WASHINGTON  The Federal Reserve sharply stepped up its efforts to bolster the economy on Wednesday, announcing that it would pump an extra $1 trillion into the financial system by purchasing Treasury bonds and mortgage securities.",
+      "publication_date": "2009-03-18T18:30:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/19/business/economy/19fed.html",
+      "byline": "By Edmund L. Andrews"
+    },
+    {
+      "headline": "After Gaza, Israel Grapples With Crisis of Isolation",
+      "snippet": "Israel’s Foreign Ministry is embarking on a campaign to improve Israel’s image via cultural diplomacy.",
+      "abstract": "Israel’s Foreign Ministry is embarking on a campaign to improve Israel’s image via cultural diplomacy.",
+      "lead_paragraph": "JERUSALEM  Israel, whose founding idea was branded as racism by the United Nations General Assembly in 1975 and which faced an Arab boycott for decades, is no stranger to isolation. But in the weeks since its Gaza war, and as it prepares to inaugurate a hawkish right-wing government, it is facing its worst diplomatic crisis in two decades.",
+      "publication_date": "2009-03-18T20:58:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/19/world/middleeast/19israel.html",
+      "byline": "By Ethan Bronner"
+    },
+    {
+      "headline": "A Voice in Your Ear, Sorting Mail",
+      "snippet": "The iLane box talks to you through a BlackBerry and a Bluetooth earpiece. Does it tell you anything you want to know?",
+      "abstract": "The iLane box talks to you through a BlackBerry and a Bluetooth earpiece. Does it tell you anything you want to know?",
+      "lead_paragraph": "Text-to-speech is the new black.",
+      "publication_date": "2009-03-18T23:30:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/19/technology/personaltech/19pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Hired to Salvage A.I.G., Liddy Becomes a Target",
+      "snippet": "Testifying before a House panel, Edward M. Liddy, the insurer’s chief, became a lightning rod for critics.",
+      "abstract": "Testifying before a House panel, Edward M. Liddy, the insurer’s chief, became a lightning rod for critics.",
+      "lead_paragraph": "When the government made its stunning takeover of American International Group in September, it turned to Edward M. Liddy, a hard-charging insurance executive, to salvage the enterprise that had become a symbol of all that was broken in the American financial system. ",
+      "publication_date": "2009-03-19T01:41:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/19/business/19liddy.html",
+      "byline": "By Graham Bowley and Carl Hulse"
+    },
+    {
+      "headline": "Cuomo Wins Ruling to Name Merrill Bonus Recipients",
+      "snippet": "Andrew M. Cuomo is starting to unearth some of the most closely guarded secrets on Wall Street: the identities of Merrill Lynch employees who collected large bonuses even as the brokerage firm lost billions.",
+      "abstract": "Andrew M. Cuomo is starting to unearth some of the most closely guarded secrets on Wall Street: the identities of Merrill Lynch employees who collected large bonuses even as the brokerage firm lost billions.",
+      "lead_paragraph": "Andrew M. Cuomo is starting to unearth some of the most closely guarded secrets on Wall Street: the identities of Merrill Lynch employees who collected large bonuses even as the brokerage firm lost billions.",
+      "publication_date": "2009-03-19T01:48:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/19/business/19cuomo.html",
+      "byline": "By Louise Story"
+    },
+    {
+      "headline": "A.I.G. Uproar Is a Test for Geithner",
+      "snippet": "Questions about why Treasury Secretary Timothy F. Geithner failed to stop the A.I.G. bonuses could threaten President Obama’s economic agenda.",
+      "abstract": "Questions about why Treasury Secretary Timothy F. Geithner failed to stop the A.I.G. bonuses could threaten President Obama’s economic agenda.",
+      "lead_paragraph": "WASHINGTON — All three of President Obama’s top economic advisers were on message when they appeared Sunday on separate television talk shows. Treasury Secretary Timothy F. Geithner, they said, had concluded, based on lawyers’ advice, that he could not stop the $165 million in bonuses that the American International Group was even then doling out to hundreds of employees.",
+      "publication_date": "2009-03-19T01:57:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/19/business/economy/19geithner.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Soldiers’ Accounts of Gaza Killings Raise Furor in Israel",
+      "snippet": "An inquiry will look into published accounts from Israeli soldiers about the killing of Palestinian civilians in Gaza.",
+      "abstract": "An inquiry will look into published accounts from Israeli soldiers about the killing of Palestinian civilians in Gaza.",
+      "lead_paragraph": "JERUSALEM  In the two months since Israel ended its military assault on Gaza, Palestinians and international rights groups have accused it of excessive force and wanton killing in that operation, but the Israeli military has said it followed high ethical standards and took great care to avoid civilian casualties.",
+      "publication_date": "2009-03-19T13:14:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/20/world/middleeast/20gaza.html",
+      "byline": "By Ethan Bronner"
+    }
+  ]
+}

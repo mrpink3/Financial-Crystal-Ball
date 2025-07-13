@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2009-10-22",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "As the Dollar Sinks, Oil Skyrockets",
+      "snippet": "Despite lagging demand, investors are turning to commodities like oil to avoid the weakness of the American dollar.",
+      "abstract": "Despite lagging demand, investors are turning to commodities like oil to avoid the weakness of the American dollar.",
+      "lead_paragraph": "HOUSTON  Crude oil soared to close above $80 a barrel on Wednesday, breaking that psychological barrier for the first time this year, despite weak global economic conditions.",
+      "publication_date": "2009-10-21T17:55:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/business/energy-environment/22crudeoil.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "U.S. to Order Pay Cuts at Firms That Got Most Aid",
+      "snippet": "The companies that received the biggest bailouts are expected to cut the salaries of their best-paid executives.",
+      "abstract": "The companies that received the biggest bailouts are expected to cut the salaries of their best-paid executives.",
+      "lead_paragraph": "WASHINGTON  Responding to the furor over executive pay at companies bailed out with taxpayer money, the Obama administration will order the firms that received the most aid to slash compensation to their highest-paid employees, an official involved in the decision said on Wednesday.",
+      "publication_date": "2009-10-21T18:18:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/10/22/business/22pay.html",
+      "byline": "By Stephen Labaton"
+    },
+    {
+      "headline": "Windows 7 Keeps the Good, Tries to Fix Flaws",
+      "snippet": "Microsoft’s new Windows 7 operating system fixes much of what users hated about the much-maligned Vista.",
+      "abstract": "Microsoft’s new Windows 7 operating system fixes much of what users hated about the much-maligned Vista.",
+      "lead_paragraph": "Windows 7 comes out Thursday. And if the programmers at Microsoft have any strength left at all, they are high-fiving.",
+      "publication_date": "2009-10-21T18:49:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/technology/personaltech/22pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Tip of the Week: “Got the Wrong Bob?”",
+      "snippet": "Gmail warns if you have accidentally included a contact with a similar name — instead of the name of the person you usually include in a regular list of e-mail recipients.",
+      "abstract": "Gmail warns if you have accidentally included a contact with a similar name — instead of the name of the person you usually include in a regular list of e-mail recipients.",
+      "lead_paragraph": " Like earlier add-ons cooked up by Gmail Labs, a new optional feature for Google’s Web mail service can help save you from yourself. With the experimental “Got the Wrong Bob?” feature turned on, Gmail warns if you have accidentally included a contact with a similar name  instead of the name of the person you usually include in a regular list of e-mail recipients. To activate the feature, log into your Gmail account on the Web, click the green beaker icon to go to the Labs options and click the button to enable “Got the Wrong Bob?” (You can also get there by clicking the Settings link on your Gmail account page and then clicking on the Labs tab.) Click the Save Changes button when finished. A post on the Gmail blog (bit.ly/3VZPIV) has details. ",
+      "publication_date": "2009-10-21T21:14:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/technology/personaltech/22askk-003.html",
+      "byline": "By J. D. Biersdorfer"
+    },
+    {
+      "headline": "$13 an Hour? 500 Sign Up, 1 Wins a Job",
+      "snippet": "A trucking company in Indiana realized that the recession allowed it to be methodical in picking one candidate from among nearly 500 applicants.",
+      "abstract": "A trucking company in Indiana realized that the recession allowed it to be methodical in picking one candidate from among nearly 500 applicants.",
+      "lead_paragraph": "BURNS HARBOR, Ind.  As soon as the job opening was posted on the afternoon of Friday, July 10, the deluge began.",
+      "publication_date": "2009-10-21T21:15:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/10/22/us/22hire.html",
+      "byline": "By Michael Luo"
+    },
+    {
+      "headline": "Radio Streams Through Windows",
+      "snippet": "Can I play Internet radio through Windows Media Player instead of through the Web browser?",
+      "abstract": "Can I play Internet radio through Windows Media Player instead of through the Web browser?",
+      "lead_paragraph": "Q. Can I play Internet radio through Windows Media Player instead of through the Web browser?",
+      "publication_date": "2009-10-21T21:15:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/technology/personaltech/22askk-001.html",
+      "byline": "By J. D. Biersdorfer"
+    },
+    {
+      "headline": "Deciphering iPhone Icons",
+      "snippet": "My iPhone displays an E icon for the Edge network when it cannot get a 3G signal from AT&T. But sometimes, instead of the Edge icon, I see a hollow blue dot. What does that mean?",
+      "abstract": "My iPhone displays an E icon for the Edge network when it cannot get a 3G signal from AT&T. But sometimes, instead of the Edge icon, I see a hollow blue dot. What does that mean?",
+      "lead_paragraph": "Q. My iPhone displays an E icon for the Edge network when it cannot get a 3G signal from AT&T. But sometimes, instead of the Edge icon, I see a hollow blue dot. What does that mean?",
+      "publication_date": "2009-10-21T21:16:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/technology/personaltech/22askk-002.html",
+      "byline": "By J. D. Biersdorfer"
+    },
+    {
+      "headline": "2 Deals Hint at Revenue for Twitter",
+      "snippet": "The deals to make Twitter streams available to Microsoft and Google’s search engines may point to a potential new source of cash.",
+      "abstract": "The deals to make Twitter streams available to Microsoft and Google’s search engines may point to a potential new source of cash.",
+      "lead_paragraph": "SAN FRANCISCO  Twitter gets 55 million monthly visitors, it has raised $155 million in venture capital, and it has generated intense interest from Hollywood to Iran. But it hasn’t earned much revenue and certainly no profit.",
+      "publication_date": "2009-10-21T23:19:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/technology/internet/22twitter.html",
+      "byline": "By Miguel Helft and Claire Cain Miller"
+    },
+    {
+      "headline": "A Rope and a Prayer",
+      "snippet": "After more than seven months in Taliban captivity in Pakistan’s tribal areas, David Rohde, a Times reporter, and an Afghan colleague decided to attempt a daring escape.",
+      "abstract": "After more than seven months in Taliban captivity in Pakistan’s tribal areas, David Rohde, a Times reporter, and an Afghan colleague decided to attempt a daring escape.",
+      "lead_paragraph": "I STOOD in the bathroom of the Taliban compound and waited for my colleague to appear in the courtyard so we could make our escape. My heart pounded. A three-foot-tall swamp cooler  an antiquated version of an air-conditioner  roared in the yard a few feet in front of me. I feared that the guards who were holding us hostage might wake up and stop us. I feared even more that our captivity would drag on for years. ",
+      "publication_date": "2009-10-21T23:48:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/10/22/world/asia/22hostage.html",
+      "byline": "By David Rohde"
+    },
+    {
+      "headline": "Financial Woes Plagued Galleon Informant",
+      "snippet": "The former employee who brought down the Galleon hedge fund had legal problems of her own.",
+      "abstract": "The former employee who brought down the Galleon hedge fund had legal problems of her own.",
+      "lead_paragraph": "This article was reported by Michael J. de la Merced, Zachery Kouwe and Alex Berenson and written by Mr. Berenson.",
+      "publication_date": "2009-10-22T00:26:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/business/22insider.html",
+      "byline": "By Alex Berenson"
+    },
+    {
+      "headline": "Who Gets Paid What",
+      "snippet": "Kenneth R. Feinberg listened for months as companies argued that pay restrictions would drive away talent.",
+      "abstract": "Kenneth R. Feinberg listened for months as companies argued that pay restrictions would drive away talent.",
+      "lead_paragraph": "It was, from the start, a delicate dance  a minuet in the measure of money and politics. ",
+      "publication_date": "2009-10-22T00:35:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/business/22czar.html",
+      "byline": "By Louise Story"
+    },
+    {
+      "headline": "A New Challenge for 2 Ailing Banks",
+      "snippet": "The pay cuts for the top 25 earners at the two banks could be skewed because their chief executives had already agreed to enormous reductions.",
+      "abstract": "The pay cuts for the top 25 earners at the two banks could be skewed because their chief executives had already agreed to enormous reductions.",
+      "lead_paragraph": "In the whirl of the financial crisis, Bank of America and Citigroup stood out for being among the most troubled banks in the industry. Now, they will stand apart.",
+      "publication_date": "2009-10-22T00:44:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/10/22/business/22wall.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "For Some Seeking Rebirth, Sweat Lodge Was End",
+      "snippet": "Details emerged from a “spiritual warrior” experience in Arizona that has drawn scrutiny after three people died.",
+      "abstract": "Details emerged from a “spiritual warrior” experience in Arizona that has drawn scrutiny after three people died.",
+      "lead_paragraph": "SEDONA, Ariz.  Midway through a two-hour sweat lodge ceremony intended to be a rebirthing experience, participants say, some people began to fall desperately ill from the heat, even as their leader, James Arthur Ray, a nationally known New Age guru, urged them to press on.",
+      "publication_date": "2009-10-22T01:39:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/10/22/us/22sweat.html",
+      "byline": "By John Dougherty"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2024-05-31",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Boeing Gives F.A.A. Plan to Address Systemic Quality-Control Issues",
+      "snippet": "The action plan is the latest in a series of moves by the F.A.A. to push for safety improvements throughout Boeing during a tumultuous year for the company.",
+      "abstract": "The action plan is the latest in a series of moves by the F.A.A. to push for safety improvements throughout Boeing during a tumultuous year for the company.",
+      "lead_paragraph": "Boeing’s top executives delivered a plan to improve quality and safety to the Federal Aviation Administration on Thursday, vowing to address systemic issues that have damaged the company’s reputation and put the aircraft manufacturer at the center of several federal investigations.",
+      "publication_date": "2024-05-30T18:35:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/30/us/politics/boeing-faa-quality-control-plan.html",
+      "byline": "By Mark Walker and Niraj Chokshi"
+    },
+    {
+      "headline": "Under Pressure, Biden Allows Ukraine to Use U.S. Weapons to Strike Inside Russia",
+      "snippet": "White House officials said the president’s major policy shift extended only to what they characterized as acts of self-defense so that Ukraine could protect Kharkiv, its second-largest city.",
+      "abstract": "White House officials said the president’s major policy shift extended only to what they characterized as acts of self-defense so that Ukraine could protect Kharkiv, its second-largest city.",
+      "lead_paragraph": "President Biden, in a major shift pressed by his advisers and key allies, has authorized Ukraine to conduct limited strikes inside Russia with American-made weapons, opening what could well be a new chapter in the war for Ukraine, U.S. officials said on Thursday.",
+      "publication_date": "2024-05-30T20:28:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/30/us/politics/biden-ukraine-russia-weapons.html",
+      "byline": "By David E. Sanger and Edward Wong"
+    },
+    {
+      "headline": "Trump Had Good Fortune So Far With His Four Cases. Then Came a Verdict.",
+      "snippet": "Until the jury’s decision on Thursday, the four criminal cases that threatened Donald Trump’s freedom were stumbling along, pleasing his advisers.",
+      "abstract": "Until the jury’s decision on Thursday, the four criminal cases that threatened Donald Trump’s freedom were stumbling along, pleasing his advisers.",
+      "lead_paragraph": "Donald J. Trump’s run of luck in his criminal cases has expired.",
+      "publication_date": "2024-05-30T23:35:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/30/us/politics/trump-verdict-analysis.html",
+      "byline": "By Maggie Haberman and Jonathan Swan"
+    }
+  ]
+}

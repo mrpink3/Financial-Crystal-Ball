@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2017-06-30",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Projected Drop in Medicaid Spending Heightens Hurdle for G.O.P. Health Bill",
+      "snippet": "A Congressional Budget Office analysis showing a 35 percent decrease after two decades created a fresh challenge for Republican leaders trying to muster support for their repeal bill.",
+      "abstract": "A Congressional Budget Office analysis showing a 35 percent decrease after two decades created a fresh challenge for Republican leaders trying to muster support for their repeal bill.",
+      "lead_paragraph": "WASHINGTON — Projected Medicaid spending under a Senate Republican bill to repeal the Affordable Care Act would be 35 percent lower after two decades, the Congressional Budget Office said on Thursday in a new report, which detailed how Medicaid changes would cut more deeply as they go fully into force.",
+      "publication_date": "2017-06-29T19:40:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/29/us/politics/health-care-bill-senate-republicans.html",
+      "byline": "By Robert Pear and Thomas Kaplan"
+    },
+    {
+      "headline": "Administration Moves to Carry Out Partial Travel Ban",
+      "snippet": "Freed by the Supreme Court, the president issued an executive order partially reviving his travel ban on refugees and visitors from six mostly Muslim countries.",
+      "abstract": "Freed by the Supreme Court, the president issued an executive order partially reviving his travel ban on refugees and visitors from six mostly Muslim countries.",
+      "lead_paragraph": "WASHINGTON — The Trump administration moved aggressively on Thursday to fulfill one of the president’s most contentious campaign promises, banning entry into the United States by refugees from around the world and prohibiting most visitors from six predominantly Muslim countries.",
+      "publication_date": "2017-06-29T20:45:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/29/us/politics/travel-ban-trump-muslims.html",
+      "byline": "By Gardiner Harris, Michael D. Shear and Ron Nixon"
+    },
+    {
+      "headline": "Fear of an End to Easy Money Prompts Sell-Off",
+      "snippet": "A cautionary speech by Mario Draghi, the president of the European Central Bank spooked the European bond market, then selling spread to global stocks.",
+      "abstract": "A cautionary speech by Mario Draghi, the president of the European Central Bank spooked the European bond market, then selling spread to global stocks.",
+      "lead_paragraph": "Fears that central banks would unwind years of easy money policies rattled global markets on Thursday, prompting a sharp sell-off in European stocks and technology companies in the United States.",
+      "publication_date": "2017-06-30T00:30:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/29/business/dealbook/fear-of-an-end-to-easy-money-prompts-sell-off.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "All-Clear for Big Banks Raises Fears of a Return to Risk",
+      "snippet": "The Federal Reserve’s passing grade for all 34 institutions, the first all-clear since tests began, will have major consequences. The first: Surging bank stocks.",
+      "abstract": "The Federal Reserve’s passing grade for all 34 institutions, the first all-clear since tests began, will have major consequences. The first: Surging bank stocks.",
+      "lead_paragraph": "It took a decade — and $200 billion in fines — but the big banks are back.",
+      "publication_date": "2017-06-30T01:02:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/29/business/dealbook/banks-stress-test-dividends.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Solar Trade Case, With Trump as Arbiter, Could Upend Market",
+      "snippet": "American panel makers say below-cost sales by Chinese companies are ruining business. If tariffs result, installers and homeowners may suffer instead.",
+      "abstract": "American panel makers say below-cost sales by Chinese companies are ruining business. If tariffs result, installers and homeowners may suffer instead.",
+      "lead_paragraph": "Millions of Americans now get their electricity, at least in part, from the solar panels that have rapidly spread throughout the country since 2010, thanks to their sharply declining cost. For customers — including homeowners, businesses and utilities — as well as for the companies that promote and install them, cheap solar panels have been a good thing.",
+      "publication_date": "2017-06-30T09:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/30/business/energy-environment/solar-energy-trade-china-trump.html",
+      "byline": "By Diane Cardwell"
+    },
+    {
+      "headline": "‘Morning Joe’ Hosts and Trump Bring National Enquirer Into Their Feud",
+      "snippet": "In a bizarre back-and-forth on TV and Twitter, Mr. Trump squabbled with Mika Brzezinski and Joe Scarborough in a feud that included allegations of extortion.",
+      "abstract": "In a bizarre back-and-forth on TV and Twitter, Mr. Trump squabbled with Mika Brzezinski and Joe Scarborough in a feud that included allegations of extortion.",
+      "lead_paragraph": "President Trump remained embroiled in a rumpus with two cable talk-show hosts on Friday, a surreal dispute featuring allegations of extortion, dueling tweets and low-rent insults that has little precedent in recent political history.",
+      "publication_date": "2017-06-30T11:30:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/30/us/mika-brzezinski-trump-tweets.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Delete Hate Speech or Pay Up, Germany Tells Social Media Companies",
+      "snippet": "A new law will impose fines on companies like Facebook and Twitter if they fail to swiftly remove illegal or hateful content on their platforms.",
+      "abstract": "A new law will impose fines on companies like Facebook and Twitter if they fail to swiftly remove illegal or hateful content on their platforms.",
+      "lead_paragraph": "BERLIN — Social media companies operating in Germany face fines of as much as $57 million if they do not delete illegal, racist or slanderous comments and posts within 24 hours under a law passed on Friday.",
+      "publication_date": "2017-06-30T12:43:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/30/business/germany-facebook-google-twitter.html",
+      "byline": "By Melissa Eddy and Mark Scott"
+    }
+  ]
+}

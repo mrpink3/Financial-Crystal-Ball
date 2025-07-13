@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-06-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Drilling Ban Blocked; U.S. Will Issue New Order",
+      "snippet": "After a federal judge blocked a moratorium on deep-water drilling, Interior Secretary Ken Salazar said he would issue a new order with additional information showing why it was necessary.",
+      "abstract": "After a federal judge blocked a moratorium on deep-water drilling, Interior Secretary Ken Salazar said he would issue a new order with additional information showing why it was necessary.",
+      "lead_paragraph": "WASHINGTON  A federal judge in New Orleans on Tuesday blocked a six-month moratorium on deep-water drilling projects that the Obama administration imposed after the massive oil spill in the Gulf of Mexico. The White House swiftly vowed to appeal the ruling. ",
+      "publication_date": "2010-06-22T18:55:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/23/us/23drill.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "New iPhone Arrives; Rivals, Beware",
+      "snippet": "The iPhone 4 is slimmer, with an improved screen and audio. But it was a hit before the public knew that.",
+      "abstract": "The iPhone 4 is slimmer, with an improved screen and audio. But it was a hit before the public knew that.",
+      "lead_paragraph": "Apple’s new iPhone, its fourth in four years, reaches stores on Thursday. Ordinarily, this is where you’d expect to find a review of it. But honestly  what’s the point?",
+      "publication_date": "2010-06-22T22:02:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/23/technology/personaltech/23pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "When Caution Carries Risk",
+      "snippet": "Ben Bernanke thinks that growth is too slow but that it shouldn’t be accelerated. With unemployment high, that’s risky.",
+      "abstract": "Ben Bernanke thinks that growth is too slow but that it shouldn’t be accelerated. With unemployment high, that’s risky.",
+      "lead_paragraph": "WASHINGTON",
+      "publication_date": "2010-06-22T23:51:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/23/business/economy/23leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "U.A.W. Chief Is Taking On Toyota Plants",
+      "snippet": "The United Automobile Workers union is picking a fight with Toyota, in a bid to regain some of its clout.",
+      "abstract": "The United Automobile Workers union is picking a fight with Toyota, in a bid to regain some of its clout.",
+      "lead_paragraph": "DETROIT  Locked into concessions to the Detroit carmakers and with its membership at a 70-year low, the United Automobile Workers union is picking a fight with a longtime adversary, Toyota, in a bid to regain some of its clout.",
+      "publication_date": "2010-06-23T00:51:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/23/business/global/23uaw.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "JPMorgan Sets Sights Overseas",
+      "snippet": "The chief executive, Jamie Dimon, appointed a close lieutenant to a new position with a mandate to start a global corporate banking business.",
+      "abstract": "The chief executive, Jamie Dimon, appointed a close lieutenant to a new position with a mandate to start a global corporate banking business.",
+      "lead_paragraph": "JPMorgan Chase emerged from the financial crisis as one of the strongest banks on American soil. Now it wants to make up lost ground overseas. ",
+      "publication_date": "2010-06-23T01:26:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/23/business/23bank.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "Militant’s Path From Pakistan to Times Square",
+      "snippet": "Interviews with American officials suggest that Faisal Shahzad’s visits to Pakistan and the friendships he formed there were critical to his militant evolution. ",
+      "abstract": "Interviews with American officials suggest that Faisal Shahzad’s visits to Pakistan and the friendships he formed there were critical to his militant evolution. ",
+      "lead_paragraph": "As dawn broke on July 10, 2007, Pakistani commandos stormed the Red Mosque in Islamabad, ending a lengthy standoff with armed militants in a blaze of gunfire that left more than 100 dead. In Washington, officials applauded the siege as an important demonstration of Pakistan’s willingness to confront Islamist militants.",
+      "publication_date": "2010-06-23T01:33:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/23/world/23terror.html",
+      "byline": "By Andrea Elliott"
+    },
+    {
+      "headline": "Debit Card Raises the Cash-Back Reward",
+      "snippet": "Perk Street Financial says it can make money by offering customers 2 percent cash back on debit card purchases.",
+      "abstract": "Perk Street Financial says it can make money by offering customers 2 percent cash back on debit card purchases.",
+      "lead_paragraph": "At a time when many banks have become notorious for taking money away from checking account customers, a start-up is planning to double what it’s putting back in account holders’ wallets.",
+      "publication_date": "2010-06-23T03:01:36+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/23/your-money/23money.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "BP Executive Prepares to Take Over Spill Response",
+      "snippet": "Robert Dudley has plenty of experience dealing with a hostile government and angry citizens.",
+      "abstract": "Robert Dudley has plenty of experience dealing with a hostile government and angry citizens.",
+      "lead_paragraph": "HOUSTON  Faced with the continuing American furor over its gaffe-prone British chief executive, Tony Hayward, BP is putting a former Mississippi resident in charge of handling the Gulf of Mexico oil spill and its aftermath.",
+      "publication_date": "2010-06-23T03:03:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/23/business/23dudley.html",
+      "byline": "By Clifford Krauss and Andrew E. Kramer"
+    },
+    {
+      "headline": "Obama Says Afghan Policy Won’t Change After Dismissal",
+      "snippet": "President Obama removed Gen. Stanley A. McChrystal as commander of American forces in Afghanistan and tapped as his replacement Gen. David H. Petraeus. ",
+      "abstract": "President Obama removed Gen. Stanley A. McChrystal as commander of American forces in Afghanistan and tapped as his replacement Gen. David H. Petraeus. ",
+      "lead_paragraph": "WASHINGTON  President Obama on Wednesday fired his top Afghanistan war commander after only a brief meeting in the Oval Office, replacing Gen. Stanley A. McChrystal with his boss and mentor, Gen. David H. Petraeus, and sending a clear signal that the current war strategy will continue despite setbacks and growing public doubts.",
+      "publication_date": "2010-06-23T04:47:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/24/us/politics/24mcchrystal.html",
+      "byline": "By Helene Cooper and David E. Sanger"
+    },
+    {
+      "headline": "U.S. New Home Sales Drop 33% in May",
+      "snippet": "Sales of new single-family homes tumbled more than expected as the effects of a tax credit faded. ",
+      "abstract": "Sales of new single-family homes tumbled more than expected as the effects of a tax credit faded. ",
+      "lead_paragraph": "The new housing market has never been this bad, at least not since the government started tracking such things in 1963.",
+      "publication_date": "2010-06-23T14:14:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/24/business/economy/24home.html",
+      "byline": "By David Streitfeld"
+    }
+  ]
+}

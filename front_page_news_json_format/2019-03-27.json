@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-03-27",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Democrats Pivot Hard to Health Care After Trump Moves to Strike Down Affordable Care Act",
+      "snippet": "A Justice Department motion to invalidate the entire Affordable Care Act gave Democrats an opening to press their health care agenda and move beyond the Mueller report.",
+      "abstract": "A Justice Department motion to invalidate the entire Affordable Care Act gave Democrats an opening to press their health care agenda and move beyond the Mueller report.",
+      "lead_paragraph": "WASHINGTON — The Trump administration’s decision to ask a federal appeals court to invalidate the Affordable Care Act has given House Democrats a new opening to pursue what they see as a winning political strategy: moving past talk of impeachment to put kitchen-table issues like health care front and center.",
+      "publication_date": "2019-03-26T16:01:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/26/us/politics/democrats-trump-affordable-care-act.html",
+      "byline": "By Sheryl Gay Stolberg and Robert Pear"
+    },
+    {
+      "headline": "Inside Google’s Rebooted Robotics Program",
+      "snippet": "In 2013, the company started an ambitious, flashy effort to create robots. Now, its goals are more modest, but the technology is subtly more advanced.",
+      "abstract": "In 2013, the company started an ambitious, flashy effort to create robots. Now, its goals are more modest, but the technology is subtly more advanced.",
+      "lead_paragraph": "MOUNTAIN VIEW, Calif. — Google has quietly been retooling an ambitious but troubled robotics program that was once led by an executive who left the company amid accusations of sexual harassment. ",
+      "publication_date": "2019-03-26T17:25:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/26/technology/google-robotics-lab.html",
+      "byline": "By Cade Metz, Brian Dawson and Meg Felling"
+    },
+    {
+      "headline": "After Boeing Crashes, Sharp Questions About Industry Regulating Itself",
+      "snippet": "Long before the grounding of the 737 Max, the F.A.A. faced scrutiny over its longtime practice of giving manufacturers the authority to help certify their own planes.",
+      "abstract": "Long before the grounding of the 737 Max, the F.A.A. faced scrutiny over its longtime practice of giving manufacturers the authority to help certify their own planes.",
+      "lead_paragraph": "WASHINGTON — Seven years ago, an internal government watchdog took a hard look at the part of the Federal Aviation Administration responsible for certifying new Boeing jetliners. The watchdog’s investigation came to some alarming conclusions.",
+      "publication_date": "2019-03-26T17:42:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/26/us/politics/boeing-faa.html",
+      "byline": "By Thomas Kaplan"
+    },
+    {
+      "headline": "Mueller’s Investigation Erases a Line Drawn After Watergate",
+      "snippet": "The special counsel’s decision not to take a position on whether President Trump’s norm-shattering actions constituted obstruction means future presidents will feel entitled to make similar moves.",
+      "abstract": "The special counsel’s decision not to take a position on whether President Trump’s norm-shattering actions constituted obstruction means future presidents will feel entitled to make similar moves.",
+      "lead_paragraph": "WASHINGTON — After Watergate, it was unthinkable that a president would fire an F.B.I. director who was investigating him or his associates. Or force out an attorney general for failing to protect him from an investigation. Or dangle pardons before potential witnesses against him.",
+      "publication_date": "2019-03-27T00:09:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/26/us/politics/mueller-investigation-watergate.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Protecting Your Internet Accounts Keeps Getting Easier. Here’s How to Do It.",
+      "snippet": "There are many tools for setting up two-factor authentication, a security mechanism that prevents improper access. These four methods are the most compelling.",
+      "abstract": "There are many tools for setting up two-factor authentication, a security mechanism that prevents improper access. These four methods are the most compelling.",
+      "lead_paragraph": "When Facebook revealed last week that it had stored millions of people’s account passwords in an insecure format, it underlined the importance of a security setting that many of us neglect to use: two-factor authentication.",
+      "publication_date": "2019-03-27T08:27:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/27/technology/personaltech/two-step-authentication.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "19th-Century ‘Humiliation’ Haunts China-U.S. Trade Talks",
+      "snippet": "China’s surrender to Western powers after the first Opium War helps explain Beijing’s interest for a global trading order that works more on its terms, historians say.",
+      "abstract": "China’s surrender to Western powers after the first Opium War helps explain Beijing’s interest for a global trading order that works more on its terms, historians say.",
+      "lead_paragraph": "WASHINGTON — When President Trump’s trade team presented Chinese officials with a list of bold economic demands in Beijing last May, one of China’s state-controlled news outlets, Global Times, panned the request and blared a curious headline: “Is it now 1840?”",
+      "publication_date": "2019-03-27T09:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/27/us/politics/china-opium-wars-trade-talks.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "‘Newark’s Original Sin’ and the Criminal Justice Education of Cory Booker",
+      "snippet": "Mr. Booker’s road from enforcer to reformer began with rocky oversight of the Newark Police Department.",
+      "abstract": "Mr. Booker’s road from enforcer to reformer began with rocky oversight of the Newark Police Department.",
+      "lead_paragraph": "NEWARK — After football practice one summer evening in 2008, a Pop Warner league coach and two of his players were driving through the Clinton Hill section of Newark when a car swerved and blocked their path. Suddenly six police officers emerged from unmarked vehicles and forced them out of their car at gunpoint.",
+      "publication_date": "2019-03-27T09:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/27/us/politics/cory-booker-2020-criminal-justice.html",
+      "byline": "By Nick Corasaniti and Stephanie Saul"
+    },
+    {
+      "headline": "Alternate Brexit Plans Rejected; Theresa May Offers to Step Down",
+      "snippet": "The British prime minister did not specify when she would step down, but the European Union has said that it would approve an extension in the Brexit process to May 22, if her plan gained approval.",
+      "abstract": "The British prime minister did not specify when she would step down, but the European Union has said that it would approve an extension in the Brexit process to May 22, if her plan gained approval.",
+      "lead_paragraph": "LONDON — In a last-ditch effort to try to get Parliament to pass her plan for Britain to leave the European Union, Prime Minister Theresa May on Wednesday offered to step down and allow another prime minister who has the confidence of her party and lawmakers to negotiate the final details.",
+      "publication_date": "2019-03-27T10:59:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/27/world/europe/theresa-may-resignation.html",
+      "byline": "By Stephen Castle"
+    },
+    {
+      "headline": "Centene to Buy WellCare for $15.3 Billion, Creating Health Care Giant",
+      "snippet": "As the Affordable Care Act comes under renewed attack, Centene is betting big on government-funded health care.",
+      "abstract": "As the Affordable Care Act comes under renewed attack, Centene is betting big on government-funded health care.",
+      "lead_paragraph": "Centene, a major insurer that has significantly expanded under the Affordable Care Act, is making a bold bet as the Trump administration renews its attacks on the federal health law.",
+      "publication_date": "2019-03-27T12:58:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/27/business/dealbook/centene-wellcare-affordable-care-act.html",
+      "byline": "By Reed Abelson and Michael J. de la Merced"
+    },
+    {
+      "headline": "No Earrings, Tattoos or Cleavage: Inside China’s War on Fun",
+      "snippet": "The Communist Party wants to instill the people with “core socialist values.” That means winnowing out content that extols individualism or hedonism.",
+      "abstract": "The Communist Party wants to instill the people with “core socialist values.” That means winnowing out content that extols individualism or hedonism.",
+      "lead_paragraph": "China is waging a war on fun. The latest target: men’s earrings.",
+      "publication_date": "2019-03-27T15:14:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/27/business/china-war-on-fun-earrings-tattoos.html",
+      "byline": "By Li Yuan"
+    }
+  ]
+}

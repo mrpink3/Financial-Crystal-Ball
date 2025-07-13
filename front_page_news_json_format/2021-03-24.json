@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-03-24",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "With Fewer Ads on Streaming, Brands Make More Movies",
+      "snippet": "As streaming video has gained in importance during the pandemic, advertisers have put more focus on Hollywood-level branded content as a way to reach viewers.",
+      "abstract": "As streaming video has gained in importance during the pandemic, advertisers have put more focus on Hollywood-level branded content as a way to reach viewers.",
+      "lead_paragraph": "When the N.B.A. shut down its season last year because of the pandemic, one of the first phone calls Chris Paul made was to the Hollywood producer Brian Grazer. Mr. Paul, then a point guard with the Oklahoma Thunder, knew he wanted to chronicle what was going on, and he wanted Mr. Grazer’s help.",
+      "publication_date": "2021-03-23T19:22:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/23/business/media/branded-content-movies.html",
+      "byline": "By Nicole Sperling and Tiffany Hsu"
+    },
+    {
+      "headline": "Stock Rally Poses Question: When Does a Bull Become a Bubble?",
+      "snippet": "The bull market, born out of the pandemic, has turned a year old. The remarkable turnaround has some analysts wondering if the breakneck pace is sustainable.",
+      "abstract": "The bull market, born out of the pandemic, has turned a year old. The remarkable turnaround has some analysts wondering if the breakneck pace is sustainable.",
+      "lead_paragraph": "The bull market turned a year old on Tuesday, a testament to the unbridled enthusiasm that let investors shrug off the economic carnage of the pandemic and buy stocks — and pretty much anything else.",
+      "publication_date": "2021-03-23T22:24:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/23/business/stocks-bull-market-bubble.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Biden Seeks Assault Weapons Ban and Background Checks",
+      "snippet": "After the second mass shooting in a week, the president said tighter gun laws should not be a partisan issue, but Republicans in Congress showed little interest in Democratic proposals.",
+      "abstract": "After the second mass shooting in a week, the president said tighter gun laws should not be a partisan issue, but Republicans in Congress showed little interest in Democratic proposals.",
+      "lead_paragraph": "WASHINGTON — Faced with the second mass shooting in a week, President Biden and Democrats on Capitol Hill called on Tuesday for fast action to enact stricter gun laws, a plea that was immediately met with a blockade of opposition by Republicans.",
+      "publication_date": "2021-03-23T23:54:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/23/us/politics/biden-gun-control.html",
+      "byline": "By Annie Karni and Catie Edmondson"
+    },
+    {
+      "headline": "Boulder Shooting Survivors Describe ‘Listening to Him Kill Everyone You Know’",
+      "snippet": "A deadly shooting at a Boulder supermarket left 10 people dead and a state full of grief and fury that it had happened again.",
+      "abstract": "A deadly shooting at a Boulder supermarket left 10 people dead and a state full of grief and fury that it had happened again.",
+      "lead_paragraph": "BOULDER, Colo. — They came to the King Soopers grocery store on a gray Monday afternoon fulfilling life’s little missions: One woman was picking up a prescription. A retiree was fetching an online order for her side gig delivering groceries. A 25-year-old manager was at the front of the store, as always, happy to help.",
+      "publication_date": "2021-03-24T00:07:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/23/us/boulder-shooting.html",
+      "byline": "By Jack Healy and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "‘Beyond Comprehension:’ 10 Lives Lost in Boulder",
+      "snippet": "Ten people were shot to death at a Colorado grocery store on Monday. The victims included a police officer who was among the first to arrive on the scene.",
+      "abstract": "Ten people were shot to death at a Colorado grocery store on Monday. The victims included a police officer who was among the first to arrive on the scene.",
+      "lead_paragraph": "Eric Talley, 51, had already had a career working in the tech industry when he shifted course at age 40 and joined the Boulder Police Department.",
+      "publication_date": "2021-03-24T00:12:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/23/us/colorado-shooting-victims.html",
+      "byline": "By Shawn Hubler, Giulia McDonnell Nieto del Rio, Marie Fazio and Manny Fernandez"
+    },
+    {
+      "headline": "What a Gambling App Knows About You",
+      "snippet": "Sky Bet, the most popular one in Britain, compiled extensive records about a user, tracking him in ways he never imagined.",
+      "abstract": "Sky Bet, the most popular one in Britain, compiled extensive records about a user, tracking him in ways he never imagined.",
+      "lead_paragraph": "LONDON — When Gregg finally stopped gambling in late 2018, he was in a dire financial position. He had lost nearly $15,000 during a nine-month betting binge, on top of two outstanding loans totaling more than $70,000 and a mortgage of more than $150,000 on his small home in Britain.",
+      "publication_date": "2021-03-24T07:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/24/technology/gambling-apps-tracking-sky-bet.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Coinbase Users Say Crypto Start-Up Ignored Their Pleas for Help",
+      "snippet": "As Coinbase prepares to be the first major cryptocurrency company to go public, it is struggling with basic customer service, users said.",
+      "abstract": "As Coinbase prepares to be the first major cryptocurrency company to go public, it is struggling with basic customer service, users said.",
+      "lead_paragraph": "Michael Pierre was sitting in his Brooklyn apartment last summer when he received a text on his iPhone from an unknown number, then immediately lost service. Worried his phone was being hacked, he quickly checked his most valued app: Coinbase, a cryptocurrency company where he had stored digital coins worth $100,000.",
+      "publication_date": "2021-03-24T09:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/24/technology/coinbase-bitcoin-complaints.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "Hong Kong Halts Use of Pfizer-BioNTech Vaccine Over Packaging Defects",
+      "snippet": "Officials said they had found no health risks, but the move deals a blow to the Chinese city’s already troubled inoculation campaign.",
+      "abstract": "Officials said they had found no health risks, but the move deals a blow to the Chinese city’s already troubled inoculation campaign.",
+      "lead_paragraph": "Hong Kong suspended use of the Pfizer-BioNTech vaccine on Wednesday after packaging defects ranging from cracked containers to loose caps were discovered in one batch of doses, a major blow to a city already struggling in its campaign to inoculate its seven million residents against Covid-19.",
+      "publication_date": "2021-03-24T10:53:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/24/business/hong-kong-pfizer-biontech-vaccine.html",
+      "byline": "By Sui-Lee Wee, Alexandra Stevenson and Tiffany May"
+    },
+    {
+      "headline": "How a Stabbing in Israel Echoes Through the Fight Over Online Speech",
+      "snippet": "Lawyers, judges and lawmakers are advancing a bold idea: The powerful algorithms used by Facebook, YouTube and Twitter could make them complicit in offline crimes.",
+      "abstract": "Lawyers, judges and lawmakers are advancing a bold idea: The powerful algorithms used by Facebook, YouTube and Twitter could make them complicit in offline crimes.",
+      "lead_paragraph": "WASHINGTON — Stuart Force says he found solace on Facebook after his son was stabbed to death in Israel by a member of the militant group Hamas in 2016. He turned to the site to read hundreds of messages offering condolences on his son’s page.",
+      "publication_date": "2021-03-24T13:27:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "Buy This Column on the Blockchain!",
+      "snippet": "Why can’t a journalist join the NFT party, too?",
+      "abstract": "Why can’t a journalist join the NFT party, too?",
+      "lead_paragraph": "To hear more audio stories from publishers like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-03-24T16:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/24/technology/nft-column-blockchain.html",
+      "byline": "By Kevin Roose"
+    }
+  ]
+}

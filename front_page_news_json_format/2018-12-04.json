@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-12-04",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Stung by Election Losses, Republicans in the States Seek a Way to Neutralize Democrats",
+      "snippet": "Democrats in Wisconsin say Republican proposals for slashing the incoming governor’s authority are a blatant power grab after voters ousted the sitting Republican.",
+      "abstract": "Democrats in Wisconsin say Republican proposals for slashing the incoming governor’s authority are a blatant power grab after voters ousted the sitting Republican.",
+      "lead_paragraph": "MADISON, Wis. — When Democrats won the governor’s office in Wisconsin, it was one of the party’s most celebrated midterm successes in regaining power in the states. Now Republicans are striking back, moving to slash the power of the new governor even before he takes the oath of office.",
+      "publication_date": "2018-12-03T17:50:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/03/us/wisconsin-lawmakers-republicans-power.html",
+      "byline": "By Mitch Smith and Monica Davey"
+    },
+    {
+      "headline": "Netanyahu’s Obsession With Image Could Be His Downfall",
+      "snippet": "Israel’s prime minister faces corruption accusations arising from his efforts to control his portrayal in the news media.",
+      "abstract": "Israel’s prime minister faces corruption accusations arising from his efforts to control his portrayal in the news media.",
+      "lead_paragraph": "JERUSALEM — In a fiery Hanukkah speech to his fellow Likud party stalwarts a year ago, Prime Minister Benjamin Netanyahu blamed the Israeli left for the corruption investigations engulfing him, saying that because his opponents couldn’t defeat him at the ballot box, “they tried to beat us with slander.”",
+      "publication_date": "2018-12-03T18:46:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/03/world/middleeast/netanyahu-corruption-israel.html",
+      "byline": "By David M. Halbfinger"
+    },
+    {
+      "headline": "Trump Says China Will Curtail Fentanyl. The U.S. Has Heard That Before.",
+      "snippet": "The Trump administration said China had agreed to make the potent drug a controlled substance, a move that would have major implications for America’s opioid crisis.",
+      "abstract": "The Trump administration said China had agreed to make the potent drug a controlled substance, a move that would have major implications for America’s opioid crisis.",
+      "lead_paragraph": "BEIJING — China vows to stem the supply of the powerful opioid fentanyl flowing into the United States. It pledges to target exports of fentanyl-related substances bound for the United States that are prohibited there, while sharing information with American law-enforcement authorities.",
+      "publication_date": "2018-12-03T18:51:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/03/business/fentanyl-china-trump.html",
+      "byline": "By Sui-Lee Wee"
+    },
+    {
+      "headline": "With U.S. Soil Achingly Close, Decision Time for Caravan Migrants",
+      "snippet": "Migrants in Tijuana who imagined the United States would throw open its gates at the last moment now know better. Some are trying to breach them.",
+      "abstract": "Migrants in Tijuana who imagined the United States would throw open its gates at the last moment now know better. Some are trying to breach them.",
+      "lead_paragraph": "TIJUANA, Mexico — The 30 migrants were huddled under a tree on a cold night as an American government helicopter hovered overhead, its searchlight sweeping the tree’s boughs and the hard earth around it. From where they crouched, the men, women and children could see American soil only yards away, on the other side of the tall border fence separating Mexico from the United States.",
+      "publication_date": "2018-12-03T18:52:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/03/world/americas/migrant-caravans-tijuana.html",
+      "byline": "By Maya Averbuch and Kirk Semple"
+    },
+    {
+      "headline": "The Race Is On to Protect Data From the Next Leap in Computers. And China Has the Lead.",
+      "snippet": "China is investing in quantum encryption that could be far tougher to crack than today’s security methods. Now the United States is trying to catch up.",
+      "abstract": "China is investing in quantum encryption that could be far tougher to crack than today’s security methods. Now the United States is trying to catch up.",
+      "lead_paragraph": "SAN FRANCISCO — The world’s leading technology companies, from Google to Alibaba in China, are racing to build the first quantum computer, a machine that would be far more powerful than today’s computers.",
+      "publication_date": "2018-12-04T00:19:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/03/technology/quantum-encryption.html",
+      "byline": "By Cade Metz and Raymond Zhong"
+    },
+    {
+      "headline": "Marriott Hack Adds Passport Headache, but Its Intensity Is in Dispute",
+      "snippet": "The hotel chain hasn’t said how many of the 500 million customers affected by a data breach had their passport numbers stolen. But the State Department and privacy experts disagree on the danger.",
+      "abstract": "The hotel chain hasn’t said how many of the 500 million customers affected by a data breach had their passport numbers stolen. But the State Department and privacy experts disagree on the danger.",
+      "lead_paragraph": "It has become a familiar dance: A company reports a data breach, and you dutifully change your passwords, ask for a new credit card and hope your information doesn’t end up for sale on the dark web. But the hack that last week engulfed Marriott — and 500 million of its customers — has added a new step: Your passport might be at risk, too. ",
+      "publication_date": "2018-12-04T00:36:24+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/03/your-money/marriott-hack-passports.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

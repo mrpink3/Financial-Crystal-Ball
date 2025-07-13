@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-01-26",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Fresh Off a Massachusetts Victory, G.O.P. Aims at Illinois",
+      "snippet": "As Illinois prepares for its primaries, Scott Brown’s election last week has raised Republican hopes of taking the Senate seat once held by Barack Obama.",
+      "abstract": "As Illinois prepares for its primaries, Scott Brown’s election last week has raised Republican hopes of taking the Senate seat once held by Barack Obama.",
+      "lead_paragraph": "CHICAGO  Republicans in Illinois hold no statewide offices, are minorities in both chambers of the State Legislature and struggle some years to recruit viable candidates even at the top of the ballot.",
+      "publication_date": "2010-01-25T20:09:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/26/us/26illinois.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "CBS Strains to Give Show a Head Start",
+      "snippet": "CBS is cutting deals with stations to distribute new shows, like Nancy Grace’s, that it hopes will help fill the void when Oprah Winfrey moves to cable.",
+      "abstract": "CBS is cutting deals with stations to distribute new shows, like Nancy Grace’s, that it hopes will help fill the void when Oprah Winfrey moves to cable.",
+      "lead_paragraph": "LAS VEGAS  CBS had to barter, literally, with television stations to secure time slots for its new syndicated show starring Nancy Grace, the tenacious former prosecutor.",
+      "publication_date": "2010-01-26T01:14:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/26/business/media/26grace.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "Obama to Seek Spending Freeze to Trim Deficits",
+      "snippet": "President Obama will call for a three-year freeze in spending on many domestic programs, in a move meant to signal seriousness about cutting the budget deficit.",
+      "abstract": "President Obama will call for a three-year freeze in spending on many domestic programs, in a move meant to signal seriousness about cutting the budget deficit.",
+      "lead_paragraph": "WASHINGTON  President Obama will call for a three-year freeze in spending on many domestic programs, and for increases no greater than inflation after that, an initiative intended to signal his seriousness about cutting the budget deficit, administration officials said Monday. ",
+      "publication_date": "2010-01-26T01:15:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/26/us/politics/26budget.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Still Needed: A Sheriff of Finance",
+      "snippet": "Efforts to rein in the world financial system will be no better than parochial without a global authority.",
+      "abstract": "Efforts to rein in the world financial system will be no better than parochial without a global authority.",
+      "lead_paragraph": "“We need a global sheriff.”",
+      "publication_date": "2010-01-26T01:34:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/26/business/26sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "In Digital Combat, U.S. Finds No Easy Deterrent",
+      "snippet": "The U.S. is developing a strategy to deal with cyberspace attacks, a task complicated by the problem of identifying the enemy.",
+      "abstract": "The U.S. is developing a strategy to deal with cyberspace attacks, a task complicated by the problem of identifying the enemy.",
+      "lead_paragraph": "This article was reported by John Markoff, David E. Sanger and Thom Shanker, and written by Mr. Sanger.",
+      "publication_date": "2010-01-26T01:59:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/26/world/26cyber.html",
+      "byline": "By John Markoff, David E. Sanger and Thom Shanker"
+    },
+    {
+      "headline": "With Apple Tablet, Print Media Hope for a Payday",
+      "snippet": "Apple is expected to market its tablet computer not just as a way to read news and books, but also as a way for companies to charge for content.",
+      "abstract": "Apple is expected to market its tablet computer not just as a way to read news and books, but also as a way for companies to charge for content.",
+      "lead_paragraph": "SAN FRANCISCO  With the widely anticipated introduction of a tablet computer at an event here on Wednesday morning, Apple may be giving the media industry a kind of time machine  a chance to undo mistakes of the past.",
+      "publication_date": "2010-01-26T02:10:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/26/technology/26apple.html",
+      "byline": "By Brad Stone and Stephanie Clifford"
+    },
+    {
+      "headline": "An Investigator Presses to Uncover Bailout Abuse",
+      "snippet": "A special inspector general shows a willingness to stand up to powerful institutions of Washington and Wall Street.",
+      "abstract": "A special inspector general shows a willingness to stand up to powerful institutions of Washington and Wall Street.",
+      "lead_paragraph": "Neil M. Barofsky is not a household name like some special investigators of the past  Kenneth Starr during the Clinton administration or Archibald Cox in the Watergate years. ",
+      "publication_date": "2010-01-26T02:16:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/26/business/26tarp.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "U.S. Envoy’s Cables Show Worries on Afghan Plans",
+      "snippet": "The ambassador in Kabul offered a bleak accounting of the Afghan leadership and the risks of sending more troops.",
+      "abstract": "The ambassador in Kabul offered a bleak accounting of the Afghan leadership and the risks of sending more troops.",
+      "lead_paragraph": "WASHINGTON  The United States ambassador in Kabul warned his superiors here in November that President Hamid Karzai of Afghanistan “is not an adequate strategic partner” and “continues to shun responsibility for any sovereign burden,” according to a classified cable that offers a much bleaker accounting of the risks of sending additional American troops to Afghanistan than was previously known. ",
+      "publication_date": "2010-01-26T02:21:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/26/world/asia/26strategy.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Bernanke Is Gaining Supporters",
+      "snippet": "Even if Democratic leaders get the votes necessary to surmount a threatened filibuster, the Fed’s reputation appears to have been tarnished.",
+      "abstract": "Even if Democratic leaders get the votes necessary to surmount a threatened filibuster, the Fed’s reputation appears to have been tarnished.",
+      "lead_paragraph": "WASHINGTON  The Federal Reserve committee that sets the nation’s monetary policy will begin its first meeting of 2010 on Tuesday with a critical question hanging in the air: how the Fed’s chairman, Ben S. Bernanke, will emerge from the bruising fight over his nomination to a second four-year term.",
+      "publication_date": "2010-01-26T02:48:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/26/business/economy/26fed.html",
+      "byline": "By Sewell Chan"
+    },
+    {
+      "headline": "Wind Power Grows 39% for the Year",
+      "snippet": "The growth was spurred by a federal stimulus package, but the advance could slow this year as the effects of the 2009 recession kick in.",
+      "abstract": "The growth was spurred by a federal stimulus package, but the advance could slow this year as the effects of the 2009 recession kick in.",
+      "lead_paragraph": "Despite a crippling recession and tight credit markets, the American wind power industry grew at a blistering pace in 2009, adding 39 percent more capacity. The country is close to the point where 2 percent of its electricity will come from wind turbines.",
+      "publication_date": "2010-01-26T05:02:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/26/business/energy-environment/26wind.html",
+      "byline": "By Jad Mouawad"
+    }
+  ]
+}

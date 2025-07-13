@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-08-30",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Postal Service Overhaul Runs Into Challenges",
+      "snippet": "Louis DeJoy, the postmaster general, defended the 10-year plan to stabilize the agency’s finances, although he acknowledged that officials had faced initial challenges.",
+      "abstract": "Louis DeJoy, the postmaster general, defended the 10-year plan to stabilize the agency’s finances, although he acknowledged that officials had faced initial challenges.",
+      "lead_paragraph": "More than three years ago, the U.S. Postal Service unveiled a sweeping 10-year plan meant to steer the organization out of a financial crisis. The plan, which included consolidating locations, raising prices and lengthening promised delivery times, was meant to stabilize an agency that had lost $87 billion over the past 14 years.",
+      "publication_date": "2024-08-29T17:31:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/29/us/politics/postal-service-changes-dejoy.html",
+      "byline": "By Madeleine Ngo"
+    },
+    {
+      "headline": "How Biden’s Senate Allies Helped Push Him From the Race",
+      "snippet": "The president’s allies in the chamber he so revered feared he would drag them down and spoil his own legacy, and played a more assertive role than was previously known in his stepping aside.",
+      "abstract": "The president’s allies in the chamber he so revered feared he would drag them down and spoil his own legacy, and played a more assertive role than was previously known in his stepping aside.",
+      "lead_paragraph": "Senator Jack Reed, the West Point graduate, Army veteran and Rhode Island Democrat who leads the Armed Services Committee, is hardly known as a troublemaker prone to rash statements.",
+      "publication_date": "2024-08-29T17:51:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/29/us/politics/senate-democrats-biden-drop-out.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Telegram Founder’s Indictment Thrusts Encryption Into the Spotlight",
+      "snippet": "The criminal charges against Pavel Durov, Telegram’s founder, raised concerns in Silicon Valley about encryption and the app’s approach to privacy and security.",
+      "abstract": "The criminal charges against Pavel Durov, Telegram’s founder, raised concerns in Silicon Valley about encryption and the app’s approach to privacy and security.",
+      "lead_paragraph": "When French prosecutors charged Pavel Durov, the chief executive of the messaging app Telegram, with a litany of criminal offenses on Wednesday, one accusation stood out to Silicon Valley companies.",
+      "publication_date": "2024-08-29T19:40:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/29/technology/telegram-encryption-pavel-durov.html",
+      "byline": "By Mike Isaac and Sheera Frenkel"
+    },
+    {
+      "headline": "Donors Quietly Push Harris to Drop Tax on Ultrawealthy",
+      "snippet": "Vice President Kamala Harris’s fund-raising has benefited from a surge of interest from Silicon Valley and Wall Street.",
+      "abstract": "Vice President Kamala Harris’s fund-raising has benefited from a surge of interest from Silicon Valley and Wall Street.",
+      "lead_paragraph": "Donors to Vice President Kamala Harris’s campaign are pushing her to reconsider supporting a proposed tax on the wealthiest Americans, as some Wall Street and Silicon Valley executives try to reshape the Democratic nominee’s governing agenda.",
+      "publication_date": "2024-08-29T21:56:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/29/us/politics/donors-harris-tax-ultrawealthy.html",
+      "byline": "By Andrew Duehren and Theodore Schleifer"
+    },
+    {
+      "headline": "Silicon Valley Wants to Fight Fires With Fire",
+      "snippet": "How some high-tech entrepreneurs are trying to use new forms of technology to solve the problem of mega-wildfires in the age of climate change.",
+      "abstract": "How some high-tech entrepreneurs are trying to use new forms of technology to solve the problem of mega-wildfires in the age of climate change.",
+      "lead_paragraph": "This is the tinder box of the Sierra Nevada. It’s early June, the temperature is 97 degrees Fahrenheit and the air shimmers over dead trees choked in brush. In the Stanislaus National Forest, logging roads wind through firs and ponderosa pines, past 20-foot-tall burn piles — tons of scrap wood not worth bringing to a sawmill. They’ve been assembled by workers on the front line of the fight against forest fires: a timber crew thinning these woods for the U.S. Forest Service and a tech start-up that’s trying to automate the enormous machines the crew relies on.",
+      "publication_date": "2024-08-30T09:01:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2024/08/30/business/wildfires-startups-silicon-valley.html",
+      "byline": "By Tim Fernholz and Ian C. Bates"
+    },
+    {
+      "headline": "The Fed’s Preferred Inflation Gauge Stays Cool, Keeping a Rate Cut Imminent",
+      "snippet": "Inflation remained cool in July, based on the Personal Consumption Expenditures index, keeping the Federal Reserve on track for rate cuts.",
+      "abstract": "Inflation remained cool in July, based on the Personal Consumption Expenditures index, keeping the Federal Reserve on track for rate cuts.",
+      "lead_paragraph": "Inflation held steady in July on a yearly basis and consumer spending was robust, fresh data released on Friday showed, the latest sign that progress toward cooler price increases remains firmly intact even as the economy holds up.",
+      "publication_date": "2024-08-30T12:52:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/30/business/economy/pce-inflation-fed-interest-rate.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

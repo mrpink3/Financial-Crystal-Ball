@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2024-02-01",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "The First Lady and the Dior Pouch: A Political Crisis Grips South Korea",
+      "snippet": "A scandal involving the president’s spouse has become a major issue for his party ahead of a crucial parliamentary election.",
+      "abstract": "A scandal involving the president’s spouse has become a major issue for his party ahead of a crucial parliamentary election.",
+      "lead_paragraph": "The president was grappling with a slowing economy, a deadly crowd crush and nuclear threats from a belligerent neighbor. Then came a much more personal scandal: spy cam footage that showed his wife accepting a $2,200 Dior pouch as a gift.",
+      "publication_date": "2024-02-01T05:01:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/01/world/asia/south-korea-first-lady-dior.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "A.I. Fuels a New Era of Product Placement",
+      "snippet": "Realistic-looking shampoo bottles and seltzer cans are popping up on videos from digital creators on TikTok and YouTube in a new form of old advertising.",
+      "abstract": "Realistic-looking shampoo bottles and seltzer cans are popping up on videos from digital creators on TikTok and YouTube in a new form of old advertising.",
+      "lead_paragraph": "Product placement, one of the oldest tricks in advertisers’ toolbox, is getting an A.I. makeover.",
+      "publication_date": "2024-02-01T10:00:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/01/business/media/artificial-intelligence-product-placement.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "‘Shame on Us’: How Maine Struggles to Handle Troubled Youth",
+      "snippet": "Even as fewer teens are being prosecuted, the state is not providing enough intervention, rehabilitation and other help.",
+      "abstract": "Even as fewer teens are being prosecuted, the state is not providing enough intervention, rehabilitation and other help.",
+      "lead_paragraph": "Nearly three years ago, Maine lawmakers hoped to be in the vanguard of a national movement to transform how governments deal with teenagers who break the law.",
+      "publication_date": "2024-02-01T10:01:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/01/us/maine-prison-juvenile-justice.html",
+      "byline": "By Callie Ferguson and Ashley L. Conti"
+    },
+    {
+      "headline": "Bullfighting Returns to Its Largest Arena. A Fight Over Its Future Goes On.",
+      "snippet": "After a nearly two-year ban, a legal ruling brought bullfights back to La Plaza México in Mexico City. But the fight continues after a federal judge again stopped the events.",
+      "abstract": "After a nearly two-year ban, a legal ruling brought bullfights back to La Plaza México in Mexico City. But the fight continues after a federal judge again stopped the events.",
+      "lead_paragraph": "Feb. 2, 2024: This article has been updated to reflect a court ruling on Friday that allowed bullfighting at the Mexico City arena to resume.",
+      "publication_date": "2024-02-01T10:02:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/01/world/americas/bullfighting-mexico.html",
+      "byline": "By James Wagner and Luis Antonio Rojas"
+    },
+    {
+      "headline": "When the Storm Online Is Worse Than the One Outside",
+      "snippet": "Meteorologists and climate scientists are increasingly having to combat misinformation cycles on social media.",
+      "abstract": "Meteorologists and climate scientists are increasingly having to combat misinformation cycles on social media.",
+      "lead_paragraph": "Last week, as Californians braced for heavy weather, forecasters found themselves engulfed in a sudden online storm.",
+      "publication_date": "2024-02-01T10:03:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/01/us/storm-misinformation-viral-social.html",
+      "byline": "By Shawn Hubler"
+    },
+    {
+      "headline": "How a Game of Good Cop-Bad Cop Sealed the E.U. Ukraine Fund Deal",
+      "snippet": "Top European leaders coordinated to get the Hungarian prime minister, Viktor Orban, to agree to the 50-billion-euro plan aimed at keeping Ukraine’s economy afloat during the war with Russia.",
+      "abstract": "Top European leaders coordinated to get the Hungarian prime minister, Viktor Orban, to agree to the 50-billion-euro plan aimed at keeping Ukraine’s economy afloat during the war with Russia.",
+      "lead_paragraph": "Some European leaders jested they’d send Prime Minister Viktor Orban of Hungary their hotel bills for the extra nights they had to spend in Brussels to convince him to support funding for Ukraine.",
+      "publication_date": "2024-02-01T10:46:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/01/world/europe/eu-hungary-ukraine-fund.html",
+      "byline": "By Matina Stevis-Gridneff, Monika Pronczuk and Jason Horowitz"
+    },
+    {
+      "headline": "Apple Has a New Plan for Its App Store. Many Developers Hate It.",
+      "snippet": "To comply with European regulations, Apple has proposed reducing its commission on app sales while adding new fees and hurdles.",
+      "abstract": "To comply with European regulations, Apple has proposed reducing its commission on app sales while adding new fees and hurdles.",
+      "lead_paragraph": "After 15 years of dictating how apps are distributed on iPhones, Apple has been forced to take marching orders from European regulators. A new law to bolster tech competition has demanded that Apple open its devices to competing app stores and payment alternatives.",
+      "publication_date": "2024-02-01T15:44:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/01/technology/apple-app-store-europe.html",
+      "byline": "By Tripp Mickle and Adam Satariano"
+    }
+  ]
+}

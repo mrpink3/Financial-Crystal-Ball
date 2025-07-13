@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-03-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Biden Team Prepares $3 Trillion in New Spending for the Economy",
+      "snippet": "A pair of proposals would invest in infrastructure, education, work force development and fighting climate change, with the aim of making the economy more productive.",
+      "abstract": "A pair of proposals would invest in infrastructure, education, work force development and fighting climate change, with the aim of making the economy more productive.",
+      "lead_paragraph": "WASHINGTON — President Biden’s economic advisers are pulling together a sweeping $3 trillion package to boost the economy, reduce carbon emissions and narrow economic inequality, beginning with a giant infrastructure plan that may be financed in part through tax increases on corporations and the rich.",
+      "publication_date": "2021-03-22T17:06:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/22/business/biden-infrastructure-spending.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Ellen DeGeneres Loses 1 Million Viewers After Apologies for Toxic Workplace",
+      "snippet": "“The Ellen DeGeneres Show,” a sturdy daytime hit, has had a steep ratings decline since the host addressed accusations by former staff members that led to firings and an internal investigation.",
+      "abstract": "“The Ellen DeGeneres Show,” a sturdy daytime hit, has had a steep ratings decline since the host addressed accusations by former staff members that led to firings and an internal investigation.",
+      "lead_paragraph": "When Ellen DeGeneres returned from a summer hiatus to open the 18th season of her daytime talk show in September, she came armed with an apology. “I learned that things happen here that never should have happened,” she said. “I take that very seriously. And I want to say I am so sorry to the people who were affected.” Those remarks came in the wake of reports of workplace misconduct at “The Ellen DeGeneres Show.”",
+      "publication_date": "2021-03-22T18:13:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/22/business/media/ellen-degeneres-ratings-decline.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "A Year After Ending Her Presidential Bid, Warren Wields Soft Power in Washington",
+      "snippet": "The progressive Democrat’s proposals for taxing the rich will take center stage as talks on paying for an infrastructure bill ramp up.",
+      "abstract": "The progressive Democrat’s proposals for taxing the rich will take center stage as talks on paying for an infrastructure bill ramp up.",
+      "lead_paragraph": "WASHINGTON — At Wally Adeyemo’s confirmation hearing last month, Senator Elizabeth Warren pressed the deputy Treasury secretary nominee to commit to using the department’s regulatory powers to scrutinize the private equity industry, which she said posed a risk to low-income communities when buyout firms strip companies of assets, load them with debt and fire workers.",
+      "publication_date": "2021-03-22T19:30:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/22/us/politics/elizabeth-warren-taxes-infrastructure.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "11 Years On, the Affordable Care Act Defies Opponents and Keeps Expanding",
+      "snippet": "More than 200,000 have used a special enrollment period to sign up for health insurance under the act, while Alabama and Wyoming eye the law’s Medicaid expansion.",
+      "abstract": "More than 200,000 have used a special enrollment period to sign up for health insurance under the act, while Alabama and Wyoming eye the law’s Medicaid expansion.",
+      "lead_paragraph": "WASHINGTON — More than 200,000 Americans flocked to the Affordable Care Act’s online marketplace to sign up for health insurance during the first two weeks of an open enrollment period created by President Biden — a sign that those who lost insurance during the pandemic remain in desperate need of coverage.",
+      "publication_date": "2021-03-22T23:35:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/22/us/politics/biden-obamacare-anniversary.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "As Europe’s Lockdowns Drag On, Police and Protesters Clash",
+      "snippet": "In Britain and beyond, protesters on the left and right are rebelling against virus restrictions, drawing harsh police responses — and questions about the officers’ legitimacy.",
+      "abstract": "In Britain and beyond, protesters on the left and right are rebelling against virus restrictions, drawing harsh police responses — and questions about the officers’ legitimacy.",
+      "lead_paragraph": "LONDON — In Bristol, an English college town where the pubs are usually packed with students, there were fiery clashes between the police and protesters. In Kassel, a German city known for its ambitious contemporary art festival, the police unleashed pepper spray and water cannons on anti-lockdown marchers.",
+      "publication_date": "2021-03-23T05:45:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/23/world/europe/lockdowns-virus-europe-police-bristol.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "Tesla’s Autopilot Technology Faces Fresh Scrutiny",
+      "snippet": "Federal regulators are investigating 23 recent accidents in which drivers were, or may have been, using the automatic steering and braking system.",
+      "abstract": "Federal regulators are investigating 23 recent accidents in which drivers were, or may have been, using the automatic steering and braking system.",
+      "lead_paragraph": "Tesla faced numerous questions about its Autopilot technology after a Florida driver was killed in 2016 when the system of sensors and cameras failed to see and brake for a tractor-trailer crossing a road.",
+      "publication_date": "2021-03-23T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/23/business/teslas-autopilot-safety-investigations.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Gunman Kills 10 in Grocery Store",
+      "snippet": "The shooting in Colorado comes only six days after another deadly mass shooting in the Atlanta area, which left eight people dead.",
+      "abstract": "The shooting in Colorado comes only six days after another deadly mass shooting in the Atlanta area, which left eight people dead.",
+      "lead_paragraph": "BOULDER, Colo. — A gunman opened fire inside a grocery store in Boulder, Colo., on Monday afternoon, killing 10 people, including a police officer, the authorities in Boulder said.",
+      "publication_date": "2021-03-23T08:31:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/23/us/boulder-colorado-shooting.html",
+      "byline": "By Bryan Pietsch, Neil Vigdor and Will Wright"
+    },
+    {
+      "headline": "Organizing Gravediggers, Cereal Makers and, Maybe, Amazon Employees",
+      "snippet": "The Retail, Wholesale and Department Store Union may be one of the most eclectic labor unions in the U.S. And it is on the cusp of pushing into the e-commerce behemoth.",
+      "abstract": "The Retail, Wholesale and Department Store Union may be one of the most eclectic labor unions in the U.S. And it is on the cusp of pushing into the e-commerce behemoth.",
+      "lead_paragraph": "A group of gravediggers in Columbus, Ohio, who just negotiated a 3 percent raise. The poultry plant that processes chicken nuggets for McDonald’s. The workers who make Cap’n Crunch in Iowa. The women’s shoe department at Saks Fifth Avenue in Manhattan.",
+      "publication_date": "2021-03-23T09:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/23/business/amazon-union-bessemer-alabama.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "U.S. Health Officials Question AstraZeneca Vaccine Trial Results",
+      "snippet": "According to federal officials, an independent panel of medical experts said the encouraging results announced on Monday might have relied on outdated information.",
+      "abstract": "According to federal officials, an independent panel of medical experts said the encouraging results announced on Monday might have relied on outdated information.",
+      "lead_paragraph": "Only hours after AstraZeneca announced encouraging news about the effectiveness of its Covid-19 vaccine on Monday, a group of medical experts charged with monitoring the company’s clinical trial made a highly unusual accusation: AstraZeneca had essentially cherry-picked data to make its vaccine look better.",
+      "publication_date": "2021-03-23T10:40:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/23/business/astrazeneca-vaccine-questions.html",
+      "byline": "By Rebecca Robbins, Noah Weiland, Sharon LaFraniere and Benjamin Mueller"
+    }
+  ]
+}

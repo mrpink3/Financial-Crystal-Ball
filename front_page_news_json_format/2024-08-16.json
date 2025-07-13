@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-08-16",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Ukraine’s Incursion Into Russia Reveals a Dramatic Shift",
+      "snippet": "The offensive was developed in secret, devised to divert Russian troops away from the front lines in Ukraine and seize territory to use as a bargaining chip.",
+      "abstract": "The offensive was developed in secret, devised to divert Russian troops away from the front lines in Ukraine and seize territory to use as a bargaining chip.",
+      "lead_paragraph": "Ukraine’s incursion into a sliver of Russia is likely to make it harder for Moscow to mount a major renewed offensive in Ukraine’s east and is the kind of surprise operation that could eventually impose real costs on the Kremlin, according to U.S. officials.",
+      "publication_date": "2024-08-15T16:54:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/15/us/politics/ukraine-incursion-russia-kursk.html",
+      "byline": "By Julian E. Barnes and Eric Schmitt"
+    },
+    {
+      "headline": "F.B.I. Resumes Flagging Foreign Disinformation to Social Media Giants",
+      "snippet": "The Justice Department set new guidelines for agents to share tips with Facebook, X and other platforms after a legal challenge prompted a suspension of that communication.",
+      "abstract": "The Justice Department set new guidelines for agents to share tips with Facebook, X and other platforms after a legal challenge prompted a suspension of that communication.",
+      "lead_paragraph": "The Federal Bureau of Investigation and other agencies quietly resumed coordinating with the major social media companies earlier this year to fight what government officials warned was a coming onslaught of foreign disinformation and influence operations leading up to the presidential election in November. In at least two instances in recent weeks, the companies have taken action to remove malign content, according to the Biden administration and company officials.",
+      "publication_date": "2024-08-15T19:29:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/15/business/fbi-social-media-disinformation.html",
+      "byline": "By Steven Lee Myers"
+    },
+    {
+      "headline": "Local News Is Dying, but Not in San Francisco",
+      "snippet": "The city has become a hothouse for experimentation in local news. Could it serve as a model for the rest of the country?",
+      "abstract": "The city has become a hothouse for experimentation in local news. Could it serve as a model for the rest of the country?",
+      "lead_paragraph": "It’s no secret that the business of local news is struggling. News deserts are growing across the country, and over half of counties in the United States now have just one or no remaining news outlet.",
+      "publication_date": "2024-08-16T09:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/16/technology/san-francisco-local-news-resurgence.html",
+      "byline": "By Eli Tan"
+    },
+    {
+      "headline": "No Joke: The Onion Thinks Print Is the Future of Media",
+      "snippet": "The satirical site is hoping a newspaper with fake stories and fake ads will lead to real money.",
+      "abstract": "The satirical site is hoping a newspaper with fake stories and fake ads will lead to real money.",
+      "lead_paragraph": "The funniest writers at The Onion shuffled through dozens of news stories at a meeting last week, trying to discern which headline would make readers laugh harder.",
+      "publication_date": "2024-08-16T09:02:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/16/business/media/the-onion-print-paper.html",
+      "byline": "By Benjamin Mullin and Jamie Kelter Davis"
+    },
+    {
+      "headline": "Apple Giving Ground on App Store Rules to Appease Regulators",
+      "snippet": "The company faces pressure from governments around the world and complaints from companies that it is still too restrictive.",
+      "abstract": "The company faces pressure from governments around the world and complaints from companies that it is still too restrictive.",
+      "lead_paragraph": "Governments around the world have pressured Apple with laws and lawsuits that aim to loosen its grip over the digital economy. Now, the tech giant is beginning to make concessions that could change people’s iPhone experience.",
+      "publication_date": "2024-08-16T11:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/16/technology/apple-epic-spotify-app-stores.html",
+      "byline": "By Tripp Mickle"
+    },
+    {
+      "headline": "This Georgia Republican Defied Trump. Now He’s Fighting a Defamation Suit.",
+      "snippet": "The secretary of state, Brad Raffensperger, has spent $500,000 defending himself in court. He says the plaintiff will only settle if he effectively endorses a debunked conspiracy theory about the 2020 election.",
+      "abstract": "The secretary of state, Brad Raffensperger, has spent $500,000 defending himself in court. He says the plaintiff will only settle if he effectively endorses a debunked conspiracy theory about the 2020 election.",
+      "lead_paragraph": "Brad Raffensperger, Georgia’s Republican secretary of state, has been forced to spend half a million dollars defending himself in court for having stood up to former President Donald J. Trump’s efforts to overturn the 2020 election.",
+      "publication_date": "2024-08-16T15:19:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/16/us/politics/brad-raffensperger-2020-georgia-election.html",
+      "byline": "By Nick Corasaniti"
+    }
+  ]
+}

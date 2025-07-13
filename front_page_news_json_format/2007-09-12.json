@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2007-09-12",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Germans See Imitation in Chinese Cars",
+      "snippet": "BMW has filed suit against Shuanghuan Automobile to prohibit the sale of the CEO, which the German automaker says is a knockoff of its X5 sport utility vehicle.",
+      "abstract": "BMW has filed suit against Shuanghuan Automobile to prohibit the sale of the CEO, which the German automaker says is a knockoff of its X5 sport utility vehicle.",
+      "lead_paragraph": "FRANKFURT, Sept. 11 — It’s hardly surprising that a car that bills itself as the “ultimate driving machine” would inspire imitation. But to BMW, the CEO, a Chinese sport utility vehicle, is less respectful homage than brazen knockoff. ",
+      "publication_date": "2007-09-12T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/09/12/business/worldbusiness/12auto.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Fund Chief at Harvard Will Depart",
+      "snippet": "Mohamed A. El-Erian unexpectedly announced that he is leaving to return to the Pacific Investment Management Company, where he had worked for seven years.",
+      "abstract": "Mohamed A. El-Erian unexpectedly announced that he is leaving to return to the Pacific Investment Management Company, where he had worked for seven years.",
+      "lead_paragraph": "The manager of Harvard’s endowment fund for almost two years, Mohamed A. El-Erian, announced unexpectedly yesterday that he was leaving to return to the Pacific Investment Management Company, where he had worked for seven years.",
+      "publication_date": "2007-09-12T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/09/12/business/12endow.html",
+      "byline": "By Geraldine Fabrikant"
+    },
+    {
+      "headline": "Larger Message Emerges From  Summer Jobs Slump",
+      "snippet": "We unquestionably live better than we used to, but there are real reasons to worry whether the economic gains can continue at anything like their recent pace.",
+      "abstract": "We unquestionably live better than we used to, but there are real reasons to worry whether the economic gains can continue at anything like their recent pace.",
+      "lead_paragraph": "When Americans think about their lives in relation to the past, they are decidedly upbeat. In resounding numbers — regardless of whether the economy is in a boom or a bust, whether the country is at war or peace — they tell pollsters that they live better than their parents did. And there is good reason for the good cheer: People live longer today than past generations did; they’re healthier while alive; they’re more educated; they’re richer; and they face less discrimination.",
+      "publication_date": "2007-09-12T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/09/12/business/12leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "For Networks, Thin Is In",
+      "snippet": "Years of progress in hardware, software and networking have enabled network computers — also called thin-client computers — to mimic the user experience of PCs with less power and less cost.",
+      "abstract": "Years of progress in hardware, software and networking have enabled network computers — also called thin-client computers — to mimic the user experience of PCs with less power and less cost.",
+      "lead_paragraph": "IN the world of information technology, the future often arrives as predicted but rarely on time. The big things that ignite new markets and change people’s behavior, like the personal computer and the Internet, are actually collections of related technologies rather than single breakthroughs — symphonies rather than solo performances. ",
+      "publication_date": "2007-09-12T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "H",
+      "web_url": "https://www.nytimes.com/2007/09/12/technology/techspecial/12thin.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Who Needs Hackers?",
+      "snippet": "The biggest threat to increasingly complex systems may be the systems themselves.",
+      "abstract": "The biggest threat to increasingly complex systems may be the systems themselves.",
+      "lead_paragraph": " NOTHING was moving. International travelers flying into Los Angeles International Airport — more than 17,000 of them — were stuck on planes for hours one day in mid-August after computers for the United States Customs and Border Protection agency went down and stayed down for nine hours. ",
+      "publication_date": "2007-09-12T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "H",
+      "web_url": "https://www.nytimes.com/2007/09/12/technology/techspecial/12threat.html",
+      "byline": "By John Schwartz"
+    },
+    {
+      "headline": "OPEC to Lift Oil Output Modestly",
+      "snippet": "OPEC said it will increase production by 500,000 barrels a day, but oil futures nonetheless surged to a record close.",
+      "abstract": "OPEC said it will increase production by 500,000 barrels a day, but oil futures nonetheless surged to a record close.",
+      "lead_paragraph": "VIENNA, Sept. 11 — OPEC sought to regain its authority over volatile oil markets Tuesday, agreeing to increase production by 500,000 barrels a day. But prices still rose to a record.",
+      "publication_date": "2007-09-12T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/09/12/business/worldbusiness/12opec.html",
+      "byline": "By Jad Mouawad"
+    }
+  ]
+}

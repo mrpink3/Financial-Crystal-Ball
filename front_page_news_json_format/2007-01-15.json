@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2007-01-15",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "A Time to Grieve, and to Forge a Bond",
+      "snippet": "One would think that even in the absence of a legal requirement, human decency would demand simple kindness toward employees mourning a loss.",
+      "abstract": "One would think that even in the absence of a legal requirement, human decency would demand simple kindness toward employees mourning a loss.",
+      "lead_paragraph": "I RECEIVED an e-mail message not long ago from a young woman who asked me not to use her name. She wasn’t looking for attention. She just wanted to share. ",
+      "publication_date": "2007-01-14T05:00:00+0000",
+      "section_name": "Job Market",
+      "print_page": "1",
+      "page_section": "HW",
+      "web_url": "https://www.nytimes.com/2007/01/14/jobs/14wcol.html",
+      "byline": "By Lisa Belkin"
+    },
+    {
+      "headline": "Some Web Job Sites Put Out ‘Gray Hair Welcome’ Signs",
+      "snippet": "Job boards catering to the mature worker are emerging on the Internet, and least one new entry is focusing on job seekers who are 40 and over.",
+      "abstract": "Job boards catering to the mature worker are emerging on the Internet, and least one new entry is focusing on job seekers who are 40 and over.",
+      "lead_paragraph": " As the work force grays, a small but growing number of job boards catering to the mature worker are emerging on the Internet. The sites are gaining ground as employers realize that they must look outside traditional age ranges to find expertise.",
+      "publication_date": "2007-01-14T05:00:00+0000",
+      "section_name": "Job Market",
+      "print_page": "1",
+      "page_section": "HW",
+      "web_url": "https://www.nytimes.com/2007/01/14/jobs/14forty.html",
+      "byline": "By Elizabeth Olson"
+    },
+    {
+      "headline": "24-Hour Newspaper People",
+      "snippet": "Having a blog makes me approachable, reader-friendly and engaged. Perhaps too engaged.",
+      "abstract": "Having a blog makes me approachable, reader-friendly and engaged. Perhaps too engaged.",
+      "lead_paragraph": "Like a lot of modern newspaper people, I have a blog.",
+      "publication_date": "2007-01-15T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/15/business/media/15carr.html",
+      "byline": "By David Carr"
+    }
+  ]
+}

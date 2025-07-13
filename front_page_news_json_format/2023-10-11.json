@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-10-11",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Caroline Ellison, Adviser to Sam Bankman-Fried, Says He ‘Directed’ Her to Commit Crimes",
+      "snippet": "Ms. Ellison is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange. She also delved into her romantic relationship with Mr. Bankman-Fried.",
+      "abstract": "Ms. Ellison is the government’s star witness in the criminal fraud trial of the founder of the FTX crypto exchange. She also delved into her romantic relationship with Mr. Bankman-Fried.",
+      "lead_paragraph": "First they were colleagues on a trading floor in New York. Then they were friends running a start-up together in Hong Kong. Eventually they became partners in a turbulent office romance chronicled in tabloid headlines around the world.",
+      "publication_date": "2023-10-10T17:27:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/10/technology/caroline-ellison-sam-bankman-fried-trial.html",
+      "byline": "By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno"
+    },
+    {
+      "headline": "‘It’s Not a War or a Battlefield. It’s a Massacre.’",
+      "snippet": "A Times reporter and photographer visited an Israeli village raided by Palestinian gunmen.",
+      "abstract": "A Times reporter and photographer visited an Israeli village raided by Palestinian gunmen.",
+      "lead_paragraph": "“Welcome,” said the sign at the entrance to Kfar Azza, a lush Israeli village just across some fields from the border with Gaza. On the pathway, another sign pointed the way to the gym and the swimming pool.",
+      "publication_date": "2023-10-10T18:43:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/10/world/middleeast/israel-gaza-kibbutz-kfar-azza.html",
+      "byline": "By Isabel Kershner and Sergey Ponomarev"
+    },
+    {
+      "headline": "Nowhere to Hide in Gaza as Israeli Onslaught Continues",
+      "snippet": "Residents and health authorities say that mosques, hospitals and schools are being targeted by airstrikes.",
+      "abstract": "Residents and health authorities say that mosques, hospitals and schools are being targeted by airstrikes.",
+      "lead_paragraph": "Israeli airstrikes flattened mosques over the heads of worshipers. At least two hospitals, and two centers run by the Palestine Red Crescent Society, have been hit. So have two schools run by the U.N. agency that helps Palestinian refugees.",
+      "publication_date": "2023-10-10T21:31:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/10/world/middleeast/gaza-israel-airstrikes.html",
+      "byline": "By Raja Abdulrahim and Ameera Harouda"
+    },
+    {
+      "headline": "Israel Retakes Towns Near Gaza as Its Military Readies Major Offensive",
+      "snippet": "“The next step is to move forward, go on the offense,” an Israeli general said, as the country called up more reservists in response to devastating attacks by Palestinian gunmen who killed more than 900 people.",
+      "abstract": "“The next step is to move forward, go on the offense,” an Israeli general said, as the country called up more reservists in response to devastating attacks by Palestinian gunmen who killed more than 900 people.",
+      "lead_paragraph": "Israeli troops mostly retook control of towns near the Gaza Strip from Palestinian gunmen on Tuesday, four days after fighters for the militant group Hamas assailed Israeli civilians and soldiers in devastating attacks that killed hundreds, wounded thousands and put the grieving country on the brink of a major military operation.",
+      "publication_date": "2023-10-10T22:00:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/10/world/middleeast/israel-gaza-war-hamas.html",
+      "byline": "By Isabel Kershner and Aaron Boxerman"
+    },
+    {
+      "headline": "How Israel’s Feared Security Services Failed to Stop Hamas’s Attack",
+      "snippet": "Israel’s military and espionage services are considered among the world’s best, but on Saturday, operational and intelligence failures led to the worst breach of Israeli defenses in half a century.",
+      "abstract": "Israel’s military and espionage services are considered among the world’s best, but on Saturday, operational and intelligence failures led to the worst breach of Israeli defenses in half a century.",
+      "lead_paragraph": "Shortly before attackers from Gaza poured into Israel at dawn on Saturday, Israeli intelligence detected a surge in activity on some of the Gazan militant networks it monitors. Realizing something unusual was happening, agents sent an alert to the Israeli soldiers guarding the Gazan border, according to two senior Israeli security officials.",
+      "publication_date": "2023-10-11T00:01:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/10/world/middleeast/israel-gaza-security-failure.html",
+      "byline": "By Ronen Bergman and Patrick Kingsley"
+    },
+    {
+      "headline": "‘Whichever Is Cheaper’: Inside China’s New Thrift Economy",
+      "snippet": "Beijing hopes spending can spur growth, which has been dragged down by slowing real estate sales and exports. But shoppers are gravitating to discounts.",
+      "abstract": "Beijing hopes spending can spur growth, which has been dragged down by slowing real estate sales and exports. But shoppers are gravitating to discounts.",
+      "lead_paragraph": "To understand today’s penny-pinching Chinese consumers, behold the vicious price war playing out among the country’s coffee store giants.",
+      "publication_date": "2023-10-11T04:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/11/business/china-consumer-spending.html",
+      "byline": "By Claire Fu and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "How a Series of Air Traffic Control Lapses Nearly Killed 131 People",
+      "snippet": "Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.",
+      "abstract": "Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.",
+      "lead_paragraph": "On a cold, foggy Saturday morning in February, an air traffic controller cleared a FedEx cargo plane to land on Runway 18L at Austin-Bergstrom International Airport in Texas. A Southwest Airlines jet was on the same runway, but the controller said it would take off before FedEx’s hulking Boeing 767 got too close.",
+      "publication_date": "2023-10-11T09:01:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html",
+      "byline": "By Sydney Ember and Emily Steel"
+    },
+    {
+      "headline": "Only Question for Taylor Swift Film: How Big Will It Be?",
+      "snippet": "The pop star’s concert film, arriving in theaters on Friday, is expected to break box office records. “The fever and scale is unprecedented,” one analyst said.",
+      "abstract": "The pop star’s concert film, arriving in theaters on Friday, is expected to break box office records. “The fever and scale is unprecedented,” one analyst said.",
+      "lead_paragraph": "The world’s biggest pop star, Taylor Swift, is about to become the world’s biggest movie star, at least for a weekend. The only question is whether turnout for her concert film will be enormous or truly colossal.",
+      "publication_date": "2023-10-11T09:02:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/11/business/media/taylor-swift-movie.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Exxon Mobil Strikes $60 Billion Deal for Shale Giant",
+      "snippet": "The acquisition of Pioneer Natural Resources, Exxon’s largest since its merger with Mobil in 1999, is a bet that U.S. energy policy will not move against fossil fuels in a major way.",
+      "abstract": "The acquisition of Pioneer Natural Resources, Exxon’s largest since its merger with Mobil in 1999, is a bet that U.S. energy policy will not move against fossil fuels in a major way.",
+      "lead_paragraph": "Exxon Mobil announced on Wednesday that it was acquiring Pioneer Natural Resources for $59.5 billion, deepening its reliance on fossil fuel production even as many global policymakers grow increasingly concerned about climate change and the oil industry’s reluctance to shift to cleaner energy.",
+      "publication_date": "2023-10-11T10:42:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/11/business/economy/exxon-mobil-pioneer-natural-resources.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "China’s Economic Stake in the Middle East: Its Thirst for Oil",
+      "snippet": "China is the largest oil importer by far from Saudi Arabia and from Iran, highlighting the risk it faces if the war in Israel and Gaza were to broaden.",
+      "abstract": "China is the largest oil importer by far from Saudi Arabia and from Iran, highlighting the risk it faces if the war in Israel and Gaza were to broaden.",
+      "lead_paragraph": "China has cast itself as a neutral geopolitical player in the Middle East. It brokered a deal in March to help Iran and Saudi Arabia restore relations. And in the days since Hamas attacked Israel from Gaza, China has tried to keep its distance, with a government spokesman calling the country “a common friend of both Israel and Palestine.”",
+      "publication_date": "2023-10-11T14:12:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/11/business/china-oil-saudi-arabia-iran.html",
+      "byline": "By Keith Bradsher"
+    }
+  ]
+}

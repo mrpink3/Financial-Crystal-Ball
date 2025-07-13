@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-12-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In a Self-Serve World, Start-Ups Find Value in Human Helpers",
+      "snippet": "A new breed of companies is trying to put human agents back at the center of how we make decisions.",
+      "abstract": "A new breed of companies is trying to put human agents back at the center of how we make decisions.",
+      "lead_paragraph": "It’s unfashionable to admit this in the age of Expedia, Priceline and other do-it-yourself online tools, but here it is: I miss travel agents.",
+      "publication_date": "2015-12-16T16:24:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/12/17/technology/in-a-self-serve-world-start-ups-find-value-in-human-helpers.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Marco Rubio and Ted Cruz Diverge in Approach to Their Hispanic Identity",
+      "snippet": "Mr. Cruz and Mr. Rubio, conservative Cuban-American candidates who make a point of playing down their ethnic identity, have differed on defense, immigration and other issues.",
+      "abstract": "Mr. Cruz and Mr. Rubio, conservative Cuban-American candidates who make a point of playing down their ethnic identity, have differed on defense, immigration and other issues.",
+      "lead_paragraph": "MIAMI — One candidate, Marco Rubio, nurtured by the sprawling Cuban-American community here, bounces effortlessly between two cultures — fritas and hamburgers, Spanish and English — in a city so comfortably bilingual that news conferences pivot between the languages.",
+      "publication_date": "2015-12-16T18:39:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/12/17/us/marco-rubio-and-ted-cruz-diverge-in-approach-to-their-hispanic-identity.html",
+      "byline": "By Lizette Alvarez and Manny Fernandez"
+    },
+    {
+      "headline": "Fed Raises Key Interest Rate for First Time in Almost a Decade",
+      "snippet": "The widely expected move by the Federal Reserve is a vote of confidence in the domestic economy even as much of the world is struggling.",
+      "abstract": "The widely expected move by the Federal Reserve is a vote of confidence in the domestic economy even as much of the world is struggling.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve said on Wednesday that it would raise short-term interest rates for the first time since the financial crisis, a decision it described as a vote of confidence in the American economy even as much of the rest of the world struggles.",
+      "publication_date": "2015-12-16T19:03:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/12/17/business/economy/fed-interest-rates.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "With Fed’s Interest Rate Move, a Test of the Stock Markets",
+      "snippet": "Stocks showed modest increases while Treasury prices slipped in trading after the central bank’s announcement.",
+      "abstract": "Stocks showed modest increases while Treasury prices slipped in trading after the central bank’s announcement.",
+      "lead_paragraph": "The extraordinarily low interest rates of the last seven years have stoked a bull market in stocks, fueled a global boom in commodities, prompted a wave of corporate mergers and led companies to borrow trillions of dollars in the markets.",
+      "publication_date": "2015-12-16T20:17:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/12/17/business/dealbook/with-feds-interest-rate-move-a-test-of-the-stock-markets.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Mistrial Declared in Case of Officer Charged in Freddie Gray’s Death",
+      "snippet": "The trial was seen as a barometer of whether it was possible to convict a police officer, but does not end the tension in Baltimore surrounding Mr. Gray’s death.",
+      "abstract": "The trial was seen as a barometer of whether it was possible to convict a police officer, but does not end the tension in Baltimore surrounding Mr. Gray’s death.",
+      "lead_paragraph": "BALTIMORE — The trial of the first Baltimore police officer in the death of Freddie Gray ended in a hung jury on Wednesday, an unexpected twist that complicates the cases against five other officers facing charges in a fatal police encounter that prompted violent unrest here last spring.",
+      "publication_date": "2015-12-16T20:27:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/12/17/us/freddie-gray-baltimore-police-trial.html",
+      "byline": "By Sheryl Gay Stolberg and Jess Bidgood"
+    },
+    {
+      "headline": "Sheldon Adelson Said to Be Buyer of Las Vegas Review-Journal",
+      "snippet": "The revelation solves a riddle that had fascinated those in political and news media circles since the sale was announced last week.",
+      "abstract": "The revelation solves a riddle that had fascinated those in political and news media circles since the sale was announced last week.",
+      "lead_paragraph": "The billionaire casino magnate and Republican donor Sheldon Adelson is behind the mysterious purchase of The Las Vegas Review-Journal for $140 million, according to two people familiar with the matter who spoke on condition of anonymity. ",
+      "publication_date": "2015-12-17T01:56:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/12/17/business/media/sheldon-adelson-las-vegas-review-journal.html",
+      "byline": "By Ravi Somaiya and Sydney Ember"
+    },
+    {
+      "headline": "Navy SEALs, a Beating Death and Claims of a Cover-Up",
+      "snippet": "U.S. soldiers accused Afghan police and Navy SEALs of abusing detainees. But the SEAL command opted against a court-martial and cleared its men of wrongdoing.",
+      "abstract": "U.S. soldiers accused Afghan police and Navy SEALs of abusing detainees. But the SEAL command opted against a court-martial and cleared its men of wrongdoing.",
+      "lead_paragraph": "The three Navy SEALs stomped on the bound Afghan detainees and dropped heavy stones on their chests, the witnesses recalled. They stood on the prisoners’ heads and poured bottles of water on some of their faces in what, to a pair of Army soldiers, appeared to be an improvised form of waterboarding.",
+      "publication_date": "2015-12-17T08:36:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/12/17/world/asia/navy-seal-team-2-afghanistan-beating-death.html",
+      "byline": "By Nicholas Kulish, Christopher Drew and Matthew Rosenberg"
+    },
+    {
+      "headline": "A Missed Opportunity of Ultra-Cheap Money",
+      "snippet": "Some economists are dismayed that the Fed’s zero-interest policy didn’t do much for infrastructure or even corporate capital investment.",
+      "abstract": "Some economists are dismayed that the Fed’s zero-interest policy didn’t do much for infrastructure or even corporate capital investment.",
+      "lead_paragraph": "Years of ultralow interest rates engineered by the Federal Reserve may have breathed life back into the economy and buoyed Wall Street. But they have not managed to solve problems like the aging Portal Bridge.",
+      "publication_date": "2015-12-17T10:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/12/18/business/dealbook/a-missed-opportunity-of-ultra-cheap-money.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Drug C.E.O. Martin Shkreli Arrested on Fraud Charges",
+      "snippet": "The entrepreneur, who has been criticized for price gouging on drugs, faces securities fraud charges related to his work at MSMB Capital Management and Retrophin.",
+      "abstract": "The entrepreneur, who has been criticized for price gouging on drugs, faces securities fraud charges related to his work at MSMB Capital Management and Retrophin.",
+      "lead_paragraph": "It has been a busy week for Martin Shkreli, the flamboyant businessman at the center of the drug industry’s price-gouging scandals.",
+      "publication_date": "2015-12-17T13:28:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/12/18/business/shkreli-fraud-charges.html",
+      "byline": "By Julie Creswell, Stephanie Clifford and Andrew Pollack"
+    },
+    {
+      "headline": "Neighbor of San Bernardino Attackers Faces Terrorism Charges",
+      "snippet": "Federal prosecutors say Enrique Marquez, who bought the assault rifles used in the massacre in San Bernardino, Calif., conspired to commit terrorism in 2011 and 2012.",
+      "abstract": "Federal prosecutors say Enrique Marquez, who bought the assault rifles used in the massacre in San Bernardino, Calif., conspired to commit terrorism in 2011 and 2012.",
+      "lead_paragraph": "RIVERSIDE, Calif. — Enrique Marquez, who supplied the assault rifles used to kill 14 people in a massacre in San Bernardino, Calif., this month, was arrested Thursday and charged with crimes including conspiring to support terrorists. Court papers show that he and one of the attackers had steeped themselves for years in radical and violent Islamist propaganda, including the teachings of the extremist cleric Anwar al-Awlaki and bomb-making techniques from an Al Qaeda magazine.",
+      "publication_date": "2015-12-17T14:50:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/12/18/us/san-bernardino-enrique-marquez-charges-justice-department.html",
+      "byline": "By Adam Nagourney, Richard Pérez-Peña and Ian Lovett"
+    }
+  ]
+}

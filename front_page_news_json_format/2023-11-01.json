@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-11-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "For Europe’s Jews, a World of Fear",
+      "snippet": "The Oct. 7 Hamas assault on Israel and a surge in acts of antisemitism have awakened a repressed horror in Jewish populations across the continent.",
+      "abstract": "The Oct. 7 Hamas assault on Israel and a surge in acts of antisemitism have awakened a repressed horror in Jewish populations across the continent.",
+      "lead_paragraph": "Perhaps not since the Holocaust, which saw the annihilation of about two-thirds of Europe’s Jewish community, have the Jews of Europe lived in an atmosphere of fear so acute that it feels like a fundamental shift in the terms of their existence.",
+      "publication_date": "2023-11-01T00:46:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/31/world/europe/europe-antisemitism-israel-hamas.html",
+      "byline": "By Roger Cohen"
+    },
+    {
+      "headline": "They Propelled China’s Rise. Now They Have Nothing to Fall Back On.",
+      "snippet": "Migrant workers, who moved from China’s villages to its big cities, were a secret weapon building the economy. Now many see few options.",
+      "abstract": "Migrant workers, who moved from China’s villages to its big cities, were a secret weapon building the economy. Now many see few options.",
+      "lead_paragraph": "When Zhang left his village in northeastern China a decade ago to work as a welder in a big city, jobs were plentiful. He earned about $50 a day and managed to save most of it.",
+      "publication_date": "2023-11-01T04:01:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/business/china-rural-jobs-migrant-workers.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Drought Saps the Panama Canal, Disrupting Global Trade",
+      "snippet": "The number of ships that can travel through the vital route has fallen sharply this year because of a lack of water for the locks, raising costs and slowing deliveries.",
+      "abstract": "The number of ships that can travel through the vital route has fallen sharply this year because of a lack of water for the locks, raising costs and slowing deliveries.",
+      "lead_paragraph": "For over a century, the Panama Canal has provided a convenient way for ships to move between the Pacific and Atlantic Oceans, helping to speed up international trade.",
+      "publication_date": "2023-11-01T09:01:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/business/economy/panama-canal-drought-shipping.html",
+      "byline": "By Peter Eavis and Nathalia Angarita"
+    },
+    {
+      "headline": "If Trump Wins, His Allies Want Lawyers Who Will Bless a More Radical Agenda",
+      "snippet": "Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.",
+      "abstract": "Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.",
+      "lead_paragraph": "Close allies of Donald J. Trump are preparing to populate a new administration with a more aggressive breed of right-wing lawyer, dispensing with traditional conservatives who they believe stymied his agenda in his first term.",
+      "publication_date": "2023-11-01T09:02:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/01/us/politics/trump-2025-lawyers.html",
+      "byline": "By Jonathan Swan, Charlie Savage and Maggie Haberman"
+    },
+    {
+      "headline": "Offshore Wind Firm Cancels N.J. Projects, as Industry’s Prospects Dim",
+      "snippet": "Denmark’s Orsted said it would be forced to write off as much as $5.6 billion as wind developers in the U.S. faced wrenching financing costs.",
+      "abstract": "Denmark’s Orsted said it would be forced to write off as much as $5.6 billion as wind developers in the U.S. faced wrenching financing costs.",
+      "lead_paragraph": "Plans to build two wind farms off the coast of New Jersey were scrapped, the company behind them said on Wednesday, a blow to the state’s efforts to cut greenhouse gas emissions and the latest shakeout in the U.S. wind industry. ",
+      "publication_date": "2023-11-01T12:42:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/business/energy-environment/offshore-wind-farm-new-jersey.html",
+      "byline": "By Stanley Reed and Tracey Tully"
+    },
+    {
+      "headline": "Those Promotions Promising a ‘Free’ iPhone? It Isn’t Free.",
+      "snippet": "The so-called iPhone giveaways marketed by Verizon, T-Mobile and AT&T can make customers spend more on perks they don’t need.",
+      "abstract": "The so-called iPhone giveaways marketed by Verizon, T-Mobile and AT&T can make customers spend more on perks they don’t need.",
+      "lead_paragraph": "There’s no such thing as a free iPhone.",
+      "publication_date": "2023-11-01T13:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/technology/personaltech/free-iphone-promotions.html",
+      "byline": "By Brian X. Chen"
+    }
+  ]
+}

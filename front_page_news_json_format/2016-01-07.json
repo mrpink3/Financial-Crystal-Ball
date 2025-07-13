@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2016-01-07",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Fed Minutes Show Some Concern on Economic Outlook",
+      "snippet": "As they moved to raise interest rates in December, some Federal Reserve officials were cautious in their assumptions about the months ahead.",
+      "abstract": "As they moved to raise interest rates in December, some Federal Reserve officials were cautious in their assumptions about the months ahead.",
+      "lead_paragraph": "WASHINGTON — Janet L. Yellen, the Federal Reserve chairwoman, marshaled a strong consensus among Fed officials for the momentous decision to raise the central bank’s benchmark interest rate last month, but concerns among policy makers about the strength of economic growth could slow the march toward higher rates.",
+      "publication_date": "2016-01-06T19:28:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/07/business/economy/fed-minutes-december-rate-increase.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "At CES, Netflix Adds Over 130 Countries to Streaming Service",
+      "snippet": "Netflix has gone live in nearly every country in the world, rapidly accelerating its plan to be fully global by the end of this year. China is a major exception.",
+      "abstract": "Netflix has gone live in nearly every country in the world, rapidly accelerating its plan to be fully global by the end of this year. China is a major exception.",
+      "lead_paragraph": "Netflix went live with its streaming television service in nearly every country across the world on Wednesday, an unexpected acceleration of the company’s aggressive quest for global ubiquity by the end of 2016.",
+      "publication_date": "2016-01-06T20:10:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/07/business/media/netflix-expands-its-streaming-service-worldwide.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "I.M.F. Breakthrough Is Seen to Bolster U.S. on World Stage",
+      "snippet": "Resolution of a five-year impasse over the International Monetary Fund and other moves in 2015 eased concerns about America’s global economic role.",
+      "abstract": "Resolution of a five-year impasse over the International Monetary Fund and other moves in 2015 eased concerns about America’s global economic role.",
+      "lead_paragraph": "WASHINGTON — A string of agreements between the White House and Congress, capped by last month’s surprise accord that ended a five-year impasse over the International Monetary Fund, has eased, though not dispelled, concern that America is retreating from global economic leadership.",
+      "publication_date": "2016-01-06T23:38:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/07/business/international/imf-breakthrough-is-seen-to-bolster-us-on-world-stage.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "After Mass Shootings, Some on Wall St. See Gold in Gun Makers",
+      "snippet": "The stock prices of Smith & Wesson and Sturm, Ruger have each risen more than shares of Apple since 2009, driven by surging sales linked to fears of regulation.",
+      "abstract": "The stock prices of Smith & Wesson and Sturm, Ruger have each risen more than shares of Apple since 2009, driven by surging sales linked to fears of regulation.",
+      "lead_paragraph": "In the days after the Paris terrorist attacks last November, world leaders denounced the shooting massacres. On Wall Street, the money manager Louis Navellier saw a buying opportunity.",
+      "publication_date": "2016-01-07T00:16:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/07/business/after-mass-shootings-some-on-wall-st-cash-in-on-gun-shares.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "A Publisher Puzzles Staff With His Role in Las Vegas",
+      "snippet": "The publisher of two small newspapers in Connecticut suddenly appeared in the newsroom of The Las Vegas Review-Journal, much to his newsrooms’ mystification.",
+      "abstract": "The publisher of two small newspapers in Connecticut suddenly appeared in the newsroom of The Las Vegas Review-Journal, much to his newsrooms’ mystification.",
+      "lead_paragraph": "When a relatively obscure newspaper publisher showed up in photographs last month addressing the staff of The Las Vegas Review-Journal, his appearance baffled journalists — in Connecticut.",
+      "publication_date": "2016-01-07T01:10:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/07/business/media/a-publisher-puzzles-staff-with-his-role-in-las-vegas.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Saudis Applaud a Tougher Line Against Tehran",
+      "snippet": "Popular opinion in the kingdom appears to show a wave of approval for the death sentences being carried out, and accusations of hypocrisy at the way the events have been portrayed in the West.",
+      "abstract": "Popular opinion in the kingdom appears to show a wave of approval for the death sentences being carried out, and accusations of hypocrisy at the way the events have been portrayed in the West.",
+      "lead_paragraph": "In recent days, Saudi Arabia’s decision to execute a prominent Shiite dissident has been assailed around the world as a rash act of provocation, inflaming sectarian tensions across the Middle East.",
+      "publication_date": "2016-01-07T01:50:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/07/world/middleeast/saudis-applaud-a-tougher-line-against-tehran.html",
+      "byline": "By Robert F. Worth"
+    },
+    {
+      "headline": "Stock Markets Shudder After Chinese Stock Plunge Forces a Trading Halt",
+      "snippet": "Markets in the United States closed down by more than 2 percent after trading was halted in China for the second time this week.",
+      "abstract": "Markets in the United States closed down by more than 2 percent after trading was halted in China for the second time this week.",
+      "lead_paragraph": "HONG KONG — The market turmoil in China spread around the world on Thursday, as global investors grew more anxious about the country’s currency and the health of its economy.",
+      "publication_date": "2016-01-07T02:40:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/08/business/dealbook/china-shanghai-stocks-fall.html",
+      "byline": "By Keith Bradsher and Amie Tsang"
+    },
+    {
+      "headline": "Ramadi, Reclaimed by Iraq, Is in Ruins After ISIS Fight",
+      "snippet": "The city’s retaking has been hailed, but its destruction bears testament to the cost of dislodging a group that stitches itself into the fabric of the communities it seizes.",
+      "abstract": "The city’s retaking has been hailed, but its destruction bears testament to the cost of dislodging a group that stitches itself into the fabric of the communities it seizes.",
+      "lead_paragraph": "RAMADI, Iraq — As his armored vehicle bounced along a dirt track carved through the ruins of this recently reconquered city on Wednesday, Gen. Ali Jameel, an Iraqi counterterrorism officer, narrated the passing sites.",
+      "publication_date": "2016-01-07T10:55:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/08/world/middleeast/isis-ramadi-iraq-retaking.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Lesson for Stalemated Sides in Oregon: A Texas Standoff Without End",
+      "snippet": "In a wooded 47-acre compound southeast of Dallas, a standoff that started in 2000 came to an end years later, in 2014. Officially, anyway.",
+      "abstract": "In a wooded 47-acre compound southeast of Dallas, a standoff that started in 2000 came to an end years later, in 2014. Officially, anyway.",
+      "lead_paragraph": "TRINIDAD, Tex. — How long can the Oregon standoff last? If the one that dragged on here in this rural East Texas town is any example, the answer is at least a decade, and perhaps much longer.",
+      "publication_date": "2016-01-07T15:23:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/08/us/lesson-for-stalemated-sides-in-oregon-a-texas-standoff-without-end.html",
+      "byline": "By Manny Fernandez"
+    }
+  ]
+}

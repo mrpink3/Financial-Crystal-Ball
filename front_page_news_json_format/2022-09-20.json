@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2022-09-20",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Wall Street Is on Edge as It Tries to Guess What the Fed Is Thinking",
+      "snippet": "Ahead of a pivotal Federal Reserve meeting on Wednesday, prominent investors and business leaders have warned that the worst may be yet to come for the markets.",
+      "abstract": "Ahead of a pivotal Federal Reserve meeting on Wednesday, prominent investors and business leaders have warned that the worst may be yet to come for the markets.",
+      "lead_paragraph": "Will Jay Powell be hawkish or dovish when the Federal Reserve meets on Wednesday? The collective mood of investors going forward, already soured after last week’s stock market tumult, depends on the answer to that question.",
+      "publication_date": "2022-09-19T16:56:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/19/business/stocks-inflation-federal-reserve.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Thousands Pay Tribute as Britain Says Final Farewell to Its Queen",
+      "snippet": "More than 100 world leaders, including President Biden, attended the funeral for Queen Elizabeth II, and Britons lined the streets for a procession that took her to her final resting place at Windsor Castle.",
+      "abstract": "More than 100 world leaders, including President Biden, attended the funeral for Queen Elizabeth II, and Britons lined the streets for a procession that took her to her final resting place at Windsor Castle.",
+      "lead_paragraph": "LONDON — Queen Elizabeth II was laid to rest on Monday after a majestic state funeral that drew tens of millions of Britons together in a vast expression of grief and gratitude, as they bade farewell to a sovereign whose seven-decade reign had spanned their lives and defined their times.",
+      "publication_date": "2022-09-19T21:14:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Strike Near Another Ukrainian Nuclear Plant Escalates Fears of Disaster",
+      "snippet": "A powerful Russian missile hit 300 yards from the plant far from the front lines, Ukraine said, a reminder that despite its recent retreat, Russia can still threaten nuclear sites.",
+      "abstract": "A powerful Russian missile hit 300 yards from the plant far from the front lines, Ukraine said, a reminder that despite its recent retreat, Russia can still threaten nuclear sites.",
+      "lead_paragraph": "KYIV, Ukraine — A powerful Russian missile exploded less than 900 feet from the reactors of a Ukrainian nuclear power plant early Monday, according to Ukrainian officials, a reminder that, despite battlefield setbacks, Russia can still threaten disaster at any of Ukraine’s four active nuclear plants.",
+      "publication_date": "2022-09-19T23:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html",
+      "byline": "By Marc Santora"
+    },
+    {
+      "headline": "How a Quebec Lithium Mine May Help Make Electric Cars Affordable",
+      "snippet": "The project also illustrates how difficult it is to get lithium out of the ground and break China’s dominance in processing the metal and turning it into batteries.",
+      "abstract": "The project also illustrates how difficult it is to get lithium out of the ground and break China’s dominance in processing the metal and turning it into batteries.",
+      "lead_paragraph": "About 350 miles northwest of Montreal, amid a vast pine forest, is a deep mining pit with walls of mottled rock. The pit has changed hands repeatedly and been mired in bankruptcy, but now it could help determine the future of electric vehicles.",
+      "publication_date": "2022-09-20T07:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html",
+      "byline": "By Jack Ewing and Brendan George Ko For The New York Times"
+    },
+    {
+      "headline": "‘Very Harmful’ Lack of Data Blunts U.S. Response to Outbreaks",
+      "snippet": "Major data gaps, the result of decades of underinvestment in public health, have undercut the government response to the coronavirus and now to monkeypox.",
+      "abstract": "Major data gaps, the result of decades of underinvestment in public health, have undercut the government response to the coronavirus and now to monkeypox.",
+      "lead_paragraph": "ANCHORAGE — After a middle-aged woman tested positive for Covid-19 in January at her workplace in Fairbanks, public health workers sought answers to questions vital to understanding how the virus was spreading in Alaska’s rugged interior.",
+      "publication_date": "2022-09-20T09:00:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/20/us/politics/covid-data-outbreaks.html",
+      "byline": "By Sharon LaFraniere"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-05-12",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Jeffrey Katzenberg Blames Pandemic for Quibi’s Rough Start",
+      "snippet": "Downloads of the $1.8 billion short-form streaming app, meant for phones, are paltry. “I attribute everything that has gone wrong to coronavirus,” Mr. Katzenberg said. “Everything.”",
+      "abstract": "Downloads of the $1.8 billion short-form streaming app, meant for phones, are paltry. “I attribute everything that has gone wrong to coronavirus,” Mr. Katzenberg said. “Everything.”",
+      "lead_paragraph": "LOS ANGELES — Jeffrey Katzenberg hasn’t left his Beverly Hills home in nearly 50 days.",
+      "publication_date": "2020-05-11T19:56:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/11/business/media/jeffrey-katzenberg-quibi-coronavirus.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Tribal Nations Face Most Severe Crisis in Decades as the Coronavirus Closes Casinos",
+      "snippet": "Nearly 500 tribal casinos remain shut down during the pandemic, causing job losses to spike. The economic damage is spreading quickly, wreaking havoc on fragile tribal finances.",
+      "abstract": "Nearly 500 tribal casinos remain shut down during the pandemic, causing job losses to spike. The economic damage is spreading quickly, wreaking havoc on fragile tribal finances.",
+      "lead_paragraph": "ALBUQUERQUE — Tribal nations around the United States are facing their most severe crisis in decades as they grapple simultaneously with some of the deadliest coronavirus outbreaks in rural America and the economic devastation caused by the protracted shutdown of nearly 500 tribally owned casinos.",
+      "publication_date": "2020-05-11T23:02:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/11/us/coronavirus-native-americans-indian-country.html",
+      "byline": "By Simon Romero and Jack Healy"
+    },
+    {
+      "headline": "G.O.P. Split Over State Aid That Could Mostly Go to Democratic Strongholds",
+      "snippet": "With governors and mayors pressing for more federal help to deal with the effects of the pandemic, a divide among Republicans is being driven by the political bent of the states that stand to benefit.",
+      "abstract": "With governors and mayors pressing for more federal help to deal with the effects of the pandemic, a divide among Republicans is being driven by the political bent of the states that stand to benefit.",
+      "lead_paragraph": "WASHINGTON — When Senator Mitt Romney of Utah strode into a luncheon with fellow Republicans last week, he was carrying an oversize poster in his black-gloved hand that bore a blunt message: “Blue states aren’t the only ones who are screwed.”",
+      "publication_date": "2020-05-11T23:04:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/11/us/politics/state-aid-coronavirus-congress.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "China’s Coronavirus Back-to-Work Lessons: Masks and Vigilance",
+      "snippet": "Efforts to get back to business have been inconsistent and sometimes stricter than workers elsewhere might tolerate. Still, the country could set a path for the rest of the world.",
+      "abstract": "Efforts to get back to business have been inconsistent and sometimes stricter than workers elsewhere might tolerate. Still, the country could set a path for the rest of the world.",
+      "lead_paragraph": "BMW workers take their own temperature three times a day and submit the results via an internal chat app. Foxconn, the electronics giant, tells employees to wash their hands before and after handling documents. A ride-share driver wipes down his car daily and sends video proof to headquarters.",
+      "publication_date": "2020-05-12T06:32:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/12/business/coronavirus-china-work-safety.html",
+      "byline": "By Alexandra Stevenson and Cao Li"
+    },
+    {
+      "headline": "Reopening Prompts New Agitation Over Workers’ Virus Exposure",
+      "snippet": "As business restrictions are lifted, employees have moved from advocating workplace safeguards to making sure the measures aren’t removed too soon.",
+      "abstract": "As business restrictions are lifted, employees have moved from advocating workplace safeguards to making sure the measures aren’t removed too soon.",
+      "lead_paragraph": "Riley Breakell, a Starbucks barista in Connecticut, was reassured in mid-March when the company sent a letter announcing expanded catastrophe pay for those absent because of the pandemic. Even though she couldn’t live on the roughly $250 per week she received from Starbucks while her store was closed for a month and a half, she appreciated the company’s effort to do right by its employees.",
+      "publication_date": "2020-05-12T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/12/business/economy/coronavirus-workers-safety.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Patagonia, Quick to Close, Could Be Last to Reopen",
+      "snippet": "It was one of the first retailers to temporarily close as the coronavirus spread. But now, it has lost half of its sales in North America and is looking at a transformed landscape.",
+      "abstract": "It was one of the first retailers to temporarily close as the coronavirus spread. But now, it has lost half of its sales in North America and is looking at a transformed landscape.",
+      "lead_paragraph": "When Patagonia announced on March 13 that it was temporarily closing its 39 stores and e-commerce business in North America because of the coronavirus pandemic, it was one of the first major retailers to take such a drastic step.",
+      "publication_date": "2020-05-12T14:27:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/12/business/patagonia-reopening-coronavirus.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "This Was Supposed to Be the Year Driverless Cars Went Mainstream",
+      "snippet": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult.",
+      "abstract": "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult.",
+      "lead_paragraph": "SAN FRANCISCO — Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy.",
+      "publication_date": "2020-05-12T16:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html",
+      "byline": "By Cade Metz and Erin Griffith"
+    }
+  ]
+}

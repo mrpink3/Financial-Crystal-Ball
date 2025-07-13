@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-05-28",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "McKinsey Said Disclosure Rules Were Confusing. It Ignored Its Own Primer.",
+      "snippet": "The consulting company has argued it’s too hard to understand the disclosure rules intended to keep bankruptcy proceedings honest. It could have just looked at “Bankruptcy 101.”",
+      "abstract": "The consulting company has argued it’s too hard to understand the disclosure rules intended to keep bankruptcy proceedings honest. It could have just looked at “Bankruptcy 101.”",
+      "lead_paragraph": "McKinsey & Company has spent months fighting in court over how it should disclose potential conflicts of interest when it advises bankrupt companies. The powerful consulting firm has defended itself by arguing that federal disclosure rules are so vague and confusing that almost no one can agree on how to comply.",
+      "publication_date": "2019-05-27T16:47:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/27/business/mckinsey-bankruptcy-rules-jay-alix.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Trump Administration Hardens Its Attack on Climate Science",
+      "snippet": "In a significant escalation, policymakers are seeking to undermine or discard research showing the most dire risks of inaction on climate change.",
+      "abstract": "In a significant escalation, policymakers are seeking to undermine or discard research showing the most dire risks of inaction on climate change.",
+      "lead_paragraph": "WASHINGTON — President Trump has rolled back environmental regulations, pulled the United States out of the Paris climate accord, brushed aside dire predictions about the effects of climate change, and turned the term “global warming” into a punch line rather than a prognosis.",
+      "publication_date": "2019-05-27T19:30:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/27/us/politics/trump-climate-science.html",
+      "byline": "By Coral Davenport and Mark Landler"
+    },
+    {
+      "headline": "Millennials ‘Make Farming Sexy’ in Africa, Where Tilling the Soil Once Meant Shame",
+      "snippet": "In Africa, farming is widely considered a synonym for poverty. But university graduates have set out to prove that farming is a future with “bling.”",
+      "abstract": "In Africa, farming is widely considered a synonym for poverty. But university graduates have set out to prove that farming is a future with “bling.”",
+      "lead_paragraph": "AGOTIME BEH, Ghana — After he graduated from university, Vozbeth Kofi Azumah was reluctant to tell anyone — even his mother — what he planned to do for a living.",
+      "publication_date": "2019-05-27T19:55:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/27/world/africa/farming-millennials.html",
+      "byline": "By Sarah Maslin Nir"
+    },
+    {
+      "headline": "Trump Wants to Wall Off Huawei, but the Digital World Bridles at Barriers",
+      "snippet": "Washington argues that global leaders must choose between an internet of Western values and one based on an authoritarian regime. If they do, how will data be divided? And would a self-reliant China be an even greater threat?",
+      "abstract": "Washington argues that global leaders must choose between an internet of Western values and one based on an authoritarian regime. If they do, how will data be divided? And would a self-reliant China be an even greater threat?",
+      "lead_paragraph": "President Trump has finally succeeded in building his wall: not the one he keeps demanding on the southwestern border, but a far more complex barrier meant to block China’s national telecommunications champion, Huawei, from operating in the United States and starve it of American technology as it builds networks around the globe.",
+      "publication_date": "2019-05-27T21:26:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/27/us/politics/us-huawei-berlin-wall.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Google’s Shadow Work Force: Temps Who Outnumber Full-Time Employees",
+      "snippet": "The tech company has long used contractors, but some employees worry that a growing reliance on them represents a shifting, less admirable work culture.",
+      "abstract": "The tech company has long used contractors, but some employees worry that a growing reliance on them represents a shifting, less admirable work culture.",
+      "lead_paragraph": "SAN FRANCISCO — Mindy Cruz had an offer for a full-time position at another big tech company when she accepted a temporary job as a recruiter at Google in 2017. The pay was less and the benefits were not as good, but it was one step closer to her dream of becoming a Google employee.",
+      "publication_date": "2019-05-28T06:00:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/28/technology/google-temp-workers.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Food Delivery Apps Are Drowning China in Plastic",
+      "snippet": "The noodles and barbecue arrive within 30 minutes. The containers they come in could be around for hundreds of years thereafter.",
+      "abstract": "The noodles and barbecue arrive within 30 minutes. The containers they come in could be around for hundreds of years thereafter.",
+      "lead_paragraph": "BEIJING — In all likelihood, the enduring physical legacy of China’s internet boom will not be the glass-and-steel office complexes or the fancy apartments for tech elites.",
+      "publication_date": "2019-05-28T07:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/28/technology/china-food-delivery-trash.html",
+      "byline": "By Raymond Zhong and Carolyn Zhang"
+    },
+    {
+      "headline": "Dementia Stopped Peter Max From Painting. For Some, That Spelled a Lucrative Opportunity.",
+      "snippet": "Now Peter Max’s associates are trading lurid allegations of kidnapping, hired goons, attempted murder by Brazil nut and art fraud on the high seas.",
+      "abstract": "Now Peter Max’s associates are trading lurid allegations of kidnapping, hired goons, attempted murder by Brazil nut and art fraud on the high seas.",
+      "lead_paragraph": "The scene played out for years. Twice a week, in the late afternoon, above the Shun Lee Chinese restaurant on the Upper West Side of Manhattan, a creaky elevator would open, and out would step an elderly man. Thin as a rail, with a sparse mustache, he would sometimes have little idea about where or who he was. A pair of security doors would buzz unlocked once surveillance cameras identified him as the artist Peter Max.",
+      "publication_date": "2019-05-28T09:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/05/28/business/peter-max-dementia-cruise-ship-auctions.html",
+      "byline": "By Amy Chozick"
+    },
+    {
+      "headline": "Supreme Court Sidesteps Abortion Question in Ruling on Indiana Law",
+      "snippet": "The justices upheld a law on the disposal of fetal remains, but declined to hear a case on whether states can prohibit abortions sought solely based on a fetal characteristic like sex or disability.",
+      "abstract": "The justices upheld a law on the disposal of fetal remains, but declined to hear a case on whether states can prohibit abortions sought solely based on a fetal characteristic like sex or disability.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Tuesday sidestepped part of a major abortion case, a new sign that the court is not yet moving aggressively to test the constitutional right to abortion established in Roe v. Wade.",
+      "publication_date": "2019-05-28T14:23:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/28/us/politics/supreme-court-abortion-indiana.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Savior of G.M. Lordstown Plant, Hailed by Trump, Is a Corporate Cipher",
+      "snippet": "The electric-truck venture hailed by President Trump exists almost entirely on paper and would need $300 million to get the factory running again.",
+      "abstract": "The electric-truck venture hailed by President Trump exists almost entirely on paper and would need $300 million to get the factory running again.",
+      "lead_paragraph": "For months, President Trump had been putting pressure on the chief executive of General Motors, Mary T. Barra, because she had decided to idle an Ohio factory and lay off 1,600 workers. “I am not happy that it is closed when everything else in our Country is BOOMING,” he said on Twitter. “I asked her to sell it or do something quickly.”",
+      "publication_date": "2019-05-28T15:14:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/28/business/economy/trump-gm-workhorse-lordstown.html",
+      "byline": "By Nelson D. Schwartz, Matthew Goldstein and Neal E. Boudette"
+    },
+    {
+      "headline": "30 Years After Tiananmen, a Chinese Military Insider Warns: Never Forget",
+      "snippet": "A former People’s Liberation Army journalist defied a political taboo to describe the bloody crackdown in Beijing and urge a national reckoning.",
+      "abstract": "A former People’s Liberation Army journalist defied a political taboo to describe the bloody crackdown in Beijing and urge a national reckoning.",
+      "lead_paragraph": "BEIJING — For three decades, Jiang Lin kept quiet about the carnage she had seen on the night when the Chinese Army rolled through Beijing to crush student protests in Tiananmen Square. But the memories tormented her — of soldiers firing into crowds in the dark, bodies slumped in pools of blood and the thud of clubs when troops bludgeoned her to the ground near the square.",
+      "publication_date": "2019-05-28T15:42:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/28/world/asia/china-tiananmen-square-massacre.html",
+      "byline": "By Chris Buckley"
+    }
+  ]
+}

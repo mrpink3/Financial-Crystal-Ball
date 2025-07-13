@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-11-07",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "China Is Lending Billions to Countries in Financial Trouble",
+      "snippet": "Instead of lending money for highways and bridges, China has shifted to providing emergency rescues for previous borrowers.",
+      "abstract": "Instead of lending money for highways and bridges, China has shifted to providing emergency rescues for previous borrowers.",
+      "lead_paragraph": "After lending $1.3 trillion to developing countries, mainly for big-ticket infrastructure projects, China has shifted its focus to bailing out many of those same countries from piles of debt.",
+      "publication_date": "2023-11-06T23:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/06/business/china-bri-aiddata.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Israel Says It Has Split Gaza Strip in Two in Drive to Isolate Hamas’s Leadership",
+      "snippet": "Israel’s military surrounded Gaza City as the enclave plunged into another communications blackout, sowing panic among relatives fearful of the fate of loved ones who remain there.",
+      "abstract": "Israel’s military surrounded Gaza City as the enclave plunged into another communications blackout, sowing panic among relatives fearful of the fate of loved ones who remain there.",
+      "lead_paragraph": "The Israeli military said its forces had split the Gaza Strip in two after a night of heavy airstrikes, a move that Israel said would make it more difficult for Hamas to control the enclave.",
+      "publication_date": "2023-11-07T04:31:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/06/world/middleeast/israel-gaza-blackout.html",
+      "byline": "By Michael Levenson, Adam Entous and Andrés R. Martínez"
+    },
+    {
+      "headline": "How Your Child’s School Bus Might Prevent Blackouts",
+      "snippet": "When not driving around, electric buses and other vehicles could help utilities by storing their solar and wind energy and releasing it to meet surges in demand.",
+      "abstract": "When not driving around, electric buses and other vehicles could help utilities by storing their solar and wind energy and releasing it to meet surges in demand.",
+      "lead_paragraph": "The four vehicles parked at a depot in South Burlington, Vt., look no different from the yellow school buses familiar to millions of schoolchildren. But beneath their steel shells, these buses are packed with technology that could be vital in the transition to clean energy.",
+      "publication_date": "2023-11-07T10:01:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/07/business/energy-environment/electric-school-buses-batteries-grid.html",
+      "byline": "By Jack Ewing and Ivan Penn"
+    },
+    {
+      "headline": "Lavish Tax Credits and Trade Protections Lure Solar Firms to U.S.",
+      "snippet": "A combination of government policies is finally succeeding in reversing a long decline in solar manufacturing in the United States.",
+      "abstract": "A combination of government policies is finally succeeding in reversing a long decline in solar manufacturing in the United States.",
+      "lead_paragraph": "Six years ago, an executive from Suniva, a bankrupt solar panel manufacturer, warned a packed hearing room in Washington that competition from companies in China and Southeast Asia was causing a “blood bath” in his industry. More than 30 U.S.-based solar companies had been forced to shut down in the previous five years alone, he said, and others would soon follow unless the government supported them.",
+      "publication_date": "2023-11-07T10:02:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/07/business/economy/solar-production-united-states-ira-tax-credits.html",
+      "byline": "By Ana Swanson and Jim Tankersley"
+    },
+    {
+      "headline": "Under Scrutiny Over Gaza, Israel Points to Civilian Toll of U.S. Wars",
+      "snippet": "Israeli officials say it is impossible to defeat Hamas without killing innocents, a lesson they argue Americans and their allies should understand.",
+      "abstract": "Israeli officials say it is impossible to defeat Hamas without killing innocents, a lesson they argue Americans and their allies should understand.",
+      "lead_paragraph": "Falluja. Mosul. Copenhagen. Hiroshima.",
+      "publication_date": "2023-11-07T10:02:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/07/us/politics/israel-gaza-war-death-toll-civilians.html",
+      "byline": "By Michael Crowley and Edward Wong"
+    },
+    {
+      "headline": "Nearing Her 109th Birthday, and Still Waiting for Her Day in Court",
+      "snippet": "Lessie Benningfield Randle survived the Tulsa race massacre of 1921. Her lawyers are making what they say is a final bid to keep her case alive.",
+      "abstract": "Lessie Benningfield Randle survived the Tulsa race massacre of 1921. Her lawyers are making what they say is a final bid to keep her case alive.",
+      "lead_paragraph": "For more than a century, Lessie Benningfield Randle, one of the last known survivors of the 1921 Tulsa race massacre, has lived with the searing details of that spring. For decades, she has recalled the fire that ravaged her neighborhood, Greenwood, and the frantic trip with her grandmother to the safety of a fairground.",
+      "publication_date": "2023-11-07T10:03:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/07/us/tulsa-race-massacre-lawsuit-oklahoma-supreme-court.html",
+      "byline": "By Audra D. S. Burch"
+    }
+  ]
+}

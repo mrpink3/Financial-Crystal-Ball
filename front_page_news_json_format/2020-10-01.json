@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2020-10-01",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "In U.S.-China Tech Feud, Taiwan Feels Heat From Both Sides",
+      "snippet": "The island’s biggest chip maker has been a coveted partner to both battling giants. But rising nationalism is making it harder to keep the middle ground.",
+      "abstract": "The island’s biggest chip maker has been a coveted partner to both battling giants. But rising nationalism is making it harder to keep the middle ground.",
+      "lead_paragraph": "TAINAN, Taiwan — The United States and China are wrestling to lead the world in artificial intelligence, 5G wireless and other cutting-edge technologies. But the real wizardry that makes those advancements possible is being performed on a yam-shaped island that sits between them, geographically and politically.",
+      "publication_date": "2020-10-01T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/01/technology/taiwan-china-tsmc-huawei.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "‘A Battle for the Souls of Black Girls’",
+      "snippet": "Discipline disparities between Black and white boys have driven reform efforts for years. But Black girls are arguably the most at-risk student group in the United States.",
+      "abstract": "Discipline disparities between Black and white boys have driven reform efforts for years. But Black girls are arguably the most at-risk student group in the United States.",
+      "lead_paragraph": "BINGHAMTON, N.Y. — Zulayka McKinstry’s once silly, sociable daughter has stopped seeing friends, talking to siblings and trusting anyone — changes Ms. McKinstry dates to the day in January 2019 when her daughter’s school principal decided that “hyper and giddy” were suspicious behaviors in a 12-year-old girl.",
+      "publication_date": "2020-10-01T09:00:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/01/us/politics/black-girls-school-discipline.html",
+      "byline": "By Erica L. Green, Mark Walker and Eliza Shapiro"
+    },
+    {
+      "headline": "Fraud Schemes Exploit Weak Spots in Unemployment Claims System",
+      "snippet": "Pandemic programs have lowered the barriers to collecting benefits, and the usual security methods haven’t kept up.",
+      "abstract": "Pandemic programs have lowered the barriers to collecting benefits, and the usual security methods haven’t kept up.",
+      "lead_paragraph": "The for-sale ad appeared last week in an underground internet bazaar that specializes in selling stolen accounts and data. It was for access to a filched unemployment insurance claim in California that had been approved and offered benefits worth $17,550.",
+      "publication_date": "2020-10-01T14:48:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/01/business/economy/unemployment-benefits-fraud.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

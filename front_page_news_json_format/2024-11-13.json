@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2024-11-13",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Stand-Up, Drama and Spambots: The Creative World Takes On A.I.",
+      "snippet": "Artificial intelligence has become a subject for people in the art and theater worlds who are worried about being replaced by it.",
+      "abstract": "Artificial intelligence has become a subject for people in the art and theater worlds who are worried about being replaced by it.",
+      "lead_paragraph": "Inside a curved glass building next to the Golden State Warriors’ arena in San Francisco, eight cans of Spam with tiny arms whirred to life, tapping out artificial-intelligence-generated word slop on miniature keyboards. They were part of the Misalignment A.I. Museum, a gallery dedicated to A.I.-inspired art.",
+      "publication_date": "2024-11-13T10:00:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/11/13/technology/ai-comedy-museums-plays.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "The Streaming Wars Didn’t Kill the Little Guys. In Fact, They’re Thriving.",
+      "snippet": "Like Christmas shows? So does Hallmark+. Like horror? Dare to try Shudder. And British shows? There’s BritBox and more.",
+      "abstract": "Like Christmas shows? So does Hallmark+. Like horror? Dare to try Shudder. And British shows? There’s BritBox and more.",
+      "lead_paragraph": "Executives from the Hallmark Channel made a curious decision this fall: They started a new streaming service.",
+      "publication_date": "2024-11-13T10:01:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/11/13/business/media/hallmark-britbox-streaming-growth.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Crypto Industry Lobbies Trump and His Allies to Capitalize on Election Wins",
+      "snippet": "As Bitcoin soars to record highs, cryptocurrency executives are maneuvering to influence Donald J. Trump’s transition and secure their policy goals.",
+      "abstract": "As Bitcoin soars to record highs, cryptocurrency executives are maneuvering to influence Donald J. Trump’s transition and secure their policy goals.",
+      "lead_paragraph": "A cryptocurrency enthusiast as chair of the Securities and Exchange Commission. A presidential committee stacked with industry loyalists. And legislation to let crypto companies operate freely in the United States.",
+      "publication_date": "2024-11-13T10:02:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/11/13/technology/trump-crypto-bitcoin.html",
+      "byline": "By David Yaffe-Bellany, Theodore Schleifer and Erin Griffith"
+    },
+    {
+      "headline": "Inflation Ticks Up, as the Fed’s Victory Remains Incomplete",
+      "snippet": "Inflation has cooled notably, but a pickup in annual price increases underscores that it is not fully back to normal.",
+      "abstract": "Inflation has cooled notably, but a pickup in annual price increases underscores that it is not fully back to normal.",
+      "lead_paragraph": "Inflation ticked up slightly on an annual basis in October, the latest evidence that while cost increases continue to come under control, they have not yet been entirely vanquished.",
+      "publication_date": "2024-11-13T10:03:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/11/13/business/inflation-cpi-october.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "At Mar-a-Lago, ‘Uncle’ Elon Musk Puts His Imprint on the Trump Transition",
+      "snippet": "He’s on the patio. He’s on the golf course. Everywhere Donald Trump looks, there is the world’s richest man.",
+      "abstract": "He’s on the patio. He’s on the golf course. Everywhere Donald Trump looks, there is the world’s richest man.",
+      "lead_paragraph": "In nearly every meeting that President-elect Donald J. Trump holds at Mar-a-Lago, alongside him is someone who has been elected to nothing, nominated to nothing and, only a few months ago, had no meaningful relationship with him.",
+      "publication_date": "2024-11-13T10:03:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/11/13/us/politics/musk-trump-transition-mar-a-lago.html",
+      "byline": "By Theodore Schleifer"
+    },
+    {
+      "headline": "Why a $4 Billion Settlement of Maui Fire Claims Is Tangled Up in Court",
+      "snippet": "Insurers that paid claims say a deal unfairly keeps them from recouping their own losses.",
+      "abstract": "Insurers that paid claims say a deal unfairly keeps them from recouping their own losses.",
+      "lead_paragraph": "The ashes of last summer’s devastating fire in Lahaina on Maui, which killed 102 people and destroyed the town, were still smoldering when talk turned to how fraught the rebuilding process would be.",
+      "publication_date": "2024-11-13T14:31:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/11/13/business/lahaina-fire-settlement-court-battle-insurers.html",
+      "byline": "By Emily Flitter"
+    },
+    {
+      "headline": "Trump’s Immigration Plans Could Bring an Economic Toll",
+      "snippet": "Expelling noncitizens on a mass scale is likely to raise prices on goods and services and lower employment rates for U.S. workers, many economists say.",
+      "abstract": "Expelling noncitizens on a mass scale is likely to raise prices on goods and services and lower employment rates for U.S. workers, many economists say.",
+      "lead_paragraph": "The wave of migrants who arrived during the Biden administration fueled some of the anger that propelled Donald J. Trump back to power. They also offset a labor shortage, putting a damper on inflation.",
+      "publication_date": "2024-11-13T15:56:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/11/13/business/economy/trump-immigration-inflation-prices.html",
+      "byline": "By Lydia DePillis"
+    }
+  ]
+}

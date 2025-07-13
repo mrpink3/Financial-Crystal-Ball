@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2008-07-23",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Health Plan From Obama Spurs Debate",
+      "snippet": "Whether Barack Obama can deliver on his pledge to reduce premiums is a matter of dispute among analysts.",
+      "abstract": "Whether Barack Obama can deliver on his pledge to reduce premiums is a matter of dispute among analysts.",
+      "lead_paragraph": "It is one of the most audacious promises in a campaign that has been thick with them.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/23/us/23health.html",
+      "byline": "By Kevin Sack"
+    },
+    {
+      "headline": "A Mortgage Rescue Strains Calculations",
+      "snippet": "The Congressional Budget Office said a proposed rescue of Fannie Mae and Freddie Mac could appear on the federal budget as a $25 billion cost to taxpayers, but the figure is, at best, a rough estimate.",
+      "abstract": "The Congressional Budget Office said a proposed rescue of Fannie Mae and Freddie Mac could appear on the federal budget as a $25 billion cost to taxpayers, but the figure is, at best, a rough estimate.",
+      "lead_paragraph": "WASHINGTON  The proposed government rescue of the nation’s two mortgage finance giants should appear on the federal budget as a $25 billion expense, the independent Congressional Budget Office said on Tuesday, but officials conceded that there was no way to really know what, if anything, a bailout might cost taxpayers.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/economy/23fannie.html",
+      "byline": "By David M. Herszenhorn"
+    },
+    {
+      "headline": "Prices of Food and Gas Take a Toll in Asia",
+      "snippet": "With large price increases for commonly used commodities, countries like India and Vietnam are already having to deal with double-digit inflation.",
+      "abstract": "With large price increases for commonly used commodities, countries like India and Vietnam are already having to deal with double-digit inflation.",
+      "lead_paragraph": "JAKARTA, Indonesia  While prices have been rising in the United States and Europe, the biggest increases are being felt in Asia, and countries like India and Vietnam are already having to deal with double-digit inflation. ",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/worldbusiness/23inflate.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Phone Giants Fight to Keep Subscribers",
+      "snippet": "Telecommunication companies in the U.S. have to juggle the financial effect of customers dropping their landlines, and increased competition between wireless operators.",
+      "abstract": "Telecommunication companies in the U.S. have to juggle the financial effect of customers dropping their landlines, and increased competition between wireless operators.",
+      "lead_paragraph": "With millions of people snapping up the iPhone, AT&T, the exclusive carrier for the popular phone, should be quite pleased with the stream of revenue it can expect from customers. ",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/23/technology/23phone.html",
+      "byline": "By Laura M. Holson"
+    },
+    {
+      "headline": "Philadelphia Streets Unsafe for Manhole Covers",
+      "snippet": "In the past year thieves have stolen hundreds of covers and grates, which are increasingly valuable as scrap.",
+      "abstract": "In the past year thieves have stolen hundreds of covers and grates, which are increasingly valuable as scrap.",
+      "lead_paragraph": "PHILADELPHIA  Francis McConnell is a field supervisor for the Philadelphia Water Department, but lately he is acting more like an undercover police officer. ",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/23/us/23manholes.html",
+      "byline": "By Ian Urbina"
+    },
+    {
+      "headline": "Woes Afflicting Mortgage Giants Raise Loan Rates",
+      "snippet": "The troubles at Fannie Mae and Freddie Mac could deal another blow to the housing market, as higher interest rates make it harder to refinance existing debts.",
+      "abstract": "The troubles at Fannie Mae and Freddie Mac could deal another blow to the housing market, as higher interest rates make it harder to refinance existing debts.",
+      "lead_paragraph": "Mortgage rates are rising because of the troubles at the loan finance giants Fannie Mae and Freddie Mac, threatening to deal another blow to the faltering housing market. ",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/23rates.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "The Double Life of an Infamous Serbian Fugitive",
+      "snippet": "Radovan Karadzic had transformed his appearance so successfully that he was able to walk about freely.",
+      "abstract": "Radovan Karadzic had transformed his appearance so successfully that he was able to walk about freely.",
+      "lead_paragraph": "BELGRADE, Serbia  The infamous fugitive, long charged with war crimes, was not in a distant monastery or a dark cave when caught at last, but living in Serbia’s capital. Nor was Radovan Karadzic lurking inconspicuously, but instead giving public lectures on alternative medicine before audiences of hundreds.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/23/world/europe/23karadzic.html",
+      "byline": "By Nicholas Kulish and Graham Bowley"
+    },
+    {
+      "headline": "Civilian Risks Curbing Strikes in Afghan War",
+      "snippet": "Commanders said that rules intended to minimize civilian casualties restricted their ability to strike insurgents.",
+      "abstract": "Commanders said that rules intended to minimize civilian casualties restricted their ability to strike insurgents.",
+      "lead_paragraph": "Dawn was breaking over Afghanistan one day this month as Air Force surveillance planes locked in on a top-ranking insurgent commander as he traveled in secret around Kandahar, the spiritual home of the Taliban.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/23/world/asia/23military.html",
+      "byline": "By Thom Shanker"
+    },
+    {
+      "headline": "Paulson Urges Americans to Be Patient on Economy",
+      "snippet": "The Treasury secretary said the economy needs to work through its problems, and he warned of “continued stresses” in the months ahead.",
+      "abstract": "The Treasury secretary said the economy needs to work through its problems, and he warned of “continued stresses” in the months ahead.",
+      "lead_paragraph": "Treasury Secretary Henry M. Paulson Jr., said on Tuesday that Americans need to remain patient as the economy works through its problems, and he warned of “continued stresses” in the months ahead before a full recovery can be made.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "WT",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/economy/23econ.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Bank Investors Expect Less as Losses Mount",
+      "snippet": "Results that would have once been viewed as disastrous are now seen as good, even great, by some.",
+      "abstract": "Results that would have once been viewed as disastrous are now seen as good, even great, by some.",
+      "lead_paragraph": " Can the bad news for banks get any worse? ",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/23bank.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "Cost of Loan Bailout, if Needed, Could Be $25 Billion",
+      "snippet": "The Congressional Budget Office said a proposed rescue of Fannie Mae and Freddie Mac could appear on the federal budget as a $25 billion cost to taxpayers.",
+      "abstract": "The Congressional Budget Office said a proposed rescue of Fannie Mae and Freddie Mac could appear on the federal budget as a $25 billion cost to taxpayers.",
+      "lead_paragraph": "WASHINGTON  The proposed government rescue of the nation’s two mortgage finance giants will appear on the federal budget as a $25 billion cost to taxpayers, the independent Congressional Budget Office said on Tuesday even though officials conceded that there was no way of really knowing what, if anything, a bailout would cost.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "WT",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/economy/23treasury.html",
+      "byline": "By David M. Herszenhorn"
+    },
+    {
+      "headline": "Uprising Against the Ethanol Mandate",
+      "snippet": "The Texas governor is leading a coalition seeking to waive the federal ethanol mandate because of costly grain.",
+      "abstract": "The Texas governor is leading a coalition seeking to waive the federal ethanol mandate because of costly grain.",
+      "lead_paragraph": "The ethanol industry, until recently a golden child that got favorable treatment from Washington, is facing a critical decision on its future.",
+      "publication_date": "2008-07-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/23/business/23ethanol.html",
+      "byline": "By David Streitfeld"
+    }
+  ]
+}

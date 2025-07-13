@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2009-04-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Slump Creates Lack of Mobility for Americans",
+      "snippet": "Fewer Americans changed residence in 2008 than in any year since 1962, the Census Bureau said.",
+      "abstract": "Fewer Americans changed residence in 2008 than in any year since 1962, the Census Bureau said.",
+      "lead_paragraph": "Stranded by the nationwide slump in housing and jobs, fewer Americans are moving, the Census Bureau said Wednesday. ",
+      "publication_date": "2009-04-22T16:56:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/04/23/us/23census.html",
+      "byline": "By Sam Roberts"
+    },
+    {
+      "headline": "Japan Pays Foreign Workers to Go Home",
+      "snippet": "Latin Americans who have lost their jobs are being offered money to return to their home countries.",
+      "abstract": "Latin Americans who have lost their jobs are being offered money to return to their home countries.",
+      "lead_paragraph": "HAMAMATSU, Japan  Rita Yamaoka, a mother of three who immigrated from Brazil, recently lost her factory job here. Now, Japan has made her an offer she might not be able to refuse.",
+      "publication_date": "2009-04-22T17:41:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/04/23/business/global/23immigrant.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "TiVo Promotes Ads It Hopes You’ll Talk to, Not Zap",
+      "snippet": "The new interactive ads appear when a viewer pauses or fast-forwards, and offer information, accessible through the remote.",
+      "abstract": "The new interactive ads appear when a viewer pauses or fast-forwards, and offer information, accessible through the remote.",
+      "lead_paragraph": "The company that attacked television advertising is trying to resuscitate it.",
+      "publication_date": "2009-04-22T20:08:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/04/23/business/media/23adco.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Taliban Seize Vital Pakistan Area Closer to the Capital",
+      "snippet": "Taliban militants have established control in the strategically important area of Buner, only 70 miles from Islamabad, law enforcement officials said.",
+      "abstract": "Taliban militants have established control in the strategically important area of Buner, only 70 miles from Islamabad, law enforcement officials said.",
+      "lead_paragraph": "ISLAMABAD, Pakistan  Pushing deeper into Pakistan, Taliban militants have established effective control of a strategically important district just 70 miles from the capital, Islamabad, officials and residents said Wednesday. ",
+      "publication_date": "2009-04-22T22:43:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/04/23/world/asia/23buner.html",
+      "byline": "By Jane Perlez"
+    },
+    {
+      "headline": "Zoombak Tracks Your Dog, Your Car, Even Your Children",
+      "snippet": "A Hollywood spy tracking device can be slipped into luggage or a glove compartment, assuming you’re O.K. with the ethics.",
+      "abstract": "A Hollywood spy tracking device can be slipped into luggage or a glove compartment, assuming you’re O.K. with the ethics.",
+      "lead_paragraph": "You have to wonder if anyone in Hollywood has ever actually seen a computer. Here we are, 30 years into the PC revolution, and computers in the movies still do all kinds of unrealistic things. Text chatters as it spills across the screen. A wrong password produces a blinking ACCESS DENIED message. Confident technicians, when told to “enhance” a security-camera freeze-frame, somehow manage to zoom into a 640-by-480-pixel image about 50 times.",
+      "publication_date": "2009-04-22T23:23:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/04/23/technology/personaltech/23pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Foreign Money Seeks to Buy Lebanese Votes",
+      "snippet": "As regional powers battle for influence, the June elections for Parliament may be the most corrupt in decades.",
+      "abstract": "As regional powers battle for influence, the June elections for Parliament may be the most corrupt in decades.",
+      "lead_paragraph": "BEIRUT, Lebanon  It is election season in Lebanon, and Hussein H., a jobless 24-year-old from south Beirut, is looking forward to selling his vote to the highest bidder.",
+      "publication_date": "2009-04-23T00:51:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/04/23/world/middleeast/23lebanon.html",
+      "byline": "By Robert F. Worth"
+    },
+    {
+      "headline": "Drug Deals Tie Prices to How Well Patients Do",
+      "snippet": "Some drug makers are backing up their products with discount deals or promises to pay if the drugs don’t work.",
+      "abstract": "Some drug makers are backing up their products with discount deals or promises to pay if the drugs don’t work.",
+      "lead_paragraph": "Think of it as product guarantees by the drug industry.",
+      "publication_date": "2009-04-23T01:43:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/04/23/business/23cigna.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Oil Prices Resist the World’s Recession Trend",
+      "snippet": "Oil markets have shown resilience, as investors seek a refuge and OPEC cuts output to match lower demand.",
+      "abstract": "Oil markets have shown resilience, as investors seek a refuge and OPEC cuts output to match lower demand.",
+      "lead_paragraph": "In recent months, oil prices plunged as consumers curtailed fuel use around the world, with some analysts predicting that the dire economic situation would cause oil to fall to $20 a barrel or less.",
+      "publication_date": "2009-04-23T02:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/04/23/business/global/23oil.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "U.A.W. Grapples With Fate",
+      "snippet": "Chrysler is approaching a deadline on its reorganization plan, and new agreements with the United Automobile Workers union are crucial to its survival.",
+      "abstract": "Chrysler is approaching a deadline on its reorganization plan, and new agreements with the United Automobile Workers union are crucial to its survival.",
+      "lead_paragraph": "DETROIT  Ron Gettelfinger, president of the United Automobile Workers union, broke his silence of recent weeks on Wednesday, signaling his narrow focus in talks with the government and other stakeholders about restructuring Chrysler and aligning it with the Italian automaker Fiat. ",
+      "publication_date": "2009-04-23T02:30:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/04/23/business/23union.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "U.S. Questions Pakistan’s Will to Stop Taliban",
+      "snippet": "The fall of a district near Pakistan’s capital to Taliban fighters has raised alarm about the ability of the government to fend off the militants’ advance.",
+      "abstract": "The fall of a district near Pakistan’s capital to Taliban fighters has raised alarm about the ability of the government to fend off the militants’ advance.",
+      "lead_paragraph": "ISLAMABAD, Pakistan  As the Taliban tightened their hold over newly won territory, Pakistani politicians and American officials on Thursday sharply questioned the government’s willingness to deal with the insurgents and the Pakistani military’s decision to remain on the sidelines.",
+      "publication_date": "2009-04-23T12:52:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/04/24/world/asia/24pstan.html",
+      "byline": "By Carlotta Gall and Eric Schmitt"
+    }
+  ]
+}

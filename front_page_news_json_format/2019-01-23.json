@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-01-23",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Did Australia Hurt Phone Security Around the World?",
+      "snippet": "A law passed last month allows the authorities to compel tech companies to build tools to bypass their products’ encryption. It has global implications.",
+      "abstract": "A law passed last month allows the authorities to compel tech companies to build tools to bypass their products’ encryption. It has global implications.",
+      "lead_paragraph": "SYDNEY, Australia — A new law in Australia gives law enforcement authorities the power to compel tech-industry giants like Apple to create tools that would circumvent the encryption built into their products.",
+      "publication_date": "2019-01-22T17:41:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/22/technology/australia-cellphone-encryption-security.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Los Angeles Teachers’ Strike to End as Deal Is Reached",
+      "snippet": "The deal includes caps on class sizes and hiring full-time nurses for every school, as well as a 6 percent pay raise for teachers.",
+      "abstract": "The deal includes caps on class sizes and hiring full-time nurses for every school, as well as a 6 percent pay raise for teachers.",
+      "lead_paragraph": "LOS ANGELES — Los Angeles public school teachers reached a deal with officials on Tuesday to end a weeklong strike that had affected more than half a million students, winning an array of supplementary services after an era in education marked by attacks on traditional public schools and their teachers.",
+      "publication_date": "2019-01-22T17:54:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/22/us/la-teacher-strike-deal.html",
+      "byline": "By Jennifer Medina and Dana Goldstein"
+    },
+    {
+      "headline": "Senate Leaders Plan Competing Bills to End Shutdown",
+      "snippet": "With competing votes planned for Thursday, the Senate will finally move off the sidelines a month into the partial government shutdown.",
+      "abstract": "With competing votes planned for Thursday, the Senate will finally move off the sidelines a month into the partial government shutdown.",
+      "lead_paragraph": "WASHINGTON — The Senate will hold competing votes on Thursday on President Trump’s proposal to spend $5.7 billion on a border wall and on a Democratic bill that would fund the government through Feb. 8 without a wall. It will be the first time the Senate has stepped off the sidelines to try to end the monthlong government shutdown.",
+      "publication_date": "2019-01-22T20:51:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/22/us/politics/government-shutdown-senate.html",
+      "byline": "By Sheryl Gay Stolberg and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "Despite Bitcoin’s Dive, a Former Soviet Republic Is Still Betting Big on It",
+      "snippet": "Tax breaks, land deals and cheap energy have spurred cryptocurrency mining in Georgia, which wants to be a digital data leader.",
+      "abstract": "Tax breaks, land deals and cheap energy have spurred cryptocurrency mining in Georgia, which wants to be a digital data leader.",
+      "lead_paragraph": "TBILISI, Georgia — For three years, a windowless warehouse on the edge of town has been whirring with enough energy to power nearly 50,000 homes. Day and night, the warehouse, and dozens of cargo containers in a windswept valley, are generating Bitcoin, the cryptocurrency that has created a virtual gold rush in the former Soviet republic of Georgia.",
+      "publication_date": "2019-01-22T23:58:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/22/business/georgia-bitcoin-blockchain-bitfury.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "After U.S. Backs Juan Guaidó as Venezuela’s Leader, Maduro Cuts Ties",
+      "snippet": "President Nicolás Maduro, facing a direct challenge to his hold on power, told American diplomats to leave, an order the United States said it would ignore.",
+      "abstract": "President Nicolás Maduro, facing a direct challenge to his hold on power, told American diplomats to leave, an order the United States said it would ignore.",
+      "lead_paragraph": "CARACAS, Venezuela — President Nicolás Maduro of Venezuela faced the most direct challenge to his hold on power on Wednesday, when an opposition leader stood in the streets of the capital and declared himself the legitimate president, cheered on by thousands of supporters and a growing number of governments, including the Trump administration.",
+      "publication_date": "2019-01-23T14:16:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/23/world/americas/venezuela-protests-guaido-maduro.html",
+      "byline": "By Ana Vanessa Herrero"
+    },
+    {
+      "headline": "Joe Biden’s Paid Speech Buoyed the G.O.P. in Midwest Battleground",
+      "snippet": "The former vice president’s address in October helped Fred Upton, a vulnerable Republican, win re-election in Michigan. Mr. Biden earned $200,000 for the speech.",
+      "abstract": "The former vice president’s address in October helped Fred Upton, a vulnerable Republican, win re-election in Michigan. Mr. Biden earned $200,000 for the speech.",
+      "lead_paragraph": "Joseph R. Biden Jr. swept into Benton Harbor, Mich., three weeks before the November elections, in the midst of his quest to reclaim the Midwest for Democrats. He took the stage at Lake Michigan College as Representative Fred Upton, a long-serving Republican from the area, faced the toughest race of his career.",
+      "publication_date": "2019-01-23T15:17:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/23/us/politics/biden-speech-fred-upton.html",
+      "byline": "By Alexander Burns"
+    }
+  ]
+}

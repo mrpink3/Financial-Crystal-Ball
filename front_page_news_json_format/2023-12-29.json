@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-12-29",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7",
+      "snippet": "A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.",
+      "abstract": "A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.",
+      "lead_paragraph": "At first, she was known simply as “the woman in the black dress.”",
+      "publication_date": "2023-12-28T16:42:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/28/world/middleeast/oct-7-attacks-hamas-israel-sexual-violence.html",
+      "byline": "By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv"
+    },
+    {
+      "headline": "California Pushes Electric Trucks as the Future of Freight",
+      "snippet": "A mainstay of cargo transport will be phased out at ports as California bans new registrations of carbon-fuel trucks in favor of nonpolluting ones.",
+      "abstract": "A mainstay of cargo transport will be phased out at ports as California bans new registrations of carbon-fuel trucks in favor of nonpolluting ones.",
+      "lead_paragraph": "Neri Diaz thought he was ready for a crucial juncture in California’s ambitious plans, closely watched in other states and around the world, to phase out diesel-powered trucks.",
+      "publication_date": "2023-12-28T17:07:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/28/business/energy-environment/electric-trucks-port-california.html",
+      "byline": "By Peter Eavis and Mark Abramson"
+    },
+    {
+      "headline": "Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot",
+      "snippet": "Maine found Donald Trump ineligible to hold office because of his actions after the 2020 election. California said his name would remain on the ballot there.",
+      "abstract": "Maine found Donald Trump ineligible to hold office because of his actions after the 2020 election. California said his name would remain on the ballot there.",
+      "lead_paragraph": "Maine on Thursday became the second state to bar Donald J. Trump from its primary election ballot after its top election official ruled that the former president’s efforts to remain in power after the 2020 election rendered him ineligible to hold office again.",
+      "publication_date": "2023-12-29T00:01:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/28/us/maine-trump-ballot.html",
+      "byline": "By Jenna Russell, Ernesto Londoño and Shawn Hubler"
+    },
+    {
+      "headline": "Israel Expresses Regret for ‘Unintended Harm’ to Civilians in Gaza Airstrike",
+      "snippet": "The Israeli military said it was “working to draw lessons” from an attack in central Gaza that was reported to have killed dozens of people.",
+      "abstract": "The Israeli military said it was “working to draw lessons” from an attack in central Gaza that was reported to have killed dozens of people.",
+      "lead_paragraph": "The Israeli military said on Thursday that it had caused “unintended harm” to “uninvolved civilians” in two strikes this week on a densely packed Gaza Strip neighborhood, where, the local health authorities said, dozens were killed.",
+      "publication_date": "2023-12-29T01:00:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/28/world/middleeast/israel-gaza-airstrike.html",
+      "byline": "By Aaron Boxerman, Isabel Kershner and Thomas Fuller"
+    },
+    {
+      "headline": "Hong Kong Stocks Plunge to Losses for 4th Straight Year",
+      "snippet": "Investors worried about China’s economy shunned Hong Kong’s stock market, once one of the biggest and most important in the world.",
+      "abstract": "Investors worried about China’s economy shunned Hong Kong’s stock market, once one of the biggest and most important in the world.",
+      "lead_paragraph": "This summer, when Hong Kong’s stock market rout seemed to have no end in sight, the city’s financial chief, Paul Chan, jumped into action, creating a task force to inject confidence into a market that was being pummeled by global investors wary of China.",
+      "publication_date": "2023-12-29T08:29:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/29/business/hong-kong-stocks-hang-seng.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Russia Pounds Ukrainian Cities in One of the Largest Air Attacks of the War",
+      "snippet": "The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.",
+      "abstract": "The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.",
+      "lead_paragraph": "Russia targeted Ukrainian cities with more than 150 missiles and drones on Friday morning, in what Ukrainian officials said was one of the largest air assaults of the war. At least 30 people were killed, and more than 160 were wounded, according to the Ukrainian government, and critical infrastructure was damaged.",
+      "publication_date": "2023-12-29T09:52:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/29/world/europe/russia-ukraine-missile-attacks.html",
+      "byline": "By Constant Méheut and Daria Mitiuk"
+    },
+    {
+      "headline": "After Rise in Murders During the Pandemic, a Sharp Decline in 2023",
+      "snippet": "The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.",
+      "abstract": "The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.",
+      "lead_paragraph": "Detroit is on track to record the fewest murders since the 1960s. In Philadelphia, where there were more murders in 2021 than in any year on record, the number of homicides this year has fallen more than 20 percent from last year. And in Los Angeles, the number of shooting victims this year is down more than 200 from two years ago.",
+      "publication_date": "2023-12-29T10:01:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/29/us/crime-data-fbi-homicides.html",
+      "byline": "By Tim Arango and Campbell Robertson"
+    },
+    {
+      "headline": "Inside the News Industry’s Uneasy Negotiations With OpenAI",
+      "snippet": "Several major publishers have been in talks to license content to the creator of ChatGPT, but agreement on the price and terms has been elusive.",
+      "abstract": "Several major publishers have been in talks to license content to the creator of ChatGPT, but agreement on the price and terms has been elusive.",
+      "lead_paragraph": "For months, some of the biggest players in the U.S. media industry have been in confidential talks with OpenAI on a tricky issue: the price and terms of licensing their content to the artificial intelligence company.",
+      "publication_date": "2023-12-29T10:03:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/29/business/media/media-openai-chatgpt.html",
+      "byline": "By Benjamin Mullin"
+    }
+  ]
+}

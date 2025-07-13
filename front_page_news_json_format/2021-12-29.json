@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2021-12-29",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "How Discord, Born From an Obscure Game, Became a Social Hub for Young People",
+      "snippet": "Jason Citron created a video game that was going nowhere fast. So he stripped it down to a chatting feature that eventually boomed during the pandemic.",
+      "abstract": "Jason Citron created a video game that was going nowhere fast. So he stripped it down to a chatting feature that eventually boomed during the pandemic.",
+      "lead_paragraph": "In 2015, Jason Citron, a computer programmer, was struggling to break through in the video game industry. The new multiplayer game he had created with his development studio, Hammer & Chisel, was not catching on.",
+      "publication_date": "2021-12-29T08:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "What a Year of Brexit Brought U.K. Companies: Higher Costs and Endless Forms",
+      "snippet": "While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated.",
+      "abstract": "While the worst of the Brexit trade disruptions are over, British exports to the European Union are down and companies are frustrated.",
+      "lead_paragraph": "For more than a decade, Neil Currie could sell his company’s handcrafted black iron pans and cookware from Shropshire, the birthplace of Britain’s Industrial Revolution, to customers in Berlin as easily as he could to ones in Birmingham, less than 30 miles to the east. But this year, since Britain left the European Union, Netherton Foundry’s sales into the bloc have plummeted.",
+      "publication_date": "2021-12-29T08:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/29/business/uk-companies-brexit-trade.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "On the Slaughterhouse Floor, Fear and Anger Remain",
+      "snippet": "Workers say factories are still glossing over virus safety, as the meatpackers that dominate beef production harvest record profits.",
+      "abstract": "Workers say factories are still glossing over virus safety, as the meatpackers that dominate beef production harvest record profits.",
+      "lead_paragraph": "GREELEY, Colo. — Tin Aye died without ever laying hands on her newborn grandson.",
+      "publication_date": "2021-12-29T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/29/business/meat-factories-covid.html",
+      "byline": "By Peter S. Goodman and Erin Schaff"
+    },
+    {
+      "headline": "Stay or Go? For Myanmar’s Latest Wave of Refugees, There’s No Good Choice.",
+      "snippet": "Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire.",
+      "abstract": "Hundreds of thousands who fled deadly unrest at home confront an uncertain future abroad. Yet for many who remained, conditions are dire.",
+      "lead_paragraph": "He was already preparing to leave when the gunfire erupted without warning. The soldiers were shooting at civilians and burning down homes, again.",
+      "publication_date": "2021-12-29T14:48:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/29/world/asia/myanmar-coup-refugees.html",
+      "byline": "By Sui-Lee Wee"
+    }
+  ]
+}

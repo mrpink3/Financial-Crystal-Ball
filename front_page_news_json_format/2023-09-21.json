@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-09-21",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Google’s Bard Just Got More Powerful. It’s Still Erratic.",
+      "snippet": "The chatbot now pulls information from a user’s Gmail, Google Docs and Google Drive accounts. The feature leaves a lot to be desired.",
+      "abstract": "The chatbot now pulls information from a user’s Gmail, Google Docs and Google Drive accounts. The feature leaves a lot to be desired.",
+      "lead_paragraph": "This week, Bard — Google’s competitor to ChatGPT — got an upgrade.",
+      "publication_date": "2023-09-20T18:23:56+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/20/technology/google-bard-extensions.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Biden and Netanyahu Meet to Try to Soothe Tensions, With Some Success",
+      "snippet": "The president put aside his frustrations with the Israeli prime minister over his “extremist” government to focus on issues of mutual interest, like Iran and Saudi Arabia.",
+      "abstract": "The president put aside his frustrations with the Israeli prime minister over his “extremist” government to focus on issues of mutual interest, like Iran and Saudi Arabia.",
+      "lead_paragraph": "For the first time since Prime Minister Benjamin Netanyahu of Israel returned to office last December, he and President Biden met face to face on Wednesday in a session that both soothed and aggravated tensions between the leaders and demonstrated Mr. Biden’s wider commitment to Israeli security.",
+      "publication_date": "2023-09-20T18:44:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/20/world/middleeast/biden-netanyahu-meet-iran-saudi.html",
+      "byline": "By Patrick Kingsley and Michael D. Shear"
+    },
+    {
+      "headline": "Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto",
+      "snippet": "The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.",
+      "abstract": "The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.",
+      "lead_paragraph": "President Volodymyr Zelensky of Ukraine, denouncing Russia’s “unprovoked aggression,” told the United Nations Security Council on Wednesday that if it did not break the grip of Russian veto power, it would be powerless to resolve conflicts around the world, adding his voice to the rising calls to overhaul how the body works.",
+      "publication_date": "2023-09-20T20:37:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/20/world/europe/zelensky-un-security-council.html",
+      "byline": "By Richard Pérez-Peña, Farnaz Fassihi and Michael Crowley"
+    },
+    {
+      "headline": "Hong Kong Says It Calls the Shots, Not Beijing. Investors Are Wary.",
+      "snippet": "Its close ties to Beijing are putting the city, still an international financial hub, in a bind as it lures Western investors to revive its economy.",
+      "abstract": "Its close ties to Beijing are putting the city, still an international financial hub, in a bind as it lures Western investors to revive its economy.",
+      "lead_paragraph": "Isolated from the world and pulled closer into Beijing’s orbit over the past three years, Hong Kong is finding that its fortunes are tied more than ever to China.",
+      "publication_date": "2023-09-21T04:01:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/21/business/hong-kong-stocks-financial-hub.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "The Lawyers Sam Bankman-Fried Once Trusted Are Drawing Criticism",
+      "snippet": "Mr. Bankman-Fried and his allies have blasted Sullivan & Cromwell, the New York law firm managing FTX’s bankruptcy, for its tangled relationship with the crypto exchange.",
+      "abstract": "Mr. Bankman-Fried and his allies have blasted Sullivan & Cromwell, the New York law firm managing FTX’s bankruptcy, for its tangled relationship with the crypto exchange.",
+      "lead_paragraph": "Just before FTX collapsed in November, one of its outside lawyers at the law firm Sullivan & Cromwell emailed a colleague at another firm, insisting that the cryptocurrency exchange’s finances were stable.",
+      "publication_date": "2023-09-21T09:00:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/21/technology/ftx-sam-bankman-fried-lawyers.html",
+      "byline": "By David Yaffe-Bellany and Matthew Goldstein"
+    },
+    {
+      "headline": "In Washington Visit, Zelensky Tries to Shore Up Critical Support",
+      "snippet": "President Volodymyr Zelensky told lawmakers that Ukraine would lose the war to Russia if the United States curtailed the flow of aid and weapons.",
+      "abstract": "President Volodymyr Zelensky told lawmakers that Ukraine would lose the war to Russia if the United States curtailed the flow of aid and weapons.",
+      "lead_paragraph": "President Biden told President Volodymyr Zelensky of Ukraine on Thursday that the United States would be “staying with you” as its grinding war with Russia continues, even as a growing faction of the Republican Party has threatened to hold up aid that Mr. Zelensky said could cost his country the war.",
+      "publication_date": "2023-09-21T09:01:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/21/us/politics/zelensky-washington-biden-visit.html",
+      "byline": "By Erica L. Green and Katie Rogers"
+    },
+    {
+      "headline": "Rupert Murdoch to Retire From Fox and News Corporation Boards",
+      "snippet": "The move leaves his son Lachlan as the sole executive in charge of the global media empire.",
+      "abstract": "The move leaves his son Lachlan as the sole executive in charge of the global media empire.",
+      "lead_paragraph": "Rupert Murdoch is retiring from the Fox and News Corporation boards, the companies announced Thursday morning, making his son Lachlan the sole executive in charge of the powerful global media empire he built from a small local newspaper concern in Australia 70 years ago.",
+      "publication_date": "2023-09-21T13:07:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/21/business/media/rupert-murdoch-fox-retire.html",
+      "byline": "By Jim Rutenberg"
+    },
+    {
+      "headline": "As Armenia and Azerbaijan Clash, Russia Is a Distracted Spectator",
+      "snippet": "In the conflict over Nagorno-Karabakh, Russia, drained by the war in Ukraine, seemed incapable of acting as the indispensable power capable of knocking heads together.",
+      "abstract": "In the conflict over Nagorno-Karabakh, Russia, drained by the war in Ukraine, seemed incapable of acting as the indispensable power capable of knocking heads together.",
+      "lead_paragraph": "Endorsing yet another cease-fire in the conflict that embroils two of Moscow’s closest partners — Armenia and Azerbaijan — President Vladimir V. Putin of Russia “noted with satisfaction” on Wednesday that the Russian peacekeepers he sent to the region to enforce an earlier, failed truce had helped quell the renewed fighting.",
+      "publication_date": "2023-09-21T13:17:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/21/world/europe/russia-armenia-azerbaijan-karabakh.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Jimmy Carter’s Final Chapter: Peanut Butter Ice Cream and His 99th Birthday",
+      "snippet": "Mr. Carter was already the longest-living president in American history, but his staying power even in hospice has captured the imagination of admirers around the world.",
+      "abstract": "Mr. Carter was already the longest-living president in American history, but his staying power even in hospice has captured the imagination of admirers around the world.",
+      "lead_paragraph": "Maybe it’s the peanut butter ice cream he still enjoys. Or the fact that his first-place Atlanta Braves are cruising toward the playoffs and he wants to see another World Series. Or as many of his loved ones and former advisers suggest, maybe he is just too stubborn to follow anyone else’s timetable.",
+      "publication_date": "2023-09-21T15:21:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/21/us/politics/jimmy-carter-hospice.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Mexico Feels Pressure of Relentless Migration From South America",
+      "snippet": "The surge of migrants trekking north mostly from South America has placed increasing pressure on Mexico as the country applies a range of tactics to quell arrivals.",
+      "abstract": "The surge of migrants trekking north mostly from South America has placed increasing pressure on Mexico as the country applies a range of tactics to quell arrivals.",
+      "lead_paragraph": "At a Mexico City shelter, the nun in charge made another difficult announcement to the mothers and children arriving Wednesday: There was no more space. Five hundred migrants were already crammed into a facility built for 100.",
+      "publication_date": "2023-09-21T15:26:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/21/world/americas/mexico-migrants-darien-gap.html",
+      "byline": "By James Fredrick"
+    }
+  ]
+}

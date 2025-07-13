@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2011-08-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Despite Gene Patent Victory, Myriad Genetics Faces Challenges",
+      "snippet": "Myriad Genetics is leveraging its huge database on gene mutations to defend its franchise in testing for breast cancer risk.",
+      "abstract": "Myriad Genetics is leveraging its huge database on gene mutations to defend its franchise in testing for breast cancer risk.",
+      "lead_paragraph": "Myriad Genetics retained its monopoly on a lucrative genetic test for breast cancer risk when a federal appeals court recently upheld the company’s patents on two human genes — and the validity of gene patents in general. ",
+      "publication_date": "2011-08-24T18:36:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/25/business/despite-gene-patent-victory-myriad-genetics-faces-challenges.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Chasing Rare Earths, Foreign Companies Expand in China",
+      "snippet": "China mines 94 percent of rare earth minerals. As it tightens supplies and raises taxes, some companies are finding it more cost-effective to move production there.",
+      "abstract": "China mines 94 percent of rare earth minerals. As it tightens supplies and raises taxes, some companies are finding it more cost-effective to move production there.",
+      "lead_paragraph": "CHANGSHU, China — China has long used access to its giant customer base and cheap labor as bargaining chips to persuade foreign companies to open factories within its borders.",
+      "publication_date": "2011-08-24T19:53:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/25/business/global/chasing-rare-earths-foreign-companies-expand-in-china.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "BlackBerry, the Best Yet, Isn’t Enough",
+      "snippet": "Research in Motion’s new smartphone, the BlackBerry Bold 9900, will have a very tough time trying to compete with Apple’s iPhone and phones running Google’s Android software.",
+      "abstract": "Research in Motion’s new smartphone, the BlackBerry Bold 9900, will have a very tough time trying to compete with Apple’s iPhone and phones running Google’s Android software.",
+      "lead_paragraph": "Research in Motion just unveiled a new smartphone, the BlackBerry Bold 9900. The question is: Does anybody care?",
+      "publication_date": "2011-08-24T22:34:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/25/technology/personaltech/research-in-motions-best-blackberry-yet-the-bold-9900-is-not-enough.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Jobs Steps Down at Apple, Saying He Can’t Meet Duties",
+      "snippet": "Steven P. Jobs, who has cancer, made Apple one of the world’s most valuable companies. Timothy D. Cook will take over as chief executive.",
+      "abstract": "Steven P. Jobs, who has cancer, made Apple one of the world’s most valuable companies. Timothy D. Cook will take over as chief executive.",
+      "lead_paragraph": "SAN FRANCISCO — Steven P. Jobs, whose insistent vision that he knew what consumers wanted made Apple one of the world’s most valuable and influential companies, is stepping down as chief executive, the company announced late Wednesday.",
+      "publication_date": "2011-08-25T00:36:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/25/technology/jobs-stepping-down-as-chief-of-apple.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "After Arab Revolts, Reigns of Uncertainty",
+      "snippet": "Libya’s complexities echo in the revolts in Bahrain, Syria and, most of all, Yemen, suggesting that the prolonged transition to a new order may prove as tumultuous as Egypt’s revolution was stirring.",
+      "abstract": "Libya’s complexities echo in the revolts in Bahrain, Syria and, most of all, Yemen, suggesting that the prolonged transition to a new order may prove as tumultuous as Egypt’s revolution was stirring.",
+      "lead_paragraph": "DJERBA, Tunisia — The idealism of the revolts in Egypt and Tunisia, where the power of the street revealed the frailty of authority, revived an Arab world anticipating change. But Libya’s unfinished revolution, as inspiring as it is unsettling, illustrates how perilous that change has become as it unfolds in this phase of the Arab Spring. ",
+      "publication_date": "2011-08-25T00:42:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/25/world/africa/25arab.html",
+      "byline": "By Anthony Shadid"
+    },
+    {
+      "headline": "Without Its Master of Design, Apple Will Face Many Challenges",
+      "snippet": "No immediate changes to Apple products will be discernible with Mr. Jobs’s departure, but questions may arise in the future.",
+      "abstract": "No immediate changes to Apple products will be discernible with Mr. Jobs’s departure, but questions may arise in the future.",
+      "lead_paragraph": "Steven P. Jobs, one of the most successful chief executives in corporate history, once said he never thought of himself as a manager, but as a leader. And his notion of leadership revolved around choosing the best people possible, encouraging them and creating an environment in which they could do great work.",
+      "publication_date": "2011-08-25T01:27:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/25/technology/without-its-master-of-design-apple-will-face-challenges.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "U.S. May Back Refinance Plan for Mortgages",
+      "snippet": "The Obama administration is considering a program to let millions of homeowners refinance at today’s rates.",
+      "abstract": "The Obama administration is considering a program to let millions of homeowners refinance at today’s rates.",
+      "lead_paragraph": "The Obama administration is considering further actions to strengthen the housing market, but the bar is high: plans must help a broad swath of homeowners, stimulate the economy and cost next to nothing.",
+      "publication_date": "2011-08-25T02:00:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/25/business/economy/us-may-back-mortgage-refinancing-for-millions.html",
+      "byline": "By Shaila Dewan and Louise Story"
+    },
+    {
+      "headline": "New Numbers, and Geography, for Gay Couples",
+      "snippet": "2010 census figures showed how far same-sex couples have dispersed, moving from traditional enclaves to farther-flung areas of the country.",
+      "abstract": "2010 census figures showed how far same-sex couples have dispersed, moving from traditional enclaves to farther-flung areas of the country.",
+      "lead_paragraph": "REHOBOTH BEACH, Del. — So much for San Francisco.",
+      "publication_date": "2011-08-25T04:01:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/25/us/25census.html",
+      "byline": "By Sabrina Tavernise"
+    },
+    {
+      "headline": "Inside a Libyan Hospital, Proof of a Revolt’s Costs",
+      "snippet": "Doctors and journalists reported evidence of fresh massacres by both sides around Tripoli, while the battle to establish full control of Colonel Qaddafi’s breached compound, Bab al-Aziziya, raged on.",
+      "abstract": "Doctors and journalists reported evidence of fresh massacres by both sides around Tripoli, while the battle to establish full control of Colonel Qaddafi’s breached compound, Bab al-Aziziya, raged on.",
+      "lead_paragraph": "TRIPOLI, Libya — Word raced through Tripoli Central Hospital as fast as the bloody gurneys rushing through the entrance on Thursday carrying wounded fighters from the front: perhaps this was Col. Muammar el-Qaddafi’s last stand.",
+      "publication_date": "2011-08-25T08:27:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/26/world/africa/nato-joins-hunt-for-qaddafi-gadhafi-gaddafi.html",
+      "byline": "By David D. Kirkpatrick and Kareem Fahim"
+    },
+    {
+      "headline": "New Rules Seen as Aid to Efforts to Unionize",
+      "snippet": "Under new regulations from the National Labor Relations Board, companies must post notices about employees’ rights to unionize under federal law.",
+      "abstract": "Under new regulations from the National Labor Relations Board, companies must post notices about employees’ rights to unionize under federal law.",
+      "lead_paragraph": "The National Labor Relations Board issued new regulations on Thursday that require companies to put posters on their bulletin boards that inform employees about their rights to unionize under federal law.",
+      "publication_date": "2011-08-25T14:03:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/26/business/labor-agency-to-require-posting-unionization-rights.html",
+      "byline": "By Steven Greenhouse"
+    }
+  ]
+}

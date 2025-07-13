@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2022-02-02",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "A Race to Rethink Care After a Dire Diagnosis",
+      "snippet": "With the backing of venture capital and well-known tech investors, Synapticure seeks to fill in the gaps in care and research for those with amyotrophic lateral sclerosis.",
+      "abstract": "With the backing of venture capital and well-known tech investors, Synapticure seeks to fill in the gaps in care and research for those with amyotrophic lateral sclerosis.",
+      "lead_paragraph": "In August 2017, Brian Wallach’s notion of time changed forever.",
+      "publication_date": "2022-02-01T16:33:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/01/business/als-synapticure-startup.html",
+      "byline": "By Maureen Farrell"
+    },
+    {
+      "headline": "A Normal Supply Chain? It’s ‘Unlikely’ in 2022.",
+      "snippet": "The chaos at ports, warehouses and retailers will probably persist through the year, and perhaps even longer.",
+      "abstract": "The chaos at ports, warehouses and retailers will probably persist through the year, and perhaps even longer.",
+      "lead_paragraph": "With the havoc at ports showing no signs of abating and prices for a vast array of goods still rising, the world is absorbing a troubling realization: Time alone will not solve the Great Supply Chain Disruption.",
+      "publication_date": "2022-02-01T17:32:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/01/business/supply-chain-disruption.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic",
+      "snippet": "The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs.",
+      "abstract": "The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs.",
+      "lead_paragraph": "WASHINGTON — America’s gross national debt topped $30 trillion for the first time on Tuesday, an ominous fiscal milestone that underscores the fragile nature of the country’s long-term economic health as it grapples with soaring prices and the prospect of higher interest rates.",
+      "publication_date": "2022-02-01T21:10:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Putin Signals Openness to Diplomacy While Blaming U.S. for Crisis",
+      "snippet": "The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion.",
+      "abstract": "The Russian president seemed to be trying to ratchet down tensions in the standoff over Ukraine, while claiming the United States was seeking to goad Moscow into an invasion.",
+      "lead_paragraph": "MOSCOW — President Vladimir V. Putin said on Tuesday that the United States was trying to pull Russia into an armed conflict over Ukraine that his government did not want and signaled he was prepared to engage in more diplomacy, even as he insisted that NATO’s presence in Eastern Europe threatened world peace.",
+      "publication_date": "2022-02-01T22:23:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/01/world/europe/putin-russia-ukraine.html",
+      "byline": "By Anton Troianovski and Michael Schwirtz"
+    },
+    {
+      "headline": "Trump’s Words, and Deeds, Reveal Depths of His Drive to Retain Power",
+      "snippet": "Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines.",
+      "abstract": "Donald Trump said he wanted Mike Pence to overturn the election, dangled pardons for Jan. 6 rioters and called for protests against prosecutors. Now, it turns out, he had discussed having national security agencies seize voting machines.",
+      "lead_paragraph": "A series of new remarks by Donald J. Trump about the aftermath of the 2020 election and new disclosures about his actions in trying to forestall its result — including discussing the use of the national security apparatus to seize voting machines — have stripped away any pretense that the events of Jan. 6, 2021, were anything but the culmination of the former president’s single-minded pursuit of retaining power.",
+      "publication_date": "2022-02-02T01:14:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/01/us/politics/trump-election-jan-6-voting-machines.html",
+      "byline": "By Shane Goldmacher"
+    },
+    {
+      "headline": "Biden Promised 500 Million Free Covid Tests. Then He Had to Find Them.",
+      "snippet": "Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave.",
+      "abstract": "Millions of Americans are now receiving tests through the new mail program, which health experts said came too late to meet demand during the brunt of Omicron wave.",
+      "lead_paragraph": "WASHINGTON — As the United States saw a nearly vertical increase in coronavirus cases in late December and a growing backlash over a shortage of rapid tests, President Biden promised that his administration would mail 500 million of them to Americans, free of charge.",
+      "publication_date": "2022-02-02T08:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/02/us/politics/biden-covid-tests.html",
+      "byline": "By Noah Weiland, Katie Thomas and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Where a Thousand Digital Eyes Keep Watch Over the Elderly",
+      "snippet": "As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia?",
+      "abstract": "As Japan rapidly ages, it is envisioning fundamental changes, even in infrastructure. Is electronic surveillance an answer to its epidemic of dementia?",
+      "lead_paragraph": "ITAMI, Japan — In his early 70s, Koji Uchida began to vanish.",
+      "publication_date": "2022-02-02T10:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/02/business/japan-elderly-surveillance.html",
+      "byline": "By Ben Dooley and Hisako Ueno"
+    },
+    {
+      "headline": "Why Are Oil Prices So High and Will They Stay That Way?",
+      "snippet": "Geopolitical tensions and a growing disparity between supply and demand have driven up prices. Here is what that means and what could happen next.",
+      "abstract": "Geopolitical tensions and a growing disparity between supply and demand have driven up prices. Here is what that means and what could happen next.",
+      "lead_paragraph": "HOUSTON — Oil prices are increasing, again, casting a shadow over the economy, driving up inflation and eroding consumer confidence.",
+      "publication_date": "2022-02-02T10:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/02/business/economy/oil-price.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Google Vanquished a Rival in Prague. Payback Could Hurt.",
+      "snippet": "A small search engine company in the Czech Republic helped inspire a law that is poised to put major limits on tech giants like Google.",
+      "abstract": "A small search engine company in the Czech Republic helped inspire a law that is poised to put major limits on tech giants like Google.",
+      "lead_paragraph": "As Google extended its dominance as a search engine over the past two decades, the Czech Republic stood out as a surprising holdout.",
+      "publication_date": "2022-02-02T10:03:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/02/technology/google-seznam-antitrust-czech-republic.html",
+      "byline": "By Adam Satariano"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-10-06",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "With No New Films, Regal Cinemas Shuts Down Again",
+      "snippet": "Cineworld, the parent company of the second largest chain in the U.S., is closing all its theaters in the country, as studios keep postponing releases and audiences remain reluctant to return to the movies.",
+      "abstract": "Cineworld, the parent company of the second largest chain in the U.S., is closing all its theaters in the country, as studios keep postponing releases and audiences remain reluctant to return to the movies.",
+      "lead_paragraph": "A little more than a month after movie theater chains restarted operations in the United States, some are starting to shut back down.",
+      "publication_date": "2020-10-05T22:16:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/05/business/media/regal-theater-shutdown.html",
+      "byline": "By Nicole Sperling, Gillian Friedman and Eshe Nelson"
+    },
+    {
+      "headline": "Trump Leaves Hospital, Minimizing Virus and Urging Americans ‘Don’t Let It Dominate Your Lives’",
+      "snippet": "The president appeared eager to be back at the White House and dispel any questions about his capacity after being diagnosed with the coronavirus, despite continuing questions about his health.",
+      "abstract": "The president appeared eager to be back at the White House and dispel any questions about his capacity after being diagnosed with the coronavirus, despite continuing questions about his health.",
+      "lead_paragraph": "WASHINGTON — President Trump returned to the White House on Monday night, staging a defiant, made-for-television moment in which he ripped off his face mask and then urged the nation to put aside the risks of the deadly coronavirus that has swept through his own staff and sent him to the hospital for three days.",
+      "publication_date": "2020-10-05T23:47:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/05/us/politics/trump-leaves-hospital-coronavirus.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes",
+      "snippet": "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge.",
+      "abstract": "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge.",
+      "lead_paragraph": "The last time Kamala Harris stepped onto a debate stage, her Democratic primary campaign was sputtering to a close — running out of money, trailing badly in the polls and fading as a force on policy issues. She ranked sixth in speaking time at that November 2019 debate; she dropped out of the race two weeks later.",
+      "publication_date": "2020-10-05T23:55:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.html",
+      "byline": "By Sydney Ember and Lisa Lerer"
+    },
+    {
+      "headline": "Top China Critic Becomes Its Defender",
+      "snippet": "Robert E. Lighthizer, President Trump’s trade negotiator, has cautioned against actions that could anger Beijing in an attempt to preserve the U.S.-China trade deal.",
+      "abstract": "Robert E. Lighthizer, President Trump’s trade negotiator, has cautioned against actions that could anger Beijing in an attempt to preserve the U.S.-China trade deal.",
+      "lead_paragraph": "WASHINGTON — For decades, Robert E. Lighthizer, the United States trade representative, was reliably one of Washington’s toughest critics when it came to China and its trade practices.",
+      "publication_date": "2020-10-06T07:15:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/06/business/economy/china-robert-lighthizer.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Britain Is Getting Ready for Its Space Race",
+      "snippet": "Spurred by Brexit, London is backing companies that will build satellites and haul them into orbit.",
+      "abstract": "Spurred by Brexit, London is backing companies that will build satellites and haul them into orbit.",
+      "lead_paragraph": "Cornwall, in England’s far southwest, is known for antique fishing villages and snug, cliff-lined beaches. Soon it may be the scene of something very different: a small but growing space industry.",
+      "publication_date": "2020-10-06T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/06/business/britain-satellites-brexit.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Trump Abruptly Ends Stimulus Talks After Fed Chair Urges Economic Support",
+      "snippet": "President Trump said he was calling off the talks just hours after Jerome H. Powell, the Federal Reserve chair, argued that it was better to overdo the pandemic policy response to avert “tragic” fallout.",
+      "abstract": "President Trump said he was calling off the talks just hours after Jerome H. Powell, the Federal Reserve chair, argued that it was better to overdo the pandemic policy response to avert “tragic” fallout.",
+      "lead_paragraph": "WASHINGTON — Hours after the Federal Reserve chair, Jerome H. Powell, warned that the economy could see “tragic” results without robust government support, President Trump abruptly cut off stimulus talks, sending the stock market sliding and delivering a final blow to any chance of getting additional pandemic aid to struggling Americans before the election.",
+      "publication_date": "2020-10-06T14:40:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/06/business/economy/jerome-powell-economic-recovery-coronavirus.html",
+      "byline": "By Jeanna Smialek, Emily Cochrane and Jim Tankersley"
+    }
+  ]
+}

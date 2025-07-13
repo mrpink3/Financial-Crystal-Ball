@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2011-10-04",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Yahoo Has a Crowd, Wants a Voice",
+      "snippet": "Yahoo built its huge audience for news largely by aggregating articles from other sources, but the company is now pushing for more original material.",
+      "abstract": "Yahoo built its huge audience for news largely by aggregating articles from other sources, but the company is now pushing for more original material.",
+      "lead_paragraph": "One company dominates online news, sports and finance. It has more visitors to its news site than the runner-up in the category, CNN, more in sports than ESPN and more in finance than Dow Jones, owner of The Wall Street Journal. ",
+      "publication_date": "2011-10-03T20:34:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/04/technology/yahoo-aims-to-produce-more-original-reporting.html",
+      "byline": "By Verne G. Kopytoff"
+    },
+    {
+      "headline": "Free Trade Standoff Is Resolved",
+      "snippet": "The Obama administration is depending on Republican votes to overcome the passionate opposition of Democrats concerned about the loss of American jobs to increased foreign competition.",
+      "abstract": "The Obama administration is depending on Republican votes to overcome the passionate opposition of Democrats concerned about the loss of American jobs to increased foreign competition.",
+      "lead_paragraph": "WASHINGTON — The Obama administration moved Monday to complete free trade agreements with South Korea, Colombia and Panama, submitting the deals for Congressional approval after resolving a standoff of months with Republicans over the details of a package both sides said they favored.",
+      "publication_date": "2011-10-03T20:43:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/04/business/congress-asked-to-approve-3-trade-pacts.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Before Latest Phone Debut, Apple Has Harsher Competition",
+      "snippet": "Despite all the hoopla surrounding the Apple announcement, more people buy smartphones running Google’s Android operating system than buy Apple phones.",
+      "abstract": "Despite all the hoopla surrounding the Apple announcement, more people buy smartphones running Google’s Android operating system than buy Apple phones.",
+      "lead_paragraph": "SAN FRANCISCO — As soon as Apple unveils its highly anticipated new version of the iPhone on Tuesday, millions of people are likely to start plotting how to be among the first to buy it. But millions more may be considering a competitor — an Android phone.",
+      "publication_date": "2011-10-04T00:55:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/04/technology/apple-iphone-faces-divided-loyalties.html",
+      "byline": "By Nick Wingfield and Jenna Wortham"
+    },
+    {
+      "headline": "Fannie Mae Knew Early of Abuses, Report Says",
+      "snippet": "Fannie Mae, the mortgage finance giant, learned as early as 2003 of extensive foreclosure abuses, but did little to correct the practices, according to a new report.",
+      "abstract": "Fannie Mae, the mortgage finance giant, learned as early as 2003 of extensive foreclosure abuses, but did little to correct the practices, according to a new report.",
+      "lead_paragraph": "Fannie Mae, the mortgage finance giant, learned as early as 2003 of extensive foreclosure abuses among the law firms it had hired to remove troubled borrowers from their homes. But the company did little to correct the firms’ practices, according to a report issued Tuesday.",
+      "publication_date": "2011-10-04T01:40:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/04/business/fannie-mae-ignored-foreclosure-misdeeds-report-says.html",
+      "byline": "By Gretchen Morgenson"
+    },
+    {
+      "headline": "Foreign Aid Set to Take a Hit in U.S. Budget Crisis",
+      "snippet": "American efforts to wield “smart power” amid natural disasters and political upheaval would be hurt as lawmakers propose slashing funding for the State Department.",
+      "abstract": "American efforts to wield “smart power” amid natural disasters and political upheaval would be hurt as lawmakers propose slashing funding for the State Department.",
+      "lead_paragraph": "WASHINGTON — America’s budget crisis at home is forcing the first significant cuts in overseas aid in nearly two decades, a retrenchment that officials and advocates say reflects the country’s diminishing ability to influence the world.",
+      "publication_date": "2011-10-04T02:02:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/04/us/politics/foreign-aid-set-to-take-hit-in-united-states-budget-crisis.html",
+      "byline": "By Steven Lee Myers"
+    },
+    {
+      "headline": "After Ruling, Hispanics Flee an Alabama Town",
+      "snippet": "On the same day that a federal judge upheld most provisions of a strict immigration-enforcement law in Alabama, frightened Hispanics began moving out of Albertville in the northern part of the state.",
+      "abstract": "On the same day that a federal judge upheld most provisions of a strict immigration-enforcement law in Alabama, frightened Hispanics began moving out of Albertville in the northern part of the state.",
+      "lead_paragraph": "ALBERTVILLE, Ala. — The vanishing began Wednesday night, the most frightened families packing up their cars as soon as they heard the news.",
+      "publication_date": "2011-10-04T03:19:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/04/us/after-ruling-hispanics-flee-an-alabama-town.html",
+      "byline": "By Campbell Robertson"
+    },
+    {
+      "headline": "Stocks Rally After Report Europe Might Recapitalize Banks",
+      "snippet": "A hopeful report on European banks prompted a late rally after the Standard & Poor’s 500-stock index officially traded in bear-market territory much of the day.",
+      "abstract": "A hopeful report on European banks prompted a late rally after the Standard & Poor’s 500-stock index officially traded in bear-market territory much of the day.",
+      "lead_paragraph": "A late frenzy on Wall Street led stocks to a sharp increase on Tuesday, even as fears over a major banking crisis in Europe mounted along with expectations that Greece could soon default on its debt. ",
+      "publication_date": "2011-10-04T13:41:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/05/business/daily-stock-market-activity.html",
+      "byline": "By Joshua Brustein"
+    },
+    {
+      "headline": "In Europe, Signs of 2nd Recession With Wide Reach",
+      "snippet": "“We are the epicenter of this global crisis,” Jean-Claude Trichet, the president of the European Central Bank, said on Tuesday at the European Parliament.",
+      "abstract": "“We are the epicenter of this global crisis,” Jean-Claude Trichet, the president of the European Central Bank, said on Tuesday at the European Parliament.",
+      "lead_paragraph": "PARIS — The European debt problems that have roiled global financial markets for the last 18 months are showing signs of turning into a far deeper challenge: Europe’s second recession in three years. ",
+      "publication_date": "2011-10-04T15:30:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/05/business/global/europe-finds-slope-ahead-is-growing-ever-steeper.html",
+      "byline": "By Liz Alderman and Jack Ewing"
+    }
+  ]
+}

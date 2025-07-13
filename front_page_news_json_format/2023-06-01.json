@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-06-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Talk of Racism Proves Thorny for G.O.P. Candidates of Color",
+      "snippet": "As candidates like Tim Scott and Nikki Haley bolster their biographies with stories of discrimination, they have often denied the existence of systemic racism in America while describing situations that sound just like it.",
+      "abstract": "As candidates like Tim Scott and Nikki Haley bolster their biographies with stories of discrimination, they have often denied the existence of systemic racism in America while describing situations that sound just like it.",
+      "lead_paragraph": "Senator Tim Scott of South Carolina opened his presidential candidacy with a story of the nation’s bitter, racist past. It is one that he tells often, of a grandfather forced from school in the third grade to pick cotton in the Jim Crow South.",
+      "publication_date": "2023-06-01T09:00:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/01/us/politics/republicans-race-scott-haley.html",
+      "byline": "By Jonathan Weisman and Trip Gabriel"
+    },
+    {
+      "headline": "What It Takes to Protect Kyiv From Russian Bombardment",
+      "snippet": "Russian air attacks on Kyiv have come in relentless waves. Yet very little has penetrated the patched-together but increasingly sophisticated air defense network. Here’s why.",
+      "abstract": "Russian air attacks on Kyiv have come in relentless waves. Yet very little has penetrated the patched-together but increasingly sophisticated air defense network. Here’s why.",
+      "lead_paragraph": "Find it, target it, shoot it.",
+      "publication_date": "2023-06-01T09:42:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/01/world/europe/ukraine-kyiv-air-defense-russia.html",
+      "byline": "By Marc Santora"
+    },
+    {
+      "headline": "China Crosses a Flying Milestone but Remains in the Boeing-Airbus Grip",
+      "snippet": "The C919 jet, made by a state-owned manufacturer, completed its first commercial flight. But Western rivals still supply most of China’s planes.",
+      "abstract": "The C919 jet, made by a state-owned manufacturer, completed its first commercial flight. But Western rivals still supply most of China’s planes.",
+      "lead_paragraph": "Millions of flights take off and land in China every year, almost all of them using planes made by Boeing and Airbus, the world’s two leading aircraft manufacturers. For years, China has been working to change that, and this week it celebrated a milestone in that quest: the first commercial flight of a large passenger jet made in China.",
+      "publication_date": "2023-06-01T11:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/01/business/china-comac-c919-boeing.html",
+      "byline": "By Niraj Chokshi and Tiffany May"
+    },
+    {
+      "headline": "The Student Loan Payment Pause Is Ending. Here’s How to Prepare.",
+      "snippet": "A deal to raise the debt ceiling would require borrowers of federal student loans to resume paying for the first time since early in the pandemic.",
+      "abstract": "A deal to raise the debt ceiling would require borrowers of federal student loans to resume paying for the first time since early in the pandemic.",
+      "lead_paragraph": "After a three-year break, student loan payments are about to come due again.",
+      "publication_date": "2023-06-01T14:49:10+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/01/your-money/student-loan-payment-restart.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "This Nonprofit Health System Cuts Off Patients With Medical Debt",
+      "snippet": "Doctors at the Allina Health System, a wealthy nonprofit in the Midwest, aren’t allowed to see poor patients or children with too many unpaid medical bills.",
+      "abstract": "Doctors at the Allina Health System, a wealthy nonprofit in the Midwest, aren’t allowed to see poor patients or children with too many unpaid medical bills.",
+      "lead_paragraph": "Many hospitals in the United States use aggressive tactics to collect medical debt. They flood local courts with collections lawsuits. They garnish patients’ wages. They seize their tax refunds.",
+      "publication_date": "2023-06-01T15:31:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/01/business/allina-health-hospital-debt.html",
+      "byline": "By Sarah Kliff and Jessica Silver-Greenberg"
+    }
+  ]
+}

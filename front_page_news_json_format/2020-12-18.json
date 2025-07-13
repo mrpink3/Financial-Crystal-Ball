@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-12-18",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Google’s Legal Peril Grows in Face of Third Antitrust Suit",
+      "snippet": "More than 30 states said that the company downplayed websites that let users search for information in specialized areas.",
+      "abstract": "More than 30 states said that the company downplayed websites that let users search for information in specialized areas.",
+      "lead_paragraph": "More than 30 states added to Google’s mushrooming legal woes on Thursday, accusing the Silicon Valley titan of illegally arranging its search results to push out smaller rivals.",
+      "publication_date": "2020-12-17T17:55:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/17/technology/google-antitrust-monopoly.html",
+      "byline": "By David McCabe, Cecilia Kang and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "More Hacking Attacks Found as Officials Warn of ‘Grave Risk’ to U.S. Government",
+      "snippet": "Minutes after the government statement, President-elect Joseph R. Biden Jr. warned that his administration would impose “substantial costs” on those responsible. President Trump has been silent on the hacking.",
+      "abstract": "Minutes after the government statement, President-elect Joseph R. Biden Jr. warned that his administration would impose “substantial costs” on those responsible. President Trump has been silent on the hacking.",
+      "lead_paragraph": "WASHINGTON — Federal officials issued an urgent warning on Thursday that hackers who American intelligence agencies believed were working for the Kremlin used a far wider variety of tools than previously known to penetrate government systems, and said that the cyberoffensive was “a grave risk to the federal government.”",
+      "publication_date": "2020-12-17T19:07:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/17/us/politics/russia-cyber-hack-trump.html",
+      "byline": "By David E. Sanger and Nicole Perlroth"
+    },
+    {
+      "headline": "How May We Serve You? For Restaurant Chains, It Depends on the Location",
+      "snippet": "Large dine-in chains are finding it difficult to enact uniform approaches to the pandemic when dealing with different regulations across the country about how they can operate.",
+      "abstract": "Large dine-in chains are finding it difficult to enact uniform approaches to the pandemic when dealing with different regulations across the country about how they can operate.",
+      "lead_paragraph": "Executives at the Brazilian steakhouse chain Fogo de Chão thought they had seen the worst of it.",
+      "publication_date": "2020-12-18T10:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/18/business/restaurant-coronavirus-regulations-chains.html",
+      "byline": "By Julie Creswell and Gillian Friedman"
+    },
+    {
+      "headline": "Carrier Plant Is Bustling, but Workers Are Wary as Trump Exits",
+      "snippet": "The president championed an Indiana factory facing a shutdown four years ago. Hundreds of jobs were kept, and overtime abounds. Can the revival last?",
+      "abstract": "The president championed an Indiana factory facing a shutdown four years ago. Hundreds of jobs were kept, and overtime abounds. Can the revival last?",
+      "lead_paragraph": "For the workers fortunate enough to remain employed at Carrier’s Indianapolis factory, which Donald Trump singled out as a symbol of American manufacturing distress in 2016, these should be the best of times. The assembly line is churning out furnaces seven days a week, overtime is abundant, and shares of Carrier are soaring even as Covid-19 ravages the overall economy.",
+      "publication_date": "2020-12-18T10:00:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/18/business/economy/carrier-trump.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "A Riveting ISIS Story, Told in a Times Podcast, Falls Apart",
+      "snippet": "A Canadian’s gruesome account as an Islamic State executioner in Syria, which was the subject of the “Caliphate” podcast by The New York Times, was fabricated, officials say. A Times review found no corroboration of his claim to have committed atr...",
+      "abstract": "A Canadian’s gruesome account as an Islamic State executioner in Syria, which was the subject of the “Caliphate” podcast by The New York Times, was fabricated, officials say. A Times review found no corroboration of his claim to have committed atrocities.",
+      "lead_paragraph": "He described the killings in lurid detail — how he shot one man in the head and stabbed another in the heart before hanging the corpse on a cross.",
+      "publication_date": "2020-12-18T11:00:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/18/world/middleeast/caliphate-chaudhry-hoax.html",
+      "byline": "By Mark Mazzetti, Ian Austen, Graham Bowley and Malachy Browne"
+    },
+    {
+      "headline": "Is There Such a Thing as a Humane Eviction?",
+      "snippet": "As a bulge of evictions looms, a Massachusetts sheriff is searching for ways to soften the blow.",
+      "abstract": "As a bulge of evictions looms, a Massachusetts sheriff is searching for ways to soften the blow.",
+      "lead_paragraph": "CHICOPEE, Mass. — The tenants in the third-floor apartment had 30 minutes to leave.",
+      "publication_date": "2020-12-18T15:00:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/18/us/evictions-pandemic.html",
+      "byline": "By Ellen Barry"
+    }
+  ]
+}

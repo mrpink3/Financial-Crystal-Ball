@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-01-05",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Lacking a Speaker, One Part of Government Ceases to Function",
+      "snippet": "Lawmakers in the House have yet to be sworn in. They can’t help constituents or get classified briefings, much less hold hearings or pass laws. And at some point, they may have trouble getting paid.",
+      "abstract": "Lawmakers in the House have yet to be sworn in. They can’t help constituents or get classified briefings, much less hold hearings or pass laws. And at some point, they may have trouble getting paid.",
+      "lead_paragraph": "WASHINGTON — The personal and political drama that is playing out on the House floor as Representative Kevin McCarthy tries and fails repeatedly to become speaker has broader implications for the country, raising questions about what happens when one chamber of the legislative branch ceases to function.",
+      "publication_date": "2023-01-04T20:11:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/04/us/politics/house-speaker-representatives.html",
+      "byline": "By Luke Broadwater"
+    },
+    {
+      "headline": "For Russian Troops, Cellphone Use Is a Persistent, Lethal Danger",
+      "snippet": "Ukrainian artillery targets Russian soldiers by pinpointing their phone signals. Despite the deadly results, Russian troops keep defying a ban on cellphone use near the front.",
+      "abstract": "Ukrainian artillery targets Russian soldiers by pinpointing their phone signals. Despite the deadly results, Russian troops keep defying a ban on cellphone use near the front.",
+      "lead_paragraph": "Early in their invasion of Ukraine, some Russian fighters closing in on the capital, Kyiv, made calls with cellphones and uploaded videos to TikTok, betraying their location to Ukrainian eavesdroppers.",
+      "publication_date": "2023-01-04T21:04:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/04/world/europe/ukraine-russia-cellphones.html",
+      "byline": "By Alan Yuhas, Thomas Gibbons-Neff and Yousur Al-Hlou"
+    },
+    {
+      "headline": "‘Fear Still Remains’: Ukraine Finds Sexual Crimes Where Russian Troops Ruled",
+      "snippet": "Investigators have uncovered widespread evidence of abuse by Moscow’s forces, including rape and forced nudity. Kremlin officials have repeatedly denied accusations of rights violations.",
+      "abstract": "Investigators have uncovered widespread evidence of abuse by Moscow’s forces, including rape and forced nudity. Kremlin officials have repeatedly denied accusations of rights violations.",
+      "lead_paragraph": "KHERSON, Ukraine — On her eighth or ninth day in Russian detention, Olha, a 26-year-old Ukrainian, was tied to a table, naked to the waist. For 15 minutes, her interrogator leveled obscenities at her, then threw a jacket over her and let seven other men into the room.",
+      "publication_date": "2023-01-05T05:01:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/05/world/europe/ukraine-sexual-violence-russia.html",
+      "byline": "By Carlotta Gall and Laura Boushnak"
+    },
+    {
+      "headline": "House Adjourns Without a Speaker as McCarthy Offers Concessions",
+      "snippet": "The California Republican signaled he would give in to more demands from hard-right rebels in a frenzied effort to win enough support for the speakership but continued to lose ground on vote after vote.",
+      "abstract": "The California Republican signaled he would give in to more demands from hard-right rebels in a frenzied effort to win enough support for the speakership but continued to lose ground on vote after vote.",
+      "lead_paragraph": "WASHINGTON — Representative Kevin McCarthy of California contorted himself on Thursday to try to win over right-wing holdouts as his battle to become speaker limped toward a fourth day, offering concessions that could substantially weaken his authority and empower a strident right flank.",
+      "publication_date": "2023-01-05T10:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/05/us/politics/house-speaker-vote-kevin-mccarthy.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "A Breach at LastPass Has Password Lessons for Us All",
+      "snippet": "The hacking of the password manager should make us reassess whether to trust companies to store our sensitive data in the cloud.",
+      "abstract": "The hacking of the password manager should make us reassess whether to trust companies to store our sensitive data in the cloud.",
+      "lead_paragraph": "While many of us were unplugging from the internet to spend time with loved ones over the holidays, LastPass, the maker of a popular security program for managing digital passwords, delivered the most unwanted gift. It published details about a recent security breach in which cybercriminals had obtained copies of customers’ password vaults, potentially exposing millions of people’s online information.",
+      "publication_date": "2023-01-05T10:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/05/technology/personaltech/lastpass-breach-password-safety.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "‘Nobody Is in Charge’: A Ragged G.O.P. Stumbles Through the Wilderness",
+      "snippet": "With no unified agenda or clear leadership, Republicans face the prospect that the anti-establishment fervor that has powered the party in recent years could now devour it.",
+      "abstract": "With no unified agenda or clear leadership, Republicans face the prospect that the anti-establishment fervor that has powered the party in recent years could now devour it.",
+      "lead_paragraph": "Follow for the latest on the battle to choose a speaker in the House of Representatives.",
+      "publication_date": "2023-01-05T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/05/us/politics/republican-party-leadership.html",
+      "byline": "By Lisa Lerer and Reid J. Epstein"
+    },
+    {
+      "headline": "How a Texas Border City Is Shaping the Future of Global Trade",
+      "snippet": "Laredo, across from Mexico on the Rio Grande, is primed to become one of the world’s most important land ports as American companies reduce their reliance on factories in Asia.",
+      "abstract": "Laredo, across from Mexico on the Rio Grande, is primed to become one of the world’s most important land ports as American companies reduce their reliance on factories in Asia.",
+      "lead_paragraph": "The teeming warehouses carved into the desert surrounding Laredo, Texas, attest to an explosion of trade between the United States and Mexico.",
+      "publication_date": "2023-01-05T10:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/05/business/us-mexico-trade-laredo.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Bed Bath & Beyond Warns of Potential Bankruptcy",
+      "snippet": "The home goods retailer said weak sales and slower foot traffic had forced it to consider options for restructuring.",
+      "abstract": "The home goods retailer said weak sales and slower foot traffic had forced it to consider options for restructuring.",
+      "lead_paragraph": "Bed Bath & Beyond, the beleaguered home goods retailer, warned investors on Thursday about rapidly darkening prospects for its future, saying that bankruptcy was a possible option and raising doubts that it could pull off an ambitious turnaround plan it put in place just months ago.",
+      "publication_date": "2023-01-05T14:12:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/05/business/bed-bath-beyond-bankruptcy.html",
+      "byline": "By Lauren Hirsch and Jordyn Holman"
+    },
+    {
+      "headline": "U.S. Moves to Bar Noncompete Agreements in Labor Contracts",
+      "snippet": "A sweeping proposal by the Federal Trade Commission would block companies from limiting their employees’ ability to work for a rival.",
+      "abstract": "A sweeping proposal by the Federal Trade Commission would block companies from limiting their employees’ ability to work for a rival.",
+      "lead_paragraph": "In a far-reaching move that could raise wages and increase competition among businesses, the Federal Trade Commission on Thursday unveiled a rule that would block companies from limiting their employees’ ability to work for a rival.",
+      "publication_date": "2023-01-05T15:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

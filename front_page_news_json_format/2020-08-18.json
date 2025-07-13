@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-08-18",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Trump Administration Widens Huawei Dragnet",
+      "snippet": "The Commerce Department placed new restrictions on the Chinese tech giant’s ability to work with the global chip industry.",
+      "abstract": "The Commerce Department placed new restrictions on the Chinese tech giant’s ability to work with the global chip industry.",
+      "lead_paragraph": "WASHINGTON — The Trump administration announced on Monday that it was restricting Huawei’s ability to buy a wider array of chips made or designed with American equipment and software, tightening the limits it has placed on the Chinese telecom giant as it looks to cripple its ability to sell smartphones and telecom gear around the world.",
+      "publication_date": "2020-08-17T17:12:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/17/technology/trump-huawei-commerce-chips.html",
+      "byline": "By David McCabe and Raymond Zhong"
+    },
+    {
+      "headline": "Postal Crisis Has States Looking for Alternatives to Mail-In Ballots",
+      "snippet": "A crisis of confidence in the Postal Service is pushing Democratic Party and state officials to look for a Plan B: ballot drop-boxes, curbside voting, and even expanded in-person polling sites.",
+      "abstract": "A crisis of confidence in the Postal Service is pushing Democratic Party and state officials to look for a Plan B: ballot drop-boxes, curbside voting, and even expanded in-person polling sites.",
+      "lead_paragraph": "[Follow our daily updates on the latest presidential election polls.]",
+      "publication_date": "2020-08-17T21:25:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/17/us/politics/postal-service-voting.html",
+      "byline": "By Nick Corasaniti, Michael D. Shear and Trip Gabriel"
+    },
+    {
+      "headline": "California Expresses Frustration as Blackouts Enter 4th Day",
+      "snippet": "The agency that manages the state’s electric grid says rolling blackouts are needed to balance supply and demand. But the governor said regulators were not prepared.",
+      "abstract": "The agency that manages the state’s electric grid says rolling blackouts are needed to balance supply and demand. But the governor said regulators were not prepared.",
+      "lead_paragraph": "Lawmakers and consumer groups expressed outrage on Monday that the operator of California’s electricity grid had not adequately prepared for a heat wave and was resorting to rolling blackouts.",
+      "publication_date": "2020-08-17T22:04:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/17/business/energy-environment/california-blackout-electric-grid.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "A Call to Rally Around Joe Biden ‘Like Our Lives Depend on It’",
+      "snippet": "Everyone at the first night of the Democrats’ virtual gathering could at least agree that Mr. Biden should be the next president. They can worry about the rest later.",
+      "abstract": "Everyone at the first night of the Democrats’ virtual gathering could at least agree that Mr. Biden should be the next president. They can worry about the rest later.",
+      "lead_paragraph": "MILWAUKEE — The Democratic primary race began as a clash of ideas. But when the Democratic National Convention convened on Monday, the party assembled with a singular aim: defeating President Trump.",
+      "publication_date": "2020-08-18T00:19:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/17/us/politics/convention-democratic-night-1.html",
+      "byline": "By Astead W. Herndon and Sydney Ember"
+    },
+    {
+      "headline": "Democrats Begin Virtual Convention, Hailing Biden and Denouncing Trump",
+      "snippet": "Driven online because of the coronavirus, the program spanned the ideological gamut, from socialists to Republicans. “Donald Trump is the wrong president for our country,” Michelle Obama said.",
+      "abstract": "Driven online because of the coronavirus, the program spanned the ideological gamut, from socialists to Republicans. “Donald Trump is the wrong president for our country,” Michelle Obama said.",
+      "lead_paragraph": "Democrats opened the most extraordinary presidential nominating convention in recent history on Monday night with a program that spanned the gamut from socialists to Republicans, from the relatives of George Floyd to family members of those killed by the coronavirus, in a two-hour event that was a striking departure from the traditional summer pageant of American democracy.",
+      "publication_date": "2020-08-18T02:13:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/17/us/politics/democratic-national-convention-recap.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "‘Frats Are Being Frats’: Greek Life Is Stoking the Virus on Some Campuses",
+      "snippet": "Universities are struggling with how to prevent tightly packed sorority and fraternity houses from turning into virus clusters.",
+      "abstract": "Universities are struggling with how to prevent tightly packed sorority and fraternity houses from turning into virus clusters.",
+      "lead_paragraph": "The big bouquets of roses. The towering signs spelling out the letters of each house in Greek. And the hundreds of rushees clutching their acceptance envelopes as they run through campus together.",
+      "publication_date": "2020-08-18T09:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/18/us/coronavirus-fraternities-sororities.html",
+      "byline": "By Amy Harmon, Frances Robles, Alan Blinder and Thomas Fuller"
+    },
+    {
+      "headline": "Uber and Lyft Consider Franchise-Like Model in California",
+      "snippet": "Under pressure to classify their freelance drivers as employees, the ride-hailing companies are discussing another option.",
+      "abstract": "Under pressure to classify their freelance drivers as employees, the ride-hailing companies are discussing another option.",
+      "lead_paragraph": "OAKLAND, Calif. — Uber and Lyft, which are facing mounting pressure to classify their freelance drivers as employees in California, are looking for another way.",
+      "publication_date": "2020-08-18T09:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/18/technology/uber-lyft-franchise-california.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "G.O.P.-Led Senate Panel Details Ties Between 2016 Trump Campaign and Russia",
+      "snippet": "A nearly 1,000-page report confirmed the special counsel’s findings at a moment when President Trump’s allies have sought to undermine that inquiry.",
+      "abstract": "A nearly 1,000-page report confirmed the special counsel’s findings at a moment when President Trump’s allies have sought to undermine that inquiry.",
+      "lead_paragraph": "WASHINGTON — A sprawling report released Tuesday by a Republican-controlled Senate panel that spent three years investigating Russia’s interference in the 2016 election laid out an extensive web of contacts between Trump campaign advisers and Kremlin officials and other Russians, including at least one intelligence officer and others tied to the country’s spy services.",
+      "publication_date": "2020-08-18T13:09:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/18/us/politics/senate-intelligence-russian-interference-report.html",
+      "byline": "By Mark Mazzetti"
+    }
+  ]
+}

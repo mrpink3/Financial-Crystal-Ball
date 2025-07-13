@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2008-09-26",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Government Seizes WaMu and Sells Some Assets",
+      "snippet": "Washington Mutual was seized by federal regulators in what is the largest bank failure in American history.",
+      "abstract": "Washington Mutual was seized by federal regulators in what is the largest bank failure in American history.",
+      "lead_paragraph": "Washington Mutual, the giant lender that came to symbolize the excesses of the mortgage boom, was seized by federal regulators on Thursday night, in what is by far the largest bank failure in American history.",
+      "publication_date": "2008-09-25T23:35:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/26/business/26wamu.html",
+      "byline": "By Eric Dash and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "A Pledge to Help That Hurts",
+      "snippet": "It is far from clear that a functioning financial system will emerge even if the White House and Congress can reach an agreement on a bailout plan.",
+      "abstract": "It is far from clear that a functioning financial system will emerge even if the White House and Congress can reach an agreement on a bailout plan.",
+      "lead_paragraph": "It’s not easy to run an economy without a functioning financial system.",
+      "publication_date": "2008-09-26T01:20:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/26/business/26norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Credit Enters a Lockdown",
+      "snippet": "Without a mechanism to shed the bad loans on their books, financial institutions and lenders may continue to hoard their dollars and starve the economy of capital.",
+      "abstract": "Without a mechanism to shed the bad loans on their books, financial institutions and lenders may continue to hoard their dollars and starve the economy of capital.",
+      "lead_paragraph": "The words coming out of Washington this week about the American financial system have been frightening. But many have raised the possibility that the Bush administration is fear-mongering to gin up support for its $700 billion bailout proposal.",
+      "publication_date": "2008-09-26T01:24:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/26/business/26assess.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Dubious Claims in Obama’s Ads Against McCain, Despite Vow of Truth",
+      "snippet": "Despite a vow of truth, Barack Obama’s latest ads match the misleading nature of some of John McCain’s spots.",
+      "abstract": "Despite a vow of truth, Barack Obama’s latest ads match the misleading nature of some of John McCain’s spots.",
+      "lead_paragraph": "ROANOKE, Va.  Two weeks ago, Senator Barack Obama’s presidential campaign gleefully publicized a spate of news reports about misleading and untruthful statements in the advertisements of his rival, Senator John McCain. Asked by a voter in New Hampshire if he would respond in kind, Mr. Obama said, “I just have a different philosophy, I’m going to respond with the truth,” adding, “I’m not going to start making up lies about John McCain.”",
+      "publication_date": "2008-09-26T01:40:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/26/us/politics/26ads.html",
+      "byline": "By Jim Rutenberg and Julie Bosman"
+    },
+    {
+      "headline": "Companies Under Pressure",
+      "snippet": "Even companies far from Wall Street find themselves in a tightening bind as loans grow scarce and the economy struggles.",
+      "abstract": "Even companies far from Wall Street find themselves in a tightening bind as loans grow scarce and the economy struggles.",
+      "lead_paragraph": " Almost 62 years ago to the day, Aubrey Pilgrim bought a two-bit feed and seed store in east Texas with the help of a $2,500 bank loan. ",
+      "publication_date": "2008-09-26T01:50:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/26/business/26credit.html",
+      "byline": "By Michael J. de la Merced"
+    },
+    {
+      "headline": "McCain Leaps Into a Thicket",
+      "snippet": "The day’s events raised questions about why Senator John McCain had called for postponing the first debate.",
+      "abstract": "The day’s events raised questions about why Senator John McCain had called for postponing the first debate.",
+      "lead_paragraph": "Senator John McCain had intended to ride back into Washington on Thursday as a leader who had put aside presidential politics to help broker a solution to the financial crisis. Instead he found himself in the midst of a remarkable partisan showdown, lacking a clear public message for how to bring it to an end.",
+      "publication_date": "2008-09-26T02:00:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/26/us/politics/26campaign.html",
+      "byline": "By Adam Nagourney and Elisabeth Bumiller"
+    },
+    {
+      "headline": "Talks Implode During a Day of Chaos; Fate of Bailout Plan Remains Unresolved",
+      "snippet": "Partisan presidential politics seemed to trample what had been exceedingly delicate Congressional negotiations over the $700 billion bailout package.",
+      "abstract": "Partisan presidential politics seemed to trample what had been exceedingly delicate Congressional negotiations over the $700 billion bailout package.",
+      "lead_paragraph": "This article was reported by David M. Herszenhorn, Carl Hulse and Sheryl Gay Stolberg and written by Ms. Stolberg.",
+      "publication_date": "2008-09-26T02:00:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/26/business/26bailout.html",
+      "byline": "By David M. Herszenhorn, Carl Hulse and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Somalia Pirates Capture Tanks and Global Notice",
+      "snippet": "Piracy is routine off the Somali coast, but Russia and the U.S. are pursuing the hijackers of a large arms shipment.",
+      "abstract": "Piracy is routine off the Somali coast, but Russia and the U.S. are pursuing the hijackers of a large arms shipment.",
+      "lead_paragraph": "NAIROBI, Kenya  For a moment, the pirates must have thought that they had really struck gold  Somalia-style. ",
+      "publication_date": "2008-09-26T13:31:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/27/world/africa/27pirates.html",
+      "byline": "By Jeffrey Gettleman"
+    }
+  ]
+}

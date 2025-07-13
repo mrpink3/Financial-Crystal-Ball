@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2024-03-15",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Why Taiwan Is Building a Satellite Network Without Elon Musk",
+      "snippet": "The island democracy urgently needs an internet backup. Mr. Musk’s total control over his Starlink service, which dominates the market, left Taiwan wary.",
+      "abstract": "The island democracy urgently needs an internet backup. Mr. Musk’s total control over his Starlink service, which dominates the market, left Taiwan wary.",
+      "lead_paragraph": "In Taiwan, the government is racing to do what no country or even company has been able to: build an alternative to Starlink, the satellite internet service operated by Elon Musk’s rocket company, SpaceX.",
+      "publication_date": "2024-03-14T18:11:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2024/03/14/business/taiwan-starlink-satellite.html",
+      "byline": "By Meaghan Tobin and John Liu"
+    },
+    {
+      "headline": "TikTok Is Its Own Worst Enemy",
+      "snippet": "The video-sharing app has received unfair treatment in Washington. But the company’s biggest wounds are self-inflicted.",
+      "abstract": "The video-sharing app has received unfair treatment in Washington. But the company’s biggest wounds are self-inflicted.",
+      "lead_paragraph": "I was really rooting for TikTok.",
+      "publication_date": "2024-03-14T19:59:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/03/14/technology/tiktok-ban.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Russia Strengthens Its Internet Controls in Critical Year for Putin",
+      "snippet": "Facing an election this weekend and the fallout from Aleksei Navalny’s death and the war in Ukraine, Russia has intensified online censorship using techniques pioneered by China.",
+      "abstract": "Facing an election this weekend and the fallout from Aleksei Navalny’s death and the war in Ukraine, Russia has intensified online censorship using techniques pioneered by China.",
+      "lead_paragraph": "Russia is ratcheting up its internet censorship ahead of elections this weekend that are all but assured to give President Vladimir V. Putin another six years in power, further shrinking one of the last remaining spaces for political activism, independent information and free speech.",
+      "publication_date": "2024-03-15T04:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/03/15/technology/russia-internet-censors-vladimir-putin.html",
+      "byline": "By Adam Satariano, Paul Mozur and Aaron Krolik"
+    },
+    {
+      "headline": "As Putin Pitches His Vision, Voters Avert Their Gaze From the War",
+      "snippet": "Vladimir V. Putin, casting himself as the only leader able to end the war in Ukraine, is all but assured another term in a rubber-stamp election this weekend.",
+      "abstract": "Vladimir V. Putin, casting himself as the only leader able to end the war in Ukraine, is all but assured another term in a rubber-stamp election this weekend.",
+      "lead_paragraph": "Vladimir V. Putin’s vision of Russia — successful, innovative and borderless — is on display at one of Moscow’s biggest tourist attractions, a Stalin-era exhibition center that currently houses a sleek showcase called Russia 2024. The exhibition promotes what the Kremlin portrays as Russia’s achievements in the past two decades, roughly the period Mr. Putin has been in power, and his promises for the future after he secures another six-year term in rubber-stamp elections this weekend.",
+      "publication_date": "2024-03-15T09:04:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/03/15/world/europe/russia-election.html",
+      "byline": "By Valerie Hopkins"
+    }
+  ]
+}

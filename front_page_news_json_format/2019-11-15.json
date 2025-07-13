@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-11-15",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump’s Choice: National Security or Political Obsession",
+      "snippet": "The impeachment inquiry is the first to involve an issue of geopolitical gravity: Whether the president was undercutting American national interests — containing Russia — to bolster his campaign.",
+      "abstract": "The impeachment inquiry is the first to involve an issue of geopolitical gravity: Whether the president was undercutting American national interests — containing Russia — to bolster his campaign.",
+      "lead_paragraph": "The last two impeachment investigations of the past half-century began with a third-rate burglary and an extramarital affair. They quickly expanded to question the credibility and ethics of the president, but never touched on America’s national interests in the weightiest geopolitical confrontations of their eras.",
+      "publication_date": "2019-11-14T17:10:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/14/us/politics/trump-impeachment-national-security.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Pelosi Points to Possible Bribery Charge Against Trump",
+      "snippet": "The day after the first public impeachment hearing, Speaker Nancy Pelosi used the word “bribery,” mentioned in the Constitution’s impeachment clause, to describe President Trump’s conduct.",
+      "abstract": "The day after the first public impeachment hearing, Speaker Nancy Pelosi used the word “bribery,” mentioned in the Constitution’s impeachment clause, to describe President Trump’s conduct.",
+      "lead_paragraph": "WASHINGTON — Speaker Nancy Pelosi sharpened the focus of Democrats’ impeachment case against President Trump on Thursday, accusing the president of committing bribery when he withheld vital military assistance from Ukraine at the same time he was seeking its commitment to publicly investigate his political rivals.",
+      "publication_date": "2019-11-14T18:16:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/14/us/politics/pelosi-impeachment-bribery.html",
+      "byline": "By Nicholas Fandos and Michael S. Schmidt"
+    },
+    {
+      "headline": "Whistle-Blower’s Purported Name Keeps Evading Facebook and YouTube Defenses",
+      "snippet": "The sites said they would delete posts that include the purported name of the Ukraine whistle-blower. But the name keeps reappearing.",
+      "abstract": "The sites said they would delete posts that include the purported name of the Ukraine whistle-blower. But the name keeps reappearing.",
+      "lead_paragraph": "SAN FRANCISCO — A week ago, YouTube and Facebook said they would block people from identifying the government official thought to be the whistle-blower who set in motion an impeachment inquiry into President Trump. ",
+      "publication_date": "2019-11-14T22:22:49+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/14/technology/whistleblower-name-facebook-youtube.html",
+      "byline": "By Sheera Frenkel"
+    },
+    {
+      "headline": "Santa Clarita Shooting Is Another Nightmare Made Real",
+      "snippet": "Two students were killed when a young man opened fire at Saugus High School in Santa Clarita, Calif.",
+      "abstract": "Two students were killed when a young man opened fire at Saugus High School in Santa Clarita, Calif.",
+      "lead_paragraph": "SANTA CLARITA, Calif. — Frantic parents texted with teenagers barricaded in classrooms. Others offered shelter to students fleeing their high school in this sleepy suburb north of Los Angeles on Thursday. It was the latest example of a wrenching sequence that has become a recurring nightmare for families in America. ",
+      "publication_date": "2019-11-15T00:20:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/14/us/school-shooting-santa-clarita.html",
+      "byline": "By Jill Cowan, Amy Harmon and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "A Paranoid Guide to Fighting the ‘Bugging Epidemic’",
+      "snippet": "With surveillance gear cheaper and easier to use, security experts say checking your environment for cameras and microphones is not a crazy idea.",
+      "abstract": "With surveillance gear cheaper and easier to use, security experts say checking your environment for cameras and microphones is not a crazy idea.",
+      "lead_paragraph": "People worry that Big Brother and Big Tech are invading their privacy. But a more immediate concern may be the guy next door or a shifty co-worker.",
+      "publication_date": "2019-11-15T10:00:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/15/technology/surveillance-bugging-protection.html",
+      "byline": "By Kate Murphy"
+    },
+    {
+      "headline": "Nestlé Says It Can Be Virtuous and Profitable. Is That Even Possible?",
+      "snippet": "The world’s largest food company is trying to show it can be environmentally sustainable and still make money. Activists are skeptical.",
+      "abstract": "The world’s largest food company is trying to show it can be environmentally sustainable and still make money. Activists are skeptical.",
+      "lead_paragraph": "LAUSANNE, Switzerland — Mark Schneider, the chief executive of the Swiss food giant Nestlé, gripped a bun-clad concoction that looked like a bacon cheeseburger but contained no actual bacon, cheese or beef. He took a bite.",
+      "publication_date": "2019-11-15T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/11/15/business/nestle-environment-sustainability.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "FAFSA Says How Much You Can Pay for College. It’s Often Wrong.",
+      "snippet": "The form opens the door to student aid. But it’s “a terrible measure of what people can actually afford,” one expert said. And many families will be asked to pay more, anyway.",
+      "abstract": "The form opens the door to student aid. But it’s “a terrible measure of what people can actually afford,” one expert said. And many families will be asked to pay more, anyway.",
+      "lead_paragraph": "Like millions of other parents, Julie Phipps filled out the federal form last November that determined her college-bound daughter was eligible for financial aid. She also learned how much the federal government figured her family could contribute to the bill: $14,000.",
+      "publication_date": "2019-11-15T14:55:32+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/15/your-money/fafsa-financial-aid-student-loans.html",
+      "byline": "By Tara Siegel Bernard"
+    }
+  ]
+}

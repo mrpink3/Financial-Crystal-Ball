@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-11-27",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "‘Loser’: How a Lifelong Fear Bookended Trump’s Presidency",
+      "snippet": "The president’s inability to concede the election is the latest reality-denying moment in a career preoccupied with an epithet.",
+      "abstract": "The president’s inability to concede the election is the latest reality-denying moment in a career preoccupied with an epithet.",
+      "lead_paragraph": "In the now-distant Republican presidential primaries of 2016, Senator Ted Cruz of Texas handily won the Iowa caucuses. This was determined by a method that has lately come under attack but at the time was considered standard: elementary math.",
+      "publication_date": "2020-11-26T17:59:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/26/us/politics/trump-election-loss.html",
+      "byline": "By Dan Barry"
+    },
+    {
+      "headline": "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump",
+      "snippet": "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services.",
+      "abstract": "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services.",
+      "lead_paragraph": "WASHINGTON — A few minutes before midnight on Wednesday, the nation got its first glimpse of how profoundly President Trump had transformed the Supreme Court.",
+      "publication_date": "2020-11-26T19:23:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Brexit Is Nipping at London’s Role as a Financial Powerhouse",
+      "snippet": "Britain and the European Union don’t trust each other much, and global banks are caught in the middle.",
+      "abstract": "Britain and the European Union don’t trust each other much, and global banks are caught in the middle.",
+      "lead_paragraph": "LONDON — For Britain, its exit from the European Union is supposed to be the start of a new era as a “Global Britain,” an open, inviting and far-reaching country. For the European Union, Brexit is an opportunity to repatriate some business from across the English Channel and further bolster the continent’s economic standing in the world.",
+      "publication_date": "2020-11-27T08:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/27/business/brexit-london-financial-center.html",
+      "byline": "By Eshe Nelson and Jack Ewing"
+    },
+    {
+      "headline": "A Mother, Her Son — and Their 1,500-Mile Search for Home",
+      "snippet": "Millions of people have been displaced by the pandemic. Jessika and her 6-year-old, Sebastián, are among the many who have yet to find a home.",
+      "abstract": "Millions of people have been displaced by the pandemic. Jessika and her 6-year-old, Sebastián, are among the many who have yet to find a home.",
+      "lead_paragraph": "BOGOTÁ, Colombia — A little boy charges along the highway, his red plastic shoes glowing in the twilight. The suitcase he pulls weighs almost as much as he does. A truck throttles by, threatening to blow him off his feet. But Sebastián Ventura, who at just 6 has already taken on the role of family cheerleader, urges his family on.",
+      "publication_date": "2020-11-27T08:00:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/27/world/americas/coronavirus-migrants-venezuela.html",
+      "byline": "By Julie Turkewitz and Isayen Herrera"
+    },
+    {
+      "headline": "A Job for Life, or Not? A Class Divide Deepens in Japan",
+      "snippet": "Two court rulings threaten to further entrench distinctions in Japan between “regular” workers and the growing ranks of nonregular employees, many of whom are women.",
+      "abstract": "Two court rulings threaten to further entrench distinctions in Japan between “regular” workers and the growing ranks of nonregular employees, many of whom are women.",
+      "lead_paragraph": "TOKYO — For more than a decade, Setsuko Hikita spent her working days selling snacks and newspapers in the bowels of Tokyo’s bustling metro system.",
+      "publication_date": "2020-11-27T08:59:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/27/business/japan-workers.html",
+      "byline": "By Makiko Inoue and Ben Dooley"
+    },
+    {
+      "headline": "Pushed by Pandemic, Amazon Goes on a Hiring Spree Without Equal",
+      "snippet": "The company has added 427,300 employees in 10 months, bringing its global work force to more than 1.2 million.",
+      "abstract": "The company has added 427,300 employees in 10 months, bringing its global work force to more than 1.2 million.",
+      "lead_paragraph": "SEATTLE — Amazon has embarked on an extraordinary hiring binge this year, vacuuming up an average of 1,400 new workers a day and solidifying its power as online shopping becomes more entrenched in the coronavirus pandemic.",
+      "publication_date": "2020-11-27T10:00:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/27/technology/pushed-by-pandemic-amazon-goes-on-a-hiring-spree-without-equal.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "India’s Economy Shrinks Sharply as Covid-19 Slams Small Businesses",
+      "snippet": "The latest data firmly establishes India’s position among the worst-performing major economies, despite government spending meant to blunt the pandemic’s impact.",
+      "abstract": "The latest data firmly establishes India’s position among the worst-performing major economies, despite government spending meant to blunt the pandemic’s impact.",
+      "lead_paragraph": "NEW DELHI — China has come roaring back from the devastation of Covid-19, and the United States, Europe and Japan are finding their feet. But the hundreds of millions of laborers and shopkeepers who keep India’s economy running still can’t find relief.",
+      "publication_date": "2020-11-27T12:49:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/27/business/economy/india-economy-covid-19.html",
+      "byline": "By Emily Schmall"
+    },
+    {
+      "headline": "As Winter Arrives, Heaters Become a Survival Tool for Businesses",
+      "snippet": "A rise in demand for heating equipment has left some products back-ordered for months, possibly jeopardizing prospects for some businesses of getting through the pandemic intact.",
+      "abstract": "A rise in demand for heating equipment has left some products back-ordered for months, possibly jeopardizing prospects for some businesses of getting through the pandemic intact.",
+      "lead_paragraph": "The must-have accessory for many businesses this winter is basic, but lately it has been hard to find: the humble space heater.",
+      "publication_date": "2020-11-27T14:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/27/business/space-heaters-winter-coronavirus.html",
+      "byline": "By C. J. Hughes"
+    }
+  ]
+}

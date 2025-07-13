@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2021-04-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Clerk Who Questioned $20 Bill Watched Floyd Arrest With ‘Disbelief and Guilt’",
+      "snippet": "During the third day of Derek Chauvin’s trial, witness after witness agonized over whether they could have done anything to stop what would eventually happen to George Floyd.",
+      "abstract": "During the third day of Derek Chauvin’s trial, witness after witness agonized over whether they could have done anything to stop what would eventually happen to George Floyd.",
+      "lead_paragraph": "MINNEAPOLIS — He chatted with a store clerk about playing football. He grabbed a banana off a shelf, flipped through a wad of cash, and hugged and exchanged pleasantries with a woman, laughing with his hand on her back.",
+      "publication_date": "2021-04-01T00:20:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/31/us/chauvin-trial-floyd.html",
+      "byline": "By John Eligon, Shaila Dewan, Tim Arango and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "An Accidental Disclosure Exposes a $1 Billion Tax Fight With Bristol Myers",
+      "snippet": "The I.R.S. believes the American drugmaker used an abusive offshore scheme to avoid federal taxes.",
+      "abstract": "The I.R.S. believes the American drugmaker used an abusive offshore scheme to avoid federal taxes.",
+      "lead_paragraph": "Almost nine years ago, Bristol Myers Squibb filed paperwork in Ireland to create a new offshore subsidiary. By moving Bristol Myers’s profits through the subsidiary, the American drugmaker could substantially reduce its U.S. tax bill.",
+      "publication_date": "2021-04-01T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/01/business/bristol-myers-taxes-irs.html",
+      "byline": "By Jesse Drucker"
+    },
+    {
+      "headline": "‘They Told Us Not to Resist’: Sexual Violence Pervades Ethiopia’s War",
+      "snippet": "Rape is being used as a weapon as fighting rages in remote parts of Tigray region. “Even if we had shouted,” one woman said, “there was no one to listen.”",
+      "abstract": "Rape is being used as a weapon as fighting rages in remote parts of Tigray region. “Even if we had shouted,” one woman said, “there was no one to listen.”",
+      "lead_paragraph": "Mona Lisa lay on a hospital bed in Mekelle, the main city in war-torn northern Ethiopia, her body devastated but her defiance on display.",
+      "publication_date": "2021-04-01T09:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/01/world/africa/ethiopia-tigray-sexual-assault.html",
+      "byline": "By Declan Walsh"
+    },
+    {
+      "headline": "That Spotty Wi-Fi? There’s $100 Billion to Fix It.",
+      "snippet": "President Biden's infrastructure proposal aims to close the digital divide, which has existed since the Clinton administration.",
+      "abstract": "President Biden's infrastructure proposal aims to close the digital divide, which has existed since the Clinton administration.",
+      "lead_paragraph": "WASHINGTON — Kimberly Vasquez, a high school senior in Baltimore, faced a tough problem when the pandemic began. She had no fast internet service in her home, but all her classes were online.",
+      "publication_date": "2021-04-01T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/01/technology/digital-divide-rural-wifi.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Wall Street Hits Another Record, Lifted by Tech Rally and Economic Optimism",
+      "snippet": "Gains were largely driven by technology shares, and the record close was the latest in a series of new highs for the S&P 500.",
+      "abstract": "Gains were largely driven by technology shares, and the record close was the latest in a series of new highs for the S&P 500.",
+      "lead_paragraph": "A rally in big technology stocks, a tailwind of optimism from the Biden administration’s latest spending plan and a jump in oil prices combined on Thursday to lift Wall Street to another record, this one punctuated by the S&P 500 index’s close above 4,000 for the first time.",
+      "publication_date": "2021-04-01T11:19:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/01/business/sp-500-crosses-4000.html",
+      "byline": "By Matt Phillips and Mohammed Hadi"
+    }
+  ]
+}

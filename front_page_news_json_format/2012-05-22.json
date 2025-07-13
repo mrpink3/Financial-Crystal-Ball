@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2012-05-22",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "An Entrepreneur Bankrolls a Genetically Engineered Salmon",
+      "snippet": "AquaBounty Technologies, which wants to produce genetically engineered salmon, is reliant on its largest shareholder, Kakha Bendukidze.",
+      "abstract": "AquaBounty Technologies, which wants to produce genetically engineered salmon, is reliant on its largest shareholder, Kakha Bendukidze.",
+      "lead_paragraph": "SAN DIEGO — If Americans ever eat genetically engineered fast-growing salmon, it might be because of a Soviet biologist turned oligarch turned government minister turned fish farming entrepreneur. ",
+      "publication_date": "2012-05-21T23:41:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/22/business/kakha-bendukidze-holds-fate-of-gene-engineered-salmon.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "As Facebook’s Stock Struggles, Fingers Start Pointing",
+      "snippet": "Much of the blame for Facebook’s initial public offering debacle is landing on Morgan Stanley, the lead banker.",
+      "abstract": "Much of the blame for Facebook’s initial public offering debacle is landing on Morgan Stanley, the lead banker.",
+      "lead_paragraph": "Wall Street is playing the Facebook blame game.",
+      "publication_date": "2012-05-22T01:08:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/05/21/as-facebooks-stock-struggles-fingers-start-pointing/",
+      "byline": "By Michael J. de la Merced, Evelyn M. Rusli and Susanne Craig"
+    },
+    {
+      "headline": "New York Investigates Insurer Payments to Banks",
+      "snippet": "The state is looking into whether two insurance firms effectively bought their dominant positions by paying kickbacks to banks disguised as commissions or other business.",
+      "abstract": "The state is looking into whether two insurance firms effectively bought their dominant positions by paying kickbacks to banks disguised as commissions or other business.",
+      "lead_paragraph": "New York State regulators are investigating whether banks received improper payments from two insurance companies that write policies for financially troubled homeowners, as part of their examination of the unusual web of business relationships between the companies.",
+      "publication_date": "2012-05-22T01:37:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/22/business/new-york-investigates-home-insurer-payments-to-banks.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Iran Nears Deal on Inspecting Atomic Site, U.N. Chief Says",
+      "snippet": "Yukiya Amano, the director general of the International Atomic Energy Agency, announced what appeared to be a significant concession from Tehran.",
+      "abstract": "Yukiya Amano, the director general of the International Atomic Energy Agency, announced what appeared to be a significant concession from Tehran.",
+      "lead_paragraph": "AMMAN, Jordan — Iran signaled a willingness on Tuesday to allow potentially intrusive international inspections of secret military facilities, raising expectations that it was searching for a diplomatic solution to the standoff over its nuclear program.",
+      "publication_date": "2012-05-22T08:44:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/23/world/middleeast/un-nuclear-monitor-strikes-deal-with-iran-reports-say.html",
+      "byline": "By Steven Erlanger"
+    }
+  ]
+}

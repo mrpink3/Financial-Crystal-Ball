@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-09-20",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Billions to Connect Everyone to High-Speed Internet Could Still Fall Short",
+      "snippet": "President Biden has promised to provide every American access to reliable high-speed internet. But some have raised concerns about whether the funds will achieve all of the administration’s goals.",
+      "abstract": "President Biden has promised to provide every American access to reliable high-speed internet. But some have raised concerns about whether the funds will achieve all of the administration’s goals.",
+      "lead_paragraph": "Along the southeastern edge of Oklahoma, where expansive cattle ranches and empty storefronts dot the landscape, the lack of high-speed internet service has become a daily frustration for residents.",
+      "publication_date": "2023-09-19T16:36:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/19/us/politics/high-speed-internet-biden.html",
+      "byline": "By Madeleine Ngo"
+    },
+    {
+      "headline": "Instacart Rises 12% on First Day of Trading, an Encouraging Sign for Tech I.P.O.s",
+      "snippet": "Shares opened at $42 on Tuesday before declining, valuing the grocery delivery company at $11.1 billion.",
+      "abstract": "Shares opened at $42 on Tuesday before declining, valuing the grocery delivery company at $11.1 billion.",
+      "lead_paragraph": "Initial public offerings are back, warts and all.",
+      "publication_date": "2023-09-19T17:06:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/19/technology/instacart-ipo-stock-shares.html",
+      "byline": "By Erin Griffith and Kellen Browning"
+    },
+    {
+      "headline": "Anti-Affirmative Action Group Sues West Point Over Admissions Policy",
+      "snippet": "The Supreme Court ruling barring race-conscious admissions at civilian colleges should apply to the U.S. Military Academy as well, the lawsuit argues.",
+      "abstract": "The Supreme Court ruling barring race-conscious admissions at civilian colleges should apply to the U.S. Military Academy as well, the lawsuit argues.",
+      "lead_paragraph": "The group that won a major Supreme Court victory against affirmative action in June sued the U.S. Military Academy at West Point on Tuesday, arguing that the court’s ruling barring race-conscious college admissions should extend to the nation’s military academies as well.",
+      "publication_date": "2023-09-19T17:20:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/19/us/affirmative-action-west-point.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "New York Loves to Hate Him. Can a $2.3 Billion Sphere Redeem Jim Dolan?",
+      "snippet": "Mr. Dolan, who controls the company that owns the Knicks and the Rangers, is set to open a behemoth arena in Las Vegas that he hopes will revolutionize live entertainment. Back home in New York, he is facing the wrath of lawyers, politicians and s...",
+      "abstract": "Mr. Dolan, who controls the company that owns the Knicks and the Rangers, is set to open a behemoth arena in Las Vegas that he hopes will revolutionize live entertainment. Back home in New York, he is facing the wrath of lawyers, politicians and sports fans.",
+      "lead_paragraph": "In his 26th-floor office, high above Midtown Manhattan, James L. Dolan sits on a white couch by a large desk and armoire decorated with family photographs, with an electric guitar on a stand in the corner. His eyes are trained on a wall-mounted surveillance screen.",
+      "publication_date": "2023-09-20T07:00:38+0000",
+      "section_name": "New York",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/09/20/nyregion/james-dolan-las-vegas-sphere.html",
+      "byline": "By Katherine Rosman"
+    },
+    {
+      "headline": "Fed Aims for Soft Landing With a Rate Pause and a Pledge to Move ‘Carefully’",
+      "snippet": "Central bankers held rates steady at 5.25 to 5.5 percent, and forecast that they could still make a final quarter-point-rate move this year.",
+      "abstract": "Central bankers held rates steady at 5.25 to 5.5 percent, and forecast that they could still make a final quarter-point-rate move this year.",
+      "lead_paragraph": "Federal Reserve officials left interest rates unchanged on Wednesday and released a roundly optimistic set of economic forecasts that showed inflation fading more swiftly this year even with a solidly growing economy.",
+      "publication_date": "2023-09-20T09:01:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/20/business/fed-meeting-september-inflation-economy.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Gas Prices Have Crept Higher This Summer, a Challenge for the Fed",
+      "snippet": "Now at their highest level in 11 months, they can complicate the Federal Reserve’s campaign to rein in inflation.",
+      "abstract": "Now at their highest level in 11 months, they can complicate the Federal Reserve’s campaign to rein in inflation.",
+      "lead_paragraph": "Your eyes are not deceiving you: Gas prices are rising yet again. On Wednesday, the national average for unleaded gasoline was $3.88 per gallon, according to AAA, the highest level in nearly a year.",
+      "publication_date": "2023-09-20T09:02:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/20/business/gas-prices.html",
+      "byline": "By Santul Nerkar"
+    },
+    {
+      "headline": "Garland Rebuffs Republicans’ Efforts to Reveal Details on Hunter Biden Inquiry",
+      "snippet": "The soft-spoken attorney general struck a sharper tone during testimony before the Judiciary Committee, saying prosecutors won’t be “intimidated” by threats from Trump allies.",
+      "abstract": "The soft-spoken attorney general struck a sharper tone during testimony before the Judiciary Committee, saying prosecutors won’t be “intimidated” by threats from Trump allies.",
+      "lead_paragraph": "Attorney General Merrick B. Garland offered a fiery defense of the Justice Department’s investigation of Hunter Biden on Wednesday, telling a House committee he was “not Congress’s prosecutor” — and would not reveal details of the inquiry no matter how much pressure lawmakers applied.",
+      "publication_date": "2023-09-20T09:02:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/20/us/politics/garland-house-judiciary-committee-justice-dept.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "Navigating a Perilous Mountain Pass After a Devastating Earthquake",
+      "snippet": "A stretch of lonely road across Morocco’s Atlas Mountains has long been known for its stunning views and perilous turns. After the earthquake, it became a lifeline for dozens of destroyed villages.",
+      "abstract": "A stretch of lonely road across Morocco’s Atlas Mountains has long been known for its stunning views and perilous turns. After the earthquake, it became a lifeline for dozens of destroyed villages.",
+      "lead_paragraph": "Climbing up around 7,000 feet over the Atlas Mountains, the road through the Tizi N’Test pass bends impossibly around cliff edges, expands and pinches uncomfortably to a single fragile track and creeps under jagged rocky outcrops.",
+      "publication_date": "2023-09-20T09:48:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/20/world/middleeast/atlas-mountains-pass-morocco-earthquake.html",
+      "byline": "By Catherine Porter, Aida Alami and Nariman El-Mofty"
+    },
+    {
+      "headline": "Google Says Switching Away From Its Search Engine Is Easy. It’s Not.",
+      "snippet": "Google says a change takes just a few steps, but a panel of designers found otherwise. The issue is at the heart of a federal antitrust trial.",
+      "abstract": "Google says a change takes just a few steps, but a panel of designers found otherwise. The issue is at the heart of a federal antitrust trial.",
+      "lead_paragraph": "Imagine if every time you went to the supermarket, your shopping cart came loaded with the same box of cereal.",
+      "publication_date": "2023-09-20T13:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/20/technology/personaltech/google-search-engine-trial-antitrust.html",
+      "byline": "By Brian X. Chen"
+    }
+  ]
+}

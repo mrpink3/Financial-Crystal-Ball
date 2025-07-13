@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2022-08-31",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Frustrations Mount at Washington Post as Its Business Struggles",
+      "snippet": "With digital subscriptions and digital advertising revenue stagnating, the company is on a pace to lose money this year.",
+      "abstract": "With digital subscriptions and digital advertising revenue stagnating, the company is on a pace to lose money this year.",
+      "lead_paragraph": "In the years after Jeff Bezos bought The Washington Post in 2013, business boomed. Droves of readers bought digital subscriptions, and the newsroom roughly doubled in size, adding hundreds more journalists.",
+      "publication_date": "2022-08-30T16:16:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/30/business/media/washington-post-jeff-bezos-revenue.html",
+      "byline": "By Benjamin Mullin and Katie Robertson"
+    },
+    {
+      "headline": "Hard Right Stokes Outrage After Search of Mar-a-Lago",
+      "snippet": "As they did before the Jan. 6 attack on the Capitol, the former president and his allies are fueling anger among supporters.",
+      "abstract": "As they did before the Jan. 6 attack on the Capitol, the former president and his allies are fueling anger among supporters.",
+      "lead_paragraph": "One week after a team of F.B.I. agents descended on his private club and residence in Florida, former President Donald J. Trump warned that his followers were enraged by the search — and that things could get out of hand if the Justice Department kept the heat on him.",
+      "publication_date": "2022-08-30T17:01:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/30/us/politics/trump-search-violence.html",
+      "byline": "By Alan Feuer and Maggie Haberman"
+    },
+    {
+      "headline": "Mikhail S. Gorbachev, Reformist Soviet Leader, Is Dead at 91",
+      "snippet": "Adopting principles of glasnost and perestroika, he weighed the legacy of seven decades of Communist rule and set a new course, presiding over the end of the Cold War and the dissolution of the U.S.S.R.",
+      "abstract": "Adopting principles of glasnost and perestroika, he weighed the legacy of seven decades of Communist rule and set a new course, presiding over the end of the Cold War and the dissolution of the U.S.S.R.",
+      "lead_paragraph": "Mikhail S. Gorbachev, whose rise to power in the Soviet Union set in motion a series of revolutionary changes that transformed the map of Europe and ended the Cold War that had threatened the world with nuclear annihilation, has died in Moscow. He was 91. ",
+      "publication_date": "2022-08-30T20:48:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/30/world/europe/mikhail-gorbachev-dead.html",
+      "byline": "By Marilyn Berger"
+    },
+    {
+      "headline": "Russia’s Occupation of Nuclear Plant Gives Moscow a New Way to Intimidate",
+      "snippet": "President Vladimir V. Putin of Russia appears to be using the facility to scare Ukraine’s leaders and warn the West to stay out of the conflict.",
+      "abstract": "President Vladimir V. Putin of Russia appears to be using the facility to scare Ukraine’s leaders and warn the West to stay out of the conflict.",
+      "lead_paragraph": "As international nuclear inspectors head toward Ukraine’s Zaporizhzhia power plant, they face a situation that few had ever envisioned: a vast nuclear power plant that could be deliberately turned into a potential dirty bomb, with Russia using it to intimidate its enemy and the world.",
+      "publication_date": "2022-08-30T21:30:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/30/us/politics/russia-ukraine-nuclear-plant.html",
+      "byline": "By David E. Sanger"
+    }
+  ]
+}

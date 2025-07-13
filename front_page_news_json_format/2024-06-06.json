@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2024-06-06",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Clash Over Phone Hacking Article Preceded Exit of Washington Post Editor",
+      "snippet": "Will Lewis, the chief executive of The Washington Post, objected to coverage of a legal development involving him in a phone hacking case.",
+      "abstract": "Will Lewis, the chief executive of The Washington Post, objected to coverage of a legal development involving him in a phone hacking case.",
+      "lead_paragraph": "Weeks before the embattled executive editor of The Washington Post abruptly resigned on Sunday, her relationship with the company’s chief executive became increasingly tense.",
+      "publication_date": "2024-06-05T23:37:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/05/business/media/washington-post-buzbee-lewis.html",
+      "byline": "By Benjamin Mullin and Katie Robertson"
+    },
+    {
+      "headline": "U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI",
+      "snippet": "The Justice Department and the Federal Trade Commission agreed to divide responsibility for investigating three major players in the artificial intelligence industry.",
+      "abstract": "The Justice Department and the Federal Trade Commission agreed to divide responsibility for investigating three major players in the artificial intelligence industry.",
+      "lead_paragraph": "Federal regulators have reached a deal that allows them to proceed with antitrust investigations into the dominant roles that Microsoft, OpenAI and Nvidia play in the artificial intelligence industry, in the strongest sign of how regulatory scrutiny into the powerful technology has escalated.",
+      "publication_date": "2024-06-06T03:38:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "Guess Who’s Angry at China’s Real Estate Bailout: Homeowners",
+      "snippet": "China has relaxed or eliminated measures on home buying to spur new purchases. This has made a vocal constituency of existing homeowners very unhappy.",
+      "abstract": "China has relaxed or eliminated measures on home buying to spur new purchases. This has made a vocal constituency of existing homeowners very unhappy.",
+      "lead_paragraph": "For much of the past decade, China’s efforts to curb speculation on real estate grew broader and more extensive.",
+      "publication_date": "2024-06-06T04:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/06/business/china-real-estate-restrictions.html",
+      "byline": "By Daisuke Wakabayashi and Claire Fu"
+    },
+    {
+      "headline": "It Looked Like a Reliable News Site. It Was an A.I. Chop Shop.",
+      "snippet": "BNN Breaking had millions of readers, an international team of journalists and a publishing deal with Microsoft. But it was full of error-ridden content.",
+      "abstract": "BNN Breaking had millions of readers, an international team of journalists and a publishing deal with Microsoft. But it was full of error-ridden content.",
+      "lead_paragraph": "The news was featured on MSN.com: “Prominent Irish broadcaster faces trial over alleged sexual misconduct.” At the top of the story was a photo of Dave Fanning.",
+      "publication_date": "2024-06-06T04:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html",
+      "byline": "By Kashmir Hill and Tiffany Hsu"
+    },
+    {
+      "headline": "Inside the Base Where Israel Has Detained Thousands of Gazans",
+      "snippet": "Since Israel invaded Gaza, the Sde Teiman military base has filled with blindfolded, handcuffed detainees, held without charge or legal representation.",
+      "abstract": "Since Israel invaded Gaza, the Sde Teiman military base has filled with blindfolded, handcuffed detainees, held without charge or legal representation.",
+      "lead_paragraph": "The men sat in rows, handcuffed and blindfolded, unable to see the Israeli soldiers who stood watch over them from the other side of a mesh fence.",
+      "publication_date": "2024-06-06T04:01:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-detention-base.html",
+      "byline": "By Patrick Kingsley and Bilal Shbair"
+    },
+    {
+      "headline": "A Republican Election Clerk vs. Trump Die-Hards in a World of Lies",
+      "snippet": "Cindy Elgan has overseen elections in rural Nevada without incident for 20 years, but now even her neighbors wonder if she’s part of “the deep state cabal.”",
+      "abstract": "Cindy Elgan has overseen elections in rural Nevada without incident for 20 years, but now even her neighbors wonder if she’s part of “the deep state cabal.”",
+      "lead_paragraph": "Cindy Elgan glanced into the lobby of her office and saw a sheriff’s deputy waiting at the front counter. “Let’s start a video recording, just in case this goes sideways,” Elgan, 65, told one of her employees in the Esmeralda County clerk’s office. She had come to expect skepticism, conspiracy theories and even threats related to her job as an election administrator. She grabbed her annotated booklet of Nevada state laws, said a prayer for patience and walked into the lobby to confront the latest challenge to America’s electoral process.",
+      "publication_date": "2024-06-06T09:02:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/us/politics/nevada-election-clerk-trump.html",
+      "byline": "By Eli Saslow and Erin Schaff"
+    },
+    {
+      "headline": "‘This Is Going to Be Painful’: How a Bold A.I. Device Flopped",
+      "snippet": "Humane’s Ai Pin was supposed to free people from smartphones, but sales have been slow. Now Humane is talking to HP and others about a potential sale.",
+      "abstract": "Humane’s Ai Pin was supposed to free people from smartphones, but sales have been slow. Now Humane is talking to HP and others about a potential sale.",
+      "lead_paragraph": "Days before gadget reviewers weighed in on the Humane Ai Pin, a futuristic wearable device powered by artificial intelligence, the founders of the company gathered their employees and encouraged them to brace themselves. The reviews might be disappointing, they warned.",
+      "publication_date": "2024-06-06T09:02:53+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/06/technology/humane-ai-pin.html",
+      "byline": "By Tripp Mickle and Erin Griffith"
+    },
+    {
+      "headline": "Office Building Losses Start to Pile Up, and More Pain Is Expected",
+      "snippet": "The distress in commercial real estate is growing as some office buildings sell for much lower prices than just a few years ago.",
+      "abstract": "The distress in commercial real estate is growing as some office buildings sell for much lower prices than just a few years ago.",
+      "lead_paragraph": "Since the early days of the pandemic, owners of big buildings in New York and other large cities have been desperately hoping that the commercial real estate business would recover as workers returned to offices.",
+      "publication_date": "2024-06-06T09:03:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/06/business/office-building-foreclosures-losses.html",
+      "byline": "By Joe Rennison and Julie Creswell"
+    },
+    {
+      "headline": "At 45, He Vies With Women Half His Age, Seeking an Olympic First",
+      "snippet": "If Bill May makes the U.S. Olympic team, he will become the first man ever to compete in artistic swimming, formerly known as synchronized swimming, at the Games.",
+      "abstract": "If Bill May makes the U.S. Olympic team, he will become the first man ever to compete in artistic swimming, formerly known as synchronized swimming, at the Games.",
+      "lead_paragraph": "As you watch the U.S. Artistic Swimming team practice for the Olympics — their bodies upside down, their legs scissoring in the air in perfect time, like frenzied offshore wind turbines — you will notice two things.",
+      "publication_date": "2024-06-06T10:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/us/synchronized-swimming-olympics.html",
+      "byline": "By Sarah Lyall and Daniel Dorsa"
+    },
+    {
+      "headline": "European Central Bank Cuts Interest Rates for the First Time Since 2019",
+      "snippet": "The quarter-point reduction comes as inflation in the eurozone cools, prompting the E.C.B. to move before the Federal Reserve in the United States, where rates remain high.",
+      "abstract": "The quarter-point reduction comes as inflation in the eurozone cools, prompting the E.C.B. to move before the Federal Reserve in the United States, where rates remain high.",
+      "lead_paragraph": "The European Central Bank lowered interest rates on Thursday for the first time in nearly five years, signaling a pivot away from its aggressive policy to stamp out a surge in inflation.",
+      "publication_date": "2024-06-06T12:19:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/06/business/european-central-bank-interest-rates.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Witness in Hunter Biden Trial Gives Intimate Portrait of His Drug Use",
+      "snippet": "In text exchanges between Mr. Biden and a former girlfriend, Hallie Biden, the widow of his brother, Beau, she urged him to seek treatment as he trawled the streets for drugs.",
+      "abstract": "In text exchanges between Mr. Biden and a former girlfriend, Hallie Biden, the widow of his brother, Beau, she urged him to seek treatment as he trawled the streets for drugs.",
+      "lead_paragraph": "Hallie Biden walked briskly to the witness box, past her brother-in-law and ex-boyfriend Hunter Biden, to chronicle a star-crossed relationship that ended in anguish, her own addiction and, eventually, his criminal prosecution.",
+      "publication_date": "2024-06-06T13:30:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/us/politics/hallie-biden-hunter-gun-trial-testimony.html",
+      "byline": "By Glenn Thrush, Eileen Sullivan and Zach Montague"
+    },
+    {
+      "headline": "Whose Fault Is Inflation? Liberals Want Biden to Blame Big Business.",
+      "snippet": "“Greedflation” is a moniker about corporate price increases that has bolstered some Democratic senators, and now the president is being encouraged to lean in on the issue for his economic messaging.",
+      "abstract": "“Greedflation” is a moniker about corporate price increases that has bolstered some Democratic senators, and now the president is being encouraged to lean in on the issue for his economic messaging.",
+      "lead_paragraph": "As high prices at grocery stores, gas pumps and pharmacies have soured many voters on his first term, President Biden has developed a populist riposte: Blame big corporations for inflation, not me.",
+      "publication_date": "2024-06-06T14:11:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/us/politics/biden-inflation-greedflation-economy.html",
+      "byline": "By Nicholas Nehamas, Jim Tankersley and Kellen Browning"
+    }
+  ]
+}

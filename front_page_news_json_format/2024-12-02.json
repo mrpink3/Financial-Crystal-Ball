@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "date": "2024-12-02",
+    "total_articles": 14
+  },
+  "articles": [
+    {
+      "headline": "Trump Says He Will Nominate Kash Patel to Run F.B.I.",
+      "snippet": "President-elect Donald J. Trump turned to a firebrand loyalist to become director of the bureau, which he sees as part of a ‘deep state’ conspiracy against him.",
+      "abstract": "President-elect Donald J. Trump turned to a firebrand loyalist to become director of the bureau, which he sees as part of a ‘deep state’ conspiracy against him.",
+      "lead_paragraph": "President-elect Donald J. Trump said on Saturday that he wants to replace Christopher A. Wray, the F.B.I. director, with Kash Patel, a hard-line critic of the bureau who has called for shutting down the agency’s Washington headquarters, firing its leadership and bringing the nation’s law enforcement agencies “to heel.”",
+      "publication_date": "2024-12-01T00:00:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/11/30/us/politics/trump-replace-christopher-wray.html",
+      "byline": "By Devlin Barrett and Maggie Haberman"
+    },
+    {
+      "headline": "Mexican Cartels Lure Chemistry Students to Make Fentanyl",
+      "snippet": "Criminals turn college campuses into recruitment hubs, recruiting chemistry students in Mexico with big paydays.",
+      "abstract": "Criminals turn college campuses into recruitment hubs, recruiting chemistry students in Mexico with big paydays.",
+      "lead_paragraph": "The cartel recruiter slipped onto campus disguised as a janitor and then zeroed in on his target: a sophomore chemistry student.",
+      "publication_date": "2024-12-01T05:01:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/world/americas/mexico-fentanyl-chemistry-students.html",
+      "byline": "By Natalie Kitroeff and Paulina Villegas"
+    },
+    {
+      "headline": "How the Border County Where Elon Musk Is a Local Flipped for Trump",
+      "snippet": "Mr. Musk’s rockets and presence have helped shape, and reshape, the culture and politics of Cameron County in South Texas.",
+      "abstract": "Mr. Musk’s rockets and presence have helped shape, and reshape, the culture and politics of Cameron County in South Texas.",
+      "lead_paragraph": "The story of the political transformation of Cameron County, a majority-Hispanic border community at the southernmost tip of Texas, began with the arrival of a billionaire.",
+      "publication_date": "2024-12-01T10:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/us/politics/elon-musk-cameron-county.html",
+      "byline": "By Jazmine Ulloa and Callaghan O'Hare"
+    },
+    {
+      "headline": "Why Black Americans Searching for Their Roots Should Look to Angola",
+      "snippet": "When President Biden visits the country this week, he is expected to highlight a largely overlooked bond between Angola and the United States that was born out of the trans-Atlantic slave trade.",
+      "abstract": "When President Biden visits the country this week, he is expected to highlight a largely overlooked bond between Angola and the United States that was born out of the trans-Atlantic slave trade.",
+      "lead_paragraph": "They stood on a concrete platform over a cobblestone plaza as slave traders cast their final judgment, gazing westward at a bend in the mighty Cuanza River, where unknown horrors lay ahead.",
+      "publication_date": "2024-12-01T10:00:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/world/africa/angola-biden-slavery.html",
+      "byline": "By John Eligon and Joao Silva"
+    },
+    {
+      "headline": "A Second Trump Term Poses a Crucial Test of the Senate’s Independence",
+      "snippet": "President-elect Donald J. Trump is threatening to challenge the institution’s historic role, and the Constitution, with his prospective nominees and threats to push the boundaries of executive authority.",
+      "abstract": "President-elect Donald J. Trump is threatening to challenge the institution’s historic role, and the Constitution, with his prospective nominees and threats to push the boundaries of executive authority.",
+      "lead_paragraph": "President-elect Donald J. Trump’s determination to crash over traditional governmental guardrails will present a fundamental test of whether the Republican-controlled Senate can maintain its constitutional role as an independent institution and a check on presidential power.",
+      "publication_date": "2024-12-01T10:00:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/us/politics/trump-senate-independence.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Fighting Rages in Syria as Rebels Advance",
+      "snippet": "Forces opposed to President Bashar al-Assad have captured the Aleppo airport and are attacking the western city of Hama, according to local officials and a Britain-based war monitor.",
+      "abstract": "Forces opposed to President Bashar al-Assad have captured the Aleppo airport and are attacking the western city of Hama, according to local officials and a Britain-based war monitor.",
+      "lead_paragraph": "Rebel forces advanced in Syria on Sunday amid fierce fighting, capturing the airport and military academy of the major city of Aleppo and attacking the outskirts of the western city of Hama, according to rebel officials and the Syrian Observatory for Human Rights.",
+      "publication_date": "2024-12-01T11:50:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/world/middleeast/syria-war-aleppo-rebels-government.html",
+      "byline": "By Muhammad Haj Kadour and Vivian Yee"
+    },
+    {
+      "headline": "Republicans Stand Behind Trump’s Choice of Kash Patel to Lead F.B.I.",
+      "snippet": "Several lawmakers expressed support on Sunday for the president-elect’s plan to install a loyalist who has vowed to use the position to exact revenge on adversaries.",
+      "abstract": "Several lawmakers expressed support on Sunday for the president-elect’s plan to install a loyalist who has vowed to use the position to exact revenge on adversaries.",
+      "lead_paragraph": "Several Republican lawmakers fell in line on Sunday behind President-elect Donald J. Trump’s plan to choose Kash Patel to lead the F.B.I., defending the incoming president’s right to install a loyalist who has vowed to use the position to exact revenge on Mr. Trump’s adversaries.",
+      "publication_date": "2024-12-01T17:56:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/us/politics/trump-kash-patel-fbi-republicans.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "C.E.O. of Stellantis, Which Owns Chrysler and Jeep, Resigns",
+      "snippet": "The company, facing slumping sales, announced that Carlos Tavares would step down immediately and that a search for a new chief was underway.",
+      "abstract": "The company, facing slumping sales, announced that Carlos Tavares would step down immediately and that a search for a new chief was underway.",
+      "lead_paragraph": "The chief executive of the automaker Stellantis, Carlos Tavares, has resigned, the company said on Sunday, amid a decline in profits and slumping sales in its key North America region.",
+      "publication_date": "2024-12-01T20:14:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/01/business/stellantis-ceo-resigns.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Syria’s Rebels Struck When Assad’s Allies Were Weakened and Distracted",
+      "snippet": "Diminished support for the Syrian government from Iran, Hezbollah and Russia enabled opposition forces to take the initiative and seize new territory.",
+      "abstract": "Diminished support for the Syrian government from Iran, Hezbollah and Russia enabled opposition forces to take the initiative and seize new territory.",
+      "lead_paragraph": "For years, President Bashar al-Assad of Syria was able to beat back opposition fighters with the help of Russia, Iran and Hezbollah. Now, with those allies weakened or distracted by their own conflicts, rebels have seized the opportunity to shift the balance of power.",
+      "publication_date": "2024-12-01T23:25:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/world/middleeast/syria-rebels-bashar-al-assad.html",
+      "byline": "By Raja Abdulrahim"
+    },
+    {
+      "headline": "In Pardoning His Son, Biden Echoes Some of Trump’s Complaints",
+      "snippet": "President Biden complained about selective prosecution and political pressure in a system he has spent his public life defending.",
+      "abstract": "President Biden complained about selective prosecution and political pressure in a system he has spent his public life defending.",
+      "lead_paragraph": "President Biden and President-elect Donald J. Trump now agree on one thing: The Biden Justice Department has been politicized.",
+      "publication_date": "2024-12-02T02:45:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/01/us/politics/biden-hunter-pardon-politics.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Tensions Rise Among Russia’s Elite as Economic Growth Slows",
+      "snippet": "The slowdown is worrying for the Kremlin but not serious enough to significantly hobble its war effort.",
+      "abstract": "The slowdown is worrying for the Kremlin but not serious enough to significantly hobble its war effort.",
+      "lead_paragraph": "The wartime economy that Russia spurred into overdrive is slowing, causing tensions among the country’s economic elites as the war with Ukraine approaches its fourth year.",
+      "publication_date": "2024-12-02T10:02:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/02/world/europe/russia-economy-war-ukraine.html",
+      "byline": "By Anatoly Kurmanaev"
+    },
+    {
+      "headline": "Biden Targets China’s Chip Industry With Wider Trade Bans",
+      "snippet": "New rules significantly expand restrictions on selling China chip technology, but critics say they also contain carve-outs that are favorable to industry.",
+      "abstract": "New rules significantly expand restrictions on selling China chip technology, but critics say they also contain carve-outs that are favorable to industry.",
+      "lead_paragraph": "The Biden administration announced on Monday broader restrictions on advanced technology that can be sent to China, in an effort to prevent the country from developing its own advanced chips for military equipment and artificial intelligence.",
+      "publication_date": "2024-12-02T10:02:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/02/business/economy/biden-china-chips-exports.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Schumer Presses for F.B.I. Checks and Senate Consideration of Trump Nominees",
+      "snippet": "In a letter, the Democratic leader said members of his party would work with Republicans to consider the president-elect’s nominees — but asserted they should undergo traditional Senate vetting.",
+      "abstract": "In a letter, the Democratic leader said members of his party would work with Republicans to consider the president-elect’s nominees — but asserted they should undergo traditional Senate vetting.",
+      "lead_paragraph": "The top Senate Democrat offered on Monday to cooperate with Republicans next year in considering President-elect Donald J. Trump’s choices for his cabinet and other top administration jobs, and called for the G.O.P. to adhere to traditional Senate vetting standards that Mr. Trump has threatened to skip.",
+      "publication_date": "2024-12-02T10:02:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/02/us/schumer-senate-fbi-checks-trump-nominees.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Intel’s Chief Executive Is Out Amid Chipmaker’s Struggles",
+      "snippet": "Pat Gelsinger stepped down after nearly four years at the helm of the onetime highflying company, Intel said Monday.",
+      "abstract": "Pat Gelsinger stepped down after nearly four years at the helm of the onetime highflying company, Intel said Monday.",
+      "lead_paragraph": "Over the weekend, Patrick Gelsinger, Intel’s chief executive, was given a choice by the company’s board of directors: Resign or be fired.",
+      "publication_date": "2024-12-02T14:33:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html",
+      "byline": "By Don Clark, Tripp Mickle and Steve Lohr"
+    }
+  ]
+}

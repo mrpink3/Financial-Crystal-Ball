@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2015-04-30",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Instacart’s Bet on Online Grocery Shopping",
+      "snippet": "The company delivers groceries bought by personal shoppers, and its growth may be in the double digits. But deep questions remain.",
+      "abstract": "The company delivers groceries bought by personal shoppers, and its growth may be in the double digits. But deep questions remain.",
+      "lead_paragraph": "SAN FRANCISCO — Let’s take a trip to crazy town, shall we, and pretend for a moment that we are in a precarious tech industry bubble. Imagine, for the sake of argument and not because this could possibly be true, that the rising valuations of the largest start-ups are unsustainable. O.K., now consider the following: If we are in a bubble, which of today’s start-ups is the modern-day Webvan or Pets.com? A decade from now, which company will we look back on and wonder, what on earth were we thinking?",
+      "publication_date": "2015-04-29T16:25:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/30/technology/personaltech/instacarts-bet-on-online-grocery-shopping.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Shrugging Off Slow Growth, Fed Predicts a Rebound",
+      "snippet": "The Federal Reserve’s policy makers signaled that an interest-rate increase is still likely later this year.",
+      "abstract": "The Federal Reserve’s policy makers signaled that an interest-rate increase is still likely later this year.",
+      "lead_paragraph": "WASHINGTON — Repeating an all-too-familiar pattern, the American economy barely grew during the first three months of the year, but the Federal Reserve said Wednesday that it expected growth to rebound, suggesting that it still intends to start raising its benchmark interest rate this year.",
+      "publication_date": "2015-04-29T18:05:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/30/business/economy/federal-reserve-meeting-interest-rates.html",
+      "byline": "By Binyamin Appelbaum and Nelson D. Schwartz"
+    },
+    {
+      "headline": "Hospitals Provide a Pulse in Struggling Rural Towns",
+      "snippet": "With little economic vitality amid the decline in manufacturing, small towns can be helped enormously by a well-run hospital.",
+      "abstract": "With little economic vitality amid the decline in manufacturing, small towns can be helped enormously by a well-run hospital.",
+      "lead_paragraph": "BEATRICE, Neb. — “This real estate to be auctioned,” reads a banner stretched across the abandoned warehouse of a store-shelving manufacturer that once employed generations living in and around this town of about 12,000.",
+      "publication_date": "2015-04-29T20:49:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/30/business/economy/hospitals-provide-a-pulse-in-struggling-rural-towns.html",
+      "byline": "By Dionne Searcey"
+    },
+    {
+      "headline": "A Founder of Secret, the Anonymous Social App, Is Shutting It Down",
+      "snippet": "Secret’s rapid rise and fall illustrates the flash-in-the-pan nature of Silicon Valley’s current technology boom.",
+      "abstract": "Secret’s rapid rise and fall illustrates the flash-in-the-pan nature of Silicon Valley’s current technology boom.",
+      "lead_paragraph": "Last summer, employees at the start-up Secret gathered in their new offices in downtown San Francisco, waiting for the founders to address the company. Secret had recently raised $25 million to work on its smartphone app, which lets users anonymously share information with groups of friends and connections.",
+      "publication_date": "2015-04-29T23:39:56+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/30/technology/a-founder-of-secret-the-anonymous-social-app-shuts-it-down-as-use-declines.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Obama Administration Steps Back From Effort to End Federal Death Penalty",
+      "snippet": "The obstacles the Obama administration faced in ending the federal death penalty provide vivid examples of just how politically fraught the debate remains.",
+      "abstract": "The obstacles the Obama administration faced in ending the federal death penalty provide vivid examples of just how politically fraught the debate remains.",
+      "lead_paragraph": "WASHINGTON — For a moment last year, it looked as if the Obama administration was moving toward a history-making end to the federal death penalty.",
+      "publication_date": "2015-04-30T01:19:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/30/us/white-house-balks-on-ending-death-penalty.html",
+      "byline": "By Matt Apuzzo"
+    },
+    {
+      "headline": "Taking to the Baltimore Streets, but for Peace and Progress",
+      "snippet": "In Baltimore, an array of pastors, politicians, community leaders and even gang members have repeatedly worked to calm crowds, effectively helping the police impose a curfew.",
+      "abstract": "In Baltimore, an array of pastors, politicians, community leaders and even gang members have repeatedly worked to calm crowds, effectively helping the police impose a curfew.",
+      "lead_paragraph": "BALTIMORE — For the past few days, as a rare national media spotlight has shined on this city’s troubles, the Rev. Warren Savage has taken the opportunity to meet with self-described members of the gangs that many residents blame for some of those woes: the Crips, the Bloods and the Black Guerrilla Family.",
+      "publication_date": "2015-04-30T01:46:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/30/us/taking-to-thebaltimore-streets-but-for-peace-and-progress.html",
+      "byline": "By Ron Nixon and Scott Shane"
+    },
+    {
+      "headline": "Baltimore Mayor Treads Fine Line in Divided City",
+      "snippet": "Mayor Stephanie Rawlings-Blake must try to bring together two Baltimores, neither of which she is entirely a part: the gentrified city and the frustrated, low-income city.",
+      "abstract": "Mayor Stephanie Rawlings-Blake must try to bring together two Baltimores, neither of which she is entirely a part: the gentrified city and the frustrated, low-income city.",
+      "lead_paragraph": "BALTIMORE — With buildings ablaze and looters rampaging through city streets, Mayor Stephanie Rawlings-Blake faced television cameras Monday night and sternly denounced the rioters as “thugs.” The next day, with some black residents in an uproar over a word they call racially charged, she walked it back.",
+      "publication_date": "2015-04-30T01:56:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/30/us/baltimore-mayor-treads-fine-line-in-divided-city.html",
+      "byline": "By Sheryl Gay Stolberg and Nikita Stewart"
+    },
+    {
+      "headline": "Goldman and IDG Put $50 Million to Work in a Bitcoin Company ",
+      "snippet": "Despite fading interest from the public, Wall Street has been quietly looking at the virtual currency, which can be sent securely, cheaply and almost instantly around the world.",
+      "abstract": "Despite fading interest from the public, Wall Street has been quietly looking at the virtual currency, which can be sent securely, cheaply and almost instantly around the world.",
+      "lead_paragraph": "Goldman Sachs is becoming the first major bank to make a significant investment in a Bitcoin-focused company, giving a vote of confidence to the embattled virtual currency.",
+      "publication_date": "2015-04-30T04:01:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/30/business/dealbook/goldman-and-idg-put-50-million-to-work-in-a-bitcoin-company.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "American Psychological Association Bolstered C.I.A. Torture Program, Report Says",
+      "snippet": "The involvement of health professionals enabled the Justice Department to argue in secret opinions that the Bush-era interrogation program was legal.",
+      "abstract": "The involvement of health professionals enabled the Justice Department to argue in secret opinions that the Bush-era interrogation program was legal.",
+      "lead_paragraph": "WASHINGTON — The American Psychological Association secretly collaborated with the administration of President George W. Bush to bolster a legal and ethical justification for the torture of prisoners swept up in the post-Sept. 11 war on terror, according to a new report by a group of dissident health professionals and human rights activists.",
+      "publication_date": "2015-04-30T09:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/01/us/report-says-american-psychological-association-collaborated-on-torture-justification.html",
+      "byline": "By James Risen"
+    },
+    {
+      "headline": "China Rethinks Safety Net for Its Banking System",
+      "snippet": "The government is introducing a deposit insurance system, hoping to force a more market-driven approach to lending.",
+      "abstract": "The government is introducing a deposit insurance system, hoping to force a more market-driven approach to lending.",
+      "lead_paragraph": "HONG KONG — When the United States started insuring customer deposits, the government wanted to instill faith in the country’s financial system, which had been broken by a string of bank runs and failures during the Great Depression.",
+      "publication_date": "2015-04-30T09:30:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/01/business/dealbook/china-rethinks-safety-net-for-its-banking-system.html",
+      "byline": "By Neil Gough"
+    },
+    {
+      "headline": "Yemenis in Desperate Need of Food and Fuel After Weeks of Airstrikes",
+      "snippet": "The Saudi-led military campaign in Yemen, combined with fierce fighting on the ground, has displaced an estimated 300,000 people and destroyed vital infrastructure.",
+      "abstract": "The Saudi-led military campaign in Yemen, combined with fierce fighting on the ground, has displaced an estimated 300,000 people and destroyed vital infrastructure.",
+      "lead_paragraph": "CAIRO — In one of Yemen’s largest cities, residents have been reduced to a diet of rice. In another, they sleep overnight in lines waiting for gasoline. Hospitals may soon be forced to close, bombs and shells are raining down ever more thickly and randomly, and in places snipers target anyone brave or desperate enough to walk the streets.",
+      "publication_date": "2015-04-30T15:53:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/01/world/middleeast/yemenis-in-desperate-need-of-food-and-fuel-after-weeks-of-airstrikes.html",
+      "byline": "By Kareem Fahim"
+    }
+  ]
+}

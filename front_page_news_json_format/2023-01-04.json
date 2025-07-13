@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-01-04",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Sam Bankman-Fried Pleads Not Guilty to Fraud and Other Charges",
+      "snippet": "The founder of the collapsed cryptocurrency exchange FTX, who was released on a $250 million bond, returned to New York to appear in court on Tuesday.",
+      "abstract": "The founder of the collapsed cryptocurrency exchange FTX, who was released on a $250 million bond, returned to New York to appear in court on Tuesday.",
+      "lead_paragraph": "Nearly two weeks after he was released by a Manhattan judge on a $250 million bond and ordered to stay with his parents in Palo Alto, Calif., Sam Bankman-Fried, the disgraced cryptocurrency executive, returned to New York and pleaded not guilty on Tuesday to charges that he engaged in widespread fraud, paving the way for a possible trial.",
+      "publication_date": "2023-01-03T19:11:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/03/technology/sam-bankman-fried-pleads-not-guilty.html",
+      "byline": "By Benjamin Weiser, David Yaffe-Bellany and Matthew Goldstein"
+    },
+    {
+      "headline": "Speaker Fight Reveals a Divided and Disoriented House Majority",
+      "snippet": "In failing to coalesce around Kevin McCarthy for speaker, Republicans showcased divisions that portend real difficulties in governing.",
+      "abstract": "In failing to coalesce around Kevin McCarthy for speaker, Republicans showcased divisions that portend real difficulties in governing.",
+      "lead_paragraph": "Follow for the latest on the battle to choose a speaker in the House of Representatives.",
+      "publication_date": "2023-01-04T00:04:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/03/us/house-speaker-mccarthy-election.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Need an Onion? These Indian Apps Will Deliver It in Minutes.",
+      "snippet": "Fueled by billions of dollars in investments, Indian companies are rushing to cut delivery prices and wait times, relying on an army of low-paid, harried drivers.",
+      "abstract": "Fueled by billions of dollars in investments, Indian companies are rushing to cut delivery prices and wait times, relying on an army of low-paid, harried drivers.",
+      "lead_paragraph": "The clock was ticking.",
+      "publication_date": "2023-01-04T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/04/business/india-delivery-apps.html",
+      "byline": "By Emily Schmall, Karan Deep Singh and Atul Loke"
+    },
+    {
+      "headline": "McCarthy Flounders as G.O.P. Rebellion Paralyzes the House for a Second Day",
+      "snippet": "The House continued a historic floor showdown — the first in a century — prompted by the Republican leader’s failure to secure a majority to become speaker.",
+      "abstract": "The House continued a historic floor showdown — the first in a century — prompted by the Republican leader’s failure to secure a majority to become speaker.",
+      "lead_paragraph": "Follow for the latest on the battle to choose a speaker in the House of Representatives.",
+      "publication_date": "2023-01-04T10:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/04/us/politics/kevin-mccarthy-house-speaker-vote-republicans.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Why Are Energy Prices So High? Some Experts Blame Deregulation.",
+      "snippet": "California and the 34 other states that have deregulated all or parts of their electricity system tend to have higher rates than the rest of the country.",
+      "abstract": "California and the 34 other states that have deregulated all or parts of their electricity system tend to have higher rates than the rest of the country.",
+      "lead_paragraph": "When California, New York, Texas and other states began deregulating their electricity markets in the 1990s, officials promised that those changes would foster competition and make energy more affordable.",
+      "publication_date": "2023-01-04T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/04/business/energy-environment/electricity-deregulation-energy-markets.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "Supply Problems Hurt Auto Sales in 2022. Now Demand Is Weakening.",
+      "snippet": "A global semiconductor shortage is easing, which could allow carmakers to lift production this year. But higher interest rates could keep sales low.",
+      "abstract": "A global semiconductor shortage is easing, which could allow carmakers to lift production this year. But higher interest rates could keep sales low.",
+      "lead_paragraph": "Last year, sales of new cars and trucks fell to their lowest level in a decade because automakers could not make enough vehicles for consumers to buy. This year, sales are likely to remain soft, but for an entirely different reason — weakening demand.",
+      "publication_date": "2023-01-04T14:23:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/04/business/new-car-sales-2022.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Meta’s Ad Practices Ruled Illegal Under E.U. Law",
+      "snippet": "The decision is one of the most consequential issued under the E.U.’s landmark data-protection law and creates a new business headwind for the social media giant.",
+      "abstract": "The decision is one of the most consequential issued under the E.U.’s landmark data-protection law and creates a new business headwind for the social media giant.",
+      "lead_paragraph": "Meta suffered a major defeat on Wednesday that could severely undercut its Facebook and Instagram advertising business after European Union regulators found it had illegally forced users to effectively accept personalized ads.",
+      "publication_date": "2023-01-04T15:00:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/04/technology/meta-facebook-eu-gdpr.html",
+      "byline": "By Adam Satariano"
+    }
+  ]
+}

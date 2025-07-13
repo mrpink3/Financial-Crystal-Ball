@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2010-01-06",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "December a Mixed Month for Auto Sales",
+      "snippet": "Ford’s sales declined 14 percent for the year, while both Chrysler and G.M. reported declines of more than 30 percent.",
+      "abstract": "Ford’s sales declined 14 percent for the year, while both Chrysler and G.M. reported declines of more than 30 percent.",
+      "lead_paragraph": "DETROIT  Automakers ended a miserable year with some less bad sales figures, though the Ford Motor Company was the only one of the three domestic companies to report higher numbers in December.",
+      "publication_date": "2010-01-05T17:37:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/06/business/06auto.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "Google Shakes but Doesn’t Upend the Cellphone Market",
+      "snippet": "The Nexus One has cool features and clunky ones, but in the end, we should root for the success of the Google Store.",
+      "abstract": "The Nexus One has cool features and clunky ones, but in the end, we should root for the success of the Google Store.",
+      "lead_paragraph": "Google sure does love shaking up the system.",
+      "publication_date": "2010-01-05T23:17:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/06/technology/personaltech/06pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "A Once-Defiant U.A.W. Local Now Focuses on G.M.’s Success",
+      "snippet": "U.A.W. Local 1112, long a thorn in General Motors’ side, is now working with the automaker to ensure its success and protect union members’ jobs.",
+      "abstract": "U.A.W. Local 1112, long a thorn in General Motors’ side, is now working with the automaker to ensure its success and protect union members’ jobs.",
+      "lead_paragraph": "LORDSTOWN, Ohio  For the better part of three decades, the car plant here was a seemingly endless source of trouble for General Motors.",
+      "publication_date": "2010-01-06T01:36:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/06/business/06uaw.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "Fed Missed This Bubble. Will It See a New One?",
+      "snippet": "A lack of explanation for why the Fed failed to recognize the economic bubble is the weak link in its push for power.",
+      "abstract": "A lack of explanation for why the Fed failed to recognize the economic bubble is the weak link in its push for power.",
+      "lead_paragraph": " If only we’d had more power, we could have kept the financial crisis from getting so bad.",
+      "publication_date": "2010-01-06T01:48:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/06/business/economy/06leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Iran Shielding Its Nuclear Efforts in Maze of Tunnels",
+      "snippet": "The underground network complicates the West’s military calculus and obscures the scale of Iran’s nuclear program.",
+      "abstract": "The underground network complicates the West’s military calculus and obscures the scale of Iran’s nuclear program.",
+      "lead_paragraph": "Last September, when Iran’s uranium enrichment plant buried inside a mountain near the holy city of Qum was revealed, the episode cast light on a wider pattern: Over the past decade, Iran has quietly hidden an increasingly large part of its atomic complex in networks of tunnels and bunkers across the country. ",
+      "publication_date": "2010-01-06T02:02:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/06/world/middleeast/06sanctions.html",
+      "byline": "By William J. Broad"
+    },
+    {
+      "headline": "U.S. Saw a Path to Qaeda Chiefs Before Bombing",
+      "snippet": "Before his suicide attack, a Jordanian militant was seen as the most promising Al Qaeda informant in years.",
+      "abstract": "Before his suicide attack, a Jordanian militant was seen as the most promising Al Qaeda informant in years.",
+      "lead_paragraph": "WASHINGTON  Before detonating a suicide bomb in Afghanistan last week, a Jordanian militant was considered by American spy agencies to be the most promising informant in years about the whereabouts of Al Qaeda’s top leaders, including Ayman al-Zawahri, the terrorist group’s second-ranking operative.",
+      "publication_date": "2010-01-06T02:08:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/06/world/06intel.html",
+      "byline": "By Mark Mazzetti"
+    },
+    {
+      "headline": "Optimism Is Fresh Arrival in California Cul-de-Sac",
+      "snippet": "Among the families of Beth Court, a block in Moreno Valley, Calif., hit hard by the foreclosure crisis, optimism is taking hold.",
+      "abstract": "Among the families of Beth Court, a block in Moreno Valley, Calif., hit hard by the foreclosure crisis, optimism is taking hold.",
+      "lead_paragraph": "MORENO VALLEY, Calif.  Phil Winkler pays a neighborhood kid to mow his lawn, that small-bore transaction of the American suburb, where adults are generally busy and teenagers offer a price that’s right. But for Mr. Winkler, the relinquishing of his mower was something remarkable. ",
+      "publication_date": "2010-01-06T02:13:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/06/us/06bethcourt.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "Television Begins a Push Into the 3rd Dimension",
+      "snippet": "Cable programmers are rushing to create new channels for 3-D sets that manufacturers are unveiling.",
+      "abstract": "Cable programmers are rushing to create new channels for 3-D sets that manufacturers are unveiling.",
+      "lead_paragraph": "Ralph Kramden can finally buy a television.",
+      "publication_date": "2010-01-06T02:14:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/01/06/business/media/06tele.html",
+      "byline": "By Brian Stelter and Brad Stone"
+    },
+    {
+      "headline": "Asian Computer Makers Move Into Riskier Ventures",
+      "snippet": "Companies that once built devices to Silicon Valley’s specifications are now investing in start-ups so they can compete with their former customers.",
+      "abstract": "Companies that once built devices to Silicon Valley’s specifications are now investing in start-ups so they can compete with their former customers.",
+      "lead_paragraph": "SUNNYVALE, Calif.  For years, the process remained relatively static: PC makers like Hewlett-Packard and Apple, with well-staffed research labs and design departments, would dream up their next product and then hire a Chinese or Taiwanese fabricator to manufacture the largest number of units at the lowest possible cost.",
+      "publication_date": "2010-01-06T02:28:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/01/06/technology/personaltech/06valley.html",
+      "byline": "By Ashlee Vance"
+    }
+  ]
+}

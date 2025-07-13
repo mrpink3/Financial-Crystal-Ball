@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2016-06-29",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "The Right-Wing Supreme Court That Wasn’t",
+      "snippet": "This should have been a good year for conservatives hoping for legal gains in the nation’s highest court, but it wasn’t to be.",
+      "abstract": "This should have been a good year for conservatives hoping for legal gains in the nation’s highest court, but it wasn’t to be.",
+      "lead_paragraph": "WASHINGTON — Conservatives thought this Supreme Court term would be different.",
+      "publication_date": "2016-06-28T17:35:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/06/29/us/politics/supreme-court-term.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Istanbul Airport Attack Leaves at Least 41 Dead",
+      "snippet": "More than 145 were wounded when three suicide bombers struck at the international arrivals building of Ataturk airport, officials said.",
+      "abstract": "More than 145 were wounded when three suicide bombers struck at the international arrivals building of Ataturk airport, officials said.",
+      "lead_paragraph": "ISTANBUL — Three suicide attackers killed at least 41 people and wounded dozens more at Istanbul’s main airport on Tuesday night, in the latest in a string of terrorist attacks in Turkey, a NATO ally once seen as a bastion of stability but now increasingly consumed by the chaos of the Middle East.",
+      "publication_date": "2016-06-28T19:45:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/06/29/world/europe/turkey-istanbul-airport-explosions.html",
+      "byline": "By Tim Arango, Sabrina Tavernise and Ceylan Yeginsu"
+    },
+    {
+      "headline": "To Compete Better, States Are Trying to Curb Noncompete Pacts",
+      "snippet": "Many American workers are hobbled by the contracts, but some states want to untangle them from the agreements to compete with states that limit the clauses.",
+      "abstract": "Many American workers are hobbled by the contracts, but some states want to untangle them from the agreements to compete with states that limit the clauses.",
+      "lead_paragraph": "In today’s on-your-own economy, workers are urged to be entrepreneurial job hoppers, constantly adapting and searching for the next opportunity.",
+      "publication_date": "2016-06-28T19:54:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/06/29/technology/to-compete-better-states-are-trying-to-curb-noncompete-pacts.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Hard-to-Sell Assets Complicate European Banks’ ‘Brexit’ Risks",
+      "snippet": "The stock prices of Deutsche Bank, Credit Suisse and Barclays have fallen sharply on fears they will be unable to sell billions of dollars in assets.",
+      "abstract": "The stock prices of Deutsche Bank, Credit Suisse and Barclays have fallen sharply on fears they will be unable to sell billions of dollars in assets.",
+      "lead_paragraph": "Even before Britain voted to cut ties with the rest of Europe, large European banks with global ambitions and sprawling operations in London were struggling.",
+      "publication_date": "2016-06-28T23:28:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/06/29/business/dealbook/hard-to-sell-assets-complicate-european-banks-brexit-risks.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Facebook to Change News Feed to Focus on Friends and Family",
+      "snippet": "News content posted by publishers will show up less prominently, resulting in less traffic to companies that have come to rely on Facebook audiences.",
+      "abstract": "News content posted by publishers will show up less prominently, resulting in less traffic to companies that have come to rely on Facebook audiences.",
+      "lead_paragraph": "SAN FRANCISCO — For years, Facebook has courted publishers of all sizes, asking them to depend more and more on the social media giant to expand their audiences. Now, Facebook has a new message for publishers: Tamp down your expectations.",
+      "publication_date": "2016-06-29T14:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/06/30/technology/facebook-to-change-news-feed-to-focus-on-friends-and-family.html",
+      "byline": "By Mike Isaac and Sydney Ember"
+    },
+    {
+      "headline": "Facebook, a News Giant That Would Rather Show Us Baby Pictures",
+      "snippet": "The most powerful force in the news industry just said something that should shock everyone in the media business: Its primary purpose isn’t informing users about the world.",
+      "abstract": "The most powerful force in the news industry just said something that should shock everyone in the media business: Its primary purpose isn’t informing users about the world.",
+      "lead_paragraph": "When allegations surfaced last month that Facebook routinely suppressed conservative points of view in its Trending Topics news section, the company worked aggressively to convince the public that it wasn’t intentionally tilting to the left of the political spectrum.",
+      "publication_date": "2016-06-29T14:01:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/06/30/technology/facebook-a-news-giant-that-would-rather-show-us-baby-pictures.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "General Electric Wins O.K. to Shed ‘Too Big to Fail’ Label",
+      "snippet": "The announcement comes after an aggressive campaign by General Electric to sell off billions of dollars worth of assets in its GE Capital division.",
+      "abstract": "The announcement comes after an aggressive campaign by General Electric to sell off billions of dollars worth of assets in its GE Capital division.",
+      "lead_paragraph": "General Electric’s lending arm is no longer “too big to fail.”",
+      "publication_date": "2016-06-29T14:48:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/06/30/business/dealbook/general-electric-wins-ok-to-shed-too-big-to-fail-label.html",
+      "byline": "By Michael J. de la Merced"
+    }
+  ]
+}

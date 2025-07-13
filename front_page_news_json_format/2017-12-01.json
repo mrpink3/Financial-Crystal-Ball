@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2017-12-01",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Trump Pressed Top Republicans to End Senate Russia Inquiry",
+      "snippet": "President Trump told Senators Mitch McConnell, Richard Burr and others that he wanted an inquiry into Russian interference in the election to come to a close.",
+      "abstract": "President Trump told Senators Mitch McConnell, Richard Burr and others that he wanted an inquiry into Russian interference in the election to come to a close.",
+      "lead_paragraph": "WASHINGTON — President Trump over the summer repeatedly urged senior Senate Republicans, including the chairman of the Senate Intelligence Committee, to end the panel’s investigation into Russia’s interference in the 2016 election, according to a half dozen lawmakers and aides. Mr. Trump’s requests were a highly unusual intervention from a president into a legislative inquiry involving his family and close aides.",
+      "publication_date": "2017-12-01T01:49:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/30/us/politics/trump-russia-senate-intel.html",
+      "byline": "By Jonathan Martin, Maggie Haberman and Alexander Burns"
+    },
+    {
+      "headline": "Michael Flynn Pleads Guilty to Lying to the F.B.I. and Will Cooperate With Russia Inquiry",
+      "snippet": "The guilty plea by President Trump’s former national security adviser brings the special counsel investigation of Russian interference in the 2016 election into Mr. Trump’s inner circle.",
+      "abstract": "The guilty plea by President Trump’s former national security adviser brings the special counsel investigation of Russian interference in the 2016 election into Mr. Trump’s inner circle.",
+      "lead_paragraph": "WASHINGTON — President Trump’s former national security adviser, Michael T. Flynn, pleaded guilty on Friday to lying to the F.B.I. about conversations with the Russian ambassador last December, becoming the first senior White House official to cut a cooperation deal in the special counsel’s wide-ranging inquiry into election interference.",
+      "publication_date": "2017-12-01T14:21:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html",
+      "byline": "By Michael D. Shear and Adam Goldman"
+    },
+    {
+      "headline": "The Great American Single-Family Home Problem",
+      "snippet": "Building more housing, more densely, could help address a widespread economic challenge. A fight over one lot in Berkeley, Calif., shows how tough that could be.",
+      "abstract": "Building more housing, more densely, could help address a widespread economic challenge. A fight over one lot in Berkeley, Calif., shows how tough that could be.",
+      "lead_paragraph": "BERKELEY, Calif. — The house at 1310 Haskell Street does not look worthy of a bitter neighborhood war. The roof is rotting, the paint is chipping, and while the lot is long and spacious, the backyard has little beyond overgrown weeds and a garage sprouting moss.",
+      "publication_date": "2017-12-01T15:22:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/12/01/business/economy/single-family-home.html",
+      "byline": "By Conor Dougherty"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-09-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Meet the A.I. Jane Austen: Meta Weaves A.I. Throughout Its Apps",
+      "snippet": "Meta introduced artificially intelligent characters based on Jane Austen, Snoop Dogg and others into Instagram, Facebook and WhatsApp, as the race to lead the technology heats up.",
+      "abstract": "Meta introduced artificially intelligent characters based on Jane Austen, Snoop Dogg and others into Instagram, Facebook and WhatsApp, as the race to lead the technology heats up.",
+      "lead_paragraph": "In a WhatsApp text conversation this week, we asked Jane Austen — yes, the 19th-century British author — how she felt about Mr. Darcy, a character from one of her most famous works, “Pride and Prejudice.”",
+      "publication_date": "2023-09-27T18:07:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/27/technology/meta-ai-celebrities.html",
+      "byline": "By Mike Isaac and Cade Metz"
+    },
+    {
+      "headline": "The New ChatGPT Can ‘See’ and ‘Talk.’ Here’s What It’s Like.",
+      "snippet": "The image-recognition feature could have many uses, and the voice feature is even more intriguing.",
+      "abstract": "The image-recognition feature could have many uses, and the voice feature is even more intriguing.",
+      "lead_paragraph": "ChatGPT — viral artificial intelligence sensation, slayer of boring office work, sworn enemy of high school teachers and Hollywood screenwriters alike — is getting some new powers.",
+      "publication_date": "2023-09-27T18:09:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "New Trouble Roils China Evergrande, Fueling Real Estate Crisis Fears",
+      "snippet": "The developer halted critical work to settle its debts and investors dumped their stock amid news that executives were under suspicion by the authorities.",
+      "abstract": "The developer halted critical work to settle its debts and investors dumped their stock amid news that executives were under suspicion by the authorities.",
+      "lead_paragraph": "Just a few weeks ago, China Evergrande, the world’s most debt-saddled real estate developer, was writing its next chapter and working to resolve financial disputes with its creditors. Then a stream of bad news came and the pages were torn up.",
+      "publication_date": "2023-09-28T08:35:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/28/business/china-evergrande-trading-halted.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Vulnerable Republicans Try to Head Off Blame for Shutdown",
+      "snippet": "Some mainstream House Republicans representing districts won by President Biden have explored a bipartisan stopgap measure as right-wing lawmakers push Congress toward a shutdown.",
+      "abstract": "Some mainstream House Republicans representing districts won by President Biden have explored a bipartisan stopgap measure as right-wing lawmakers push Congress toward a shutdown.",
+      "lead_paragraph": "Days before an all-but-certain government shutdown instigated by hard-right Republicans in Washington, Elizabeth Catalino arrived at a Hudson Valley high school looking for answers from her own G.O.P. congressman, Representative Mike Lawler.",
+      "publication_date": "2023-09-28T09:02:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/28/us/politics/government-shutdown-house-republicans.html",
+      "byline": "By Kayla Guo"
+    },
+    {
+      "headline": "Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign",
+      "snippet": "Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.",
+      "abstract": "Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.",
+      "lead_paragraph": "In November 2020, executives at Huawei, the Chinese telecom-equipment maker, exchanged messages about holding a meeting with a “friend” and an “adviser” in Greece.",
+      "publication_date": "2023-09-28T13:36:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/28/technology/huawei-greece-lobbying-campaign.html",
+      "byline": "By Adam Satariano and Eliza Triantafillou"
+    },
+    {
+      "headline": "DeSantis Clears a Debate Hurdle. Will It Be Enough to Build On?",
+      "snippet": "The Florida governor projected confidence onstage, but time is running out to stop his slide in the polls and convince voters he’s the best Trump alternative.",
+      "abstract": "The Florida governor projected confidence onstage, but time is running out to stop his slide in the polls and convince voters he’s the best Trump alternative.",
+      "lead_paragraph": "At a time when his standing in the polls has slid — and Republican donors have talked about finding another candidate to stop Donald J. Trump from cruising to the nomination — Gov. Ron DeSantis acted like the former president’s leading challenger at the second Republican presidential debate.",
+      "publication_date": "2023-09-28T14:33:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/28/us/politics/desantis-debate-republican.html",
+      "byline": "By Nicholas Nehamas"
+    }
+  ]
+}

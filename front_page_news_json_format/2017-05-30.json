@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-05-30",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "China’s Ill, and Wealthy, Look Abroad for Medical Treatment",
+      "snippet": "Hospitals and a new generation of medical tourism companies are luring well-heeled Chinese patients away from an overburdened health care system.",
+      "abstract": "Hospitals and a new generation of medical tourism companies are luring well-heeled Chinese patients away from an overburdened health care system.",
+      "lead_paragraph": "BEIJING — China’s medical system could not stop the cancer eating at Guo Shushi’s stomach. It roared back even after Mr. Guo, a 63-year-old real estate developer, endured surgery, chemotherapy and radiation at two hospitals.",
+      "publication_date": "2017-05-29T16:27:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/29/business/china-medical-tourism-hospital.html",
+      "byline": "By Sui-Lee Wee"
+    },
+    {
+      "headline": "Behind the Scenes at Orchard Platform, a Struggle to Innovate",
+      "snippet": "Orchard had successful founders, big-name investors and ambitions in the loan market. But after more than a year, it has completed few transactions.",
+      "abstract": "Orchard had successful founders, big-name investors and ambitions in the loan market. But after more than a year, it has completed few transactions.",
+      "lead_paragraph": "On a warm morning early last year, a start-up founder named Matt Burton addressed a group of 175 investors and executives at the sleek glass IAC building in Chelsea.",
+      "publication_date": "2017-05-29T22:04:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/29/business/dealbook/fintech-start-up-orchard-platform-wall-street.html",
+      "byline": "By Randall Smith"
+    },
+    {
+      "headline": "India’s Bad Debt Is Looking Better to Investors",
+      "snippet": "A new bankruptcy law and efforts to tackle bad debt are providing new incentives to reconsider involvement in the nation’s distressed market.",
+      "abstract": "A new bankruptcy law and efforts to tackle bad debt are providing new incentives to reconsider involvement in the nation’s distressed market.",
+      "lead_paragraph": "MUMBAI, India — In India, the vultures are circling.",
+      "publication_date": "2017-05-29T22:05:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/29/business/dealbook/indias-bad-debt-is-looking-better-to-investors.html",
+      "byline": "By Anita Raghavan"
+    },
+    {
+      "headline": "Immigrants Keep an Iowa Meatpacking Town Alive and Growing",
+      "snippet": "Waves of Asian, African and Latino newcomers have filled jobs at pork, egg and turkey plants where wages have fallen and work has grown more grueling.",
+      "abstract": "Waves of Asian, African and Latino newcomers have filled jobs at pork, egg and turkey plants where wages have fallen and work has grown more grueling.",
+      "lead_paragraph": "STORM LAKE, Iowa — When Dan Smith first went to work at the pork processing plant in Storm Lake in 1980, pretty much the only way to nab that kind of union job was to have a father, an uncle or a brother already there. The pay, he recalled, was $16 an hour, with benefits — enough to own a home, a couple of cars, a camper and a boat, while your wife stayed home with the children.",
+      "publication_date": "2017-05-29T22:23:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/29/business/economy/storm-lake-iowa-immigrant-workers.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "As Computer Coding Classes Swell, So Does Cheating",
+      "snippet": "Growing numbers of computer science students are getting caught plagiarizing code, either from classmates or from someplace on the web.",
+      "abstract": "Growing numbers of computer science students are getting caught plagiarizing code, either from classmates or from someplace on the web.",
+      "lead_paragraph": "For a simple assignment, writing code that would allow one computer to visit web pages located on another, two students in H. E. Dunsmore’s class at Purdue University turned in nearly 100 identical lines of code. Was it a fluke? Or had they cheated?",
+      "publication_date": "2017-05-29T23:56:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/29/us/computer-science-cheating.html",
+      "byline": "By Jess Bidgood and Jeremy B. Merrill"
+    },
+    {
+      "headline": "With Italy No Longer in U.S. Focus, Russia Swoops to Fill the Void",
+      "snippet": "Russia has made a concerted effort to build ties with Italy, which many officials believe is creating a slow but certain tilt toward Moscow.",
+      "abstract": "Russia has made a concerted effort to build ties with Italy, which many officials believe is creating a slow but certain tilt toward Moscow.",
+      "lead_paragraph": "ROME — President Trump made the most of his short time in Italy. He was treated to a private audience with the pope, met with both the country’s president and its prime minister in Rome, flew to Sicily for a summit meeting of world leaders and visited with American troops at a nearby naval air station.",
+      "publication_date": "2017-05-30T00:47:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/29/world/europe/russia-courts-italy-in-us-absence.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Investigation Turns to Kushner’s Motives in Meeting With a Putin Ally",
+      "snippet": "Investigators are examining whether Jared Kushner was seeking a direct line to the Russian president in a December meeting with the head of a bank with Kremlin ties.",
+      "abstract": "Investigators are examining whether Jared Kushner was seeking a direct line to the Russian president in a December meeting with the head of a bank with Kremlin ties.",
+      "lead_paragraph": "WASHINGTON — Jared Kushner, the president’s son-in-law and senior adviser, was looking for a direct line to President Vladimir V. Putin of Russia — a search that in mid-December found him in a room with a Russian banker whose financial institution was deeply intertwined with Russian intelligence, and remains under sanction by the United States.",
+      "publication_date": "2017-05-30T01:06:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/29/us/politics/jared-kushner-russia-investigation.html",
+      "byline": "By Matthew Rosenberg, Mark Mazzetti and Maggie Haberman"
+    },
+    {
+      "headline": "Australia’s Real Estate Boom Has Wall Street Wooing a Newspaper Publisher",
+      "snippet": "With property prices soaring in Sydney and Melbourne, two private equity firms are seeking a piece of the action with bids to buy Fairfax Media, and its Domain website.",
+      "abstract": "With property prices soaring in Sydney and Melbourne, two private equity firms are seeking a piece of the action with bids to buy Fairfax Media, and its Domain website.",
+      "lead_paragraph": "SYDNEY, Australia — Wall Street has started a bidding war for Fairfax Media, an Australian company best known for the dowdy business of publishing newspapers. To understand why, look no further than Deanna McMath.",
+      "publication_date": "2017-05-30T05:45:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/30/business/dealbook/fairfax-takeover-property-tpg-hellman-friedman.html",
+      "byline": "By Jacqueline Williams"
+    },
+    {
+      "headline": "Free Play or Flashcards? New Study Nods to More Rigorous Preschools",
+      "snippet": "New research suggests that preschoolers who are exposed to formal math and reading lessons come out ahead. But some experts and parents are skeptical.",
+      "abstract": "New research suggests that preschoolers who are exposed to formal math and reading lessons come out ahead. But some experts and parents are skeptical.",
+      "lead_paragraph": "A group of students at Woodside Community School in Queens peered up at their teacher one morning this month, as she used an overhead projector to display a shape.",
+      "publication_date": "2017-05-30T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/30/us/preschool-academics-study.html",
+      "byline": "By Dana Goldstein"
+    },
+    {
+      "headline": "In Chicago’s Crisis of Violence, Some Signs of Hope",
+      "snippet": "Memorial Day weekend is often accompanied by a surge in shootings, but this year there was a modest decrease. Some hoped it was a sign of change.",
+      "abstract": "Memorial Day weekend is often accompanied by a surge in shootings, but this year there was a modest decrease. Some hoped it was a sign of change.",
+      "lead_paragraph": "CHICAGO — After spiraling gun and gang violence brought Chicago more homicides than any other American city in 2016, officials took a more aggressive stance this year at the start of the period that is seen as the most violent season for the nation’s third-largest city.",
+      "publication_date": "2017-05-30T14:23:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/30/us/chicago-memorial-day-shootings.html",
+      "byline": "By Monica Davey"
+    }
+  ]
+}

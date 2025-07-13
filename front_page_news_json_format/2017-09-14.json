@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-09-14",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Pelosi and Schumer Say They Have Deal With Trump to Replace DACA",
+      "snippet": "In a joint statement, the Democratic leaders said that they would also work toward a package of border security measures that does not include the border wall.",
+      "abstract": "In a joint statement, the Democratic leaders said that they would also work toward a package of border security measures that does not include the border wall.",
+      "lead_paragraph": "WASHINGTON — Democratic leaders on Wednesday night declared that they had a deal with President Trump to quickly extend protections for young undocumented immigrants and to finalize a border security package that does not include the president’s proposed wall.",
+      "publication_date": "2017-09-13T17:36:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html",
+      "byline": "By Maggie Haberman and Yamiche Alcindor"
+    },
+    {
+      "headline": "Russia’s War Games With Fake Enemies Cause Real Alarm",
+      "snippet": "Joint Russian and Belarusian military exercises will target fictional countries that look an awful lot like the Baltic States.",
+      "abstract": "Joint Russian and Belarusian military exercises will target fictional countries that look an awful lot like the Baltic States.",
+      "lead_paragraph": "MOSCOW — The country does not exist, so it has neither an army nor any real citizens, though it has acquired a feisty following of would-be patriots online. Starting on Thursday, however, the fictional state, Veishnoriya, a distillation of the Kremlin’s darkest fears about the West, becomes the target of the combined military might of Russia and its ally Belarus.",
+      "publication_date": "2017-09-13T19:35:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/13/world/europe/russia-baltics-belarus.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "From Prison to Ph.D.: The Redemption and Rejection of Michelle Jones",
+      "snippet": "During 20 years behind bars, a woman developed a passion and talent for history. But her background was too hot for Harvard.",
+      "abstract": "During 20 years behind bars, a woman developed a passion and talent for history. But her background was too hot for Harvard.",
+      "lead_paragraph": "Michelle Jones was released last month after serving more than two decades in an Indiana prison for the murder of her 4-year-old son. The very next day, she arrived at New York University, a promising Ph.D. student in American studies.",
+      "publication_date": "2017-09-13T20:00:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/13/us/harvard-nyu-prison-michelle-jones.html",
+      "byline": "By Eli Hager"
+    },
+    {
+      "headline": "Consumers, but Not Executives, May Pay for Equifax Failings",
+      "snippet": "Compensation for top officials has included no accountability for legal costs, which could be substantial after the company’s huge data breach.",
+      "abstract": "Compensation for top officials has included no accountability for legal costs, which could be substantial after the company’s huge data breach.",
+      "lead_paragraph": "The stunning data breach recently disclosed by Equifax, one of the nation’s top three credit reporting agencies, has imperiled millions of consumers, opening them up to identity theft, monetary losses and colossal headaches.",
+      "publication_date": "2017-09-13T20:53:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/09/13/business/equifax-executive-pay.html",
+      "byline": "By Gretchen Morgenson"
+    },
+    {
+      "headline": "Trump Blocks China-Backed Bid to Buy U.S. Chip Maker",
+      "snippet": "The rare move by the White House to block a deal for Lattice Semiconductor could signal more aggressive scrutiny of China’s deal-making ambitions.",
+      "abstract": "The rare move by the White House to block a deal for Lattice Semiconductor could signal more aggressive scrutiny of China’s deal-making ambitions.",
+      "lead_paragraph": "President Trump on Wednesday blocked a China-backed investor from buying an American semiconductor maker over national security concerns, a rare move that could signal more aggressive scrutiny of China’s deal-making ambitions.",
+      "publication_date": "2017-09-13T21:41:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/13/business/trump-lattice-semiconductor-china.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "In Angela Merkel, German Women Find Symbol, but Not Savior",
+      "snippet": "The highest office in the land has been held by a woman for 12 years. It’s all the other offices that still pose a problem for women in Germany.",
+      "abstract": "The highest office in the land has been held by a woman for 12 years. It’s all the other offices that still pose a problem for women in Germany.",
+      "lead_paragraph": "OSNABRÜCK, Germany — Just 9 years old when Chancellor Angela Merkel was first elected in 2005, Kristin Auf der Masch cannot really remember a time when Germany was led by a man.",
+      "publication_date": "2017-09-14T03:45:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/13/world/europe/angela-merkel-germany-election.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Trump’s Support for Law to Protect ‘Dreamers’ Lifts Its Chances",
+      "snippet": "President Trump said there would need to be a larger agreement on border security for any deal on young, undocumented immigrants.",
+      "abstract": "President Trump said there would need to be a larger agreement on border security for any deal on young, undocumented immigrants.",
+      "lead_paragraph": "WASHINGTON — An unexpected meeting of the minds between President Trump and Democratic leaders on Thursday made real a possible deal in Congress to pair enhanced border security with legislation to protect young, undocumented immigrants brought to the country as children.",
+      "publication_date": "2017-09-14T11:02:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/14/us/politics/trump-daca-dreamers.html",
+      "byline": "By Sheryl Gay Stolberg and Yamiche Alcindor"
+    },
+    {
+      "headline": "On Insider Trading, an Appeals Court Comes to Its Senses",
+      "snippet": "A decision upholding the conviction of Mathew Martoma, a former SAC Capital portfolio manager, gives the upper hand back to prosecutors.",
+      "abstract": "A decision upholding the conviction of Mathew Martoma, a former SAC Capital portfolio manager, gives the upper hand back to prosecutors.",
+      "lead_paragraph": "There’s an old saying, “hard cases make bad law.” Perhaps a corollary should be “easy cases make good law.”",
+      "publication_date": "2017-09-14T15:46:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/14/business/insider-trading-court.html",
+      "byline": "By James B. Stewart"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-03-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Is Bitcoin a Waste of Electricity, or Something Worse?",
+      "snippet": "America has a productivity problem. One explanation may be the growing use of real resources to make virtual products.",
+      "abstract": "America has a productivity problem. One explanation may be the growing use of real resources to make virtual products.",
+      "lead_paragraph": "WASHINGTON — A manufacturing start-up recently announced plans to move into a shuttered aluminum factory in upstate New York, taking advantage of abundant cheap electricity from the St. Lawrence River.",
+      "publication_date": "2018-03-01T00:17:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/28/business/economy/bitcoin-electricity-productivity.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "China’s Censors Ban Winnie the Pooh and the Letter ‘N’ After Xi’s Power Grab",
+      "snippet": "Censors swung into action after Mr. Xi’s bid to become leader for life resurrected memories of Mao’s personality cult and the feverish emotions that it created.",
+      "abstract": "Censors swung into action after Mr. Xi’s bid to become leader for life resurrected memories of Mao’s personality cult and the feverish emotions that it created.",
+      "lead_paragraph": "BEIJING — Liu Jin, a 27-year-old teacher in central China, is the kind of young nationalist that President Xi Jinping can typically count on. Mr. Liu shares propaganda photos of the president in battle fatigues online and reverently calls him “Uncle Xi.”",
+      "publication_date": "2018-03-01T01:10:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/28/world/asia/china-censorship-xi-jinping.html",
+      "byline": "By Javier C. Hernández"
+    },
+    {
+      "headline": "Kushner’s Family Business Received Loans After White House Meetings",
+      "snippet": "Apollo, the private equity firm, and Citigroup made large loans last year to the family real estate business of Jared Kushner, President Trump’s senior adviser.",
+      "abstract": "Apollo, the private equity firm, and Citigroup made large loans last year to the family real estate business of Jared Kushner, President Trump’s senior adviser.",
+      "lead_paragraph": "Early last year, a private equity billionaire started paying regular visits to the White House.",
+      "publication_date": "2018-03-01T01:14:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html",
+      "byline": "By Jesse Drucker, Kate Kelly and Ben Protess"
+    },
+    {
+      "headline": "Trump Targets MS-13, a Violent Menace, if Not the One He Portrays",
+      "snippet": "The transnational gang is a bit player compared with drug cartels. But its violence has helped the Trump administration sell its campaign against immigration.",
+      "abstract": "The transnational gang is a bit player compared with drug cartels. But its violence has helped the Trump administration sell its campaign against immigration.",
+      "lead_paragraph": "WASHINGTON — Early in his term, Attorney General Jeff Sessions instructed his top investigative deputies to target the transnational gang MS-13 as a priority. A year later, drug task forces have new powers to fight MS-13, more federal prosecutors are pursuing charges against the street gang with ties to El Salvador and foreign allies have been enlisted to capture its members.",
+      "publication_date": "2018-03-01T10:00:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/01/us/politics/ms13-gang-threat-trump-policy.html",
+      "byline": "By Ron Nixon, Liz Robbins and Katie Benner"
+    },
+    {
+      "headline": "Putin’s ‘Invincible’ Missile Is Aimed at U.S. Vulnerabilities",
+      "snippet": "Russians had wondered before Mr. Putin’s speech what he planned for his last term, and they got an answer: Russia will be a superpower again.",
+      "abstract": "Russians had wondered before Mr. Putin’s speech what he planned for his last term, and they got an answer: Russia will be a superpower again.",
+      "lead_paragraph": "MOSCOW — President Vladimir V. Putin of Russia threatened the West with a new generation of nuclear weapons Thursday, including what he described as an “invincible” intercontinental cruise missile and a nuclear torpedo that could outsmart all American defenses.",
+      "publication_date": "2018-03-01T13:25:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/01/world/europe/russia-putin-speech.html",
+      "byline": "By Neil MacFarquhar and David E. Sanger"
+    },
+    {
+      "headline": "Trump to Impose Sweeping Steel and Aluminum Tariffs",
+      "snippet": "The president said he would sign the measure next week. Stock markets, foreign officials and Republicans were rattled by the news.",
+      "abstract": "The president said he would sign the measure next week. Stock markets, foreign officials and Republicans were rattled by the news.",
+      "lead_paragraph": "WASHINGTON — President Trump said on Thursday that he would impose stiff tariffs on imports of steel and aluminum, making good on a key campaign promise and rattling stock markets as the prospect of a global trade fight appeared imminent.",
+      "publication_date": "2018-03-01T15:16:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/01/business/trump-tariffs.html",
+      "byline": "By Ana Swanson"
+    }
+  ]
+}

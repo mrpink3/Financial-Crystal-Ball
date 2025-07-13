@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2011-05-05",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Intel Increases Transistor Speed by Building Upward",
+      "snippet": "A new design uses a tiny fin that could make smaller, faster, lower-power chips.",
+      "abstract": "A new design uses a tiny fin that could make smaller, faster, lower-power chips.",
+      "lead_paragraph": "HILLSBORO, Ore. — Intel announced on Wednesday that it had again found a way to make computer chips that could process information more quickly and with less power in less space.",
+      "publication_date": "2011-05-04T16:32:38+0000",
+      "section_name": "Science",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/05/science/05chip.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Account Tells of One-Sided Battle in Bin Laden Raid",
+      "snippet": "The new details suggested that more than 20 members of the Navy Seals quickly dispatched the men protecting Osama bin Laden, with only his courier firing on them.",
+      "abstract": "The new details suggested that more than 20 members of the Navy Seals quickly dispatched the men protecting Osama bin Laden, with only his courier firing on them.",
+      "lead_paragraph": "WASHINGTON — President Obama decided Wednesday not to release graphic photographs of Osama bin Laden’s corpse, as new details emerged about the raid on Bin Laden’s fortified compound that differed from the administration’s initial account of the nearly 40-minute operation.",
+      "publication_date": "2011-05-04T17:07:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/05/us/politics/05binladen.html",
+      "byline": "By Mark Landler and Mark Mazzetti"
+    },
+    {
+      "headline": "Ukraine Looks to Texas for an Energy Path",
+      "snippet": "Ukraine is looking to shale gas, and technology used in Fort Worth, as a means of lessening dependence on Russia for energy.",
+      "abstract": "Ukraine is looking to shale gas, and technology used in Fort Worth, as a means of lessening dependence on Russia for energy.",
+      "lead_paragraph": "KIEV, Ukraine — This former Soviet state in Eastern Europe is betting that the path toward energy independence runs through Fort Worth. ",
+      "publication_date": "2011-05-04T19:38:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/05/business/global/05shale.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "UBS Settles Fraud Cases Over Munis",
+      "snippet": "UBS, the Swiss banking giant, was accused by the federal and state governments of rigging bids in a municipal bond derivatives market.",
+      "abstract": "UBS, the Swiss banking giant, was accused by the federal and state governments of rigging bids in a municipal bond derivatives market.",
+      "lead_paragraph": "WASHINGTON — The Swiss bank UBS agreed to pay $160 million in fines and restitution because former employees conspired to rig bids in the municipal bond derivatives market, federal and state officials announced on Wednesday.",
+      "publication_date": "2011-05-04T20:16:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/05/business/05muni.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Docking Your Laptop, Wirelessly",
+      "snippet": "Samsung’s Central Station is a wireless docking device that can turn your laptop into a workstation with all the trimmings.",
+      "abstract": "Samsung’s Central Station is a wireless docking device that can turn your laptop into a workstation with all the trimmings.",
+      "lead_paragraph": "Mmmmmm. Wireless. ",
+      "publication_date": "2011-05-04T20:35:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/05/technology/personaltech/05pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "A Return to Spending and the Front Rows",
+      "snippet": "The years of trimming costs have given way to a rebound in travel as the economy picks up. Each airline is trying to get its slice.",
+      "abstract": "The years of trimming costs have given way to a rebound in travel as the economy picks up. Each airline is trying to get its slice.",
+      "lead_paragraph": "BUSINESS travelers are back, and the airlines are eager to court them again. ",
+      "publication_date": "2011-05-04T23:33:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2011/05/05/business/05AIR.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Pakistani Army, Shaken by Raid, Faces New Scrutiny",
+      "snippet": "The raid that killed Osama bin Laden has provoked a crisis of confidence for what was long seen as the one institution that held Pakistan together.",
+      "abstract": "The raid that killed Osama bin Laden has provoked a crisis of confidence for what was long seen as the one institution that held Pakistan together.",
+      "lead_paragraph": "ISLAMABAD, Pakistan — The reputation of the army, the most powerful and privileged force in Pakistan, has been severely undermined by the American raid that killed Osama bin Laden, raising profound questions about its credibility from people at home and from benefactors abroad, including the United States. ",
+      "publication_date": "2011-05-05T00:50:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/05/world/asia/05pakistan.html",
+      "byline": "By Jane Perlez"
+    },
+    {
+      "headline": "Navigating With Social Media",
+      "snippet": "Many travelers have discovered that traveling to a strange place is much less daunting with mobile apps and social networks.",
+      "abstract": "Many travelers have discovered that traveling to a strange place is much less daunting with mobile apps and social networks.",
+      "lead_paragraph": "WHEN Mark Rosch and his wife, Carole Levitt, were traveling to Kansas City, Mo., on a recent trip for their legal education and research business, they did not want to miss an opportunity to dine across the state line at  Oklahoma Joe’s Barbecue in Kansas City, Kan. But after arriving by taxi at the award-winning restaurant, located in a former gas station in a residential area, they worried about finding a taxi to take them back to their hotel after dinner.",
+      "publication_date": "2011-05-05T00:58:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2011/05/05/business/05SOCIAL.html",
+      "byline": "By Jennifer Preston"
+    },
+    {
+      "headline": "Using History to Mold Ideas on the Right",
+      "snippet": "Several would-be presidents see David Barton as a source of historical and biblical justification for their policies.",
+      "abstract": "Several would-be presidents see David Barton as a source of historical and biblical justification for their policies.",
+      "lead_paragraph": "ALEDO, Tex. — In an unmarked office building in this ranching town, among thousands of Revolution-era documents and two muskets with bayonets, David Barton might seem like a quirky history buff. But the true ambition of this slender man in cowboy boots is to use America’s past to remake its future, and he has the ear of several would-be presidents.",
+      "publication_date": "2011-05-05T01:03:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/05/us/politics/05barton.html",
+      "byline": "By Erik Eckholm"
+    },
+    {
+      "headline": "Debt Ceiling Has Some Give, Until Roof Falls In",
+      "snippet": "Short-term measures may let the government keep paying its bills as late as Aug. 2, but the eventual cost could be vast and the damage difficult to reverse.",
+      "abstract": "Short-term measures may let the government keep paying its bills as late as Aug. 2, but the eventual cost could be vast and the damage difficult to reverse.",
+      "lead_paragraph": "WASHINGTON — The federal government will not run short of money to pay its bills on May 16, when the federal debt reaches the legal maximum of $14.3 trillion. ",
+      "publication_date": "2011-05-05T01:07:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/05/business/economy/05debt.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Syria Arrests Scores in House-to-House Roundup",
+      "snippet": "Syrian forces arrested scores of people in a broad campaign against men between the ages of 18 and 50, rights groups said.",
+      "abstract": "Syrian forces arrested scores of people in a broad campaign against men between the ages of 18 and 50, rights groups said.",
+      "lead_paragraph": "BEIRUT, Lebanon — Syrian security forces raided a restive Damascus suburb on Thursday, going house to house and arresting scores of men in a broad campaign that activists and American officials say represents a new chapter in the crackdown on the country’s uprising against four decades of authoritarian rule.",
+      "publication_date": "2011-05-05T10:48:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/06/world/middleeast/06syria.html",
+      "byline": "By Anthony Shadid"
+    },
+    {
+      "headline": "A Robust Rise in April’s Retail Sales Comes With a Hint of Concern",
+      "snippet": "Sales at stores open at least a year increased 8.9 percent on average, but retailers are beginning to raise concerns about the price of gasoline.",
+      "abstract": "Sales at stores open at least a year increased 8.9 percent on average, but retailers are beginning to raise concerns about the price of gasoline.",
+      "lead_paragraph": "Retailers expected a good April, and they got it.",
+      "publication_date": "2011-05-05T15:57:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/06/business/06shop.html",
+      "byline": "By Stephanie Clifford"
+    }
+  ]
+}

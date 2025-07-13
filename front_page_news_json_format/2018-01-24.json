@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-01-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "French Companies Have Newfound Freedom … to Fire",
+      "snippet": "Three weeks after President Emmanuel Macron’s overhaul of French labor rules went into effect, a wave of downsizing appears to be on the horizon.",
+      "abstract": "Three weeks after President Emmanuel Macron’s overhaul of French labor rules went into effect, a wave of downsizing appears to be on the horizon.",
+      "lead_paragraph": "PARIS — The announcements came in a steady drumbeat. Around 1,300 job cuts at France’s biggest automaker. At least 2,500 at France’s largest supermarket chain. Over 200 sought at a major clothing retailer. And thousands more are on the way.",
+      "publication_date": "2018-01-23T17:23:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/23/business/france-labor-jobs.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Modi, in Davos, Praises Globalization Without Noting India’s Trade Barriers",
+      "snippet": "Prime Minister Narendra Modi of India, speaking at the World Economic Forum, called for embracing globalization and combating climate change. He didn’t mention his country’s moves to limit imports.",
+      "abstract": "Prime Minister Narendra Modi of India, speaking at the World Economic Forum, called for embracing globalization and combating climate change. He didn’t mention his country’s moves to limit imports.",
+      "lead_paragraph": "DAVOS, Switzerland — Prime Minister Narendra Modi of India issued a strong call on Tuesday for nations to embrace globalization, combat climate change and strengthen international institutions like the World Trade Organization.",
+      "publication_date": "2018-01-23T21:23:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/23/business/modi-in-davos-praises-globalization-without-mentioning-india-trade-barriers.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Trump’s Solar Tariffs Are Clouding the Industry’s Future",
+      "snippet": "At a solar farm in North Carolina, workers are bracing for the effect of a new tariff on imported solar cells and modules.",
+      "abstract": "At a solar farm in North Carolina, workers are bracing for the effect of a new tariff on imported solar cells and modules.",
+      "lead_paragraph": "ZEBULON, N.C. — At this century-old farm just outside Durham, symmetrical rows of shining blue solar panels have replaced the soybeans and tobacco that Tommy Vinson and his family used to grow here. It is one of many solar farms that have sprung up around North Carolina, transforming a state long battered by global offshoring into the second-largest generator of solar electricity after California.",
+      "publication_date": "2018-01-24T00:26:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/23/us/politics/trump-solar-tariffs.html",
+      "byline": "By Ana Swanson and Brad Plumer"
+    },
+    {
+      "headline": "Border Wall ‘Off the Table,’ Schumer Says, as Immigration Progress Unravels",
+      "snippet": "With emotions still hot over the government shutdown, Senate negotiators found themselves back at Square 1 in their efforts to strike an immigration deal.",
+      "abstract": "With emotions still hot over the government shutdown, Senate negotiators found themselves back at Square 1 in their efforts to strike an immigration deal.",
+      "lead_paragraph": "WASHINGTON — Senate negotiators found themselves back at Square 1 on immigration on Tuesday, as the Senate Democratic leader withdrew the biggest gesture he had made to strike a deal: an offer to fully fund President Trump’s proposed wall at the Mexican border.",
+      "publication_date": "2018-01-24T01:30:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/23/us/politics/immigration-wall-mexico-schumer-senate.html",
+      "byline": "By Sheryl Gay Stolberg and Maggie Haberman"
+    },
+    {
+      "headline": "Senators Race to Protect Immigrants, and Restore Their Institution",
+      "snippet": "Members of the bipartisan group that intervened to bring the shutdown to an end hope the push for an immigration bill can reignite opportunity for debate.",
+      "abstract": "Members of the bipartisan group that intervened to bring the shutdown to an end hope the push for an immigration bill can reignite opportunity for debate.",
+      "lead_paragraph": "WASHINGTON — The bipartisan group of senators who intervened to help end the government shutdown now faces an even more formidable task: freeing the Senate — and perhaps Washington — from its dysfunctional rut.",
+      "publication_date": "2018-01-24T01:43:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/23/us/politics/senate-government-shutdown.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "About That Joint: Marijuana Start-Ups Pass",
+      "snippet": "Who smokes marijuana anymore? Because of more sophisticated marketing, people can now vape it, eat it, drink it and apply it, leading to an explosion in sales.",
+      "abstract": "Who smokes marijuana anymore? Because of more sophisticated marketing, people can now vape it, eat it, drink it and apply it, leading to an explosion in sales.",
+      "lead_paragraph": "The streets of San Francisco have always smelled of marijuana. Yet it’s worth noting that the city doesn’t seem to have gotten much smellier in the new year, after the recreational use of marijuana became legal in California under a law approved by voters in 2016.",
+      "publication_date": "2018-01-24T10:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/24/technology/marijuana-start-ups-go-beyond-the-simple-joint.html",
+      "byline": "By Farhad Manjoo"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-03-10",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "The Lithium Chase",
+      "snippet": "As awareness spreads that lithium is an ingredient for hybrid cars, a hunt is under way for sources of the metal. ",
+      "abstract": "As awareness spreads that lithium is an ingredient for hybrid cars, a hunt is under way for sources of the metal. ",
+      "lead_paragraph": "For many years, few metals drew bigger yawns from mining executives than lithium, a lightweight element long associated mostly with mood-stabilizing drugs.",
+      "publication_date": "2010-03-09T22:06:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/10/business/energy-environment/10lithium.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Somalia Food Aid Bypasses Needy, U.N. Study Says",
+      "snippet": "As much as half the food aid sent to Somalia is diverted to a web of corrupt contractors, a report found.",
+      "abstract": "As much as half the food aid sent to Somalia is diverted to a web of corrupt contractors, a report found.",
+      "lead_paragraph": " As much as half the food aid sent to Somalia is diverted from needy people to a web of corrupt contractors, radical Islamist militants and local United Nations staff members, according to a new Security Council report. ",
+      "publication_date": "2010-03-09T22:46:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/10/world/africa/10somalia.html",
+      "byline": "By Jeffrey Gettleman and Neil MacFarquhar"
+    },
+    {
+      "headline": "Bank of America to End Debit Overdraft Fees",
+      "snippet": "The decision that could cost the bank tens of millions a year and put pressure on other banks to do the same.",
+      "abstract": "The decision that could cost the bank tens of millions a year and put pressure on other banks to do the same.",
+      "lead_paragraph": "In a move that could bring an end to the $40 cup of coffee, Bank of America said on Tuesday that it was doing away with overdraft fees on purchases made with debit cards, a decision that could cost the bank tens of millions a year in revenue and put pressure on other banks to do the same.",
+      "publication_date": "2010-03-09T23:51:26+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/10/your-money/credit-and-debit-cards/10overdraft.html",
+      "byline": "By Andrew Martin"
+    },
+    {
+      "headline": "Health Care’s Obstacle: No Will to Cut",
+      "snippet": "President Obama’s health reform plan is a mixed bag for those who care about keeping down medical costs. ",
+      "abstract": "President Obama’s health reform plan is a mixed bag for those who care about keeping down medical costs. ",
+      "lead_paragraph": "For anyone who cares about medical costs — which is to say anyone who cares about the take-home pay of American families or about the budget deficit — President Obama’s health reform plan is a terribly mixed bag.",
+      "publication_date": "2010-03-10T01:11:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/10/business/economy/10leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "European Leaders Call for Crackdown on Derivatives",
+      "snippet": "The multiple, and at times seemingly conflicted roles, of investment banks like Goldman Sachs have also drawn scrutiny.",
+      "abstract": "The multiple, and at times seemingly conflicted roles, of investment banks like Goldman Sachs have also drawn scrutiny.",
+      "lead_paragraph": "Goldman Sachs had a bright idea for its clients: buy credit-default swaps — those controversial instruments that helped trip up the American International Group — in case certain nations ran into financial trouble.",
+      "publication_date": "2010-03-10T01:28:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/10/business/global/10swaps.html",
+      "byline": "By Lynnley Browning and Matthew Saltmarsh"
+    },
+    {
+      "headline": "With Warning, a Hip Device Is Withdrawn",
+      "snippet": "DePuy Orthopaedics alerted doctors to a high early failure rate of its artificial hip after announcing it would phase out the device citing slow sales.",
+      "abstract": "DePuy Orthopaedics alerted doctors to a high early failure rate of its artificial hip after announcing it would phase out the device citing slow sales.",
+      "lead_paragraph": "A unit of Johnson & Johnson, just months after saying it was phasing out an artificial hip implant because of slowing sales, has warned doctors that the device appears to have a high early failure rate in some patients.",
+      "publication_date": "2010-03-10T02:18:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/10/business/10device.html",
+      "byline": "By Barry Meier"
+    },
+    {
+      "headline": "Attacks on Detainee Lawyers Split Conservatives",
+      "snippet": "Liz Cheney criticized lawyers who represented terrorism suspects. A group of right-leaning legal scholars objected.",
+      "abstract": "Liz Cheney criticized lawyers who represented terrorism suspects. A group of right-leaning legal scholars objected.",
+      "lead_paragraph": "A conservative advocacy organization in Washington, Keep America Safe, kicked up a storm last week when it released a video that questioned the loyalty of Justice Department lawyers who worked in the past on behalf of detained terrorism suspects.",
+      "publication_date": "2010-03-10T03:10:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/10/us/politics/10lawyers.html",
+      "byline": "By John Schwartz"
+    },
+    {
+      "headline": "A Consumer Bill Gives Exemption on Payday Loans",
+      "snippet": "Senator Bob Corker wants a proposed bank agency to be more lenient, but critics say consumers would be hurt.    ",
+      "abstract": "Senator Bob Corker wants a proposed bank agency to be more lenient, but critics say consumers would be hurt.    ",
+      "lead_paragraph": "WASHINGTON — Senator Bob Corker, the Tennessee Republican who is playing a crucial role in bipartisan negotiations over financial regulation, pressed to remove a provision from draft legislation that would have empowered federal authorities to crack down on payday lenders, people involved in the talks said. The industry is politically influential in his home state and a significant contributor to his campaigns, records show.",
+      "publication_date": "2010-03-10T04:01:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/10/business/10regulate.html",
+      "byline": "By Sewell Chan"
+    }
+  ]
+}

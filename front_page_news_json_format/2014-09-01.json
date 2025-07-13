@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2014-09-01",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Mental Floss Is Buoyed by Online Video",
+      "snippet": "Mental Floss has become one of the magazine industry’s biggest video success stories by deploying a secret weapon — the author and YouTube star John Green.",
+      "abstract": "Mental Floss has become one of the magazine industry’s biggest video success stories by deploying a secret weapon — the author and YouTube star John Green.",
+      "lead_paragraph": "For decades, magazine editors often relied on a handful of maxims to attract readers: Young is better than old. Pretty is better than ugly. Rich is better than poor. Film stars outsell television and music stars. Anything sells better than politics, and nothing sells better than a dead celebrity.",
+      "publication_date": "2014-09-01T00:24:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/01/business/media/mental-floss-is-buoyed-by-online-video.html",
+      "byline": "By Christine Haughney"
+    },
+    {
+      "headline": "Amazon Bets on Content in Deal for Twitch",
+      "snippet": "Twitch has built a platform that hosts live events akin to the N.F.L., the United States Open or the X Games — and it has the audience to show for it.",
+      "abstract": "Twitch has built a platform that hosts live events akin to the N.F.L., the United States Open or the X Games — and it has the audience to show for it.",
+      "lead_paragraph": "On Wednesday night, I spent time on Twitch.tv watching people watch people play StarCraft II, Call of Duty and League of Legends. ",
+      "publication_date": "2014-09-01T00:48:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/01/business/media/amazons-bet-on-content-in-a-hub-for-gamers.html",
+      "byline": "By David Carr"
+    },
+    {
+      "headline": "Start-Ups Accrue Funding in Case of Leaner Times",
+      "snippet": "Some entrepreneurs say worries about a possible downturn are partly why they are stocking up on financing, essentially taking out insurance on the risk of harder days ahead.",
+      "abstract": "Some entrepreneurs say worries about a possible downturn are partly why they are stocking up on financing, essentially taking out insurance on the risk of harder days ahead.",
+      "lead_paragraph": "In 1999, right before the dot-com bubble popped, Lawrence Coburn quit his corporate job and dove into the Internet gold rush, raising $600,000 from friends and family — including his grandmother — for a consumer ratings site he founded called RateItAll. At the time, virtually any idea, no matter how far-fetched, seemed to hold the promise of a high-flying initial public offering, making it easy to attract financial backing.",
+      "publication_date": "2014-09-01T01:13:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/08/31/start-ups-accrue-funding-in-case-of-leaner-times/",
+      "byline": "By William Alden"
+    },
+    {
+      "headline": "P.R. Firm for Putin’s Russia Now Walking a Fine Line",
+      "snippet": "Ketchum’s staff members who provide public relations advice to Russia must avoid being seen as defending acts contrary to American interests while still providing some luster for a lucrative client.",
+      "abstract": "Ketchum’s staff members who provide public relations advice to Russia must avoid being seen as defending acts contrary to American interests while still providing some luster for a lucrative client.",
+      "lead_paragraph": "In 2006, executives from the public relations firm Ketchum flew to Moscow to secure an account that has since been worth tens of millions of dollars.",
+      "publication_date": "2014-09-01T01:17:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/01/business/media/pr-firm-for-putins-russia-now-walking-a-fine-line.html",
+      "byline": "By Ravi Somaiya"
+    },
+    {
+      "headline": "More Workers Are Claiming ‘Wage Theft’",
+      "snippet": "A flood of recent lawsuits and government enforcement actions accuse employers across the country of violating laws regulating employee pay.",
+      "abstract": "A flood of recent lawsuits and government enforcement actions accuse employers across the country of violating laws regulating employee pay.",
+      "lead_paragraph": "MIRA LOMA, Calif. — Week after week, Guadalupe Rangel worked seven days straight, sometimes 11 hours a day, unloading dining room sets, trampolines, television stands and other imports from Asia that would soon be shipped to Walmart stores.",
+      "publication_date": "2014-09-01T01:33:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/01/business/more-workers-are-claiming-wage-theft.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Decaying Guantánamo Defies Closing Plans",
+      "snippet": "More than 12 years after the Bush administration first sent detainees to the prison in Cuba, tensions are mounting over whether President Obama can close it before leaving office.",
+      "abstract": "More than 12 years after the Bush administration first sent detainees to the prison in Cuba, tensions are mounting over whether President Obama can close it before leaving office.",
+      "lead_paragraph": "GUANTÁNAMO BAY, Cuba — One sweltering afternoon last month, a Boeing C-17 military transport plane arrived at the American naval base here. It had come to take six low-level detainees to new lives in Uruguay after 12 years of imprisonment.",
+      "publication_date": "2014-09-01T04:57:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/01/us/politics/decaying-guantanamo-defies-closing-plans.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Christie Studies Foreign Affairs for a 2016 Test",
+      "snippet": "Aides to the New Jersey governor say his journey to Mexico is about economic ties and commitment to Hispanic voters back home, but it will also offer him a chance to demonstrate a grasp of international affairs as he considers a run for the presid...",
+      "abstract": "Aides to the New Jersey governor say his journey to Mexico is about economic ties and commitment to Hispanic voters back home, but it will also offer him a chance to demonstrate a grasp of international affairs as he considers a run for the presidency.",
+      "lead_paragraph": "A few days after Russian forces invaded Crimea, Gov. Chris Christie of New Jersey was asked at a confidential meeting of Republican activists how he would have handled the situation differently from President Obama.",
+      "publication_date": "2014-09-01T15:08:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/02/us/politics/chris-christies-trip-to-mexico-doubles-as-a-foreign-policy-test.html",
+      "byline": "By Michael Barbaro"
+    },
+    {
+      "headline": "High Health Plan Deductibles Weigh Down More Employees",
+      "snippet": "Just as employers replaced pensions with retirement savings plans, more large companies appear to be making a similar cost-sharing shift with health plans.",
+      "abstract": "Just as employers replaced pensions with retirement savings plans, more large companies appear to be making a similar cost-sharing shift with health plans.",
+      "lead_paragraph": "Anita Maina was working on an arts and crafts project she found on Pinterest — creating a table out of wood and cork — when she ripped off a fingernail while removing staples from a piece of wood.",
+      "publication_date": "2014-09-01T15:09:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/02/business/increasingly-high-deductible-health-plans-weigh-down-employees.html",
+      "byline": "By Tara Siegel Bernard"
+    }
+  ]
+}

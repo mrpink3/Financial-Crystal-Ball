@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-09-22",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Tax Reform for the Rich: Reduce the Rates but Lose the Breaks",
+      "snippet": "Curbing special treatment for state and local taxes, mortgage interest and capital gains could pay for meaningful changes across the board.",
+      "abstract": "Curbing special treatment for state and local taxes, mortgage interest and capital gains could pay for meaningful changes across the board.",
+      "lead_paragraph": "When the Trump administration unveils new details of its tax plan, promised for next week, one group of taxpayers will be under the microscope: the rich.",
+      "publication_date": "2017-09-21T16:33:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/21/business/tax-breaks.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Facebook to Turn Over Russian-Linked Ads to Congress",
+      "snippet": "The company said it would turn over 3,000 ads linked to Russia to Congress after growing scrutiny about its role in last November’s presidential election.",
+      "abstract": "The company said it would turn over 3,000 ads linked to Russia to Congress after growing scrutiny about its role in last November’s presidential election.",
+      "lead_paragraph": "WASHINGTON — Under growing pressure from Congress and the public to reveal more about the spread of covert Russian propaganda on Facebook, the company said on Thursday that it was turning over more than 3,000 Russia-linked ads to congressional committees investigating the Kremlin’s influence operation during the 2016 presidential campaign.",
+      "publication_date": "2017-09-21T19:43:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/21/technology/facebook-russian-ads.html",
+      "byline": "By Scott Shane and Mike Isaac"
+    },
+    {
+      "headline": "Facebook’s Frankenstein Moment",
+      "snippet": "A series of scandals have opened up the possibility that the company may have created something it can’t fully control.",
+      "abstract": "A series of scandals have opened up the possibility that the company may have created something it can’t fully control.",
+      "lead_paragraph": "On Wednesday, in response to a ProPublica report that Facebook enabled advertisers to target users with offensive terms like “Jew hater,” Sheryl Sandberg, the company’s chief operating officer, apologized and vowed that the company would adjust its ad-buying tools to prevent similar problems in the future.",
+      "publication_date": "2017-09-21T20:34:53+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/21/technology/facebook-frankenstein-sandberg-ads.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Trump Poised to Drop Some Limits on Drone Strikes and Commando Raids",
+      "snippet": "The president’s national security advisers have advised relaxing certain Obama-era rules outside war zones, laying the groundwork for counterterrorism missions in more countries.",
+      "abstract": "The president’s national security advisers have advised relaxing certain Obama-era rules outside war zones, laying the groundwork for counterterrorism missions in more countries.",
+      "lead_paragraph": "WASHINGTON — The Trump administration is preparing to dismantle key Obama-era limits on drone strikes and commando raids outside conventional battlefields, according to officials familiar with internal deliberations. The changes would lay the groundwork for possible counterterrorism missions in countries where Islamic militants are active but the United States has not previously tried to kill or capture them.",
+      "publication_date": "2017-09-21T23:40:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/21/us/politics/trump-drone-strikes-commando-raids-rules.html",
+      "byline": "By Charlie Savage and Eric Schmitt"
+    },
+    {
+      "headline": "Puerto Rico Faces Mountain of Obstacles on the Road to Recovery",
+      "snippet": "For an island long crippled by enormous debt and an essentially bankrupt financial system, Puerto Rico’s road back has gone from long to seemingly endless.",
+      "abstract": "For an island long crippled by enormous debt and an essentially bankrupt financial system, Puerto Rico’s road back has gone from long to seemingly endless.",
+      "lead_paragraph": "SAN JUAN, P.R. — Read the latest on Hurricane Maria with Friday’s live updates.",
+      "publication_date": "2017-09-22T00:35:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/21/us/hurricane-maria-puerto-rico-recovery.html",
+      "byline": "By Luis Ferré-Sadurní, Lizette Alvarez and Frances Robles"
+    },
+    {
+      "headline": "Megyn Kelly Is Ready for Her Morning Closeup",
+      "snippet": "The former Fox News host says her daily NBC morning show, which starts Monday, is one she was “born to do.” Others aren’t so sure.",
+      "abstract": "The former Fox News host says her daily NBC morning show, which starts Monday, is one she was “born to do.” Others aren’t so sure.",
+      "lead_paragraph": "Though Megyn Kelly has offered few specifics about what her NBC morning show will be like, she is happy to try a few analogies.",
+      "publication_date": "2017-09-22T02:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/21/business/media/megyn-kelly-today.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Uber Loses License to Operate in London",
+      "snippet": "London’s transportation agency criticized Uber’s corporate culture, the latest setback for a company that has faced an array of controversies this year.",
+      "abstract": "London’s transportation agency criticized Uber’s corporate culture, the latest setback for a company that has faced an array of controversies this year.",
+      "lead_paragraph": "LONDON — Uber’s history of scandals and disregard for local rules finally caught up with it on Friday, when London declined to renew the ride-hailing company’s license to operate in the city, its largest European market.",
+      "publication_date": "2017-09-22T10:18:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/22/business/uber-london.html",
+      "byline": "By Prashant S. Rao and Mike Isaac"
+    },
+    {
+      "headline": "North Korea Hits New Level of Brinkmanship in Reacting to Trump",
+      "snippet": "Kim Jong-un turns the standoff with Washington into a personal duel, while warning of more dangerous weapons tests.",
+      "abstract": "Kim Jong-un turns the standoff with Washington into a personal duel, while warning of more dangerous weapons tests.",
+      "lead_paragraph": "SEOUL, South Korea — North Korea has long cultivated an image of defiant belligerence, punctuating its propaganda and diplomacy with colorful threats, insults and bluster. But by addressing President Trump in a personal statement on Friday, the nation’s leader, Kim Jong-un, has pushed his government’s brinkmanship to a new, potentially more perilous level.",
+      "publication_date": "2017-09-22T11:29:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/22/world/asia/kim-trump-north-korea.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "Betsy DeVos Reverses Obama-era Policy on Campus Sexual Assault Investigations",
+      "snippet": "The Education Department said colleges no longer had to use the lowest standard of proof, potentially giving accused students more protection while worrying some women’s advocates.",
+      "abstract": "The Education Department said colleges no longer had to use the lowest standard of proof, potentially giving accused students more protection while worrying some women’s advocates.",
+      "lead_paragraph": "Education Secretary Betsy DeVos on Friday scrapped a key part of government policy on campus sexual assault, saying she was giving colleges more freedom to balance the rights of accused students with the need to crack down on serious misconduct.",
+      "publication_date": "2017-09-22T15:24:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/22/us/devos-colleges-sex-assault.html",
+      "byline": "By Stephanie Saul and Kate Taylor"
+    },
+    {
+      "headline": "S.E.C. Rules to Protect Investors From Cyberthreats Fall Short",
+      "snippet": "Requiring exchanges to strengthen security systems was wise. In light of recent breaches, excluding big trading firms from the rule looks risky.",
+      "abstract": "Requiring exchanges to strengthen security systems was wise. In light of recent breaches, excluding big trading firms from the rule looks risky.",
+      "lead_paragraph": "At first glance, the hacking disclosed by the Securities and Exchange Commission on Wednesday didn’t seem too much of a concern to investors.",
+      "publication_date": "2017-09-22T15:57:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/09/22/business/sec-rules-cyber-security.html",
+      "byline": "By Gretchen Morgenson"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-10-10",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Soldiers in Facebook’s War on Fake News Are Feeling Overrun",
+      "snippet": "The social network turned to Rappler, a scrappy news start-up, to clean up its service in the Philippines. But misinformation comes fast and has proved hard to stamp out.",
+      "abstract": "The social network turned to Rappler, a scrappy news start-up, to clean up its service in the Philippines. But misinformation comes fast and has proved hard to stamp out.",
+      "lead_paragraph": "MANILA — The fictional news stories pop up on Facebook faster than Paterno Esmaquel II and his co-workers can stamp them out.",
+      "publication_date": "2018-10-09T18:26:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/09/business/facebook-philippines-rappler-fake-news.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "U.S. Spycraft and Stealthy Diplomacy Expose Russian Subversion in a Key Balkans Vote",
+      "snippet": "American national security agencies this summer handed over secret evidence to Greek authorities that prompted Athens to expel two Russian diplomats.",
+      "abstract": "American national security agencies this summer handed over secret evidence to Greek authorities that prompted Athens to expel two Russian diplomats.",
+      "lead_paragraph": "WASHINGTON — For years, Ivan Savvidis has been the Kremlin’s man in Greece.",
+      "publication_date": "2018-10-09T23:53:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/09/us/politics/russia-macedonia-greece.html",
+      "byline": "By Helene Cooper and Eric Schmitt"
+    },
+    {
+      "headline": "A Hurricane’s Coming, but Fear Not, the Governor Is Here. And Here. And Here.",
+      "snippet": "Hurricane Michael arrives in the height of campaign season in Florida, and Gov. Rick Scott, who is running for the Senate, already is in heavy public service mode. So are other Florida politicians.",
+      "abstract": "Hurricane Michael arrives in the height of campaign season in Florida, and Gov. Rick Scott, who is running for the Senate, already is in heavy public service mode. So are other Florida politicians.",
+      "lead_paragraph": "TALLAHASSEE, Fla. — The men and women stood, waiting, for the tardy governor of Florida on Tuesday morning. No one sought to seize Rick Scott’s bully pulpit at the State Emergency Operations Center. Ahead of a hurricane, no one could.",
+      "publication_date": "2018-10-10T00:03:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/09/us/florida-politicians-hurricane-michael.html",
+      "byline": "By Patricia Mazzei and Alan Blinder"
+    },
+    {
+      "headline": "A Future Where Everything Becomes a Computer Is as Creepy as You Feared",
+      "snippet": "Amazon and other tech giants have made devices connected to the internet increasingly prevalent. Now is the time to be freaking out about the dangers.",
+      "abstract": "Amazon and other tech giants have made devices connected to the internet increasingly prevalent. Now is the time to be freaking out about the dangers.",
+      "lead_paragraph": "More than 40 years ago, Bill Gates and Paul Allen founded Microsoft with a vision for putting a personal computer on every desk.",
+      "publication_date": "2018-10-10T09:00:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/10/technology/future-internet-of-things.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "In New Slap at China, U.S. Expands Power to Block Foreign Investments",
+      "snippet": "The Treasury Department is rolling out a pilot program that will allow the United States to block a broad array of foreign transactions on national security grounds.",
+      "abstract": "The Treasury Department is rolling out a pilot program that will allow the United States to block a broad array of foreign transactions on national security grounds.",
+      "lead_paragraph": "WASHINGTON — The Trump administration said on Wednesday that it would more aggressively police foreign investment in the United States, outlining a rigorous review system that is aimed primarily at preventing China from gaining access to sensitive American technology.",
+      "publication_date": "2018-10-10T12:00:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/10/business/us-china-investment-cfius.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Peter Rice, Fox’s Un-Hollywood TV Boss, Is Getting More Say Over What You Watch",
+      "snippet": "Like his father before him, Mr. Rice was a Rupert Murdoch loyalist. With Disney acquiring 21st Century Fox, he is about to start a new chapter.",
+      "abstract": "Like his father before him, Mr. Rice was a Rupert Murdoch loyalist. With Disney acquiring 21st Century Fox, he is about to start a new chapter.",
+      "lead_paragraph": "Hollywood executives are not so different from the stars they employ. They want to be seen in the right booths at the right restaurants. They work the room at the after-parties on awards nights. And they would rather die than drop a spot on The Hollywood Reporter’s annual power list.",
+      "publication_date": "2018-10-10T14:24:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/10/business/media/peter-rice-fox-disney.html",
+      "byline": "By John Koblin and Brooks Barnes"
+    }
+  ]
+}

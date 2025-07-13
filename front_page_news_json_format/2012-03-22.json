@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2012-03-22",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Notes Europe’s Progress in Easing Its Debt Crisis",
+      "snippet": "Europe has made good progress in easing its debt crisis, Fed Chairman Ben S. Bernanke and Treasury Secretary Timothy F. Geithner told a House committee on Wednesday.",
+      "abstract": "Europe has made good progress in easing its debt crisis, Fed Chairman Ben S. Bernanke and Treasury Secretary Timothy F. Geithner told a House committee on Wednesday.",
+      "lead_paragraph": "WASHINGTON — For the United States, the looming threat from the long-simmering European sovereign debt crisis seems finally to have started to subside.",
+      "publication_date": "2012-03-21T18:23:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/22/business/economy/us-finance-leaders-see-much-reduced-risk-from-europe.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Justices’ Ruling Expands Rights of Accused in Plea Bargains",
+      "snippet": "Because about 95 percent of criminal convictions arise from guilty pleas, two Supreme Court decisions represent a vast expansion of judicial supervision of the criminal justice system.",
+      "abstract": "Because about 95 percent of criminal convictions arise from guilty pleas, two Supreme Court decisions represent a vast expansion of judicial supervision of the criminal justice system.",
+      "lead_paragraph": "WASHINGTON — Criminal defendants have a constitutional right to effective lawyers during plea negotiations, the Supreme Court ruled on Wednesday in a pair of 5-to-4 decisions that vastly expanded judges’ supervision of the criminal justice system.",
+      "publication_date": "2012-03-21T19:44:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/22/us/supreme-court-says-defendants-have-right-to-good-lawyers.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Hot Spots That Don’t Stay Home",
+      "snippet": "Devices abound to put the Internet in your pocket, but there are drawbacks to most, including high fees and contracts.",
+      "abstract": "Devices abound to put the Internet in your pocket, but there are drawbacks to most, including high fees and contracts.",
+      "lead_paragraph": "Ah, the Internet! The source of so much goodness. The font of e-mail, news, chat, TV, blogs, books and Facebook. What would we do without it?",
+      "publication_date": "2012-03-21T21:47:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/22/technology/personaltech/netzero-clearwire-and-other-ways-to-get-a-hot-spot-to-go-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "FedEx Agrees to Pay $3 Million to Settle a Bias Case",
+      "snippet": "In a deal with the Labor Department, the company’s ground delivery unit resolved allegations involving 21,635 workers in 15 states.",
+      "abstract": "In a deal with the Labor Department, the company’s ground delivery unit resolved allegations involving 21,635 workers in 15 states.",
+      "lead_paragraph": "The United States Department of Labor has reached a $3 million settlement with the ground delivery unit of FedEx to resolve allegations that the company discriminated against 21,635 job seekers at two dozen FedEx facilities in 15 states.",
+      "publication_date": "2012-03-21T23:35:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/22/business/fedex-agrees-to-pay-3-million-to-settle-a-discrimination-case.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Fox Show Will Start Worldwide",
+      "snippet": "In a move to attract multinational advertisers and combat online piracy,“Touch,” a new drama from News Corporation, will start almost simultaneously in 100 countries and territories.",
+      "abstract": "In a move to attract multinational advertisers and combat online piracy,“Touch,” a new drama from News Corporation, will start almost simultaneously in 100 countries and territories.",
+      "lead_paragraph": "Television shows typically have their debuts in the United States first and arrive in other countries later — sometimes months or even years later. ",
+      "publication_date": "2012-03-22T00:36:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/22/business/touch-from-fox-tv-will-have-a-worldwide-premiere.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "French Gunman Seen as Homegrown Militant",
+      "snippet": "Mohammed Merah, the suspect in the killing of seven people, represents for European law enforcement officials the kind of terrorist threat that they fear most.",
+      "abstract": "Mohammed Merah, the suspect in the killing of seven people, represents for European law enforcement officials the kind of terrorist threat that they fear most.",
+      "lead_paragraph": "PARIS — For European law enforcement officials, Mohammed Merah, the 23-year-old suspect in the killing of seven people in southwestern France, represents the kind of insidious terrorist threat that they fear most: a homegrown militant consumed by visceral grievances who identifies with Al Qaeda but operates on his own.",
+      "publication_date": "2012-03-22T00:56:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/22/world/europe/mohammed-merah-france-shooting-suspect-seen-as-home-grown-militant.html",
+      "byline": "By DAN BILEFSKY and MA&#207;A de la BAUME"
+    },
+    {
+      "headline": "Home Builder Stocks at Highest Point in 2 Years After 6-Month Rise",
+      "snippet": "The Standard & Poor’s index of 11 home builder stocks has risen 80 percent since October, the most recent low for the industry.",
+      "abstract": "The Standard & Poor’s index of 11 home builder stocks has risen 80 percent since October, the most recent low for the industry.",
+      "lead_paragraph": "After a bullish report on housing at a late summer investment conference in Dallas, the officials at Federated Investors decided to sink a few million dollars into the shares of the home builder Lennar.",
+      "publication_date": "2012-03-22T01:17:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/22/business/economy/home-builder-stocks-at-highest-point-in-2-years-after-6-month-rise.html",
+      "byline": "By Christine Hauser"
+    },
+    {
+      "headline": "German Bond Prices Decline, Unsettling Confidence in a Safe Haven",
+      "snippet": "German bonds are losing value as bond yields in Spain and Italy spike, leaving bondholders like big European banks poorer.",
+      "abstract": "German bonds are losing value as bond yields in Spain and Italy spike, leaving bondholders like big European banks poorer.",
+      "lead_paragraph": "FRANKFURT — Havens can pose their own risks.",
+      "publication_date": "2012-03-22T01:36:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/22/business/german-bond-prices-falling-as-euro-crisis-eases.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Romney’s Day to Relish Is Marred by Aide’s Gaffe",
+      "snippet": "Jeb Bush endorsed Mitt Romney, sending a strong establishment message after Mr. Romney’s victory in Illinois. But the Romney campaign also gave life to its rivals.",
+      "abstract": "Jeb Bush endorsed Mitt Romney, sending a strong establishment message after Mr. Romney’s victory in Illinois. But the Romney campaign also gave life to its rivals.",
+      "lead_paragraph": "WASHINGTON — Mitt Romney sought to use the coveted endorsement of Jeb Bush on Wednesday to amplify his call for Republicans to rally behind his candidacy and get on with the mission of ousting President Obama.",
+      "publication_date": "2012-03-22T02:00:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/22/us/politics/jeb-bush-endorses-romney-aide-makes-etch-a-sketch-gaffe.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "How Far Would You Go for a Comeback?",
+      "snippet": "With United States unemployment still high, oil field work around Williston, N.D., has attracted men from around the country who have uprooted themselves to live in “man camps.”",
+      "abstract": "With United States unemployment still high, oil field work around Williston, N.D., has attracted men from around the country who have uprooted themselves to live in “man camps.”",
+      "lead_paragraph": "WILLISTON, N.D.",
+      "publication_date": "2012-03-22T02:27:51+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2012/03/22/your-money/family-men-go-it-alone-in-north-dakotas-oil-fields.html",
+      "byline": "By Ann Carrns"
+    }
+  ]
+}

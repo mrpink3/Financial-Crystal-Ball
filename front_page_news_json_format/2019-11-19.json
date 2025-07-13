@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-11-19",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Impeachment Investigators Exploring Whether Trump Lied to Mueller",
+      "snippet": "As part of the Russia inquiry, President Trump had given written answers to questions from Robert S. Mueller III.",
+      "abstract": "As part of the Russia inquiry, President Trump had given written answers to questions from Robert S. Mueller III.",
+      "lead_paragraph": "WASHINGTON — House Democrats are exploring whether President Trump lied in his written answers to Robert S. Mueller III’s investigation, a lawyer for the House told a federal appeals court on Monday, raising the prospect of an additional basis for an article of impeachment.",
+      "publication_date": "2019-11-18T17:52:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/18/us/politics/trump-mueller-impeachment.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Trump’s Made-for-TV Trade War Keeps World Guessing",
+      "snippet": "The president’s unpredictability and demands of China are complicating an end to the long-running dispute, experts say.",
+      "abstract": "The president’s unpredictability and demands of China are complicating an end to the long-running dispute, experts say.",
+      "lead_paragraph": "When President Trump’s advisers suggested that Beijing resume buying around $20 billion in American farm products as part of a trade deal, Mr. Trump wasn’t satisfied. In a dramatic public retelling in the Cabinet Room, he said he pressed his team to more than triple that figure, then trimmed that a little and asked for up to $50 billion in annual purchases. ",
+      "publication_date": "2019-11-18T17:56:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/18/business/trump-trade-war-china.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "In Shift, U.S. Says Israeli Settlements in West Bank Do Not Violate International Law",
+      "snippet": "Secretary of State Mike Pompeo announced the reversal of decades of American policy that may doom any peace efforts.",
+      "abstract": "Secretary of State Mike Pompeo announced the reversal of decades of American policy that may doom any peace efforts.",
+      "lead_paragraph": "WASHINGTON — The Trump administration declared on Monday that the United States does not consider Israeli settlements in the West Bank a violation of international law, reversing four decades of American policy and removing what has been an important barrier to annexation of Palestinian territory.",
+      "publication_date": "2019-11-18T19:13:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/18/world/middleeast/trump-israel-west-bank-settlements.html",
+      "byline": "By Lara Jakes and David M. Halbfinger"
+    },
+    {
+      "headline": "Big Tech’s Toughest Opponent Says She’s Just Getting Started",
+      "snippet": "Margrethe Vestager won praise for her oversight of the tech industry. Now, with more authority from the European Union, she envisions a more aggressive agenda.",
+      "abstract": "Margrethe Vestager won praise for her oversight of the tech industry. Now, with more authority from the European Union, she envisions a more aggressive agenda.",
+      "lead_paragraph": "BRUSSELS — Margrethe Vestager spent the past five years developing a well-earned reputation as the world’s top tech industry watchdog. From her perch overseeing Europe’s competition rules, she fined Google more than $9 billion for breaking antitrust laws, and forced Apple to pay about $14.5 billion for dodging taxes. ",
+      "publication_date": "2019-11-19T08:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/19/technology/tech-regulator-europe.html",
+      "byline": "By Adam Satariano and Matina Stevis-Gridneff"
+    },
+    {
+      "headline": "The Divide in Yakima Is the Divide in America",
+      "snippet": "What the changing demographics of this country look like up close.",
+      "abstract": "What the changing demographics of this country look like up close.",
+      "lead_paragraph": "YAKIMA, Wash. — Dulce Gutiérrez heard the angry voice as she was speaking in Spanish to a group of students who had volunteered to hand out leaflets for her City Council campaign.",
+      "publication_date": "2019-11-19T10:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/19/us/politics/yakima-washington-racial-differences-2020-elections.html",
+      "byline": "By Dionne Searcey, Robert Gebeloff and Mason Trinca"
+    },
+    {
+      "headline": "Parents of Besieged Hong Kong Protesters Come to the Front Lines",
+      "snippet": "The parents of young people under siege at a university emerged as a call for compromise.",
+      "abstract": "The parents of young people under siege at a university emerged as a call for compromise.",
+      "lead_paragraph": "HONG KONG — One mother fell to her knees before riot police officers and begged for her daughter’s release. Another promised she would boil soup for a trapped son before he made a desperate escape across police lines. From a distance, a father got his first glimpse of his son in days — as the son was led away in handcuffs.",
+      "publication_date": "2019-11-19T14:36:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/19/world/asia/hong-kong-protests-parents.html",
+      "byline": "By Tiffany May and Paul Mozur"
+    }
+  ]
+}

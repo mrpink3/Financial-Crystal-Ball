@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-12-14",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Republican Tax Bill in Final Sprint Across Finish Line",
+      "snippet": "House and Senate negotiators reached an agreement on a final bill, and are on track to send it to President Trump by Christmas.",
+      "abstract": "House and Senate negotiators reached an agreement on a final bill, and are on track to send it to President Trump by Christmas.",
+      "lead_paragraph": "WASHINGTON — The day after suffering a political blow in the Alabama special Senate election, congressional Republicans sped forward with the most sweeping tax rewrite in decades, announcing an agreement on a final bill that would cut taxes for businesses and individuals and signal the party’s first major legislative achievement since assuming political control this year.",
+      "publication_date": "2017-12-13T17:08:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/13/us/politics/tax-bill-republicans-deal.html",
+      "byline": "By Jim Tankersley, Thomas Kaplan and Alan Rappeport"
+    },
+    {
+      "headline": "Walmart Will Let Its 1.4 Million Workers Take Their Pay Before Payday",
+      "snippet": "The retailer is giving its employees early access to part of their paychecks, but some critics of the company say it points to a need to raise wages.",
+      "abstract": "The retailer is giving its employees early access to part of their paychecks, but some critics of the company say it points to a need to raise wages.",
+      "lead_paragraph": "For decades, Walmart has taken heat for how it treats its work force, including paying low wages and creating unpredictable schedules. Now, the giant retailer is trying to ease some of its workers’ financial strain, allowing them to receive wages before their next payday.",
+      "publication_date": "2017-12-13T19:32:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/13/business/walmart-workers-pay-advances.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "AT&T Agrees to Contract, and Union Backs Time Warner Deal",
+      "snippet": "Under the accord, if ratified, 20,000 wireless employees would get better pay and job protection, and the company would bring work back from overseas.",
+      "abstract": "Under the accord, if ratified, 20,000 wireless employees would get better pay and job protection, and the company would bring work back from overseas.",
+      "lead_paragraph": "Stemming the tide of rising economic insecurity for service workers, a major union has won significant job protection and increased pay for about 20,000 AT&T wireless employees, as well as a commitment to bring work back from overseas.",
+      "publication_date": "2017-12-14T00:48:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/13/business/att-wireless-union.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Alabama Loss Exposes Republican Fissures Amid a Democratic Surge",
+      "snippet": "With the Republican majority in the Senate now reduced to a single seat, the party’s establishment is uneasy about what the populist wing could do in next year’s primary races.",
+      "abstract": "With the Republican majority in the Senate now reduced to a single seat, the party’s establishment is uneasy about what the populist wing could do in next year’s primary races.",
+      "lead_paragraph": "MONTGOMERY, Ala. — The once-unimaginable Republican defeat in Alabama’s special Senate election on Tuesday tore open divisions between the party’s establishment and populist wings, inciting bitter recriminations in the Republican Party as Democratic enthusiasm surges — especially in the nation’s cities and affluent suburbs.",
+      "publication_date": "2017-12-14T01:45:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/13/us/alabama-senate-republican-divisions-democrats.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Disney Makes $52.4 Billion Deal for 21st Century Fox in Big Bet on Streaming",
+      "snippet": "The acquisition of most of Rupert Murdoch’s entertainment empire makes Disney a true competitor to services like Netflix and Amazon.",
+      "abstract": "The acquisition of most of Rupert Murdoch’s entertainment empire makes Disney a true competitor to services like Netflix and Amazon.",
+      "lead_paragraph": "LOS ANGELES — In a move that will reverberate from Hollywood and Silicon Valley to TVs and smartphones around the world, the Walt Disney Company said Thursday that it had reached a deal to buy most of 21st Century Fox, the empire controlled by Rupert Murdoch, in an all-stock transaction valued at roughly $52.4 billion.",
+      "publication_date": "2017-12-14T12:10:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/14/business/dealbook/disney-fox-deal.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Fox-Disney Deal Gives Rupert Murdoch His King Lear Moment",
+      "snippet": "As he prepares to sell off much of 21st Century Fox, the 86-year-old magnate is testing the ties that bind the family-run fief.",
+      "abstract": "As he prepares to sell off much of 21st Century Fox, the 86-year-old magnate is testing the ties that bind the family-run fief.",
+      "lead_paragraph": "For a while, Rupert Murdoch seemed invincible.",
+      "publication_date": "2017-12-14T13:15:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/14/business/media/rupert-murdoch-21st-century-fox.html",
+      "byline": "By Amy Chozick"
+    }
+  ]
+}

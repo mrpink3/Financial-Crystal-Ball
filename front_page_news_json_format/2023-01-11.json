@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-01-11",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Inside Intel’s Delays in Delivering a Crucial New Microprocessor",
+      "snippet": "The company grappled with missteps for years while developing a microprocessor code-named Sapphire Rapids. It comes out on Tuesday.",
+      "abstract": "The company grappled with missteps for years while developing a microprocessor code-named Sapphire Rapids. It comes out on Tuesday.",
+      "lead_paragraph": "Last May, Sandra Rivera, a top executive at the chip giant Intel, got some alarming news.",
+      "publication_date": "2023-01-10T18:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/10/technology/intel-sapphire-rapids-microprocessor.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "An Ailing Arkansas City Elected an 18-Year-Old Mayor to Turn Things Around",
+      "snippet": "Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.",
+      "abstract": "Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.",
+      "lead_paragraph": "EARLE, Ark. — The shoe factory closed and the supermarket pulled out. So did neighbors whose old homes were now falling apart, overtaken by weeds and trees. Likewise, the best students at Earle High School often left for college and decided their hometown did not have enough to lure them back.",
+      "publication_date": "2023-01-10T20:19:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/10/us/jaylen-smith-mayor-earle-arkansas.html",
+      "byline": "By Rick Rojas"
+    },
+    {
+      "headline": "Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government",
+      "snippet": "Republicans pushed through a measure to create a powerful new committee to scrutinize what they have charged is an effort by the government to target and silence conservatives.",
+      "abstract": "Republicans pushed through a measure to create a powerful new committee to scrutinize what they have charged is an effort by the government to target and silence conservatives.",
+      "lead_paragraph": "WASHINGTON — A divided House voted on Tuesday to launch a wide-ranging investigation into federal law enforcement and national security agencies, as Republicans promised to use their new power in Congress to scrutinize what they said was a concerted effort by the government to silence and punish conservatives at all levels, from protesters at school board meetings to former President Donald J. Trump.",
+      "publication_date": "2023-01-10T23:14:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/10/us/politics/house-republican-committee-weaponization-government.html",
+      "byline": "By Luke Broadwater and Catie Edmondson"
+    },
+    {
+      "headline": "With Many Retailers Offering Online Sales, Phony Sites Blend In",
+      "snippet": "Preying on shoppers strapped for cash and time, scammers are setting up fake sites that claim to have deep discounts on premium brands.",
+      "abstract": "Preying on shoppers strapped for cash and time, scammers are setting up fake sites that claim to have deep discounts on premium brands.",
+      "lead_paragraph": "The online retailer Bombas sells socks that are durable, popular and pricey. One pair of women’s ankle socks, for instance, can go for $15.",
+      "publication_date": "2023-01-11T08:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/11/business/online-shopping-scams.html",
+      "byline": "By Jordyn Holman"
+    },
+    {
+      "headline": "I.R.S. Backlogs Continue as Republicans Mount Offensive",
+      "snippet": "The National Taxpayer Advocate expressed hope that better days were ahead for the tax collection agency.",
+      "abstract": "The National Taxpayer Advocate expressed hope that better days were ahead for the tax collection agency.",
+      "lead_paragraph": "WASHINGTON — The Internal Revenue Service will begin the 2023 tax season bogged down in about 10 million unprocessed tax returns from prior years and struggling to answer taxpayer phone calls, putting the embattled tax agency in a fraught position as Republicans try to gut its funding.",
+      "publication_date": "2023-01-11T15:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/11/business/irs-tax-returns-backlog.html",
+      "byline": "By Alan Rappeport"
+    }
+  ]
+}

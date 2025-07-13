@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-04-20",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Appliance Discounts, for the Swift",
+      "snippet": "Consumers across the country are snapping up government rebates for energy-efficient appliances.",
+      "abstract": "Consumers across the country are snapping up government rebates for energy-efficient appliances.",
+      "lead_paragraph": "Whether it is newfound green consciousness ahead of Earth Day — or just the allure of a big discount on a new washing machine or air-conditioner — consumers across the country are snapping up government rebates for energy-efficient appliances.",
+      "publication_date": "2010-04-19T19:46:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/20/business/energy-environment/20rebate.html",
+      "byline": "By Tom Zeller Jr. and Catharine Skipp"
+    },
+    {
+      "headline": "A Candidate Makes an Asset of His Wall Street Past",
+      "snippet": "Harry Wilson, a Republican contender for state comptroller, says New York needs a Wall Street veteran like himself to oversee its $129.4 billion pension fund.",
+      "abstract": "Harry Wilson, a Republican contender for state comptroller, says New York needs a Wall Street veteran like himself to oversee its $129.4 billion pension fund.",
+      "lead_paragraph": "ALBANY — Harry Wilson, a former hedge fund manager, has a novel idea for New Yorkers. Why not put a Wall Street veteran in the state comptroller’s office to oversee the $129.4 billion pension fund? ",
+      "publication_date": "2010-04-19T22:52:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/20/business/20wilson.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Cyberattack on Google Said to Hit Password System",
+      "snippet": "The system that was struck in a December attack reportedly controls access to almost all Google’s services.",
+      "abstract": "The system that was struck in a December attack reportedly controls access to almost all Google’s services.",
+      "lead_paragraph": "Ever since Google disclosed in January that Internet intruders had stolen information from its computers, the exact nature and extent of the theft has been a closely guarded company secret. But a person with direct knowledge of the investigation now says that the losses included one of Google’s crown jewels, a password system that controls access by millions of users worldwide to almost all of the company’s Web services, including e-mail and business applications. ",
+      "publication_date": "2010-04-19T23:58:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/20/technology/20google.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Goldman Employees Rally Around Blankfein",
+      "snippet": "The chief assures employees that Goldman will prevail against a civil fraud suit against it.",
+      "abstract": "The chief assures employees that Goldman will prevail against a civil fraud suit against it.",
+      "lead_paragraph": "The message went out from Lloyd C. Blankfein: circle the wagons. ",
+      "publication_date": "2010-04-20T00:09:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/20/business/20blankfein.html",
+      "byline": "By Jenny Anderson"
+    },
+    {
+      "headline": "A Finance Overhaul Fight\r\nDraws a Swarm of Lobbyists",
+      "snippet": "The Senate Agriculture Committee, more used to dealing with farm subsidies than Wall Street, has drawn enormous interest from lobbyists and donors.",
+      "abstract": "The Senate Agriculture Committee, more used to dealing with farm subsidies than Wall Street, has drawn enormous interest from lobbyists and donors.",
+      "lead_paragraph": "WASHINGTON — Assessing the battle to overhaul the nation’s financial regulations recently, Jamie Dimon, the chief executive of JPMorgan Chase, left no doubt about the consequences if Congress cracked down on his bank’s immense business in derivatives. ",
+      "publication_date": "2010-04-20T00:11:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/20/business/20derivatives.html",
+      "byline": "By Edward Wyatt and Eric Lichtblau"
+    },
+    {
+      "headline": "When Wall Street Deals Resemble Casino Wagers",
+      "snippet": "Why was Goldman, or any regulated bank, allowed to create and sell a product like the synthetic C.D.O. at the center of the government’s case?",
+      "abstract": "Why was Goldman, or any regulated bank, allowed to create and sell a product like the synthetic C.D.O. at the center of the government’s case?",
+      "lead_paragraph": "The government’s civil fraud case against Goldman Sachs raises so many provocative questions. ",
+      "publication_date": "2010-04-20T00:52:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/20/business/20sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "For Apple, Lost iPhone Is a Big Deal",
+      "snippet": "A prototype of the next iPhone, which a person with knowledge of Apple’s plans confirmed was real, was found in a bar.",
+      "abstract": "A prototype of the next iPhone, which a person with knowledge of Apple’s plans confirmed was real, was found in a bar.",
+      "lead_paragraph": "For anyone who has ever lost a cellphone, remember this: it could be worse. You could be the person who left his phone in a bar in California. And it wasn’t just any phone; it was a supersecret version of the next iPhone. That model is not expected to be formally unveiled for a couple of months.",
+      "publication_date": "2010-04-20T00:54:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/20/technology/companies/20apple.html",
+      "byline": "By Miguel Helft and Nick Bilton"
+    },
+    {
+      "headline": "A Difficult Path in Goldman Case",
+      "snippet": "To a layperson, the case against Goldman may seem clear cut, but the claim could be hard to prove in court, experts said.",
+      "abstract": "To a layperson, the case against Goldman may seem clear cut, but the claim could be hard to prove in court, experts said.",
+      "lead_paragraph": "WASHINGTON — In accusing Goldman Sachs of defrauding investors, regulators are not only taking aim at a company with deep pockets and a will to fight — they are also pursuing an unusual claim that could be difficult to prove in court, legal experts said.",
+      "publication_date": "2010-04-20T01:22:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/20/business/20sec.html",
+      "byline": "By Binyamin Appelbaum"
+    }
+  ]
+}

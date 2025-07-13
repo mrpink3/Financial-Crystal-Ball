@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-06-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Elon Musk tells Twitter’s employees he wants the service to ‘contribute to a better, long-lasting civilization.’",
+      "snippet": "Mr. Musk answered questions from Twitter’s 8,000 workers for the first time in a virtual meeting on Thursday.",
+      "abstract": "Mr. Musk answered questions from Twitter’s 8,000 workers for the first time in a virtual meeting on Thursday.",
+      "lead_paragraph": "SAN FRANCISCO — For weeks, Elon Musk has publicly trashed Twitter, even though he is buying the company in a $44 billion deal. On Thursday, he finally acted like an owner.",
+      "publication_date": "2022-06-16T18:08:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/16/technology/elon-musk-twitter-employees-meeting.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Europe Offers Ukraine a Hope of Joining the E.U., but Not a Vast Arsenal",
+      "snippet": "In their first wartime visit to Kyiv, the leaders of France and Germany countered doubts about their commitment to Ukraine defeating Russia, but did not promise the weapons Ukrainians have called for.",
+      "abstract": "In their first wartime visit to Kyiv, the leaders of France and Germany countered doubts about their commitment to Ukraine defeating Russia, but did not promise the weapons Ukrainians have called for.",
+      "lead_paragraph": "KYIV, Ukraine — European leaders on Thursday pledged support for putting Ukraine on a path to membership in the European Union but did not promise the country additional heavy weapons on the scale it says it needs to repel a bloody Russian advance in the east.",
+      "publication_date": "2022-06-16T21:00:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/16/world/europe/ukraine-eu-macron-scholz-zelensky.html",
+      "byline": "By Andrew E. Kramer and Michael Levenson"
+    },
+    {
+      "headline": "Fears Grow Over Iran’s Nuclear Program as Tehran Digs a New Tunnel Network",
+      "snippet": "The conflict over the program is about to flare again as President Biden travels next month to Israel and Saudi Arabia, Iran’s two biggest regional rivals.",
+      "abstract": "The conflict over the program is about to flare again as President Biden travels next month to Israel and Saudi Arabia, Iran’s two biggest regional rivals.",
+      "lead_paragraph": "WASHINGTON — Israeli and American intelligence officials have been watching each day as Iran digs a vast tunnel network just south of the Natanz nuclear production site, in what they believe is Tehran’s biggest effort yet to construct new nuclear facilities so deep in the mountains that they can withstand bunker-busting bombs and cyberattacks.",
+      "publication_date": "2022-06-16T22:35:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/16/us/politics/iran-nuclear-program-tehran.html",
+      "byline": "By David E. Sanger, Julian E. Barnes and Ronen Bergman"
+    },
+    {
+      "headline": "For Mike Pence, Jan. 6 Began Like Many Days. It Ended Like No Other.",
+      "snippet": "An angry mob chanting “hang Mike Pence” came within 40 feet of the vice president. He spent nearly five hours in an underground loading dock. And the president called him a “wimp” and worse.",
+      "abstract": "An angry mob chanting “hang Mike Pence” came within 40 feet of the vice president. He spent nearly five hours in an underground loading dock. And the president called him a “wimp” and worse.",
+      "lead_paragraph": "WASHINGTON — He started the day with a prayer.",
+      "publication_date": "2022-06-16T23:58:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/16/us/politics/pence-trump-jan-6.html",
+      "byline": "By Annie Karni and Maggie Haberman"
+    },
+    {
+      "headline": "This Is Going to Hurt",
+      "snippet": "Inflation is expected to remain high later this year even as the economy slows and layoffs rise. Already, signs of financial stress are surfacing.",
+      "abstract": "Inflation is expected to remain high later this year even as the economy slows and layoffs rise. Already, signs of financial stress are surfacing.",
+      "lead_paragraph": "Kat Johnston didn’t expect the pandemic to make her less stressed about her finances. After all, she temporarily lost her job at the library where she worked full time. But, like many Americans, she found an unexpected reprieve from money worries: Months at home limited her spending, and she received expanded unemployment insurance and two one-time checks from the government.",
+      "publication_date": "2022-06-17T09:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/06/17/business/economy/inflation-economy-recession.html",
+      "byline": "By Jeanna Smialek and Ben Casselman"
+    },
+    {
+      "headline": "Gun Control Advocates Have More Money Now, but Money Can’t Buy Zeal",
+      "snippet": "After more mass shootings, one side is gaining donors and political will; the other is galvanized by gun rights. Will anything be different?",
+      "abstract": "After more mass shootings, one side is gaining donors and political will; the other is galvanized by gun rights. Will anything be different?",
+      "lead_paragraph": "After the massacre of schoolchildren at Sandy Hook Elementary in Newtown, Conn., in 2012, the gun-control movement was small and badly outspent by the National Rifle Association. Parents seeking an outlet for their grief and rage congregated on Facebook, where they formed their own group, Moms Demand Action, to push for stricter gun laws.",
+      "publication_date": "2022-06-17T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/17/business/gun-control-nra-money.html",
+      "byline": "By Nicholas Kulish, Katie Glueck and Michael C. Bender"
+    },
+    {
+      "headline": "As Some Office Workers Return, Happy Hour Sees a Wobbly Comeback",
+      "snippet": "Even as companies struggle to coax employees back to the office, some bars report that their after-work crowds are nearing prepandemic levels.",
+      "abstract": "Even as companies struggle to coax employees back to the office, some bars report that their after-work crowds are nearing prepandemic levels.",
+      "lead_paragraph": "With the unsteady return of workers to the office comes the shaky return of the happy hour.",
+      "publication_date": "2022-06-17T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/17/business/return-to-office-bars.html",
+      "byline": "By Jesus Jiménez and Gabriela Bhaskar"
+    },
+    {
+      "headline": "An ugly week for stocks leaves the S&P 500 with its biggest loss since March 2020.",
+      "snippet": "The selling was fueled by persistently high inflation and fears that the Fed’s efforts to tame it with higher interest rates will choke growth.",
+      "abstract": "The selling was fueled by persistently high inflation and fears that the Fed’s efforts to tame it with higher interest rates will choke growth.",
+      "lead_paragraph": "A tumultuous week on Wall Street, which began with stocks plunging into a bear market for the second time during the pandemic, ended with a small gain on Friday. That was little comfort after a brutal period for investors, who have seen the value of their portfolios and retirement funds lurch downward.",
+      "publication_date": "2022-06-17T12:06:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/17/business/stock-market.html",
+      "byline": "By Melina Delkic, Jason Karaian and Isabella Simonetti"
+    },
+    {
+      "headline": "Russians Breached This City, Not With Troops, but Propaganda",
+      "snippet": "As they batter towns and cities in Ukraine with artillery, the Russians are also bombarding them with messaging aimed at eroding Ukrainians’ trust in their military and their government.",
+      "abstract": "As they batter towns and cities in Ukraine with artillery, the Russians are also bombarding them with messaging aimed at eroding Ukrainians’ trust in their military and their government.",
+      "lead_paragraph": "LYSYCHANSK, Ukraine — Gesturing to the artillery shell lodged in the ground and a rocket protruding from the wall, Maksym Katerynyn was in a rage. These were Ukrainian munitions, he shouted. And it was Ukrainian artillery that struck his home the day before and killed his mother and stepfather.",
+      "publication_date": "2022-06-17T15:16:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/17/world/europe/ukraine-russia-propaganda.html",
+      "byline": "By Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks"
+    },
+    {
+      "headline": "Infighting Overshadows Big Plans at The Washington Post",
+      "snippet": "The aim of Sally Buzbee, The Post’s editor, is to broaden the newspaper’s reach. A year into the job, she’s dealing with internal tumult over some longstanding grievances.",
+      "abstract": "The aim of Sally Buzbee, The Post’s editor, is to broaden the newspaper’s reach. A year into the job, she’s dealing with internal tumult over some longstanding grievances.",
+      "lead_paragraph": "When Sally Buzbee joined The Washington Post a year ago this month, she took over a newsroom that had nearly doubled to more than 1,000 journalists under the ownership of Jeff Bezos, who bought it in 2013. Its coverage regularly won Pulitzer Prizes.",
+      "publication_date": "2022-06-17T15:39:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/17/business/media/sally-buzbee-washington-post.html",
+      "byline": "By Katie Robertson and Benjamin Mullin"
+    }
+  ]
+}

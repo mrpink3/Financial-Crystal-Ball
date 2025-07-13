@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-09-19",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Parts of a ‘Virtual’ Border Wall, Built With the Tech Behind Driverless Cars",
+      "snippet": "In a rural Texas county, lidar sensor technology is being tested as a way to spot illegal intruders from Mexico. That use could divide workers in Silicon Valley.",
+      "abstract": "In a rural Texas county, lidar sensor technology is being tested as a way to spot illegal intruders from Mexico. That use could divide workers in Silicon Valley.",
+      "lead_paragraph": "DEL RIO, Tex. — In this tiny town at the edge of South Texas brush country, a black steel fence runs along the Mexican border. About 15 feet high and topped by small metal spires that bend toward Mexico, it stretches west from a Border Patrol checkpoint for about a mile and a half. Then it stops.",
+      "publication_date": "2018-09-18T17:25:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/18/technology/trump-border-wall-lidar.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Justice Department Is Examining Tesla After Musk Comment",
+      "snippet": "The company said the department requested documents after its chief executive, Elon Musk, said he had “funding secured” to take its stock off public markets.",
+      "abstract": "The company said the department requested documents after its chief executive, Elon Musk, said he had “funding secured” to take its stock off public markets.",
+      "lead_paragraph": "Tesla said on Tuesday that the Justice Department had requested documents from the company after its chief executive, Elon Musk, abruptly announced that he had lined up funding to convert the publicly traded electric-car maker into a private company.",
+      "publication_date": "2018-09-18T17:42:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/18/business/tesla-elon-musk-justice-department.html",
+      "byline": "By Matthew Goldstein, Kate Kelly and Emily Flitter"
+    },
+    {
+      "headline": "Christine Blasey Ford Wants F.B.I. to Investigate Kavanaugh Before She Testifies",
+      "snippet": "Her position puts the Senate Judiciary Committee hearing scheduled for Monday in doubt.",
+      "abstract": "Her position puts the Senate Judiciary Committee hearing scheduled for Monday in doubt.",
+      "lead_paragraph": "WASHINGTON — The woman who has accused President Trump’s Supreme Court nominee of sexual assault all but ruled out appearing at an extraordinary Senate hearing scheduled for next week to hear her allegations, insisting on Tuesday that the F.B.I. investigate first.",
+      "publication_date": "2018-09-18T17:54:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/18/us/politics/christine-blasey-ford-kavanaugh-senate-hearing.html",
+      "byline": "By Peter Baker, Sheryl Gay Stolberg and Nicholas Fandos"
+    },
+    {
+      "headline": "On Kavanaugh, a Changed America Debates an Explosive Charge",
+      "snippet": "The accusations against the Supreme Court nominee are being assessed under different social and cultural conventions than when the episode allegedly occurred.",
+      "abstract": "The accusations against the Supreme Court nominee are being assessed under different social and cultural conventions than when the episode allegedly occurred.",
+      "lead_paragraph": "It was 36 years ago. The accusation: There was a party, alcohol. A 17-year-old boy was drunk and started groping a 15-year-old girl, pinning her down and covering her mouth so she couldn’t scream. Today, she doesn’t remember some of the details. He insists it didn’t happen at all.",
+      "publication_date": "2018-09-18T23:15:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/18/us/politics/brett-kavanaugh-christine-blasey-politics.html",
+      "byline": "By Kate Zernike"
+    },
+    {
+      "headline": "When an Owner’s New Company Puts the Old One in Trump’s Cross Hairs",
+      "snippet": "The decision by the Salesforce chief executive Marc Benioff to buy Time magazine raises the question of the duty that executives have to the companies that made them rich.",
+      "abstract": "The decision by the Salesforce chief executive Marc Benioff to buy Time magazine raises the question of the duty that executives have to the companies that made them rich.",
+      "lead_paragraph": "If Time magazine runs another cover in a series of illustrations showing President Trump’s Oval Office taking on water, employees and shareholders of Salesforce might want to brace for a tweetstorm from the White House — or even calls for regulation of the software company.",
+      "publication_date": "2018-09-18T23:56:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/18/business/dealbook/benioff-time-trump.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "McDonald’s Workers Across the U.S. Stage #MeToo Protests",
+      "snippet": "Hundreds of McDonald’s employees rallied to demand that the largest fast food chain in the country do more to combat sexual harassment in the workplace.",
+      "abstract": "Hundreds of McDonald’s employees rallied to demand that the largest fast food chain in the country do more to combat sexual harassment in the workplace.",
+      "lead_paragraph": "In a St. Louis suburb, they chanted, “Hold your burgers, hold your fries. Keep your hands off my thighs.” In Chicago, they had blue duct tape that said “MeToo” covering their mouths. And in Kansas City, Mo., they held signs bearing the same anti-sexual harassment hashtag with the first letter styled to look like the McDonald’s golden arches.",
+      "publication_date": "2018-09-19T00:29:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/18/business/mcdonalds-strike-metoo.html",
+      "byline": "By Rachel Abrams"
+    },
+    {
+      "headline": "Trump Hit Iran With Oil Sanctions. So Far, They’re Working.",
+      "snippet": "Iranian exports have fallen without a feared surge in global prices, thanks to plentiful supplies. Still, the policy’s success could be fleeting.",
+      "abstract": "Iranian exports have fallen without a feared surge in global prices, thanks to plentiful supplies. Still, the policy’s success could be fleeting.",
+      "lead_paragraph": "HOUSTON — When President Trump announced in May that he was going to withdraw the United States from the nuclear agreement that the Obama administration and five other countries negotiated with Iran in 2015 and reimpose sanctions on the country, the decision was fraught with potential disaster.",
+      "publication_date": "2018-09-19T09:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/19/business/energy-environment/iran-oil-sanctions.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Trump Has Put the U.S. and China on the Cusp of a New Cold War",
+      "snippet": "President Trump’s pugilistic approach to China could rupture relations for years to come.",
+      "abstract": "President Trump’s pugilistic approach to China could rupture relations for years to come.",
+      "lead_paragraph": "WASHINGTON — President Trump is confident that the United States is winning its trade war with China. But on both sides of the Pacific, a bleaker recognition is taking hold: The world’s two largest economies are in the opening stages of a new economic Cold War, one that could persist well after Mr. Trump is out of office.",
+      "publication_date": "2018-09-19T09:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/19/us/politics/trump-china-trade-war.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Why Jeff Bezos Should Push for Nobody to Get as Rich as Jeff Bezos",
+      "snippet": "Here’s what the Amazon founder’s vast fortune tells us about the economic concentration of the tech industry — and how he might help unravel that for the world.",
+      "abstract": "Here’s what the Amazon founder’s vast fortune tells us about the economic concentration of the tech industry — and how he might help unravel that for the world.",
+      "lead_paragraph": "Jeff Bezos, the founder of Amazon and the world’s wealthiest man, has been publicly agonizing over a vexing problem: what to do with all his money.",
+      "publication_date": "2018-09-19T13:26:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/19/technology/bezos-amazon-rich-concentration.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Kavanaugh’s Supporters and His Accuser Are at an Impasse Over Her Testimony",
+      "snippet": "Republicans say a hearing on Monday is Christine Blasey Ford’s only option. Her lawyer says a hearing with only her and Judge Kavanaugh “is not a fair or good faith investigation.”",
+      "abstract": "Republicans say a hearing on Monday is Christine Blasey Ford’s only option. Her lawyer says a hearing with only her and Judge Kavanaugh “is not a fair or good faith investigation.”",
+      "lead_paragraph": "WASHINGTON — The confrontation between Judge Brett M. Kavanaugh and his accuser devolved into a polarizing stalemate on Wednesday as Democrats and Republicans advanced competing narratives to convince voters that the other side has been unfair in the Supreme Court confirmation battle.",
+      "publication_date": "2018-09-19T14:21:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/19/us/politics/kavanaugh-accusations-trump-blasey-ford.html",
+      "byline": "By Peter Baker and Nicholas Fandos"
+    }
+  ]
+}

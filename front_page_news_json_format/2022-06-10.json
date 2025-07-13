@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-06-10",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Federal safety agency expands its investigation of Tesla’s Autopilot system.",
+      "snippet": "NHTSA will take a broad look at whether the electric-car maker’s driver-assistance system can increase the risk of crashes.",
+      "abstract": "NHTSA will take a broad look at whether the electric-car maker’s driver-assistance system can increase the risk of crashes.",
+      "lead_paragraph": "The federal government’s top auto-safety agency is significantly expanding an investigation into Tesla and its Autopilot driver-assistance system to determine if the technology poses a safety risk.",
+      "publication_date": "2022-06-09T16:27:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/09/business/tesla-autopilot-nhtsa-investigation.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Aware of Injuries Inside, Uvalde Police Waited to Confront Gunman",
+      "snippet": "More than a dozen students remained alive for over an hour before officers entered their classrooms. The commander feared a risk to officers’ lives, new documents show.",
+      "abstract": "More than a dozen students remained alive for over an hour before officers entered their classrooms. The commander feared a risk to officers’ lives, new documents show.",
+      "lead_paragraph": "AUSTIN, Texas — Heavily armed officers delayed confronting a gunman in Uvalde, Texas, for more than an hour even though supervisors at the scene had been told that some trapped with him in two elementary school classrooms needed medical treatment, a new review of video footage and other investigative material shows. Instead, the documents show, they waited for protective equipment to lower the risk to law enforcement officers.",
+      "publication_date": "2022-06-09T19:53:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/09/us/uvalde-shooting-police-response.html",
+      "byline": "By J. David Goodman"
+    },
+    {
+      "headline": "‘Dead Cities’ Become the Flashpoint for the Fierce War in the East",
+      "snippet": "President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons.",
+      "abstract": "President Volodymyr Zelensky has framed the battle in Sievierodonetsk as pivotal to the broader fight for the Donbas. Amid relentless Russian attacks, Ukraine holds on and waits for Western weapons.",
+      "lead_paragraph": "LYSYCHANSK, Ukraine — Just to move about town, Ukrainian soldiers accelerate to breakneck speeds in their S.U.V.s, screech around corners, zip into courtyards, then pile out and run for cover.",
+      "publication_date": "2022-06-09T20:42:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/09/world/europe/ukraine-weapons-sievierodonetsk-lysychansk.html",
+      "byline": "By Andrew E. Kramer and Ivor Prickett"
+    },
+    {
+      "headline": "Trump Is Depicted as a Would-Be Autocrat Seeking to Hang Onto Power at All Costs",
+      "snippet": "As the Jan. 6 committee outlined during its prime-time hearing, Donald J. Trump executed a seven-part conspiracy to overturn a free and fair democratic election.",
+      "abstract": "As the Jan. 6 committee outlined during its prime-time hearing, Donald J. Trump executed a seven-part conspiracy to overturn a free and fair democratic election.",
+      "lead_paragraph": "In the entire 246-year history of the United States, there was surely never a more damning indictment presented against an American president than outlined on Thursday night in a cavernous congressional hearing room where the future of democracy felt on the line.",
+      "publication_date": "2022-06-10T03:48:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/09/us/politics/trump-jan-6-hearing.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Lessons From Henry Ford About Today’s Supply Chain Mess",
+      "snippet": "The automobile pioneer believed short-term interests must not squeeze out investment in a business’ resilience, a lesson many companies have learned the hard way since 2020.",
+      "abstract": "The automobile pioneer believed short-term interests must not squeeze out investment in a business’ resilience, a lesson many companies have learned the hard way since 2020.",
+      "lead_paragraph": "DEARBORN, Mich. — Henry Ford, the godfather of mass production, was tormented by the possibility of running out of parts and raw materials. Suspicious of financiers — a spirit that animated his fervent antisemitism — he was especially distrustful of his suppliers. He was consumed with stockpiling enough materials to ensure that his assembly lines could continue operating without debilitating shortages.",
+      "publication_date": "2022-06-10T07:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/10/business/henry-ford-supply-chain.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "A Chinese Entrepreneur Who Says What Others Only Think",
+      "snippet": "Already a maverick in business circles, Zhou Hang has dared to openly criticize the government’s zero Covid policy — and urges his peers to speak out, too.",
+      "abstract": "Already a maverick in business circles, Zhou Hang has dared to openly criticize the government’s zero Covid policy — and urges his peers to speak out, too.",
+      "lead_paragraph": "China’s entrepreneur class is grappling with the worst economic slump in decades as the government’s zero Covid policy has shut down cities and kept would-be customers at home. Yet they can’t seem to agree on how loudly they should complain — or even whether they should at all.",
+      "publication_date": "2022-06-10T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/10/business/china-economy-covid-zero.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Food Export Bans in Asia Prompt Fears of More Protectionism",
+      "snippet": "Restricted so far in the name of domestic food security: Indian wheat, Malaysian chicken and Indonesian cooking oil. Experts warn of unwanted consequences.",
+      "abstract": "Restricted so far in the name of domestic food security: Indian wheat, Malaysian chicken and Indonesian cooking oil. Experts warn of unwanted consequences.",
+      "lead_paragraph": "As Russia’s invasion of Ukraine helped push global agricultural prices to soaring heights, some Asian governments restricted the export of products they viewed as essential to domestic food security.",
+      "publication_date": "2022-06-10T09:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/10/business/asia-export-ban-chicken-wheat-oil.html",
+      "byline": "By Mike Ives"
+    },
+    {
+      "headline": "Markets Recoil as Inflation Report Raises Stakes for Fed",
+      "snippet": "The data suggested that policymakers would need to take aggressive steps to cool the economy, spooking investors.",
+      "abstract": "The data suggested that policymakers would need to take aggressive steps to cool the economy, spooking investors.",
+      "lead_paragraph": "Stubbornly high inflation has loomed over the stock market for months, but some investors had started to think that the worst was over. They cited scattered signs of moderation in price increases and a belief that policymakers could rein them in without sinking the economy.",
+      "publication_date": "2022-06-10T11:53:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/10/business/stock-markets-inflation.html",
+      "byline": "By Jason Karaian and Jeff Sommer"
+    },
+    {
+      "headline": "Inflation Sped Up Again in May, Dashing Hopes for Relief",
+      "snippet": "The Consumer Price Index picked up by 8.6 percent, as price increases climbed at the fastest pace in more than 40 years.",
+      "abstract": "The Consumer Price Index picked up by 8.6 percent, as price increases climbed at the fastest pace in more than 40 years.",
+      "lead_paragraph": "A surge in prices in May delivered a blow to President Biden and underscored the immense challenge facing the Federal Reserve as inflation, which many economists had expected to show signs of cooling, instead reaccelerated to climb at its fastest pace since late 1981.",
+      "publication_date": "2022-06-10T12:36:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/10/business/economy/may-2022-cpi-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "An ‘Ugly’ Inflation Report Upended Hopes That Price Gains Would Ease",
+      "snippet": "Investors and economists had expected to see some moderation in inflation. Instead, prices accelerated again in May, delivering an unwanted surprise.",
+      "abstract": "Investors and economists had expected to see some moderation in inflation. Instead, prices accelerated again in May, delivering an unwanted surprise.",
+      "lead_paragraph": "Friday’s inflation report delivered an unwanted surprise for the White House, Federal Reserve and investors.",
+      "publication_date": "2022-06-10T15:57:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/10/business/economy/inflation-report-price-gains-biden.html",
+      "byline": "By Jim Tankersley"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-10-22",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Parents of 545 Children Separated at the Border Cannot Be Found",
+      "snippet": "A new report shows hundreds of cases in which the deported parents of migrant children who were taken from their families cannot be located.",
+      "abstract": "A new report shows hundreds of cases in which the deported parents of migrant children who were taken from their families cannot be located.",
+      "lead_paragraph": "Radio spots are airing throughout Mexico and Central America. Court-appointed researchers are motorbiking through rural hillside communities in Guatemala and showing up at courthouses in Honduras to conduct public record searches.",
+      "publication_date": "2020-10-21T17:18:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/21/us/migrant-children-separated.html",
+      "byline": "By Caitlin Dickerson"
+    },
+    {
+      "headline": "Big Tech’s Professional Opponents Strike at Google",
+      "snippet": "An unlikely collection of lawyers, activists, economists and academics is fueling the tech backlash, armed with funding from billionaire sponsors.",
+      "abstract": "An unlikely collection of lawyers, activists, economists and academics is fueling the tech backlash, armed with funding from billionaire sponsors.",
+      "lead_paragraph": "Months before the Justice Department filed a landmark antitrust suit against Google this week, the internet company’s adversaries hustled behind the scenes to lay the groundwork for a case.",
+      "publication_date": "2020-10-21T19:21:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/21/technology/big-tech-professional-opponents.html",
+      "byline": "By Adam Satariano and David McCabe"
+    },
+    {
+      "headline": "Iran and Russia Seek to Influence Election in Final Days, U.S. Officials Warn",
+      "snippet": "Iran is behind threatening, spoofed emails sent to voters, the officials said, but there was no indication that any votes themselves had been altered.",
+      "abstract": "Iran is behind threatening, spoofed emails sent to voters, the officials said, but there was no indication that any votes themselves had been altered.",
+      "lead_paragraph": "WASHINGTON — Iran and Russia have both obtained American voter registration data, top national security officials announced late on Wednesday, providing the first concrete evidence that the two countries are stepping in to try to influence the presidential election as it enters its final two weeks.",
+      "publication_date": "2020-10-22T00:47:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/21/us/politics/iran-russia-election-interference.html",
+      "byline": "By Julian E. Barnes and David E. Sanger"
+    },
+    {
+      "headline": "Can Trump Win? Yes. But the Path Is Narrow and Difficult.",
+      "snippet": "President Trump’s prospects depend on late and fundamental shifts in the dynamics of the race, including Joe Biden stumbling badly in Thursday’s debate and Mr. Trump exhibiting discipline on the virus.",
+      "abstract": "President Trump’s prospects depend on late and fundamental shifts in the dynamics of the race, including Joe Biden stumbling badly in Thursday’s debate and Mr. Trump exhibiting discipline on the virus.",
+      "lead_paragraph": "President Trump’s victory in 2016 is remembered for defying polls and stunning Democrats. But in many ways, it was not a surprise.",
+      "publication_date": "2020-10-22T05:30:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/22/us/politics/can-trump-win-the-election.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Forget Antitrust Laws. To Limit Tech, Some Say a New Regulator Is Needed.",
+      "snippet": "Even as the Justice Department sued Google, some antitrust experts wondered whether a different government response would be more effective.",
+      "abstract": "Even as the Justice Department sued Google, some antitrust experts wondered whether a different government response would be more effective.",
+      "lead_paragraph": "For decades, America’s antitrust laws — originally designed to curb the power of 19th-century corporate giants in railroads, oil and steel — have been hailed as “the Magna Carta of free enterprise” and have proved remarkably durable and adaptable.",
+      "publication_date": "2020-10-22T09:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/22/technology/antitrust-laws-tech-new-regulator.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "OSHA Criticized for Lax Regulation of Meatpacking in Pandemic",
+      "snippet": "Critics say the agency has applied scant oversight and negligible penalties despite virus outbreaks at many plants in the spring.",
+      "abstract": "Critics say the agency has applied scant oversight and negligible penalties despite virus outbreaks at many plants in the spring.",
+      "lead_paragraph": "When the pandemic hit in March, a JBS meatpacking plant in Greeley, Colo., began providing paid leave to workers at high risk of serious illness.",
+      "publication_date": "2020-10-22T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/22/business/economy/osha-coronavirus-meat.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Trump’s Cash Crunch Limits His Options and Prompts Finger-Pointing",
+      "snippet": "With far less money than anticipated, campaign officials are scrambling to address a severe financial disadvantage against Joseph R. Biden Jr., producing something of an internal blame game.",
+      "abstract": "With far less money than anticipated, campaign officials are scrambling to address a severe financial disadvantage against Joseph R. Biden Jr., producing something of an internal blame game.",
+      "lead_paragraph": "President Trump’s campaign has far less money than advisers had once anticipated for the final stretch of the presidential election, as rosy revenue projections failed to materialize, leaving aides scrambling to address a severe financial disadvantage against Joseph R. Biden Jr. at the race’s most crucial juncture.",
+      "publication_date": "2020-10-22T09:00:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/22/us/politics/trump-campaign-money.html",
+      "byline": "By Shane Goldmacher and Maggie Haberman"
+    }
+  ]
+}

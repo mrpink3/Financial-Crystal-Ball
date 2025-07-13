@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2021-07-07",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Pentagon Cancels a Disputed $10 Billion Technology Contract",
+      "snippet": "The decision puts an end to years of legal wrangling over the contract, for 10 years of cloud-computing services.",
+      "abstract": "The decision puts an end to years of legal wrangling over the contract, for 10 years of cloud-computing services.",
+      "lead_paragraph": "The Defense Department said on Tuesday that it would not go forward with a lucrative cloud-computing contract that had become the subject of a contentious legal battle amid claims of interference by the Trump administration.",
+      "publication_date": "2021-07-06T17:22:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/06/technology/JEDI-contract-cancelled.html",
+      "byline": "By Kate Conger and David E. Sanger"
+    },
+    {
+      "headline": "For China’s Business Elites, Staying Out of Politics Is No Longer an Option",
+      "snippet": "The fallout from Beijing’s crackdown on the ride-hailing app Didi has ensnared even those who made it a point to not mix business with politics.",
+      "abstract": "The fallout from Beijing’s crackdown on the ride-hailing app Didi has ensnared even those who made it a point to not mix business with politics.",
+      "lead_paragraph": "Liu Chuanzhi, the founder of the tech company Lenovo and a towering figure in China’s private sector, has long held the view that businesspeople should steer clear of politics. Yet he recently found out firsthand that in President Xi Jinping’s China, which is engaged in a tech cold war with the United States, business cannot just be business.",
+      "publication_date": "2021-07-06T17:24:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/06/technology/china-business-politics-didi.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "‘Sermongate’ Prompts a Quandary: Should Pastors Borrow Words From One Another?",
+      "snippet": "The new leader of the Southern Baptist Convention has delivered sermons containing passages from those of his predecessor, causing a furor.",
+      "abstract": "The new leader of the Southern Baptist Convention has delivered sermons containing passages from those of his predecessor, causing a furor.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-07-06T17:39:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/06/us/sermongate-plagiarism-litton-greear.html",
+      "byline": "By Ruth Graham"
+    },
+    {
+      "headline": "Behind the Clash at OPEC: Growing Competition in the Gulf",
+      "snippet": "The United Arab Emirates wants to pump more oil, annoying its giant rival, Saudi Arabia.",
+      "abstract": "The United Arab Emirates wants to pump more oil, annoying its giant rival, Saudi Arabia.",
+      "lead_paragraph": "The fighting between the United Arab Emirates and Saudi Arabia that emerged in recent days over oil production had been brewing for months, if not years.",
+      "publication_date": "2021-07-06T20:07:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/06/business/Saudi-Arabia-UAE-OPEC.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Rising Oil and Gas Prices Add to U.S. Economic Challenges",
+      "snippet": "Experts say a period of costlier fuel is likely to be brief. But if consumers start to assume otherwise, it could mean problems for Biden and the Fed.",
+      "abstract": "Experts say a period of costlier fuel is likely to be brief. But if consumers start to assume otherwise, it could mean problems for Biden and the Fed.",
+      "lead_paragraph": "As the U.S. economy struggles to emerge from its pandemic-induced hibernation, consumers and businesses have encountered product shortages, hiring difficulties and often conflicting public health guidance, among other challenges.",
+      "publication_date": "2021-07-06T21:56:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/06/business/economy/gas-oil-biden-economy.html",
+      "byline": "By Ben Casselman and Clifford Krauss"
+    },
+    {
+      "headline": "States and Cities Scramble to Spend $350 Billion Windfall",
+      "snippet": "The Biden administration is betting on the funds to keep the recovery humming, but Republicans say the money is being wasted.",
+      "abstract": "The Biden administration is betting on the funds to keep the recovery humming, but Republicans say the money is being wasted.",
+      "lead_paragraph": "WASHINGTON — When Steve Adler, the mayor of Austin, heard the Biden administration planned to give billions of dollars to states and localities in the $1.9 trillion pandemic aid package, he knew exactly what he wanted to do with his cut.",
+      "publication_date": "2021-07-06T22:00:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/06/us/politics/stimulus-bill-usa.html",
+      "byline": "By Glenn Thrush and Alan Rappeport"
+    },
+    {
+      "headline": "Attempted Hack of R.N.C. and Russian Ransomware Attack Test Biden",
+      "snippet": "The breach of a Republican National Committee contractor, also linked to Russia, and the global ransomware attack occurred weeks after a U.S.-Russian summit.",
+      "abstract": "The breach of a Republican National Committee contractor, also linked to Russia, and the global ransomware attack occurred weeks after a U.S.-Russian summit.",
+      "lead_paragraph": "Russian hackers are accused of breaching a contractor for the Republican National Committee last week, around the same time that Russian cybercriminals launched the single largest global ransomware attack on record, incidents that are testing the red lines set by President Biden during his high-stakes summit with President Vladimir V. Putin of Russia last month.",
+      "publication_date": "2021-07-06T23:56:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/06/technology/rnc-hacked-cyberattack-russia.html",
+      "byline": "By Nicole Perlroth and David E. Sanger"
+    },
+    {
+      "headline": "Biden Calls for Door-to-Door Vaccine Push; Experts Say More Is Needed",
+      "snippet": "Some public health experts worry that the administration is not being aggressive enough in waging what the president calls a “wartime effort” to vaccinate the country.",
+      "abstract": "Some public health experts worry that the administration is not being aggressive enough in waging what the president calls a “wartime effort” to vaccinate the country.",
+      "lead_paragraph": "WASHINGTON — Faced with a steep decline in vaccination rates, President Biden said on Tuesday that his administration would send people door to door, set up clinics at workplaces and urge employers to offer paid time off as part of a renewed push to reach tens of millions of unvaccinated Americans.",
+      "publication_date": "2021-07-07T00:06:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/06/us/politics/biden-vaccines.html",
+      "byline": "By Michael D. Shear and Noah Weiland"
+    },
+    {
+      "headline": "Start-Ups Aim Beyond Earth",
+      "snippet": "Advancements in space technology and new means of financing are driving a flurry of investor interest.",
+      "abstract": "Advancements in space technology and new means of financing are driving a flurry of investor interest.",
+      "lead_paragraph": "When Lisa Rich held a call with investors in March to raise money for Aurvandil Acquisition, a company that buys start-ups focused on space technology, her goal was to bring in several million dollars.",
+      "publication_date": "2021-07-07T09:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/07/technology/space-start-ups.html",
+      "byline": "By Erin Woo"
+    },
+    {
+      "headline": "Across Borders and Divides, One ‘Heavenly’ Refresher Cools Summer Heat",
+      "snippet": "India, Pakistan and Bangladesh alike enjoy the sweet and herbal taste of Rooh Afza, a beverage that has endured the region’s turbulent history. Now it is aiming for the palates of a new generation.",
+      "abstract": "India, Pakistan and Bangladesh alike enjoy the sweet and herbal taste of Rooh Afza, a beverage that has endured the region’s turbulent history. Now it is aiming for the palates of a new generation.",
+      "lead_paragraph": "NEW DELHI — Its original recipe, more than a century old, is tucked away in a highly secure, temperature-controlled family archive in India’s capital.",
+      "publication_date": "2021-07-07T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/07/business/india-drink-rooh-afza.html",
+      "byline": "By Mujib Mashal"
+    },
+    {
+      "headline": "Cryptocurrency Seeks the Spotlight, With Spike Lee’s Help",
+      "snippet": "The filmmaker’s commercial for a crypto company is one of many recent marketing efforts to make digital cash palatable for newbies.",
+      "abstract": "The filmmaker’s commercial for a crypto company is one of many recent marketing efforts to make digital cash palatable for newbies.",
+      "lead_paragraph": "Before Spike Lee accepted cryptocurrency, he turned down Crocs.",
+      "publication_date": "2021-07-07T13:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/07/business/media/cryptocurrency-seeks-the-spotlight-with-spike-lees-help.html",
+      "byline": "By Tiffany Hsu and Coral Murphy Marcos"
+    },
+    {
+      "headline": "The Real Toll From Prison Covid Cases May Be Higher Than Reported",
+      "snippet": "Some deaths were not counted as part of prison virus tallies because hospitalized inmates were officially released from custody before they died.",
+      "abstract": "Some deaths were not counted as part of prison virus tallies because hospitalized inmates were officially released from custody before they died.",
+      "lead_paragraph": "Richard Williamson, 86, was rushed from a Florida jail to a hospital last July. Within two weeks, he had died of Covid-19.",
+      "publication_date": "2021-07-07T14:06:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/07/us/inmates-incarcerated-covid-deaths.html",
+      "byline": "By Maura Turcotte, Rachel Sherman, Rebecca Griesbach and Ann Hinga Klein"
+    },
+    {
+      "headline": "Bill Gates Can Remove Melinda French Gates From Foundation in Two Years",
+      "snippet": "Following their divorce, they will continue to work together for now at the foundation, which they gave an additional $15 billion in resources, and will add new independent trustees.",
+      "abstract": "Following their divorce, they will continue to work together for now at the foundation, which they gave an additional $15 billion in resources, and will add new independent trustees.",
+      "lead_paragraph": "Bill Gates and Melinda French Gates have at times referred to the foundation they established together as their “fourth child.” If over the next two years they can’t find a way to work together following their planned divorce, Mr. Gates will get full custody.",
+      "publication_date": "2021-07-07T15:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/07/business/bill-gates-melinda-gates-divorce-foundation.html",
+      "byline": "By Nicholas Kulish"
+    }
+  ]
+}

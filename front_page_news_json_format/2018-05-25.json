@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2018-05-25",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Emergency Braking Was Disabled When Self-Driving Uber Killed Woman, Report Says",
+      "snippet": "A computer system failure and an inattentive safety driver kept the vehicle from stopping before killing a woman in Arizona in March, the National Transportation Safety Board said.",
+      "abstract": "A computer system failure and an inattentive safety driver kept the vehicle from stopping before killing a woman in Arizona in March, the National Transportation Safety Board said.",
+      "lead_paragraph": "SAN FRANCISCO — More than a second before a self-driving car operated by Uber struck and killed a pedestrian in March, the vehicle’s computer system determined it needed to brake to avoid a crash. But a built-in emergency braking system had been disabled while the car was in autonomous mode to ensure a smoother ride, according to the preliminary report of federal regulators investigating the crash.",
+      "publication_date": "2018-05-24T17:08:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/24/technology/uber-autonomous-car-ntsb-investigation.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "‘Mustang Means Freedom’: Why Ford Is Saving an American Icon",
+      "snippet": "Ford is phasing out its passenger cars, except one: the Mustang. The car may be only modestly profitable for Ford, but it has deep emotional power.",
+      "abstract": "Ford is phasing out its passenger cars, except one: the Mustang. The car may be only modestly profitable for Ford, but it has deep emotional power.",
+      "lead_paragraph": "When Ford Motor all but eliminated passenger cars from its North American lineup earlier this month to concentrate on trucks and S.U.V.s, it turned the page on a long and storied history of now-defunct but once red-hot nameplates: the Model T, the Model A, the Galaxie, the Fairlane, the Thunderbird and the Falcon, to name several.",
+      "publication_date": "2018-05-24T19:51:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/24/business/ford-mustang-american-icon.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Trump’s Negotiating Playbook Faced Test in North Korea",
+      "snippet": "The president had sought to deal with Kim Jong-un the same way he had handled real estate negotiations — with threats and flattery. It didn’t work.",
+      "abstract": "The president had sought to deal with Kim Jong-un the same way he had handled real estate negotiations — with threats and flattery. It didn’t work.",
+      "lead_paragraph": "WASHINGTON — President Trump attempted a revolutionary approach to North Korea — a gamble that negotiating prowess and deal-making charm in a face-to-face meeting with Kim Jong-un could accomplish what no American president or diplomat had dared to attempt in the 65 years since an uneasy armistice settled over the Korean Peninsula.",
+      "publication_date": "2018-05-24T21:26:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/24/world/asia/trumps-gamble-hits-reality-check-in-north-korea-negotiations.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "G.D.P.R., a New Privacy Law, Makes Europe World’s Leading Tech Watchdog",
+      "snippet": "The European Union on Friday puts the world’s toughest data privacy rules into effect. The regulations are set to have an outsize impact far beyond Europe.",
+      "abstract": "The European Union on Friday puts the world’s toughest data privacy rules into effect. The regulations are set to have an outsize impact far beyond Europe.",
+      "lead_paragraph": "LONDON — The  notices are flooding people’s inboxes en masse, from large technology companies, including Facebook and Uber, and even from parent teacher associations, children’s soccer clubs and yoga instructors. “Here is an update to our privacy policy,” they say.",
+      "publication_date": "2018-05-24T22:10:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/24/technology/europe-gdpr-privacy.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Potential Auto Tariffs Prompt Warnings From Industry and Allies",
+      "snippet": "Economists, lawmakers and industry executives said the threat of tariffs on imported cars threatened to undercut global economic growth and stoke trade tensions even with crucial allies.",
+      "abstract": "Economists, lawmakers and industry executives said the threat of tariffs on imported cars threatened to undercut global economic growth and stoke trade tensions even with crucial allies.",
+      "lead_paragraph": "WASHINGTON — President Trump likes to keep allies and adversaries guessing, but his decision to begin a trade investigation that could trigger auto tariffs was met by surprise at home and abroad, and prompted warnings that it could destabilize global supply chains.",
+      "publication_date": "2018-05-24T22:55:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/24/us/politics/trump-auto-tariffs-trade.html",
+      "byline": "By Ana Swanson and Jim Tankersley"
+    },
+    {
+      "headline": "Want to Make Money Like a C.E.O.? Work for 275 Years",
+      "snippet": "For the first time, companies in the U.S. are disclosing how their C.E.O.’s compensation compares with the pay of employees. The results are eye-opening.",
+      "abstract": "For the first time, companies in the U.S. are disclosing how their C.E.O.’s compensation compares with the pay of employees. The results are eye-opening.",
+      "lead_paragraph": "A Walmart employee earning the company’s median salary of $19,177 would have to work for more than a thousand years to earn the $22.2 million that Doug McMillon, the company’s chief executive, was awarded in 2017.",
+      "publication_date": "2018-05-25T09:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/05/25/business/highest-paid-ceos-2017.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "They Shared Drugs. Someone Died. Does That Make Them Killers?",
+      "snippet": "Prosecutors are increasingly treating overdose deaths as homicides, but they aren’t just going after dealers. Friends, family and fellow users are going to prison.",
+      "abstract": "Prosecutors are increasingly treating overdose deaths as homicides, but they aren’t just going after dealers. Friends, family and fellow users are going to prison.",
+      "lead_paragraph": "HIBBING, Minn. — In West Virginia, a woman woke after a day of drug use to find her girlfriend’s lips blue and her body limp.",
+      "publication_date": "2018-05-25T09:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/25/us/drug-overdose-prosecution-crime.html",
+      "byline": "By Rosa Goldensohn"
+    },
+    {
+      "headline": "How Student Debt Can Ruin Home Buying Dreams",
+      "snippet": "Going to college may increase your income, but higher student debt levels have kept many millennials out of the home buying market.",
+      "abstract": "Going to college may increase your income, but higher student debt levels have kept many millennials out of the home buying market.",
+      "lead_paragraph": "When Rebecca Wills pictures the home she would like to buy, it looks like the one she grew up in: Small house. Big backyard. Enough grass for the family to lie out on when the New Jersey summers cooperate.",
+      "publication_date": "2018-05-25T09:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "RE",
+      "web_url": "https://www.nytimes.com/2018/05/25/business/how-student-debt-can-ruin-home-buying-dreams.html",
+      "byline": "By Natalie Kitroeff"
+    },
+    {
+      "headline": "Tax Break, or Kickback? Energy Benefit Becomes a Lightning Rod",
+      "snippet": "A federal incentive aimed at builders is at the center of a dispute over whether public agencies can use it — and how they can pass it along.",
+      "abstract": "A federal incentive aimed at builders is at the center of a dispute over whether public agencies can use it — and how they can pass it along.",
+      "lead_paragraph": "Over the past decade, hundreds of public projects have benefited from a federal incentive meant to encourage investments in energy-efficient technology. The Port Authority of New York and New Jersey used it to save $1 million on building One World Trade Center and upgrading bus terminals and airports. In Florida, Miami-Dade County sliced $1.13 million off the price tag of an improved cooling system in its county hall, courthouses and downtown sports arena.",
+      "publication_date": "2018-05-25T13:30:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/25/business/economy/energy-tax-break.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Trump Says North Korea Summit May Be Rescheduled",
+      "snippet": "A day after canceling his meeting with Kim Jong-un, President Trump said his administration was back in touch with North Korea and may go ahead with the June 12 get-together.",
+      "abstract": "A day after canceling his meeting with Kim Jong-un, President Trump said his administration was back in touch with North Korea and may go ahead with the June 12 get-together.",
+      "lead_paragraph": "WASHINGTON — President Trump said on Friday that the White House was back in touch with North Korea and that the two sides might reschedule his summit meeting with Kim Jong-un, a startling reversal that revealed not only Mr. Trump’s improvisational approach to diplomacy but also deep divisions among his advisers about the risks of going ahead.",
+      "publication_date": "2018-05-25T13:45:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/25/world/asia/trump-summit-north-korea.html",
+      "byline": "By Mark Landler and David E. Sanger"
+    },
+    {
+      "headline": "At Trump Tower, Michael Cohen and Oligarch Discussed Russian Relations",
+      "snippet": "The meeting, which took place 11 days before the inauguration, preceded a $1 million contract Mr. Cohen received from a firm tied to the Russian oligarch.",
+      "abstract": "The meeting, which took place 11 days before the inauguration, preceded a $1 million contract Mr. Cohen received from a firm tied to the Russian oligarch.",
+      "lead_paragraph": "Eleven days before the presidential inauguration last year, a billionaire Russian businessman with ties to the Kremlin visited Trump Tower in Manhattan to meet with Donald J. Trump’s personal lawyer and fixer, Michael D. Cohen, according to video footage and another person who attended the meeting.",
+      "publication_date": "2018-05-25T13:48:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/25/us/politics/michael-cohen-viktor-vekselberg-trump-tower.html",
+      "byline": "By William K. Rashbaum, Ben Protess and Mike McIntire"
+    },
+    {
+      "headline": "Single-Payer Health Care in California: Here’s What It Would Take",
+      "snippet": "Universal state health coverage has rallied Democrats in the governor’s race. But even with the state’s size and wealth, it would be hard to achieve.",
+      "abstract": "Universal state health coverage has rallied Democrats in the governor’s race. But even with the state’s size and wealth, it would be hard to achieve.",
+      "lead_paragraph": "If wholesale opposition to President Trump is one litmus test for progressive Democrats, another — as the governor’s race in California is proving — is health care.",
+      "publication_date": "2018-05-25T14:35:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/25/business/economy/california-single-payer.html",
+      "byline": "By Patricia Cohen and Reed Abelson"
+    }
+  ]
+}

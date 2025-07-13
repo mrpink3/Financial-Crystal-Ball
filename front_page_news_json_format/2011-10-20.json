@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2011-10-20",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Citigroup to Pay Millions to Close Fraud Complaint",
+      "snippet": "The company agreed to settle a complaint by the S.E.C. that it had defrauded buyers in a $1 billion portfolio of mortgage-related investments.",
+      "abstract": "The company agreed to settle a complaint by the S.E.C. that it had defrauded buyers in a $1 billion portfolio of mortgage-related investments.",
+      "lead_paragraph": "WASHINGTON — As the housing market began its collapse, Wall Street firms and sophisticated investors searched for ways to profit. Some of them found an easy method: Stuff a portfolio with risky mortgage-related investments, sell it to unsuspecting customers and bet against it.",
+      "publication_date": "2011-10-19T16:13:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/20/business/citigroup-to-pay-285-million-to-settle-sec-charges.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Police Kill Dozens of Animals Freed on Ohio Reserve",
+      "snippet": "The release, and then death or capture, of exotic animals set off tense watches, frantic searches and a news media tumult.",
+      "abstract": "The release, and then death or capture, of exotic animals set off tense watches, frantic searches and a news media tumult.",
+      "lead_paragraph": "ZANESVILLE, Ohio — The woman’s voice sounded a little annoyed. “There’s a bear and a lion out,” she told the 911 operator on Tuesday. “Right up behind us.”",
+      "publication_date": "2011-10-19T17:06:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/20/us/police-kill-dozens-of-animals-freed-from-ohio-preserve.html",
+      "byline": "By Greg Bishop and Timothy Williams"
+    },
+    {
+      "headline": "Listeria Outbreak Traced to Cantaloupe Packing Shed",
+      "snippet": "The outbreak, the deadliest incident of foodborne illness in the last 25 years, grew out of unsanitary conditions at a Colorado farm, investigators found.",
+      "abstract": "The outbreak, the deadliest incident of foodborne illness in the last 25 years, grew out of unsanitary conditions at a Colorado farm, investigators found.",
+      "lead_paragraph": "A nationwide listeria outbreak that has killed 25 people who ate tainted cantaloupe was probably caused by unsanitary conditions in the packing shed of the Colorado farm where the melons were grown, federal officials said Wednesday. ",
+      "publication_date": "2011-10-19T18:39:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/20/business/listeria-outbreak-traced-to-colorado-cantaloupe-packing-shed.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "Facebook Changes Inspire More Grumbling",
+      "snippet": "Any time a company with 800 million active customers makes the slightest shift, there’s bound to be howls of protest. Let’s review the latest changes and see if they’re worth the teeth-gnashing.",
+      "abstract": "Any time a company with 800 million active customers makes the slightest shift, there’s bound to be howls of protest. Let’s review the latest changes and see if they’re worth the teeth-gnashing.",
+      "lead_paragraph": "Facebook recently redesigned its site, moving things around and adding new elements. Of course, Facebook frequently fiddles with its features, and these fixes frequently infuriate its fans.",
+      "publication_date": "2011-10-19T22:07:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/20/technology/personaltech/facebook-changes-inspire-more-grumbling-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Bad Blood Between Perry and Romney Is Longstanding",
+      "snippet": "Hostilities flaring between Mitt Romney and Gov. Rick Perry of Texas may signal a more combative phase in the Republican presidential campaign. But their conflict began years ago.",
+      "abstract": "Hostilities flaring between Mitt Romney and Gov. Rick Perry of Texas may signal a more combative phase in the Republican presidential campaign. But their conflict began years ago.",
+      "lead_paragraph": "WASHINGTON — The hostilities flaring between Mitt Romney and Gov. Rick Perry of Texas have been steadily rising inside both camps and may signal a new, more combative phase in the Republican presidential campaign.",
+      "publication_date": "2011-10-20T02:05:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/20/us/politics/romney-and-perry-have-history-of-clashes.html",
+      "byline": "By Michael D. Shear and Jeff Zeleny"
+    },
+    {
+      "headline": "Rush to Drill for Natural Gas Creates Conflicts With Mortgages",
+      "snippet": "Worried about property values, and landowners signing drilling leases without clearance, lenders are trying to reinforce restrictions.",
+      "abstract": "Worried about property values, and landowners signing drilling leases without clearance, lenders are trying to reinforce restrictions.",
+      "lead_paragraph": "As natural gas drilling has spread across the country, energy industry representatives have sat down at kitchen tables in states like Texas, Pennsylvania and New York to offer homeowners leases that give companies the right to drill on their land.",
+      "publication_date": "2011-10-20T03:58:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/20/us/rush-to-drill-for-gas-creates-mortgage-conflicts.html",
+      "byline": "By Ian Urbina"
+    },
+    {
+      "headline": "Violent End to an Era as Qaddafi Dies in Libya",
+      "snippet": "Col. Muammar el-Qaddafi was killed Thursday as fighters battling the vestiges of his fallen regime took control of his hometown of Surt after a prolonged struggle, the interim government said.",
+      "abstract": "Col. Muammar el-Qaddafi was killed Thursday as fighters battling the vestiges of his fallen regime took control of his hometown of Surt after a prolonged struggle, the interim government said.",
+      "lead_paragraph": "MISURATA, Libya — Col. Muammar el-Qaddafi’s last moments Thursday were as violent as the uprising that overthrew him.",
+      "publication_date": "2011-10-20T11:16:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/21/world/africa/qaddafi-is-killed-as-libyan-forces-take-surt.html",
+      "byline": "By Kareem Fahim, Anthony Shadid and Rick Gladstone"
+    },
+    {
+      "headline": "U.S. Officials Deliver Warning in Pakistan Over Extremists",
+      "snippet": "Secretary of State Hillary Rodham Clinton said the United States would act unilaterally if necessary to attack extremist groups that use Pakistan as a haven to kill Americans.",
+      "abstract": "Secretary of State Hillary Rodham Clinton said the United States would act unilaterally if necessary to attack extremist groups that use Pakistan as a haven to kill Americans.",
+      "lead_paragraph": "ISLAMABAD, Pakistan — An unusually powerful American delegation arrived here on Thursday to deliver the starkest warning yet to Pakistan, according to a senior American official: that the United States would act unilaterally if necessary to attack extremist groups that use the country as a haven to kill Americans. ",
+      "publication_date": "2011-10-20T11:59:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/21/world/asia/clinton-issues-blunt-warning-to-pakistan.html",
+      "byline": "By Steven Lee Myers"
+    }
+  ]
+}

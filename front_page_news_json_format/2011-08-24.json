@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2011-08-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Above All Else, Eastern Quake Rattles Nerves",
+      "snippet": "A 5.8 earthquake sent tremors from the nation’s capital to New York City and New England, but with few reports of damage.",
+      "abstract": "A 5.8 earthquake sent tremors from the nation’s capital to New York City and New England, but with few reports of damage.",
+      "lead_paragraph": "Of all the things there are to worry about, earthquakes are fairly low on the list for those on the East Coast. So it was startling, just as the lunch hour was ending Tuesday and workers in a broad area of North America were settling back into their cubicles, when floors began to shake and chairs rocked.",
+      "publication_date": "2011-08-23T18:16:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/24/us/24quake.html",
+      "byline": "By Katharine Q. Seelye"
+    },
+    {
+      "headline": "Sell Big or Die Fast",
+      "snippet": "These days, large technology companies — particularly those in the hypercompetitive smartphone and tablet industries — are cutting their losses with increasing speed.",
+      "abstract": "These days, large technology companies — particularly those in the hypercompetitive smartphone and tablet industries — are cutting their losses with increasing speed.",
+      "lead_paragraph": "Seven weeks after it was put on sale, Hewlett-Packard killed its TouchPad tablet, the company’s competitor to Apple’s iPad.",
+      "publication_date": "2011-08-24T01:11:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/24/technology/technology-devices-either-sell-big-or-die-fast.html",
+      "byline": "By Jenna Wortham and Verne G. Kopytoff"
+    },
+    {
+      "headline": "License Access in New Mexico Is Heated Issue",
+      "snippet": "The state’s new governor, Susana Martinez, said New Mexico’s loose driver’s license law had led illegal immigrants to commit fraud.",
+      "abstract": "The state’s new governor, Susana Martinez, said New Mexico’s loose driver’s license law had led illegal immigrants to commit fraud.",
+      "lead_paragraph": "SANTA FE, N.M. — New Mexico is one of just two states, the other being Washington, that allow in-state residents who are illegal immigrants to get the same driver’s licenses given to citizens, as long as they pass a written test and successfully show they can turn and stop and park.",
+      "publication_date": "2011-08-24T01:21:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/24/us/24licenses.html",
+      "byline": "By Marc Lacey"
+    },
+    {
+      "headline": "Oil Reserves Sidestep U.S. Vessels",
+      "snippet": "In its hurry to transport millions of barrels of oil from federal stockpiles to stabilize world oil prices earlier this summer, the Obama administration has repeatedly bypassed federal law.",
+      "abstract": "In its hurry to transport millions of barrels of oil from federal stockpiles to stabilize world oil prices earlier this summer, the Obama administration has repeatedly bypassed federal law.",
+      "lead_paragraph": "WASHINGTON — In its hurry to transport millions of barrels of oil from federal stockpiles to stabilize world oil prices earlier this summer, the Obama administration has repeatedly bypassed federal law by allowing nearly all the oil to move on foreign-owned vessels, drawing protests from domestic maritime operators.",
+      "publication_date": "2011-08-24T01:35:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/24/business/oil-reserves-sidestep-us-vessels.html",
+      "byline": "By John M. Broder"
+    },
+    {
+      "headline": "Markets Will Look for Hints in Bernanke’s Words",
+      "snippet": "When Ben Bernanke, the Federal Reserve chairman, speaks at an annual gathering on Friday, markets will be searching for anything that indicates whether more stimulus is on the way.",
+      "abstract": "When Ben Bernanke, the Federal Reserve chairman, speaks at an annual gathering on Friday, markets will be searching for anything that indicates whether more stimulus is on the way.",
+      "lead_paragraph": "When the Federal Reserve chairman speaks at an annual gathering in Jackson Hole, Wyo., this Friday, markets will be searching for something, anything, that indicates whether more stimulus is on the way.",
+      "publication_date": "2011-08-24T01:56:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/24/business/markets-will-look-for-hints-in-bernankes-words.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "New Control Over Privacy on Facebook",
+      "snippet": "Seeking a happy medium between giving users too little or too much control over privacy, Facebook announced changes that it says will help users get a grip on what they share.",
+      "abstract": "Seeking a happy medium between giving users too little or too much control over privacy, Facebook announced changes that it says will help users get a grip on what they share.",
+      "lead_paragraph": "Privacy worries have bedeviled Facebook since its early days, from the introduction of the endless scroll of data known as the news feed to, most recently, the use of facial recognition technology to identify people in photographs. ",
+      "publication_date": "2011-08-24T02:24:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/24/technology/facebook-aims-to-simplify-its-privacy-settings.html",
+      "byline": "By Somini Sengupta"
+    }
+  ]
+}

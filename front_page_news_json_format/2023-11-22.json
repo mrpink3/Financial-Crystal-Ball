@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-11-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Binance Founder Pleads Guilty to Violating Money Laundering Rules",
+      "snippet": "Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.",
+      "abstract": "Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.",
+      "lead_paragraph": "Changpeng Zhao, the founder of Binance, the largest cryptocurrency exchange in the world, pleaded guilty to money laundering violations, the government said on Tuesday, a stunning blow to the most powerful and influential figure in the global crypto industry.",
+      "publication_date": "2023-11-21T18:28:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/21/technology/binance-changpeng-zhao-pleads-guilty.html",
+      "byline": "By David Yaffe-Bellany, Emily Flitter, Matthew Goldstein and Glenn Thrush"
+    },
+    {
+      "headline": "Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding",
+      "snippet": "Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.",
+      "abstract": "Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.",
+      "lead_paragraph": "Before Sam Altman was ousted from OpenAI last week, he and the company’s board of directors had been bickering for more than a year. The tension got worse as OpenAI became a mainstream name thanks to its popular ChatGPT chatbot.",
+      "publication_date": "2023-11-21T23:23:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html",
+      "byline": "By Cade Metz, Tripp Mickle and Mike Isaac"
+    },
+    {
+      "headline": "Israel and Hamas Agree to Cease-Fire in Exchange for Hostage Release",
+      "snippet": "The agreement calls for a pause in the fighting and for Hamas to free 50 of the captives it seized in its Oct. 7 raid on Israel. Hamas said Israel would release 150 Palestinians held in Israeli prisons.",
+      "abstract": "The agreement calls for a pause in the fighting and for Hamas to free 50 of the captives it seized in its Oct. 7 raid on Israel. Hamas said Israel would release 150 Palestinians held in Israeli prisons.",
+      "lead_paragraph": "After more than six weeks of war, the Israeli government and Hamas announced Wednesday morning that they would uphold a brief cease-fire in Gaza to allow for the release of 50 hostages Hamas captured during its assault last month on Israel.",
+      "publication_date": "2023-11-22T02:59:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/21/world/middleeast/israel-hamas-prisoners-deal.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "The Strange $55 Million Saga of a Netflix Series You’ll Never See",
+      "snippet": "After suitors flocked to a sci-fi project by Carl Rinsch, director of a single movie, the winner handed over money and control. They’re still fighting.",
+      "abstract": "After suitors flocked to a sci-fi project by Carl Rinsch, director of a single movie, the winner handed over money and control. They’re still fighting.",
+      "lead_paragraph": "Near the height of the streaming boom in the fall of 2018, a half-dozen studios and video platforms lined up to woo a little-known filmmaker named Carl Erik Rinsch. He had directed only one movie, “47 Ronin.” It was a commercial and critical dud, and Mr. Rinsch’s tussles with its producers had raised eyebrows, even in an industry where such conflicts are the norm.",
+      "publication_date": "2023-11-22T10:00:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html",
+      "byline": "By John Carreyrou"
+    },
+    {
+      "headline": "Why China and Boeing Still Need Each Other",
+      "snippet": "A thaw in relations between the U.S. and China may help the manufacturer sell more planes — and finally deliver aircraft ordered years ago.",
+      "abstract": "A thaw in relations between the U.S. and China may help the manufacturer sell more planes — and finally deliver aircraft ordered years ago.",
+      "lead_paragraph": "Boeing’s commercial aircraft sales to China have slowed to a trickle as U.S.-Chinese relations have soured. But there are new prospects for the company to regain traction.",
+      "publication_date": "2023-11-22T10:02:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/22/business/china-boeing.html",
+      "byline": "By Niraj Chokshi and Keith Bradsher"
+    },
+    {
+      "headline": "For Election Workers, Fentanyl-Laced Letters Signal a Challenging Year",
+      "snippet": "As overheated rhetoric and threats rise, people are leaving election jobs in record numbers.",
+      "abstract": "As overheated rhetoric and threats rise, people are leaving election jobs in record numbers.",
+      "lead_paragraph": "For the people who run elections at thousands of local offices nationwide, 2024 was never going to be an easy year. But the recent anonymous mailing of powder-filled envelopes to election offices in five states offers new hints of how hard it could be.",
+      "publication_date": "2023-11-22T10:02:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/22/us/fentanyl-letters-election-workers-threats.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "It’s the Most Wonderful Time of the Year (for the Economy)",
+      "snippet": "Three decades of monthly retail spending show how important the holiday season is to our economy.",
+      "abstract": "Three decades of monthly retail spending show how important the holiday season is to our economy.",
+      "lead_paragraph": "Three decades of monthly retail spending show how important the holiday season is to our economy.",
+      "publication_date": "2023-11-22T10:02:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/interactive/2023/11/22/business/economy/holiday-economy.html",
+      "byline": "By Ella Koeze"
+    },
+    {
+      "headline": "Retailers Need You to Buy That Diamond Ring. No, Seriously.",
+      "snippet": "American consumers are the biggest spenders in the world. For the companies that rely on them, the last few weeks of the year are crucial to making a solid bulk of their revenues and driving profit.",
+      "abstract": "American consumers are the biggest spenders in the world. For the companies that rely on them, the last few weeks of the year are crucial to making a solid bulk of their revenues and driving profit.",
+      "lead_paragraph": "American consumers are the biggest spenders in the world. For the companies that rely on them, the last few weeks of the year are crucial to making a solid bulk of their revenues and driving profit.",
+      "publication_date": "2023-11-22T10:03:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/interactive/2023/11/22/business/Holiday-Retail-Numbers.html",
+      "byline": "By Julie Creswell and Jordyn Holman"
+    },
+    {
+      "headline": "As Its Economy Sputters, Britain Cuts Taxes Ahead of Election",
+      "snippet": "The U.K.’s top financial official, Jeremy Hunt, outlined measures to spur business investment and push more people into jobs.",
+      "abstract": "The U.K.’s top financial official, Jeremy Hunt, outlined measures to spur business investment and push more people into jobs.",
+      "lead_paragraph": "With a general election at most 14 months away, the British government said on Wednesday that it will cut taxes for millions of workers starting early next year.",
+      "publication_date": "2023-11-22T14:13:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/22/business/uk-economy-autumn-statement-jeremy-hunt.html",
+      "byline": "By Eshe Nelson"
+    }
+  ]
+}

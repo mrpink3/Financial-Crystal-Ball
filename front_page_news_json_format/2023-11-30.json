@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2023-11-30",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "U.A.W. Announces Drive to Organize Nonunion Plants",
+      "snippet": "The United Automobile Workers’ effort, with a long-elusive goal, follows its success in securing big raises in contracts with the Detroit automakers.",
+      "abstract": "The United Automobile Workers’ effort, with a long-elusive goal, follows its success in securing big raises in contracts with the Detroit automakers.",
+      "lead_paragraph": "The United Automobile Workers union announced Wednesday that it was undertaking an ambitious drive to organize plants owned by more than a dozen nonunion automakers, including Tesla and several foreign companies — a goal that has long eluded it.",
+      "publication_date": "2023-11-29T20:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/29/business/uaw-union-organizing.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Gaza Mediators, Eye on Long Term, Press for Short Truce Extension",
+      "snippet": "Officials from Qatar, Egypt and the U.S. hope that a succession of pauses will pave the way toward a larger goal: bringing the war to a close.",
+      "abstract": "Officials from Qatar, Egypt and the U.S. hope that a succession of pauses will pave the way toward a larger goal: bringing the war to a close.",
+      "lead_paragraph": "Top officials from Qatar, Egypt and the United States pushed on Wednesday to lock in another temporary extension of the cease-fire in the Gaza Strip, seeing it as the best way to ease the embattled territory’s humanitarian crisis, secure the release of more Israeli hostages and slow the war’s escalating death toll for at least a little longer.",
+      "publication_date": "2023-11-29T22:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/29/world/middleeast/israel-hamas-hostages-gaza.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Henry Kissinger Is Dead at 100; Shaped the Nation’s Cold War History",
+      "snippet": "The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.",
+      "abstract": "The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.",
+      "lead_paragraph": "Henry A. Kissinger, the scholar-turned-diplomat who engineered the United States’ opening to China, negotiated its exit from Vietnam, and used cunning, ambition and intellect to remake American power relationships with the Soviet Union at the height of the Cold War, sometimes trampling on democratic values to do so, died on Wednesday at his home in Kent, Conn. He was 100.",
+      "publication_date": "2023-11-30T01:53:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html",
+      "byline": "By David E. Sanger"
+    }
+  ]
+}

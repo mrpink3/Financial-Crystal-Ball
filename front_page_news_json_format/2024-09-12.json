@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2024-09-12",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Live From San Francisco: Mark Zuckerberg Tapes a Podcast With 6,000 Friends",
+      "snippet": "Mr. Zuckerberg talked to a packed house Tuesday night for the “Acquired” podcast. It’s a sign of how tech titans reach the public now.",
+      "abstract": "Mr. Zuckerberg talked to a packed house Tuesday night for the “Acquired” podcast. It’s a sign of how tech titans reach the public now.",
+      "lead_paragraph": "More than 6,000 techies streamed on Tuesday evening into San Francisco’s Chase Center, a cavernous event space that is home to the Golden State Warriors and hosts pop stars like Olivia Rodrigo. Engineers, venture capitalists and other Silicon Valley digerati chatted as they found their seats, with Modelos and slices of pizza in hand. The anticipation was high.",
+      "publication_date": "2024-09-11T16:07:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/11/technology/mark-zuckerberg-podcast-acquired.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Alberto Fujimori, 86, Leader of Peru Imprisoned for Rights Abuses, Dies",
+      "snippet": "During his decade in power, he revived the economy and crushed two violent leftist insurgencies. But he was forced out in a corruption scandal and later imprisoned for human rights abuses.",
+      "abstract": "During his decade in power, he revived the economy and crushed two violent leftist insurgencies. But he was forced out in a corruption scandal and later imprisoned for human rights abuses.",
+      "lead_paragraph": "Alberto Fujimori, the former president of Peru who in his decade in office rebuilt the nation’s economy and quelled two deadly leftist insurgencies, but who was forced out by a corruption scandal and later imprisoned for human rights abuses, died on Wednesday in Lima, the capital. He was 86.",
+      "publication_date": "2024-09-11T23:59:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/11/world/americas/alberto-fujimori-dead.html",
+      "byline": "By Sewell Chan"
+    },
+    {
+      "headline": "Young Chinese Émigrés Confront America’s Brutal Visa Lottery",
+      "snippet": "For Chinese seeking educational opportunity, the United States has long been the top spot, but as more want to stay to work, their paths are full of roadblocks.",
+      "abstract": "For Chinese seeking educational opportunity, the United States has long been the top spot, but as more want to stay to work, their paths are full of roadblocks.",
+      "lead_paragraph": "For the past three years, luck failed David Zheng in the lottery for the American work visa known as the H-1B. He was in good company: Hundreds of thousands of immigrants apply for a limited number of H-1B visas every year, and a vast majority fail to make the cut.",
+      "publication_date": "2024-09-12T04:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Layoffs Are Few. So Why Are Jobs Harder to Find?",
+      "snippet": "Past economic cycles show that unemployment starts to tick up ahead of a recession, with wide-scale layoffs coming only later.",
+      "abstract": "Past economic cycles show that unemployment starts to tick up ahead of a recession, with wide-scale layoffs coming only later.",
+      "lead_paragraph": "As job growth has slowed and unemployment has crept up, some economists have pointed to a sign of confidence among employers: They are, for the most part, holding on to their existing workers.",
+      "publication_date": "2024-09-12T09:04:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/12/business/economy/layoffs-jobs-economy.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Broken Blades, Angry Fishermen and Rising Costs Slow Offshore Wind",
+      "snippet": "Accidents involving blades made by GE Vernova have delayed projects off the coasts of Massachusetts and England and could imperil climate goals.",
+      "abstract": "Accidents involving blades made by GE Vernova have delayed projects off the coasts of Massachusetts and England and could imperil climate goals.",
+      "lead_paragraph": "The collapse of a giant wind turbine blade off the Massachusetts coast confirmed Peter Kaizer’s worst fears about the dangers a new clean energy business could pose to fishermen like him.",
+      "publication_date": "2024-09-12T09:05:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/12/business/energy-environment/offshore-wind-blade-vineyard-wind.html",
+      "byline": "By Stanley Reed and Ivan Penn"
+    }
+  ]
+}

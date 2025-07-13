@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-12-22",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Pope’s Shift on Gay Couples Followed Quiet Talks and Loud Resistance",
+      "snippet": "Pope Francis spoke with L.G.B.T.Q. Catholics and their supporters for years before letting priests bless same-sex couples. But the move’s timing also owed something to its conservative opponents.",
+      "abstract": "Pope Francis spoke with L.G.B.T.Q. Catholics and their supporters for years before letting priests bless same-sex couples. But the move’s timing also owed something to its conservative opponents.",
+      "lead_paragraph": "In March 2021, as stunned L.G.B.T.Q. Catholics grappled with a Vatican document approved by Pope Francis that ruled against blessing same-sex unions, one of his confidants, who is gay, says they spoke on the phone.",
+      "publication_date": "2023-12-21T16:03:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/21/world/europe/pope-francis-lgbtq-blessings.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Why Is Shari Redstone, Ruler of a Vast Media Kingdom, Weighing a Sale?",
+      "snippet": "She fought to keep control of her family’s media empire. Now she’s considering an exit as financial pressures mount.",
+      "abstract": "She fought to keep control of her family’s media empire. Now she’s considering an exit as financial pressures mount.",
+      "lead_paragraph": "Paramount Pictures, the storied studio behind hits like “The Godfather” and “Raiders of the Lost Ark,” has had several owners over the last century: Its co-founder Adolph Zukor. The industrial conglomerate Gulf+Western. At one point, it was a stand-alone public company.",
+      "publication_date": "2023-12-21T20:54:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/21/business/media/shari-redstone-paramount-sale.html",
+      "byline": "By Benjamin Mullin"
+    },
+    {
+      "headline": "U.S. Says It’s Ready to Back U.N. Resolution to Allow More Aid Into Gaza",
+      "snippet": "The timing for a vote on the Security Council resolution was unclear. Diplomats were focused on who would oversee the inspection of aid entering the enclave.",
+      "abstract": "The timing for a vote on the Security Council resolution was unclear. Diplomats were focused on who would oversee the inspection of aid entering the enclave.",
+      "lead_paragraph": "After nearly a week of intense negotiations, the United States said on Thursday night that it was ready to support a United Nations Security Council resolution that would call for more desperately needed aid to enter the Gaza Strip. A vote was not expected until Friday at the earliest.",
+      "publication_date": "2023-12-21T22:07:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/21/world/middleeast/israel-gaza-un-resolution.html",
+      "byline": "By Farnaz Fassihi and Michael Levenson"
+    },
+    {
+      "headline": "Hunter Biden Text Cited in Impeachment Inquiry Is Not What G.O.P. Suggests",
+      "snippet": "A 2019 message from the president’s son alluded to giving his father half his salary. The back story offers unflattering insights into the Biden family but does not support assertions of corruption.",
+      "abstract": "A 2019 message from the president’s son alluded to giving his father half his salary. The back story offers unflattering insights into the Biden family but does not support assertions of corruption.",
+      "lead_paragraph": "In January 2019, Hunter Biden sent a text message to his daughter Naomi.",
+      "publication_date": "2023-12-22T10:02:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/22/us/politics/hunter-biden-texts-impeachment-republicans.html",
+      "byline": "By Adam Entous"
+    },
+    {
+      "headline": "No Oversight: Inside a Boom-Time Start-Up Fraud and Its Unraveling",
+      "snippet": "False claims and risky trades at the Silicon Valley start-up HeadSpin were part of a pattern of trouble emerging at young companies that lacked controls.",
+      "abstract": "False claims and risky trades at the Silicon Valley start-up HeadSpin were part of a pattern of trouble emerging at young companies that lacked controls.",
+      "lead_paragraph": "After Manish Lachwani founded the Silicon Valley software start-up HeadSpin in 2015, he inflated the company’s revenue numbers by nearly fourfold and falsely claimed that firms including Apple and American Express were customers. He showed a profit where there were losses. He used HeadSpin’s cash to make risky trades on tech stocks. And he created fake invoices to cover it all up.",
+      "publication_date": "2023-12-22T10:02:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/22/technology/headspin-silicon-valley-startups.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Apple’s Newest Headache: An App That Upended Its Control Over Messaging",
+      "snippet": "Beeper Mini, which offers iPhone messaging on Android phones, has grown fast and its duel with the tech giant has gotten the attention of antitrust regulators.",
+      "abstract": "Beeper Mini, which offers iPhone messaging on Android phones, has grown fast and its duel with the tech giant has gotten the attention of antitrust regulators.",
+      "lead_paragraph": "For years, Ben Black’s phone annoyed his family. It was the only Android device in a family message group with eight iPhones. Because of him, videos and photos would arrive in low resolution and there would be green bubbles of text amid bubbles of blue.",
+      "publication_date": "2023-12-22T10:03:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/22/technology/apple-iphone-beeper-mini.html",
+      "byline": "By Tripp Mickle and Mike Isaac"
+    }
+  ]
+}

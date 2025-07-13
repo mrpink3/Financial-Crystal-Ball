@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-06-18",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Racist Comments Cost Conservative Parkland Student a Place at Harvard",
+      "snippet": "The student, Kyle Kashuv, a recent graduate of Marjory Stoneman Douglas High School, had repeatedly used racial slurs in a written chat with classmates when he was 16.",
+      "abstract": "The student, Kyle Kashuv, a recent graduate of Marjory Stoneman Douglas High School, had repeatedly used racial slurs in a written chat with classmates when he was 16.",
+      "lead_paragraph": "MIAMI — Of the many student activists who emerged from the tragic shooting last year at Marjory Stoneman Douglas High School in Parkland, Fla., Kyle Kashuv stood out as a conservative defender of the Second Amendment, surrounded by classmates who were mobilizing for sweeping new controls on guns.",
+      "publication_date": "2019-06-17T16:17:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/17/us/parkland-kyle-kashuv-harvard.html",
+      "byline": "By Patricia Mazzei"
+    },
+    {
+      "headline": "Trump Careens Toward a Confrontation With Iran",
+      "snippet": "President Trump promised that North Korea and Iran could be convinced to give up their nuclear weapons programs. He is learning it’s not that easy.",
+      "abstract": "President Trump promised that North Korea and Iran could be convinced to give up their nuclear weapons programs. He is learning it’s not that easy.",
+      "lead_paragraph": "WASHINGTON — After coming to office vowing to solve two very different nuclear crises, President Trump finds himself in a bind familiar to his predecessors: careening toward a confrontation with Iran and stalemated with North Korea.",
+      "publication_date": "2019-06-17T19:43:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/17/us/politics/trump-iran-nuclear-deal.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "UNC Children’s Hospital Suspends Most Complex Heart Surgeries",
+      "snippet": "The death rate among patients with the most serious heart conditions reached nearly 50 percent, newly released data show. State and federal regulators are investigating.",
+      "abstract": "The death rate among patients with the most serious heart conditions reached nearly 50 percent, newly released data show. State and federal regulators are investigating.",
+      "lead_paragraph": "North Carolina Children’s Hospital announced it would suspend heart surgeries for the most complex cases, some of which had a mortality rate approaching 50 percent in recent years, pending investigations by state and federal regulators and a group of outside experts.",
+      "publication_date": "2019-06-17T22:07:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/17/us/heart-surgery-children-unc.html",
+      "byline": "By Ellen Gabler"
+    },
+    {
+      "headline": "Businesses Plead to Stop More China Tariffs. They Expect to Be Ignored.",
+      "snippet": "Companies say more tariffs would hurt businesses and consumers, but many have become resigned to the idea that president will do what he wants.",
+      "abstract": "Companies say more tariffs would hurt businesses and consumers, but many have become resigned to the idea that president will do what he wants.",
+      "lead_paragraph": "WASHINGTON — Nervous business owners are spending seven days trying to persuade the Trump administration not to impose tariffs on an additional $300 billion worth of Chinese goods. Most are bracing for disappointment.",
+      "publication_date": "2019-06-17T23:41:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/17/business/businesses-china-tariffs.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Facebook Plans Global Financial System Based on Cryptocurrency",
+      "snippet": "Despite skepticism and concern about Facebook’s reach, the company envisions an alternative financial system based on a new cryptocurrency called Libra.",
+      "abstract": "Despite skepticism and concern about Facebook’s reach, the company envisions an alternative financial system based on a new cryptocurrency called Libra.",
+      "lead_paragraph": "SAN FRANCISCO — Facebook unveiled an ambitious plan on Tuesday to create an alternative financial system that relies on a cryptocurrency that the company has been secretly working on for more than a year.",
+      "publication_date": "2019-06-18T09:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/18/technology/facebook-cryptocurrency-libra.html",
+      "byline": "By Mike Isaac and Nathaniel Popper"
+    },
+    {
+      "headline": "Trump Accuses Europe of Bolstering Its Economy at America’s Expense",
+      "snippet": "President Trump is increasingly viewing international economic policy through a narrow lens, seeing only how other countries decisions affect the United States.",
+      "abstract": "President Trump is increasingly viewing international economic policy through a narrow lens, seeing only how other countries decisions affect the United States.",
+      "lead_paragraph": "WASHINGTON — To President Trump, economics has always been a zero-sum game: If another country is winning, the United States must be losing.",
+      "publication_date": "2019-06-18T12:04:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/18/business/ecb-mario-draghi-stimulus.html",
+      "byline": "By Jeanna Smialek and Jack Ewing"
+    },
+    {
+      "headline": "Global Economic Growth Is Already Slowing. The U.S. Trade War Is Making It Worse.",
+      "snippet": "President Trump’s trade war is stirring uncertainty, weighing on manufacturing and disrupting increasingly delicate global economic growth.",
+      "abstract": "President Trump’s trade war is stirring uncertainty, weighing on manufacturing and disrupting increasingly delicate global economic growth.",
+      "lead_paragraph": "WASHINGTON — President Trump’s trade war is chilling business investment, confidence and trade flows across the world, a development that foreign leaders and business executives say is worsening a global economic slowdown that was already underway.",
+      "publication_date": "2019-06-18T15:59:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/18/business/economy/global-economy-trade-war.html",
+      "byline": "By Jeanna Smialek, Jim Tankersley and Jack Ewing"
+    }
+  ]
+}

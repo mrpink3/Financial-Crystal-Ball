@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2007-06-29",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Salvaging a Prudent Name",
+      "snippet": "James E. Cayne, Bear Stearns’ chief, has seen the firm’s carefully honed reputation suffer from the near collapse of two hedge funds.",
+      "abstract": "James E. Cayne, Bear Stearns’ chief, has seen the firm’s carefully honed reputation suffer from the near collapse of two hedge funds.",
+      "lead_paragraph": "James E. Cayne has a bellyache. ",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/29/business/29bear.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Bondholders Scream Foul as Tyco Splits",
+      "snippet": "What happens if a company decides to run roughshod over the contract? Will the courts protect the bondholders?",
+      "abstract": "What happens if a company decides to run roughshod over the contract? Will the courts protect the bondholders?",
+      "lead_paragraph": "Bondholders can be the forgotten investors in corporate America. Nobody ever promises to “maximize bondholder value.” Nor should they. Bond investors do not own the company, as shareholders do. They merely have a contractual relationship with it.",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/29/business/29norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Chiefs Defend Slow Network for the iPhone",
+      "snippet": "Apple and AT&T defended a decision not to use a faster but more limited network for the phone’s wireless Internet connection.",
+      "abstract": "Apple and AT&T defended a decision not to use a faster but more limited network for the phone’s wireless Internet connection.",
+      "lead_paragraph": "SAN FRANCISCO, June 28 — On the eve of the Apple iPhone’s sale, the top executives of Apple and AT&T defended their decision to rely upon AT&T’s slow Edge wireless data network, rather than a faster network that is less widely available.",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/29/technology/29phone.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Fed Leaves a Key Rate Unchanged",
+      "snippet": "The central bank left its benchmark interest rate unchanged at 5.25 percent and signaled that it would keep it at that level for some time.",
+      "abstract": "The central bank left its benchmark interest rate unchanged at 5.25 percent and signaled that it would keep it at that level for some time.",
+      "lead_paragraph": "WASHINGTON, June 28 — The Federal Reserve, saying that inflation remains its “predominant policy concern,” left its benchmark interest rate unchanged at 5.25 percent on Thursday and signaled that it would keep it at that level for some time. ",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/29/business/29fed.html",
+      "byline": "By Edmund L. Andrews"
+    },
+    {
+      "headline": "Mrs. McCain, Demure in 2000, Is Speaking Up in a Steely Tone",
+      "snippet": "On the campaign trail in 2000, Cindy McCain was mostly a cheerful sidekick to her husband. Not anymore.",
+      "abstract": "On the campaign trail in 2000, Cindy McCain was mostly a cheerful sidekick to her husband. Not anymore.",
+      "lead_paragraph": "PHOENIX, June 26 — Cindy McCain on the presidential campaign trail in 2000 was mostly a cheerful sidekick to her husband, keeping her positions on national policy to herself.",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/29/us/politics/29cindy.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "F.D.A. Curbs Sale of 5 Seafoods Farmed in China",
+      "snippet": "The seafood can be sold in the United States only if importers prove it does not contain contaminants.",
+      "abstract": "The seafood can be sold in the United States only if importers prove it does not contain contaminants.",
+      "lead_paragraph": "In the latest move against Chinese imports, the Food and Drug Administration yesterday effectively blocked the sale of five types of farm-raised seafood from China because of repeated instances of contamination from unapproved animal drugs and food additives.",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/29/business/worldbusiness/29fish.html",
+      "byline": "By Andrew Martin"
+    },
+    {
+      "headline": "Century-Old Ban Lifted on Minimum Retail Pricing",
+      "snippet": "The Supreme Court’s decision will give producers significantly more, though not unlimited, power to dictate retail prices and to restrict discounter sellers.",
+      "abstract": "The Supreme Court’s decision will give producers significantly more, though not unlimited, power to dictate retail prices and to restrict discounter sellers.",
+      "lead_paragraph": "WASHINGTON, June 28 — Striking down an antitrust rule nearly a century old, the Supreme Court ruled on Thursday that it was not automatically unlawful for manufacturers and distributors to agree on minimum retail prices.",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "Washington",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/06/29/washington/29bizcourt.html",
+      "byline": "By Stephen Labaton"
+    },
+    {
+      "headline": "Scottish Panel Challenges Lockerbie Conviction",
+      "snippet": "A judicial review body ruled that a former Libyan intelligence official might have been wrongfully convicted for the 1988 Lockerbie bombing.",
+      "abstract": "A judicial review body ruled that a former Libyan intelligence official might have been wrongfully convicted for the 1988 Lockerbie bombing.",
+      "lead_paragraph": "LONDON, June 28 — A Scottish judicial review body ruled Thursday that a former Libyan intelligence official jailed for the 1988 Lockerbie bombing might have been wrongfully convicted and was entitled to appeal the verdict against him.",
+      "publication_date": "2007-06-29T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/06/29/world/europe/29lockerbie.html",
+      "byline": "By Alan Cowell"
+    }
+  ]
+}

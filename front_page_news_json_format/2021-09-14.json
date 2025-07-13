@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2021-09-14",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "A Million Afghan Children Could Die in ‘Most Perilous Hour,’ U.N. Warns",
+      "snippet": "The international community pledged more than $1 billion in emergency aid as millions of Afghans risk running out of food just as winter sets in.",
+      "abstract": "The international community pledged more than $1 billion in emergency aid as millions of Afghans risk running out of food just as winter sets in.",
+      "lead_paragraph": "Millions of Afghans could run out of food before the arrival of winter and one million children are at risk of starvation and death if their immediate needs are not met, top United Nations officials warned on Monday, putting the country’s plight into stark relief.",
+      "publication_date": "2021-09-13T16:19:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/13/world/asia/afghanistan-united-nations-crisis.html",
+      "byline": "By Marc Santora, Nick Cumming-Bruce and Christina Goldbaum"
+    },
+    {
+      "headline": "Phony Walmart News Release Signals a Crypto Pump-and-Dump Scheme",
+      "snippet": "Digital currencies briefly jumped in value after a fake release said the retailer would start accepting the little-used Litecoin.",
+      "abstract": "Digital currencies briefly jumped in value after a fake release said the retailer would start accepting the little-used Litecoin.",
+      "lead_paragraph": "The news release went out at 9:30 a.m. Monday, just as the U.S. stock market opened. It claimed to be from Walmart and had some big news for the cryptocurrency industry: The nation’s largest retailer would soon begin accepting payment in Litecoin, a digital currency.",
+      "publication_date": "2021-09-13T16:40:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/13/business/litecoin-walmart-crypto-hoax.html",
+      "byline": "By Matthew Goldstein, Ephrat Livni and Michael Corkery"
+    },
+    {
+      "headline": "Apple Issues Emergency Security Updates to Close a Spyware Flaw",
+      "snippet": "Researchers at Citizen Lab found that NSO Group, an Israeli spyware company, had infected Apple products without so much as a click.",
+      "abstract": "Researchers at Citizen Lab found that NSO Group, an Israeli spyware company, had infected Apple products without so much as a click.",
+      "lead_paragraph": "Apple issued emergency software updates for a critical vulnerability in its products on Monday after security researchers uncovered a flaw that allows highly invasive spyware from Israel’s NSO Group to infect anyone’s iPhone, iPad, Apple Watch or Mac computer without so much as a click.",
+      "publication_date": "2021-09-13T19:14:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/13/technology/apple-software-update-spyware-nso-group.html",
+      "byline": "By Nicole Perlroth"
+    },
+    {
+      "headline": "House Democrats’ Plan to Tax the Rich Leaves Vast Fortunes Unscathed",
+      "snippet": "The House Ways and Means Committee’s proposal to pay for trillions in social spending leaves wealth gains and inheritances largely alone. It focuses instead on a more traditional target: income.",
+      "abstract": "The House Ways and Means Committee’s proposal to pay for trillions in social spending leaves wealth gains and inheritances largely alone. It focuses instead on a more traditional target: income.",
+      "lead_paragraph": "WASHINGTON — House Democrats on Monday presented a plan to pay for their expansive social policy and climate change package by raising taxes by more than $2 trillion, largely on wealthy individuals and profitable corporations.",
+      "publication_date": "2021-09-13T23:18:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/13/us/politics/tax-plan-democrats.html",
+      "byline": "By Jonathan Weisman and Jim Tankersley"
+    },
+    {
+      "headline": "As India’s Lethal Covid Wave Neared, Politics Overrode Science",
+      "snippet": "The country’s top science agency tailored its findings to fit Prime Minister Narendra Modi’s optimistic narrative despite a looming crisis, researchers say.",
+      "abstract": "The country’s top science agency tailored its findings to fit Prime Minister Narendra Modi’s optimistic narrative despite a looming crisis, researchers say.",
+      "lead_paragraph": "NEW DELHI — The forecast was mathematically based, government-approved and deeply, tragically wrong.",
+      "publication_date": "2021-09-14T07:00:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/14/world/asia/india-modi-science-icmr.html",
+      "byline": "By Karan Deep Singh"
+    },
+    {
+      "headline": "Prices climbed more slowly in August, welcome news for the Fed.",
+      "snippet": "The Consumer Price Index climbed 5.3 percent from August 2020, which is still faster than normal. But monthly gains are slowing, and that’s a good sign for economic policymakers.",
+      "abstract": "The Consumer Price Index climbed 5.3 percent from August 2020, which is still faster than normal. But monthly gains are slowing, and that’s a good sign for economic policymakers.",
+      "lead_paragraph": "A recent run-up in consumer prices cooled slightly in August, signaling that although inflation is higher than normal, the White House and Federal Reserve may be beginning to see the slowdown in price gains they have been hoping for.",
+      "publication_date": "2021-09-14T08:59:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/14/business/consumer-price-index-august-2021.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Hostels, Havens for the Thrifty, Fight to Survive the Pandemic",
+      "snippet": "This summer, prompted by vaccine rollouts, budget travelers began wading back into hostel life. But the challenges are far from over.",
+      "abstract": "This summer, prompted by vaccine rollouts, budget travelers began wading back into hostel life. But the challenges are far from over.",
+      "lead_paragraph": "Benedita Vasconcellos, the owner of Goodmorning Solo Traveller Hostel in Lisbon, was on the verge of selling her beloved business last June. The hostel kept her young and connected to travelers, she said, but the pandemic shuttered the 10-year-old business for months, leaving Ms. Vasconcellos feeling like an injured athlete worried about getting back into the game. ",
+      "publication_date": "2021-09-14T09:00:25+0000",
+      "section_name": "Travel",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/14/travel/hostels-pandemic.html",
+      "byline": "By Alexandra E. Petri"
+    },
+    {
+      "headline": "A Year After Unrest, a Scarred Kenosha Still Waits to Rebuild",
+      "snippet": "“It shook the foundation,” a City Council member said of the protests that followed the shooting of Jacob Blake last summer.",
+      "abstract": "“It shook the foundation,” a City Council member said of the protests that followed the shooting of Jacob Blake last summer.",
+      "lead_paragraph": "KENOSHA, Wis. — Last August in Kenosha, on the second night of protests after the police shooting of Jacob Blake, Sheriff David G. Beth had his eyes trained on the city’s downtown.",
+      "publication_date": "2021-09-14T09:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/14/us/kenosha-wisconsin-jacob-blake.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "Democrats propose a compromise bill on voting rights.",
+      "snippet": "The stripped-down measure is intended to demonstrate party unity in the face of Republican opposition to new federal voting standards.",
+      "abstract": "The stripped-down measure is intended to demonstrate party unity in the face of Republican opposition to new federal voting standards.",
+      "lead_paragraph": "Senate Democrats united on Tuesday around a pared-down voting rights bill, escalating their efforts to build a case for aggressive action by Congress to push past Republican opposition and counter a rash of new G.O.P.-written ballot restrictions in states around the country.",
+      "publication_date": "2021-09-14T12:06:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/14/us/politics/voting-rights-bill-democrats.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Cold, Frightened and Armed: In Myanmar’s Jungles, a Struggling Resistance",
+      "snippet": "The army has escalated attacks on militias that oppose its rule, driving thousands of people into the hills. A shadow government has called for a nationwide uprising.",
+      "abstract": "The army has escalated attacks on militias that oppose its rule, driving thousands of people into the hills. A shadow government has called for a nationwide uprising.",
+      "lead_paragraph": "The Myanmar soldiers attacked the village of Yay Shin, deep in the furrows of the Himalayan foothills, just after dusk, descending with flamethrowers and heavy weaponry.",
+      "publication_date": "2021-09-14T13:56:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/14/world/asia/myanmar-peoples-defense-force.html",
+      "byline": "By Hannah Beech"
+    },
+    {
+      "headline": "U.S. Poverty Fell Last Year as Government Aid Made Up for Lost Jobs",
+      "snippet": "When government benefits are taken into account, a smaller share of the population was living in poverty in 2020 even as the pandemic eliminated millions of jobs.",
+      "abstract": "When government benefits are taken into account, a smaller share of the population was living in poverty in 2020 even as the pandemic eliminated millions of jobs.",
+      "lead_paragraph": "The share of people living in poverty in the United States fell to a record low last year as an enormous government relief effort helped offset the worst economic contraction since the Great Depression.",
+      "publication_date": "2021-09-14T14:40:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/14/business/economy/census-income-poverty-health-insurance.html",
+      "byline": "By Ben Casselman and Jeanna Smialek"
+    }
+  ]
+}

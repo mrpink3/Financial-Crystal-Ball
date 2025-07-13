@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-03-16",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "AstraZeneca Concerns Throw Europe’s Vaccine Rollout Into Deeper Disarray",
+      "snippet": "Germany, France, Italy and Spain became the latest countries to suspend use of the vaccine even as a third wave of the pandemic threatens the continent.",
+      "abstract": "Germany, France, Italy and Spain became the latest countries to suspend use of the vaccine even as a third wave of the pandemic threatens the continent.",
+      "lead_paragraph": "ROME — As a third wave of the pandemic crashes over Europe, questions about the safety of one of the continent’s most commonly available vaccines led Germany, France, Italy and Spain to temporarily halt its use on Monday. The suspensions created further chaos in inoculation rollouts even as new coronavirus variants continue to spread.",
+      "publication_date": "2021-03-15T22:53:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/15/world/europe/astra-zeneca-vaccine-europe.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "As Biden Confronts Vaccine Hesitancy, Republicans Are a Particular Challenge",
+      "snippet": "The administration is seeking help in urging Republicans to get inoculated. But the president said he was not sure how much value there was in enlisting his predecessor.",
+      "abstract": "The administration is seeking help in urging Republicans to get inoculated. But the president said he was not sure how much value there was in enlisting his predecessor.",
+      "lead_paragraph": "WASHINGTON — As President Biden pushes to vaccinate as many Americans as possible, he faces deep skepticism among many Republicans, a group especially challenging for him to persuade.",
+      "publication_date": "2021-03-15T23:29:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/15/us/politics/joe-biden-vaccine-republicans.html",
+      "byline": "By Annie Karni and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "Democrats, Pushing Stimulus, Admit to Regrets on Obama’s 2009 Response",
+      "snippet": "In pitching President Biden’s relief package, Democrats have said their 2009 stimulus efforts under Barack Obama were insufficient. Those close to Mr. Obama have noticed.",
+      "abstract": "In pitching President Biden’s relief package, Democrats have said their 2009 stimulus efforts under Barack Obama were insufficient. Those close to Mr. Obama have noticed.",
+      "lead_paragraph": "As Democrats pushed this month to pass the $1.9 trillion coronavirus relief package, they were eager to rebuke Republicans for opposing en masse a measure filled with aid to struggling Americans. But they had another target as well: the core policy of President Barack Obama’s first-term agenda.",
+      "publication_date": "2021-03-16T07:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/16/us/politics/obama-stimulus-democrats.html",
+      "byline": "By Astead W. Herndon"
+    },
+    {
+      "headline": "Beer Here, Bouquets Next Door: How a Bar Defied the Pandemic",
+      "snippet": "The Times followed the Hatch and its staff in Oakland after the pandemic began. The business not only survived, it’s expanding.",
+      "abstract": "The Times followed the Hatch and its staff in Oakland after the pandemic began. The business not only survived, it’s expanding.",
+      "lead_paragraph": "OAKLAND, Calif. — One year ago at the Hatch, a narrow neighborhood bar in downtown Oakland, dozens of unmasked people crowded inside to say goodbye for a while. California’s governor had just ordered the nation’s first effective coronavirus lockdown, and the bar’s staff and regulars thought they wouldn’t be back for weeks, maybe even months.",
+      "publication_date": "2021-03-16T09:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/16/technology/hatch-oakland-bar-pandemic.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "The Financial Crisis the World Forgot",
+      "snippet": "The Federal Reserve crossed red lines to rescue markets in March 2020. Is there enough momentum to fix the weaknesses the episode exposed?",
+      "abstract": "The Federal Reserve crossed red lines to rescue markets in March 2020. Is there enough momentum to fix the weaknesses the episode exposed?",
+      "lead_paragraph": "By the middle of March 2020 a sense of anxiety pervaded the Federal Reserve. The fast-unfolding coronavirus pandemic was rippling through global markets in dangerous ways.",
+      "publication_date": "2021-03-16T09:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/16/business/economy/fed-2020-financial-crisis-covid.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "How Amazon Crushes Unions",
+      "snippet": "In a secret settlement in Virginia, Amazon swore off threatening and intimidating workers. As the company confronts increased labor unrest, its tactics are under scrutiny.",
+      "abstract": "In a secret settlement in Virginia, Amazon swore off threatening and intimidating workers. As the company confronts increased labor unrest, its tactics are under scrutiny.",
+      "lead_paragraph": "RICHMOND, Va. — Five years ago, Amazon was compelled to post a “notice to employees” on the break-room walls of a warehouse in east-central Virginia.",
+      "publication_date": "2021-03-16T09:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "In Between Stimulus Payments, Retail Sales Decline",
+      "snippet": "A 3 percent drop in February followed a rise the month before, putting a spotlight on how stimulus money is affecting consumer spending as the economy recovers.",
+      "abstract": "A 3 percent drop in February followed a rise the month before, putting a spotlight on how stimulus money is affecting consumer spending as the economy recovers.",
+      "lead_paragraph": "Retail sales slid in February after a jump the month before, the Commerce Department said on Tuesday, putting a spotlight on the effect of stimulus money on consumer spending, which is likely to move in fits and starts as the economy recovers.",
+      "publication_date": "2021-03-16T12:45:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/16/business/retail-sales-february.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Inter Milan, a Storied Italian Soccer Club, Is Threatened by Shifting Prospects in China",
+      "snippet": "Inter Milan’s Chinese owners spent heavily on big stars, and now it is winning again. But the bill is coming due, putting the team’s future in doubt.",
+      "abstract": "Inter Milan’s Chinese owners spent heavily on big stars, and now it is winning again. But the bill is coming due, putting the team’s future in doubt.",
+      "lead_paragraph": "HONG KONG — The new, high-rolling Chinese owner was supposed to return Inter Milan to its glory days. It spent heavily on prolific scorers like Romelu Lukaku and Christian Eriksen. After five years of investment, the storied Milan soccer club is within striking distance of its first Italian league title in a decade.",
+      "publication_date": "2021-03-16T15:31:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/16/business/china-football-inter-milan-suning.html",
+      "byline": "By Alexandra Stevenson and Tariq Panja"
+    }
+  ]
+}

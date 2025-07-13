@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2009-09-15",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "For Obama, a Chance to Reform the Street Is Fading",
+      "snippet": "With industry and political pressure jeopardizing his reform plan, the president spoke on Wall Street about how the financial system should be changed.",
+      "abstract": "With industry and political pressure jeopardizing his reform plan, the president spoke on Wall Street about how the financial system should be changed.",
+      "lead_paragraph": " President Obama on Monday sternly admonished the financial industry and lawmakers to accept his proposals to reshape financial regulation to protect the nation from a repeat of the excesses that drove Lehman Brothers into bankruptcy and wreaked havoc on the global economy last year. ",
+      "publication_date": "2009-09-14T16:12:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/09/15/business/15obama.html",
+      "byline": "By Stephen Labaton and Jeff Zeleny"
+    },
+    {
+      "headline": "Judge Rejects Settlement Over Merrill Bonuses",
+      "snippet": "A judge said a $33 million settlement over Merrill Lynch bonuses “does not comport with the most elementary notions of justice and morality.”",
+      "abstract": "A judge said a $33 million settlement over Merrill Lynch bonuses “does not comport with the most elementary notions of justice and morality.”",
+      "lead_paragraph": "As President Obama traveled to Wall Street on Monday and chided bankers for their recklessness, across town a federal judge issued a far sharper rebuke, not just for some of the financiers but for their regulators in Washington as well. ",
+      "publication_date": "2009-09-14T16:20:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/09/15/business/15bank.html",
+      "byline": "By Zachery Kouwe"
+    },
+    {
+      "headline": "U.S. Kills Top Qaeda Militant in Southern Somalia",
+      "snippet": "Western intelligence agents described Saleh Ali Saleh Nabhan as the ringleader of a cell responsible for the 2002 bombing of an Israeli hotel on the Kenyan coast.",
+      "abstract": "Western intelligence agents described Saleh Ali Saleh Nabhan as the ringleader of a cell responsible for the 2002 bombing of an Israeli hotel on the Kenyan coast.",
+      "lead_paragraph": "NAIROBI, Kenya  American commandos killed one of the most wanted Islamic militants in Africa in a daylight raid in southern Somalia on Monday, according to American and Somali officials, an indication of the Obama administration’s willingness to use combat troops strategically against Al Qaeda’s growing influence in the region.",
+      "publication_date": "2009-09-14T21:56:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/09/15/world/africa/15raid.html",
+      "byline": "By Jeffrey Gettleman and Eric Schmitt"
+    },
+    {
+      "headline": "Google Releases News-Reading Service",
+      "snippet": "Google is making an attempt to be seen as a friend to the news industry with a new service it hopes will make it easier for readers to view articles.",
+      "abstract": "Google is making an attempt to be seen as a friend to the news industry with a new service it hopes will make it easier for readers to view articles.",
+      "lead_paragraph": "SAN FRANCISCO  Google, long seen as an enemy by many in the news industry, is making a bold attempt to be seen as a friend with a new service it hopes will make it easier for readers to read newspaper and magazine articles. ",
+      "publication_date": "2009-09-14T23:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/09/15/technology/internet/15google.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "Insurers Fight Speech-Impairment Remedy",
+      "snippet": "Devices like iPhones and netbook PCs that can help the speech-impaired are not covered by Medicare or insurers.",
+      "abstract": "Devices like iPhones and netbook PCs that can help the speech-impaired are not covered by Medicare or insurers.",
+      "lead_paragraph": "SAN FRANCISCO  Kara Lynn has amyotrophic lateral sclerosis, or A.L.S., which has attacked the muscles around her mouth and throat, removing her ability to speak. A couple of years ago, she spent more than $8,000 to buy a computer, approved by Medicare, that turns typed words into speech that her family, friends and doctors can hear. ",
+      "publication_date": "2009-09-15T01:20:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/09/15/technology/15speech.html",
+      "byline": "By Ashlee Vance"
+    },
+    {
+      "headline": "Pakistan Army Said to Be Linked to Swat Killings",
+      "snippet": "Two months after the Pakistani Army gained control of the Swat Valley, bodies have been dumped on the streets in what rights advocates and residents say is the work of the military.",
+      "abstract": "Two months after the Pakistani Army gained control of the Swat Valley, bodies have been dumped on the streets in what rights advocates and residents say is the work of the military.",
+      "lead_paragraph": "MINGORA, Pakistan  Two months after the Pakistani Army wrested control of the Swat Valley from Taliban militants, a new campaign of fear has taken hold, with scores, perhaps hundreds, of bodies dumped on the streets in what human rights advocates and local residents say is the work of the military.",
+      "publication_date": "2009-09-15T01:25:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/09/15/world/asia/15swat.html",
+      "byline": "By Jane Perlez and Pir Zubair Shah"
+    },
+    {
+      "headline": "Japan Strives to Balance Growth and Job Stability",
+      "snippet": "With the service industry making up 70 percent of Japan’s economy, economists say the service sector must become more productive.",
+      "abstract": "With the service industry making up 70 percent of Japan’s economy, economists say the service sector must become more productive.",
+      "lead_paragraph": "TOKYO  Every day, the impeccably dressed “elevator girls” of Tokyo’s Odakyu department store greet customers, ushering them in and out of the cars. During breaks, they practice their greetings and meticulously reapply their makeup.",
+      "publication_date": "2009-09-15T01:46:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/09/15/business/global/15yen.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "A Tough Crowd on Wall Street",
+      "snippet": "Even industry leaders agree that reform is necessary, but they seemed unhappy with the president’s stern lecture.",
+      "abstract": "Even industry leaders agree that reform is necessary, but they seemed unhappy with the president’s stern lecture.",
+      "lead_paragraph": "The cameras and lights were all trained on President Obama, as he delivered a stern message in downtown Manhattan about the need for reform in the finance industry.",
+      "publication_date": "2009-09-15T01:48:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/09/15/business/15sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Tire Tariffs Are Cheered by Labor",
+      "snippet": "While union leaders hail a move as enforcing trade laws, President Obama is also having to deal with pressures from China and corporate America.",
+      "abstract": "While union leaders hail a move as enforcing trade laws, President Obama is also having to deal with pressures from China and corporate America.",
+      "lead_paragraph": "PITTSBURGH  As China and some American companies denounce President Obama’s decision to impose tariffs on Chinese tires, the Obama administration can take solace that at least one important Democratic constituency is enthusiastically applauding the move.",
+      "publication_date": "2009-09-15T02:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/09/15/business/15labor.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Military Chief Suggests Need to Enlarge U.S. Afghan Force",
+      "snippet": "The chairman of the Joint Chiefs of Staff, Adm. Mike Mullen, told Congress that success would also require much more time, a position challenged by a Democrat.",
+      "abstract": "The chairman of the Joint Chiefs of Staff, Adm. Mike Mullen, told Congress that success would also require much more time, a position challenged by a Democrat.",
+      "lead_paragraph": "WASHINGTON  The nation’s top military officer pushed back Tuesday against Democrats who oppose sending additional combat troops to Afghanistan, telling Congress that success would probably require more fighting forces, and certainly much more time.",
+      "publication_date": "2009-09-15T15:29:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/09/16/world/asia/16mullen.html",
+      "byline": "By Thom Shanker"
+    },
+    {
+      "headline": "Fed Chief Says Recession Is ‘Very Likely Over’",
+      "snippet": "Ben S. Bernanke said the U.S. economy was probably growing now, but it would not be sufficient to prevent the unemployment rate from rising.",
+      "abstract": "Ben S. Bernanke said the U.S. economy was probably growing now, but it would not be sufficient to prevent the unemployment rate from rising.",
+      "lead_paragraph": "WASHINGTON  The Federal Reserve chairman, Ben S. Bernanke, said Tuesday that it was “very likely” that the recession had ended although he cautioned that it could be months before unemployment rates dropped significantly. ",
+      "publication_date": "2009-09-15T15:30:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/09/16/business/economy/16bernanke.html",
+      "byline": "By Stephen Labaton"
+    }
+  ]
+}

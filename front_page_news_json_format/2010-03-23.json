@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-03-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Bolsters Chemical Restrictions for Water",
+      "snippet": "The agency’s administrator wants stricter regulations on four chemical compounds that can cause cancer.",
+      "abstract": "The agency’s administrator wants stricter regulations on four chemical compounds that can cause cancer.",
+      "lead_paragraph": "The Environmental Protection Agency announced on Monday that it would overhaul drinking water regulations so that officials could police dozens of contaminants simultaneously and tighten rules on the chemicals used by industries.",
+      "publication_date": "2010-03-22T19:04:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/23/business/23water.html",
+      "byline": "By Charles Duhigg"
+    },
+    {
+      "headline": "Google Shuts China Site in Dispute Over Censorship",
+      "snippet": "Google said it would direct users to an uncensored version based in Hong Kong. China on Tuesday said the case would not affect ties with the U.S. “unless politicized” by others.",
+      "abstract": "Google said it would direct users to an uncensored version based in Hong Kong. China on Tuesday said the case would not affect ties with the U.S. “unless politicized” by others.",
+      "lead_paragraph": "SAN FRANCISCO — Just over two months after threatening to leave China because of censorship and intrusions from hackers, Google on Monday closed its Internet search service there and began directing users in that country to its uncensored search engine in Hong Kong.",
+      "publication_date": "2010-03-22T19:31:49+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/23/technology/23google.html",
+      "byline": "By Miguel Helft and David Barboza"
+    },
+    {
+      "headline": "Microcosm of Housing Crisis on an Arizona Street",
+      "snippet": "Deciding which homeowners get federal money to help with mortgages is raising questions of fairness in Arizona.",
+      "abstract": "Deciding which homeowners get federal money to help with mortgages is raising questions of fairness in Arizona.",
+      "lead_paragraph": "CAVE CREEK, Ariz. — The uncertain line between hope and despair divides this exurb of Phoenix, where the trim stucco houses used to sell so briskly. ",
+      "publication_date": "2010-03-22T22:40:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/23/business/23lend.html",
+      "byline": "By Louise Story"
+    },
+    {
+      "headline": "Election Looming, Tories Put Posh Foot in Mouth",
+      "snippet": "An elitist statement by a Parliament member was a reminder of how hard it has been for Tories to shake off a past many of them still seem to embrace.",
+      "abstract": "An elitist statement by a Parliament member was a reminder of how hard it has been for Tories to shake off a past many of them still seem to embrace.",
+      "lead_paragraph": "LONDON — What could be more embarrassing for a party trying to change its elitist image than the existence of someone like Sir Nicholas Winterton? A Conservative member of Parliament for the last 39 years, Sir Nicholas wandered disastrously off message recently when he decided to share his thoughts on why legislators should be allowed to travel first class to avoid exposure to the common man.",
+      "publication_date": "2010-03-23T00:54:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/23/world/europe/23britain.html",
+      "byline": "By Sarah Lyall"
+    },
+    {
+      "headline": "Big Clients Keep Their Head Start",
+      "snippet": "A judge’s recent decision could presage a larger effort by Wall Street banks to limit the distribution of news about their research.",
+      "abstract": "A judge’s recent decision could presage a larger effort by Wall Street banks to limit the distribution of news about their research.",
+      "lead_paragraph": "Wall Street hates a level playing field. What it loves is an edge, an inside track, that extra something — especially when it comes to information that moves markets. ",
+      "publication_date": "2010-03-23T01:21:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/23/business/23sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Republicans Face Drawbacks of United\r\nStand on Health Bill",
+      "snippet": "Polls suggest many Americans are opposed to the health care bill, but Republicans face portrayals as the “party of no.”",
+      "abstract": "Polls suggest many Americans are opposed to the health care bill, but Republicans face portrayals as the “party of no.”",
+      "lead_paragraph": "WASHINGTON — Passage of the health care legislation challenges the heart of the Republicans’ strategy this year: To present a unified opposition to big Democratic ideas, in this case expressed in a stream of bristling anger and occasional mischaracterizations of what the bill would do.",
+      "publication_date": "2010-03-23T02:26:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/23/us/politics/23repubs.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Next Big Issue? Social Security Pops Up Again",
+      "snippet": "With Medicare off the deficit-reduction table, Social Security stands as the likeliest source of large savings.",
+      "abstract": "With Medicare off the deficit-reduction table, Social Security stands as the likeliest source of large savings.",
+      "lead_paragraph": "WASHINGTON — Now that landmark legislation overhauling the health insurance system is about to become law, addressing Social Security’s solvency could well become the next big thing for President Obama and Congressional Democrats.",
+      "publication_date": "2010-03-23T02:55:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/23/us/politics/23fiscal.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "India’s Woes Reflected in Bid to Restart Old Plant",
+      "snippet": "A former Enron plant is a monument to India’s corruption, cronyism and weak economic policies, all impediments to the country’s development.",
+      "abstract": "A former Enron plant is a monument to India’s corruption, cronyism and weak economic policies, all impediments to the country’s development.",
+      "lead_paragraph": "VELDUR, India — “Wherever there is a lamp, there is darkness below it,” said Bava Bhalekar, a fisherman and local leader in this village roughly a hundred miles south of Mumbai. “The tragedy is that while our village has this project, we ourselves don’t have electricity.”",
+      "publication_date": "2010-03-23T03:10:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/23/business/global/23enron.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "Few Fled Companies Constrained by Pay Limits",
+      "snippet": "Of the 104 senior executives whose pay was set by the federal pay regulator in the last two years, about 85 percent are still with the companies, data shows.",
+      "abstract": "Of the 104 senior executives whose pay was set by the federal pay regulator in the last two years, about 85 percent are still with the companies, data shows.",
+      "lead_paragraph": "For months, Wall Street banks and the troubled automakers feverishly protested that their top executives would flee if they were not lavishly rewarded for their talents. New data, however, suggests the departures were more of a trickle than a flood.",
+      "publication_date": "2010-03-23T04:09:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/23/business/23pay.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "Google Faces Fallout as China Reacts  to Site Shift",
+      "snippet": "Google’s China operations came under pressure as some content from its uncensored Hong Kong site was blocked.",
+      "abstract": "Google’s China operations came under pressure as some content from its uncensored Hong Kong site was blocked.",
+      "lead_paragraph": "Google pushed. Now China is pushing back.",
+      "publication_date": "2010-03-23T11:07:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/24/technology/24google.html",
+      "byline": "By Miguel Helft and Michael Wines"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-09-22",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "The Fed Intensifies Its Battle Against Inflation",
+      "snippet": "Federal Reserve officials made another large rate increase and signaled more to come, pledging to quash inflation despite expected pain.",
+      "abstract": "Federal Reserve officials made another large rate increase and signaled more to come, pledging to quash inflation despite expected pain.",
+      "lead_paragraph": "Federal Reserve officials, struggling to contain the most rapid inflation in 40 years, delivered a third big rate increase on Wednesday and projected a more aggressive path ahead for monetary policy, one that would lift interest rates higher and keep them elevated longer.",
+      "publication_date": "2022-09-21T22:42:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/21/business/economy/fed-rates-inflation-powell.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Biden Condemns Russia as Threat to the World in U.N. Speech",
+      "snippet": "President Biden portrayed Russia as the chief threat to global peace and renewed warnings that “a nuclear war cannot be won.”",
+      "abstract": "President Biden portrayed Russia as the chief threat to global peace and renewed warnings that “a nuclear war cannot be won.”",
+      "lead_paragraph": "President Biden used his first speech at the United Nations since the invasion of Ukraine to accuse one man, President Vladimir V. Putin of Russia, of seeking to “erase” another nation from the map and of trying to drag the world back to an era of nuclear confrontation.",
+      "publication_date": "2022-09-21T22:57:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/21/world/europe/biden-russia-united-nations.html",
+      "byline": "By Jim Tankersley, David E. Sanger and Farnaz Fassihi"
+    },
+    {
+      "headline": "Putin Raises Stakes in the War, With Direct Challenge to the West",
+      "snippet": "The Russian leader announced a call-up of troops and hinted at using nuclear weapons, accusing the West of trying to “destroy our country” and vowing that Russia would defend itself.",
+      "abstract": "The Russian leader announced a call-up of troops and hinted at using nuclear weapons, accusing the West of trying to “destroy our country” and vowing that Russia would defend itself.",
+      "lead_paragraph": "President Vladimir V. Putin of Russia accelerated his war effort in Ukraine on Wednesday, announcing a call-up of roughly 300,000 reservists to the military, while also directly challenging the West over its support for Ukraine with a veiled threat of using nuclear weapons.",
+      "publication_date": "2022-09-21T23:34:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/21/world/europe/putin-ukraine-russia-nuclear.html",
+      "byline": "By Anton Troianovski and Valerie Hopkins"
+    },
+    {
+      "headline": "Appeals Court Frees Justice Dept. to Use Sensitive Files Seized From Trump",
+      "snippet": "A federal judge had temporarily barred the department from using the records marked as classified in its inquiry into whether the former president illegally retained national defense documents.",
+      "abstract": "A federal judge had temporarily barred the department from using the records marked as classified in its inquiry into whether the former president illegally retained national defense documents.",
+      "lead_paragraph": "WASHINGTON — A federal appeals court on Wednesday freed the Justice Department to resume using documents marked as classified that were seized from former President Donald J. Trump, blocking for now a lower court’s order that had strictly limited the investigation into Mr. Trump’s handling of government materials.",
+      "publication_date": "2022-09-21T23:49:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/21/us/politics/trump-classified-documents.html",
+      "byline": "By Charlie Savage, Glenn Thrush and Alan Feuer"
+    },
+    {
+      "headline": "In India, Debunking Fake News and Running Into the Authorities",
+      "snippet": "Alt News, an independent website, has emerged as a leading debunker of misinformation in the nation, but highlighting hate speech against minorities has put it on a collision course with the government.",
+      "abstract": "Alt News, an independent website, has emerged as a leading debunker of misinformation in the nation, but highlighting hate speech against minorities has put it on a collision course with the government.",
+      "lead_paragraph": "AHMEDABAD, India — The two men were unlikely candidates to work in the news business.",
+      "publication_date": "2022-09-22T09:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/22/world/asia/india-debunking-fake-news.html",
+      "byline": "By Suhasini Raj"
+    },
+    {
+      "headline": "Bank of England Raises Rates Another Half a Point at an Uncertain Time",
+      "snippet": "Britain is fighting inflation, which is running near its fastest pace in decades. Policies to cap energy costs and cut taxes complicate the outlook.",
+      "abstract": "Britain is fighting inflation, which is running near its fastest pace in decades. Policies to cap energy costs and cut taxes complicate the outlook.",
+      "lead_paragraph": "As Britain goes through a period of vast change, with a new government and new monarch, the central bank is steadily increasing interest rates to try to keep high inflation from becoming embedded in the nation’s economy.",
+      "publication_date": "2022-09-22T11:16:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/22/business/bank-of-england-interest-rates.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "‘They Are Watching’: Inside Russia’s Vast Surveillance State",
+      "snippet": "A cache of nearly 160,000 files from Russia’s powerful internet regulator provides a rare glimpse inside Vladimir V. Putin’s digital crackdown.",
+      "abstract": "A cache of nearly 160,000 files from Russia’s powerful internet regulator provides a rare glimpse inside Vladimir V. Putin’s digital crackdown.",
+      "lead_paragraph": "A cache of nearly 160,000 files from Russia’s powerful internet regulator provides a rare glimpse inside Vladimir V. Putin’s digital crackdown.",
+      "publication_date": "2022-09-22T11:53:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2022/09/22/technology/russia-putin-surveillance-spying.html",
+      "byline": "By Paul Mozur, Adam Satariano, Aaron Krolik and Aliza Aufrichtig"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-01-04",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Trump Breaks With Bannon, Saying He Has ‘Lost His Mind’",
+      "snippet": "“Steve Bannon has nothing to do with me or my presidency,” President Trump said in a statement. “When he was fired, he not only lost his job, he lost his mind.”",
+      "abstract": "“Steve Bannon has nothing to do with me or my presidency,” President Trump said in a statement. “When he was fired, he not only lost his job, he lost his mind.”",
+      "lead_paragraph": "WASHINGTON — President Trump excommunicated his onetime chief strategist, Stephen K. Bannon, from his circle on Wednesday, ending for now a partnership of convenience that transformed American politics while raising questions about the future of the nationalist-populist movement they cultivated together.",
+      "publication_date": "2018-01-03T18:39:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/03/us/politics/trump-bannon.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "Russia and Venezuela’s Plan to Sidestep Sanctions: Virtual Currencies",
+      "snippet": "Both countries have floated plans to create homegrown virtual currencies that would put them outside the global financial and banking system.",
+      "abstract": "Both countries have floated plans to create homegrown virtual currencies that would put them outside the global financial and banking system.",
+      "lead_paragraph": "SAN FRANCISCO — Russian and Venezuelan officials are hoping virtual currencies can help their countries make an end run around American sanctions.",
+      "publication_date": "2018-01-03T20:47:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/03/technology/russia-venezuela-virtual-currencies.html",
+      "byline": "By Nathaniel Popper, Oleg Matsnev and Ana Vanessa Herrero"
+    },
+    {
+      "headline": "Car Sales End a 7-Year Upswing, With More Challenges Ahead",
+      "snippet": "The decline in the American market in 2017 is expected to continue, and may force carmakers to trim production and find new ways to entice customers.",
+      "abstract": "The decline in the American market in 2017 is expected to continue, and may force carmakers to trim production and find new ways to entice customers.",
+      "lead_paragraph": "The auto industry’s long-running sales party has come to an end.",
+      "publication_date": "2018-01-03T21:32:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/03/business/auto-sales.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Researchers Discover Two Major Flaws in the World’s Computers",
+      "snippet": "Called Meltdown, the first and most urgent flaw affects nearly all microprocessors made by Intel. The second, Spectre, affects most other chips.",
+      "abstract": "Called Meltdown, the first and most urgent flaw affects nearly all microprocessors made by Intel. The second, Spectre, affects most other chips.",
+      "lead_paragraph": "SAN FRANCISCO — Computer security experts have discovered two major security flaws in the microprocessors inside nearly all of the world’s computers.",
+      "publication_date": "2018-01-03T22:27:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/03/business/computer-flaws.html",
+      "byline": "By Cade Metz and Nicole Perlroth"
+    },
+    {
+      "headline": "Trump Disbands Commission on Voter Fraud",
+      "snippet": "The president signed an order to end the White House commission even though he said there was “substantial evidence of voter fraud,” which experts say is rare.",
+      "abstract": "The president signed an order to end the White House commission even though he said there was “substantial evidence of voter fraud,” which experts say is rare.",
+      "lead_paragraph": "WASHINGTON — President Trump on Wednesday abruptly shut down a White House commission he had charged with investigating voter fraud, ending a brief quest for evidence of election theft that generated lawsuits, outrage and some scholarly testimony, but no real evidence that American elections are corrupt.",
+      "publication_date": "2018-01-04T00:15:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/03/us/politics/trump-voter-fraud-commission.html",
+      "byline": "By Michael Tackett and Michael Wines"
+    },
+    {
+      "headline": "As North and South Korea Begin to Talk, Trump Watches From Sidelines",
+      "snippet": "The Trump administration doesn’t oppose diplomatic talks on the Korean Peninsula but worries the North will try to drive a wedge between the United States and South Korea.",
+      "abstract": "The Trump administration doesn’t oppose diplomatic talks on the Korean Peninsula but worries the North will try to drive a wedge between the United States and South Korea.",
+      "lead_paragraph": "WASHINGTON — While the two Koreas were gingerly reopening a border hotline, President Trump was gleefully taunting Kim Jong-un about the relative size of their nuclear launch buttons.",
+      "publication_date": "2018-01-04T01:06:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/03/us/politics/trump-north-korea-wedge-south-korea.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Internet Users in China Expect to Be Tracked. Now, They Want Privacy.",
+      "snippet": "Chinese are demanding better protections even as the government and tech giants like Alibaba and Tencent gather ever more data.",
+      "abstract": "Chinese are demanding better protections even as the government and tech giants like Alibaba and Tencent gather ever more data.",
+      "lead_paragraph": "SHANGHAI — China’s biggest online payment company offers its hundreds of millions of users a breakdown on their spending each year, showing everything from their environmental impact to their ranking among shoppers in their area. Many spenders — not shy, and occasionally even a bit boastful about their personal finances — in turn share the details on social media.",
+      "publication_date": "2018-01-04T14:38:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/04/business/china-alibaba-privacy.html",
+      "byline": "By Paul Mozur"
+    },
+    {
+      "headline": "Trump Administration Takes Step That Could Threaten Marijuana Legalization Movement",
+      "snippet": "Federal prosecutors will be given discretion to more aggressively enforce marijuana laws, threatening to undermine the legalization movement at the state level.",
+      "abstract": "Federal prosecutors will be given discretion to more aggressively enforce marijuana laws, threatening to undermine the legalization movement at the state level.",
+      "lead_paragraph": "WASHINGTON — The viability of the multibillion-dollar marijuana legalization movement was thrown into new doubt on Thursday when the Trump administration freed prosecutors to more aggressively enforce federal laws against the drug in states that have decriminalized its production and sale, most recently California.",
+      "publication_date": "2018-01-04T15:10:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/04/us/politics/marijuana-legalization-justice-department-prosecutions.html",
+      "byline": "By Charlie Savage and Jack Healy"
+    }
+  ]
+}

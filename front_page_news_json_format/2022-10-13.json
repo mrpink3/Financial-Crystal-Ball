@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2022-10-13",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "The Google Watch Is Here. But You’d Better Love Android.",
+      "snippet": "Developed with Fitbit, Google’s first smart watch takes a page from Apple’s playbook by requiring loyalty to its brand.",
+      "abstract": "Developed with Fitbit, Google’s first smart watch takes a page from Apple’s playbook by requiring loyalty to its brand.",
+      "lead_paragraph": "It’s 2022, and Google finally has a response to the Apple Watch. It’s the Pixel Watch, which is essentially a Fitbit designed to work only with Android phones and seemingly a direct counterattack to Apple’s wearable that works only with iPhones.",
+      "publication_date": "2022-10-12T17:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/12/technology/personaltech/google-pixel-watch-review.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Leonard Leo Pushed the Courts Right. Now He’s Aiming at American Society.",
+      "snippet": "After leading efforts to put conservatives on the bench, the activist has quietly built a sprawling network and raised huge sums of money to challenge liberal values.",
+      "abstract": "After leading efforts to put conservatives on the bench, the activist has quietly built a sprawling network and raised huge sums of money to challenge liberal values.",
+      "lead_paragraph": "Millions of dollars in television advertisements blasting schools for teaching critical race theory and assailing corporations like BlackRock, Uber and American Airlines for catering to “woke politicians.”",
+      "publication_date": "2022-10-12T18:06:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/12/us/politics/leonard-leo-courts-dark-money.html",
+      "byline": "By Kenneth P. Vogel"
+    },
+    {
+      "headline": "Turmoil Returns to the U.K. Bond Market",
+      "snippet": "The Bank of England started a bond-buying program last month to stabilize financial markets. But its plan to end the program this Friday is only making investors more nervous.",
+      "abstract": "The Bank of England started a bond-buying program last month to stabilize financial markets. But its plan to end the program this Friday is only making investors more nervous.",
+      "lead_paragraph": "British financial markets plunged into turmoil on Wednesday following mixed messages over whether the Bank of England would continue to provide support to pension funds and other investors, introduced after a bungled policy announcement by the new government last month shocked investors.",
+      "publication_date": "2022-10-12T18:10:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/12/business/uk-bond-market-bank-of-england.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Western Nations Rush Defensive Systems to Ukraine to Counter Russian Missiles",
+      "snippet": "Even with Soviet-era defensive weapons, the Ukrainians have been more than holding their own, but this week’s barrage prompted calls to better equip them.",
+      "abstract": "Even with Soviet-era defensive weapons, the Ukrainians have been more than holding their own, but this week’s barrage prompted calls to better equip them.",
+      "lead_paragraph": "KYIV, Ukraine — In just two days this week, Russian forces fired more than 100 cruise missiles and dozens of exploding drones at cities across Ukraine, far more than the nation’s aging air defenses were ever expected to encounter. And yet fewer than half made it to their targets, Ukrainian officials say.",
+      "publication_date": "2022-10-12T22:34:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/12/world/europe/ukraine-russia-missile-defense.html",
+      "byline": "By Michael Schwirtz, Lara Jakes and Eric Schmitt"
+    },
+    {
+      "headline": "‘We Told the Truth’: Sandy Hook Families Win $1 Billion From Alex Jones",
+      "snippet": "The Sandy Hook families leveraged personal stories, social media analysis and the Infowars fabulist’s lack of contrition to secure a major verdict.",
+      "abstract": "The Sandy Hook families leveraged personal stories, social media analysis and the Infowars fabulist’s lack of contrition to secure a major verdict.",
+      "lead_paragraph": "WATERBURY, Conn. — The families of eight Sandy Hook shooting victims on Wednesday won nearly $1 billion in damages from the Infowars fabulist Alex Jones, a devastating blow against his empire and a message from the jury that his lies and those of his followers have crippling consequences.",
+      "publication_date": "2022-10-12T23:46:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/12/us/politics/alex-jones-sandy-hook-damages.html",
+      "byline": "By Elizabeth Williamson"
+    },
+    {
+      "headline": "Battle Over Wage Rules for Tipped Workers Is Heating Up",
+      "snippet": "A system counting tips toward the minimum wage is being fought in many places. Critics say it’s often abused. Defenders say workers benefit overall.",
+      "abstract": "A system counting tips toward the minimum wage is being fought in many places. Critics say it’s often abused. Defenders say workers benefit overall.",
+      "lead_paragraph": "With Americans resuming prepandemic habits of going out, eating out and traveling, leisure and hospitality businesses have scrambled to hire, sometimes offering pay increases that outpace inflation.",
+      "publication_date": "2022-10-13T09:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/13/business/economy/tipped-wage-subminimum.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "Markets Swing Wildly in Turnaround After a High Inflation Reading",
+      "snippet": "Stocks initially tumbled, then rebounded sharply after a report that signaled the Fed would continue raising interest rates aggressively.",
+      "abstract": "Stocks initially tumbled, then rebounded sharply after a report that signaled the Fed would continue raising interest rates aggressively.",
+      "lead_paragraph": "Markets swung wildly on Thursday after another hotter-than-expected inflation report cemented expectations for more bumper interest rate increases from the Federal Reserve that some investors worry could destabilize the financial system.",
+      "publication_date": "2022-10-13T09:00:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/13/business/stock-markets-cpi-inflation.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Inflation Is Unrelenting, Bad News for the Fed and White House",
+      "snippet": "Inflation rose quickly in September and a key measure accelerated to the fastest pace since 1982, underlining the persistence of price increases.",
+      "abstract": "Inflation rose quickly in September and a key measure accelerated to the fastest pace since 1982, underlining the persistence of price increases.",
+      "lead_paragraph": "Prices continued to climb at a brutally rapid pace in September, with a key inflation index increasing at the fastest rate in 40 years, bad news for the Federal Reserve as it struggles to wrestle the cost of living back under control.",
+      "publication_date": "2022-10-13T09:00:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/13/business/economy/high-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Gunman Who Killed 17 in Parkland Is Spared the Death Penalty",
+      "snippet": "Nikolas Cruz showed little emotion as the judge read the jury’s decisions one by one. His victims’ families, in contrast, were horrified and baffled as they learned that his life had been spared.",
+      "abstract": "Nikolas Cruz showed little emotion as the judge read the jury’s decisions one by one. His victims’ families, in contrast, were horrified and baffled as they learned that his life had been spared.",
+      "lead_paragraph": "FORT LAUDERDALE, Fla. — Nikolas Cruz, the profoundly disturbed young man who carried out a massacre in the hallways of his former high school four years ago, igniting an anti-gun-violence movement led by students raised in an era of mass shootings, should not be condemned to death and instead should spend the rest of his life in prison, a state jury said on Thursday.",
+      "publication_date": "2022-10-13T13:42:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/13/us/parkland-trial-verdict-gunman.html",
+      "byline": "By Patricia Mazzei and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "The Social Security COLA Will Ease the Sting of Inflation",
+      "snippet": "The cost-of-living adjustment will be 8.7 percent next year, bringing relief to retirees and others who rely largely on the payments.",
+      "abstract": "The cost-of-living adjustment will be 8.7 percent next year, bringing relief to retirees and others who rely largely on the payments.",
+      "lead_paragraph": "Want to know more about the Social Security cost-of-living adjustment? Personal finance reporter Tara Siegel Bernard will answer some of your questions in the comments of this article.",
+      "publication_date": "2022-10-13T14:18:22+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/13/your-money/social-security-cola-inflation.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Jan. 6 Panel Votes to Subpoena Trump as It Wraps Up Its Case",
+      "snippet": "“He must be accountable,” the committee’s chairman said as it presented a sweeping summation of its findings. But the prospect of the former president testifying appeared unlikely.",
+      "abstract": "“He must be accountable,” the committee’s chairman said as it presented a sweeping summation of its findings. But the prospect of the former president testifying appeared unlikely.",
+      "lead_paragraph": "WASHINGTON — The House committee investigating the Jan. 6 attack on the Capitol voted on Thursday to subpoena former President Donald J. Trump as it presented a sweeping summation of its case placing him at the center of a calculated, multipart effort to overturn the 2020 election, beginning even before Election Day.",
+      "publication_date": "2022-10-13T15:34:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/13/us/politics/jan-6-hearing-trump-subpoena.html",
+      "byline": "By Luke Broadwater and Alan Feuer"
+    },
+    {
+      "headline": "With New Crackdown, Biden Wages Global Campaign on Chinese Technology",
+      "snippet": "U.S. officials pushed to choke off China’s access to critical semiconductor technology after internal debates and tough negotiations with allies.",
+      "abstract": "U.S. officials pushed to choke off China’s access to critical semiconductor technology after internal debates and tough negotiations with allies.",
+      "lead_paragraph": "WASHINGTON — In conversations with American executives this spring, top officials in the Biden administration revealed an aggressive plan to counter the Chinese military’s rapid technological advances.",
+      "publication_date": "2022-10-13T15:37:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/13/us/politics/biden-china-technology-semiconductors.html",
+      "byline": "By Ana Swanson and Edward Wong"
+    }
+  ]
+}

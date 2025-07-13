@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-02-11",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump’s $4.8 Trillion Budget Would Cut Safety Net Programs and Boost Defense",
+      "snippet": "The budget, while largely a messaging document, reflects the administration’s spending priorities’ stark contrast with the president’s Democratic rivals.",
+      "abstract": "The budget, while largely a messaging document, reflects the administration’s spending priorities’ stark contrast with the president’s Democratic rivals.",
+      "lead_paragraph": "WASHINGTON — President Trump released a $4.8 trillion budget proposal on Monday that includes a familiar list of deep cuts to student loan assistance, affordable housing efforts, food stamps and Medicaid, reflecting Mr. Trump’s election-year effort to continue shrinking the federal safety net.",
+      "publication_date": "2020-02-10T17:30:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/10/business/president-trump-budget-cuts.html",
+      "byline": "By Jim Tankersley, Margot Sanger-Katz, Alan Rappeport and Emily Cochrane"
+    },
+    {
+      "headline": "‘Like Europe in Medieval Times’: Virus Slows China’s Economy",
+      "snippet": "Workers can’t return to their jobs as supply lines get snarled, extending the forced holiday and fracturing the country.",
+      "abstract": "Workers can’t return to their jobs as supply lines get snarled, extending the forced holiday and fracturing the country.",
+      "lead_paragraph": "Workers are stuck in their hometowns. Officials want detailed health plans before factories or offices can reopen. Assembly lines that make General Motors cars and Apple iPhones are standing silent.",
+      "publication_date": "2020-02-10T18:45:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/10/business/china-coronavirus-economy.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Judge Is Said to Rule for T-Mobile Merger With Sprint",
+      "snippet": "A last-ditch attempt by a coalition of state attorneys general is said to have failed to halt T-Mobile’s purchase of a smaller rival.",
+      "abstract": "A last-ditch attempt by a coalition of state attorneys general is said to have failed to halt T-Mobile’s purchase of a smaller rival.",
+      "lead_paragraph": "The judge in a contentious lawsuit that tried to stop the long-in-the-works merger between T-Mobile and Sprint is planning to rule in favor of the deal, according to three people briefed on the matter.",
+      "publication_date": "2020-02-10T23:28:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/10/business/media/sprint-tmobile-merger.html",
+      "byline": "By Edmund Lee and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Elizabeth Warren Is Running Her Race. The Real One May Be Passing Her By.",
+      "snippet": "The candidate keeps talking about winning “unwinnable fights.” But the New Hampshire primary was not supposed to be in that category.",
+      "abstract": "The candidate keeps talking about winning “unwinnable fights.” But the New Hampshire primary was not supposed to be in that category.",
+      "lead_paragraph": "CONCORD, N.H. — Two days before a once-mission-critical primary in a state she neighbors, Senator Elizabeth Warren — typically exceptional at holding a room — had not finished speaking when something unusual happened: Dozens of voters began filtering out of the middle school gym she had reserved.",
+      "publication_date": "2020-02-11T08:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/us/politics/elizabeth-warren-nh-primary.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "She Wants to Break Up Big Everything",
+      "snippet": "Trustbusting advocates like Sarah Miller, who target corporate power, have finally found themselves at the center of the political conversation.",
+      "abstract": "Trustbusting advocates like Sarah Miller, who target corporate power, have finally found themselves at the center of the political conversation.",
+      "lead_paragraph": "WASHINGTON — One night five years ago, Sarah Miller, a former Treasury Department aide, was trying to make sense of an economic recovery that had left the country in the grips of rising inequality.",
+      "publication_date": "2020-02-11T10:00:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/11/technology/big-tech-antitrust.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "A Pedophile Writer Is on Trial. So Are the French Elites.",
+      "snippet": "For decades, Gabriel Matzneff wrote openly of his pedophilia, protected by powerful people in publishing, journalism, politics and business. Now cast out, he attacks their “cowardice” in a rare interview.",
+      "abstract": "For decades, Gabriel Matzneff wrote openly of his pedophilia, protected by powerful people in publishing, journalism, politics and business. Now cast out, he attacks their “cowardice” in a rare interview.",
+      "lead_paragraph": "PARIS — Gabriel Matzneff, the French writer under investigation for his promotion of pedophilia, was holed up this month inside a luxury hotel room on the Italian Riviera, unable to relax, unable to sleep, unable to write.",
+      "publication_date": "2020-02-11T10:05:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/world/europe/gabriel-matzneff-pedophilia-france.html",
+      "byline": "By Norimitsu Onishi"
+    }
+  ]
+}

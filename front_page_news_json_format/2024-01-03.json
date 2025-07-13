@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-01-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Top Hamas Official Is Killed in Lebanon as Fears Grow of a Wider War",
+      "snippet": "The Israeli government would not comment on the death of Saleh al-Arouri. But a U.S. official said to expect Israel to assassinate Hamas officials “for years.”",
+      "abstract": "The Israeli government would not comment on the death of Saleh al-Arouri. But a U.S. official said to expect Israel to assassinate Hamas officials “for years.”",
+      "lead_paragraph": "Hamas on Tuesday accused Israel of killing Saleh al-Arouri, a top leader of the group, along with two commanders from its armed wing, the Qassam Brigades. Mr. al-Arouri is the senior-most Hamas figure to be killed since Israel vowed to destroy the organization and eliminate its leadership after a deadly Hamas-led attack on Oct. 7.",
+      "publication_date": "2024-01-02T17:39:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/02/world/middleeast/israel-hamas-leader-war.html",
+      "byline": "By Ben Hubbard, Ronen Bergman, Aaron Boxerman, Euan Ward and Eric Schmitt"
+    },
+    {
+      "headline": "Harvard President Resigns After Mounting Plagiarism Accusations",
+      "snippet": "Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.",
+      "abstract": "Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.",
+      "lead_paragraph": "Harvard’s president, Claudine Gay, announced her resignation on Tuesday, after her presidency had become engulfed in crisis over accusations of plagiarism and what some called her insufficient response to antisemitism on campus after the Hamas-led attacks on Israel on Oct. 7.",
+      "publication_date": "2024-01-02T18:21:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/02/us/harvard-claudine-gay-resigns.html",
+      "byline": "By Jennifer Schuessler, Anemona Hartocollis, Michael Levenson and Alan Blinder"
+    },
+    {
+      "headline": "‘It’s State Propaganda’: Ukrainians Shun TV News as War Drags on",
+      "snippet": "A government-approved news program intended to counter Russian disinformation and boost morale is coming under criticism for painting a rosy picture of the war.",
+      "abstract": "A government-approved news program intended to counter Russian disinformation and boost morale is coming under criticism for painting a rosy picture of the war.",
+      "lead_paragraph": "Since the early days of Russia’s full-scale invasion in 2022, the people of Ukraine have had access to a single source of television news — an all-day broadcast packed with footage of Ukrainian tanks blasting Russian positions, medics operating near the frontline and political leaders rallying support abroad.",
+      "publication_date": "2024-01-03T10:02:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/world/europe/ukraine-war-tv-news-telemarathon.html",
+      "byline": "By Constant Méheut and Daria Mitiuk"
+    },
+    {
+      "headline": "Will America’s Good News on Inflation Last?",
+      "snippet": "One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.",
+      "abstract": "One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.",
+      "lead_paragraph": "Prices climbed rapidly in 2021 and 2022, straining American household budgets and chipping away at President Biden’s approval rating. But inflation cooled in late 2023, a spurt of progress that happened more quickly than economists had expected and that stoked hopes of a gentle economic landing.",
+      "publication_date": "2024-01-03T10:54:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/03/business/economy/inflation-prices.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "As Flames Surged, Order Prevailed Inside a Japan Airlines Jet",
+      "snippet": "In addition to a well-trained crew and an advanced plane, the safe evacuation of 367 passengers came down to a relative absence of panic.",
+      "abstract": "In addition to a well-trained crew and an advanced plane, the safe evacuation of 367 passengers came down to a relative absence of panic.",
+      "lead_paragraph": "As smoke filled the cabin of Japan Airlines Flight 516 after its fiery landing in Tokyo on Tuesday, the sound of a child’s voice rose above the din of confusion onboard. “Please, let us off quickly!” the child pleaded, using a polite form of Japanese despite the fear washing over the passengers as flight attendants began shouting instructions.",
+      "publication_date": "2024-01-03T12:21:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/world/asia/japan-airlines-fire.html",
+      "byline": "By Motoko Rich and Hisako Ueno"
+    },
+    {
+      "headline": "Bombing in Iran Kills Over 100, Sowing Confusion and Speculation",
+      "snippet": "No one claimed responsibility for the bombing at a memorial for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.",
+      "abstract": "No one claimed responsibility for the bombing at a memorial for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.",
+      "lead_paragraph": "A pair of explosions on Wednesday at a memorial for Iran’s former top general, Qassim Suleimani, killed at least 103 people and wounded an additional 211, according to Iranian officials, sowing fear in a country where domestic unrest and the prospect of a spiraling regional war have left many on edge.",
+      "publication_date": "2024-01-03T13:24:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/world/middleeast/iran-explosion-qassim-suleimani-ceremony.html",
+      "byline": "By Vivian Yee and Farnaz Fassihi"
+    }
+  ]
+}

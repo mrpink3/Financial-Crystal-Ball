@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2017-03-30",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Chinese Firm Takes Stake in U.S. Investment Bank Cowen",
+      "snippet": "The deal comes after a recent flurry of acquisitions of Western companies by Chinese businesses.",
+      "abstract": "The deal comes after a recent flurry of acquisitions of Western companies by Chinese businesses.",
+      "lead_paragraph": "HONG KONG — As China looks to spread its economic influence around the world, it is taking a bigger interest in financial companies, a move that could raise scrutiny in the era of President Trump.",
+      "publication_date": "2017-03-29T16:38:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/29/business/dealbook/china-us-investment-bank-cowen.html",
+      "byline": "By Neil Gough"
+    },
+    {
+      "headline": "Senate Intelligence Committee Leaders Vow Thorough Russian Investigation",
+      "snippet": "The top Republican and Democrat on the committee pledged to forge ahead, while seeking to distance themselves from the troubled House inquiry.",
+      "abstract": "The top Republican and Democrat on the committee pledged to forge ahead, while seeking to distance themselves from the troubled House inquiry.",
+      "lead_paragraph": "WASHINGTON — Senators leading the investigation into Russian interference in the November election pledged on Wednesday to conduct an aggressive inquiry, including an examination of any ties to President Trump, as they sought to distance themselves from the flagging efforts in the House.",
+      "publication_date": "2017-03-29T20:46:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/29/us/politics/senate-intelligence-committee-burr-warner-russia-investigation.html",
+      "byline": "By Matt Flegenheimer and Emmarie Huetteman"
+    },
+    {
+      "headline": "Little Sign of a ‘Trump Bump’ in the Economic Forecast",
+      "snippet": "Despite upbeat sentiment among consumers and investors in the new year, actual growth estimates are modest for the quarter and beyond.",
+      "abstract": "Despite upbeat sentiment among consumers and investors in the new year, actual growth estimates are modest for the quarter and beyond.",
+      "lead_paragraph": "Consumers are more confident. Stocks are up 5 percent since the start of the year. And from the president on down, there’s talk of a Trump bump.",
+      "publication_date": "2017-03-29T20:50:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/29/business/economy/economic-growth-first-quarter.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Rex Tillerson to Lift Human Rights Conditions on Arms Sale to Bahrain",
+      "snippet": "The decision could mend a rift with a critical Middle East ally, but it is bound to be read by other nations in the region as a sign the administration will ease human rights demands.",
+      "abstract": "The decision could mend a rift with a critical Middle East ally, but it is bound to be read by other nations in the region as a sign the administration will ease human rights demands.",
+      "lead_paragraph": "WASHINGTON — Secretary of State Rex W. Tillerson has decided to lift all human rights conditions on a major sale of F-16 fighter jets and other arms to Bahrain in an effort to end a rift between the United States and a critical Middle East ally, according to administration and congressional officials involved in the debate.",
+      "publication_date": "2017-03-29T22:37:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/29/world/middleeast/rex-tillerson-bahrain-weapons-sales.html",
+      "byline": "By David E. Sanger and Eric Schmitt"
+    },
+    {
+      "headline": "Chase Had Ads on 400,000 Sites. Then on Just 5,000. Same Results.",
+      "snippet": "The bank found that limiting its advertising to preapproved hosts, to avoid proximity to fake news or offensive videos, did not hurt its visibility.",
+      "abstract": "The bank found that limiting its advertising to preapproved hosts, to avoid proximity to fake news or offensive videos, did not hurt its visibility.",
+      "lead_paragraph": "As of a few weeks ago, advertisements for JPMorgan Chase were appearing on about 400,000 websites a month. It is the sort of eye-popping number that has become the norm these days for big companies that use automated tools to reach consumers online.",
+      "publication_date": "2017-03-30T00:04:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/29/business/chase-ads-youtube-fake-news-offensive-videos.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "U.S. War Footprint Grows in Middle East, With No Endgame in Sight",
+      "snippet": "Two months after President Trump took office, indications are mounting that the military is deepening its involvement in complex wars that lack clear outcomes.",
+      "abstract": "Two months after President Trump took office, indications are mounting that the military is deepening its involvement in complex wars that lack clear outcomes.",
+      "lead_paragraph": "BEIRUT, Lebanon — The United States launched more airstrikes in Yemen this month than during all of last year. In Syria, it has airlifted local forces to front-line positions and has been accused of killing civilians in airstrikes. In Iraq, American troops and aircraft are central in supporting an urban offensive in Mosul, where airstrikes killed scores of people on March 17.",
+      "publication_date": "2017-03-30T00:59:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/29/world/middleeast/us-war-footprint-grows-in-middle-east.html",
+      "byline": "By Ben Hubbard and Michael R. Gordon"
+    },
+    {
+      "headline": "Beginning ‘Brexit’ and Bracing for Impact",
+      "snippet": "Months after the vote to leave the European Union, Britain is beginning the process, and the economic consequences are likely to be significant.",
+      "abstract": "Months after the vote to leave the European Union, Britain is beginning the process, and the economic consequences are likely to be significant.",
+      "lead_paragraph": "LONDON — The world did not end. No recession unfolded. Nine months after Britain voted to leave the European Union, disregarding warnings of grim economic consequences, a nation famous for calmly carrying on has seemingly gone about its business.",
+      "publication_date": "2017-03-30T04:01:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/30/business/brexit-britain-eu-economy-banks.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Trump Eases Combat Rules in Somalia Intended to Protect Civilians",
+      "snippet": "A directive declaring parts of the country an “area of active hostilities” will give the United States greater latitude in carrying out airstrikes and raids.",
+      "abstract": "A directive declaring parts of the country an “area of active hostilities” will give the United States greater latitude in carrying out airstrikes and raids.",
+      "lead_paragraph": "WASHINGTON — President Trump has relaxed some of the rules for preventing civilian casualties when the American military carries out counterterrorism strikes in Somalia, laying the groundwork for an escalating campaign against Islamist militants in the Horn of Africa.",
+      "publication_date": "2017-03-30T13:25:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/30/world/africa/trump-is-said-to-ease-combat-rules-in-somalia-designed-to-protect-civilians.html",
+      "byline": "By Charlie Savage and Eric Schmitt"
+    },
+    {
+      "headline": "‘We Must Fight Them’: Trump Goes After Conservatives of Freedom Caucus",
+      "snippet": "The president came out swinging against the group’s members on Twitter, suggesting Republicans should “fight them” in the 2018 midterms if they do not back his agenda.",
+      "abstract": "The president came out swinging against the group’s members on Twitter, suggesting Republicans should “fight them” in the 2018 midterms if they do not back his agenda.",
+      "lead_paragraph": "WASHINGTON — President Trump launched a vengeful tirade against conservatives in his own party on Thursday in an attempt to kick-start health care talks and show that he remains a force to be feared in the looming battles over the budget, a tax overhaul and infrastructure.",
+      "publication_date": "2017-03-30T14:31:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/30/us/politics/freedom-caucus-donald-trump.html",
+      "byline": "By Glenn Thrush and Jonathan Martin"
+    }
+  ]
+}

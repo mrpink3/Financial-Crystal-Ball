@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-04-21",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Netanyahu’s Power Is Extended as Rival Accepts Israel Unity Government",
+      "snippet": "Prime Minister Benjamin Netanyahu, an embattled political survivor, persuaded Benny Gantz to join forces with him to combat the coronavirus.",
+      "abstract": "Prime Minister Benjamin Netanyahu, an embattled political survivor, persuaded Benny Gantz to join forces with him to combat the coronavirus.",
+      "lead_paragraph": "JERUSALEM — Prime Minister Benjamin Netanyahu of Israel and his former challenger, Benny Gantz, agreed Monday night to establish a unity government, a deal that finally breaks a yearlong political impasse and keeps Mr. Netanyahu in office as he faces trial on corruption charges.",
+      "publication_date": "2020-04-20T16:25:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/20/world/middleeast/netanyahu-israel-government-gantz.html",
+      "byline": "By David M. Halbfinger and Isabel Kershner"
+    },
+    {
+      "headline": "New York Needed Ventilators. So They Developed One in a Month.",
+      "snippet": "The pandemic inspired an innovative project to design and make a low-cost ventilator in weeks, not years.",
+      "abstract": "The pandemic inspired an innovative project to design and make a low-cost ventilator in weeks, not years.",
+      "lead_paragraph": "This article is part of our continuing Fast Forward series, which examines technological, economic, social and cultural shifts that happen as businesses evolve.",
+      "publication_date": "2020-04-20T17:12:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/20/technology/new-york-ventilators-coronavirus.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Excluded From Bailouts, Mortgage Servicers Face Cash Crunch",
+      "snippet": "Lawmakers and lobbyists warn that missed house payments could leave servicers insolvent but federal officials are not sold on the need for a rescue.",
+      "abstract": "Lawmakers and lobbyists warn that missed house payments could leave servicers insolvent but federal officials are not sold on the need for a rescue.",
+      "lead_paragraph": "WASHINGTON — Federal policymakers have rushed to backstop nearly every corner of the financial system as the coronavirus exacts a bruising toll on the U.S. economy. But there is growing concern that a critical corner of the housing industry has been overlooked, putting mortgage companies in a precarious position as millions of borrowers delay payments.",
+      "publication_date": "2020-04-20T20:55:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/20/us/politics/coronavirus-housing-mortgages.html",
+      "byline": "By Alan Rappeport, Matthew Goldstein and Jeanna Smialek"
+    },
+    {
+      "headline": "Too Much Oil: How a Barrel Came to Be Worth Less Than Nothing",
+      "snippet": "One oil price went negative on Monday, signaling that there is no place to store all the crude the world is producing but not using.",
+      "abstract": "One oil price went negative on Monday, signaling that there is no place to store all the crude the world is producing but not using.",
+      "lead_paragraph": "Something bizarre happened in the oil markets on Monday: Prices fell so much that some traders paid buyers to take oil off their hands.",
+      "publication_date": "2020-04-20T22:58:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/20/business/oil-prices.html",
+      "byline": "By Stanley Reed and Clifford Krauss"
+    },
+    {
+      "headline": "Trump Plans to Suspend Immigration to U.S.",
+      "snippet": "The president portrayed the measure, his most wide-ranging attempt yet to seal off the country from the world, as a bid to save Americans’ jobs amid the coronavirus pandemic.",
+      "abstract": "The president portrayed the measure, his most wide-ranging attempt yet to seal off the country from the world, as a bid to save Americans’ jobs amid the coronavirus pandemic.",
+      "lead_paragraph": "WASHINGTON — President Trump said on Monday evening that he intended to close the United States to people trying to immigrate into the country to live and work, a drastic move that he said would protect American workers from foreign competition once the nation’s economy began to recover from the shutdown caused by the coronavirus outbreak.",
+      "publication_date": "2020-04-21T03:30:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/20/us/politics/trump-immigration.html",
+      "byline": "By Katie Rogers, Michael D. Shear and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "Pandemic’s Costs Stagger the Nursing Home Industry",
+      "snippet": "Even before the coronavirus swept through care facilities, many were struggling with thin profit margins. Now they could be wiped out.",
+      "abstract": "Even before the coronavirus swept through care facilities, many were struggling with thin profit margins. Now they could be wiped out.",
+      "lead_paragraph": "Even before they became deadly petri dishes for the worst pandemic in generations, many nursing homes were struggling to stay afloat and provide quality care.",
+      "publication_date": "2020-04-21T07:15:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/21/business/coronavirus-nursing-home-finances.html",
+      "byline": "By Matthew Goldstein, Robert Gebeloff and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Spectrum Employees Are Getting Sick Amid Debate Over Working From Home",
+      "snippet": "More than 230 workers at Charter Communications, the cable and internet giant known as Spectrum, have tested positive for Covid-19, as employees question how many of them must work in the office.",
+      "abstract": "More than 230 workers at Charter Communications, the cable and internet giant known as Spectrum, have tested positive for Covid-19, as employees question how many of them must work in the office.",
+      "lead_paragraph": "Employees at Charter Communications, the internet, cable TV and phone giant known as Spectrum, have been getting sick while adhering to a company policy that has required thousands of them to work in offices and call centers rather than from home.",
+      "publication_date": "2020-04-21T14:21:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/21/business/spectrum-employees-coronavirus.html",
+      "byline": "By Rachel Abrams"
+    }
+  ]
+}

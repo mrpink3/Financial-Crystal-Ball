@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-04-24",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "The Secretive Group Guiding the U.K. on Coronavirus",
+      "snippet": "The British government frequently says it’s “guided by the science,” but the members of its scientific advisory group, SAGE, are a secret.",
+      "abstract": "The British government frequently says it’s “guided by the science,” but the members of its scientific advisory group, SAGE, are a secret.",
+      "lead_paragraph": "LONDON — As the British government comes under mounting criticism for its response to the coronavirus — one that has left Britain vying with Italy and Spain as the worst hit countries in Europe — Prime Minister Boris Johnson and his aides have defended themselves by saying they are “guided by the science.”",
+      "publication_date": "2020-04-23T16:15:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/23/world/europe/uk-coronavirus-sage-secret.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "The Oil Industry’s Glut Has a Bright Spot: Tanker Storage",
+      "snippet": "Shipping companies, which can command more than $200,000 a day for a vessel, are cashing in on increased demand.",
+      "abstract": "Shipping companies, which can command more than $200,000 a day for a vessel, are cashing in on increased demand.",
+      "lead_paragraph": "The price of oil has plunged, but the price of finding a place to put it has soared. And if you are in the business of providing a temporary home for the world’s glut of crude, you’ve hit the jackpot.",
+      "publication_date": "2020-04-23T16:58:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/23/business/oil-markets-tankers.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Movie Theaters, Urged to Open, Want to Delay Showtime",
+      "snippet": "The major chains, with no new releases to show and a fear of being singled out as virus hot spots, are worried about coming back too early.",
+      "abstract": "The major chains, with no new releases to show and a fear of being singled out as virus hot spots, are worried about coming back too early.",
+      "lead_paragraph": "LOS ANGELES — In recent weeks, a tentative timeline for reopening America’s movie theaters began to take shape. It involved pushing to get 75 percent of the country’s 5,548 cinemas selling tickets again this summer, enough to justify the wide release of two potential blockbusters: Christopher Nolan’s mind-bending “Tenet,” scheduled for July 17, and Disney’s mega-budget “Mulan,” set for July 24.",
+      "publication_date": "2020-04-23T22:15:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/23/business/media/coronavirus-movie-theaters.html",
+      "byline": "By Nicole Sperling and Brooks Barnes"
+    },
+    {
+      "headline": "Home Alone at the White House: A Sour President, With TV His Constant Companion",
+      "snippet": "As his administration grapples with reopening the economy and responding to the coronavirus crisis, President Trump worries about his re-election and how the news media is portraying him.",
+      "abstract": "As his administration grapples with reopening the economy and responding to the coronavirus crisis, President Trump worries about his re-election and how the news media is portraying him.",
+      "lead_paragraph": "WASHINGTON — President Trump arrives in the Oval Office these days as late as noon, when he is usually in a sour mood after his morning marathon of television.",
+      "publication_date": "2020-04-23T23:12:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/23/us/politics/coronavirus-trump.html",
+      "byline": "By Katie Rogers and Annie Karni"
+    },
+    {
+      "headline": "Vanquish the Virus? Australia and New Zealand Aim to Show the Way",
+      "snippet": "The two countries, led by ideological opposites, are converging on an extraordinary goal: eliminating the virus. Their nonpolitical approach is restoring trust in democracy.",
+      "abstract": "The two countries, led by ideological opposites, are converging on an extraordinary goal: eliminating the virus. Their nonpolitical approach is restoring trust in democracy.",
+      "lead_paragraph": "SYDNEY, Australia — Thousands of miles from President Trump’s combative news briefings, a conservative leader in Australia and a progressive prime minister in New Zealand are steadily guiding their countries toward a rapid suppression of the coronavirus outbreak.",
+      "publication_date": "2020-04-24T04:01:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/24/world/australia/new-zealand-coronavirus.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "Frantic for Coronavirus Gear, Americans in Need Turn to China’s Elite",
+      "snippet": "People and companies with vested interest in sustaining the U.S.-China relationship are stepping in as ties fray between the two countries.",
+      "abstract": "People and companies with vested interest in sustaining the U.S.-China relationship are stepping in as ties fray between the two countries.",
+      "lead_paragraph": "HONG KONG — U.S. hospitals and state officials face desperate shortages of the masks, ventilators and other gear they need to fight the coronavirus. Chinese factories can make the equipment and sell it to them, but huge obstacles stand in the way — and Washington’s stumbles and growing hostility with Beijing aren’t helping.",
+      "publication_date": "2020-04-24T07:31:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/24/business/us-china-coronavirus-donations.html",
+      "byline": "By Alexandra Stevenson, Nicholas Kulish and David Gelles"
+    },
+    {
+      "headline": "Guerrilla Golfers Sneak Onto Greens Closed by Pandemic",
+      "snippet": "Half of all golf courses are shut down. But across America — and especially in Florida — renegades are still getting their fix.",
+      "abstract": "Half of all golf courses are shut down. But across America — and especially in Florida — renegades are still getting their fix.",
+      "lead_paragraph": "DELRAY BEACH, Fla. — The 18 holes of the Boca Delray Golf and Country Club have been closed since late March, when administrators of Palm Beach County, Fla., decided to shutter every business and activity deemed nonessential.",
+      "publication_date": "2020-04-24T09:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/04/24/business/coronavirus-golfers.html",
+      "byline": "By David Segal"
+    },
+    {
+      "headline": "Some Companies Seeking Bailouts Had Piles of Cash, Then Spent It",
+      "snippet": "They poured the money into stock buybacks and dividends. Now, those hurting from the pandemic want government aid.",
+      "abstract": "They poured the money into stock buybacks and dividends. Now, those hurting from the pandemic want government aid.",
+      "lead_paragraph": "Last month, the top executives of KFC, Wendy’s, Papa John’s and other large restaurant chains held an urgent call with President Trump about the coronavirus crisis.",
+      "publication_date": "2020-04-24T09:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/24/business/coronavirus-bailouts-buybacks-cash.html",
+      "byline": "By Emily Flitter and Peter Eavis"
+    },
+    {
+      "headline": "Black Leaders Want a Black Woman as Biden’s Running Mate. But Who?",
+      "snippet": "Among black leaders close to Joe Biden, a commitment to selecting a woman is not enough. They have publicly and privately pushed him to select a black woman to fuel black voter enthusiasm.",
+      "abstract": "Among black leaders close to Joe Biden, a commitment to selecting a woman is not enough. They have publicly and privately pushed him to select a black woman to fuel black voter enthusiasm.",
+      "lead_paragraph": "Four years ago, Senator Cory Booker of New Jersey made his vice-presidential pitch to Hillary Clinton at her Washington home, months before she faced Donald J. Trump in the November election.",
+      "publication_date": "2020-04-24T09:00:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/24/us/politics/joe-biden-vice-president-black-candidates.html",
+      "byline": "By Astead W. Herndon"
+    },
+    {
+      "headline": "I Used to Make Fun of Silicon Valley Preppers. Then I Became One.",
+      "snippet": "In tech circles, gearing up for the apocalypse was a cliché. Now it’s a credential.",
+      "abstract": "In tech circles, gearing up for the apocalypse was a cliché. Now it’s a credential.",
+      "lead_paragraph": "For years, one of the most smirked-at subspecies in the technology ecosystem was that of the Silicon Valley Prepper. You were always hearing about them, these men with soft jobs and hardened paranoia. The $0.99 game developer with a bug-out bag; the venture capitalist with a bunker in New Zealand; the cloud administrator learning to bowhunt for a survivalist future. The preppers were living in flush times in a beautiful region, but it seemed like the first thing they did with money was steel for the apocalypse.",
+      "publication_date": "2020-04-24T12:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/04/24/technology/coronavirus-preppers.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Trump’s Suggestion That Disinfectants Could Be Used to Treat Coronavirus Prompts Aggressive Pushback",
+      "snippet": "Responding to the criticism from public health officials around the country, the president said he was playing a trick on reporters.",
+      "abstract": "Responding to the criticism from public health officials around the country, the president said he was playing a trick on reporters.",
+      "lead_paragraph": "WASHINGTON — In Maryland, so many callers flooded a health hotline with questions that the state’s Emergency Management Agency had to issue a warning that “under no circumstances” should any disinfectant be taken to treat the coronavirus. In Washington State, officials urged people not to consume laundry detergent capsules. Across the country on Friday, health professionals sounded the alarm.",
+      "publication_date": "2020-04-24T12:59:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/24/us/politics/trump-inject-disinfectant-bleach-coronavirus.html",
+      "byline": "By Katie Rogers, Christine Hauser, Alan Yuhas and Maggie Haberman"
+    }
+  ]
+}

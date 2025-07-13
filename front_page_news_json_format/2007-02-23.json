@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2007-02-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Used Base in Ethiopia to Hunt Al Qaeda",
+      "snippet": "The effort was described by U.S. officials as a qualified success that disrupted terrorist networks in Somalia.",
+      "abstract": "The effort was described by U.S. officials as a qualified success that disrupted terrorist networks in Somalia.",
+      "lead_paragraph": "WASHINGTON, Feb. 22 — The American military quietly waged a campaign from Ethiopia last month to capture or kill top leaders of Al Qaeda in the Horn of Africa, including the use of an airstrip in eastern Ethiopia to mount airstrikes against Islamic militants in neighboring Somalia, according to American officials. ",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/23/world/africa/23somalia.html",
+      "byline": "By Michael R. Gordon and Mark Mazzetti"
+    },
+    {
+      "headline": "Working in France, in the Style of Silicon Valley",
+      "snippet": "Europe’s new entrepreneurs are turning West to learn the start-up culture bred in Silicon Valley before coming back to apply their learning.",
+      "abstract": "Europe’s new entrepreneurs are turning West to learn the start-up culture bred in Silicon Valley before coming back to apply their learning.",
+      "lead_paragraph": "AIX-EN-PROVENCE, France — Jacques Souquet had gone through several start-ups in Seattle, but he still was not entirely prepared for beginning a high-tech company in his native France.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/23/business/worldbusiness/23entrepreneur.html",
+      "byline": "By John Tagliabue"
+    },
+    {
+      "headline": "Officials Reject More Oversight of Hedge Funds",
+      "snippet": "The Bush administration said there was no need for greater government oversight of the industry.",
+      "abstract": "The Bush administration said there was no need for greater government oversight of the industry.",
+      "lead_paragraph": "WASHINGTON, Feb. 22 — The Bush administration said Thursday that there was no need for greater government oversight of the rapidly growing hedge fund industry and other private investment groups to protect the nation’s financial system.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/23/business/23hedge.html",
+      "byline": "By Stephen Labaton"
+    },
+    {
+      "headline": "Long Iraq Tours Can Make Home a Trying Front",
+      "snippet": "For many soldiers and their families, the repercussions of deployments are one of the toughest, least discussed byproducts of the conflicts in Iraq and Afghanistan.",
+      "abstract": "For many soldiers and their families, the repercussions of deployments are one of the toughest, least discussed byproducts of the conflicts in Iraq and Afghanistan.",
+      "lead_paragraph": "In the nearly two years Cpl. John Callahan of the Army was away from home, his wife, he said, had two extramarital affairs. She failed to pay his credit card bills. And their two children were sent to live with her parents as their home life deteriorated.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/23/us/23military.html",
+      "byline": "By Lizette Alvarez"
+    },
+    {
+      "headline": "Iran Expanding Nuclear Effort, Agency Reports",
+      "snippet": "In response, the Bush administration immediately pressed for more severe sanctions against the country.",
+      "abstract": "In response, the Bush administration immediately pressed for more severe sanctions against the country.",
+      "lead_paragraph": "WASHINGTON, Feb. 22  In open defiance of the United Nations, Iran is steadily expanding its efforts to enrich uranium, the International Atomic Energy Agency reported Thursday. In response, the Bush administration immediately pressed for more severe sanctions against the country, at a moment of greatly increased tensions between Washington and Tehran.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/23/world/middleeast/23iran.html",
+      "byline": "By David E. Sanger and William J. Broad"
+    },
+    {
+      "headline": "As Asia Keeps Cool, Scientists Worry About the Ozone Layer",
+      "snippet": "Thanks in part to an explosion of demand for air-conditioners in hot places like India and China, the ozone layer is proving very hard to repair.",
+      "abstract": "Thanks in part to an explosion of demand for air-conditioners in hot places like India and China, the ozone layer is proving very hard to repair.",
+      "lead_paragraph": "MUMBAI, India — Until recently, it looked like the depleted ozone layer protecting the earth from harmful solar rays was on its way to being healed.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/23/business/23cool.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "2 Executives Are Ousted at HSBC",
+      "snippet": "The deterioration in the U.S. mortgage market forced the departures of two top executives at HSBC Holdings.",
+      "abstract": "The deterioration in the U.S. mortgage market forced the departures of two top executives at HSBC Holdings.",
+      "lead_paragraph": "LONDON, Feb. 22 — The deterioration in the United States mortgage market has now forced the departures of two top executives at HSBC Holdings, one of the world’s biggest banking companies. ",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/23/business/worldbusiness/23bank.html",
+      "byline": "By Julia Werdigier"
+    },
+    {
+      "headline": "MP3 Patents in Upheaval After Verdict",
+      "snippet": "Microsoft was ordered by a federal jury to pay $1.52 billion in a patent dispute over the MP3 format.",
+      "abstract": "Microsoft was ordered by a federal jury to pay $1.52 billion in a patent dispute over the MP3 format.",
+      "lead_paragraph": "Microsoft was ordered by a federal jury yesterday to pay $1.52 billion in a patent dispute over the MP3 format, the technology at the heart of the digital music boom. If upheld on appeal, it would be the largest patent judgment on record.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/23/technology/23patent.html",
+      "byline": "By Saul Hansell"
+    },
+    {
+      "headline": "Satellite Radio: A Good Idea, but a Bad Investment",
+      "snippet": "With XM and Sirius, a good product was created, but a lot of money was wasted in the process.",
+      "abstract": "With XM and Sirius, a good product was created, but a lot of money was wasted in the process.",
+      "lead_paragraph": "It is the genius — or perhaps the great flaw — of the American capital system that really clever, but totally uneconomical, ideas can be financed by investors.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/23/business/23norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Detour From High Road in Clinton-Obama Clash",
+      "snippet": "The blow-up demonstrated how these two candidates are moving to nail down support in all quarters.",
+      "abstract": "The blow-up demonstrated how these two candidates are moving to nail down support in all quarters.",
+      "lead_paragraph": "WASHINGTON, Feb. 22 — After weeks of watching in frustration as Senator Barack Obama presented himself as a fresh face gliding above partisan politics, Senator Hillary Rodham Clinton has drawn Mr. Obama onto a muddy political field, engaging him in a back-and-forth that recalls the kind of Washington bickering Mr. Obama has decried.",
+      "publication_date": "2007-02-23T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/23/us/politics/23feud.html",
+      "byline": "By Adam Nagourney"
+    }
+  ]
+}

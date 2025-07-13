@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2013-03-13",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Google Concedes That Drive-By Prying Violated Privacy",
+      "snippet": "In agreeing to settle a case brought by 38 states over the Street View mapping project, the company for the first time is required to aggressively police its own workers on privacy issues.",
+      "abstract": "In agreeing to settle a case brought by 38 states over the Street View mapping project, the company for the first time is required to aggressively police its own workers on privacy issues.",
+      "lead_paragraph": "SAN FRANCISCO — Google on Tuesday acknowledged to state officials that it had violated people’s privacy during its Street View mapping project when it casually scooped up passwords, e-mail and other personal information from unsuspecting computer users.",
+      "publication_date": "2013-03-12T18:10:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/03/13/technology/google-pays-fine-over-street-view-privacy-breach.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "U.S. Backs Boeing Plan for Testing 787 Battery",
+      "snippet": "The decision is a major step in Boeing’s efforts to get the innovative 787 jets back in the air, but could sharpen a debate over how effective the changes will be.",
+      "abstract": "The decision is a major step in Boeing’s efforts to get the innovative 787 jets back in the air, but could sharpen a debate over how effective the changes will be.",
+      "lead_paragraph": "Boeing achieved a major milestone on Tuesday as the Federal Aviation Administration approved its plan to test fixes for the battery problems that have grounded its 787 jets since mid-January.",
+      "publication_date": "2013-03-12T20:54:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/03/13/business/faa-backs-boeing-plan-for-battery-test.html",
+      "byline": "By Christopher Drew and Jad Mouawad"
+    },
+    {
+      "headline": "Blessings of Low Taxes Remain Unproved",
+      "snippet": "Paul Ryan of Wisconsin recycled an argument for lower taxes that surfaced in the ’80s and ’90s, but recent history suggests that higher taxes might help the economy.",
+      "abstract": "Paul Ryan of Wisconsin recycled an argument for lower taxes that surfaced in the ’80s and ’90s, but recent history suggests that higher taxes might help the economy.",
+      "lead_paragraph": "The proposition that low tax rates produce higher economic growth has been a central plank of the Republican platform since I was a teenager.",
+      "publication_date": "2013-03-12T22:49:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/03/13/business/effectiveness-of-tax-cuts-on-lifting-the-economy-is-unproved.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Syria Military Shows Strain in a War It Wasn’t Built to Fight",
+      "snippet": "The conflict has pushed a military built for repelling an Israeli invasion, not carrying out sustained asymmetrical combat, to scale back its goals and rethink its tactics.",
+      "abstract": "The conflict has pushed a military built for repelling an Israeli invasion, not carrying out sustained asymmetrical combat, to scale back its goals and rethink its tactics.",
+      "lead_paragraph": "BEIRUT, Lebanon — The Syrian military’s ability to fight rebels and hold territory has steadily eroded, forcing it to cede the job of running many checkpoints to paramilitary groups, give up a provincial city last week without much of a fight and even enlist the top state-appointed Muslim cleric as a recruiter. ",
+      "publication_date": "2013-03-12T22:54:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/03/13/world/middleeast/signs-of-strain-on-syrias-military-build.html",
+      "byline": "By Anne Barnard"
+    },
+    {
+      "headline": "Pushing Back Retirement, and Not Always for Money",
+      "snippet": "In sharp contrast to earlier generations, many people retire and then unretire, or continue working well after they were supposed to have retired.",
+      "abstract": "In sharp contrast to earlier generations, many people retire and then unretire, or continue working well after they were supposed to have retired.",
+      "lead_paragraph": "IT’S not your grandfather’s retirement, not nearly as cut and dried. It’s not the simple picture of stopping work at 60 or 65, moving to Florida and devoting oneself to golf and bridge — not that it was ever totally that.",
+      "publication_date": "2013-03-12T22:54:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2013/03/13/business/retirementspecial/pushing-back-retirement-and-not-always-for-money.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Hey, at Least You Can Be Virtually Immortal",
+      "snippet": "Digital devices and online services can provide the material to leave a document for younger generations, once you sort through it all.",
+      "abstract": "Digital devices and online services can provide the material to leave a document for younger generations, once you sort through it all.",
+      "lead_paragraph": "NO one will confuse typical retirees today with the Emperor Augustus, who constructed a huge mausoleum to celebrate his life for eternity. And yet they belong to the first generation of elders within easy grasp of something once so rare and valuable that relatively few historic figures could enjoy it until now: virtual immortality.",
+      "publication_date": "2013-03-12T22:56:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2013/03/13/business/retirementspecial/hey-at-least-you-can-be-virtually-immortal.html",
+      "byline": "By J. Peder Zane"
+    },
+    {
+      "headline": "Google Elbows Into the Cloud",
+      "snippet": "Google is expanding its office space and hiring engineers in the Seattle area to compete with rivals in the lucrative cloud computing business.",
+      "abstract": "Google is expanding its office space and hiring engineers in the Seattle area to compete with rivals in the lucrative cloud computing business.",
+      "lead_paragraph": "In a battle for dominance in cloud computing, Google is taking on Microsoft and Amazon in their own back yard. ",
+      "publication_date": "2013-03-13T00:30:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/03/13/technology/google-takes-on-amazon-and-microsoft-for-cloud-computing-services.html",
+      "byline": "By Claire Cain Miller and Quentin Hardy"
+    },
+    {
+      "headline": "White Says Her S.E.C. Would Be Tough on Wall St.",
+      "snippet": "The Senate Banking Committee is expected to approve Mary Jo White, who provided few details of her plans for the S.E.C.",
+      "abstract": "The Senate Banking Committee is expected to approve Mary Jo White, who provided few details of her plans for the S.E.C.",
+      "lead_paragraph": "WASHINGTON — Mary Jo White moved closer to becoming a top Wall Street regulator on Tuesday as she sailed through a Congressional confirmation hearing. But even her supporters on Capitol Hill pointed to significant challenges awaiting the next leader of the Securities and Exchange Commission.",
+      "publication_date": "2013-03-13T00:50:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/03/12/mary-jo-white-says-her-s-e-c-would-be-tough-on-wall-st/",
+      "byline": "By Ben Protess"
+    },
+    {
+      "headline": "Karzai Bets on\r\nVilifying U.S. to\r\nShed His Image\r\nas a Lackey",
+      "snippet": "In what is expected to be his final year in office, President Hamid Karzai is intensifying his criticism of his American allies at a critical moment in their Afghan endgame.",
+      "abstract": "In what is expected to be his final year in office, President Hamid Karzai is intensifying his criticism of his American allies at a critical moment in their Afghan endgame.",
+      "lead_paragraph": "KABUL, Afghanistan — The longest shadow in Afghan politics is cast by a traffic post that used to stand in Ariana Square outside the presidential palace: the Taliban hanged Najibullah, the last president of the Communist government, from it shortly after they marched into Kabul in 1996. ",
+      "publication_date": "2013-03-13T01:22:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/03/13/world/asia/karzais-bet-vilifying-us.html",
+      "byline": "By Alissa J. Rubin"
+    },
+    {
+      "headline": "Condé Nast Adds to Job of Longtime Vogue Editor",
+      "snippet": "As the magazine company’s artistic director, Anna Wintour, the editor of Vogue, will take over some responsibilities once held by S. I. Newhouse Jr.",
+      "abstract": "As the magazine company’s artistic director, Anna Wintour, the editor of Vogue, will take over some responsibilities once held by S. I. Newhouse Jr.",
+      "lead_paragraph": "Anna Wintour, who will mark her 25th anniversary as the editor of Vogue magazine this summer and who for the last year has been the subject of persistent rumors about a possible ambassadorship in the Obama administration, is taking on the additional role of artistic director of Condé Nast, the company announced on Wednesday.",
+      "publication_date": "2013-03-13T01:26:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/03/13/business/media/conde-nast-creates-new-job-for-anna-wintour.html",
+      "byline": "By Eric Wilson"
+    }
+  ]
+}

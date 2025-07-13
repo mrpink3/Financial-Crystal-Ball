@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-11-04",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy",
+      "snippet": "A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive",
+      "abstract": "A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive",
+      "lead_paragraph": "WASHINGTON — President Biden has promised to use trade policy as a tool to mitigate climate change. This weekend, the administration provided its first look at how it plans to mesh those policy goals, saying the United States and the European Union would try to curb carbon emissions as part of a trade deal covering steel and aluminum.",
+      "publication_date": "2021-11-03T16:40:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Fed Takes First Step Toward End of Pandemic Measures",
+      "snippet": "The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy.",
+      "abstract": "The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy.",
+      "lead_paragraph": "The Federal Reserve on Wednesday took its first step toward withdrawing support for the American economy, saying that it would begin to wind down a stimulus program that’s been in place since early in the pandemic as the economy heals and prices climb at an uncomfortably rapid pace.",
+      "publication_date": "2021-11-03T18:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Google Wants to Work With the Pentagon Again, Despite Employee Concerns",
+      "snippet": "Three years ago, the company walked away from a Defense Department project after employees objected to it. Now the company is working on a new proposal for the Pentagon.",
+      "abstract": "Three years ago, the company walked away from a Defense Department project after employees objected to it. Now the company is working on a new proposal for the Pentagon.",
+      "lead_paragraph": "Three years after an employee revolt forced Google to abandon work on a Pentagon program that used artificial intelligence, the company is aggressively pursuing a major contract to provide its technology to the military.",
+      "publication_date": "2021-11-03T18:37:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
+      "byline": "By Daisuke Wakabayashi and Kate Conger"
+    },
+    {
+      "headline": "Reeling From Surprise Losses, Democrats Sound the Alarm for 2022",
+      "snippet": "Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default.",
+      "abstract": "Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default.",
+      "lead_paragraph": "WASHINGTON — Reeling from a barrage of unexpected losses, an array of Democrats on Wednesday pleaded with President Biden and his party’s lawmakers to address the quality-of-life issues that plagued their candidates in elections on Tuesday from heavily Hispanic San Antonio to the suburbs of Virginia, New Jersey and New York.",
+      "publication_date": "2021-11-03T21:56:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Republicans Seize on Schools as a Wedge Issue to Unite the Party",
+      "snippet": "Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system.",
+      "abstract": "Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system.",
+      "lead_paragraph": "After an unexpectedly strong showing on Tuesday night, Republicans are heading into the 2022 midterm elections with what they believe will be a highly effective political strategy capitalizing on the frustrations of suburban parents still reeling from the devastating fallout of pandemic-era schooling.",
+      "publication_date": "2021-11-03T22:59:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html",
+      "byline": "By Lisa Lerer and Jeremy W. Peters"
+    },
+    {
+      "headline": "How Tyson Foods Got 60,500 Workers to Get the Coronavirus Vaccine Quickly",
+      "snippet": "The meatpacking giant, which was criticized for failing to do enough to protect its workers from Covid-19 last year, has become a leader on corporate mandates.",
+      "abstract": "The meatpacking giant, which was criticized for failing to do enough to protect its workers from Covid-19 last year, has become a leader on corporate mandates.",
+      "lead_paragraph": "SPRINGDALE, Ark. — When Tyson, one of the world’s largest meatpacking companies, announced in early August that all of its 120,000 workers would need to be vaccinated against the coronavirus or lose their jobs, Diana Eike was angry. Ms. Eike, an administrative coordinator at the company, had resisted the vaccine, and not for religious or political reasons like many others here in her home state.",
+      "publication_date": "2021-11-04T09:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/04/business/tyson-vaccine-mandate.html",
+      "byline": "By Lauren Hirsch and Michael Corkery"
+    },
+    {
+      "headline": "Center of Italy’s Anti-Vaccine Protests Is Now a Covid Hot Spot",
+      "snippet": "After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases.",
+      "abstract": "After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases.",
+      "lead_paragraph": "TRIESTE, Italy — When Italy introduced Europe’s toughest and most expansive health pass last month, the northeastern port city of Trieste became the epicenter of protests as vaccine skeptics marched alongside dock workers who shouted that the measure infringed on their right to work.",
+      "publication_date": "2021-11-04T09:00:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "U.S. Sets Jan. 4 Vaccination Deadline for Big Private Employers",
+      "snippet": "The new guidance will cover 84 million workers, who will be required to be fully vaccinated or be tested weekly.",
+      "abstract": "The new guidance will cover 84 million workers, who will be required to be fully vaccinated or be tested weekly.",
+      "lead_paragraph": "The Biden administration on Thursday set Jan. 4 as the deadline for large companies to mandate coronavirus vaccinations or start weekly testing of their workers, the government’s biggest effort yet to enlist private businesses in combating the virus.",
+      "publication_date": "2021-11-04T12:46:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/04/business/biden-vaccine-mandate-osha.html",
+      "byline": "By Lauren Hirsch"
+    }
+  ]
+}

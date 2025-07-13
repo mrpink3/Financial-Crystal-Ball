@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-06-04",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "For Years, Netanyahu Outlasted His Rivals. What Changed This Week?",
+      "snippet": "Prime Minister Benjamin Netanyahu of Israel failed to win a majority in the past three elections — but still held onto power. The ground has shifted.",
+      "abstract": "Prime Minister Benjamin Netanyahu of Israel failed to win a majority in the past three elections — but still held onto power. The ground has shifted.",
+      "lead_paragraph": "JERUSALEM — Naftali Bennett, the leader of a hard-right political party, stood before television cameras and pledged never to share power with Yair Lapid, a centrist, and Mansour Abbas, an Islamist. It was March 22, the day before Israel’s fourth election in two years.",
+      "publication_date": "2021-06-03T20:14:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/03/world/middleeast/netanyahu-bennett-israel-lapid-government.html",
+      "byline": "By Patrick Kingsley and Adam Rasgon"
+    },
+    {
+      "headline": "F. Lee Bailey, Lawyer for Patty Hearst and O.J. Simpson, Dies at 87",
+      "snippet": "With theatrical courtroom flair, he was involved in a host of notorious criminal cases, including those of the Boston Strangler and a Vietnam War massacre.",
+      "abstract": "With theatrical courtroom flair, he was involved in a host of notorious criminal cases, including those of the Boston Strangler and a Vietnam War massacre.",
+      "lead_paragraph": " ",
+      "publication_date": "2021-06-03T20:50:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/03/us/f-lee-bailey-dead.html",
+      "byline": "By Robert D. McFadden"
+    },
+    {
+      "headline": "Biden Expands Trump-Era Ban on Investment in Chinese Firms Linked to Military",
+      "snippet": "The new order includes firms engaged in making and deploying the surveillance technology used against Muslim minorities and dissidents around the globe.",
+      "abstract": "The new order includes firms engaged in making and deploying the surveillance technology used against Muslim minorities and dissidents around the globe.",
+      "lead_paragraph": "President Biden issued a new executive order on Thursday barring Americans from investing in Chinese firms that are linked to the country’s military or that sell surveillance technology used to repress dissent or religious minorities, both inside and outside China.",
+      "publication_date": "2021-06-03T22:53:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/03/us/politics/biden-ban-chinese-firms-trump.html",
+      "byline": "By David E. Sanger and David McCabe"
+    },
+    {
+      "headline": "Biden Narrows Infrastructure Request, but Hurdles Remain for Bipartisan Deal",
+      "snippet": "The president offered new concessions this week, including dropping his plan to reverse some of the 2017 tax cuts, as he tries to win support from Senate Republicans.",
+      "abstract": "The president offered new concessions this week, including dropping his plan to reverse some of the 2017 tax cuts, as he tries to win support from Senate Republicans.",
+      "lead_paragraph": "WASHINGTON — President Biden offered a series of concessions to try to secure a $1 trillion infrastructure deal with Senate Republicans in an Oval Office meeting this week, narrowing both his spending and tax proposals as negotiations barreled into the final days of what could be an improbable agreement or a blame game that escalates quickly.",
+      "publication_date": "2021-06-03T23:11:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/03/business/economy/biden-infrastructure-senate-republicans.html",
+      "byline": "By Jim Tankersley and Emily Cochrane"
+    },
+    {
+      "headline": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but Can’t Rule It Out, Either",
+      "snippet": "A new report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge.",
+      "abstract": "A new report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge.",
+      "lead_paragraph": "WASHINGTON — American intelligence officials have found no evidence that aerial phenomena witnessed by Navy pilots in recent years are alien spacecraft, but they still cannot explain the unusual movements that have mystified scientists and the military, according to senior administration officials briefed on the findings of a highly anticipated government report.",
+      "publication_date": "2021-06-03T23:55:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html",
+      "byline": "By Julian E. Barnes and Helene Cooper"
+    },
+    {
+      "headline": "Subdued but Not Silenced, Hong Kong Tries to Remember Tiananmen Massacre",
+      "snippet": "Officials banned the annual June 4 vigil, as a new security law looms over commemorations of the 1989 crackdown. Hong Kongers wonder how long the memory will remain.",
+      "abstract": "Officials banned the annual June 4 vigil, as a new security law looms over commemorations of the 1989 crackdown. Hong Kongers wonder how long the memory will remain.",
+      "lead_paragraph": "HONG KONG — They had been barred from holding their usual memorial, but that did not mean they would not remember.",
+      "publication_date": "2021-06-04T05:05:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/04/world/asia/china-tiananmen-massacre.html",
+      "byline": "By Vivian Wang"
+    },
+    {
+      "headline": "U.S. Added 559,000 Jobs in May, but Road to Recovery Is Bumpy",
+      "snippet": "Many employers report having trouble finding applicants. Economists say the labor market may simply need time to get sorted out.",
+      "abstract": "Many employers report having trouble finding applicants. Economists say the labor market may simply need time to get sorted out.",
+      "lead_paragraph": "Employers added hundreds of thousands of jobs last month as coronavirus infections ebbed, vaccinations spread and businesses reopened, the government reported Friday. But the labor market’s recovery from the pandemic is proving to be choppy.",
+      "publication_date": "2021-06-04T08:42:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/04/business/economy/jobs-report-may-2021.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Can the Pandemic Rescue Britain’s Shopping Areas? This Town Hopes So.",
+      "snippet": "In a British coastal town, a major landlord is giving away free rent for two years as part of a redevelopment plan.",
+      "abstract": "In a British coastal town, a major landlord is giving away free rent for two years as part of a redevelopment plan.",
+      "lead_paragraph": "POOLE, England — Hope Dean is loyal to Poole, her hometown in southwest Britain, but she acknowledges that its shopping district has often been a source of embarrassment.",
+      "publication_date": "2021-06-04T09:30:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/04/business/can-the-pandemic-rescue-britains-shopping-areas-this-town-hopes-so.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Global Finance Leaders Move Closer to International Tax Agreement",
+      "snippet": "The overhaul under discussion includes a minimum tax that companies would pay regardless of where their headquarters were.",
+      "abstract": "The overhaul under discussion includes a minimum tax that companies would pay regardless of where their headquarters were.",
+      "lead_paragraph": "LONDON — Finance ministers from the Group of 7 nations were on the cusp of a broad agreement over how to overhaul the international tax system and were aiming to announce a pact on Saturday that could have financial consequences for some of the world’s largest companies, according to officials familiar with the negotiations.",
+      "publication_date": "2021-06-04T14:05:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/04/business/g7-leaders-tax-system-overhaul.html",
+      "byline": "By Alan Rappeport"
+    }
+  ]
+}

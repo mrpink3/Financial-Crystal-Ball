@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-02-08",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Fed Chair Strikes a Wary Tone as Biden Prepares to Tout the Economy",
+      "snippet": "The White House has embraced signs that the economy is strong. For the Fed, that strength could prolong its fight against inflation.",
+      "abstract": "The White House has embraced signs that the economy is strong. For the Fed, that strength could prolong its fight against inflation.",
+      "lead_paragraph": "WASHINGTON — Jerome H. Powell, the chair of the Federal Reserve, underscored that the central bank has more work to do when it comes to slowing the economy and that officials remain determined to wrestle rapid inflation under control, even if that means pushing rates higher than expected.",
+      "publication_date": "2023-02-07T18:30:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/07/business/economy/powell-fed-chair-comments.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine",
+      "snippet": "Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.",
+      "abstract": "Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.",
+      "lead_paragraph": "It’s been a rough few months for the tech industry. There have been tens of thousands of layoffs, hundreds of billions in value lost on Wall Street and a high-profile scandal at a crypto company that has shaken faith in that young market.",
+      "publication_date": "2023-02-07T18:43:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/07/technology/microsoft-ai-chatgpt-bing.html",
+      "byline": "By Cade Metz and Karen Weise"
+    },
+    {
+      "headline": "Amid Quake’s Frosty Wreckage, a Remarkable but Bittersweet Rescue",
+      "snippet": "In the hard-hit Turkish city of Gaziantep, a collapsed apartment building spared few of its residents. But one man heard his brother’s voice from beneath the debris.",
+      "abstract": "In the hard-hit Turkish city of Gaziantep, a collapsed apartment building spared few of its residents. But one man heard his brother’s voice from beneath the debris.",
+      "lead_paragraph": "GAZIANTEP, Turkey — At first glance, there was little reason to expect that anyone was still alive in the ruins of the apartment building on Tuesday. The powerful earthquake that struck southern Turkey the day before had reduced its six floors to a hulking pile of concrete rubble.",
+      "publication_date": "2023-02-07T21:33:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/07/world/europe/turkey-earthquake-rescue-gaziantep-apartment.html",
+      "byline": "By Ben Hubbard and Safak Timur"
+    },
+    {
+      "headline": "Memphis Officer Texted Photo of Tyre Nichols After Beating, New Documents Show",
+      "snippet": "The revelation came in Memphis police documents related to the firing of five officers who have been charged with murder in Mr. Nichols’s death.",
+      "abstract": "The revelation came in Memphis police documents related to the firing of five officers who have been charged with murder in Mr. Nichols’s death.",
+      "lead_paragraph": "MEMPHIS — As Tyre Nichols sat propped against a police car, bloodied, dazed and handcuffed after being beaten by a group of Memphis police officers, one of those officers took a picture of him and sent it to at least five people, the Memphis Police Department said in documents released by the state on Tuesday.",
+      "publication_date": "2023-02-07T22:22:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/07/us/tyre-nichols-photo-memphis-demetrius-haley.html",
+      "byline": "By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith"
+    },
+    {
+      "headline": "Rescue Teams Fight ‘Weather and the Earthquake’ as Toll Surpasses 7,700 Dead",
+      "snippet": "Shoveling snow and rubble, emergency crews worked across hundreds of miles in Turkey and Syria to save people in the aftermath of the most powerful quake in the region in decades.",
+      "abstract": "Shoveling snow and rubble, emergency crews worked across hundreds of miles in Turkey and Syria to save people in the aftermath of the most powerful quake in the region in decades.",
+      "lead_paragraph": "GAZIANTEP, Turkey — Rescue workers dug through rubble on Tuesday to find survivors of the most powerful and deadly earthquake to hit Turkey and Syria in decades, toiling in a vast and desperate search complicated by geography and geopolitics, freezing weather and the sheer scope of the disaster.",
+      "publication_date": "2023-02-07T23:02:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/07/world/middleeast/earthquake-turkey-syria.html",
+      "byline": "By Safak Timur, Ben Hubbard and Gulsin Harman"
+    },
+    {
+      "headline": "China’s Bid to Improve Food Production? Giant Towers of Pigs.",
+      "snippet": "High-rise hog farms have sprung up nationwide as part of Beijing’s drive to enhance its agricultural competitiveness and reduce its dependence on imports.",
+      "abstract": "High-rise hog farms have sprung up nationwide as part of Beijing’s drive to enhance its agricultural competitiveness and reduce its dependence on imports.",
+      "lead_paragraph": "The first sows arrived in late September at the hulking, 26-story high-rise towering above a rural village in central China. The female pigs were whisked away dozens at a time in industrial elevators to the higher floors where the hogs would reside from insemination to maturity.",
+      "publication_date": "2023-02-08T10:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/08/business/china-pork-farms.html",
+      "byline": "By Daisuke Wakabayashi and Claire Fu"
+    }
+  ]
+}

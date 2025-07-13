@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-05-20",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Oklahoma Legislature Passes Bill Banning Almost All Abortions",
+      "snippet": "The legislation prohibits abortion from the moment of fertilization and relies on lawsuits from private citizens to enforce it. If the governor signs the bill, it would be the nation’s strictest measure, and take effect immediately.",
+      "abstract": "The legislation prohibits abortion from the moment of fertilization and relies on lawsuits from private citizens to enforce it. If the governor signs the bill, it would be the nation’s strictest measure, and take effect immediately.",
+      "lead_paragraph": "[The Oklahoma governor signed a bill into law that bans most abortions. Follow for the latest news.]",
+      "publication_date": "2022-05-19T17:27:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/19/us/oklahoma-ban-abortions.html",
+      "byline": "By Kate Zernike, Mitch Smith and Luke Vander Ploeg"
+    },
+    {
+      "headline": "Moscow Moves to Russify Seized Ukraine Land, Signaling Annexation",
+      "snippet": "The territory occupied by Russian forces so far in the three-month-old invasion deserves “a worthy place in our Russian family,” a Kremlin official who toured the region said.",
+      "abstract": "The territory occupied by Russian forces so far in the three-month-old invasion deserves “a worthy place in our Russian family,” a Kremlin official who toured the region said.",
+      "lead_paragraph": "KRAKOW, Poland — Fresh from its triumph over the last armed Ukrainian resistance in the devastated city of Mariupol, Russia appeared to be laying the groundwork Thursday for annexing swaths of southeast Ukraine, described by a high-ranking Kremlin official as having a “worthy place in our Russian family.’’",
+      "publication_date": "2022-05-19T23:14:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/19/world/europe/moscow-russifying-captured-territory.html",
+      "byline": "By Marc Santora, Ivan Nechepurenko and Norimitsu Onishi"
+    },
+    {
+      "headline": "Karine Jean-Pierre’s Unlikely Rise to the White House Lectern",
+      "snippet": "The first Black and first openly gay press secretary was raised in an immigrant family with “so many secrets.” Now she occupies one of the most scrutinized jobs in American politics.",
+      "abstract": "The first Black and first openly gay press secretary was raised in an immigrant family with “so many secrets.” Now she occupies one of the most scrutinized jobs in American politics.",
+      "lead_paragraph": "Karine Jean-Pierre began her debut briefing as President Biden’s press secretary on Monday by acknowledging the unusual nature of her presence behind the White House lectern. “I am a Black, gay, immigrant woman, the first of all three of those to hold this position,” she said.",
+      "publication_date": "2022-05-20T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/20/business/media/karine-jean-pierre-press-secretary.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Hollywood’s Last Real Movie Star",
+      "snippet": "At a time when superheroes dominate the box office, the film industry hopes the actor can bring grown-ups back to theaters.",
+      "abstract": "At a time when superheroes dominate the box office, the film industry hopes the actor can bring grown-ups back to theaters.",
+      "lead_paragraph": "The helicopter had the star’s name painted on it, the letters coming into focus as it landed on the retired aircraft carrier, which was adorned for the occasion with an expansive red carpet and a smattering of fighter jets. Tom Cruise. Top Gun. Maverick.",
+      "publication_date": "2022-05-20T09:00:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/05/20/business/media/tom-cruise-top-gun-maverick.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "S&P 500 Drops for Seventh Straight Week but Evades Bear Market",
+      "snippet": "Investors are selling as they worry about inflation, interest rates and a potential recession.",
+      "abstract": "Investors are selling as they worry about inflation, interest rates and a potential recession.",
+      "lead_paragraph": "A chaotic day on Wall Street extended the longest period of market turmoil since 2001, with stocks on Friday briefly descending into bear market territory, a symbolic marker of investors’ deep pessimism about the health of the global economy and the buying power of the American consumer.",
+      "publication_date": "2022-05-20T10:50:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/20/business/stock-market-inflation.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "A Weak Euro Heads to an Uncomfortable Milestone: Parity With the Dollar",
+      "snippet": "The euro hasn’t fallen below the one-to-one exchange rate with the U.S. dollar for two decades. But as economic risks grow, more analysts predict deeper lows for the shared currency.",
+      "abstract": "The euro hasn’t fallen below the one-to-one exchange rate with the U.S. dollar for two decades. But as economic risks grow, more analysts predict deeper lows for the shared currency.",
+      "lead_paragraph": "The list of ailments troubling the eurozone economy was already stark: the highest inflation rate on record, energy insecurity and increasing whispers about a recession. This month, another threat emerged. The weakening euro has raised expectations that it could reach parity with the U.S. dollar.",
+      "publication_date": "2022-05-20T11:32:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/20/business/economy/euro-dollar-usd.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Even Among Corporate Raiders, Elon Musk Is a Pirate",
+      "snippet": "The world of deal making has always been rough and tumble. But Mr. Musk blows any predecessors away.",
+      "abstract": "The world of deal making has always been rough and tumble. But Mr. Musk blows any predecessors away.",
+      "lead_paragraph": "The history of mergers and acquisitions is filled with ruthless corporate raiders, bruising wars of words and people trying to stiff each other.",
+      "publication_date": "2022-05-20T13:26:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/20/business/elon-musk-twitter-takeover.html",
+      "byline": "By Lauren Hirsch"
+    },
+    {
+      "headline": "Big Tech Is Getting Clobbered on Wall Street. It’s a Good Time for Them.",
+      "snippet": "Flush with cash, Facebook, Apple, Amazon, Microsoft and Google are positioned to emerge from a downturn stronger and more powerful. As usual.",
+      "abstract": "Flush with cash, Facebook, Apple, Amazon, Microsoft and Google are positioned to emerge from a downturn stronger and more powerful. As usual.",
+      "lead_paragraph": "SAN FRANCISCO — Apple, Amazon, Microsoft and the parent companies of Facebook and Google have lost $2.7 trillion in value so far this year, about the annual gross domestic product of Britain.",
+      "publication_date": "2022-05-20T15:50:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/20/technology/facebook-amazon-apple-markets.html",
+      "byline": "By Tripp Mickle"
+    }
+  ]
+}

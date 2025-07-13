@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2013-01-09",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Obama’s Remade Inner Circle Has an All-Male Look, So Far",
+      "snippet": "Given the leading contenders for other top jobs, President Obama’s inner circle will continue to be dominated by men well into his second term.",
+      "abstract": "Given the leading contenders for other top jobs, President Obama’s inner circle will continue to be dominated by men well into his second term.",
+      "lead_paragraph": "WASHINGTON — In an Oval Office meeting on Dec. 29, 11 of President Obama’s top advisers stood before him discussing the heated fiscal negotiations. The 10 visible in a White House photo are men.",
+      "publication_date": "2013-01-08T18:22:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/01/09/us/politics/under-obama-a-skew-toward-male-appointees.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Health Care and Profits, a Poor Mix",
+      "snippet": "Conflicting financial incentives in health care raise a broader, more important question: How much should we rely on the private sector to satisfy broad social needs?",
+      "abstract": "Conflicting financial incentives in health care raise a broader, more important question: How much should we rely on the private sector to satisfy broad social needs?",
+      "lead_paragraph": "Thirty years ago, Bonnie Svarstad and Chester Bond of the School of Pharmacy at the University of Wisconsin-Madison discovered an interesting pattern in the use of sedatives at nursing homes in the south of the state. ",
+      "publication_date": "2013-01-08T22:22:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/01/09/business/health-care-and-pursuit-of-profit-make-a-poor-mix.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Fuel Leak Is Latest Setback for Boeing’s Dreamliner",
+      "snippet": "An incident in Boston a day after a fire on another 787 Dreamliner, Boeing’s newest and most sophisticated jet, added to pressure on the aircraft maker’s stock.",
+      "abstract": "An incident in Boston a day after a fire on another 787 Dreamliner, Boeing’s newest and most sophisticated jet, added to pressure on the aircraft maker’s stock.",
+      "lead_paragraph": "Boeing’s newest and most sophisticated jet, the 787 Dreamliner, suffered a new mishap on Tuesday when a fuel leak forced an aircraft to return to its gate minutes before taking off from Boston, a day after an electrical fire broke out on another plane. ",
+      "publication_date": "2013-01-08T23:04:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/01/09/business/fuel-leak-is-latest-setback-for-boeing-787.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Former SAC Analyst Cooperates in Insider Trading Case",
+      "snippet": "A former analyst at SAC Capital Advisors, the hedge fund owned by the billionaire investor Steven A. Cohen, has given federal agents the names of about 20 people he said had engaged in insider trading, according to a court filing.",
+      "abstract": "A former analyst at SAC Capital Advisors, the hedge fund owned by the billionaire investor Steven A. Cohen, has given federal agents the names of about 20 people he said had engaged in insider trading, according to a court filing.",
+      "lead_paragraph": "A former analyst at SAC Capital Advisors, the hedge fund owned by the billionaire investor Steven A. Cohen, has given federal agents the names of about 20 people he said had engaged in insider trading, according to a court filing.",
+      "publication_date": "2013-01-09T00:42:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/01/08/former-sac-analyst-cooperates-in-insider-trading-case/",
+      "byline": "By Peter Lattman"
+    },
+    {
+      "headline": "A Financial Service for People Fed Up With Banks",
+      "snippet": "An online banking start-up company called Simple offers free checking accounts and digital tools to people frustrated with typical banks.",
+      "abstract": "An online banking start-up company called Simple offers free checking accounts and digital tools to people frustrated with typical banks.",
+      "lead_paragraph": "Like many people, Josh Reich got fed up with his bank after it charged him overdraft fees and he endured painful customer service calls to fight them. But unlike most people, Mr. Reich, a software engineer from Australia, decided to come up with a better way to bank. ",
+      "publication_date": "2013-01-09T01:04:56+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/01/09/technology/a-financial-service-for-people-fed-up-with-banks.html",
+      "byline": "By Jenna Wortham"
+    },
+    {
+      "headline": "In Old Taliban Strongholds, Qualms About What Lies Ahead",
+      "snippet": "Peace has eased safety concerns in Helmand Province, but there is little faith in the Afghan government’s ability to maintain the security gains won by American and British troops.",
+      "abstract": "Peace has eased safety concerns in Helmand Province, but there is little faith in the Afghan government’s ability to maintain the security gains won by American and British troops.",
+      "lead_paragraph": "LOY BAGH, Afghanistan — The battle against the Taliban in Helmand Province was so fierce two years ago that farmers here say there were some fields where virtually every ear of corn had a bullet in it.",
+      "publication_date": "2013-01-09T01:42:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/01/09/world/asia/in-old-taliban-strongholds-qualms-on-what-lies-ahead.html",
+      "byline": "By Alissa J. Rubin"
+    },
+    {
+      "headline": "Bank Hacking Was the Work of Iranians, Officials Say",
+      "snippet": "The skill required to execute the attacks convinced American officials that Iran was behind them, likely in retaliation for economic sanctions and online attacks by the United States.",
+      "abstract": "The skill required to execute the attacks convinced American officials that Iran was behind them, likely in retaliation for economic sanctions and online attacks by the United States.",
+      "lead_paragraph": "SAN FRANCISCO — The attackers hit one American bank after the next. As in so many previous attacks, dozens of online banking sites slowed, hiccupped or ground to a halt before recovering several minutes later.",
+      "publication_date": "2013-01-09T02:58:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/01/09/technology/online-banking-attacks-were-work-of-iran-us-officials-say.html",
+      "byline": "By Nicole Perlroth and Quentin Hardy"
+    },
+    {
+      "headline": "In Step on ‘Light Footprint,’ Nominees Reflect a Shift",
+      "snippet": "President Obama’s selection of a new national security team appears to have ended, at least for now, many of the internal debates about military interventions.",
+      "abstract": "President Obama’s selection of a new national security team appears to have ended, at least for now, many of the internal debates about military interventions.",
+      "lead_paragraph": "WASHINGTON — With the selection of a new national security team deeply suspicious of the wisdom of American military interventions around the world, President Obama appears to have ended, at least for the moment, many of the internal administration debates that played out in the Situation Room over the past four years.",
+      "publication_date": "2013-01-09T03:05:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/01/09/us/politics/obama-nominees-in-step-on-light-footprint.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "A Bold Dissenter at the Fed, Hoping His Doubts Are Wrong",
+      "snippet": "Jeffrey M. Lacker, president of the Federal Reserve Bank of Richmond in Virginia, has warned that the central bank’s efforts to stimulate growth are ineffective.",
+      "abstract": "Jeffrey M. Lacker, president of the Federal Reserve Bank of Richmond in Virginia, has warned that the central bank’s efforts to stimulate growth are ineffective.",
+      "lead_paragraph": "RICHMOND, Va. — Jeffrey M. Lacker, the Federal Reserve’s most persistent internal critic, does not much resemble a firebrand. He is personally cheerful, professionally inclined to see both sides of an issue and quick to acknowledge he may not be right. He says he would rather be wrong.",
+      "publication_date": "2013-01-09T03:10:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/01/09/business/a-bold-dissenter-at-the-fed-hoping-his-doubts-are-wrong.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Chinese Firm Buys U.S. Solar Start-Up",
+      "snippet": "Hanergy Holding Group of China added to its international acquisitions with MiaSolé, a thin-film solar panel manufacturer that is considered one of Silicon Valley’s most promising young firms.",
+      "abstract": "Hanergy Holding Group of China added to its international acquisitions with MiaSolé, a thin-film solar panel manufacturer that is considered one of Silicon Valley’s most promising young firms.",
+      "lead_paragraph": "Just a few years ago, Silicon Valley investors were pouring money into solar technologies and talking about how they would bring the same kind of innovation to green energy that they had to the computer chip.",
+      "publication_date": "2013-01-09T12:33:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/01/10/business/energy-environment/chinese-company-buys-2-solar-companies-from-west.html",
+      "byline": "By Diane Cardwell and Keith Bradsher"
+    },
+    {
+      "headline": "Just Business: 2 Hedge Fund Rivals Clash Over Herbalife",
+      "snippet": "Daniel Loeb, the Third Point chief, and William A. Ackman are locked in a battle over, of all things, a nutritional supplements company that makes protein bars and energy shakes.",
+      "abstract": "Daniel Loeb, the Third Point chief, and William A. Ackman are locked in a battle over, of all things, a nutritional supplements company that makes protein bars and energy shakes.",
+      "lead_paragraph": "10:21 p.m. | Updated ",
+      "publication_date": "2013-01-09T15:08:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2013/01/09/loeb-counters-ackmans-bet-against-herbalife/",
+      "byline": "By Michael J. de la Merced and Andrew Ross Sorkin"
+    }
+  ]
+}

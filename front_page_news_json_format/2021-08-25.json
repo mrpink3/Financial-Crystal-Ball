@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-08-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Under Taliban Rule, Life in Kabul Transforms Once Again",
+      "snippet": "Though the streets are quiet, Kabul residents describe a struggle to make ends meet in a reeling economy where banks and government offices are closed, and uncertainty reigns.",
+      "abstract": "Though the streets are quiet, Kabul residents describe a struggle to make ends meet in a reeling economy where banks and government offices are closed, and uncertainty reigns.",
+      "lead_paragraph": "The Americans are all but gone, the Afghan government has collapsed, and the Taliban rule the streets of Kabul now. Overnight, millions of Kabul residents have been left to navigate an uncertain transition after 20 years of U.S.-backed rule.",
+      "publication_date": "2021-08-24T19:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/24/world/asia/kabul-life-taliban-rule.html",
+      "byline": "By Norimitsu Onishi and Sharif Hassan"
+    },
+    {
+      "headline": "Biden Sticks to Afghan Deadline, Resisting Pleas to Extend Evacuation",
+      "snippet": "The American withdrawal coincided with a threat by the Taliban to stop Afghans from traveling to the airport, an ominous sign that the window may be slamming shut for thousands of people desperate to leave.",
+      "abstract": "The American withdrawal coincided with a threat by the Taliban to stop Afghans from traveling to the airport, an ominous sign that the window may be slamming shut for thousands of people desperate to leave.",
+      "lead_paragraph": "President Biden said Tuesday that the United States intended to withdraw completely from Afghanistan at the end of the month as planned, rebuffing pleas from Britain, France and other NATO allies to keep troops in Kabul and hastening the end of a frantic evacuation that has become a grim coda to two decades of war.",
+      "publication_date": "2021-08-25T00:06:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/24/world/asia/biden-afghanistan-withdrawal-evacuation.html",
+      "byline": "By Mark Landler and Michael D. Shear"
+    },
+    {
+      "headline": "Budding Resistance to the Taliban Faces Long Odds",
+      "snippet": "For now, the fighters have merely two assets: a narrow valley with a history of repelling invaders and the legacy of a storied mujahedeen commander.",
+      "abstract": "For now, the fighters have merely two assets: a narrow valley with a history of repelling invaders and the legacy of a storied mujahedeen commander.",
+      "lead_paragraph": "The first signs of armed resistance to the Taliban have come from a narrow valley with a history of repelling invaders.",
+      "publication_date": "2021-08-25T07:00:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/25/world/asia/panjshir-valley-ahmad-massoud.html",
+      "byline": "By Carlotta Gall and Adam Nossiter"
+    },
+    {
+      "headline": "The Pandemic Is Testing the Federal Reserve’s New Policy Plan",
+      "snippet": "Year 1 of the Fed’s framework, unveiled at its Jackson Hole conference in 2020, has included high inflation and job market healing. Now comes the hard part.",
+      "abstract": "Year 1 of the Fed’s framework, unveiled at its Jackson Hole conference in 2020, has included high inflation and job market healing. Now comes the hard part.",
+      "lead_paragraph": "When Jerome H. Powell speaks at the Federal Reserve’s biggest annual conference on Friday, he will do so at a tense economic moment, as prices rise rapidly while millions of jobs remain missing from the labor market. That combination promises to test the meaning of a quiet revolution the central bank chair ushered in one year ago.",
+      "publication_date": "2021-08-25T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/25/business/economy/federal-reserve-jackson-hole-meeting.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Banks Are Bingeing on Bonds, but Not Because They Want To",
+      "snippet": "Banks are awash in deposits, and their customers are taking out fewer loans. So they have little choice but to buy up government debt, even if it means skimpy profits.",
+      "abstract": "Banks are awash in deposits, and their customers are taking out fewer loans. So they have little choice but to buy up government debt, even if it means skimpy profits.",
+      "lead_paragraph": "The economy is growing. Businesses are hiring. Stocks are marching ever higher. And banks are sitting on big piles of cash.",
+      "publication_date": "2021-08-25T09:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/25/business/banks-government-bonds.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "How Mexico Helped The Times Get Its Journalists Out of Afghanistan",
+      "snippet": "A humanitarian effort led by Foreign Minister Marcelo Ebrard gave Afghans and their families a sanctuary amid the fast-unfolding crisis.",
+      "abstract": "A humanitarian effort led by Foreign Minister Marcelo Ebrard gave Afghans and their families a sanctuary amid the fast-unfolding crisis.",
+      "lead_paragraph": "A group of Afghans who worked for The New York Times, along with their families, touched down safely early Wednesday — not in New York or Washington, but at Benito Juárez International Airport in Mexico City.",
+      "publication_date": "2021-08-25T09:10:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/25/business/media/new-york-times-mexico-afghanistan.html",
+      "byline": "By Ben Smith"
+    },
+    {
+      "headline": "Few Women Ascend Japan’s Corporate Ladder. Is Change Finally Coming?",
+      "snippet": "Only 6 percent of board seats at Japanese companies are held by women. After years of unkept promises, these businesses are now facing pressure both at home and abroad to diversify.",
+      "abstract": "Only 6 percent of board seats at Japanese companies are held by women. After years of unkept promises, these businesses are now facing pressure both at home and abroad to diversify.",
+      "lead_paragraph": "TOKYO — When Naomi Koshi was elected in June to the board of one of Japan’s largest telecommunications companies, she became one of the few women in the country to reach the top of the corporate ladder.",
+      "publication_date": "2021-08-25T10:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/25/business/women-japan-companies.html",
+      "byline": "By Ben Dooley"
+    },
+    {
+      "headline": "‘They Were Bullies’: Inside the Turbulent Origins of the Collapsed Florida Condo",
+      "snippet": "The team that developed Champlain Towers managed to build the condos despite checkered pasts, internal strife and a last-minute change that infuriated leaders in Surfside, Fla.",
+      "abstract": "The team that developed Champlain Towers managed to build the condos despite checkered pasts, internal strife and a last-minute change that infuriated leaders in Surfside, Fla.",
+      "lead_paragraph": "It was in the middle of summer in 1980 when developers raising a pair of luxury condominium towers in Surfside, Fla., went to town officials with an unusual request: They wanted to add an extra floor to each building.",
+      "publication_date": "2021-08-25T12:30:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/25/us/miami-building-collapse-surfside.html",
+      "byline": "By Mike Baker and Michael LaForgia"
+    },
+    {
+      "headline": "Biden, Needing a Win, Enters a Sprint for His Economic Agenda",
+      "snippet": "As his poll numbers slide, the president and his aides have mounted an aggressive pitch in Congress and around the country for his spending plans on infrastructure and more.",
+      "abstract": "As his poll numbers slide, the president and his aides have mounted an aggressive pitch in Congress and around the country for his spending plans on infrastructure and more.",
+      "lead_paragraph": "WASHINGTON — President Biden, his aides and his allies in Congress face a September sprint to secure a legislative victory that could define his early presidency.",
+      "publication_date": "2021-08-25T15:56:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/25/business/economy/biden-infrastructure-bill.html",
+      "byline": "By Jim Tankersley and Emily Cochrane"
+    },
+    {
+      "headline": "In First Interview From Jail, an Upbeat Navalny Discusses Prison Life",
+      "snippet": "Russian political prisoners today are subjected to “psychological” pressure, said the opposition leader Aleksei A. Navalny, who is forced to watch state TV for more than eight hours a day.",
+      "abstract": "Russian political prisoners today are subjected to “psychological” pressure, said the opposition leader Aleksei A. Navalny, who is forced to watch state TV for more than eight hours a day.",
+      "lead_paragraph": "MOSCOW — Russia’s most famous prisoner, the opposition leader Aleksei A. Navalny, spends much of his time tidying his cellblock, reading letters and visiting the mess for meals, with porridge often on the menu.",
+      "publication_date": "2021-08-25T15:58:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/25/world/europe/navalny-jail-prison.html",
+      "byline": "By Andrew E. Kramer"
+    }
+  ]
+}

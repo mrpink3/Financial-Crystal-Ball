@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-04-20",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Victory or Defeat? For Some Fox Critics, Defamation Case Was a Split Decision.",
+      "snippet": "The $787.5 million settlement was among the highest for a defamation lawsuit. But some wanted to see Rupert Murdoch face a stiffer penalty.",
+      "abstract": "The $787.5 million settlement was among the highest for a defamation lawsuit. But some wanted to see Rupert Murdoch face a stiffer penalty.",
+      "lead_paragraph": "On the surface, Fox News got pummeled.",
+      "publication_date": "2023-04-19T16:13:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/19/business/media/fox-dominion-settlement-murdoch.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "‘Our Own Guys Are Shelling Us’: How Russian Propaganda Plagues Ukraine",
+      "snippet": "A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.",
+      "abstract": "A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.",
+      "lead_paragraph": "KOSTYANTYNIVKA, Ukraine — Standing outside her home, pointing out the rocket crater in her driveway, a Ukrainian resident of the frontline town was angry, and quick to assign responsibility for the attack.",
+      "publication_date": "2023-04-19T17:38:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/19/world/europe/ukraine-russia-donbas-propaganda.html",
+      "byline": "By Carlotta Gall, Oleksandr Chubko, Dyma Shapoval and Daniel Berehulak"
+    },
+    {
+      "headline": "After Fox Settlement, Assault on Media Protections Is Likely to Continue",
+      "snippet": "Those who argue that the news media should pay a steeper price for publishing false information are pushing to have a landmark Supreme Court ruling overturned.",
+      "abstract": "Those who argue that the news media should pay a steeper price for publishing false information are pushing to have a landmark Supreme Court ruling overturned.",
+      "lead_paragraph": "The last-minute settlement of Dominion Voting Systems’ lawsuit against Fox News defused a high-stakes test of the First Amendment protections afforded to the media. But more challenges are likely on the horizon.",
+      "publication_date": "2023-04-19T19:57:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/19/business/nyt-sullivan-dominion-first-amendment.html",
+      "byline": "By David Enrich"
+    },
+    {
+      "headline": "Electric Vehicle Tax Credit Rules Create ‘Chaos for Consumers’",
+      "snippet": "Buying an electric car has become much more complicated because of restrictions on which models qualify for a federal tax credit of up to $7,500.",
+      "abstract": "Buying an electric car has become much more complicated because of restrictions on which models qualify for a federal tax credit of up to $7,500.",
+      "lead_paragraph": "Designed to accelerate the shift to electric cars among other climate goals, the Inflation Reduction Act has in practice made buying such vehicles a lot more complicated.",
+      "publication_date": "2023-04-20T09:00:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/20/business/electric-vehicle-tax-credits-consumers.html",
+      "byline": "By Lawrence Ulrich"
+    },
+    {
+      "headline": "As Xi Befriends World Leaders, He Hardens His Stance on the U.S.",
+      "snippet": "China has rebuffed calls to restart high-level talks with the United States, raising the risk of confrontation in contested areas like the Taiwan Strait.",
+      "abstract": "China has rebuffed calls to restart high-level talks with the United States, raising the risk of confrontation in contested areas like the Taiwan Strait.",
+      "lead_paragraph": "China’s top leader, Xi Jinping, has rolled out the red carpet for President Luiz Inácio Lula da Silva of Brazil, lauding him as “an old friend of the Chinese people.” He has sipped tea in a garden with President Emmanuel Macron of France, treating him to a performance on an ancient Chinese zither. And he has talked on the phone with Crown Prince Mohammed bin Salman, Saudi Arabia’s de facto ruler, offering well wishes for the Muslim holy month of Ramadan.",
+      "publication_date": "2023-04-20T09:01:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/20/world/asia/xi-china-us.html",
+      "byline": "By David Pierson"
+    },
+    {
+      "headline": "BuzzFeed News, Which Dragged Media Into the Digital Age, Shuts Down",
+      "snippet": "A quirky upstart that became a Pulitzer Prize-winning operation fell prey to the punishing economics of digital publishing.",
+      "abstract": "A quirky upstart that became a Pulitzer Prize-winning operation fell prey to the punishing economics of digital publishing.",
+      "lead_paragraph": "In a move that brings to a close a pioneering era of online journalism, BuzzFeed is shutting down its namesake news division. After beginning as a quirky digital upstart and rising to a Pulitzer Prize-winning operation, it ultimately fell prey to the punishing economics of digital publishing that has laid low many of its peers.",
+      "publication_date": "2023-04-20T15:34:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/20/business/buzzfeed-news-shut-down.html",
+      "byline": "By Benjamin Mullin and Katie Robertson"
+    }
+  ]
+}

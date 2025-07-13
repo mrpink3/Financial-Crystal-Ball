@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-03-26",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "A Novel Way to Finance School May Penalize Students From H.B.C.U.s, Study Finds",
+      "snippet": "Income-share agreements are gaining popularity, but a new analysis highlights how calculations of what borrowers owe can penalize minorities.",
+      "abstract": "Income-share agreements are gaining popularity, but a new analysis highlights how calculations of what borrowers owe can penalize minorities.",
+      "lead_paragraph": "The typical student who borrows to attend college leaves with more than $30,000 in debt. Many struggle to keep up with their payments, and America’s ballooning tab for student loans — now $1.7 trillion, more than any other type of household debt except for mortgages — has become a political flash point.",
+      "publication_date": "2021-03-25T18:54:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/25/business/student-loans-black-students-hbcu.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Georgia G.O.P. Passes Major Law to Limit Voting Amid Nationwide Push",
+      "snippet": "The law, which has been denounced by Democrats and voting rights groups, comes as Republican-controlled legislatures across the country mount the most extensive contraction of ballot access in generations.",
+      "abstract": "The law, which has been denounced by Democrats and voting rights groups, comes as Republican-controlled legislatures across the country mount the most extensive contraction of ballot access in generations.",
+      "lead_paragraph": "Georgia Republicans on Thursday passed a sweeping law to restrict voting access in the state, introducing more rigid voter identification requirements for absentee balloting, limiting drop boxes and expanding the Legislature’s power over elections. The new measures make Georgia the first major battleground to overhaul its election system since the turmoil of last year’s presidential contest. ",
+      "publication_date": "2021-03-25T21:31:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/25/us/politics/georgia-voting-law-republicans.html",
+      "byline": "By Nick Corasaniti"
+    },
+    {
+      "headline": "Lawmakers Grill Tech C.E.O.s on Capitol Riot, Getting Few Direct Answers",
+      "snippet": "The leaders of Google, Facebook and Twitter faced sharp questions about misinformation’s role in the attack and the mental health of children who use their products.",
+      "abstract": "The leaders of Google, Facebook and Twitter faced sharp questions about misinformation’s role in the attack and the mental health of children who use their products.",
+      "lead_paragraph": "WASHINGTON — Lawmakers grilled the leaders of Facebook, Google and Twitter on Thursday about the connection between online disinformation and the Jan. 6 riot at the Capitol, causing Twitter’s chief executive to publicly admit for the first time that his product had played a role in the events that left five people dead.",
+      "publication_date": "2021-03-25T22:45:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/25/technology/facebook-twitter-google-capitol-riots-hearing.html",
+      "byline": "By David McCabe and Cecilia Kang"
+    },
+    {
+      "headline": "Biden Assails Republicans Over Voting Rights and Defends Record on Border",
+      "snippet": "At his first full-scale news conference as president, Mr. Biden doubled the administration’s goal for vaccinations in the first 100 days and said he expected to run for re-election in 2024.",
+      "abstract": "At his first full-scale news conference as president, Mr. Biden doubled the administration’s goal for vaccinations in the first 100 days and said he expected to run for re-election in 2024.",
+      "lead_paragraph": "WASHINGTON — President Biden said on Thursday that Republican efforts to limit voting rights were “sick” and “un-American,” vowing to prevent states from taking what he called “despicable” actions that undermine democracy by making it harder for people to cast ballots.",
+      "publication_date": "2021-03-25T23:58:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/25/us/politics/biden-news-conference.html",
+      "byline": "By Michael D. Shear and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "In Suez Canal, Stuck Ship Is a Warning About Excessive Globalization",
+      "snippet": "The shutdown of the vital waterway and its impact on trade underscore the world’s reliance on global supply chains.",
+      "abstract": "The shutdown of the vital waterway and its impact on trade underscore the world’s reliance on global supply chains.",
+      "lead_paragraph": "[Update: After nearly a week, the Ever Given, the mammoth container ship stuck in the Suez Canal, has been freed.]",
+      "publication_date": "2021-03-26T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/26/business/ship-suez-canal.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "For Biden, a New Virus Dilemma: How to Handle a Looming Glut of Vaccine",
+      "snippet": "As U.S. manufacturers hit their stride, vaccine scarcity will soon turn to plenty as much of the world goes begging. And vaccine makers need answers now about what to do with the coming surplus.",
+      "abstract": "As U.S. manufacturers hit their stride, vaccine scarcity will soon turn to plenty as much of the world goes begging. And vaccine makers need answers now about what to do with the coming surplus.",
+      "lead_paragraph": "WASHINGTON — Biden administration officials are anticipating the supply of coronavirus vaccine to outstrip U.S. demand by mid-May if not sooner, and are grappling with what to do with looming surpluses when vaccine scarcity turns to glut.",
+      "publication_date": "2021-03-26T09:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/26/us/biden-coronavirus-vaccine.html",
+      "byline": "By Sharon LaFraniere and Noah Weiland"
+    },
+    {
+      "headline": "Far-Right Extremists Move From ‘Stop the Steal’ to Stop the Vaccine",
+      "snippet": "Extremist organizations are now bashing the safety and efficacy of coronavirus vaccines in an effort to try to undermine the government.",
+      "abstract": "Extremist organizations are now bashing the safety and efficacy of coronavirus vaccines in an effort to try to undermine the government.",
+      "lead_paragraph": "Adherents of far-right groups who cluster online have turned repeatedly to one particular website in recent weeks — the federal database showing deaths and adverse reactions nationwide among people who have received Covid-19 vaccinations.",
+      "publication_date": "2021-03-26T09:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/03/26/us/far-right-extremism-anti-vaccine.html",
+      "byline": "By Neil MacFarquhar"
+    },
+    {
+      "headline": "Fox News Faces Second Defamation Suit Over Election Coverage",
+      "snippet": "Dominion Voting Systems, an election technology company, accused the channel of advancing lies that devastated its reputation and business.",
+      "abstract": "Dominion Voting Systems, an election technology company, accused the channel of advancing lies that devastated its reputation and business.",
+      "lead_paragraph": "Fox News and its powerful owner, Rupert Murdoch, are facing a second major defamation suit over the network’s coverage of the 2020 presidential election, a new front in the growing legal battle over media disinformation and its consequences.",
+      "publication_date": "2021-03-26T12:46:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/03/26/business/media/fox-news-defamation-suit-dominion.html",
+      "byline": "By Michael M. Grynbaum and Jonah E. Bromwich"
+    },
+    {
+      "headline": "The Gambling Company That Had the Best Pandemic Ever",
+      "snippet": "Lockdowns helped Britain’s most profitable online betting outfit, bet365, hit the jackpot. For addicted gamblers, it has been a disaster.",
+      "abstract": "Lockdowns helped Britain’s most profitable online betting outfit, bet365, hit the jackpot. For addicted gamblers, it has been a disaster.",
+      "lead_paragraph": "LONDON — At no point during the soccer game between Stoke City and visiting Watford did anyone say, “Tonight’s match is brought to you by bet365,” one of the world’s largest online gambling companies. No one needed to. It was pretty obvious.",
+      "publication_date": "2021-03-26T15:36:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/03/26/business/bet365-gambling-sports-betting.html",
+      "byline": "By David Segal"
+    }
+  ]
+}

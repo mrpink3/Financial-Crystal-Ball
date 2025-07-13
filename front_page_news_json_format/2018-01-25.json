@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-01-25",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Coal’s Decline Seems Impervious to Trump’s Promises",
+      "snippet": "Domestic demand continues to fall as coal is displaced by natural gas in power plants. The impact is being felt at a Pennsylvania mine about to close.",
+      "abstract": "Domestic demand continues to fall as coal is displaced by natural gas in power plants. The impact is being felt at a Pennsylvania mine about to close.",
+      "lead_paragraph": "BOBTOWN, Pa. — When Nic Zmija applied for a job at the 4 West coal mine three years ago, he was tantalized by a fat raise and a secure future. Once hired, he was told that someday even his two young sons had jobs waiting for them.",
+      "publication_date": "2018-01-24T21:00:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/24/business/energy-environment/coal-miners.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Defeated in Syria, ISIS Fighters Held in Camps Still Pose a Threat",
+      "snippet": "American military officials fear the makeshift camps may repeat a security mistake of the Iraq war even as they have sought to avoid any major responsibility for addressing it.",
+      "abstract": "American military officials fear the makeshift camps may repeat a security mistake of the Iraq war even as they have sought to avoid any major responsibility for addressing it.",
+      "lead_paragraph": "WASHINGTON — American-backed Kurdish militias in northern Syria are detaining hundreds of Islamic State fighters and family members in makeshift camps, raising fears among United States military officials of potentially creating a breeding ground for extremists — repeating a key security mistake of the Iraq war.",
+      "publication_date": "2018-01-24T22:44:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/24/world/middleeast/isis-syria-militants-kurds.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Trump Says He Is Willing to Speak Under Oath to Mueller",
+      "snippet": "President Trump said he was willing to speak under oath to the special counsel, appearing to conflate",
+      "abstract": "President Trump said he was willing to speak under oath to the special counsel, appearing to conflate",
+      "lead_paragraph": "WASHINGTON — President Trump said on Wednesday that he was willing and eager to be interviewed by Robert S. Mueller III, the special counsel investigating Russia’s interference in the 2016 presidential campaign, insisting that he has done nothing wrong.",
+      "publication_date": "2018-01-24T23:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/24/us/politics/trump-mueller.html",
+      "byline": "By Maggie Haberman and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "For Jerry Brown, the Face of California’s Old Order, the Ranch Is Calling",
+      "snippet": "Gov. Jerry Brown, 79, says his time in public life is almost over: “I think it’s getting close to the end.”",
+      "abstract": "Gov. Jerry Brown, 79, says his time in public life is almost over: “I think it’s getting close to the end.”",
+      "lead_paragraph": "SACRAMENTO — When Jerry Brown became the 34th governor of California in 1975, he was a young and impetuous bachelor who slept on a box spring and took pleasure in defying political convention. He was the vanguard of the left, the face and spirit of a new generation of a state that — politically and culturally — was proudly distinct from the rest of the nation. He has been such a fixture ever since that it seems impossible to imagine California without him.",
+      "publication_date": "2018-01-25T00:39:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/24/us/jerry-brown-california-governor-retirement.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Trump Says He Is Open to a Path to Citizenship for ‘Dreamers’",
+      "snippet": "President Trump once again seemed to undercut his administration’s message, saying that he would allow the young illegal immigrants to “morph into” citizens over a period of time.",
+      "abstract": "President Trump once again seemed to undercut his administration’s message, saying that he would allow the young illegal immigrants to “morph into” citizens over a period of time.",
+      "lead_paragraph": "WASHINGTON — President Trump said on Wednesday that he is open to a path to citizenship after 10 to 12 years for hundreds of thousands of undocumented immigrants brought to the United States as children, days after rejecting a bipartisan plan with that as its centerpiece.",
+      "publication_date": "2018-01-25T00:58:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/24/us/politics/trump-immigration-daca-dreamers-path-to-citizenship.html",
+      "byline": "By Maggie Haberman, Katie Rogers and Michael D. Shear"
+    },
+    {
+      "headline": "As U.S. Trumpets ‘America First,’ Rest of the World Is Moving On",
+      "snippet": "As President Trump touts a more aggressive approach to trade, other countries are moving on with deals that do not include the United States.",
+      "abstract": "As President Trump touts a more aggressive approach to trade, other countries are moving on with deals that do not include the United States.",
+      "lead_paragraph": "WASHINGTON — President Trump is arriving at the World Economic Forum in Davos, Switzerland, to explain his “America First” approach at a moment when the world is moving ahead with a trade agenda that no longer revolves around the United States.",
+      "publication_date": "2018-01-25T01:15:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/24/us/politics/trump-trade-america-first-davos.html",
+      "byline": "By Ana Swanson and Jim Tankersley"
+    },
+    {
+      "headline": "Most Americans Want Legal Status for ‘Dreamers.’ These People Don’t.",
+      "snippet": "A slice of the public bucks popular sentiment for young undocumented immigrants, underscoring the conflicted feelings over the issue that has stymied Congress for years.",
+      "abstract": "A slice of the public bucks popular sentiment for young undocumented immigrants, underscoring the conflicted feelings over the issue that has stymied Congress for years.",
+      "lead_paragraph": "For Pav Sterry of Columbus, Ohio, legalizing any undocumented immigrants — even those who came as children without a choice in the matter — is just plain wrong.",
+      "publication_date": "2018-01-25T10:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/25/us/dreamers-opponents-daca-deal.html",
+      "byline": "By Miriam Jordan"
+    }
+  ]
+}

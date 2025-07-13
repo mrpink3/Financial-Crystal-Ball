@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-06-18",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "DreamWorks Animation Aiming Beyond Film",
+      "snippet": "The entertainment company is moving into YouTube, Netflix and even shopping malls, with a new take on the classic visit to Santa Claus.",
+      "abstract": "The entertainment company is moving into YouTube, Netflix and even shopping malls, with a new take on the classic visit to Santa Claus.",
+      "lead_paragraph": "GLENDALE, Calif. — For months, DreamWorks Animation has been working on a prototype for a product it hopes will change how the world’s children meet Santa each Christmas. Code name: DreamHouse.",
+      "publication_date": "2014-06-17T16:30:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/06/18/business/media/dreamworks-updates-the-santa-mall-visit.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Car Owners Criticize Pace of G.M. Recall Repairs",
+      "snippet": "Demand has far surpassed production of parts, a concern that lawmakers are likely to bring up with the automaker’s chief this week at a hearing.",
+      "abstract": "Demand has far surpassed production of parts, a concern that lawmakers are likely to bring up with the automaker’s chief this week at a hearing.",
+      "lead_paragraph": "Four months after Melissa Miller’s car was recalled by General Motors for a deadly defect, she is still waiting for it to be fixed — and still driving it.",
+      "publication_date": "2014-06-17T17:19:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/06/18/business/some-gm-owners-criticize-pace-of-repairs-for-recalled-cars.html",
+      "byline": "By Rebecca R. Ruiz"
+    },
+    {
+      "headline": "Brazen Figure May Hold Key to Mysteries",
+      "snippet": "The apprehension of Ahmed Abu Khattala may finally begin to address some of the persistent questions about who carried out the Libya attack and why.",
+      "abstract": "The apprehension of Ahmed Abu Khattala may finally begin to address some of the persistent questions about who carried out the Libya attack and why.",
+      "lead_paragraph": "CAIRO — Ahmed Abu Khattala was always open about his animosity toward the United States, and even about his conviction that Muslims and Christians were locked in an intractable religious war. “There is always hostility between the religions,” he said in an interview. “That is the nature of religions.”",
+      "publication_date": "2014-06-17T19:33:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/06/18/world/middleeast/apprehension-of-ahmed-abu-khattala-may-begin-to-answer-questions-on-assault.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "A Smart Way to Skip College in Pursuit of a Job",
+      "snippet": "The “NanoDegree,” an online collaboration of AT&T and Udacity, may offer a reasonable shot at using the web to democratize higher education.",
+      "abstract": "The “NanoDegree,” an online collaboration of AT&T and Udacity, may offer a reasonable shot at using the web to democratize higher education.",
+      "lead_paragraph": "Could an online degree earned in six to 12 months bring a revolution to higher education?",
+      "publication_date": "2014-06-17T20:51:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/06/18/business/economy/udacity-att-nanodegree-offers-an-entry-level-approach-to-college.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "As China’s Leader Fights Graft, His Relatives Shed Assets",
+      "snippet": "Evidence suggests that President Xi Jinping has been pushing his family to sell hundreds of millions of dollars in holdings in an effort to reduce his political vulnerability.",
+      "abstract": "Evidence suggests that President Xi Jinping has been pushing his family to sell hundreds of millions of dollars in holdings in an effort to reduce his political vulnerability.",
+      "lead_paragraph": "HONG KONG — As President Xi Jinping of China prepares to tackle what may be the biggest cases of official corruption in more than six decades of Communist Party rule, new evidence suggests that he has been pushing his own family to sell hundreds of millions of dollars in investments, reducing his own political vulnerability.",
+      "publication_date": "2014-06-17T22:02:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/06/18/world/asia/chinas-president-xi-jinping-investments.html",
+      "byline": "By Michael Forsythe"
+    },
+    {
+      "headline": "As LED Industry Evolves, China Elbows Ahead",
+      "snippet": "With a price war underway, Chinese manufacturers are taking market share from industry pioneers in the United States, Europe and Japan.",
+      "abstract": "With a price war underway, Chinese manufacturers are taking market share from industry pioneers in the United States, Europe and Japan.",
+      "lead_paragraph": "GUANGZHOU, China — A year ago, China’s light-emitting diode industry seemed like a case study of industrial policy gone awry. Hundreds of factories built all over eastern China, often with lavish clean energy subsidies from state-owned banks and local governments, were operating at half capacity. The share prices of LED manufacturers were plunging.",
+      "publication_date": "2014-06-18T00:38:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/06/18/business/as-led-industry-evolves-china-elbows-its-way-to-the-fore.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "In G.M. Hearing, Lawmakers May Focus on Contradictions ",
+      "snippet": "Lawmakers are expected to ask Mary T. Barra about contradictions between the findings of G.M.’s internal investigation and a congressional panel’s inquiry into the recall of millions of small cars.",
+      "abstract": "Lawmakers are expected to ask Mary T. Barra about contradictions between the findings of G.M.’s internal investigation and a congressional panel’s inquiry into the recall of millions of small cars.",
+      "lead_paragraph": "Mary T. Barra, chief executive of General Motors, is expected to tell a House panel on Wednesday that the auto giant is determined to change its culture and prevent another safety crisis similar to its deadly delay in recalling millions of small cars with a defective switch.",
+      "publication_date": "2014-06-18T00:59:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/06/18/business/house-hearing-on-gm-recall-will-put-mary-barra-on-the-spot.html",
+      "byline": "By Matthew L. Wald and Bill Vlasic"
+    },
+    {
+      "headline": "Soccer Fans’ Dream Job Has a Catch: No Peeking",
+      "snippet": "World Cup security guards who are assigned to maintain order inside the throbbing stadiums must keep their eyes firmly locked on the stands, and not the soccer.",
+      "abstract": "World Cup security guards who are assigned to maintain order inside the throbbing stadiums must keep their eyes firmly locked on the stands, and not the soccer.",
+      "lead_paragraph": "FORTALEZA, Brazil — At first blush, it probably sounded like the best job in Brazil.",
+      "publication_date": "2014-06-18T01:39:55+0000",
+      "section_name": "Sports",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/06/18/sports/worldcup/soccer-fans-dream-job-has-a-catch-no-peeking.html",
+      "byline": "By Andrew Keh and Sergio Peçanha"
+    },
+    {
+      "headline": "Barra Faces Scrutiny in House Over G.M. Recalls",
+      "snippet": "Mary T. Barra, before a House panel for a second time, faced sharp questioning from members skeptical of the carmaker’s internal investigation into recall delays.",
+      "abstract": "Mary T. Barra, before a House panel for a second time, faced sharp questioning from members skeptical of the carmaker’s internal investigation into recall delays.",
+      "lead_paragraph": "WASHINGTON — Mary T. Barra, chief executive of General Motors, walked into a crowded House hearing on Wednesday with her high-powered lawyer at her side, confident that his exhaustive internal investigation about a deadly defect would convince lawmakers that G.M. is taking safety seriously. ",
+      "publication_date": "2014-06-18T14:18:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/06/19/business/house-hearing-on-general-motors-recalls.html",
+      "byline": "By Bill Vlasic and Danielle Ivory"
+    },
+    {
+      "headline": "Detroit Rolls Out New Model: A Hybrid Pension Plan",
+      "snippet": "If it succeeds, the city’s cost-cutting hybrid pension plan could be a model for solving government budget crises across the country.",
+      "abstract": "If it succeeds, the city’s cost-cutting hybrid pension plan could be a model for solving government budget crises across the country.",
+      "lead_paragraph": "In the face of Detroit’s tumultuous bankruptcy proceedings, in which multiple parties are quarreling to protect their interests, the city and its unions have quietly negotiated a scaled-back pension plan that could serve as a model for other troubled governments.",
+      "publication_date": "2014-06-18T15:53:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/06/18/detroit-rolls-out-new-model-a-hybrid-pension-plan/",
+      "byline": "By Mary Williams Walsh"
+    }
+  ]
+}

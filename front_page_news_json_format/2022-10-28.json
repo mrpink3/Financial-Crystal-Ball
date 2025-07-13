@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2022-10-28",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Why Russia Stole Potemkin’s Bones From Ukraine",
+      "snippet": "The 18th-century military commander and lover of Catherine the Great helped conquer Ukraine and looms large in the version of history the Kremlin uses to justify the war.",
+      "abstract": "The 18th-century military commander and lover of Catherine the Great helped conquer Ukraine and looms large in the version of history the Kremlin uses to justify the war.",
+      "lead_paragraph": "KYIV, Ukraine — With Ukrainian forces bearing down on the occupied port city of Kherson this week, the Kremlin’s puppet rulers dispatched a team to an 18th-century stone cathedral on a special mission — to steal the bones of Prince Grigory Aleksandrovich Potemkin.",
+      "publication_date": "2022-10-27T16:34:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-potemkin-bones.html",
+      "byline": "By Marc Santora"
+    },
+    {
+      "headline": "Amazon Returns to Growth but Signals Slowness Ahead",
+      "snippet": "The e-commerce giant, which also turned a profit in its latest quarter, indicated sales in the holiday period might rise at their lowest level since 2001.",
+      "abstract": "The e-commerce giant, which also turned a profit in its latest quarter, indicated sales in the holiday period might rise at their lowest level since 2001.",
+      "lead_paragraph": "For much of this year, Amazon’s growth slowed and losses mounted as it faced high costs and changes in people’s shopping habits with the ebbing of the coronavirus pandemic.",
+      "publication_date": "2022-10-27T20:39:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/27/technology/amazon-amzn-q3-earnings.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "Playing to Western Discord, Putin Says Russia Is Battling ‘Strange’ Elites",
+      "snippet": "Ahead of U.S. elections, the Russian leader sounded like some right-wing Westerners, saying his fight is not with those in the West who hold “traditional values.”",
+      "abstract": "Ahead of U.S. elections, the Russian leader sounded like some right-wing Westerners, saying his fight is not with those in the West who hold “traditional values.”",
+      "lead_paragraph": "President Vladimir V. Putin declared on Thursday that Russia’s battle was with “Western elites,” not with the West itself, in a speech seemingly aimed more at winning over political conservatives abroad than his own citizens.",
+      "publication_date": "2022-10-27T22:59:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-war-putin.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "Elon Musk Completes $44 Billion Deal to Own Twitter",
+      "snippet": "The world’s richest man closed his blockbuster purchase of the social media service, thrusting Twitter into a new era.",
+      "abstract": "The world’s richest man closed his blockbuster purchase of the social media service, thrusting Twitter into a new era.",
+      "lead_paragraph": "After months of waffling, lawsuits, verbal mudslinging and the near miss of a full blown trial, Elon Musk now owns Twitter.",
+      "publication_date": "2022-10-28T01:42:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html",
+      "byline": "By Kate Conger and Lauren Hirsch"
+    },
+    {
+      "headline": "For Rishi Sunak, Family Wealth From Outsourcing Adds to a Secretive Fortune",
+      "snippet": "Britain’s new prime minister married into an $800 million stake in Infosys, a company that does not fit neatly into his party’s views on immigration.",
+      "abstract": "Britain’s new prime minister married into an $800 million stake in Infosys, a company that does not fit neatly into his party’s views on immigration.",
+      "lead_paragraph": "LONDON — As Rishi Sunak made his rapid ascent in British politics, campaigning for Brexit and greater immigration controls to preserve jobs for Britons, the company that made his family exceedingly wealthy was becoming a political lightning rod as one of the world’s biggest outsourcing firms.",
+      "publication_date": "2022-10-28T04:01:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html",
+      "byline": "By Jane Bradley"
+    },
+    {
+      "headline": "Elon Musk Takes Twitter, and Tech Deals, to Another Level",
+      "snippet": "Silicon Valley moguls used to buy yachts and islands. Now they are rich enough, and perhaps arrogant enough, to acquire companies they fancy.",
+      "abstract": "Silicon Valley moguls used to buy yachts and islands. Now they are rich enough, and perhaps arrogant enough, to acquire companies they fancy.",
+      "lead_paragraph": "Forget about the endless drama, the bots, the abrupt reversals, the spectacle, the alleged risk to the Republic and all we hold dear. Here is the most important thing about Elon Musk’s buying Twitter: The moguls have been unleashed.",
+      "publication_date": "2022-10-28T09:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/28/technology/twitter-deal-musk-tech-companies.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "How Twitter Will Change as a Private Company",
+      "snippet": "The social media company went public in 2013. But Elon Musk is taking it private as part of his acquisition of the firm. Here’s what that means.",
+      "abstract": "The social media company went public in 2013. But Elon Musk is taking it private as part of his acquisition of the firm. Here’s what that means.",
+      "lead_paragraph": "Elon Musk closes his purchase of Twitter and fires several top executives. Follow for the latest news updates.",
+      "publication_date": "2022-10-28T09:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/28/technology/twitter-changes.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "For Rail Workers, Anger Persists Over Sick Leave",
+      "snippet": "A tentative new contract brokered by the White House offered employees one day off, leaving some dissatisfied and raising the risk of another impasse.",
+      "abstract": "A tentative new contract brokered by the White House offered employees one day off, leaving some dissatisfied and raising the risk of another impasse.",
+      "lead_paragraph": "A dozen men stood in a parking lot outside a dilapidated motel in rural Texas, sharing a fish dinner cooked in a portable fryer. They had spent the previous 12 hours under a pounding sun, repairing track for a major American railroad.",
+      "publication_date": "2022-10-28T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "‘No Jobs Available’: The Feast or Famine Careers of America’s Port Drivers.",
+      "snippet": "Consumer demand has cooled, leaving fewer containers to pick up on the West Coast. For Marshawn Jackson, a truck driver paid by the delivery, that means a hard scrabble to make ends meet.",
+      "abstract": "Consumer demand has cooled, leaving fewer containers to pick up on the West Coast. For Marshawn Jackson, a truck driver paid by the delivery, that means a hard scrabble to make ends meet.",
+      "lead_paragraph": "Just before 4 o’clock on a Tuesday morning, the sky still black save for the reddish glow of the freeway, Marshawn Jackson rolls over in his bed at his home in Southern California and reaches for his iPhone.",
+      "publication_date": "2022-10-28T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Coal Baron or Climate Warrior? The Dizzying Rise of Asia’s Richest Man.",
+      "snippet": "The business decisions of Gautam Adani could go a long way in determining whether India helps the world avert a climate catastrophe.",
+      "abstract": "The business decisions of Gautam Adani could go a long way in determining whether India helps the world avert a climate catastrophe.",
+      "lead_paragraph": "Gautam Adani is four decades and billions of dollars removed from the hustling trader he became at age 15, when he quit school and left home for the diamond district of Mumbai.",
+      "publication_date": "2022-10-28T10:48:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/28/business/gautam-adani-coal-climate.html",
+      "byline": "By Emily Schmall and Hari Kumar"
+    },
+    {
+      "headline": "Oil Giants, With Billions in Profits, Face Criticism and an Uncertain Outlook",
+      "snippet": "Exxon Mobil and Chevron reported another round of strong profits. But they face political fire over gasoline prices, even as they fear a new downturn.",
+      "abstract": "Exxon Mobil and Chevron reported another round of strong profits. But they face political fire over gasoline prices, even as they fear a new downturn.",
+      "lead_paragraph": "The good times are back for the oil companies, but with the global economy on edge, there is more caution than celebration among executives.",
+      "publication_date": "2022-10-28T11:09:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-profit-biden.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Inflation and Wages Continue to Climb Rapidly, in Bad News for the Fed",
+      "snippet": "The Federal Reserve’s preferred inflation measure showed that price gains remained fast in September, and a gauge of wages it watches closely is climbing quickly.",
+      "abstract": "The Federal Reserve’s preferred inflation measure showed that price gains remained fast in September, and a gauge of wages it watches closely is climbing quickly.",
+      "lead_paragraph": "Economic data on Friday brought troubling news for Federal Reserve officials who are trying to rein in the fastest inflation in decades: Prices are still rising quickly. Wages are rising rapidly too. And the strong consumer demand that is helping to fuel the inflationary fire shows little sign of letting up.",
+      "publication_date": "2022-10-28T12:38:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/28/business/fedeal-reserve-inflation-wages.html",
+      "byline": "By Ben Casselman and Jeanna Smialek"
+    },
+    {
+      "headline": "Pelosi’s Husband Is Gravely Injured in Hammer Attack by an Intruder",
+      "snippet": "As leaders from across the political spectrum rushed to condemn the attack, Paul Pelosi underwent surgery to repair a skull fracture.",
+      "abstract": "As leaders from across the political spectrum rushed to condemn the attack, Paul Pelosi underwent surgery to repair a skull fracture.",
+      "lead_paragraph": "SAN FRANCISCO — In the early hours of Friday morning, the intruder entered through a back door of the stately home in San Francisco’s upscale Pacific Heights neighborhood, yelling, “Where is Nancy?”",
+      "publication_date": "2022-10-28T15:51:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/28/us/politics/nancy-paul-pelosi-attack.html",
+      "byline": "By Kellen Browning, Tim Arango, Luke Broadwater and Holly Secon"
+    }
+  ]
+}

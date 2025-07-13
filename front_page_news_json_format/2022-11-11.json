@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-11-11",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "‘Economic Picture Ahead Is Dire,’ Elon Musk Tells Twitter Employees",
+      "snippet": "In his first communications with Twitter’s staff, the company’s new owner painted a bleak picture as more executives resigned.",
+      "abstract": "In his first communications with Twitter’s staff, the company’s new owner painted a bleak picture as more executives resigned.",
+      "lead_paragraph": "SAN FRANCISCO — Two weeks after buying Twitter, Elon Musk painted an increasingly bleak financial picture for the company and outlined changes in a meeting with staff on Thursday and in his first companywide emails, amid an exodus of executives including the officials who oversaw content moderation and security.",
+      "publication_date": "2022-11-10T16:18:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/10/technology/elon-musk-twitter-employees.html",
+      "byline": "By Kate Conger, Ryan Mac and Mike Isaac"
+    },
+    {
+      "headline": "Ukraine Moves Forward in South, With Little Resistance From Russia",
+      "snippet": "A day after Russia said it was withdrawing from Kherson City in the south, Ukraine’s forces moved into villages without a fight, indicating the Russians were, indeed, retreating.",
+      "abstract": "A day after Russia said it was withdrawing from Kherson City in the south, Ukraine’s forces moved into villages without a fight, indicating the Russians were, indeed, retreating.",
+      "lead_paragraph": "SNIHURIVKA, Ukraine — The Ukrainian soldiers inched forward in their pickup truck, weaving between burned Russian military vehicles, keeping a lookout for mines and pushing deeper into territory vacated by the Russian Army just a few hours earlier.",
+      "publication_date": "2022-11-10T22:00:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/10/world/europe/ukraine-kherson-russia.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "As U.S. Moves On From Elections, Georgia Gears Up for Another One",
+      "snippet": "The political world is diving into a runoff between Senator Raphael Warnock and Herschel Walker that will reveal the extent of Democrats’ unexpected traction in the midterm races.",
+      "abstract": "The political world is diving into a runoff between Senator Raphael Warnock and Herschel Walker that will reveal the extent of Democrats’ unexpected traction in the midterm races.",
+      "lead_paragraph": "CANTON, Ga. — With the last campaigns only two days in the rearview mirror, the political world dived into a Georgia Senate race that will reveal the extent of Democrats’ unexpected traction in the midterm races and whether Republicans can move past the long shadow of former President Donald J. Trump.",
+      "publication_date": "2022-11-11T00:41:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/10/us/politics/georgia-runoff-warnock-walker.html",
+      "byline": "By Maya King and Lisa Lerer"
+    },
+    {
+      "headline": "Top U.S. General Urges Diplomacy in Ukraine While Biden Advisers Resist",
+      "snippet": "Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, has made the case that the Ukrainians should try to cement their gains at the bargaining table.",
+      "abstract": "Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, has made the case that the Ukrainians should try to cement their gains at the bargaining table.",
+      "lead_paragraph": "WASHINGTON — A disagreement has emerged at the highest levels of the United States government over whether to press Ukraine to seek a diplomatic end to its war with Russia, with America’s top general urging negotiations while other advisers to President Biden argue that it is too soon.",
+      "publication_date": "2022-11-11T00:47:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/10/us/politics/biden-ukraine-russia-diplomacy.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Two Weeks of Chaos: Inside Elon Musk’s Takeover of Twitter",
+      "snippet": "Mr. Musk ordered immediate layoffs, fired executives by email and laid down product deadlines, transforming the company.",
+      "abstract": "Mr. Musk ordered immediate layoffs, fired executives by email and laid down product deadlines, transforming the company.",
+      "lead_paragraph": "SAN FRANCISCO — Elon Musk had a demand.",
+      "publication_date": "2022-11-11T10:00:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/11/technology/elon-musk-twitter-takeover.html",
+      "byline": "By Kate Conger, Mike Isaac, Ryan Mac and Tiffany Hsu"
+    },
+    {
+      "headline": "Embattled Crypto Exchange FTX Files for Bankruptcy",
+      "snippet": "The announcement capped a stunning week that has shocked the crypto industry.",
+      "abstract": "The announcement capped a stunning week that has shocked the crypto industry.",
+      "lead_paragraph": "On Monday, Sam Bankman-Fried, the chief executive of the cryptocurrency exchange FTX, took to Twitter to reassure his customers: “FTX is fine,” he wrote. “Assets are fine.”",
+      "publication_date": "2022-11-11T14:33:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/11/business/ftx-bankruptcy.html",
+      "byline": "By David Yaffe-Bellany"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2022-01-20",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Starbucks ends its plan to require worker vaccination and testing.",
+      "snippet": "The coffee company is among the first major employers to roll back plans after the Supreme Court blocked the Biden administration’s mandate for large businesses.",
+      "abstract": "The coffee company is among the first major employers to roll back plans after the Supreme Court blocked the Biden administration’s mandate for large businesses.",
+      "lead_paragraph": "The Supreme Court’s ruling last week shutting down the Biden administration’s effort to enlist large employers in its vaccination campaign, experts said, would trigger a new wave of uncertainty about how companies keep workers safe from Covid-19.",
+      "publication_date": "2022-01-19T17:49:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/19/business/starbucks-vaccine-mandate.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "Newly Declassified Video Shows U.S. Killing of 10 Civilians in Drone Strike",
+      "snippet": "The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit.",
+      "abstract": "The New York Times obtained footage of the botched strike in Kabul, whose victims included seven children, through a Freedom of Information Act lawsuit.",
+      "lead_paragraph": "WASHINGTON — Newly declassified surveillance footage provides additional insights about the final minutes and aftermath of a botched U.S. drone strike last year in Kabul, Afghanistan,  showing how the military made a life-or-death decision based on imagery that was fuzzy, hard to interpret in real time and prone to confirmation bias.",
+      "publication_date": "2022-01-19T18:09:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/19/us/politics/afghanistan-drone-strike-video.html",
+      "byline": "By Charlie Savage, Eric Schmitt, Azmat Khan, Evan Hill and Christoph Koettl"
+    },
+    {
+      "headline": "It’s Not Complicated. Microsoft Wants Activision for Its Games.",
+      "snippet": "Activision has a lot of popular games that fit into Microsoft’s plans to build a vast library of titles that can be played on all sorts of devices. The metaverse can wait.",
+      "abstract": "Activision has a lot of popular games that fit into Microsoft’s plans to build a vast library of titles that can be played on all sorts of devices. The metaverse can wait.",
+      "lead_paragraph": "SAN FRANCISCO — It is inevitable now that when a big tech company makes a significant, strategic decision — like Microsoft’s plan to spend $70 billion on the video game giant Activision Blizzard — it invokes the metaverse.",
+      "publication_date": "2022-01-19T20:41:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/19/technology/microsoft-activision-games.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "How 5G Clashed With an Aviation Device Invented in the 1920s",
+      "snippet": "The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries.",
+      "abstract": "The potential for interference between 5G signals and the radio altimeters long used by pilots has divided the telecom and aviation industries.",
+      "lead_paragraph": "A technological innovation that helped pilots fly fighter planes during World War II is now at the heart of the dispute between airlines and AT&T and Verizon over 5G, an innovative service meant to speed up mobile devices.",
+      "publication_date": "2022-01-19T21:09:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/19/business/5g-radio-altimeters-airlines.html",
+      "byline": "By Stephen Gandel"
+    },
+    {
+      "headline": "Biden says he will pursue a scaled-back agenda as he defends his first year in office.",
+      "snippet": "President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do.",
+      "abstract": "President Biden reserved his most aggressive language for Republicans in Congress, accusing them of conspiring to block everything that his administration has tried to do.",
+      "lead_paragraph": "WASHINGTON — President Biden vowed on Wednesday to pursue a scaled-back version of his marquee domestic policy plan as he mounted a two-hour defense of his first-year accomplishments and repeatedly blamed Republicans for abandoning any serious attempt to govern the country.",
+      "publication_date": "2022-01-19T21:32:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/19/us/politics/biden-press-conference.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "In Rebuke to Trump, Supreme Court Allows Release of Jan. 6 Files",
+      "snippet": "The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling.",
+      "abstract": "The House committee investigating the riot received hundreds of pages of documents from the former president’s White House within hours of the ruling.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Wednesday refused a request from former President Donald J. Trump to block the release of White House records concerning the Jan. 6 attack on the Capitol, effectively rejecting Mr. Trump’s claim of executive privilege and clearing the way for the House committee investigating the riot to start receiving the documents hours later.",
+      "publication_date": "2022-01-19T23:17:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/19/us/politics/trump-supreme-court-jan-6.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "After a day of debate, the voting rights bill is blocked in the Senate.",
+      "snippet": "Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions.",
+      "abstract": "Without the votes to change Senate rules, Democrats had no avenue for overcoming a Republican filibuster against legislation intended to offset new state voting restrictions.",
+      "lead_paragraph": "WASHINGTON — Senate Democrats made an impassioned case on Wednesday for legislation to counter an onslaught of new voting restrictions around the country, but they failed to overcome a Republican blockade or unite their own members behind a change in filibuster rules to pass it.",
+      "publication_date": "2022-01-20T00:44:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Biden Predicts Putin Will Order Ukraine Invasion, but ‘Will Regret Having Done It’",
+      "snippet": "President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade.",
+      "abstract": "President Biden’s comments went well beyond the formal intelligence assessments described by White House officials, which conclude that Russia’s president has not yet decided whether to invade.",
+      "lead_paragraph": "WASHINGTON — President Biden said on Wednesday that he now expected President Vladimir V. Putin of Russia would order an invasion of Ukraine, delivering a grim assessment that the diplomacy and threat of sanctions issued by the United States and its European allies were unlikely to stop the Russian leader from sending troops across the border.",
+      "publication_date": "2022-01-20T00:48:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/19/us/politics/biden-putin-russia-ukraine.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Trump Deal Faced Widespread Investor Doubt Before Raising $1 Billion",
+      "snippet": "More than a dozen big Wall Street money managers said no to Trump Media, but the Pentwater and Sabby hedge funds are among those that have committed millions.",
+      "abstract": "More than a dozen big Wall Street money managers said no to Trump Media, but the Pentwater and Sabby hedge funds are among those that have committed millions.",
+      "lead_paragraph": "Last month, Donald J. Trump’s fledgling social media company announced that it had lined up $1 billion from 36 investors. The size of the deal, the former president said in the announcement, signaled that his start-up’s plan to end the “tyranny” of Big Tech had significant support.",
+      "publication_date": "2022-01-20T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/20/business/trump-media-investors.html",
+      "byline": "By Matthew Goldstein, Kate Kelly, Kenneth P. Vogel and Maureen Farrell"
+    },
+    {
+      "headline": "Efforts to Rein In Big Tech May Be Running Out of Time",
+      "snippet": "With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry.",
+      "abstract": "With midterm elections approaching, a vote taken on Thursday could be the first of several that Congress takes on bills aimed at the industry.",
+      "lead_paragraph": "Lawmakers on Capitol Hill are readying a major push on bills aimed at restraining the power of the country’s biggest tech companies, as they see the window of opportunity closing quickly ahead of the midterm elections.",
+      "publication_date": "2022-01-20T13:22:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/20/technology/big-tech-senate-bill.html",
+      "byline": "By Cecilia Kang and David McCabe"
+    },
+    {
+      "headline": "Biden Strengthens Words on Ukraine After Flustering European Partners",
+      "snippet": "After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies.",
+      "abstract": "After the president laid bare divisions over Russian meddling in Ukraine, his administration scrambled to get on the same page with European allies.",
+      "lead_paragraph": "Follow our live coverage of Antony Blinken and Sergey Lavrov’s meeting on the Ukraine crisis.",
+      "publication_date": "2022-01-20T13:26:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/20/world/europe/ukraine-biden-eu.html",
+      "byline": "By Michael Crowley and Steven Erlanger"
+    },
+    {
+      "headline": "Expert Answers to Readers’ Questions About Inflation",
+      "snippet": "The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in.",
+      "abstract": "The New York Times asked readers to send questions about inflation. Economists at the Federal Reserve, the White House and Wall Street weighed in.",
+      "lead_paragraph": "Inflation is high and has been for months. It’s weighing on consumer confidence, making policymakers nervous and threatening to eat away at household paychecks well into 2022.",
+      "publication_date": "2022-01-20T15:42:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/20/business/economy/inflation-questions-consumers.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

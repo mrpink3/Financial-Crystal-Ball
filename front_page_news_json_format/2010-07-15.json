@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2010-07-15",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "After Crisis, Show of Power From JPMorgan",
+      "snippet": "For all Jamie Dimon’s gloomy talk, the future for JPMorgan Chase is looking bright after the credit crisis.",
+      "abstract": "For all Jamie Dimon’s gloomy talk, the future for JPMorgan Chase is looking bright after the credit crisis.",
+      "lead_paragraph": "Jamie Dimon is not the modern-day John Pierpont Morgan. He is not the new king of Wall Street, and he’s certainly not President Obama’s BBF (best banker friend).",
+      "publication_date": "2010-07-14T18:27:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/07/15/business/15chase.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "‘Immigrant’ List Sets Off Fears",
+      "snippet": "A detailed list of 1,300 Utah residents labeled “illegal immigrants” was sent to law enforcement and media.",
+      "abstract": "A detailed list of 1,300 Utah residents labeled “illegal immigrants” was sent to law enforcement and media.",
+      "lead_paragraph": "SALT LAKE CITY — A list of 1,300 Utah residents described as illegal immigrants has sown fear among some Hispanics here, and prompted an investigation into its origins and dissemination.",
+      "publication_date": "2010-07-14T19:54:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/07/15/us/15utah.html",
+      "byline": "By Kirk Johnson"
+    },
+    {
+      "headline": "Apps We Wish We Had",
+      "snippet": "Hundreds of thousands of apps exist, but new ones are welcome. Here, app ideas from parking to getting dressed.",
+      "abstract": "Hundreds of thousands of apps exist, but new ones are welcome. Here, app ideas from parking to getting dressed.",
+      "lead_paragraph": "The original 2007 iPhone had only one screenful of software icons, believe it or not. You couldn’t install any new ones of your own. It took a whole year before Apple opened the iPhone app store, making it possible for the masses to download and install new apps (programs) and, in the process, creating a whole new gadget category.",
+      "publication_date": "2010-07-14T20:03:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/07/15/technology/personaltech/15pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Toyota Concedes 2 Flaws Caused Loss of Control",
+      "snippet": "It is the first time Toyota has acknowledged that its internal review confirmed reports of sticking accelerator pedals and problematic floor mats that may have caused incidents of sudden acceleration.",
+      "abstract": "It is the first time Toyota has acknowledged that its internal review confirmed reports of sticking accelerator pedals and problematic floor mats that may have caused incidents of sudden acceleration.",
+      "lead_paragraph": "DETROIT — Toyota said Wednesday that its investigation of about 2,000 vehicles reported to experience sudden acceleration found evidence that sticking accelerator pedals and interference by floor mats — the subjects of two big recalls — did indeed cause some of the incidents.",
+      "publication_date": "2010-07-15T00:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/07/15/business/global/15toyota.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "A.I.G. Chairman Resigns, Citing Clash With Chief",
+      "snippet": "Harvey Golub resigned amid continued bickering with A.I.G.’s chief executive, Robert H. Benmosche.",
+      "abstract": "Harvey Golub resigned amid continued bickering with A.I.G.’s chief executive, Robert H. Benmosche.",
+      "lead_paragraph": "The conflict between the American International Group’s chairman and its chief executive had been quietly building for months, and in recent days it became so palpable that many at the company were wondering which of the two men would survive the coming showdown. ",
+      "publication_date": "2010-07-15T00:50:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/07/15/business/15aig.html",
+      "byline": "By Mary Williams Walsh and Michael J. de la Merced"
+    },
+    {
+      "headline": "Even Without iPhone, Verizon Is Gaining on AT&T",
+      "snippet": "Thanks to a collaboration with Google, Verizon may decide it does not need Apple’s iPhone on its network.",
+      "abstract": "Thanks to a collaboration with Google, Verizon may decide it does not need Apple’s iPhone on its network.",
+      "lead_paragraph": "It is a question that the nation’s early adopters keep hearing from friends: when is the iPhone coming to Verizon?",
+      "publication_date": "2010-07-15T01:04:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/07/15/technology/15verizon.html",
+      "byline": "By Brad Stone and Jenna Wortham"
+    },
+    {
+      "headline": "BP Says Oil Flow Has Stopped as Cap Is Tested",
+      "snippet": "Oil stopped gushing into the Gulf of Mexico for the first time in nearly three months, as BP began testing the cap atop its well.",
+      "abstract": "Oil stopped gushing into the Gulf of Mexico for the first time in nearly three months, as BP began testing the cap atop its well.",
+      "lead_paragraph": "NEW ORLEANS  BP said Thursday that it had capped its hemorrhaging well, at least temporarily, marking the first time in 86 days that oil was not gushing into the Gulf of Mexico. ",
+      "publication_date": "2010-07-15T05:11:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/07/16/us/16spill.html",
+      "byline": "By Campbell Robertson and Henry Fountain"
+    },
+    {
+      "headline": "Vatican Revises Abuse Process, but Causes Stir",
+      "snippet": "The new rules, which make it easier to discipline priests, fell short of the hopes of advocates for victims.",
+      "abstract": "The new rules, which make it easier to discipline priests, fell short of the hopes of advocates for victims.",
+      "lead_paragraph": "VATICAN CITY — The Vatican issued revisions to its internal laws on Thursday making it easier to discipline sex-abuser priests, but caused confusion by also stating that ordaining women as priests was as grave an offense as pedophilia.",
+      "publication_date": "2010-07-15T14:18:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/07/16/world/europe/16vatican.html",
+      "byline": "By Rachel Donadio"
+    },
+    {
+      "headline": "Financial Overhaul Signals Shift on Deregulation",
+      "snippet": "The landmark legislation marks the end of an era of deregulation and will have uncertain implications. ",
+      "abstract": "The landmark legislation marks the end of an era of deregulation and will have uncertain implications. ",
+      "lead_paragraph": "WASHINGTON  Congress approved a sweeping expansion of federal financial regulation on Thursday, reflecting a renewed mistrust of financial markets after decades in which Washington stood back from Wall Street with wide-eyed admiration.",
+      "publication_date": "2010-07-15T15:40:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/07/16/business/16regulate.html",
+      "byline": "By Binyamin Appelbaum and David M. Herszenhorn"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2010-08-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "New Orleans Levees Nearly Ready, but Mistrusted",
+      "snippet": "An ambitious $15 billion project is well on its way to completion, but some experts say the protection is inadequate.",
+      "abstract": "An ambitious $15 billion project is well on its way to completion, but some experts say the protection is inadequate.",
+      "lead_paragraph": "LAKE BORGNE, La.  The great wall of Lake Borgne is a monster. Nearly two miles long and 26 feet high, it spans a corner of the lake, 12 miles east of New Orleans. On Aug. 29, 2005, that corner funneled Hurricane Katrina’s surge into New Orleans, causing some of the city’s most violent flooding. Now the corner is being blocked.",
+      "publication_date": "2010-08-23T17:37:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/24/us/24levee.html",
+      "byline": "By John Schwartz"
+    },
+    {
+      "headline": "Hacker’s Arrest Offers Peek Into Crime in Russia",
+      "snippet": "American authorities said Vladislav A. Horohorin headed “one of the most sophisticated organizations of online financial criminals in the world.”",
+      "abstract": "American authorities said Vladislav A. Horohorin headed “one of the most sophisticated organizations of online financial criminals in the world.”",
+      "lead_paragraph": "MOSCOW — On the Internet, he was known as BadB, a disembodied criminal flitting from one server to another selling stolen credit card numbers despite being pursued by the United States Secret Service.",
+      "publication_date": "2010-08-23T19:41:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/24/business/global/24cyber.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "U.S. Judges Sound Off on Bank Settlements",
+      "snippet": "Lately, some judges have departed from quietly rubber-stamping government settlements with troubled banks.",
+      "abstract": "Lately, some judges have departed from quietly rubber-stamping government settlements with troubled banks.",
+      "lead_paragraph": "WASHINGTON  Everything was rolling along traditional lines. A bank broke the rules. The government found out. The company agreed to pay a fine and improve its behavior.",
+      "publication_date": "2010-08-23T23:36:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/24/business/24judges.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Nordstrom Links Online Inventory to Real World",
+      "snippet": "The department store shows stock from both the Web warehouse and its stores all at once, keeping customers from going elsewhere.",
+      "abstract": "The department store shows stock from both the Web warehouse and its stores all at once, keeping customers from going elsewhere.",
+      "lead_paragraph": "SEATTLE  Retailers have been flailing about a bit in their efforts to get people to shop again, deploying all sorts of gimmicks and promotions to spur customer spending. ",
+      "publication_date": "2010-08-24T00:42:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/24/business/24shop.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Are Mergers Back? Well, Sort Of",
+      "snippet": "Leading deal makers say that while the recent surge in merger activity may be a positive sign, the hoopla is a bit overdone.",
+      "abstract": "Leading deal makers say that while the recent surge in merger activity may be a positive sign, the hoopla is a bit overdone.",
+      "lead_paragraph": "On Wall Street, it is called the “black car indicator”  a reference to the limousines lined up around investment banks to ferry home young analysts who have pulled near-all-nighters while working on deals.",
+      "publication_date": "2010-08-24T01:09:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/24/business/24sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Roche Backs New Method for Drug Delivery to Cells",
+      "snippet": "Roche agreed to pay up to $1.1 billion to Aileron Therapeutics, which is developing a new type of drug technology called stapled peptides.",
+      "abstract": "Roche agreed to pay up to $1.1 billion to Aileron Therapeutics, which is developing a new type of drug technology called stapled peptides.",
+      "lead_paragraph": " The Swiss pharmaceutical giant Roche is throwing its weight behind an experimental technology that could be used to treat a number of diseases. ",
+      "publication_date": "2010-08-24T04:00:38+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/24/health/24drug.html",
+      "byline": "By Duff Wilson"
+    }
+  ]
+}

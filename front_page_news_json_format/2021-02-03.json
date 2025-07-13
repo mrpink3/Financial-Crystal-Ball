@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-02-03",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Slow Pace of Vaccinations Pushes Europe Toward Second Economic Slump",
+      "snippet": "A double-dip recession in the European Union appears likely after the trade bloc reported a decline in economic output in the last quarter of 2020.",
+      "abstract": "A double-dip recession in the European Union appears likely after the trade bloc reported a decline in economic output in the last quarter of 2020.",
+      "lead_paragraph": "The new year was supposed to bring improved economic fortunes across Europe, as coronavirus vaccines made their way into the bloodstream.",
+      "publication_date": "2021-02-02T17:34:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/02/business/european-union-economy-recession.html",
+      "byline": "By Jack Ewing and Peter S. Goodman"
+    },
+    {
+      "headline": "Robinhood’s C.E.O. Is in the Hot Seat",
+      "snippet": "Vlad Tenev has incited the fury of the trading app’s fans amid a stock market frenzy. His lack of preparedness on nuts-and-bolts issues was part of a pattern, former employees and analysts said.",
+      "abstract": "Vlad Tenev has incited the fury of the trading app’s fans amid a stock market frenzy. His lack of preparedness on nuts-and-bolts issues was part of a pattern, former employees and analysts said.",
+      "lead_paragraph": "SAN FRANCISCO — Vlad Tenev, the chief executive of the online brokerage Robinhood, has had practice doing damage control.",
+      "publication_date": "2021-02-02T19:09:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/02/technology/robinhood-ceo-vlad-tenev.html",
+      "byline": "By Nathaniel Popper, Kellen Browning and Erin Griffith"
+    },
+    {
+      "headline": "Jeff Bezos to Step Down as Amazon C.E.O.",
+      "snippet": "Andy Jassy, the chief of Amazon’s cloud computing division, will become chief executive, while Mr. Bezos, the company’s founder, will become executive chairman.",
+      "abstract": "Andy Jassy, the chief of Amazon’s cloud computing division, will become chief executive, while Mr. Bezos, the company’s founder, will become executive chairman.",
+      "lead_paragraph": "SEATTLE — When Jeff Bezos founded an online bookseller named Amazon in 1994, he said the question that he was asked most frequently was “What’s the internet?”",
+      "publication_date": "2021-02-02T21:11:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/02/technology/jeff-bezos-amazon.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "After a Bruising Year, the Oil Industry Confronts a Diminished Future",
+      "snippet": "Big oil companies lost billions in 2020 because of the pandemic and face broad questions about how they will adapt to climate change and regulations.",
+      "abstract": "Big oil companies lost billions in 2020 because of the pandemic and face broad questions about how they will adapt to climate change and regulations.",
+      "lead_paragraph": "HOUSTON — Big Oil isn’t so big anymore.",
+      "publication_date": "2021-02-02T21:24:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/02/business/energy-environment/exxon-mobil-bp-2020-loss.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Under Pressure to Rebuke Their Own, G.O.P. Leaders Face a Critical Test",
+      "snippet": "The fates of Representatives Marjorie Taylor Greene and Liz Cheney have become a proxy battle for the soul of the party, prompting a clash among top Republicans.",
+      "abstract": "The fates of Representatives Marjorie Taylor Greene and Liz Cheney have become a proxy battle for the soul of the party, prompting a clash among top Republicans.",
+      "lead_paragraph": "WASHINGTON — Republicans fighting over their party’s future face a turning point on Wednesday as House leaders confront dueling calls to punish two members: one for spreading conspiracy theories and endorsing political violence, and the other for voting to impeach former President Donald J. Trump.",
+      "publication_date": "2021-02-02T22:49:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/02/us/politics/republicans-marjorie-taylor-greene-liz-cheney.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot",
+      "snippet": "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction.",
+      "abstract": "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction.",
+      "lead_paragraph": "WASHINGTON — The House impeachment managers on Tuesday laid out their case against Donald J. Trump, asserting that he was “singularly responsible” for the deadly assault on the Capitol last month and must be convicted and barred from holding public office.",
+      "publication_date": "2021-02-03T00:37:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.html",
+      "byline": "By Nicholas Fandos and Maggie Haberman"
+    },
+    {
+      "headline": "Trump Loyalists Across Homeland Security Could Vex Biden’s Immigration Policies",
+      "snippet": "President Biden and his new secretary of homeland security are already facing resistance from immigration agents empowered by Donald J. Trump to take their gloves off.",
+      "abstract": "President Biden and his new secretary of homeland security are already facing resistance from immigration agents empowered by Donald J. Trump to take their gloves off.",
+      "lead_paragraph": "WASHINGTON — After a Texas judge last week temporarily blocked President Biden’s order to pause deportations for 100 days, immigration agents did not hesitate to use the brief window to break with the incoming president’s new tone.",
+      "publication_date": "2021-02-03T10:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.html",
+      "byline": "By Zolan Kanno-Youngs and Michael D. Shear"
+    },
+    {
+      "headline": "Are Private Messaging Apps the Next Misinformation Hot Spot?",
+      "snippet": "Telegram and Signal, the encrypted services that keep conversations confidential, are increasingly popular. Our tech columnists discuss whether this could get ugly.",
+      "abstract": "Telegram and Signal, the encrypted services that keep conversations confidential, are increasingly popular. Our tech columnists discuss whether this could get ugly.",
+      "lead_paragraph": "Encrypted messaging apps, which protect the privacy of online conversations, were once special tools used primarily by people working in professions where confidentiality was prized, like law, journalism and politics.",
+      "publication_date": "2021-02-03T10:00:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/03/technology/personaltech/telegram-signal-misinformation.html",
+      "byline": "By Brian X. Chen and Kevin Roose"
+    },
+    {
+      "headline": "Super Bowl Commercials: To Address or Avoid the Pandemic?",
+      "snippet": "The year’s biggest TV advertising day will include nods to a difficult time — and Dolly Parton.",
+      "abstract": "The year’s biggest TV advertising day will include nods to a difficult time — and Dolly Parton.",
+      "lead_paragraph": "Some of the biggest players on Super Bowl Sunday won’t be wearing helmets. They’re the company executives and ad makers who will be monitoring the reaction to the big-budget commercials that will have their television debuts before an expected audience of 100 million viewers.",
+      "publication_date": "2021-02-03T14:34:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/03/business/media/super-bowl-commercials.html",
+      "byline": "By Tiffany Hsu"
+    }
+  ]
+}

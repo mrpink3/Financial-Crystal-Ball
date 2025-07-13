@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2011-12-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "In California, Asking Voters to Raise Taxes",
+      "snippet": "Withering budget cuts and mushrooming deficits may test California’s longtime resistance to tax increases next year.",
+      "abstract": "Withering budget cuts and mushrooming deficits may test California’s longtime resistance to tax increases next year.",
+      "lead_paragraph": "LOS ANGELES — For 33 years, since the passage of Proposition 13 slashed property taxes in this state, California has been on the leading edge of the tax cut movement that has spread across the nation.",
+      "publication_date": "2011-12-01T01:11:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/01/us/in-california-a-push-for-tax-increases-on-the-2012-ballot.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "DNA Sequencing Caught in Deluge of Data",
+      "snippet": "DNA sequencing is becoming faster and cheaper, outrunning the ability to store, transmit and analyze the data.",
+      "abstract": "DNA sequencing is becoming faster and cheaper, outrunning the ability to store, transmit and analyze the data.",
+      "lead_paragraph": "BGI, based in China, is the world’s largest genomics research institute, with 167 DNA sequencers producing the equivalent of 2,000 human genomes a day.",
+      "publication_date": "2011-12-01T01:48:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Outsourcing Giant Finds It Must Be Client, Too",
+      "snippet": "India’s new private sector is increasingly powering the economy, but it chafes at what many companies say are labor laws that blunt hiring and stifle growth.",
+      "abstract": "India’s new private sector is increasingly powering the economy, but it chafes at what many companies say are labor laws that blunt hiring and stifle growth.",
+      "lead_paragraph": "NEW DELHI — Every three months, India’s prime minister, Manmohan Singh, meets with a special panel assigned the ambitious task of figuring out how to produce 500 million skilled workers over the next two decades.",
+      "publication_date": "2011-12-01T02:04:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/01/world/asia/for-india-outsourcing-does-the-job-at-home-too.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "Camps Are Cleared, but ‘99 Percent’ Still Occupies the Lexicon",
+      "snippet": "Whatever the long-term effects of the Occupy movement, protesters have succeeded in implanting “We are the 99 percent” into the cultural and political vocabulary.",
+      "abstract": "Whatever the long-term effects of the Occupy movement, protesters have succeeded in implanting “We are the 99 percent” into the cultural and political vocabulary.",
+      "lead_paragraph": "Most of the biggest Occupy Wall Street camps are gone. But their slogan still stands.",
+      "publication_date": "2011-12-01T02:32:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/01/us/we-are-the-99-percent-joins-the-cultural-and-political-lexicon.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "Islamists Say They Have Mandate in Egypt Voting",
+      "snippet": "Winning a dominant majority in Egypt’s first Parliament since the ouster of Hosni Mubarak would be the religious movement’s most significant step since the start of the Arab Spring.",
+      "abstract": "Winning a dominant majority in Egypt’s first Parliament since the ouster of Hosni Mubarak would be the religious movement’s most significant step since the start of the Arab Spring.",
+      "lead_paragraph": "CAIRO — Islamists claimed a decisive victory on Wednesday as early election results put them on track to win a dominant majority in Egypt’s first Parliament since the ouster of Hosni Mubarak, the most significant step yet in the religious movement’s rise since the start of the Arab Spring.",
+      "publication_date": "2011-12-01T02:37:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/01/world/middleeast/voting-in-egypt-shows-mandate-for-islamists.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "Central Bank Chief Hints at Stepping Up Euro Support",
+      "snippet": "Mario Draghi suggested the European Central Bank might try to help ease market tension if political leaders take decisive steps to prevent future debt crises.",
+      "abstract": "Mario Draghi suggested the European Central Bank might try to help ease market tension if political leaders take decisive steps to prevent future debt crises.",
+      "lead_paragraph": "FRANKFURT — Mario Draghi, the president of the European Central Bank, laid the groundwork for a more aggressive response to the debt crisis Thursday, suggesting that the bank could increase its support for the European economy if political leaders took more radical steps to enforce spending discipline among members.",
+      "publication_date": "2011-12-01T11:23:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/02/business/global/draghi-hints-again-at-rate-cut-in-europe.html",
+      "byline": "By Jack Ewing"
+    }
+  ]
+}

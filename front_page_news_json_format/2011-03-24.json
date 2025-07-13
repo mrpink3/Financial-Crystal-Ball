@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2011-03-24",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Swiping Is the Easy Part",
+      "snippet": "With cellphones ready to act as credit cards, banks, carriers and card issuers are fighting for control.",
+      "abstract": "With cellphones ready to act as credit cards, banks, carriers and card issuers are fighting for control.",
+      "lead_paragraph": "The cellphone has been more than a cellphone for years, but soon it could take on an entirely new role — standing in for all of the credit and debit cards crammed into wallets.",
+      "publication_date": "2011-03-23T18:21:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/24/technology/24wallet.html",
+      "byline": "By Tara Siegel Bernard and Claire Cain Miller"
+    },
+    {
+      "headline": "Austerity Debate Fells Portugal’s Premier",
+      "snippet": "The failure to complete painful financial measures led to the government’s collapse and pushed the nation closer to a bailout from Europe and the International Monetary Fund.",
+      "abstract": "The failure to complete painful financial measures led to the government’s collapse and pushed the nation closer to a bailout from Europe and the International Monetary Fund.",
+      "lead_paragraph": "Another European government fell victim to the politics of austerity on Wednesday when the prime minister of Portugal resigned after opposition parties rejected his last-ditch attempt to push through a package of spending cuts and tax increases.",
+      "publication_date": "2011-03-23T20:41:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/24/world/europe/24portugal.html",
+      "byline": "By Raphael Minder and Landon Thomas Jr"
+    },
+    {
+      "headline": "Portable, but Not Puny, Speakers",
+      "snippet": "Portable wireless speakers connect to your phone, tablet or laptop and set free the formerly muted music in your collection, from Basie to Bieber.",
+      "abstract": "Portable wireless speakers connect to your phone, tablet or laptop and set free the formerly muted music in your collection, from Basie to Bieber.",
+      "lead_paragraph": "You could argue about what makes a gadget delightful: Simplicity, sleek looks or cool materials. But one element doesn’t get nearly enough press: magic. ",
+      "publication_date": "2011-03-23T21:17:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/24/technology/personaltech/24pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Drug Wars Push Deeper Into Central America",
+      "snippet": "Aggressive crackdowns on criminal organizations in Mexico and Colombia have increasingly brought the powerful drug syndicates into Central America.",
+      "abstract": "Aggressive crackdowns on criminal organizations in Mexico and Colombia have increasingly brought the powerful drug syndicates into Central America.",
+      "lead_paragraph": "SAN PEDRO SULA, Honduras — Josue Oviedo looked into his sister’s fading eyes as she fought to speak her last words. ",
+      "publication_date": "2011-03-24T01:17:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/24/world/americas/24drugs.html",
+      "byline": "By Randal C. Archibold and Damien Cave"
+    },
+    {
+      "headline": "Book Ruling Cuts Options for Google",
+      "snippet": "Google may seek help from Congress as it tries to salvage a book publishing settlement that was rejected by a federal judge.",
+      "abstract": "Google may seek help from Congress as it tries to salvage a book publishing settlement that was rejected by a federal judge.",
+      "lead_paragraph": "SAN FRANCISCO — Now that a judge has curtailed Google’s ambitions to create a giant digital bookstore and library, the company is left with few appealing options.",
+      "publication_date": "2011-03-24T01:20:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/24/business/media/24google.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Japan Nuclear Crisis Revives Long U.S. Fight on Spent Fuel",
+      "snippet": "The nuclear crisis in Japan has caused new arguments over a derailed repository for spent fuel at Yucca Mountain in Nevada.",
+      "abstract": "The nuclear crisis in Japan has caused new arguments over a derailed repository for spent fuel at Yucca Mountain in Nevada.",
+      "lead_paragraph": "WASHINGTON — The threat of the release of highly radioactive spent fuel at a Japanese nuclear plant has revived a debate in the United States about how to manage such waste and has led to new recriminations over a derailed plan for a national repository in Nevada.",
+      "publication_date": "2011-03-24T01:39:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/24/us/24yucca.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "Shady Dealings Helped Qaddafi Build Fortune and Regime",
+      "snippet": "Since the United States reopened trade with Col. Muammar el-Qaddafi’s government in 2004, businesses have witnessed a Libyan culture rife with kickbacks, strong-arm tactics and political patronage.",
+      "abstract": "Since the United States reopened trade with Col. Muammar el-Qaddafi’s government in 2004, businesses have witnessed a Libyan culture rife with kickbacks, strong-arm tactics and political patronage.",
+      "lead_paragraph": "WASHINGTON — In 2009, top aides to Col. Muammar el-Qaddafi called together 15 executives from global energy companies operating in Libya’s oil fields and issued an extraordinary demand: Shell out the money for his country’s $1.5 billion bill for its role in the downing of Pan Am Flight 103 and other terrorist attacks.",
+      "publication_date": "2011-03-24T04:31:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/24/world/africa/24qaddafi.html",
+      "byline": "By Eric Lichtblau, David Rohde and James Risen"
+    }
+  ]
+}

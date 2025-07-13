@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-02-03",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Jeff Zucker Resigns From CNN After Relationship With Top Executive",
+      "snippet": "The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues.",
+      "abstract": "The relationship came up during the network’s investigation into the former anchor Chris Cuomo. “I was required to disclose it when it began but I didn’t,” Mr. Zucker wrote in a memo to colleagues.",
+      "lead_paragraph": "Jeff Zucker resigned on Wednesday as the president of CNN, departing one of the most powerful positions in American media after acknowledging that he had failed to disclose a romantic relationship with another senior executive at the network.",
+      "publication_date": "2022-02-02T16:04:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html",
+      "byline": "By Michael M. Grynbaum and John Koblin"
+    },
+    {
+      "headline": "In Responses to Russia, U.S. Stands Firm on Who Can Join NATO",
+      "snippet": "Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war.",
+      "abstract": "Leaked replies to Moscow’s security demands reinforced the intractability of a crisis that threatens to lead to war.",
+      "lead_paragraph": "BRUSSELS — The confrontation between Russia and the United States over Ukraine deepened on Wednesday, as leaked documents confirmed the U.S. and NATO rejection of key Russian security demands, while the Biden administration ordered 3,000 additional troops into Eastern Europe.",
+      "publication_date": "2022-02-02T16:52:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/02/world/europe/us-nato-response-russia-demands.html",
+      "byline": "By Steven Erlanger and Andrew E. Kramer"
+    },
+    {
+      "headline": "Over a Million Flee as Afghanistan’s Economy Collapses",
+      "snippet": "Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread.",
+      "abstract": "Thousands of Afghans are trying to sneak into Iran and Pakistan each day, as incomes have dried up and life-threatening hunger has become widespread.",
+      "lead_paragraph": "ZARANJ, Afghanistan — From their hide-out in the desert ravine, the migrants could just make out the white lights of the Iranian border glaring over the horizon.",
+      "publication_date": "2022-02-02T17:32:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/02/world/asia/afghanistan-migration-refugees.html",
+      "byline": "By Christina Goldbaum, Yaqoob Akbary and Kiana Hayeri"
+    },
+    {
+      "headline": "How a Plea Deal in the Arbery Hate Crime Case Unraveled",
+      "snippet": "Prosecutors thought they had come up with an ironclad deal to put Ahmaud Arbery’s killers away. But for his family, it wasn’t enough.",
+      "abstract": "Prosecutors thought they had come up with an ironclad deal to put Ahmaud Arbery’s killers away. But for his family, it wasn’t enough.",
+      "lead_paragraph": "ATLANTA — Tara M. Lyons stood in a courtroom in Brunswick, Ga., this week with a dilemma no prosecutor wants.",
+      "publication_date": "2022-02-02T17:46:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/02/us/ahmaud-arbery-murder-plea-deal.html",
+      "byline": "By Richard Fausset and Shaila Dewan"
+    },
+    {
+      "headline": "Meta spent $10 billion on the metaverse in 2021, dragging down profit.",
+      "snippet": "Quarterly profits decreased 8 percent, to $10.3 billion, from a year earlier. Shares of Meta’s stock plunged about 22 percent in after-hours trading.",
+      "abstract": "Quarterly profits decreased 8 percent, to $10.3 billion, from a year earlier. Shares of Meta’s stock plunged about 22 percent in after-hours trading.",
+      "lead_paragraph": "Mark Zuckerberg said his company was going all in on the metaverse last year. On Wednesday, he showed the costs of making that transition.",
+      "publication_date": "2022-02-02T21:33:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/02/technology/meta-facebook-earnings-metaverse.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Is Biden’s Strategy With Putin Working, or Goading Moscow to War?",
+      "snippet": "The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict.",
+      "abstract": "The Biden administration’s goal is to cut the Russians off at each turn by exposing their plans. But Russian President Vladimir V. Putin says that approach could spark a conflict.",
+      "lead_paragraph": "WASHINGTON — At key moments since the Ukraine crisis flared into the headlines two months ago, President Biden and his aides have worked to expose Russian President Vladimir V. Putin’s plans, declassifying intelligence about his next steps and calling him out as an “aggressor.”",
+      "publication_date": "2022-02-03T00:05:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/02/us/politics/biden-putin-strategy.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Natural Gas Shipments, Mostly From U.S., Ease Europe’s Energy Crunch",
+      "snippet": "As Russia squeezes supplies, a parade of tankers carrying liquefied natural gas is coming to Europe’s rescue.",
+      "abstract": "As Russia squeezes supplies, a parade of tankers carrying liquefied natural gas is coming to Europe’s rescue.",
+      "lead_paragraph": "Near the entrance to Rotterdam’s vast harbor in the Netherlands is a specialized port that is offering an alternative to the web of Russian pipelines that feed much of Europe’s hunger for natural gas. ",
+      "publication_date": "2022-02-03T08:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/03/business/natural-gas-europe-us.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "January Jobs Report May Disappoint. It Is Sure to Perplex.",
+      "snippet": "Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended.",
+      "abstract": "Omicron’s impact is likely to be reflected unevenly in the data, and normal seasonal patterns may have been upended.",
+      "lead_paragraph": "The January jobs report is arriving at a critical time for the U.S. economy. Inflation is rising. The pandemic is still taking a toll. And the Federal Reserve is trying to decide how best to steer the economy through a swirl of competing threats.",
+      "publication_date": "2022-02-03T08:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/03/business/economy/jobs-report-covid-omicron.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Putin, Facing Sanction Threats, Has Been Saving for This Day",
+      "snippet": "Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country.",
+      "abstract": "Since paying the price for annexing Crimea in 2014, Russia has tried to make its economy sanctions-proof, hoarding currency to insulate the country.",
+      "lead_paragraph": "Vladimir V. Putin’s posture toward the West through the recent Ukraine crisis seems unusually defiant, even for him. But there may be more behind his confidence than military power or empty bravado.",
+      "publication_date": "2022-02-03T10:00:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/03/world/europe/putin-sanctions-proofing.html",
+      "byline": "By Max Fisher"
+    },
+    {
+      "headline": "In Beijing, the Subject on Everybody’s Mind but Not Lips",
+      "snippet": "An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games.",
+      "abstract": "An Olympic rule and warnings from the Chinese government have made it risky for athletes to speak out at these Games.",
+      "lead_paragraph": "",
+      "publication_date": "2022-02-03T13:02:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/03/world/asia/olympics-china-protests.html",
+      "byline": "By Steven Lee Myers and Alan Blinder"
+    }
+  ]
+}

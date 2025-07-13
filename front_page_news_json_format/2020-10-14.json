@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2020-10-14",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Google Employees Are Free to Speak Up. Except on Antitrust.",
+      "snippet": "A company operating in the shadow of government regulators has some very particular rules about what workers can say about it.",
+      "abstract": "A company operating in the shadow of government regulators has some very particular rules about what workers can say about it.",
+      "lead_paragraph": "OAKLAND, Calif. — Google employees are not shy about speaking up. In the last few years, they have openly confronted the company about building a censored search engine in China, the handling of sexual harassment claims and its work with the Pentagon on artificial intelligence technology for weapons.",
+      "publication_date": "2020-10-13T17:13:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/13/technology/google-employees-antitrust.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "For Nagorno-Karabakh’s Dueling Sides, Living Together Is ‘Impossible’",
+      "snippet": "Armenians and Azerbaijanis coexisted in Soviet days. But conflict over the disputed territory exploded in the late 1980s, leaving festering wounds that have erupted anew.",
+      "abstract": "Armenians and Azerbaijanis coexisted in Soviet days. But conflict over the disputed territory exploded in the late 1980s, leaving festering wounds that have erupted anew.",
+      "lead_paragraph": "SHGHARJIK, Armenia — The concrete memorial to 30 Azerbaijani soldiers — pockmarked, stained and cracked — pokes out of the craggy mountainside next to the crumbling remnants of two junked cars.",
+      "publication_date": "2020-10-13T19:31:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/13/world/europe/armenia-azerbaijan-nagorno-karabakh.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "Riled Up: Misinformation Stokes Calls for Violence on Election Day",
+      "snippet": "Baseless claims are circulating online about a Democrat-led coup, inflaming tensions in an already turbulent election season.",
+      "abstract": "Baseless claims are circulating online about a Democrat-led coup, inflaming tensions in an already turbulent election season.",
+      "lead_paragraph": "In a video posted to Facebook on Sept. 14, Dan Bongino, a popular right-wing commentator and radio host, declared that Democrats were planning a coup against President Trump on Election Day.",
+      "publication_date": "2020-10-13T20:41:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/13/technology/viral-misinformation-violence-election.html",
+      "byline": "By Davey Alba"
+    },
+    {
+      "headline": "Supreme Court Rules That Census Count Can Be Cut Short",
+      "snippet": "After extending the deadline to count every person in America, a process complicated by the coronavirus pandemic, the Trump administration reversed course. Critics saw a political motive.",
+      "abstract": "After extending the deadline to count every person in America, a process complicated by the coronavirus pandemic, the Trump administration reversed course. Critics saw a political motive.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Tuesday allowed the Trump administration to halt the 2020 census count ahead of schedule, effectively shutting down what has been the most contentious and litigated census in memory and setting the stage for a bitter fight over how to use its numbers for the apportionment of the next Congress.",
+      "publication_date": "2020-10-13T21:10:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/13/us/supreme-court-census.html",
+      "byline": "By Adam Liptak and Michael Wines"
+    },
+    {
+      "headline": "‘Straight to Gunshots’: How a U.S. Task Force Killed an Antifa Activist",
+      "snippet": "New accounts from the scene raise questions about whether Michael Reinoehl, suspected of killing a far-right Trump supporter, pulled out a gun before officers fatally shot him.",
+      "abstract": "New accounts from the scene raise questions about whether Michael Reinoehl, suspected of killing a far-right Trump supporter, pulled out a gun before officers fatally shot him.",
+      "lead_paragraph": "Michael Reinoehl was on the run.",
+      "publication_date": "2020-10-13T22:29:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/13/us/michael-reinoehl-antifa-portland-shooting.html",
+      "byline": "By Evan Hill, Mike Baker, Derek Knowles and Stella Cooper"
+    },
+    {
+      "headline": "Barrett, Declining to Detail Legal Views, Says She Will Not Be ‘a Pawn’ of Trump",
+      "snippet": "President Trump’s Supreme Court nominee refused to weigh in on critical matters that could come before the court, including health care, abortion rights and a possible election dispute.",
+      "abstract": "President Trump’s Supreme Court nominee refused to weigh in on critical matters that could come before the court, including health care, abortion rights and a possible election dispute.",
+      "lead_paragraph": "Judge Amy Coney Barrett flatly refused on Tuesday to pledge that she would recuse herself if a dispute over the Nov. 3 election came before the Supreme Court, insisting that despite her nomination by President Trump, she would not “allow myself to be used as a pawn to decide this election for the American people.”",
+      "publication_date": "2020-10-13T23:21:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/13/us/politics/amy-coney-barrett-supreme-court-hearings.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Barrett’s Testimony Is a Deft Mix of Expertise and Evasion",
+      "snippet": "Judge Amy Coney Barrett demonstrated easy familiarity with Supreme Court precedents but said almost nothing about whether they should stand.",
+      "abstract": "Judge Amy Coney Barrett demonstrated easy familiarity with Supreme Court precedents but said almost nothing about whether they should stand.",
+      "lead_paragraph": "WASHINGTON — In 1995, Justice Elena Kagan, then a young law professor, wrote a law review article calling Supreme Court confirmation hearings “a vapid and hollow charade.”",
+      "publication_date": "2020-10-13T23:22:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/13/us/politics/barrett-testimony.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "What Kamala Harris Learned About Power at Howard",
+      "snippet": "As a college student, she wanted to have an impact. The answer she landed on — working inside institutions — set her on the path to the vice-presidential nomination.",
+      "abstract": "As a college student, she wanted to have an impact. The answer she landed on — working inside institutions — set her on the path to the vice-presidential nomination.",
+      "lead_paragraph": "[Read our profile of Kamala Harris, the first woman elected U.S. vice president.]",
+      "publication_date": "2020-10-14T07:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.html",
+      "byline": "By Astead W. Herndon"
+    },
+    {
+      "headline": "BTS’s Loyal Army of Fans Is the Secret Weapon Behind a $4 Billion Valuation",
+      "snippet": "What investors are really paying for is not necessarily the K-pop group or its management company, but its huge, highly connected ecosystem of followers.",
+      "abstract": "What investors are really paying for is not necessarily the K-pop group or its management company, but its huge, highly connected ecosystem of followers.",
+      "lead_paragraph": "It’s 10:30 on a Monday night, and Ashley Hackworth is putting the final touches on a personal project to make the world’s biggest boy band a little bit bigger.",
+      "publication_date": "2020-10-14T07:30:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/14/business/bts-ipo.html",
+      "byline": "By Ben Dooley and Su-Hyun Lee"
+    },
+    {
+      "headline": "Pret A Manger Will Try Anything to Survive",
+      "snippet": "The pandemic made the lunch chain’s biggest strength — hundreds of stores in central London — its biggest weakness overnight.",
+      "abstract": "The pandemic made the lunch chain’s biggest strength — hundreds of stores in central London — its biggest weakness overnight.",
+      "lead_paragraph": "LONDON — If you stand outside the Bank underground station, in the heart of the financial center of Britain, and want to pick up a quick lunch, within about 10 minutes you can reach 25 Pret A Manger stores.",
+      "publication_date": "2020-10-14T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/14/business/pret-a-manger-london-pandemic.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "How Joe Biden Became the Unlikeliest of Online Fund-Raising Superstars",
+      "snippet": "Four inflection points transformed Mr. Biden from a pauper during the primaries to a powerhouse against President Trump.",
+      "abstract": "Four inflection points transformed Mr. Biden from a pauper during the primaries to a powerhouse against President Trump.",
+      "lead_paragraph": "Long before Joseph R. Biden Jr. was smashing online fund-raising records, long before it was clear he would become the Democratic nominee, his campaign was facing a serious cash crisis.",
+      "publication_date": "2020-10-14T09:00:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.html",
+      "byline": "By Shane Goldmacher and Rachel Shorey"
+    },
+    {
+      "headline": "‘This Is a War’: Cross-Border Fight Over Water Erupts in Mexico",
+      "snippet": "Farmers in Mexico ambushed soldiers and seized a dam to stop water payments to the United States, in a sign of growing conflict over increasingly scarce resources.",
+      "abstract": "Farmers in Mexico ambushed soldiers and seized a dam to stop water payments to the United States, in a sign of growing conflict over increasingly scarce resources.",
+      "lead_paragraph": "BOQUILLA, Mexico — The farmers armed themselves with sticks, rocks and homemade shields, ambushed hundreds of soldiers guarding a dam and seized control of one of the border region’s most important bodies of water.",
+      "publication_date": "2020-10-14T09:00:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/14/world/americas/mexico-water-boquilla-dam.html",
+      "byline": "By Natalie Kitroeff"
+    }
+  ]
+}

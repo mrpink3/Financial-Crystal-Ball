@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2023-11-02",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Fed Holds Rates Steady and Pledges to Proceed Carefully",
+      "snippet": "The Federal Reserve left interest rates at 5.25 to 5.5 percent, but its chair, Jerome Powell, said policymakers could still raise rates again.",
+      "abstract": "The Federal Reserve left interest rates at 5.25 to 5.5 percent, but its chair, Jerome Powell, said policymakers could still raise rates again.",
+      "lead_paragraph": "The Federal Reserve left interest rates unchanged on Wednesday while keeping alive the possibility of a future increase, striking a cautious stance as rapid inflation retreats but is not yet vanquished.",
+      "publication_date": "2023-11-01T16:02:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/business/economy/fed-interest-rates-inflation-economy.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "In Protests Against Israel Strikes, G.O.P. Sees ‘Woke Agenda’ at Colleges",
+      "snippet": "As the Mideast war escalates, the party’s politicians and activists are casting antisemitic incidents and progressive protests as part of a larger cultural battle over education.",
+      "abstract": "As the Mideast war escalates, the party’s politicians and activists are casting antisemitic incidents and progressive protests as part of a larger cultural battle over education.",
+      "lead_paragraph": "The newest front in America’s cultural battles is a war taking place thousands of miles away.",
+      "publication_date": "2023-11-01T16:23:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/01/us/politics/republicans-israel-war-protests-college-campuses.html",
+      "byline": "By Lisa Lerer and Rebecca Davis O'Brien"
+    },
+    {
+      "headline": "Sam Bankman-Fried’s Trial Nears Finish as Closing Arguments Are Made",
+      "snippet": "Prosecutors said Mr. Bankman-Fried had built his FTX crypto exchange into a “pyramid of deceit” while the defense said he was simply a “math nerd” who had no intent to defraud.",
+      "abstract": "Prosecutors said Mr. Bankman-Fried had built his FTX crypto exchange into a “pyramid of deceit” while the defense said he was simply a “math nerd” who had no intent to defraud.",
+      "lead_paragraph": "Sam Bankman Fried, the onetime cryptocurrency mogul, built his FTX crypto exchange into a “pyramid of deceit” resting on a “foundation of lies and false promises,” a federal prosecutor said on Wednesday at the criminal fraud trial.",
+      "publication_date": "2023-11-01T17:19:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/technology/sam-bankman-fried-ftx-trial.html",
+      "byline": "By Matthew Goldstein, J. Edward Moreno and David Yaffe-Bellany"
+    },
+    {
+      "headline": "Limited Flight From Gaza Strip Begins, as Israelis Close In on Main City",
+      "snippet": "Hundreds of people, including a few Americans, left the besieged territory for Egypt, the first group allowed across the border since the war began.",
+      "abstract": "Hundreds of people, including a few Americans, left the besieged territory for Egypt, the first group allowed across the border since the war began.",
+      "lead_paragraph": "After weeks of waiting, hundreds of people were allowed to leave the besieged Gaza Strip on Wednesday, the first of thousands of foreigners, aid workers and critically wounded patients who were expected to exit in the coming days, as two million increasingly desperate people remained behind.",
+      "publication_date": "2023-11-01T20:45:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/01/world/asia/israel-gaza-people-leave.html",
+      "byline": "By Vivian Yee and Emma Bubola"
+    },
+    {
+      "headline": "Risk of a Wider Middle East War Threatens a ‘Fragile’ World Economy",
+      "snippet": "After shocks from the pandemic and Russia’s invasion of Ukraine, there’s little cushion if the fighting between Hamas and Israel becomes a regional conflict.",
+      "abstract": "After shocks from the pandemic and Russia’s invasion of Ukraine, there’s little cushion if the fighting between Hamas and Israel becomes a regional conflict.",
+      "lead_paragraph": "Fears that Israel’s expanding military operations in Gaza could escalate into a regional conflict are clouding the global economy’s outlook, threatening to dampen growth and reignite a rise in energy and food prices.",
+      "publication_date": "2023-11-01T23:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/01/business/economy/israel-gaza-war-global-economy.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "China Is Winning in Solar Power, but Its Coal Use Is Raising Alarms",
+      "snippet": "China is building as much clean energy capacity over four years as it had promised to build in 10 years, but continues to add coal-fired power plants.",
+      "abstract": "China is building as much clean energy capacity over four years as it had promised to build in 10 years, but continues to add coal-fired power plants.",
+      "lead_paragraph": "China is installing about as many solar panels and wind turbines as the rest of the world combined, and is on track to meet its target for clean energy six years early. It is using renewables to meet nearly all of the growth in its electricity needs.",
+      "publication_date": "2023-11-02T04:01:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/02/business/china-solar-energy-cop-28.html",
+      "byline": "By Keith Bradsher and Lisa Friedman"
+    },
+    {
+      "headline": "No Nation in the World Is Buying More Planes Than India. Here’s Why.",
+      "snippet": "While most Indians travel by road or rail, the country is engaged in a major expansion of its aviation industry to serve the needs of its middle class.",
+      "abstract": "While most Indians travel by road or rail, the country is engaged in a major expansion of its aviation industry to serve the needs of its middle class.",
+      "lead_paragraph": "No nation in the world is buying as many airplanes as India. Its largest airlines have ordered nearly 1,000 jets this year, committing tens of billions of dollars to a spending spree that is unparalleled in aviation. In New Delhi, Indira Gandhi International Airport will be ready for 109 million passengers next year, as it prepares to become the world’s second busiest, behind Hartsfield-Jackson Atlanta International Airport in the United States.",
+      "publication_date": "2023-11-02T04:01:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/02/business/india-aviation.html",
+      "byline": "By Alex Travelli and Hari Kumar"
+    },
+    {
+      "headline": "‘More Than Just Rugby’: Championship Generates Harmony in South Africa",
+      "snippet": "South Africans are savoring a second consecutive World Cup victory, producing a racial unity that even Hollywood couldn’t make up and an escape from the country’s troubles.",
+      "abstract": "South Africans are savoring a second consecutive World Cup victory, producing a racial unity that even Hollywood couldn’t make up and an escape from the country’s troubles.",
+      "lead_paragraph": "The towering hall thundered with the euphoria of a nation where everyone seemed, for the moment, to have left their differences behind.",
+      "publication_date": "2023-11-02T08:01:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/02/world/africa/rugby-south-africa-world-cup.html",
+      "byline": "By John Eligon"
+    },
+    {
+      "headline": "Why the Abortion Ballot Question in Ohio Is Confusing Voters",
+      "snippet": "Ballot questions have been a winning strategy for abortion rights, even in red states. But complicated ballot language and misinformation have some abortion rights supporters worried.",
+      "abstract": "Ballot questions have been a winning strategy for abortion rights, even in red states. But complicated ballot language and misinformation have some abortion rights supporters worried.",
+      "lead_paragraph": "Follow our live updates from Election Day 2023.",
+      "publication_date": "2023-11-02T09:02:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/02/us/abortion-ballot-ohio-vote.html",
+      "byline": "By Kate Zernike and Lisa Lerer"
+    },
+    {
+      "headline": "How a Campaign of Extremist Violence Is Pushing the West Bank to the Brink",
+      "snippet": "Israeli settlers and Palestinians have been locked in a cycle of bloodshed for decades. But extremist settler attacks could send the conflict out of control.",
+      "abstract": "Israeli settlers and Palestinians have been locked in a cycle of bloodshed for decades. But extremist settler attacks could send the conflict out of control.",
+      "lead_paragraph": "Last weekend, Bilal Mohammad Saleh, a Palestinian sidewalk vendor of sage and thyme, went out with his family to pick olives.",
+      "publication_date": "2023-11-02T12:19:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/02/world/middleeast/west-bank-palestinians-israel-settlers.html",
+      "byline": "By Jeffrey Gettleman, Rami Nazzal and Adam Sella"
+    },
+    {
+      "headline": "On Social Media, People Face Pressure to Speak Out About the War",
+      "snippet": "Silence is viewed by many as its own statement. Posting, though, can come with costs, including angry outpourings and even personal attacks.",
+      "abstract": "Silence is viewed by many as its own statement. Posting, though, can come with costs, including angry outpourings and even personal attacks.",
+      "lead_paragraph": "Deb Perelman, the best-selling cookbook author and creator of Smitten Kitchen, tends to focus her social media posts on her work, like pasta or chocolate chip cookie recipes. But days after Hamas attacked Israel, she called the violence “repugnant” on Instagram and expressed dread for “death and destruction now ahead on both sides.”",
+      "publication_date": "2023-11-02T15:51:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/02/business/social-media-israel-hamas-conflict.html",
+      "byline": "By Emma Goldberg and Sapna Maheshwari"
+    }
+  ]
+}

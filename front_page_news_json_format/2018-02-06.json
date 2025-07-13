@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-02-06",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "As Bitcoin Bubble Loses Air, Frauds and Flaws Rise to Surface",
+      "snippet": "Hackers draining online exchanges. Ponzi schemes. Regulators unable to keep up with heightened interest in virtual currencies. A young industry’s problems have become clearer in recent weeks.",
+      "abstract": "Hackers draining online exchanges. Ponzi schemes. Regulators unable to keep up with heightened interest in virtual currencies. A young industry’s problems have become clearer in recent weeks.",
+      "lead_paragraph": "SAN FRANCISCO — You did not have to be a technophobe to worry that the virtual-currency boom of the past year papered over plenty of problems.",
+      "publication_date": "2018-02-05T21:42:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/05/technology/virtual-currency-regulation.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "From Oil to Solar: Saudi Arabia Plots a Shift to Renewables",
+      "snippet": "Riyadh plans to build a $300 million solar farm that would generate enough electricity to power around 40,000 homes, an example Saudi leaders hope will have positive consequences.",
+      "abstract": "Riyadh plans to build a $300 million solar farm that would generate enough electricity to power around 40,000 homes, an example Saudi leaders hope will have positive consequences.",
+      "lead_paragraph": "DHAHRAN, Saudi Arabia — Life in Saudi Arabia has long been defined by the oil that flows from the kingdom. Over decades, the vast wealth it pumped out paid not just for gleaming towers and shopping malls but also for a government sector that employs a majority of working Saudis.",
+      "publication_date": "2018-02-05T22:22:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/05/business/energy-environment/saudi-arabia-solar-renewables.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Many Say He’s the Least Qualified Lawyer Ever to Lead a Guantánamo Case. He Agrees.",
+      "snippet": "Lt. Alaric Piette knows he is unfit to be Abd al-Rahim al-Nashiri’s only lawyer. But leaving his client with no one, he says, would be worse.",
+      "abstract": "Lt. Alaric Piette knows he is unfit to be Abd al-Rahim al-Nashiri’s only lawyer. But leaving his client with no one, he says, would be worse.",
+      "lead_paragraph": "GUANTÁNAMO BAY, Cuba — For years, an expert legal team defended one of the most high-profile accused terrorists in a death penalty case at the military tribunals here. But a courtroom dispute involving classified snooping prompted nearly all of the team to abruptly quit this fall, leaving only a 39-year-old former SEAL turned lawyer with just six years’ experience, and none with a capital case.",
+      "publication_date": "2018-02-05T22:51:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/05/us/guantanamo-lawyer-piette.html",
+      "byline": "By Dave Philipps"
+    },
+    {
+      "headline": "In Russia Inquiry, Lawyers Tell Trump to Refuse Mueller Interview",
+      "snippet": "The lawyers believe the special counsel lacks standing in some matters, but a refusal would run counter to the president’s statements and raise the specter of a court battle.",
+      "abstract": "The lawyers believe the special counsel lacks standing in some matters, but a refusal would run counter to the president’s statements and raise the specter of a court battle.",
+      "lead_paragraph": "WASHINGTON — Lawyers for President Trump have advised him against sitting down for a wide-ranging interview with the special counsel, Robert S. Mueller III, according to four people briefed on the matter, raising the specter of a monthslong court battle over whether the president must answer questions under oath.",
+      "publication_date": "2018-02-06T00:59:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html",
+      "byline": "By Michael S. Schmidt and Maggie Haberman"
+    },
+    {
+      "headline": "Investors Fear the Tax Cuts Will Work Too Well",
+      "snippet": "If stocks continue to fall, it won’t be because the president’s tax policies are failing, but because they may overheat the economy, spurring inflation.",
+      "abstract": "If stocks continue to fall, it won’t be because the president’s tax policies are failing, but because they may overheat the economy, spurring inflation.",
+      "lead_paragraph": "“The stock market has smashed one record after another, gaining $8 trillion in value. That is great news for Americans’ 401(k), retirement, pension and college savings accounts.”",
+      "publication_date": "2018-02-06T00:59:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/05/business/dealbook/trump-markets-stimulus.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Live by the Dow, Die by the Dow? Trump Is Quiet on Market",
+      "snippet": "No president in modern times has connected his political fortunes to the stock market as much as Mr. Trump. But as shares swooned Monday, he avoided any mention of it.",
+      "abstract": "No president in modern times has connected his political fortunes to the stock market as much as Mr. Trump. But as shares swooned Monday, he avoided any mention of it.",
+      "lead_paragraph": "WASHINGTON — As President Trump boasted about the economy during a speech on Monday, he left out one of his favorite lines. Nowhere did he mention the skyrocketing stock market.",
+      "publication_date": "2018-02-06T01:48:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/05/us/politics/trump-stock-market-economy.html",
+      "byline": "By Peter Baker and Binyamin Appelbaum"
+    },
+    {
+      "headline": "FEMA Contract Called for 30 Million Meals for Puerto Ricans. 50,000 Were Delivered.",
+      "snippet": "FEMA terminated a big contract with a tiny vendor hired to produce meals for Puerto Rico after Hurricane Maria. Now, Congress is asking questions.",
+      "abstract": "FEMA terminated a big contract with a tiny vendor hired to produce meals for Puerto Rico after Hurricane Maria. Now, Congress is asking questions.",
+      "lead_paragraph": "The mission for the Federal Emergency Management Agency was clear: Hurricane Maria had torn through Puerto Rico, and hungry people needed food. Thirty million meals needed to be delivered as soon as possible.",
+      "publication_date": "2018-02-06T15:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/06/us/fema-contract-puerto-rico.html",
+      "byline": "By Patricia Mazzei and Agustin Armendariz"
+    }
+  ]
+}

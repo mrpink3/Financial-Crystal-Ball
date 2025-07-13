@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-02-11",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trump’s Missing Call Logs Present a Challenge for Jan. 6 Investigators",
+      "snippet": "Sparse call records and missing documents hinder the House panel as it tries to piece together what President Trump was doing during the attack on Congress.",
+      "abstract": "Sparse call records and missing documents hinder the House panel as it tries to piece together what President Trump was doing during the attack on Congress.",
+      "lead_paragraph": "WASHINGTON — The House committee investigating the Jan. 6 attack on the Capitol has discovered gaps in official White House telephone logs from the day of the riot, finding few records of calls by President Donald J. Trump from critical hours when investigators know that he was making them.",
+      "publication_date": "2022-02-10T16:27:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/10/us/politics/jan-6-trump-calls.html",
+      "byline": "By Luke Broadwater, Jonathan Martin, Maggie Haberman and Michael S. Schmidt"
+    },
+    {
+      "headline": "SoftBank’s Woes Are Mounting",
+      "snippet": "Plunging profit, wobbly shares and a key executive’s departure after a bitter pay dispute beget the question: Will SoftBank rein in its freewheeling ways?",
+      "abstract": "Plunging profit, wobbly shares and a key executive’s departure after a bitter pay dispute beget the question: Will SoftBank rein in its freewheeling ways?",
+      "lead_paragraph": "For the past decade, SoftBank and its founder, Masayoshi Son, grabbed headlines mainly for the Japanese conglomerate’s eye-popping investments, becoming a fixture in the American technology scene by spending freely on start-ups and fundamentally reshaping how such companies had been funded.",
+      "publication_date": "2022-02-10T17:15:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/10/business/softbank-masayoshi-son-marcelo-claure.html",
+      "byline": "By Maureen Farrell"
+    },
+    {
+      "headline": "How the G.O.P.’s Censure Fight Exposes the Party’s Deeper Divide",
+      "snippet": "Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters.",
+      "abstract": "Upcoming primaries will test whether embracing Donald J. Trump’s election falsehoods is a litmus test for Republican voters.",
+      "lead_paragraph": "WASHINGTON — More than a year after the 2020 election, Donald J. Trump’s false claims of election fraud remain a destabilizing force for the Republican Party, dividing an activist base galvanized by a lie from elites in Washington who are hoping to hold the party together long enough to win back power in Congress in the upcoming midterm elections.",
+      "publication_date": "2022-02-10T19:34:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/10/us/politics/trump-election-lies-republicans.html",
+      "byline": "By Reid J. Epstein and Shane Goldmacher"
+    },
+    {
+      "headline": "With Buildup on Land and Sea, Russia Closes in on Ukraine",
+      "snippet": "Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble.",
+      "abstract": "Military drills in Belarus, deployments in western Russia and Crimea, and planned naval exercises in the Black Sea gave an ominous undertone to a continuing diplomatic scramble.",
+      "lead_paragraph": "MOSCOW — Thousands of Russian troops on Thursday began 10 days of exercises in Belarus, and Ukraine warned of upcoming Russian naval drills so extensive they would block shipping lanes, as the Kremlin continued to tighten its military vise on Ukraine.",
+      "publication_date": "2022-02-10T21:20:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/10/world/europe/russia-ukraine-military-deployment.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "Canadian Trucker Protests Snarl an Already Hobbled Auto Industry",
+      "snippet": "Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions.",
+      "abstract": "Blockades of U.S.-Canada border crossings could hurt the auto industry, factory workers and the economy, which are still recovering from pandemic disruptions.",
+      "lead_paragraph": "After two years of the pandemic, semiconductor shortages and supply chain chaos, it seemed as if nothing else could go wrong for the auto industry and the millions of people it employs. But then came thousands of truckers who, angry about vaccine mandates, have been blocking major border crossings between Canada and the United States.",
+      "publication_date": "2022-02-10T22:50:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/10/business/economy/canada-protests-cars-automobiles.html",
+      "byline": "By Jack Ewing and Ana Swanson"
+    },
+    {
+      "headline": "Why an Arizona County Turned Down $1.9 Million in Covid Relief",
+      "snippet": "Two Republican supervisors voted to reject the federal money, frustrating health care workers in rural Cochise County.",
+      "abstract": "Two Republican supervisors voted to reject the federal money, frustrating health care workers in rural Cochise County.",
+      "lead_paragraph": "The $1.9 million in pandemic aid would have gone a long way in Cochise County, a rural borderland where a winter of infections swamped hospitals. There was money for tracking cases. Testing in remote ranching towns. Funds fortifying the Arizona county’s strained health department.",
+      "publication_date": "2022-02-11T10:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/11/us/covid-relief-funds.html",
+      "byline": "By Jack Healy"
+    },
+    {
+      "headline": "The Last Pandemic Aid Anybody Wants to Need",
+      "snippet": "The government will reimburse up to $9,000 in funeral expenses for deaths related to the coronavirus. But most eligible survivors have yet to get relief.",
+      "abstract": "The government will reimburse up to $9,000 in funeral expenses for deaths related to the coronavirus. But most eligible survivors have yet to get relief.",
+      "lead_paragraph": "Maybe it was because Kerri Raissian’s father had spent time in two hospitals and a nursing facility during the last 12 days of his life. Or maybe it was because he had been in the emergency room for only a few hours before he died. Either way, Covid-19 was not listed on his death certificate.",
+      "publication_date": "2022-02-11T10:00:25+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/11/your-money/covid-funeral-aid-fema.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "I Used Apple AirTags, Tiles and a GPS Tracker to Watch My Husband’s Every Move",
+      "snippet": "A vast location-tracking network is being built around us so we don’t lose our keys: One couple’s adventures in the consumer tech surveillance state.",
+      "abstract": "A vast location-tracking network is being built around us so we don’t lose our keys: One couple’s adventures in the consumer tech surveillance state.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-02-11T10:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/02/11/technology/airtags-gps-surveillance.html",
+      "byline": "By Kashmir Hill and Photographs By Todd Heisler"
+    },
+    {
+      "headline": "White House Warns Russian Invasion of Ukraine Could Happen at Any Time",
+      "snippet": "A host of countries, including the United States, has told their citizens to leave Ukraine immediately.",
+      "abstract": "A host of countries, including the United States, has told their citizens to leave Ukraine immediately.",
+      "lead_paragraph": "Read our latest coverage of the Ukraine crisis.",
+      "publication_date": "2022-02-11T14:59:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html",
+      "byline": "By Katie Rogers and Andrew E. Kramer"
+    },
+    {
+      "headline": "Prepare Yourself for This Weekend’s ‘Crypto Bowl’",
+      "snippet": "The Super Bowl will feature commercial breaks that embrace the usual jokes and celebrities plus a whole lot of blockchain.",
+      "abstract": "The Super Bowl will feature commercial breaks that embrace the usual jokes and celebrities plus a whole lot of blockchain.",
+      "lead_paragraph": "[Read how the Los Angeles Rams won the Super Bowl.]",
+      "publication_date": "2022-02-11T15:56:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/11/business/media/super-bowl-commercials.html",
+      "byline": "By Tiffany Hsu"
+    }
+  ]
+}

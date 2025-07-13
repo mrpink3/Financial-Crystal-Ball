@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2016-02-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "A Comic Take on Wall Street by an Ex-Bear Stearns Executive",
+      "snippet": "Maureen Sherry has written a book about a woman’s trip through the financial crisis. A movie is planned.",
+      "abstract": "Maureen Sherry has written a book about a woman’s trip through the financial crisis. A movie is planned.",
+      "lead_paragraph": "A strong, intelligent woman struggles to break through the double-pane glass ceiling of a top investment firm on Wall Street.",
+      "publication_date": "2016-02-01T01:40:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/02/01/business/media/a-comic-take-on-wall-street-by-an-ex-bear-stearns-executive.html",
+      "byline": "By Alessandra Stanley"
+    },
+    {
+      "headline": "Rival Factions of Top Donors Get Behind Marco Rubio and Ted Cruz",
+      "snippet": "Many Wall Street financiers have rallied behind Senator Marco Rubio, Federal Election Commission filings show, while a new counter-establishment of conservatives is backing Senator Ted Cruz.",
+      "abstract": "Many Wall Street financiers have rallied behind Senator Marco Rubio, Federal Election Commission filings show, while a new counter-establishment of conservatives is backing Senator Ted Cruz.",
+      "lead_paragraph": "The wealthy donors who have built a powerful shadow Republican Party of outside groups are rapidly cleaving into two mutually hostile and deep-pocketed factions, complicating efforts to deny the party’s nomination to Donald J. Trump, reports filed with the Federal Election Commission on Sunday showed.",
+      "publication_date": "2016-02-01T05:15:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/02/01/us/politics/rival-factions-of-top-donors-get-behind-marco-rubio-and-ted-cruz.html",
+      "byline": "By Nicholas Confessore and Sarah Cohen"
+    }
+  ]
+}

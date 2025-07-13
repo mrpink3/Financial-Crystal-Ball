@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-09-21",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "U.S. to Lift Pandemic Travel Restrictions, Easing Tension With Europe",
+      "snippet": "Travelers who provide proof of full vaccination against the coronavirus before boarding a flight will be able to enter the United States.",
+      "abstract": "Travelers who provide proof of full vaccination against the coronavirus before boarding a flight will be able to enter the United States.",
+      "lead_paragraph": "WASHINGTON — The Biden administration will lift travel restrictions starting in November for foreigners who are fully vaccinated against the coronavirus, reopening the country to thousands of people, including those who have been separated from family in the United States during the pandemic, and easing a major source of tension with Europe.",
+      "publication_date": "2021-09-20T19:25:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/20/us/politics/us-travel-ban-coronavirus.html",
+      "byline": "By Zolan Kanno-Youngs, Mark Landler and Heather Murphy"
+    },
+    {
+      "headline": "Mnuchin’s Private Equity Fund Raises $2.5 Billion",
+      "snippet": "The former Treasury secretary has attracted investment from Saudi Arabia’s sovereign wealth fund.",
+      "abstract": "The former Treasury secretary has attracted investment from Saudi Arabia’s sovereign wealth fund.",
+      "lead_paragraph": "WASHINGTON — Steven Mnuchin has raised $2.5 billion at his new private equity fund, according to people familiar with the matter, attracting investments from sovereign wealth funds in the Middle East, including Saudi Arabia, where he traveled extensively as Treasury secretary.",
+      "publication_date": "2021-09-20T19:37:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/20/us/politics/mnuchin-saudi-private-equity.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Royal Dutch Shell Sells Permian Basin Oil Holdings for $9.5 Billion",
+      "snippet": "The deal with ConocoPhillips comes with oil prices high, Permian production strong and Shell under pressure to move faster to cut carbon emissions.",
+      "abstract": "The deal with ConocoPhillips comes with oil prices high, Permian production strong and Shell under pressure to move faster to cut carbon emissions.",
+      "lead_paragraph": "HOUSTON — Royal Dutch Shell sold its oil and gas production in the Permian Basin, the biggest American oil field, to ConocoPhillips for $9.5 billion in cash on Monday.",
+      "publication_date": "2021-09-20T20:44:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/20/business/energy-environment/shell-conoco-permian-sale.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "A Hollywood Producer and a Master of Adaptation",
+      "snippet": "“That’s my skill,” said Bruna Papandrea, who teamed with Reese Witherspoon on hits like “Wild” and “Gone Girl.” She now has her own company providing shows and movies to a number of streaming services.",
+      "abstract": "“That’s my skill,” said Bruna Papandrea, who teamed with Reese Witherspoon on hits like “Wild” and “Gone Girl.” She now has her own company providing shows and movies to a number of streaming services.",
+      "lead_paragraph": "Freedom, Maine, population 722, is about as far away from Hollywood as you can get. So when Erin French, who runs the uber-popular Lost Kitchen there, had boldface names flocking to her virtual doorstep looking to buy the film rights to her best-selling memoir, she approached them with a lot of trepidation and a bit of awe.",
+      "publication_date": "2021-09-21T09:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/21/business/media/bruna-papandrea.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "When Sacred Ground Is Also Multimillion-Dollar Real Estate",
+      "snippet": "What to do with the site of the collapsed condo in Surfside, Fla.? There is no easy way to both honor victims and compensate condo owners.",
+      "abstract": "What to do with the site of the collapsed condo in Surfside, Fla.? There is no easy way to both honor victims and compensate condo owners.",
+      "lead_paragraph": "SURFSIDE, Fla. — Unbearable grief absorbed Anabella Levine when Champlain Towers South collapsed in Florida this summer, burying her beloved older brother and three cousins in the rubble of her building while she was away for the night. Identifying some of the remains took an excruciating 18 days.",
+      "publication_date": "2021-09-21T09:00:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/21/us/surfside-condo-collapse-compensation-rebuilding.html",
+      "byline": "By Patricia Mazzei"
+    },
+    {
+      "headline": "Evergrande Crisis Shows Cracks in China’s Property Market",
+      "snippet": "Experts are making increasingly grim predictions about the developer’s ability to hold on without a government bailout, and the consequences of a possible collapse.",
+      "abstract": "Experts are making increasingly grim predictions about the developer’s ability to hold on without a government bailout, and the consequences of a possible collapse.",
+      "lead_paragraph": "Angry home buyers are waiting on as many as 1.6 million apartments to be completed. Suppliers of cement, paint and rebar are owed more than $100 billion in payments. Workers  are panicking that loans they made to their employer cannot be repaid.",
+      "publication_date": "2021-09-21T14:01:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/21/business/china-evergrande-bailout.html",
+      "byline": "By Alexandra Stevenson and Cao Li"
+    }
+  ]
+}

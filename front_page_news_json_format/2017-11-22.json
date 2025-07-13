@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2017-11-22",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "F.C.C. Plans Net Neutrality Repeal in a Victory for Telecoms",
+      "snippet": "A rollback of net neutrality regulations would represent a significant victory for companies like AT&T and Comcast and would amount to a strike against consumers.",
+      "abstract": "A rollback of net neutrality regulations would represent a significant victory for companies like AT&T and Comcast and would amount to a strike against consumers.",
+      "lead_paragraph": "The Federal Communications Commission released a plan on Tuesday to dismantle landmark regulations that ensure equal access to the internet, clearing the way for internet service companies to charge users more to see certain content and to curb access to some websites.",
+      "publication_date": "2017-11-21T16:27:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/21/technology/fcc-net-neutrality.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Democrats Move Swiftly Against Conyers Amid Latest Harassment Charges",
+      "snippet": "The House Democratic leader called for harassment charges against the House’s most senior member, John Conyers Jr., to be subjected to an ethics inquiry.",
+      "abstract": "The House Democratic leader called for harassment charges against the House’s most senior member, John Conyers Jr., to be subjected to an ethics inquiry.",
+      "lead_paragraph": "WASHINGTON — Representative Nancy Pelosi, the Democratic leader, moved swiftly on Tuesday against the House’s longest-serving lawmaker, calling for the House Ethics Committee to investigate sexual harassment charges against Representative John Conyers Jr., the top Democrat on the House Judiciary Committee.",
+      "publication_date": "2017-11-21T20:15:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/21/us/politics/conyers-sexual-harassment-democrats-pelosi.html",
+      "byline": "By Yamiche Alcindor, Nicholas Fandos and Jonathan Martin"
+    },
+    {
+      "headline": "Trump Defends Roy Moore, Citing Candidate’s Denial of Sexual Misconduct",
+      "snippet": "President Trump said Alabama voters should not support Doug Jones, the Democratic candidate for the Senate. Mr. Trump declined to say whether he would campaign for Mr. Moore.",
+      "abstract": "President Trump said Alabama voters should not support Doug Jones, the Democratic candidate for the Senate. Mr. Trump declined to say whether he would campaign for Mr. Moore.",
+      "lead_paragraph": "WASHINGTON — President Trump broke with leading Republicans on Tuesday and voiced support for Roy S. Moore, the Republican Senate candidate in Alabama who has been accused of sexual misconduct with teenagers and has seen his campaign’s prospects imperiled.",
+      "publication_date": "2017-11-21T21:06:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/21/us/politics/roy-moore-trump-alabama.html",
+      "byline": "By Michael D. Shear and Alan Blinder"
+    },
+    {
+      "headline": "Meg Whitman to Step Down as Hewlett Packard Enterprise C.E.O.",
+      "snippet": "After building eBay into an internet giant, Ms. Whitman took over Hewlett-Packard and split the Silicon Valley icon in two, with mixed results.",
+      "abstract": "After building eBay into an internet giant, Ms. Whitman took over Hewlett-Packard and split the Silicon Valley icon in two, with mixed results.",
+      "lead_paragraph": "Meg Whitman is stepping down as chief executive of Hewlett Packard Enterprise six years after joining its corporate predecessor and leading a turnaround effort that split the Silicon Valley corporate icon in two.",
+      "publication_date": "2017-11-21T22:12:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/21/technology/meg-whitman-hewlett-packard.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Uber Hid 2016 Breach, Paying Hackers to Delete Stolen Data",
+      "snippet": "The company said hackers had stolen 57 million accounts and that the breach was kept secret. In the aftermath, it fired its top security executive.",
+      "abstract": "The company said hackers had stolen 57 million accounts and that the breach was kept secret. In the aftermath, it fired its top security executive.",
+      "lead_paragraph": "SAN FRANCISCO — Uber disclosed Tuesday that hackers had stolen 57 million driver and rider accounts and that the company had kept the data breach secret for more than a year after paying a $100,000 ransom.",
+      "publication_date": "2017-11-21T22:48:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/21/technology/uber-hack.html",
+      "byline": "By Mike Isaac, Katie Benner and Sheera Frenkel"
+    },
+    {
+      "headline": "How Trump’s Hands-Off Approach to Policing Is Frustrating Some Chiefs",
+      "snippet": "The president says the Justice Department has meddled too much in policing. But even police chiefs in Republican areas are frustrated with his rollback.",
+      "abstract": "The president says the Justice Department has meddled too much in policing. But even police chiefs in Republican areas are frustrated with his rollback.",
+      "lead_paragraph": "SPOKANE, Wash. — Six years ago, a police officer in this city in eastern Washington was convicted of beating a disabled man to death and trying to cover it up. After other alarming episodes involving Spokane officers came to light, the city asked federal officials to suggest changes to the police department as part of an Obama-era policing program.",
+      "publication_date": "2017-11-21T22:59:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/21/us/trump-justice-department-police.html",
+      "byline": "By Steve Eder, Ben Protess and Shaila Dewan"
+    },
+    {
+      "headline": "Washington Has Delivered a Tangled Message on AT&T’s Power",
+      "snippet": "Loosening rules on internet providers would let big companies charge more for their services. But a suit to block a merger signals a tougher stance against big business.",
+      "abstract": "Loosening rules on internet providers would let big companies charge more for their services. But a suit to block a merger signals a tougher stance against big business.",
+      "lead_paragraph": "In a matter of hours this week, the Trump administration twice weighed in on one of the central issues shaping business and society today — just how much market power big companies should be allowed to amass.",
+      "publication_date": "2017-11-22T01:59:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/21/business/net-neutrality-antitrust-.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Where Brexit Hurts: The Nurses and Doctors Leaving London",
+      "snippet": "Britain’s treasured health care system was used as a rallying cry by anti-E.U. campaigners. Many of its European staff now feel betrayed. Thousands have quit.",
+      "abstract": "Britain’s treasured health care system was used as a rallying cry by anti-E.U. campaigners. Many of its European staff now feel betrayed. Thousands have quit.",
+      "lead_paragraph": "LONDON — Tanja Pardela is leaving London. Her last day is Nov. 26. She wells up talking about it. She will miss jacket potatoes, and Sunday roasts, and her morning commute — past playing fields, small children in school uniforms and a red telephone box — to the hospital where she has been a pediatric nurse for 11 years.",
+      "publication_date": "2017-11-22T04:45:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/21/world/europe/nhs-brexit-eu-migrants.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "The Day the Pastor Was Away and Evil Came Barging Into His Church",
+      "snippet": "Frank Pomeroy, whose daughter was among those killed in Sutherland Springs, Tex., must help heal a torn community while trying to heal himself.",
+      "abstract": "Frank Pomeroy, whose daughter was among those killed in Sutherland Springs, Tex., must help heal a torn community while trying to heal himself.",
+      "lead_paragraph": "On any other Sunday, Frank Pomeroy, the pastor at First Baptist Church of Sutherland Springs, Tex., would have been in the pulpit. He would have seen the gunman, his steely gaze familiar, barge in mid-sermon. He would have heard the gunfire break out.",
+      "publication_date": "2017-11-22T10:00:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/22/us/pastor-frank-pomeroy-sutherland-springs.html",
+      "byline": "By Serge F. Kovaleski"
+    },
+    {
+      "headline": "Twitter, It’s Time to End Your Anything-Goes Paradise",
+      "snippet": "Twitter should scrap a founding principle — everyone gains equal footing and any behavior is tolerated — and create a new system that rewards positive contributions.",
+      "abstract": "Twitter should scrap a founding principle — everyone gains equal footing and any behavior is tolerated — and create a new system that rewards positive contributions.",
+      "lead_paragraph": "Earlier this month, Twitter did something radical: The social network famous for its 140-character limit doubled it to 280.",
+      "publication_date": "2017-11-22T10:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/22/technology/twitter-end-anything-goes.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Mladic Conviction Closes Dark Chapter in Europe, but New Era of Uncertainty Looms",
+      "snippet": "Ratko Mladic received a life sentence for his role in one of the worst atrocities in 20th-century Europe. But nationalist passions are once again on the rise.",
+      "abstract": "Ratko Mladic received a life sentence for his role in one of the worst atrocities in 20th-century Europe. But nationalist passions are once again on the rise.",
+      "lead_paragraph": "THE HAGUE — It was the closing of one of Europe’s most shameful chapters of atrocity and bloodletting since World War II.",
+      "publication_date": "2017-11-22T11:04:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/22/world/europe/ratko-mladic-conviction-yugoslavia-bosnia.html",
+      "byline": "By Marlise Simons, Alan Cowell and Barbara Surk"
+    },
+    {
+      "headline": "Trump, in Twitter Rant, Revisits Grievances Against Sports Figures",
+      "snippet": "To some, the posts directed at sports figures, many of them black, suggest that the president is trying to send a message of solidarity to many supporters.",
+      "abstract": "To some, the posts directed at sports figures, many of them black, suggest that the president is trying to send a message of solidarity to many supporters.",
+      "lead_paragraph": "WASHINGTON — President Trump began his first Thanksgiving vacation in office with an early-morning Twitter rage in which he again vented about some of his favorite targets: sports figures he thinks have defied him.",
+      "publication_date": "2017-11-22T12:07:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/22/us/politics/trump-ucla-father-fool.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "How to Buy a Great TV This Black Friday",
+      "snippet": "Black Friday tends to be when prices for great TVs drop to their lowest. But there are pitfalls, so we put together a playbook for how to snag the best TV for you.",
+      "abstract": "Black Friday tends to be when prices for great TVs drop to their lowest. But there are pitfalls, so we put together a playbook for how to snag the best TV for you.",
+      "lead_paragraph": "(Editor’s note: This article was updated with information for 2018.)",
+      "publication_date": "2017-11-22T14:54:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/22/technology/personaltech/buy-tv.html",
+      "byline": "By Brian X. Chen"
+    }
+  ]
+}

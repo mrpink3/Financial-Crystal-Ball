@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2022-11-24",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Justice Dept. Seeking to Question Pence in Jan. 6 Investigation",
+      "snippet": "Prosecutors want to speak with the former vice president as a witness to former President Donald Trump’s efforts to remain in power, and he is said to be considering how to respond.",
+      "abstract": "Prosecutors want to speak with the former vice president as a witness to former President Donald Trump’s efforts to remain in power, and he is said to be considering how to respond.",
+      "lead_paragraph": "The Justice Department is seeking to question former Vice President Mike Pence as a witness in connection with its criminal investigation into former President Donald J. Trump’s efforts to stay in power after he lost the 2020 election, according to two people familiar with the matter.",
+      "publication_date": "2022-11-23T19:10:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/23/us/politics/mike-pence-jan-6.html",
+      "byline": "By Maggie Haberman and Michael S. Schmidt"
+    },
+    {
+      "headline": "She Was a Little-Known Crypto Trader. Then FTX Collapsed.",
+      "snippet": "Caroline Ellison, who ran the cryptocurrency trading firm Alameda Research, has found herself at the center of Sam Bankman-Fried’s collapsed crypto empire.",
+      "abstract": "Caroline Ellison, who ran the cryptocurrency trading firm Alameda Research, has found herself at the center of Sam Bankman-Fried’s collapsed crypto empire.",
+      "lead_paragraph": "When his cryptocurrency exchange started teetering in early November, Sam Bankman-Fried went on Twitter to calm everyone down. FTX was fine, he insisted. Nothing to worry about. Joining him in the outreach was a close colleague: Caroline Ellison, the 28-year-old chief executive of Alameda Research, a crypto trading firm Mr. Bankman-Fried also founded.",
+      "publication_date": "2022-11-23T19:23:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/23/business/ftx-caroline-ellison-sbf.html",
+      "byline": "By David Yaffe-Bellany, Lora Kelley and Cade Metz"
+    },
+    {
+      "headline": "Why the N.F.L.’s Big Streaming Deal Is Going Into Overtime",
+      "snippet": "Talks for Sunday Ticket are expected to spill into next year, as Apple faces increased competition from Google for the league’s last available TV rights.",
+      "abstract": "Talks for Sunday Ticket are expected to spill into next year, as Apple faces increased competition from Google for the league’s last available TV rights.",
+      "lead_paragraph": "Roger Goodell, the National Football League’s commissioner, flew to Sun Valley, Idaho, this summer for Allen & Company’s annual media conference, confident that the N.F.L. was close to announcing its latest blockbuster TV rights deal.",
+      "publication_date": "2022-11-23T19:41:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/23/business/nfl-sunday-ticket-streaming.html",
+      "byline": "By Tripp Mickle, Benjamin Mullin and Kevin Draper"
+    },
+    {
+      "headline": "Russian Missile Barrage Cuts Power and Water Across Ukraine",
+      "snippet": "Outages struck Kyiv and the surrounding region, as well as Lviv, Dnipro, Odesa and Kharkiv. Half of Moldova, whose grid is tied to Ukraine’s, also lost power.",
+      "abstract": "Outages struck Kyiv and the surrounding region, as well as Lviv, Dnipro, Odesa and Kharkiv. Half of Moldova, whose grid is tied to Ukraine’s, also lost power.",
+      "lead_paragraph": "KYIV, Ukraine — Russia pounded Ukraine’s energy facilities on Wednesday, as missiles rocked Kyiv and other cities, plunging large areas of the nation into darkness, shutting down water systems and cutting off power in half the neighboring country of Moldova.",
+      "publication_date": "2022-11-24T00:12:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/23/world/europe/russia-ukraine-missiles-power.html",
+      "byline": "By Marc Santora and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "United States Enters a New Era of Direct Confrontation With Iran",
+      "snippet": "The Biden administration has imposed new sanctions on Tehran and expressed support for protesters, as the Iranian government aids Russia in the Ukraine war and continues nuclear enrichment.",
+      "abstract": "The Biden administration has imposed new sanctions on Tehran and expressed support for protesters, as the Iranian government aids Russia in the Ukraine war and continues nuclear enrichment.",
+      "lead_paragraph": "Over the past few days, Iran has told international inspectors that it plans to begin making near bomb-grade nuclear fuel deep inside a mountain that is hard to bomb, and dramatically expand its nuclear fuel production at a plant that Israel and the United States have repeatedly sabotaged.",
+      "publication_date": "2022-11-24T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/24/us/politics/iran-protests-ukraine-nuclear-enrichment.html",
+      "byline": "By David E. Sanger"
+    }
+  ]
+}

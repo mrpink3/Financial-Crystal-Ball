@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-02-21",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "On Social Media, Lax Enforcement Lets Impostor Accounts Thrive",
+      "snippet": "Millions of “bots” posing as real users are promoting celebrities, spreading misinformation and sowing discord. And it’s far easier to build a bot than to kill one.",
+      "abstract": "Millions of “bots” posing as real users are promoting celebrities, spreading misinformation and sowing discord. And it’s far easier to build a bot than to kill one.",
+      "lead_paragraph": "When Hilary Mason, a data scientist and entrepreneur, discovered that dozens of automated “bot” accounts had sprung up to impersonate her on Twitter, she immediately set out to stop them.",
+      "publication_date": "2018-02-20T17:05:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/technology/social-media-impostor-accounts.html",
+      "byline": "By Nicholas Confessore and Gabriel J.X. Dance"
+    },
+    {
+      "headline": "Trump Moves to Regulate ‘Bump Stock’ Devices",
+      "snippet": "The president asked the Justice Department to propose regulations that would ban “bump stocks,” which can convert a semiautomatic gun into an automatic weapon.",
+      "abstract": "The president asked the Justice Department to propose regulations that would ban “bump stocks,” which can convert a semiautomatic gun into an automatic weapon.",
+      "lead_paragraph": "WASHINGTON — President Trump — under pressure from angry, grieving students from a Florida high school where a gunman killed 17 people last week — ordered the Justice Department on Tuesday to issue regulations banning so-called bump stocks, which convert semiautomatic guns into automatic weapons like those used last year in the massacre of concertgoers in Las Vegas.",
+      "publication_date": "2018-02-20T21:35:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/us/politics/trump-bump-stocks.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "With Grief and Hope, Florida Students Take Gun Control Fight On the Road",
+      "snippet": "Students fed up with gun violence hopped a bus to Tallahassee, Fla., and planned protests from coast to coast. Whether their activism would amount to anything was far from clear.",
+      "abstract": "Students fed up with gun violence hopped a bus to Tallahassee, Fla., and planned protests from coast to coast. Whether their activism would amount to anything was far from clear.",
+      "lead_paragraph": "TALLAHASSEE, Fla. — Instead of 10th-grade English and 12th-grade calculus, the teenagers from Marjory Stoneman Douglas High School in Parkland, Fla., had another funeral to attend. When the grim ceremony was over on Tuesday morning, they hugged their parents goodbye, stashed their backpacks in the bellies of three buses and set off in grief and hope to demand gun control measures from state lawmakers more than 400 miles away.",
+      "publication_date": "2018-02-21T01:19:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/us/parkland-students-shooting-florida.html",
+      "byline": "By Julie Turkewitz and Vivian Yee"
+    },
+    {
+      "headline": "Poland’s Nationalism Threatens Europe’s Values, and Cohesion",
+      "snippet": "The European Union has bestowed huge sums on Poland, but the country has fomented discord over identity, solidarity and, perhaps most important, the rule of law.",
+      "abstract": "The European Union has bestowed huge sums on Poland, but the country has fomented discord over identity, solidarity and, perhaps most important, the rule of law.",
+      "lead_paragraph": "SNIADOWO, Poland — The young mayor of this small town deep in eastern Poland is extremely proud of its new Italian fire engine, which sits, resplendent, next to a Soviet-era one. Nearby, the head of the elementary school shows off new classrooms and a new gymnasium, complete with an electronic scoreboard.",
+      "publication_date": "2018-02-21T04:45:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/world/europe/poland-european-union.html",
+      "byline": "By Steven Erlanger and Marc Santora"
+    },
+    {
+      "headline": "Trump’s Republican Critics Find a Sudden Need for His Support",
+      "snippet": "Their hopes for a détente with Mr. Trump, who effectively staged a hostile takeover of a party he joined only in 2012, reflect the realization that rank-and-file Republicans have come to embrace the president.",
+      "abstract": "Their hopes for a détente with Mr. Trump, who effectively staged a hostile takeover of a party he joined only in 2012, reflect the realization that rank-and-file Republicans have come to embrace the president.",
+      "lead_paragraph": "WASHINGTON — Mitt Romney did not vote for Donald J. Trump in 2016. Representative Martha McSally of Arizona may not have, either, but she will not say. And Senator Dean Heller of Nevada now insists that he did cast his ballot for Mr. Trump, but for many months, he would not reveal his vote.",
+      "publication_date": "2018-02-21T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/21/us/politics/trump-republican-critics-need-support.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Why We May Soon Be Living in Alexa’s World",
+      "snippet": "Next to Apple’s iOS and Google’s Android, Amazon’s voice assistant may be turning into the third great consumer computing platform of our era.",
+      "abstract": "Next to Apple’s iOS and Google’s Android, Amazon’s voice assistant may be turning into the third great consumer computing platform of our era.",
+      "lead_paragraph": "My wife and I were just settling into bed one night when Alexa, the other woman in my life, decided to make herself heard.",
+      "publication_date": "2018-02-21T10:01:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/21/technology/amazon-alexa-world.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Florida Republicans Face Mounting Pressure to Act on Gun Control",
+      "snippet": "Student protesters who survived last week’s shooting want a range of new restrictions. Yet G.O.P. leaders appear set on pursuing narrower measures.",
+      "abstract": "Student protesters who survived last week’s shooting want a range of new restrictions. Yet G.O.P. leaders appear set on pursuing narrower measures.",
+      "lead_paragraph": "TALLAHASSEE — Seven days after the killing of 17 students and school staff members in Florida, Republican state leaders are facing pressure unlike any they have experienced before to pass legislation addressing gun violence.",
+      "publication_date": "2018-02-21T15:27:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/21/us/florida-gun-control-republicans.html",
+      "byline": "By Julie Turkewitz and Alexander Burns"
+    }
+  ]
+}

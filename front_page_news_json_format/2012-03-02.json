@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2012-03-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Senate Rejects Step Targeting Coverage of Contraception",
+      "snippet": "The Senate killed an effort to let employers and health insurance companies deny coverage for services they object to on religious or moral grounds.",
+      "abstract": "The Senate killed an effort to let employers and health insurance companies deny coverage for services they object to on religious or moral grounds.",
+      "lead_paragraph": "WASHINGTON — The Senate on Thursday upheld President Obama’s birth control policy, voting to kill a Republican effort to let employers and health insurance companies deny coverage for contraceptives and other items they object to on religious or moral grounds.",
+      "publication_date": "2012-03-01T17:36:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/02/us/politics/senate-kills-gop-bill-opposing-contraception-policy.html",
+      "byline": "By Robert Pear"
+    },
+    {
+      "headline": "Parsing Santorum’s Proposals",
+      "snippet": "The presidential candidate would cut taxes for almost everybody and everything — except, it seems, for single mothers, soldiers and municipal bond investors.",
+      "abstract": "The presidential candidate would cut taxes for almost everybody and everything — except, it seems, for single mothers, soldiers and municipal bond investors.",
+      "lead_paragraph": "Election-year tax rhetoric has never been notable for its frankness. A promise to raise someone’s taxes does not seem particularly likely to win that person’s vote, and no one wants to follow in the footsteps of Walter Mondale, the last major-party nominee to propose a general tax increase.",
+      "publication_date": "2012-03-01T18:50:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/02/business/parsing-rick-santorums-tax-cut-proposals.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Zynga Seeks to Match Up Players for Online Games",
+      "snippet": "Zynga, the creator of FarmVille, Words With Friends and Mafia Wars, announced a new gaming platform on Thursday that will match up players who do not know each other.",
+      "abstract": "Zynga, the creator of FarmVille, Words With Friends and Mafia Wars, announced a new gaming platform on Thursday that will match up players who do not know each other.",
+      "lead_paragraph": "SAN FRANCISCO — There is an old saying that if you have two real friends, you should count yourself lucky. No doubt. But you are going to have a hard time playing FarmVille.",
+      "publication_date": "2012-03-01T19:04:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/02/technology/zynga-seeks-to-broaden-reach-with-new-gaming-platform.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Midas Touch in St. Petersburg: Friends of Putin Glow Brightly",
+      "snippet": "A close circle of friends, relatives, associates, colleagues from the security services and longtime advisers have grown fabulously wealthy during Vladimir V. Putin’s 12 years as Russia’s paramount leader.",
+      "abstract": "A close circle of friends, relatives, associates, colleagues from the security services and longtime advisers have grown fabulously wealthy during Vladimir V. Putin’s 12 years as Russia’s paramount leader.",
+      "lead_paragraph": "ST. PETERSBURG, Russia — Arkady R. Rotenberg, a former judo coach, is now a billionaire industrialist, having made a fortune selling pipe to the state-owned gas monopoly, Gazprom.",
+      "publication_date": "2012-03-01T23:03:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/02/world/europe/ties-to-vladimir-putin-generate-fabulous-wealth-for-a-select-few-in-russia.html",
+      "byline": "By Andrew E. Kramer and David M. Herszenhorn"
+    },
+    {
+      "headline": "Revising the Limits for the Unlimited",
+      "snippet": "Some of the nation’s largest wireless phone companies, like AT&T and Verizon, use a process called throttling to slow down customers who exceed data limits — even if they have unlimited data plans.",
+      "abstract": "Some of the nation’s largest wireless phone companies, like AT&T and Verizon, use a process called throttling to slow down customers who exceed data limits — even if they have unlimited data plans.",
+      "lead_paragraph": "Sometimes, all-you-can-eat does not mean all you can eat. ",
+      "publication_date": "2012-03-02T00:27:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/02/technology/some-wireless-carriers-revise-limits-for-the-unlimited.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Romney Reopens Whatever-It-Takes Playbook",
+      "snippet": "Even Mitt Romney’s battered foes acknowledge that he is proving unusually adept at defining, diminishing and disqualifying a serial cast of challengers through relentless assaults.",
+      "abstract": "Even Mitt Romney’s battered foes acknowledge that he is proving unusually adept at defining, diminishing and disqualifying a serial cast of challengers through relentless assaults.",
+      "lead_paragraph": "When Gov. Rick Perry began rising in the polls, Mitt Romney was ready with a potent debate-night assault: under Mr. Perry, illegal immigrants in Texas received a $100,000 tuition break. ",
+      "publication_date": "2012-03-02T02:21:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/02/us/politics/romney-parries-rivals-with-negative-ads.html",
+      "byline": "By Michael Barbaro and Jeremy W. Peters"
+    },
+    {
+      "headline": "Where the Jobs Are, the Training May Not Be",
+      "snippet": "State colleges are cutting financing for technical, engineering and health care programs as the need for training in those fields grows.",
+      "abstract": "State colleges are cutting financing for technical, engineering and health care programs as the need for training in those fields grows.",
+      "lead_paragraph": "As state funding has dwindled, public colleges have raised tuition and are now resorting to even more desperate measures — cutting training for jobs the economy needs most.",
+      "publication_date": "2012-03-02T02:21:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/02/business/dealbook/state-cutbacks-curb-training-in-jobs-critical-to-economy.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "NBC Finds a Winner in ‘The Voice’",
+      "snippet": "Having the top show on television presents a rare opportunity for any network, but especially NBC, which has been so far behind for so long.",
+      "abstract": "Having the top show on television presents a rare opportunity for any network, but especially NBC, which has been so far behind for so long.",
+      "lead_paragraph": " The cellphone of NBCUniversal’s chief executive, Stephen B. Burke, rang early on the morning of April 28 last year. Alan Wurtzel, the company’s president of research, was so excited that he had trouble speaking. “We got a 5.1,” he finally said. Mr. Burke was at the gym, and given the background noise, he figured he wasn’t hearing correctly. “I said, We got a 5.1 in the key demographic,” Mr. Wurtzel repeated, which meant that Nielsen estimated that 11.8 million viewers in the all-important 18-to-49 demographic had tuned in — a breakout number for a new show.",
+      "publication_date": "2012-03-02T15:18:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/03/business/nbc-finds-a-winner-in-the-voice.html",
+      "byline": "By James B. Stewart"
+    }
+  ]
+}

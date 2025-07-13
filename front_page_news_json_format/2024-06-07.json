@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-06-07",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Forty Years Later, Biden Seeks to Echo Reagan’s Legacy of American Leadership",
+      "snippet": "At Pointe du Hoc in Normandy, President Biden plans to follow one of the former president’s most iconic speeches with his own testimonial to democracy and the need to resist isolationism.",
+      "abstract": "At Pointe du Hoc in Normandy, President Biden plans to follow one of the former president’s most iconic speeches with his own testimonial to democracy and the need to resist isolationism.",
+      "lead_paragraph": "The aging American president facing a re-election campaign came to the Normandy coast of France to pay tribute to the daring Army Rangers who scaled the cliffs of Pointe du Hoc, offer a paean to democracy for which they sacrificed and perhaps even wrap himself a little bit in their reflected glory.",
+      "publication_date": "2024-06-06T20:03:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/us/politics/biden-reagan-normandy-dday-speech.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Israeli Strike Kills Dozens at Civilian Shelter in Gaza",
+      "snippet": "The Israeli military said it had been targeting militants who were hiding in the complex in an effort to evade attack. The former U.N. school was housing 6,000 displaced Gazans.",
+      "abstract": "The Israeli military said it had been targeting militants who were hiding in the complex in an effort to evade attack. The former U.N. school was housing 6,000 displaced Gazans.",
+      "lead_paragraph": "An Israeli airstrike on Thursday hit a United Nations school complex in central Gaza that had become a shelter for thousands of displaced Palestinians and, Israel said, Hamas militants. Gazan health officials said dozens of people were killed, including women and children.",
+      "publication_date": "2024-06-06T21:30:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/06/world/middleeast/israel-gaza-school-killing.html",
+      "byline": "By Aaron Boxerman, Abu Bakr Bashir, Erika Solomon and Thomas Fuller"
+    },
+    {
+      "headline": "India’s Modi, Humbled by Voters, Faces Potent Economic Struggles",
+      "snippet": "With his grip on political power weakened, the Indian prime minister is confronting the same formidable challenge — how to generate hundreds of millions of jobs.",
+      "abstract": "With his grip on political power weakened, the Indian prime minister is confronting the same formidable challenge — how to generate hundreds of millions of jobs.",
+      "lead_paragraph": "Before the Indian election results emerged this week, Prime Minister Narendra Modi was widely viewed as a charismatic and popular strongman celebrated by the business world for elevating its importance, even as he failed to solve a vexing problem: how to turn swift economic growth into critically needed jobs.",
+      "publication_date": "2024-06-07T04:00:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/07/business/india-election-modi-economy.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "China’s Exports Surge as Trade Tensions Near Boiling Point",
+      "snippet": "China’s trade surplus soared, helping to lift the country’s economy even as consumer spending slows because of a sharp housing contraction.",
+      "abstract": "China’s trade surplus soared, helping to lift the country’s economy even as consumer spending slows because of a sharp housing contraction.",
+      "lead_paragraph": "China’s exports rose in May at the quickest pace in more than a year, the government said on Friday, as a flood of appliances, cars and electronics poured out of factories and the prospect of a global backlash grew.",
+      "publication_date": "2024-06-07T07:55:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/07/business/china-export-trade-surplus.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Biden Straddles the Patriotic and the Political in Speech at Normandy",
+      "snippet": "The president said “echoes of 1944 are summoning us” during his address that honored the valor of D-Day fighters.",
+      "abstract": "The president said “echoes of 1944 are summoning us” during his address that honored the valor of D-Day fighters.",
+      "lead_paragraph": "POINTE DU HOC — President Biden used the backdrop of the beaches at Normandy on Friday to argue that the fight for democracy in Ukraine and elsewhere remains as vital as the day that American troops helped rescue Europe from Hitler’s tyranny.",
+      "publication_date": "2024-06-07T08:45:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/07/world/europe/biden-zelensky-meeting-ukraine.html",
+      "byline": "By Peter Baker and Michael D. Shear"
+    },
+    {
+      "headline": "U.S. Confronts Failures as Terrorism Spreads in West Africa",
+      "snippet": "American and French forces have been ordered out of several countries after a series of coups.",
+      "abstract": "American and French forces have been ordered out of several countries after a series of coups.",
+      "lead_paragraph": "In the shadow of the Sept. 11 attacks, the United States rushed troops and military aid to a swath of West Africa to help French forces stop the spread of Al Qaeda and other terrorist groups.",
+      "publication_date": "2024-06-07T09:02:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/07/us/politics/us-terrorism-west-africa.html",
+      "byline": "By Eric Schmitt and Ruth Maclean"
+    }
+  ]
+}

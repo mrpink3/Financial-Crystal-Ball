@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-07-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "‘So Stressed Out’: Gas Prices Force Many to Rethink Driving, and Spending",
+      "snippet": "As summer trips beckon, some are traveling less, at least by car. And those candy bars at the convenience store may find fewer takers.",
+      "abstract": "As summer trips beckon, some are traveling less, at least by car. And those candy bars at the convenience store may find fewer takers.",
+      "lead_paragraph": "KATY, Texas — Most Americans would gladly pay the $4.29 for a gallon of regular gas Buc-ee’s was charging this week on Interstate 10 between Houston and San Antonio, more than 50 cents below the national average.",
+      "publication_date": "2022-07-01T09:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/01/business/economy/gas-prices-driving-inflation.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Is Baltimore Big Enough for the Two of Them?",
+      "snippet": "The internet has pretty much killed local news wars. The Baltimore Banner, a nonprofit start-up, is trying to change that by taking on The Baltimore Sun.",
+      "abstract": "The internet has pretty much killed local news wars. The Baltimore Banner, a nonprofit start-up, is trying to change that by taking on The Baltimore Sun.",
+      "lead_paragraph": "BALTIMORE — Local news wars have largely gone the way of the phone booth as newspapers have shriveled and reporter jobs have been cut. But one is taking shape in Baltimore, bringing a new kind of rivalry.",
+      "publication_date": "2022-07-01T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/01/business/media/baltimore-banner-the-sun.html",
+      "byline": "By Katie Robertson"
+    },
+    {
+      "headline": "When Private Jets Ferry Billionaires to Small-Town Idaho",
+      "snippet": "Every July, as the elite Sun Valley conference kicks off, one man shepherds multimillion-dollar private planes and some of the world’s most powerful people.",
+      "abstract": "Every July, as the elite Sun Valley conference kicks off, one man shepherds multimillion-dollar private planes and some of the world’s most powerful people.",
+      "lead_paragraph": "HAILEY, Idaho — Robert Kraft, the owner of the New England Patriots, flies in a Gulfstream G650. So do Jeff Bezos and Dan Schulman, PayPal’s chief executive. The jets, roughly 470 of which are in operation, retail for about $75 million each.",
+      "publication_date": "2022-07-01T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/01/business/sun-valley-conference-private-jets.html",
+      "byline": "By Benjamin Mullin"
+    },
+    {
+      "headline": "Chip Shortage Puts a Big Dent in U.S. Auto Sales",
+      "snippet": "General Motors, Toyota and Honda reported substantial declines in second-quarter sales, but not for lack of demand.",
+      "abstract": "General Motors, Toyota and Honda reported substantial declines in second-quarter sales, but not for lack of demand.",
+      "lead_paragraph": "The auto industry is facing worrying signs all across its horizon, including rising interest rates and fears of a recession.",
+      "publication_date": "2022-07-01T13:17:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/01/business/general-motors-car-sales.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "The 20-Somethings Who Help the 70-Somethings Run Washington",
+      "snippet": "The story of Cassidy Hutchinson, who became the first Trump White House aide to testify publicly in the Jan. 6 inquiry, showed the outsize influence of young aides in the nation’s capital.",
+      "abstract": "The story of Cassidy Hutchinson, who became the first Trump White House aide to testify publicly in the Jan. 6 inquiry, showed the outsize influence of young aides in the nation’s capital.",
+      "lead_paragraph": "WASHINGTON — When an alarmed Representative Kevin McCarthy, the minority leader, called the White House on Jan. 6, 2021, demanding to know why the president of the United States had suggested he was coming to the Capitol while Congress met to certify his election defeat, the person on the other end of the line had just turned 25 years old.",
+      "publication_date": "2022-07-01T15:44:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/01/us/politics/20-somethings-washington.html",
+      "byline": "By Annie Karni"
+    },
+    {
+      "headline": "A Transformative Term at the Most Conservative Supreme Court in Nearly a Century",
+      "snippet": "The blockbuster decisions — on abortion, guns, religion and climate — told part of the story. But the court’s abrupt rightward shift ran through its entire docket.",
+      "abstract": "The blockbuster decisions — on abortion, guns, religion and climate — told part of the story. But the court’s abrupt rightward shift ran through its entire docket.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court moved relentlessly to the right in its first full term with a six-justice conservative majority, issuing far-reaching decisions that will transform American life. It eliminated the constitutional right to abortion, recognized a Second Amendment right to carry guns outside the home, made it harder to address climate change and expanded the role of religion in public life.",
+      "publication_date": "2022-07-01T16:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/01/us/supreme-court-term-roe-guns-epa-decisions.html",
+      "byline": "By Adam Liptak and Alicia Parlapiano"
+    }
+  ]
+}

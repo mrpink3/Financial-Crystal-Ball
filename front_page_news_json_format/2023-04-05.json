@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-04-05",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Johnson & Johnson Reaches Deal for $8.9 Billion Talc Settlement",
+      "snippet": "The company faces a flood of lawsuits claiming its talc products caused cancer. The proposed settlement requires approval by a bankruptcy court, but has the backing of plaintiffs’ lawyers.",
+      "abstract": "The company faces a flood of lawsuits claiming its talc products caused cancer. The proposed settlement requires approval by a bankruptcy court, but has the backing of plaintiffs’ lawyers.",
+      "lead_paragraph": "Johnson & Johnson said on Tuesday that it had agreed to pay $8.9 billion to tens of thousands of people who claimed the company’s talcum powder products caused cancer, a proposal that lawyers for the plaintiffs called a “significant victory” in a legal fight that has lasted more than a decade.",
+      "publication_date": "2023-04-04T23:02:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "Finland Joins NATO in a Power Shift and Rebuke to Putin",
+      "snippet": "The Nordic country became the alliance’s 31st member on Tuesday, spurred by the war in Ukraine, in a strategic setback for President Vladimir V. Putin of Russia.",
+      "abstract": "The Nordic country became the alliance’s 31st member on Tuesday, spurred by the war in Ukraine, in a strategic setback for President Vladimir V. Putin of Russia.",
+      "lead_paragraph": "With a simple exchange of documents, Finland on Tuesday became NATO’s 31st member state, a strategic defeat for President Vladimir V. Putin of Russia, who was determined to block the alliance’s expansion but instead galvanized Finland to join amid Moscow’s devastating war in Ukraine.",
+      "publication_date": "2023-04-04T23:03:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/04/world/europe/finland-nato-russia-ukraine.html",
+      "byline": "By Steven Erlanger"
+    },
+    {
+      "headline": "Biden Has the Oval Office. But Trump Has Center Stage.",
+      "snippet": "The White House hopes the chaos of Donald Trump’s legal challenges will reinforce the reasons voters turned to President Biden in 2020.",
+      "abstract": "The White House hopes the chaos of Donald Trump’s legal challenges will reinforce the reasons voters turned to President Biden in 2020.",
+      "lead_paragraph": "WASHINGTON — The president of the United States spent four minutes on Tuesday talking to the American public about the possibilities and dangers of artificial intelligence. No, not that president. The one who actually occupies the Oval Office. ",
+      "publication_date": "2023-04-04T23:57:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/04/us/politics/biden-trump-arraignment.html",
+      "byline": "By Peter Baker and Michael D. Shear"
+    },
+    {
+      "headline": "Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump",
+      "snippet": "The unsealed case against Donald J. Trump accuses him of falsifying records in part to lay the groundwork for planned lies to tax authorities.",
+      "abstract": "The unsealed case against Donald J. Trump accuses him of falsifying records in part to lay the groundwork for planned lies to tax authorities.",
+      "lead_paragraph": "WASHINGTON — The unsealed indictment against former President Donald J. Trump on Tuesday laid out an unexpected accusation that bolstered what many legal experts have described as an otherwise risky and novel case: Prosecutors claim he falsified business records in part for a plan to deceive state tax authorities.",
+      "publication_date": "2023-04-05T00:56:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/04/us/politics/trump-bookkeeping-fraud-taxes.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "This Historically Black University Created Its Own Tech Intern Pipeline",
+      "snippet": "A new program at Bowie State connects computing students directly with companies, bypassing an often harsh Silicon Valley vetting process.",
+      "abstract": "A new program at Bowie State connects computing students directly with companies, bypassing an often harsh Silicon Valley vetting process.",
+      "lead_paragraph": "Trying to obtain an internship at a leading tech company or start-up can be a depressing quest for many college students, requiring a sustained, semester-long effort — often with little to show for it but a slew of rejections.",
+      "publication_date": "2023-04-05T09:00:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/05/technology/bowie-hbcu-tech-intern-pipeline.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "For Lower-Income Students, Big Tech Internships Can Be Hard to Get",
+      "snippet": "Critics say the intern selection process often favors wealthier students, just like the admission process at some elite colleges.",
+      "abstract": "Critics say the intern selection process often favors wealthier students, just like the admission process at some elite colleges.",
+      "lead_paragraph": "Jalaun Ross, a computer science major at Central Connecticut State University, knew it would be difficult to land an internship at a prominent tech company this summer.",
+      "publication_date": "2023-04-05T09:00:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/05/business/tech-internship-application-grind.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "In Ohio, Electric Cars Are Starting to Reshape Jobs and Companies",
+      "snippet": "The state, heavily dependent on the auto industry, is a case study in whether electric vehicles will create or destroy jobs.",
+      "abstract": "The state, heavily dependent on the auto industry, is a case study in whether electric vehicles will create or destroy jobs.",
+      "lead_paragraph": "Erick Belmer has seen how tough the car business can be. He was working at a General Motors plant in Lordstown, Ohio, when it shut down in 2019, devastating the community.",
+      "publication_date": "2023-04-05T15:54:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/05/business/energy-environment/ohio-electric-vehicles-jobs.html",
+      "byline": "By Jack Ewing and Maddie McGarvey"
+    }
+  ]
+}

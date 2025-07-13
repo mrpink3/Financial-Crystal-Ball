@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-02-16",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Senate Republicans Stall Crucial Vote on Fed Nominees",
+      "snippet": "The White House’s five Federal Reserve nominees, including picks for the chair and vice chair, were supposed to face a committee vote on Tuesday.",
+      "abstract": "The White House’s five Federal Reserve nominees, including picks for the chair and vice chair, were supposed to face a committee vote on Tuesday.",
+      "lead_paragraph": "President Biden’s plans to reshape the Federal Reserve suffered a setback on Tuesday as Republicans delayed a key vote on his five nominees for its Board of Governors.",
+      "publication_date": "2022-02-15T18:01:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/15/business/economy/senate-republicans-vote-fed-nominees.html",
+      "byline": "By Jeanna Smialek and Emily Cochrane"
+    },
+    {
+      "headline": "As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible",
+      "snippet": "President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions.",
+      "abstract": "President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions.",
+      "lead_paragraph": "MOSCOW — President Vladimir V. Putin said on Tuesday that Russia would “partially pull back troops” deployed near Ukraine and was seeking a “diplomatic path” to resolving a tense standoff with the West, while President Biden welcomed further negotiations but warned that a Russian invasion “remains very much a possibility.”",
+      "publication_date": "2022-02-15T23:37:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html",
+      "byline": "By Anton Troianovski and Michael D. Shear"
+    },
+    {
+      "headline": "How a Secret Assault Allegation Against an Anchor Upended CNN and Jeff Zucker",
+      "snippet": "The network’s top-rated host and its president were forced out following ethical lapses, an office romance and a letter from a lawyer for “Jane Doe.”",
+      "abstract": "The network’s top-rated host and its president were forced out following ethical lapses, an office romance and a letter from a lawyer for “Jane Doe.”",
+      "lead_paragraph": "Late in the day on Nov. 30, Jeff Zucker, the president of CNN Worldwide, summoned his star anchor and friend, Chris Cuomo, to a meeting in the network’s skyscraper overlooking the Hudson River.",
+      "publication_date": "2022-02-16T00:09:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/15/business/jeff-zucker-cnn.html",
+      "byline": "By Emily Steel, Jodi Kantor, Michael M. Grynbaum, James B. Stewart and John Koblin"
+    },
+    {
+      "headline": "Japan’s Unions ‘Are Built Around Men.’ Can a Female Leader Change That?",
+      "snippet": "To attract working women, the once-mighty Japanese labor movement must prove it can be a strong ally on issues like child care and sexual harassment.",
+      "abstract": "To attract working women, the once-mighty Japanese labor movement must prove it can be a strong ally on issues like child care and sexual harassment.",
+      "lead_paragraph": "TOKYO — Women have never found a welcoming home in Japan’s labor unions. Sexism is entrenched. Problems like wage discrimination and sexual harassment at work are often ignored. Many women, lacking a voice, have given up on the movement.",
+      "publication_date": "2022-02-16T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/16/business/japan-unions-rengo-women.html",
+      "byline": "By Ben Dooley and Hisako Ueno"
+    },
+    {
+      "headline": "Biden Rejects Trump’s Claim of Privilege for White House Visitor Logs",
+      "snippet": "The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days.",
+      "abstract": "The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days.",
+      "lead_paragraph": "President Biden ordered the National Archives to hand over a range of visitor logs from the Trump White House to the House committee investigating the Jan. 6 attack on the Capitol, rejecting his predecessor’s claim that the material is protected by executive privilege.",
+      "publication_date": "2022-02-16T12:00:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/16/us/politics/biden-trump-white-house-visitor-logs.html",
+      "byline": "By Michael S. Schmidt"
+    },
+    {
+      "headline": "Google Plans Privacy Changes, but Promises to Not Be Disruptive",
+      "snippet": "It says it will give other companies plenty of time to adapt to changes to its Android software. Similar changes made by Apple affected big internet companies.",
+      "abstract": "It says it will give other companies plenty of time to adapt to changes to its Android software. Similar changes made by Apple affected big internet companies.",
+      "lead_paragraph": "Google said on Wednesday that it was working on privacy measures meant to limit the sharing of data on smartphones running its Android software. But the company promised those changes would not be as disruptive as a similar move by Apple last year.",
+      "publication_date": "2022-02-16T13:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Retail Sales Jumped in January, Another Sign of the Economy’s Resilience",
+      "snippet": "The 3.8 percent gain followed a 2.5 percent drop in December.",
+      "abstract": "The 3.8 percent gain followed a 2.5 percent drop in December.",
+      "lead_paragraph": "Prices were rising fast, products were in short supply and the Omicron variant put a chill on the country at the start of the year. Through it all, American consumers kept spending.",
+      "publication_date": "2022-02-16T13:43:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/16/business/economy/retail-sales-january.html",
+      "byline": "By Coral Murphy Marcos"
+    },
+    {
+      "headline": "On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk",
+      "snippet": "A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine.",
+      "abstract": "A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine.",
+      "lead_paragraph": "REDZIKOWO, Poland — Tomasz Czescik, a Polish archaeologist and television journalist, walks his dog each morning through a forest near his home here on NATO’s eastern flank, wandering along the edge of a green chain-link fence topped with razor wire.",
+      "publication_date": "2022-02-16T14:52:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html",
+      "byline": "By Andrew Higgins"
+    }
+  ]
+}

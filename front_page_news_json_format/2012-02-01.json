@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2012-02-01",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Romney Wins Big in Florida Primary, Regaining Momentum",
+      "snippet": "The commanding win offered a forceful response to the questions that were raised about Mitt Romney’s candidacy.",
+      "abstract": "The commanding win offered a forceful response to the questions that were raised about Mitt Romney’s candidacy.",
+      "lead_paragraph": "TAMPA, Fla. — Mitt Romney rolled to victory in the Florida primary on Tuesday, dispatching an insurgent threat from Newt Gingrich and reclaiming his dominant position as he urged Republicans to rally behind his quest to capture the party’s presidential nomination.",
+      "publication_date": "2012-02-01T01:01:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/01/us/politics/romney-wins-big-in-florida-primary.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "Personal Data’s Value? Facebook Is Set to Find Out",
+      "snippet": "The social network’s stock offering, expected to value the company at $75 billion to $100 billion, is bound to raise even more concerns about privacy and other issues.",
+      "abstract": "The social network’s stock offering, expected to value the company at $75 billion to $100 billion, is bound to raise even more concerns about privacy and other issues.",
+      "lead_paragraph": "Facebook, the vast online social network, is poised to file for a public stock offering on Wednesday that will ultimately value the company at $75 billion to $100 billion, cashing in on the fuel that powers the engine of Internet commerce: personal data.",
+      "publication_date": "2012-02-01T01:58:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/01/technology/riding-personal-data-facebook-is-going-public.html",
+      "byline": "By Somini Sengupta and Evelyn M. Rusli"
+    },
+    {
+      "headline": "G.O.P. Donors Showing Thirst to Oust Obama in November",
+      "snippet": "The latest campaign filings showed a crucial source of support for Mitt Romney, as well as his ability to win substantial support from some of the Republican Party’s most influential and wealthy patrons.",
+      "abstract": "The latest campaign filings showed a crucial source of support for Mitt Romney, as well as his ability to win substantial support from some of the Republican Party’s most influential and wealthy patrons.",
+      "lead_paragraph": "Close to 60 corporations and wealthy individuals gave checks of $100,000 or more to a “super PAC” supporting Mitt Romney in the months leading up to the Iowa caucuses, according to documents released on Tuesday, underwriting a $17 million blitz of advertising that has swamped his Republican rivals in the early primary states.",
+      "publication_date": "2012-02-01T02:12:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/01/us/politics/campaign-finance-reports-show-super-pac-donors.html",
+      "byline": "By Nicholas Confessore and Michael Luo"
+    },
+    {
+      "headline": "In Spanish Village, Everyone’s a Winner, Almost",
+      "snippet": "All but one household in Sodeto, Spain, held at least a piece of a winning ticket in the Christmas lottery’s huge first prize of $950 million, the biggest ever.",
+      "abstract": "All but one household in Sodeto, Spain, held at least a piece of a winning ticket in the Christmas lottery’s huge first prize of $950 million, the biggest ever.",
+      "lead_paragraph": "SODETO, Spain — Just a few weeks ago, the 70 households in this isolated farming village were struggling under the double whammy of Spain’s economic downturn and the ravages of a severe drought. ",
+      "publication_date": "2012-02-01T02:38:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/01/world/europe/tiny-village-of-sodeto-wins-big-in-spains-lottery.html",
+      "byline": "By Suzanne Daley"
+    },
+    {
+      "headline": "In January, a Calm Fell on the Markets",
+      "snippet": "Volatility eased as investors appeared to take in stride the latest developments in the European debt crisis and persistent worries about economic growth.",
+      "abstract": "Volatility eased as investors appeared to take in stride the latest developments in the European debt crisis and persistent worries about economic growth.",
+      "lead_paragraph": "Living up to its reputation, January was a relatively stable month on Wall Street.",
+      "publication_date": "2012-02-01T02:40:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/01/business/in-january-a-rare-calm-fell-on-the-markets.html",
+      "byline": "By Christine Hauser"
+    },
+    {
+      "headline": "Taliban Captives Dispute U.S. View on Afghanistan War",
+      "snippet": "A NATO report based on interrogations portrays an insurgency convinced it is winning even as the United States and its allies enter what they hope will be the Afghan war’s final phase.",
+      "abstract": "A NATO report based on interrogations portrays an insurgency convinced it is winning even as the United States and its allies enter what they hope will be the Afghan war’s final phase.",
+      "lead_paragraph": "KABUL, Afghanistan — More Taliban insurgents are being killed or captured than ever before, yet when the captives are interrogated by the American military, they remain convinced that they are winning the war.",
+      "publication_date": "2012-02-01T11:01:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/02/world/asia/nato-plays-down-report-of-collaboration-between-taliban-and-pakistan.html",
+      "byline": "By Rod Nordland and Alissa J. Rubin"
+    },
+    {
+      "headline": "Sony Picks Game Chief as President",
+      "snippet": "The 51-year-old chief of consumer electronics and games has long been seen as a likely successor to Howard Stringer, who led the company since 2005.",
+      "abstract": "The 51-year-old chief of consumer electronics and games has long been seen as a likely successor to Howard Stringer, who led the company since 2005.",
+      "lead_paragraph": "TOKYO — Sony on Wednesday picked Kazuo Hirai, a video game executive who led a turnaround of its PlayStation business, as its next president and chief executive, in a bid to regain some of its magic.",
+      "publication_date": "2012-02-01T12:36:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/02/technology/sony-selects-its-gaming-chief-as-new-president.html",
+      "byline": "By Hiroko Tabuchi"
+    }
+  ]
+}

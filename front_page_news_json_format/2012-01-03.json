@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2012-01-03",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Twisting Race Hits First Turn as Iowa Votes",
+      "snippet": "The Republican presidential candidates made a frenetic final push to woo Iowa’s fickle voters before the caucuses on Tuesday kick off the G.O.P. nominating contest.",
+      "abstract": "The Republican presidential candidates made a frenetic final push to woo Iowa’s fickle voters before the caucuses on Tuesday kick off the G.O.P. nominating contest.",
+      "lead_paragraph": "DES MOINES — Mitt Romney has grown so confident of his Iowa prospects that on Monday night he dropped all humble pretense and proclaimed, “We’re going to win this thing.” At the same time, Rick Santorum insisted that his momentum carried its own whiff of victory.",
+      "publication_date": "2012-01-02T16:58:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/03/us/politics/frenetic-push-for-votes-as-iowa-campaign-wraps-up.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "A Gathering Storm Over ‘Right to Work’ in Indiana",
+      "snippet": "Indiana Republicans want to prohibit mandatory dues for private-sector workers, and to spur other states’ efforts.",
+      "abstract": "Indiana Republicans want to prohibit mandatory dues for private-sector workers, and to spur other states’ efforts.",
+      "lead_paragraph": "INDIANAPOLIS — Nearly a year after legislatures in Wisconsin and several other Republican-dominated states curbed the power of public sector unions, lawmakers are now turning their sights toward private sector unions, setting up what is sure to be another political storm.",
+      "publication_date": "2012-01-02T19:19:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/03/business/gathering-storm-over-right-to-work-in-indiana.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "In Euro Zone’s Crisis, Technocrat in Paris Works Behind the Scenes",
+      "snippet": "As President Nicolas Sarkozy heads into a tough re-election fight, he is increasingly relying on Ramon Fernandez, a civil servant few people outside France have ever heard of.",
+      "abstract": "As President Nicolas Sarkozy heads into a tough re-election fight, he is increasingly relying on Ramon Fernandez, a civil servant few people outside France have ever heard of.",
+      "lead_paragraph": "PARIS — With France widely expected to lose its vaunted AAA credit rating any day now, the government here is bracing for the fallout. But as President Nicolas Sarkozy heads into a tough re-election fight, for financial damage control he is increasingly reliant on a civil servant of whom few people outside France have ever heard: Ramon Fernandez.",
+      "publication_date": "2012-01-02T19:55:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/03/business/global/ramon-fernandez-french-point-man-keeps-out-of-the-limelight.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "For Congo Children, Food Today Means None Tomorrow",
+      "snippet": "In the Democratic Republic of Congo, the French term délestage is used to describe power cutoffs, but when applied to food shortages, it illustrates a stark reality.",
+      "abstract": "In the Democratic Republic of Congo, the French term délestage is used to describe power cutoffs, but when applied to food shortages, it illustrates a stark reality.",
+      "lead_paragraph": "KINSHASA, Democratic Republic of Congo — Today, the big children will eat, Cynthia, 15, and Guellor, 13. Tomorrow, it will be the turn of the little ones, Bénédicte, Josiane and Manassé, 3, 6, and 9. ",
+      "publication_date": "2012-01-02T22:18:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/03/world/africa/in-congolese-capital-power-cut-applies-to-food.html",
+      "byline": "By Adam Nossiter"
+    },
+    {
+      "headline": "For 2012, Signs Point to Tepid Consumer Spending",
+      "snippet": "Although retail sales have remained relatively strong, high levels of consumer debt make it unlikely that rapid growth will help power economic expansion.",
+      "abstract": "Although retail sales have remained relatively strong, high levels of consumer debt make it unlikely that rapid growth will help power economic expansion.",
+      "lead_paragraph": "American consumers are running out of tricks.",
+      "publication_date": "2012-01-02T23:54:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/03/business/for-2012-signs-point-to-retreat-in-consumer-spending.html",
+      "byline": "By Motoko Rich and Stephanie Clifford"
+    },
+    {
+      "headline": "Storehouses for Solar Energy Can Step In When the Sun Goes Down",
+      "snippet": "Two companies plan to use novel solar storage technology to power households on summer nights.",
+      "abstract": "Two companies plan to use novel solar storage technology to power households on summer nights.",
+      "lead_paragraph": "If solar energy is eventually going to matter — that is, generate a significant portion of the nation’s electricity — the industry must overcome a major stumbling block, experts say: finding a way to store it for use when the sun isn’t shining.",
+      "publication_date": "2012-01-03T00:41:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/03/business/energy-environment/building-storehouses-for-the-suns-energy-for-use-after-dark.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "Panetta to Offer Strategy for Cutting Military Budget",
+      "snippet": "Defense Secretary Leon E. Panetta is set to present a strategy for $450 billion in cuts over the next 10 years — and an outline of a carefully shrunk military.",
+      "abstract": "Defense Secretary Leon E. Panetta is set to present a strategy for $450 billion in cuts over the next 10 years — and an outline of a carefully shrunk military.",
+      "lead_paragraph": "WASHINGTON — Defense Secretary Leon E. Panetta is set this week to reveal his strategy that will guide the Pentagon in cutting hundreds of billions of dollars from its budget, and with it the Obama administration’s vision of the military that the United States needs to meet 21st-century threats, according to senior officials.",
+      "publication_date": "2012-01-03T03:17:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/03/us/pentagon-to-present-vision-of-reduced-military.html",
+      "byline": "By Elisabeth Bumiller and Thom Shanker"
+    },
+    {
+      "headline": "Trading Year Starts Off With a Rally",
+      "snippet": "A report on manufacturing in December fueled sharp gains on Wall Street on the year’s first day of trading, but volume was thin.",
+      "abstract": "A report on manufacturing in December fueled sharp gains on Wall Street on the year’s first day of trading, but volume was thin.",
+      "lead_paragraph": "Wall Street stocks ushered in the first day of trading in the new year with a strong rally as investors were buoyed by a report that showed manufacturing strength in the American economy.",
+      "publication_date": "2012-01-03T14:11:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/04/business/daily-stock-market-activity.html",
+      "byline": "By Julie Creswell"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2010-12-16",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "New Estimates of Food Poisoning Cases",
+      "snippet": "Scientists say the new numbers are a better guess on how many foodborne illnesses occur in the United States.",
+      "abstract": "Scientists say the new numbers are a better guess on how many foodborne illnesses occur in the United States.",
+      "lead_paragraph": "The federal government on Wednesday significantly cut its estimate of how many Americans get sick every year from tainted food.",
+      "publication_date": "2010-12-15T16:12:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/16/business/16illness.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "House Set to Follow Senate in Approving Tax Deal",
+      "snippet": "The $858 billion tax plan was the first concrete product of a new era of divided government and acid compromise.",
+      "abstract": "The $858 billion tax plan was the first concrete product of a new era of divided government and acid compromise.",
+      "lead_paragraph": "WASHINGTON — The Senate on Wednesday approved the $858 billion tax plan negotiated by the White House and Republican leaders, and House Democrats said they expected to pass the bill on Thursday after a final, and seemingly futile, effort to change a provision that benefits wealthy estates.",
+      "publication_date": "2010-12-15T18:41:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/16/us/politics/16cong.html",
+      "byline": "By David M. Herszenhorn"
+    },
+    {
+      "headline": "An Android Phone That Says ‘Google’",
+      "snippet": "Not another cellphone, you say? Google presents the Nexus S, an Android not to be confused with the Nexus from a year ago.",
+      "abstract": "Not another cellphone, you say? Google presents the Nexus S, an Android not to be confused with the Nexus from a year ago.",
+      "lead_paragraph": "As the year winds down, we’ve all got problems. Economic slump. Wars. Unemployment.",
+      "publication_date": "2010-12-15T21:32:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/16/technology/personaltech/16pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "2 in Race to Lead Johnson & Johnson",
+      "snippet": "Two longtime executives, Alex Gorsky and Sheri S. McCoy, have been given expanded roles in the troubled health care company.",
+      "abstract": "Two longtime executives, Alex Gorsky and Sheri S. McCoy, have been given expanded roles in the troubled health care company.",
+      "lead_paragraph": "After a year marked by embarrassing consumer product calls, Johnson and Johnson on Wednesday set in motion a horse race between two longtime executives to succeed William C. Weldon, 62, the chief executive and chairman.",
+      "publication_date": "2010-12-15T22:28:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/16/business/16drug.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "China’s Push Into Wind Worries U.S. Industry",
+      "snippet": "Proponents say China should be welcomed to the American wind industry, but others see a threat.",
+      "abstract": "Proponents say China should be welcomed to the American wind industry, but others see a threat.",
+      "lead_paragraph": "PIPESTONE, Minn. — Finishing the 20-story climb up a ladder inside a wind-turbine tower, Scott Rowland opened the top hatch to reveal a panorama of flat farmland dotted with dozens of other turbines.",
+      "publication_date": "2010-12-16T00:51:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/16/business/global/16wind.html",
+      "byline": "By Tom Zeller Jr. and Keith Bradsher"
+    },
+    {
+      "headline": "Bloomberg to Publish Editorials",
+      "snippet": "Bloomberg L.P. will begin publishing editorials in an effort to broaden its influence on national affairs.",
+      "abstract": "Bloomberg L.P. will begin publishing editorials in an effort to broaden its influence on national affairs.",
+      "lead_paragraph": "Being mayor of New York City would be a large enough platform for just about anyone. But apparently not for Michael R. Bloomberg.",
+      "publication_date": "2010-12-16T01:42:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/16/business/media/16bloomberg.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "U.S. Tries to Build Case for Conspiracy by WikiLeaks",
+      "snippet": "Prosecutors trying to build a case against Julian Assange for his role in the release of classified documents are seeking evidence that he helped acquire government files.",
+      "abstract": "Prosecutors trying to build a case against Julian Assange for his role in the release of classified documents are seeking evidence that he helped acquire government files.",
+      "lead_paragraph": "WASHINGTON — Federal prosecutors, seeking to build a case against the WikiLeaks leader Julian Assange for his role in a huge dissemination of classified government documents, are looking for evidence of any collusion in his early contacts with an Army intelligence analyst suspected of leaking the information.",
+      "publication_date": "2010-12-16T02:07:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/16/world/16wiki.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "In France, Civil Unions Gain Favor Over Marriage",
+      "snippet": "Civil unions confer most of the benefits and protections of marriage, and French couples increasingly prefer them.",
+      "abstract": "Civil unions confer most of the benefits and protections of marriage, and French couples increasingly prefer them.",
+      "lead_paragraph": "PARIS  Some are divorced and disenchanted with marriage; others are young couples ideologically opposed to marriage, but eager to lighten their tax burdens. Many are lovers not quite ready for old-fashioned matrimony. ",
+      "publication_date": "2010-12-16T02:26:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/16/world/europe/16france.html",
+      "byline": "By Scott Sayare and Maïa de la Baume"
+    },
+    {
+      "headline": "Obama Cites Afghan Gains as Report Says Exit Is on Track",
+      "snippet": "President Obama vowed to “never waver from our goal” as he spoke Thursday about the review, which said the withdrawal plans were on track despite uneven signs of progress.",
+      "abstract": "President Obama vowed to “never waver from our goal” as he spoke Thursday about the review, which said the withdrawal plans were on track despite uneven signs of progress.",
+      "lead_paragraph": "WASHINGTON  The Obama administration plans to further step up attacks on Al Qaeda and Taliban insurgents in the tribal areas of Pakistan, to address one of the fundamental weaknesses uncovered in its year-end review of its Afghanistan war strategy.",
+      "publication_date": "2010-12-16T11:02:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/17/world/asia/17afghan.html",
+      "byline": "By Helene Cooper and David E. Sanger"
+    }
+  ]
+}

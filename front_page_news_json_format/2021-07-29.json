@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-07-29",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Inflation Is New Battle Line as Republicans and Biden Spar Over Spending",
+      "snippet": "Republicans say President Biden’s spending plans will keep inflation rising, but the White House says the proposals could help tame costs.",
+      "abstract": "Republicans say President Biden’s spending plans will keep inflation rising, but the White House says the proposals could help tame costs.",
+      "lead_paragraph": "WASHINGTON — Republicans have made Americans’ concerns over rising prices their primary line of attack on President Biden’s economic agenda, seeking to derail trillions of dollars in spending programs and tax cuts by warning that they will produce rocketing 1970s-style inflation.",
+      "publication_date": "2021-07-28T16:10:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/28/business/economy/inflation-republicans-biden-spending.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Federal Reserve Keeps Rates Unchanged but Cites ‘Progress’ Toward Goals",
+      "snippet": "The central bank gave the clearest hint yet that it will soon begin to shift bond-buying from emergency mode.",
+      "abstract": "The central bank gave the clearest hint yet that it will soon begin to shift bond-buying from emergency mode.",
+      "lead_paragraph": "The Federal Reserve on Wednesday offered the most direct signal yet that it will begin to dial back its emergency support for the economy in the near future, as its chair, Jerome H. Powell, made it clear that policymakers will do so deliberatively and with plenty of warning.",
+      "publication_date": "2021-07-28T18:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/28/business/economy/fomc-fed-meeting-rates-taper.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Pandemic Aid Programs Spur a Record Drop in Poverty",
+      "snippet": "The most comprehensive study yet of the federal response to the pandemic shows huge but temporary benefits for the poor — and helps frame a larger debate over the role of government.",
+      "abstract": "The most comprehensive study yet of the federal response to the pandemic shows huge but temporary benefits for the poor — and helps frame a larger debate over the role of government.",
+      "lead_paragraph": "WASHINGTON — The huge increase in government aid prompted by the coronavirus pandemic will cut poverty nearly in half this year from prepandemic levels and push the share of Americans in poverty to the lowest level on record, according to the most comprehensive analysis yet of a vast but temporary expansion of the safety net.",
+      "publication_date": "2021-07-28T21:26:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/28/us/politics/covid-poverty-aid-programs.html",
+      "byline": "By Jason DeParle"
+    },
+    {
+      "headline": "Wearing Masks Indoors Again? Some States Are a Vehement No.",
+      "snippet": "After the C.D.C. advised masking indoors in areas with high rates of Covid-19, some locales went back under mask mandates. But there was also defiance and hostility.",
+      "abstract": "After the C.D.C. advised masking indoors in areas with high rates of Covid-19, some locales went back under mask mandates. But there was also defiance and hostility.",
+      "lead_paragraph": "MIAMI — Even before the Centers for Disease Control and Prevention recommended this week that vaccinated Americans in coronavirus hot spots around the country go back to wearing face coverings indoors, a resistance had been building against any new masking requirements, no matter the resurgence of infections.",
+      "publication_date": "2021-07-28T21:47:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/28/us/coronavirus-cdc-mask-mandate.html",
+      "byline": "By Patricia Mazzei"
+    },
+    {
+      "headline": "$1 Trillion Infrastructure Deal Scales Senate Hurdle With Bipartisan Vote",
+      "snippet": "The vote was a breakthrough after weeks of wrangling among White House officials and senators in both parties, clearing the way for action on a top priority for President Biden.",
+      "abstract": "The vote was a breakthrough after weeks of wrangling among White House officials and senators in both parties, clearing the way for action on a top priority for President Biden.",
+      "lead_paragraph": "WASHINGTON — The Senate voted on Wednesday to take up a $1 trillion bipartisan infrastructure bill that would make far-reaching investments in the nation’s public works system, as Republicans joined Democrats in clearing the way for action on a crucial piece of President Biden’s agenda.",
+      "publication_date": "2021-07-29T00:14:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/28/us/politics/senate-infrastructure-deal.html",
+      "byline": "By Emily Cochrane and Jim Tankersley"
+    },
+    {
+      "headline": "So Close to Returning to Offices, Companies Upend Plans Again",
+      "snippet": "Large businesses are revising their rules about employee vaccinations and wearing masks as the Delta variant drives up infections.",
+      "abstract": "Large businesses are revising their rules about employee vaccinations and wearing masks as the Delta variant drives up infections.",
+      "lead_paragraph": "For many companies, September was supposed to mark a triumphant return to dormant offices, a time to crank up productivity and reboot in-person corporate cultures that have withered during 18 months of Zoom calls.",
+      "publication_date": "2021-07-29T07:55:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/29/business/companies-covid-cases-masks-vaccines.html",
+      "byline": "By Michael Corkery, Lauren Hirsch, Coral Murphy Marcos and Erin Woo"
+    },
+    {
+      "headline": "Economy Recovers Pandemic Losses, but Faces New Test",
+      "snippet": "Gross domestic product grew 1.6 percent in the second quarter, the latest gauge of a rebound that could be challenged by the Delta variant of the coronavirus.",
+      "abstract": "Gross domestic product grew 1.6 percent in the second quarter, the latest gauge of a rebound that could be challenged by the Delta variant of the coronavirus.",
+      "lead_paragraph": "The U.S. economy climbed out of its pandemic-induced hole in the spring as vaccinations and federal aid fueled a surge in consumer spending at restaurants, resorts and retail stores.",
+      "publication_date": "2021-07-29T09:03:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/29/business/2Q-GDP-Report.html",
+      "byline": "By Ben Casselman"
+    }
+  ]
+}

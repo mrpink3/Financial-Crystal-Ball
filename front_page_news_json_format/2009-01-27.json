@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2009-01-27",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Medicare Widens Drugs It Accepts for Cancer",
+      "snippet": "With little public debate, Medicare has expanded its coverage for cancer treatments lacking F.D.A. approval.",
+      "abstract": "With little public debate, Medicare has expanded its coverage for cancer treatments lacking F.D.A. approval.",
+      "lead_paragraph": "Medicare, with little public debate, has expanded its coverage of drugs for cancer treatments not approved by the Food and Drug Administration. ",
+      "publication_date": "2009-01-26T22:08:17+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/27/health/27cancer.html",
+      "byline": "By Reed Abelson and Andrew Pollack"
+    },
+    {
+      "headline": "Barclays to Write Down £8 Billion, but Asks for No Help",
+      "snippet": "After investors punished its stock last week, Barclays attempted to restore trust in its earnings, saying it did not need fresh capital.",
+      "abstract": "After investors punished its stock last week, Barclays attempted to restore trust in its earnings, saying it did not need fresh capital.",
+      "lead_paragraph": "LONDON — The banking giant Barclays — like the British government whose bailout money it has spurned — faces a crisis of confidence among investors who are reluctant to take the word of anyone, banker or politician, at face value.",
+      "publication_date": "2009-01-26T23:45:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/worldbusiness/27barclays.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Teaching Teenagers About Harassment",
+      "snippet": "Digital harassment has gotten to be such a problem that it’s now the focus of a campaign from the Advertising Council.",
+      "abstract": "Digital harassment has gotten to be such a problem that it’s now the focus of a campaign from the Advertising Council.",
+      "lead_paragraph": "This month, three teenage girls, students at Greensburg Salem High School in Greensburg, Pa., were charged with disseminating child pornography. ",
+      "publication_date": "2009-01-27T02:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/media/27adco.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Smoking Ban Hits Home. Truly.",
+      "snippet": "A strict antismoking law in a city in Silicon Valley has effectively banned lighting up in all apartment buildings.",
+      "abstract": "A strict antismoking law in a city in Silicon Valley has effectively banned lighting up in all apartment buildings.",
+      "lead_paragraph": "BELMONT, Calif. — During her 50 years of smoking, Edith Frederickson says, she has lit up in restaurants and bars, airplanes and trains, and indoors and out, all as part of a two-pack-a-day habit that she regrets not a bit. But as of two weeks ago, Ms. Frederickson can no longer smoke in the one place she loves the most: her home.",
+      "publication_date": "2009-01-27T02:06:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/27/us/27belmont.html",
+      "byline": "By Jesse McKinley"
+    },
+    {
+      "headline": "F.D.R’s Example Offers Lessons for Obama",
+      "snippet": "In the 1930s, President Franklin D. Roosevelt calmed Americans but had difficulty creating jobs.",
+      "abstract": "In the 1930s, President Franklin D. Roosevelt calmed Americans but had difficulty creating jobs.",
+      "lead_paragraph": "In 1933, as today, a new president stepped into the White House, vowing change and decisive action at a time when a banking crisis posed a grave threat to the nation’s economy.",
+      "publication_date": "2009-01-27T02:18:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/economy/27fdr.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Layoffs Spread to More Sectors of the Economy",
+      "snippet": "Companies across the board are resorting to mass job cuts, suggesting that employers expect a long downturn.",
+      "abstract": "Companies across the board are resorting to mass job cuts, suggesting that employers expect a long downturn.",
+      "lead_paragraph": "Furloughs, wage reductions, hiring freezes and shorter hours simply did not do enough. A year into this recession, companies across the board are resorting to mass job cuts.",
+      "publication_date": "2009-01-27T02:47:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/economy/27layoffs.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "In India, Clues Unfold to a Fraud’s Framework",
+      "snippet": "As investigators seek a clearer picture of Satyam’s accounting, many wonder whether its executives had help.",
+      "abstract": "As investigators seek a clearer picture of Satyam’s accounting, many wonder whether its executives had help.",
+      "lead_paragraph": "NEW DELHI  How did B. Ramalinga Raju, the chairman of one of India’s largest information technology companies, carry out the biggest financial fraud in this country’s history? Apparently it does take a village.",
+      "publication_date": "2009-01-27T02:55:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/worldbusiness/27accounting.html",
+      "byline": "By Jeremy Kahn"
+    },
+    {
+      "headline": "For Pfizer, a Big Deal and a Test",
+      "snippet": "Layoffs, falling stock and slim dividends leave Pfizer little to cheer about one day after the $68 billion megamerger with Wyeth.",
+      "abstract": "Layoffs, falling stock and slim dividends leave Pfizer little to cheer about one day after the $68 billion megamerger with Wyeth.",
+      "lead_paragraph": "After announcing the $68 billion megamerger with Wyeth on Monday morning, Pfizer’s chief executive, Jeffrey B. Kindler, did not have much time to celebrate.",
+      "publication_date": "2009-01-27T03:06:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/27chief.html",
+      "byline": "By Duff Wilson"
+    },
+    {
+      "headline": "The Titans Take It on the Chin",
+      "snippet": "The Masters of the Universe are falling on hard times too, at least by their own gilded standards.",
+      "abstract": "The Masters of the Universe are falling on hard times too, at least by their own gilded standards.",
+      "lead_paragraph": "Many ordinary Americans are losing their jobs and savings because of the debacle on Wall Street. ",
+      "publication_date": "2009-01-27T03:18:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/27/business/27sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    }
+  ]
+}

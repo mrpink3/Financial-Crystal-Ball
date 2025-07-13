@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-09-11",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Poverty Increased in 2023 as Prices Rose and Pandemic Aid Programs Expired",
+      "snippet": "More faced hardship in the United States last year, the Census Bureau said, as inflation and the end of subsidies outweighed higher incomes.",
+      "abstract": "More faced hardship in the United States last year, the Census Bureau said, as inflation and the end of subsidies outweighed higher incomes.",
+      "lead_paragraph": "The nation’s poverty rate rose last year even as incomes improved, the government reported on Tuesday, reflecting higher prices and the expiration of the last pandemic relief programs.",
+      "publication_date": "2024-09-10T19:41:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/10/business/economy/poverty-report-2023-census-bureau.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Israeli Bombing in Gaza Humanitarian Zone Kills at Least 19, Officials Say",
+      "snippet": "The Israeli airstrike, which the military said targeted Hamas militants, appeared to use 2,000-pound bombs, which Israel has been criticized for using in heavily populated areas.",
+      "abstract": "The Israeli airstrike, which the military said targeted Hamas militants, appeared to use 2,000-pound bombs, which Israel has been criticized for using in heavily populated areas.",
+      "lead_paragraph": "Israeli airstrikes early on Tuesday slammed into a part of the Gaza Strip that Israel had declared a humanitarian zone, killing at least 19 people and wounding 60, according to Gazan officials, in an area where tens of thousands of Palestinians forced from their homes had sought refuge in tents and makeshift shelters.",
+      "publication_date": "2024-09-10T22:04:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/10/world/middleeast/israeli-attack-gaza-humanitarian-zone.html",
+      "byline": "By Rawan Sheikh Ahmad, Ephrat Livni, Sanjana Varghese and Thomas Fuller"
+    },
+    {
+      "headline": "Family of American Woman Held in China for 10 Years Asks for Help",
+      "snippet": "Dawn Michelle Hunt, who is serving a life sentence, says she was duped into carrying drugs. Her family says she is seriously ill and should be sent home.",
+      "abstract": "Dawn Michelle Hunt, who is serving a life sentence, says she was duped into carrying drugs. Her family says she is seriously ill and should be sent home.",
+      "lead_paragraph": "Dawn Michelle Hunt loved sweepstakes. A 42-year-old temp worker in Chicago, she entered almost every contest she encountered. So when she got an email from someone who described himself as a British lawyer saying she had won a trip to Australia, she was elated.",
+      "publication_date": "2024-09-11T04:01:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html",
+      "byline": "By Mara Hvistendahl"
+    },
+    {
+      "headline": "Inflation Cooled in August, Keeping the Fed Poised to Cut Rates",
+      "snippet": "Consumer Price Index inflation continued to cool, reaching a new three-year low. But signs of stubbornness lingered under the surface.",
+      "abstract": "Consumer Price Index inflation continued to cool, reaching a new three-year low. But signs of stubbornness lingered under the surface.",
+      "lead_paragraph": "Inflation continued to recede in August, paving the way for the Federal Reserve to lower interest rates for the first time since early 2020 at their meeting next week.",
+      "publication_date": "2024-09-11T09:03:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/11/business/cpi-inflation-august.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Harris and Trump Bet on Their Own Sharply Contrasting Views of America",
+      "snippet": "Former President Donald J. Trump is gambling that Americans are as angry as he is, while Vice President Kamala Harris hopes voters are exhausted by the Trump era and ready to move on.",
+      "abstract": "Former President Donald J. Trump is gambling that Americans are as angry as he is, while Vice President Kamala Harris hopes voters are exhausted by the Trump era and ready to move on.",
+      "lead_paragraph": "Donald J. Trump’s America is a grim place, a nation awash in marauding immigrants stealing American jobs and eating American cats and dogs, a country devastated economically, humiliated internationally and perched on the cliff’s edge of an apocalyptic World War III.",
+      "publication_date": "2024-09-11T14:08:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/11/us/politics/harris-trump-debate.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Harvard’s Black Student Enrollment Dips After Affirmative Action Ends",
+      "snippet": "Defying expectations, a Supreme Court decision curtailing race-based admissions still had a relatively small impact at some highly selective schools like Harvard, even as other schools saw big changes.",
+      "abstract": "Defying expectations, a Supreme Court decision curtailing race-based admissions still had a relatively small impact at some highly selective schools like Harvard, even as other schools saw big changes.",
+      "lead_paragraph": "The predictions were dire. In the course of a bitterly contested trial six years ago, Harvard University said that if it were forced to stop considering race in admissions, the diversity of its undergraduate classes would be badly compromised.",
+      "publication_date": "2024-09-11T15:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/11/us/harvard-affirmative-action-diversity-admissions.html",
+      "byline": "By Anemona Hartocollis"
+    }
+  ]
+}

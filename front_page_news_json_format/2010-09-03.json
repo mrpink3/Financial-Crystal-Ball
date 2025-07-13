@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-09-03",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "An Oil Platform Burns, Blanketing the Gulf With Angst",
+      "snippet": "The mishap sent waves of anxiety along a coast that has just begun to recover from the Deepwater Horizon disaster.",
+      "abstract": "The mishap sent waves of anxiety along a coast that has just begun to recover from the Deepwater Horizon disaster.",
+      "lead_paragraph": "NEW ORLEANS — An oil platform in the Gulf of Mexico caught fire on Thursday morning, forcing its 13 crew members overboard and sending waves of anxiety along a coast that has just begun to recover from the Deepwater Horizon disaster.",
+      "publication_date": "2010-09-02T16:27:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/09/03/us/03rig.html",
+      "byline": "By Campbell Robertson"
+    },
+    {
+      "headline": "Strong Yen Helps to Fuel Germany’s Export Boom",
+      "snippet": "European companies tend to focus on the dollar exchange rate, but the yen’s recent strengthening is playing a role in Germany’s export boom as well.",
+      "abstract": "European companies tend to focus on the dollar exchange rate, but the yen’s recent strengthening is playing a role in Germany’s export boom as well.",
+      "lead_paragraph": "FRANKFURT  There was a touch of gloating in the most recent earnings report issued by Kuka, a company based in the Bavarian city of Augsburg whose orange industrial robots are a common site on auto assembly lines around the world.",
+      "publication_date": "2010-09-02T21:04:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/09/03/business/global/03yen.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "YouTube Ads Turn Videos Into Revenue",
+      "snippet": "YouTube is expected to turn a profit this year, on revenue of about $450 million, with help from its onetime critics.",
+      "abstract": "YouTube is expected to turn a profit this year, on revenue of about $450 million, with help from its onetime critics.",
+      "lead_paragraph": "SAN BRUNO, Calif.  Last month, a YouTube user, TomR35, uploaded a clip from the AMC series “Mad Men” in which Don Draper makes a heartfelt speech about the importance of nostalgia in advertising. ",
+      "publication_date": "2010-09-02T21:47:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/09/03/technology/03youtube.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Employers Push Costs for Health on Workers",
+      "snippet": "Employers passed all of the increases in insurance premiums this year to their employees, a survey found.",
+      "abstract": "Employers passed all of the increases in insurance premiums this year to their employees, a survey found.",
+      "lead_paragraph": "As health care costs continue their relentless climb, companies are increasingly passing on higher premium costs to workers. ",
+      "publication_date": "2010-09-02T23:35:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/09/03/business/03insure.html",
+      "byline": "By Reed Abelson"
+    },
+    {
+      "headline": "Beef Recall Heats Up Fight to Tighten Rules",
+      "snippet": "Cargill Meat Solutions recalled 8,500 pounds of hamburger after investigators said it was the likely source of bacteria that had made three people sick.",
+      "abstract": "Cargill Meat Solutions recalled 8,500 pounds of hamburger after investigators said it was the likely source of bacteria that had made three people sick.",
+      "lead_paragraph": "For the first time in this country, public health officials have linked ground beef to illnesses from a rare strain of E. coli, adding fuel to an already fierce debate over expanding federal rules meant to keep the toxic bacteria out of the meat supply. ",
+      "publication_date": "2010-09-03T00:27:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/09/03/business/03beef.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "BP Says Limits on Drilling Imperil Spill Payouts",
+      "snippet": "The company says proposed legislation could disrupt its efforts to set aside $20 billion for claims and penalties.",
+      "abstract": "The company says proposed legislation could disrupt its efforts to set aside $20 billion for claims and penalties.",
+      "lead_paragraph": "BP is warning Congress that if lawmakers pass legislation that bars the company from getting new offshore drilling permits, it may not have the money to pay for all the damages caused by its oil spill in the Gulf of Mexico.",
+      "publication_date": "2010-09-03T01:22:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/09/03/business/03bp.html",
+      "byline": "By Clifford Krauss and John M. Broder"
+    },
+    {
+      "headline": "Fewer Young Voters See Themselves as Democrats",
+      "snippet": "Though many students are liberals on social issues, the weak job market has taken a toll on their loyalties.",
+      "abstract": "Though many students are liberals on social issues, the weak job market has taken a toll on their loyalties.",
+      "lead_paragraph": "FORT COLLINS, Colo.  The college vote is up for grabs this year  to an extent that would have seemed unlikely two years ago, when a generation of young people seemed to swoon over Barack Obama.",
+      "publication_date": "2010-09-03T02:02:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/09/03/us/politics/03students.html",
+      "byline": "By Kirk Johnson"
+    },
+    {
+      "headline": "Growth in Jobs Beats Estimates, Easing Concerns",
+      "snippet": "American businesses added more jobs in the last three months than originally estimated, calming fears of a double-dip recession.",
+      "abstract": "American businesses added more jobs in the last three months than originally estimated, calming fears of a double-dip recession.",
+      "lead_paragraph": "American businesses added more jobs in the last three months than originally estimated, calming fears of a double-dip recession. Yet the pace of growth signaled that the wheels of the economic recovery were still spinning in place. ",
+      "publication_date": "2010-09-03T12:50:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/09/04/business/economy/04jobs.html",
+      "byline": "By Motoko Rich"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2012-06-19",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Microsoft Introduces a Challenger to the iPad",
+      "snippet": "In its biggest push ever into the hardware business, Microsoft unveiled a tablet computer called Surface that it intends to challenge Apple’s iPad.",
+      "abstract": "In its biggest push ever into the hardware business, Microsoft unveiled a tablet computer called Surface that it intends to challenge Apple’s iPad.",
+      "lead_paragraph": "LOS ANGELES — In its most strategically significant push yet into the hardware business, Microsoft on Monday unveiled a tablet computer called Surface that is intended to challenge Apple’s iPad.",
+      "publication_date": "2012-06-18T23:52:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/19/technology/microsoft-unveils-a-tablet-to-challenge-the-ipad.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "With Risks for Growth Still Hazy, Fed to Weigh New Aid",
+      "snippet": "Federal Reserve officials will meet to decide whether the economy needs more help amid considerable uncertainty over domestic growth and the impact of Europe’s debt crisis.",
+      "abstract": "Federal Reserve officials will meet to decide whether the economy needs more help amid considerable uncertainty over domestic growth and the impact of Europe’s debt crisis.",
+      "lead_paragraph": "WASHINGTON — In retrospect, this might not have been the best week for a long-scheduled meeting of the Federal Reserve’s policy-making committee.",
+      "publication_date": "2012-06-19T00:11:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/19/business/economy/fed-policy-making-panel-to-meet-as-growth-faces-threats.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Goldman Stuck With a Defense Tab, and Awaiting a Payback",
+      "snippet": "Goldman Sachs must continue to pay Mr. Gupta’s bills until the case is completely resolved, a process that could take a couple of years.",
+      "abstract": "Goldman Sachs must continue to pay Mr. Gupta’s bills until the case is completely resolved, a process that could take a couple of years.",
+      "lead_paragraph": "For Goldman Sachs, the insider trading case against a former board member, Rajat K. Gupta, which ended in a conviction on Friday, was distracting and discomforting.",
+      "publication_date": "2012-06-19T00:35:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/06/18/gupta-legal-bills/",
+      "byline": "By Peter Lattman"
+    },
+    {
+      "headline": "One Wall Street Seer Says the Greek Tragedy Is Near",
+      "snippet": "Mark Grant doesn’t call his assumptions Doomsday, but reality: Greece will most likely fall apart in the next four months unless “there is debt forgiveness or Europe keeps handing them money like they are a ward of the state.”",
+      "abstract": "Mark Grant doesn’t call his assumptions Doomsday, but reality: Greece will most likely fall apart in the next four months unless “there is debt forgiveness or Europe keeps handing them money like they are a ward of the state.”",
+      "lead_paragraph": "If you want to be scared, truly terrified, listen to Mark J. Grant. He might be right.",
+      "publication_date": "2012-06-19T00:39:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/06/18/one-wall-street-seer-says-the-greek-tragedy-is-near/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Investors in Search of Bigger Fix to Euro Crisis",
+      "snippet": "To defuse the crisis, the debt burdens of Europe’s weaker economies and banks may need to be shared by the entire Continent.",
+      "abstract": "To defuse the crisis, the debt burdens of Europe’s weaker economies and banks may need to be shared by the entire Continent.",
+      "lead_paragraph": "The latest relief rally in European financial markets was over almost before it began.",
+      "publication_date": "2012-06-19T00:52:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/19/business/daily-stock-market-activity.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Greek Voting Past, Europe Returns to Fiscal Rescue",
+      "snippet": "Elections eased fears about Greece’s exit from the euro zone, but attention turned Monday to restoring economic health to Europe with Greece still in it.",
+      "abstract": "Elections eased fears about Greece’s exit from the euro zone, but attention turned Monday to restoring economic health to Europe with Greece still in it.",
+      "lead_paragraph": "BERLIN — After Greek elections eased fears that the country’s exit from the euro zone was imminent, attention turned Monday to an even bigger challenge: restoring the economic body to health with Greece still in it. ",
+      "publication_date": "2012-06-19T00:56:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/06/19/world/europe/greek-vote-past-europe-returns-to-fiscal-rescue.html",
+      "byline": "By Nicholas Kulish and Jack Ewing"
+    },
+    {
+      "headline": "Electronics Retailers Scramble to Adapt to Changing Market",
+      "snippet": "Sales at physical electronics stores have declined an average of 2.6 percent a year in the last five years, while sales online have risen an average of 14.7 percent a year in that period.",
+      "abstract": "Sales at physical electronics stores have declined an average of 2.6 percent a year in the last five years, while sales online have risen an average of 14.7 percent a year in that period.",
+      "lead_paragraph": "Even as Best Buy insists it can get out of its current predicament, competitors are circling, as everyone tries to prove one point: that electronics stores can thrive.",
+      "publication_date": "2012-06-19T01:11:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/19/business/electronics-stores-struggle-to-adapt-to-changing-market.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "American Children, Now Struggling to Adjust to Life in Mexico",
+      "snippet": "The English-speaking children of Mexicans returning because of deportations, tougher state laws and unemployment struggle to adjust, often going to schools that are not equipped to integrate them.",
+      "abstract": "The English-speaking children of Mexicans returning because of deportations, tougher state laws and unemployment struggle to adjust, often going to schools that are not equipped to integrate them.",
+      "lead_paragraph": "IZÚCAR DE MATAMOROS, Mexico — Jeffrey Isidoro sat near the door of his fifth-grade classroom here in central Mexico, staring outside through designer glasses that, like his Nike sneakers and Nike backpack, signaled a life lived almost entirely in the United States. His parents are at home in Mexico. Jeffrey is lost.",
+      "publication_date": "2012-06-19T03:39:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/06/19/world/americas/american-born-children-struggle-to-adjust-in-mexico.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "Lingering Fears Push Spanish Short-Term Borrowing Costs Up",
+      "snippet": "A debt sale Tuesday reflects deep market fears about the future of the euro and increases pressure on European leaders to come up with a solution to the crisis.",
+      "abstract": "A debt sale Tuesday reflects deep market fears about the future of the euro and increases pressure on European leaders to come up with a solution to the crisis.",
+      "lead_paragraph": "LONDON — Spain’s cost of borrowing continued its rise into unsustainable territory Tuesday, reflecting heightened fears that the country would eventually need a bailout that Europe might not be able to afford. ",
+      "publication_date": "2012-06-19T09:42:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/20/business/global/daily-euro-zone-watch.html",
+      "byline": "By Stephen Castle and Raphael Minder"
+    },
+    {
+      "headline": "Walgreen to Take Stake in Alliance Boots for $6.7 Billion",
+      "snippet": "The American drug store chain Walgreens has agreed to buy a 45 percent stake in Alliance Boots, the European pharmacy retailer, for $6.7 billion, in a deal that could allow Walgreens to take full control of Alliance Boots by 2015.",
+      "abstract": "The American drug store chain Walgreens has agreed to buy a 45 percent stake in Alliance Boots, the European pharmacy retailer, for $6.7 billion, in a deal that could allow Walgreens to take full control of Alliance Boots by 2015.",
+      "lead_paragraph": "7:20 p.m. | Updated ",
+      "publication_date": "2012-06-19T11:42:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/06/19/walgreens-to-take-45-stake-in-alliance-boots-for-6-7-billion/",
+      "byline": "By Mark Scott"
+    }
+  ]
+}

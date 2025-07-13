@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2020-03-26",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Governors Tell Outsiders From ‘Hot Zone’ to Stay Away as Virus Divides States",
+      "snippet": "State-to-state travel rules are rarely seen in the United States, but the virus has left some states urging outsiders not to come.",
+      "abstract": "State-to-state travel rules are rarely seen in the United States, but the virus has left some states urging outsiders not to come.",
+      "lead_paragraph": "MIAMI — Florida has a message for New Yorkers: Please don’t visit. And if you do, prepare to sit in quarantine or risk jail. Hawaii, which also thrives on tourism, is asking visitors to stay away for a month. And Alaska is requiring a 14-day quarantine for anyone entering from, as Alaskans put it, Outside.",
+      "publication_date": "2020-03-25T18:46:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/25/us/coronavirus-united-states.html",
+      "byline": "By Patricia Mazzei, Julie Bosman and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "The Fed Asks for BlackRock’s Help in an Echo of 2008",
+      "snippet": "BlackRock will advise the Federal Reserve on the purchase of billions of dollars in bonds and securities. The terms of the agreement were not disclosed.",
+      "abstract": "BlackRock will advise the Federal Reserve on the purchase of billions of dollars in bonds and securities. The terms of the agreement were not disclosed.",
+      "lead_paragraph": "The Federal Reserve has turned again to BlackRock.",
+      "publication_date": "2020-03-25T21:35:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Essential? Retailers Like Guitar Center and Michaels Think They Are",
+      "snippet": "Some chains are loosely interpreting what it means to be a critically important business.",
+      "abstract": "Some chains are loosely interpreting what it means to be a critically important business.",
+      "lead_paragraph": "At some Guitar Center stores, employees are still allowing customers to try out models of guitars. Dillard’s, a department store chain popular in the South, is still welcoming shoppers looking for clothing and makeup. And Michaels, the arts and crafts chain, says it is keeping many of its stores open to provide supplies to parents teaching their homebound children. “We are here for the makers,” the retailer said in an email to one concerned customer.",
+      "publication_date": "2020-03-25T21:54:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/25/business/coronavirus-essential-retailers.html",
+      "byline": "By Michael Corkery and Sapna Maheshwari"
+    },
+    {
+      "headline": "Job Vacancies and Inexperience Mar Federal Response to Coronavirus",
+      "snippet": "Unfilled jobs and high turnover mean the government is ill equipped for a public health crisis, said many former and current federal officials and disaster experts.",
+      "abstract": "Unfilled jobs and high turnover mean the government is ill equipped for a public health crisis, said many former and current federal officials and disaster experts.",
+      "lead_paragraph": "WASHINGTON — Of the 75 senior positions at the Department of Homeland Security, 20 are either vacant or filled by acting officials, including Chad F. Wolf, the acting secretary who recently was unable to tell a Senate committee how many respirators and protective face masks were available in the United States.",
+      "publication_date": "2020-03-26T09:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/26/us/politics/coronavirus-expertise-trump.html",
+      "byline": "By Jennifer Steinhauer and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "‘It’s a Wreck’: 3.3 Million File Unemployment Claims as Economy Comes Apart",
+      "snippet": "The weekly figure is among the first data on the economic toll of the vast disruption of normal life and commerce caused by the coronavirus pandemic.",
+      "abstract": "The weekly figure is among the first data on the economic toll of the vast disruption of normal life and commerce caused by the coronavirus pandemic.",
+      "lead_paragraph": "More than three million people filed for unemployment benefits last week, sending a collective shudder throughout the economy that is unlike anything Americans have experienced.",
+      "publication_date": "2020-03-26T13:26:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/26/business/economy/coronavirus-unemployment-claims.html",
+      "byline": "By Ben Casselman, Patricia Cohen and Tiffany Hsu"
+    }
+  ]
+}

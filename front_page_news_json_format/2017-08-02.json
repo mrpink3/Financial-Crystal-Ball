@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-08-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "The Tax Reform America Needs (and Probably Won’t Get)",
+      "snippet": "The U.S. tax system raises little money relative to other advanced nations, yet distorts saving and investment decisions, encouraging trickery.",
+      "abstract": "The U.S. tax system raises little money relative to other advanced nations, yet distorts saving and investment decisions, encouraging trickery.",
+      "lead_paragraph": "Canada’s tax rate on corporate profits has fallen by more than 14 percentage points since the turn of the century, to just 15 percent this year. In Denmark it has shrunk to 22 percent from 32 percent over the period; Britain’s has declined to 19 percent, from 30 percent; Ireland’s to barely 12.5 percent, from 24 percent. Hungary’s is even lower.",
+      "publication_date": "2017-08-01T18:02:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/01/business/trump-tax-reform.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Republicans in Congress Bypass Trump to Shore Up Health Law",
+      "snippet": "The moves were a remarkable response to the president’s repeated threats to send health insurance markets into a tailspin.",
+      "abstract": "The moves were a remarkable response to the president’s repeated threats to send health insurance markets into a tailspin.",
+      "lead_paragraph": "WASHINGTON — Congressional Republicans moved on Tuesday to defuse President Trump’s threat to cut off critical payments to health insurance companies, maneuvering around the president toward bipartisan legislation to shore up insurance markets under the Affordable Care Act.",
+      "publication_date": "2017-08-01T19:31:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/01/us/politics/senators-launch-bipartisan-effort-to-shore-up-obamacare.html",
+      "byline": "By Robert Pear and Thomas Kaplan"
+    },
+    {
+      "headline": "Justice Dept. to Take On Affirmative Action in College Admissions",
+      "snippet": "The Trump administration is preparing to redirect resources of the civil rights division toward investigating and suing universities deemed to have discriminated against whites, a document says.",
+      "abstract": "The Trump administration is preparing to redirect resources of the civil rights division toward investigating and suing universities deemed to have discriminated against whites, a document says.",
+      "lead_paragraph": "WASHINGTON — The Trump administration is preparing to redirect resources of the Justice Department’s civil rights division toward investigating and suing universities over affirmative action admissions policies deemed to discriminate against white applicants, according to a document obtained by The New York Times.",
+      "publication_date": "2017-08-02T00:06:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Market’s Surge Meets Dollar’s Swoon",
+      "snippet": "Wall Street hit a new threshold as money continued to flow into stocks and exchange-traded funds. But the dollar’s fall has been a near-mirror image.",
+      "abstract": "Wall Street hit a new threshold as money continued to flow into stocks and exchange-traded funds. But the dollar’s fall has been a near-mirror image.",
+      "lead_paragraph": "Six months into the Trump presidency, two symbols of American financial might — the Dow and the dollar — have taken divergent paths, highlighting the complexities that investors face as the global economy hums, while Washington is enmeshed in political turmoil.",
+      "publication_date": "2017-08-02T00:59:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/01/business/dealbook/dow-22000-stock-markets-dollar-value.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Trump Loyalist Mixes Businesses and Access at ‘Advisory’ Firm",
+      "snippet": "Corey Lewandowski, the president’s first campaign manager, enjoys frequent access to the Trump White House and is building a roster of clients with major interests before it.",
+      "abstract": "Corey Lewandowski, the president’s first campaign manager, enjoys frequent access to the Trump White House and is building a roster of clients with major interests before it.",
+      "lead_paragraph": "Three months ago, Corey Lewandowski, President Trump’s first campaign manager, quit a new Washington lobbying firm he had helped start after the election, amid scrutiny over his firm’s clients and his extraordinary access to Mr. Trump. But Mr. Lewandowski’s departure from the influence business did not last long.",
+      "publication_date": "2017-08-02T01:09:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/01/us/politics/corey-lewandowski-trump.html",
+      "byline": "By Nicholas Confessore and Kenneth P. Vogel"
+    },
+    {
+      "headline": "America’s Competitors Angle for Silicon Valley’s Business",
+      "snippet": "As the Trump administration tightens immigration, governments around the world are stepping up their efforts to lure talent and capital away from the United States.",
+      "abstract": "As the Trump administration tightens immigration, governments around the world are stepping up their efforts to lure talent and capital away from the United States.",
+      "lead_paragraph": "GUADALAJARA, Mexico — With his frequent refrains about Mexicans and the need for a wall to contain them, it’s no surprise that President Trump has made few friends in Mexico.",
+      "publication_date": "2017-08-02T07:00:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/02/world/trump-h1b-visa-silicon-valley-immigration.html",
+      "byline": "By Kirk Semple and Ian Austen"
+    },
+    {
+      "headline": "A Solution to Hackers? More Hackers",
+      "snippet": "What if the problem we face is not too many black-hat hackers, but too few white-hat ones?",
+      "abstract": "What if the problem we face is not too many black-hat hackers, but too few white-hat ones?",
+      "lead_paragraph": "If there’s a single lesson Americans have learned from the events of the past year, it might be this: Hackers are dangerous people. They interfere in our elections, bring giant corporations to their knees, and steal passwords and credit card numbers by the truckload. They ignore boundaries. They delight in creating chaos.",
+      "publication_date": "2017-08-02T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/02/technology/a-solution-to-hackers-more-hackers.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Racially Charged Nissan Vote Is a Test for U.A.W. in the South",
+      "snippet": "More than 3,500 workers, most of them African-American, will decide on unionization this week at a Mississippi plant.",
+      "abstract": "More than 3,500 workers, most of them African-American, will decide on unionization this week at a Mississippi plant.",
+      "lead_paragraph": "CANTON, Miss. — Caught among an administration that is frequently hostile to labor, a long-term decline in membership and a steady shift in jobs to the lightly unionized South, the United Automobile Workers long ago settled on this Mississippi town as a key to rebuilding its ranks and energizing the entire labor movement.",
+      "publication_date": "2017-08-02T15:49:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/02/business/economy/nissan-united-auto-workers-mississippi.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2011-04-05",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In a Reversal, Military Trials for 9/11 Cases",
+      "snippet": "Attorney General Eric H. Holder Jr. had wanted to prosecute Khalid Shaikh Mohammed before a civilian court, but Congress blocked his transfer from Guantánamo Bay, Cuba.",
+      "abstract": "Attorney General Eric H. Holder Jr. had wanted to prosecute Khalid Shaikh Mohammed before a civilian court, but Congress blocked his transfer from Guantánamo Bay, Cuba.",
+      "lead_paragraph": "WASHINGTON — The Obama administration, ending more than a year of indecision with a major policy reversal, will prosecute Khalid Shaikh Mohammed and four other people accused of plotting the Sept. 11 terrorist attacks before a military commission and not a civilian court, as it once planned.",
+      "publication_date": "2011-04-04T16:31:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/04/05/us/05gitmo.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "After Breach, Companies Warn of E-Mail Fraud",
+      "snippet": "A security breach has exposed the e-mail addresses of millions of customers for major banks and retailers.",
+      "abstract": "A security breach has exposed the e-mail addresses of millions of customers for major banks and retailers.",
+      "lead_paragraph": "SAN FRANCISCO — Security experts said Monday that millions of people were at increased risk of e-mail swindles after a giant security breach at an online marketing firm.",
+      "publication_date": "2011-04-04T18:08:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/04/05/business/05hack.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "To Cut Smog, Navistar Blazes Risky Path of Its Own",
+      "snippet": "If Navistar’s engine design works, it could be the simplest, most elegant way to reduce smog from truck exhaust.",
+      "abstract": "If Navistar’s engine design works, it could be the simplest, most elegant way to reduce smog from truck exhaust.",
+      "lead_paragraph": "MELROSE PARK, Ill. — In a testing cell tucked deep in the bowels of Navistar’s engine plant and technical center here, a hulking prototype of a truck engine sits behind a large glass window like a patient on an operating table. A snarl of sensors and wires is attached to nearly every part of the humming engine, feeding reams of data to a battery of computers and watchful engineers in the adjacent control room. ",
+      "publication_date": "2011-04-04T23:54:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/04/05/business/energy-environment/05truck.html",
+      "byline": "By Tom Zeller Jr. and Norman Mayersohn"
+    },
+    {
+      "headline": "Fed Help Kept Banks Afloat, Until It Didn’t",
+      "snippet": "The Federal Reserve made emergency survival loans to more than 100 banks that ultimately failed anyway.",
+      "abstract": "The Federal Reserve made emergency survival loans to more than 100 banks that ultimately failed anyway.",
+      "lead_paragraph": "WASHINGTON — During the frenetic months of the financial crisis, the Federal Reserve stretched the limits of its legal authority by lending money to more than 100 banks that subsequently failed.",
+      "publication_date": "2011-04-05T01:07:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/04/05/business/economy/05fed.html",
+      "byline": "By Binyamin Appelbaum and Jo Craven McGinty"
+    },
+    {
+      "headline": "At Age 84, a City’s Last Geisha Defies Time and a 4th Tsunami",
+      "snippet": "Tsuyako Ito’s mother carried her in her first tsunami in 1933, but in March, it was an admirer who took the last geisha of Kamaishi, Japan, to higher ground.",
+      "abstract": "Tsuyako Ito’s mother carried her in her first tsunami in 1933, but in March, it was an admirer who took the last geisha of Kamaishi, Japan, to higher ground.",
+      "lead_paragraph": "KAMAISHI, Japan — The requests to see her perform had dwindled over the years. But when the earthquake struck at 2:46 p.m. on March 11, this city’s last geisha was, fittingly, at home getting ready to sing that night at Kamaishi’s 117-year-old ryotei, an exclusive restaurant featuring fine food and entertainment where she began working as a 14-year-old seven decades ago.",
+      "publication_date": "2011-04-05T01:32:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/04/05/world/asia/05geisha.html",
+      "byline": "By Norimitsu Onishi"
+    },
+    {
+      "headline": "Unrest in Yemen Seen as Opening to Qaeda Branch",
+      "snippet": "With the unrest in Yemen, counterterrorism efforts there have halted, allowing Al Qaeda to increase plotting for possible attacks against Europe and the United States, officials say.",
+      "abstract": "With the unrest in Yemen, counterterrorism efforts there have halted, allowing Al Qaeda to increase plotting for possible attacks against Europe and the United States, officials say.",
+      "lead_paragraph": "WASHINGTON — Counterterrorism operations in Yemen have ground to a halt, allowing Al Qaeda’s deadliest branch outside of Pakistan to operate more freely inside the country and to increase plotting for possible attacks against Europe and the United States, American diplomats, intelligence analysts and counterterrorism officials say. ",
+      "publication_date": "2011-04-05T02:01:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/04/05/world/middleeast/05terror.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Texas Instruments to Buy National Semiconductor for $6.5 Billion",
+      "snippet": "Texas Instruments said it planned to acquire National Semiconductor in a deal that would create the world’s third-largest semiconductor company.",
+      "abstract": "Texas Instruments said it planned to acquire National Semiconductor in a deal that would create the world’s third-largest semiconductor company.",
+      "lead_paragraph": "SAN FRANCISCO — Texas Instruments said Monday that it planned to acquire National Semiconductor for $6.5 billion in a deal that places a big bet on the increasing need to translate the physical world of humans into the digital form of computers and then back again.",
+      "publication_date": "2011-04-05T02:03:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/04/05/technology/texas-instruments-to-buy-national-semiconductor.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "Sokol’s Ways Questioned in Past Suits",
+      "snippet": "David L. Sokol has been involved in lawsuits that suggest Berkshire had warnings about his rule-pushing ways.",
+      "abstract": "David L. Sokol has been involved in lawsuits that suggest Berkshire had warnings about his rule-pushing ways.",
+      "lead_paragraph": "Lawsuits involving David L. Sokol after he joined Berkshire Hathaway suggest that management had some warnings about his rules-pushing nature long before his resignation last week for buying stock in a company shortly before Berkshire acquired it.",
+      "publication_date": "2011-04-05T02:54:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/04/05/business/05sokol.html",
+      "byline": "By Geraldine Fabrikant"
+    },
+    {
+      "headline": "Ivory Coast Leader Swayed by Force as He Considers Exit",
+      "snippet": "Until now, Laurent Gbagbo refused to consider stepping down after losing his election last year, defying global condemnation and sanctions. In the end, it came down to force.",
+      "abstract": "Until now, Laurent Gbagbo refused to consider stepping down after losing his election last year, defying global condemnation and sanctions. In the end, it came down to force.",
+      "lead_paragraph": "TAKORADI, Ghana — Holed up in a bunker under his residence, Ivory Coast’s strongman, Laurent Gbagbo, negotiated the terms of his potential surrender on Tuesday, as opposition forces closed in, his generals called on their forces to lay down their arms and French and United Nations negotiators demanded that he officially renounce control of the country. ",
+      "publication_date": "2011-04-05T06:51:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/04/06/world/africa/06ivory.html",
+      "byline": "By Adam Nossiter and Scott Sayare"
+    },
+    {
+      "headline": "Budget Stances Harden as Deadline Nears for Shutdown",
+      "snippet": "After talks with leaders of Congress failed to yield a budget deal, President Obama said there was “no excuse” for the impasse, and Republican leaders widened their push for cuts.",
+      "abstract": "After talks with leaders of Congress failed to yield a budget deal, President Obama said there was “no excuse” for the impasse, and Republican leaders widened their push for cuts.",
+      "lead_paragraph": "WASHINGTON — President Obama on Tuesday flatly dismissed a short-term Republican plan to keep the federal government operating past Friday as Speaker John A. Boehner sought deeper spending cuts, putting Congress and the White House on a course toward a government shutdown.",
+      "publication_date": "2011-04-05T14:00:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/04/06/us/politics/06budget.html",
+      "byline": "By Carl Hulse and Jennifer Steinhauer"
+    }
+  ]
+}

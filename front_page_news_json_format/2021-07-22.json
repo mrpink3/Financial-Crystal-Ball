@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-07-22",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "The Amazonification of Space Begins in Earnest",
+      "snippet": "With the suborbital flights made by Jeff Bezos and Richard Branson this month, the privatization of the space industry has crossed the point of no return.",
+      "abstract": "With the suborbital flights made by Jeff Bezos and Richard Branson this month, the privatization of the space industry has crossed the point of no return.",
+      "lead_paragraph": "The anniversary of the Apollo moon landing marked one small step for space travel but a giant leap for space billionaires.",
+      "publication_date": "2021-07-21T18:56:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/21/technology/the-amazonification-of-space.html",
+      "byline": "By David Streitfeld and Erin Woo"
+    },
+    {
+      "headline": "PG&E Aims to Curb Wildfire Risk by Burying Many Power Lines",
+      "snippet": "The California utility said the work would involve about 10,000 miles of its network, a project potentially costing tens of billions of dollars.",
+      "abstract": "The California utility said the work would involve about 10,000 miles of its network, a project potentially costing tens of billions of dollars.",
+      "lead_paragraph": "Pacific Gas & Electric, aiming to show its determination to overcome a history of safety problems, announced Wednesday that it planned to put 10,000 miles of its power lines underground to prevent the kind of wildfires that led the utility to bankruptcy court.",
+      "publication_date": "2021-07-21T20:16:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/21/business/energy-environment/pge-underground-powerlines-wildfires.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "Battle for Power in Haiti Extends to Lobbying in Washington",
+      "snippet": "Rival political figures and interests are doling out big sums to the influence industry to win support from the United States even as problems in Haiti remain unsolved.",
+      "abstract": "Rival political figures and interests are doling out big sums to the influence industry to win support from the United States even as problems in Haiti remain unsolved.",
+      "lead_paragraph": "WASHINGTON — The struggle for power in Haiti after the assassination of the country’s president has spilled onto K Street, where rival Haitian politicians, business leaders and interest groups are turning to lobbyists to wage an expensive and escalating proxy battle for influence with the United States.",
+      "publication_date": "2021-07-21T23:23:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/21/us/politics/haiti-lobbying-washington.html",
+      "byline": "By Kenneth P. Vogel and Natalie Kitroeff"
+    },
+    {
+      "headline": "The 1964 Games Proclaimed a New Japan. There’s Less to Cheer This Time.",
+      "snippet": "The country has changed vastly from that hopeful moment nearly six decades ago, and the Olympics this time around have come to represent something different and not entirely positive.",
+      "abstract": "The country has changed vastly from that hopeful moment nearly six decades ago, and the Olympics this time around have come to represent something different and not entirely positive.",
+      "lead_paragraph": "TOKYO — Under crisp blue skies in October 1964, Emperor Hirohito of Japan stood before a reborn nation to declare the opening of the Tokyo Olympic Games. A voice that the Japanese public had first heard announcing the country’s surrender in World War II now echoed across a packed stadium alive with anticipation.",
+      "publication_date": "2021-07-22T07:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/22/world/asia/tokyo-olympics-1964-2020.html",
+      "byline": "By Motoko Rich, Hikari Hida and Makiko Inoue"
+    },
+    {
+      "headline": "Rising Rents Threaten to Prop Up Inflation",
+      "snippet": "Officials at the Federal Reserve and White House thought fast price gains would pass. Rent increases could make it a slow fade.",
+      "abstract": "Officials at the Federal Reserve and White House thought fast price gains would pass. Rent increases could make it a slow fade.",
+      "lead_paragraph": "Kaitlin Cindrich is facing a $200 monthly increase in rent this August if she and her husband can renew their apartment lease in Provo, Utah. That 25 percent jump is not something she expected, and the 21-year-old fears she may have to skip doctor appointments for her autoimmune disease to keep up with the payments.",
+      "publication_date": "2021-07-22T09:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/22/business/economy/rising-rents-inflation.html",
+      "byline": "By Coral Murphy Marcos, Jeanna Smialek and Jim Tankersley"
+    },
+    {
+      "headline": "Tesla’s Factory Near Berlin Runs Into Activists, Red Tape and Lizards",
+      "snippet": "Elon Musk wanted to tap German engineering expertise, but may have gotten more local culture than he had bargained for.",
+      "abstract": "Elon Musk wanted to tap German engineering expertise, but may have gotten more local culture than he had bargained for.",
+      "lead_paragraph": "GRÜNHEIDE, Germany — The vast pale gray factory with its own exit on the autobahn, surrounded by a pine forest east of Berlin, was supposed to be producing shiny new Teslas by now. Instead it has become a manifestation of what happens when Silicon Valley ambition collides with German procedure.",
+      "publication_date": "2021-07-22T09:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/22/business/tesla-berlin.html",
+      "byline": "By Christopher F. Schuetze and Jack Ewing"
+    },
+    {
+      "headline": "Pulling Levers in Exile, Belarus Opposition Leader Works to Keep Her Influence Alive",
+      "snippet": "As a crackdown widens in her country, Svetlana Tikhanovskaya is trying to build a broad phalanx of Western opposition to a dictatorship that she says is on its “last breaths.”",
+      "abstract": "As a crackdown widens in her country, Svetlana Tikhanovskaya is trying to build a broad phalanx of Western opposition to a dictatorship that she says is on its “last breaths.”",
+      "lead_paragraph": "VILNIUS, Lithuania — She has met Chancellor Angela Merkel of Germany, and President Emmanuel Macron of France. Just this week, she was feted in Washington, where she was received by Secretary of State Antony Blinken.",
+      "publication_date": "2021-07-22T15:21:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/22/world/europe/belarus-opposition-svetlana-tikhanovskaya.html",
+      "byline": "By Valerie Hopkins"
+    }
+  ]
+}

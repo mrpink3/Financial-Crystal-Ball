@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-01-18",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "In London Shops, Greek Cheese, Sicilian Citrus and British Headaches",
+      "snippet": "For companies depending on fast, small deliveries, the costs of new Brexit trade rules are mounting.",
+      "abstract": "For companies depending on fast, small deliveries, the costs of new Brexit trade rules are mounting.",
+      "lead_paragraph": "LONDON — In a warehouse tucked under two railway arches in southeast London is a treasure trove of Greek delicacies, including barrel-aged feta, fresh oregano, Cretan olive oil and cases of nearly a hundred different wines destined for the city’s top restaurants and discerning home cooks. But as Britain phases in Brexit-required customs rules with the European Union, the tempting variety at Maltby & Greek is under threat.",
+      "publication_date": "2022-01-17T17:15:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/17/business/brexit-food-imports.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "The Hostages Escaped. But Synagogues Ask, How Can They Be More Secure?",
+      "snippet": "The hostages whispered instructions and edged closer to the door — part of invaluable training that anxious congregations are using.",
+      "abstract": "The hostages whispered instructions and edged closer to the door — part of invaluable training that anxious congregations are using.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-01-17T19:27:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/17/us/texas-synagogue-hostages-escape.html",
+      "byline": "By Ruth Graham, Jacey Fortin and Troy Closson"
+    },
+    {
+      "headline": "Russia Thins Out Its Embassy in Ukraine, a Possible Clue to Putin’s Next Move",
+      "snippet": "The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three.",
+      "abstract": "The slow evacuation may be part propaganda, part preparation for a conflict or part feint, Ukrainian and U.S. officials say. It could be all three.",
+      "lead_paragraph": "KYIV, Ukraine — The week before intensive diplomatic meetings began over the buildup of Russian troops on the Ukrainian border, American and Ukrainian officials watched from afar as Russia began emptying out its embassy in Kyiv, the Ukrainian capital.",
+      "publication_date": "2022-01-18T00:14:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/17/us/politics/russia-ukraine-kyiv-embassy.html",
+      "byline": "By Michael Schwirtz and David E. Sanger"
+    },
+    {
+      "headline": "In Quest for Energy Independence, Mexico Is Buying a Texas Oil Refinery",
+      "snippet": "President López Obrador wants to halt most oil exports and imports of gasoline and other fuels. Critics say he is reneging on Mexico’s climate change commitments.",
+      "abstract": "President López Obrador wants to halt most oil exports and imports of gasoline and other fuels. Critics say he is reneging on Mexico’s climate change commitments.",
+      "lead_paragraph": "DEER PARK, Texas — Two giant murals, on storage tanks at an oil refinery here, depict the rebels led by Sam Houston who secured Texas’ independence from Mexico in the 1830s. This week those murals will become the property of the Mexican national oil company, which is acquiring full control of the refinery.",
+      "publication_date": "2022-01-18T08:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/18/business/economy/mexico-oil-refinery-texas.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Can Anyone Satisfy Amazon’s Craving for Electric Vans?",
+      "snippet": "The company has big plans to turn its delivery fleet green. But very few of the vehicles are made right now.",
+      "abstract": "The company has big plans to turn its delivery fleet green. But very few of the vehicles are made right now.",
+      "lead_paragraph": "In the fall, Jeff Bezos tweeted praise for Rivian, a start-up under contract to make 100,000 electric delivery vans for Amazon, and its founder, R.J. Scaringe, calling him “one of the greatest entrepreneurs I’ve ever met.”",
+      "publication_date": "2022-01-18T10:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/18/technology/amazon-electric-vans.html",
+      "byline": "By Karen Weise and Neal E. Boudette"
+    },
+    {
+      "headline": "Security Flaws Seen in China’s Mandatory Olympics App for Athletes",
+      "snippet": "Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities.",
+      "abstract": "Researchers said the app, which will store sensitive health data on participants at the Winter Games, has serious encryption vulnerabilities.",
+      "lead_paragraph": "The mandatory smartphone app that athletes will use to report health and travel data when they are in China for the Olympics next month has serious encryption flaws, according to a new report, raising security questions about the systems that Beijing plans to use to track Covid-19 outbreaks.",
+      "publication_date": "2022-01-18T11:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/18/technology/china-olympics-app-security.html",
+      "byline": "By Paul Mozur and Cade Metz"
+    },
+    {
+      "headline": "Exxon Sets a 2050 Goal for Net-Zero Greenhouse Gas Emissions",
+      "snippet": "The target does not account for the climate impact of its customers and suppliers, leaving the company lagging the commitments of some of its rivals.",
+      "abstract": "The target does not account for the climate impact of its customers and suppliers, leaving the company lagging the commitments of some of its rivals.",
+      "lead_paragraph": "HOUSTON — Exxon Mobil, under increasing pressure from investors to address climate change, announced on Tuesday that it had the “ambition” to reach zero net greenhouse gas emissions from its operations by 2050.",
+      "publication_date": "2022-01-18T12:30:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/18/business/exxon-net-zero-emissions.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Microsoft will buy Activision Blizzard, betting $70 billion on the future of games.",
+      "snippet": "With the deal, the largest in the software maker’s history, Microsoft will acquire Activision’s huge pool of users and access to some of the world’s most popular games.",
+      "abstract": "With the deal, the largest in the software maker’s history, Microsoft will acquire Activision’s huge pool of users and access to some of the world’s most popular games.",
+      "lead_paragraph": "SEATTLE — Microsoft plans to buy the powerhouse but troubled video game company Activision Blizzard for nearly $70 billion, its biggest deal ever and one that places a major bet that people will be spending more and more time in the digital world.",
+      "publication_date": "2022-01-18T13:37:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/18/business/microsoft-activision-blizzard.html",
+      "byline": "By Karen Weise, Andrew Ross Sorkin, Kellen Browning and Michael J. de la Merced"
+    }
+  ]
+}

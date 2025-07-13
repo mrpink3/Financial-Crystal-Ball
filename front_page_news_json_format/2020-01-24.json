@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2020-01-24",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "It May Be the Biggest Tax Heist Ever. And Europe Wants Justice.",
+      "snippet": "Stock traders are accused of siphoning $60 billion from state coffers, in a scheme that one called “the devil’s machine.” Germany is the first country to try to get its money back.",
+      "abstract": "Stock traders are accused of siphoning $60 billion from state coffers, in a scheme that one called “the devil’s machine.” Germany is the first country to try to get its money back.",
+      "lead_paragraph": "They made quite a team.",
+      "publication_date": "2020-01-23T17:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/01/23/business/cum-ex.html",
+      "byline": "By David Segal"
+    },
+    {
+      "headline": "How Joe Biden Talks About a Touchy Subject: His Son",
+      "snippet": "As he runs for president, Mr. Biden has repeatedly faced questions about the overseas business dealings of his son, Hunter Biden. He has mostly kept his cool — but not always.",
+      "abstract": "As he runs for president, Mr. Biden has repeatedly faced questions about the overseas business dealings of his son, Hunter Biden. He has mostly kept his cool — but not always.",
+      "lead_paragraph": "SPARKS, Nev. — Joseph R. Biden Jr. called an octogenarian voter a “damn liar” and challenged him to a push-up contest. He dismissed a heckler as an “idiot.” He commanded the news media to focus on President Trump instead of the overseas business dealings of his son, Hunter Biden, demanding of one reporter, “Ask the right question!”",
+      "publication_date": "2020-01-23T18:52:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/23/us/politics/joe-hunter-biden-ukraine.html",
+      "byline": "By Thomas Kaplan and Katie Glueck"
+    },
+    {
+      "headline": "Wells Fargo’s Ex-Chief Fined $17.5 Million Over Fake Accounts",
+      "snippet": "John Stumpf and two other former executives were fined Thursday, and Wells Fargo’s chief federal regulator said it would seek penalties against five others.",
+      "abstract": "John Stumpf and two other former executives were fined Thursday, and Wells Fargo’s chief federal regulator said it would seek penalties against five others.",
+      "lead_paragraph": "When big companies do wrong, it’s rarely the big boss who pays the price.",
+      "publication_date": "2020-01-23T19:06:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/23/business/wells-fargo-ceo-fine.html",
+      "byline": "By Stacy Cowley and Emily Flitter"
+    },
+    {
+      "headline": "China Expands Virus Lockdown, Encircling 35 Million",
+      "snippet": "The new travel restrictions include 12 cities as the death toll climbed to 26. In the epicenter, anxiety prevailed as mistrustful residents crowded into hospitals.",
+      "abstract": "The new travel restrictions include 12 cities as the death toll climbed to 26. In the epicenter, anxiety prevailed as mistrustful residents crowded into hospitals.",
+      "lead_paragraph": "WUHAN, China — The authorities drastically expanded a travel lockdown in central China on Thursday, essentially penning in more than 35 million residents to contain a deadly virus that is overwhelming hospitals and fueling fears of a pandemic.",
+      "publication_date": "2020-01-23T20:46:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/23/world/asia/china-coronavirus-outbreak.html",
+      "byline": "By Chris Buckley and Javier C. Hernández"
+    },
+    {
+      "headline": "Jeff Bezos, Tabloid Man",
+      "snippet": "Just a year ago, the world’s richest man seemed to have a pretty low-key life. Times sure have changed.",
+      "abstract": "Just a year ago, the world’s richest man seemed to have a pretty low-key life. Times sure have changed.",
+      "lead_paragraph": "SEATTLE — When Jeff Bezos and his former wife, MacKenzie, celebrated what would be their last anniversary together around Labor Day 2018, they arrived at a Miami nightclub with no fanfare. His table was booked online, which is “totally what tourists do” and “totally dorky,” the club’s celebrity liaison said in an interview at the time.",
+      "publication_date": "2020-01-23T23:56:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/23/technology/jeff-bezos-tabloids.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "Democrats Seek to Pre-empt Trump’s Defense in Impeachment Trial",
+      "snippet": "The House impeachment managers sought to undercut the central elements of President Trump’s defense, wading into a detailed defense of former Vice President Joseph R. Biden Jr.",
+      "abstract": "The House impeachment managers sought to undercut the central elements of President Trump’s defense, wading into a detailed defense of former Vice President Joseph R. Biden Jr.",
+      "lead_paragraph": "WASHINGTON — House Democrats sought on Thursday to pre-emptively dismantle President Trump’s core defenses in his impeachment trial, invoking his own words to argue that his pressure campaign on Ukraine was an abuse of power that warranted his removal.",
+      "publication_date": "2020-01-24T01:25:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/23/us/politics/democrats-trump-impeachment-trial.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Jeff Bezos’ Hack Inquiry Falls Short of Implicating National Enquirer",
+      "snippet": "The Amazon founder’s investigation did not find evidence to back his suggestion of a link between Saudi Arabia and the tabloid that gleefully exposed his affair.",
+      "abstract": "The Amazon founder’s investigation did not find evidence to back his suggestion of a link between Saudi Arabia and the tabloid that gleefully exposed his affair.",
+      "lead_paragraph": "Almost a year ago, Jeff Bezos hinted that Saudi Arabia had played a role in The National Enquirer’s 11-page exposé of his affair with the Los Angeles television personality Lauren Sanchez. In making the case in a post on the website Medium, Mr. Bezos noted that his newspaper, The Washington Post, had published the Saudi dissident Jamal Khashoggi and had also covered the kingdom’s suspected role in his murder.",
+      "publication_date": "2020-01-24T01:42:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/23/business/media/national-enquirer-jeff-bezos-saudi-hack.html",
+      "byline": "By Jim Rutenberg and Michael Rothfeld"
+    },
+    {
+      "headline": "Now Testifying for the Prosecution: President Trump",
+      "snippet": "Barred so far from presenting witnesses, the House managers prosecuting the president have focused on turning his own words against him.",
+      "abstract": "Barred so far from presenting witnesses, the House managers prosecuting the president have focused on turning his own words against him.",
+      "lead_paragraph": "WASHINGTON — The House managers prosecuting President Trump for high crimes and misdemeanors have failed so far to persuade Senate Republicans to let them call new witnesses in his impeachment trial. But in their own way, they have come up with a star witness they can bring to the floor: Mr. Trump himself.",
+      "publication_date": "2020-01-24T01:54:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/23/us/politics/trump-videos-impeachment-trial.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Building the Perfect Meal With Sheep Lungs and a Suitcase",
+      "snippet": "A federal agency bans the sale of sheep lungs, a key ingredient for Haggis. Lovers of the distinctive Scottish dish have found ways around that.",
+      "abstract": "A federal agency bans the sale of sheep lungs, a key ingredient for Haggis. Lovers of the distinctive Scottish dish have found ways around that.",
+      "lead_paragraph": "Some smugglers drive it across the border from Canada. Others sneak it through airports or send it in the mail, wrapping the contraband in T-shirts and towels to deceive the authorities. A few even make it at home.",
+      "publication_date": "2020-01-24T10:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/24/business/haggis-smuggling.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "London Police Are Taking Surveillance to a Whole New Level",
+      "snippet": "The city, stepping into a debate over privacy, says it will use real-time facial recognition technology “to tackle serious crime.”",
+      "abstract": "The city, stepping into a debate over privacy, says it will use real-time facial recognition technology “to tackle serious crime.”",
+      "lead_paragraph": "LONDON — London’s police department said on Friday that it would begin using facial recognition to spot criminal suspects with video cameras as they walk the streets, adopting a level of surveillance that is rare outside China.",
+      "publication_date": "2020-01-24T12:58:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/24/business/london-police-facial-recognition.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "When the Prince of Wales Is Your Landlord",
+      "snippet": "On England’s southwestern coast, a community built by the Duchy of Cornwall is attracting residents who have bought into Prince Charles’s housing philosophy.",
+      "abstract": "On England’s southwestern coast, a community built by the Duchy of Cornwall is attracting residents who have bought into Prince Charles’s housing philosophy.",
+      "lead_paragraph": "NEWQUAY, England — People who move to Nansledan, a new residential community in the southwestern corner of England, must abide by certain rules.",
+      "publication_date": "2020-01-24T13:28:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/24/business/prince-charles-duchy-cornwall-nansledan.html",
+      "byline": "By Amie Tsang"
+    },
+    {
+      "headline": "A Major Fear for Democrats: Will the Party Come Together by November?",
+      "snippet": "Even the goal of defeating President Trump isn’t enough for some voters to commit to backing the eventual Democratic nominee, expressing a clear aversion to a candidate who is too liberal or centrist for their tastes.",
+      "abstract": "Even the goal of defeating President Trump isn’t enough for some voters to commit to backing the eventual Democratic nominee, expressing a clear aversion to a candidate who is too liberal or centrist for their tastes.",
+      "lead_paragraph": "FORT DODGE, Iowa — Democrats have always represented a cacophonous array of individuals and interests, but the so-called big tent is now stretching over a constituency so unwieldy that it’s easy to understand why voters remain torn this close to Iowa, where no clear front-runner has emerged.",
+      "publication_date": "2020-01-24T15:01:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/24/us/politics/democratic-party-unity-primary.html",
+      "byline": "By Jonathan Martin"
+    }
+  ]
+}

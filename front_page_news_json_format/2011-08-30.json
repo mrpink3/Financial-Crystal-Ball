@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2011-08-30",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "New Worries in Europe Over Pace of Growth",
+      "snippet": "A forecast by Jean-Claude Trichet, the head of Europe’s central bank, indicated that it might not be as willing to raise interest rates.",
+      "abstract": "A forecast by Jean-Claude Trichet, the head of Europe’s central bank, indicated that it might not be as willing to raise interest rates.",
+      "lead_paragraph": "BRUSSELS — Jean-Claude Trichet, the president of the European Central Bank, acknowledged on Monday that growth in the euro zone could be weaker than expected, suggesting that the central bank might be more reluctant to raise interest rates again.",
+      "publication_date": "2011-08-29T18:57:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/30/business/global/ecb-chief-sees-weaker-growth-in-euro-zone.html",
+      "byline": "By James Kanter"
+    },
+    {
+      "headline": "At 35,000 Feet, a Russian Image Problem",
+      "snippet": "The Superjet is modern and has foreign partners, but it is up against perceptions about Russian air safety.",
+      "abstract": "The Superjet is modern and has foreign partners, but it is up against perceptions about Russian air safety.",
+      "lead_paragraph": "MOSCOW — Airlines are a cautious lot, slow to trust a new airplane maker with multibillion-dollar orders and passenger lives. It took Embraer, a Brazilian maker of regional jets, two decades to become a major supplier to the industry.",
+      "publication_date": "2011-08-29T21:38:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/30/business/global/russia-hits-headwinds-in-selling-airliners-to-the-west.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Labor Board’s Exiting Leader Responds to Critics",
+      "snippet": "Wilma B. Liebman, who asked not to be reappointed as chairwoman, said the agency was misunderstood.",
+      "abstract": "Wilma B. Liebman, who asked not to be reappointed as chairwoman, said the agency was misunderstood.",
+      "lead_paragraph": "WASHINGTON — Rarely has a federal agency been attacked with as much vitriol as the National Labor Relations Board now faces.",
+      "publication_date": "2011-08-30T01:20:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/08/30/business/national-labor-boards-leader-leaves-amid-criticism.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Casino Town Puts Its Money on Hispanic Market",
+      "snippet": "In Primm, Nev., on the California border, a chain of casinos has been aggressively courting Latino gamblers, a marketing move that has paid off.",
+      "abstract": "In Primm, Nev., on the California border, a chain of casinos has been aggressively courting Latino gamblers, a marketing move that has paid off.",
+      "lead_paragraph": "PRIMM, Nev. — For decades, a patch of casinos on the western edge of Nevada has relied on geography to lure California gamblers reluctant to drive the extra 45 miles for the glamour and glitz of Las Vegas. ",
+      "publication_date": "2011-08-30T01:36:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/30/us/30primm.html",
+      "byline": "By Jennifer Medina"
+    },
+    {
+      "headline": "China Takes Aim at Rural Influx",
+      "snippet": "Many schools attended by migrants have been destroyed recently, but some parents and administrators view the bulldozing as an exercise in population control.",
+      "abstract": "Many schools attended by migrants have been destroyed recently, but some parents and administrators view the bulldozing as an exercise in population control.",
+      "lead_paragraph": "BEIJING — Xie Zhenqing spent 12 years transforming a collection of ramshackle houses into Red Star, a privately run, low-cost school for 1,400 children of migrants from poor rural areas. It took just a few hours this month for a government-dispatched demolition crew to turn the place into a jagged pile of bricks.",
+      "publication_date": "2011-08-30T01:56:50+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/30/world/asia/30china.html",
+      "byline": "By Andrew Jacobs"
+    },
+    {
+      "headline": "Hurricane Cost Seen as Ranking Among Top Ten",
+      "snippet": "Hurricane Irene will most likely prove to be one of the 10 costliest catastrophes in the nation’s history.",
+      "abstract": "Hurricane Irene will most likely prove to be one of the 10 costliest catastrophes in the nation’s history.",
+      "lead_paragraph": "Hurricane Irene will most likely prove to be one of the 10 costliest catastrophes in the nation’s history, and analysts said that much of the damage might not be covered by insurance because it was caused not by winds but by flooding, which is excluded from many standard policies.",
+      "publication_date": "2011-08-30T13:28:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/31/us/31floods.html",
+      "byline": "By Michael Cooper"
+    },
+    {
+      "headline": "Exxon Reaches Arctic Oil Deal With Russians",
+      "snippet": "Exxon Mobil struck an agreement to explore for oil in a Russian sector of the Arctic Ocean that is opening for drilling in a deal that could grow to $500 billion over time.",
+      "abstract": "Exxon Mobil struck an agreement to explore for oil in a Russian sector of the Arctic Ocean that is opening for drilling in a deal that could grow to $500 billion over time.",
+      "lead_paragraph": "MOSCOW — Exxon Mobil won a coveted prize in the global petroleum industry Tuesday with an agreement to explore for oil in a Russian portion of the Arctic Ocean that is being opened for drilling even as Alaskan waters remain mostly off limits. ",
+      "publication_date": "2011-08-30T14:26:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/08/31/business/global/exxon-and-rosneft-partner-in-russian-oil-deal.html",
+      "byline": "By Andrew E. Kramer"
+    }
+  ]
+}

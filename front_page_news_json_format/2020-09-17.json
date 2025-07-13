@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-09-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Americans Keep Spending, but Growth of Retail Sales Slows",
+      "snippet": "Retail sales climbed 0.6 percent in August, but the increase was smaller than in previous months, prompting concerns of a recovery that is running out of steam.",
+      "abstract": "Retail sales climbed 0.6 percent in August, but the increase was smaller than in previous months, prompting concerns of a recovery that is running out of steam.",
+      "lead_paragraph": "Despite an end to the federal stimulus measures that have propped up consumer spending, retail sales climbed for the fourth straight month in August, extending a bounceback that has lasted longer than many economists had expected.",
+      "publication_date": "2020-09-16T16:57:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/16/business/retail-sales-consumer-spending-rise.html",
+      "byline": "By Michael Corkery and Sapna Maheshwari"
+    },
+    {
+      "headline": "Snowflake More Than Doubles in Debut as Wall Street Embraces Tech IPOs",
+      "snippet": "The data storage company is among several prominent start-ups going public this year as the tech industry thrives in the pandemic.",
+      "abstract": "The data storage company is among several prominent start-ups going public this year as the tech industry thrives in the pandemic.",
+      "lead_paragraph": "SAN FRANCISCO — It’s bonanza time in Silicon Valley and on Wall Street.",
+      "publication_date": "2020-09-16T17:30:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/16/technology/snowflake-tech-ipo.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Fed Pledges Low Rates for Years, and Until Inflation Picks Up",
+      "snippet": "The Federal Reserve’s latest economic forecasts suggest that interest rates will remain near zero at least through 2023.",
+      "abstract": "The Federal Reserve’s latest economic forecasts suggest that interest rates will remain near zero at least through 2023.",
+      "lead_paragraph": "WASHINGTON — Federal Reserve officials expect to leave interest rates near zero for years — through at least 2023 — as they try to coax the economy back to full strength after the pandemic-induced recession, based on their September policy statement and economic projections released Wednesday.",
+      "publication_date": "2020-09-16T18:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/16/business/economy/federal-reserve-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Trump Scorns His Own Scientists Over Virus Data",
+      "snippet": "A public scolding of the C.D.C. chief was only the latest but perhaps the starkest instance when the president has rejected not just the policy advice of his public health officials but the facts and information that they provided.",
+      "abstract": "A public scolding of the C.D.C. chief was only the latest but perhaps the starkest instance when the president has rejected not just the policy advice of his public health officials but the facts and information that they provided.",
+      "lead_paragraph": "WASHINGTON — President Trump on Wednesday rejected the professional scientific conclusions of his own government about the prospects for a widely available coronavirus vaccine and the effectiveness of masks in curbing the spread of the virus as the death toll in the United States from the disease neared 200,000.",
+      "publication_date": "2020-09-17T00:42:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/16/us/politics/trump-cdc-covid-vaccine.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Hurricane Sally Slams the Florida Panhandle With Deluge of Rain",
+      "snippet": "The sluggish storm veered east and intensified before making landfall near the Alabama and Florida state line. Residents and officials said they were not anticipating a direct hit.",
+      "abstract": "The sluggish storm veered east and intensified before making landfall near the Alabama and Florida state line. Residents and officials said they were not anticipating a direct hit.",
+      "lead_paragraph": "PENSACOLA, Fla. — Massive National Guard trucks navigated subdivisions engulfed by raging floodwaters. Hundreds of people were rescued from flooded homes and cars. And on one suburban street, a family of four was found clinging to a tree as the murky brown rainwater unleashed by Hurricane Sally early Wednesday swirled below.",
+      "publication_date": "2020-09-17T00:45:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/16/us/hurricane-sally-landfall.html",
+      "byline": "By Richard Fausset, Rick Rojas and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "A Desperate Bid for Survival as Fire Closed In on an Oregon Mountain Town",
+      "snippet": "After wildfires left them trapped on the shores of a reservoir near Detroit, Ore., dozens of people and nine firefighters mounted a last stand, hoping for a miracle.",
+      "abstract": "After wildfires left them trapped on the shores of a reservoir near Detroit, Ore., dozens of people and nine firefighters mounted a last stand, hoping for a miracle.",
+      "lead_paragraph": "SALEM, Ore. — They were trapped. As walls of fire and smoke encircled their town and blocked the roads, the last people in Detroit, Ore., trickled onto a boat launch beside a half-drained reservoir — residents and vacationers, barefoot children in pajamas, exhausted firefighters. There were two people on bikes. One man rode up on a powerboat.",
+      "publication_date": "2020-09-17T07:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/17/us/fires-oregon-detroit.html",
+      "byline": "By Jack Healy and Mike Baker"
+    },
+    {
+      "headline": "Trump’s Secret Health Plan Is a Promise Voters Have Heard Before",
+      "snippet": "On Tuesday night, President Trump told a town-hall-style meeting he had a health plan to replace the Affordable Care Act that’s “all ready,” a pitch he has delivered for four years.",
+      "abstract": "On Tuesday night, President Trump told a town-hall-style meeting he had a health plan to replace the Affordable Care Act that’s “all ready,” a pitch he has delivered for four years.",
+      "lead_paragraph": "WASHINGTON — When Donald J. Trump first ran for the White House, he promised to “come up with a great health plan,” one that would repeal the Affordable Care Act but replace it with something better while maintaining its biggest selling point: protecting people with pre-existing medical conditions.",
+      "publication_date": "2020-09-17T09:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/17/us/politics/trumps-health-care.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Small Tech Stocks Soar as the Future Arrives Early",
+      "snippet": "The giants aren’t the only ones. A subset of software, streaming, security and e-commerce firms are also posting eye-popping gains.",
+      "abstract": "The giants aren’t the only ones. A subset of software, streaming, security and e-commerce firms are also posting eye-popping gains.",
+      "lead_paragraph": "Fastly is up more than 310 percent this year. Zscaler is up over 180 percent. Chegg and Veeva are up 75 percent and 90 percent. In a tech universe dominated by Apple, Amazon, Microsoft and Google, the share prices of little companies you’ve probably never heard of are soaring.",
+      "publication_date": "2020-09-17T09:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/17/business/small-tech-stocks-coronavirus.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Why French Politicians Can’t Stop Talking About Crime",
+      "snippet": "Statistics show a steady decline in major crimes. But what has intensified are the challenges to France’s traditional national identity, and the jockeying in the race to be the next president.",
+      "abstract": "Statistics show a steady decline in major crimes. But what has intensified are the challenges to France’s traditional national identity, and the jockeying in the race to be the next president.",
+      "lead_paragraph": "PARIS — In the Babel Tower of French politics, everyone agrees at least on this: Crime is out of control.",
+      "publication_date": "2020-09-17T09:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/17/world/europe/france-crime.html",
+      "byline": "By Norimitsu Onishi and Constant Méheut"
+    },
+    {
+      "headline": "Unable to Pay Rent, Small Businesses Hope for a Deal With Their Landlord",
+      "snippet": "Months of pandemic-related closures have left many business owners too deeply in debt to survive without concessions or deferrals.",
+      "abstract": "Months of pandemic-related closures have left many business owners too deeply in debt to survive without concessions or deferrals.",
+      "lead_paragraph": "In March, when the Boston restaurateur Garrett Harker and his partners shut down their seven restaurants after Massachusetts issued lockdown orders, Mr. Harker assumed the closures would be painful but temporary.",
+      "publication_date": "2020-09-17T09:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/17/business/small-business-rent-landlord.html",
+      "byline": "By Stacy Cowley"
+    }
+  ]
+}

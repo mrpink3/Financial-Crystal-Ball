@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2012-05-15",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Slowly, as Student Debt Rises, Colleges Confront Costs",
+      "snippet": "With the balance of student debt topping $1 trillion, college presidents are recognizing that they must handle the costs of education through methods other than tuition increases.",
+      "abstract": "With the balance of student debt topping $1 trillion, college presidents are recognizing that they must handle the costs of education through methods other than tuition increases.",
+      "lead_paragraph": "COLUMBUS, Ohio — In a wood-paneled office lined with books, sports memorabilia and framed posters (including John Belushi in “Animal House”), E. Gordon Gee, the president of Ohio State University, keeps a framed quotation that reads, “If you don’t like change, you’re going to like irrelevance even less.”",
+      "publication_date": "2012-05-14T16:46:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/15/business/colleges-begin-to-confront-higher-costs-and-students-debt.html",
+      "byline": "By Andrew Martin"
+    },
+    {
+      "headline": "Fiscal Woes Boomerang for Brown in California",
+      "snippet": "By now, Gov. Jerry Brown had hoped to have dispensed with huge budget shortfalls, not be facing another one.",
+      "abstract": "By now, Gov. Jerry Brown had hoped to have dispensed with huge budget shortfalls, not be facing another one.",
+      "lead_paragraph": "LOS ANGELES — By this point in his tenure, Gov. Jerry Brown had hoped to have dispensed with the huge budget shortfalls that greeted him when he took office. Yet on Monday, there was Mr. Brown in a familiar, if uncomfortable, position: calling for severe spending cuts, this time to deal with a new $15.7 billion shortfall.",
+      "publication_date": "2012-05-14T18:52:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/15/us/brown-proposes-8-3-billion-in-cuts-for-california.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Facebook’s Prospects May Rest on Trove of Data",
+      "snippet": "As the company goes public, it has to figure out how to use its vault of information to enrich its shareholders.",
+      "abstract": "As the company goes public, it has to figure out how to use its vault of information to enrich its shareholders.",
+      "lead_paragraph": "SAN FRANCISCO — Mark Zuckerberg, Facebook’s chief, has managed to amass more information about more people than anyone else in history. ",
+      "publication_date": "2012-05-14T22:15:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/15/technology/facebook-needs-to-turn-data-trove-into-investor-gold.html",
+      "byline": "By Somini Sengupta"
+    },
+    {
+      "headline": "Syrians Defy Leaders to Aid Those in Need",
+      "snippet": "An increasingly organized underground network is providing food and medicine to people trapped by the offensive of President Bashar al-Assad’s government.",
+      "abstract": "An increasingly organized underground network is providing food and medicine to people trapped by the offensive of President Bashar al-Assad’s government.",
+      "lead_paragraph": "DAMASCUS, Syria — For 48 hours, the two Damascus residents struggled to reach the besieged city of Homs by car, trying to deliver boxes of blood bags so surgeons there could operate on the wounded. But gunfire made the roads impassable.",
+      "publication_date": "2012-05-15T00:39:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/15/world/middleeast/syria-aid-movement-defies-assad-government.html",
+      "byline": "By The New York Times"
+    },
+    {
+      "headline": "Deadliest Danger Isn’t at the Rig but on the Road",
+      "snippet": "Highway crashes are the largest cause of fatalities in the oil industry, partly because of safety exemptions that allow truckers to work longer hours than other drivers.",
+      "abstract": "Highway crashes are the largest cause of fatalities in the oil industry, partly because of safety exemptions that allow truckers to work longer hours than other drivers.",
+      "lead_paragraph": "After working 17 hours straight at a natural gas well in Ohio, Timothy Roth and three other crew members climbed into their company truck around 10 o’clock one night last July and began their four-hour drive back to their drilling service company’s shop in West Virginia.",
+      "publication_date": "2012-05-15T01:25:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/15/us/for-oil-workers-deadliest-danger-is-driving.html",
+      "byline": "By Ian Urbina"
+    },
+    {
+      "headline": "Top Murdoch Aide Is Charged in Hacking Case",
+      "snippet": "Rebekah Brooks, the former chief executive of Rupert Murdoch’s newspaper outpost in Britain, and five others were charge with conspiring to pervert the course of justice in the case.",
+      "abstract": "Rebekah Brooks, the former chief executive of Rupert Murdoch’s newspaper outpost in Britain, and five others were charge with conspiring to pervert the course of justice in the case.",
+      "lead_paragraph": "LONDON — Rebekah Brooks, the former head of Rupert Murdoch’s British newspaper empire and a close friend of Prime Minister David Cameron, was formally charged on Tuesday, along with her husband and four others, with perverting the course of justice in the phone hacking scandal that has burrowed deeply into British public life.",
+      "publication_date": "2012-05-15T08:32:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/16/world/europe/rebekah-brooks-to-learn-if-she-will-face-charges.html",
+      "byline": "By John F. Burns and Alan Cowell"
+    }
+  ]
+}

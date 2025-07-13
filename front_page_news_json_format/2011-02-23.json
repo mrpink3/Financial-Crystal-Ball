@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2011-02-23",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "U.S. Sales At Wal-Mart Show Decline",
+      "snippet": "Same-store sales dropped 1.8 percent, the seventh consecutive quarterly decline.",
+      "abstract": "Same-store sales dropped 1.8 percent, the seventh consecutive quarterly decline.",
+      "lead_paragraph": "As the Christmas season approached, Wal-Mart Stores said it was fixing the problems in its United States division. It hired new executives, added merchandise that it had cut, and fought with Target and other competitors to provide the lowest prices over the holidays. ",
+      "publication_date": "2011-02-22T16:52:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/23/business/economy/23shop.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Oil Soars as Libyan Furor Shakes Markets",
+      "snippet": "Turmoil in the Arab world drove oil prices higher and stocks lower despite efforts by Saudi Arabia to calm turbulent markets.",
+      "abstract": "Turmoil in the Arab world drove oil prices higher and stocks lower despite efforts by Saudi Arabia to calm turbulent markets.",
+      "lead_paragraph": "HOUSTON  The political turmoil sweeping the Arab world drove oil prices sharply higher and stocks much lower on Tuesday despite efforts by Saudi Arabia to calm turbulent markets. ",
+      "publication_date": "2011-02-22T19:56:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/23/business/global/23oil.html",
+      "byline": "By Clifford Krauss and Christine Hauser"
+    },
+    {
+      "headline": "Workers Sickened at Apple Supplier in China",
+      "snippet": "The company said it ordered a contractor to stop using a toxic chemical in making iPhone screens, but workers say they were pushed to quit.",
+      "abstract": "The company said it ordered a contractor to stop using a toxic chemical in making iPhone screens, but workers say they were pushed to quit.",
+      "lead_paragraph": "SUZHOU, China  Last week, when Apple released its annual review of labor conditions at its global suppliers, one startling revelation stood out: 137 workers at a factory here had been seriously injured by a toxic chemical used in making the signature slick glass screens of the iPhone.",
+      "publication_date": "2011-02-22T21:19:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/23/technology/23apple.html",
+      "byline": "By David Barboza"
+    },
+    {
+      "headline": "Why Budget Cuts Don’t Bring Prosperity",
+      "snippet": "Germany’s austerity has failed, yet many American lawmakers insist that cuts are the path to prosperity.",
+      "abstract": "Germany’s austerity has failed, yet many American lawmakers insist that cuts are the path to prosperity.",
+      "lead_paragraph": "Washington",
+      "publication_date": "2011-02-23T00:33:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/23/business/economy/23leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Bank Closings Tilt Toward Poor Areas",
+      "snippet": "Even as banks shut branches in poorer areas last year, they continued to expand in wealthier neighborhoods, an analysis of government data shows.",
+      "abstract": "Even as banks shut branches in poorer areas last year, they continued to expand in wealthier neighborhoods, an analysis of government data shows.",
+      "lead_paragraph": "Until it closed its doors in December, the Ohio Savings Bank branch on North Moreland Boulevard was a neighborhood anchor in Cleveland, midway between the mansions of Shaker Heights and the ramshackle bungalows of the city’s east side. Now it sits boarded up, a victim not only of Cleveland’s economic troubles but also of a broader trend of bank branch closings that is falling more heavily on low- and moderate-income neighborhoods across the country. ",
+      "publication_date": "2011-02-23T00:35:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/23/business/23banks.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Emanuel Triumphs in Chicago Mayoral Race",
+      "snippet": "Rahm Emanuel was elected mayor of Chicago, which will mark a new path for a city that has, for 22 years, been led by Richard M. Daley.",
+      "abstract": "Rahm Emanuel was elected mayor of Chicago, which will mark a new path for a city that has, for 22 years, been led by Richard M. Daley.",
+      "lead_paragraph": "CHICAGO  Rahm Emanuel, a former congressman who worked for two presidents, was elected mayor of Chicago on Tuesday, marking a new path for a city that has, for 22 years, been led by a singular, powerful force, Richard M. Daley.",
+      "publication_date": "2011-02-23T02:22:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/23/us/chicago-mayor-election.html",
+      "byline": "By MONICA DAVEY and EMMA GRAVES FITZSIMMONS"
+    },
+    {
+      "headline": "Qaddafi Massing Forces in Tripoli as Rebellion Spreads",
+      "snippet": "Libya’s leader called on mercenaries and irregular security forces to defend Tripoli, in what some took as a sign that the uprising might be entering a decisive stage.",
+      "abstract": "Libya’s leader called on mercenaries and irregular security forces to defend Tripoli, in what some took as a sign that the uprising might be entering a decisive stage.",
+      "lead_paragraph": "BAIDA, Libya  As rebellion crept closer to the capital and defections of military officers multiplied, Col. Muammar el-Qaddafi called on thousands of mercenaries and irregular security forces on Wednesday to defend his bastion in Tripoli, in what residents said was a desperate and dangerous turn in the week-old uprising. ",
+      "publication_date": "2011-02-23T09:11:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/24/world/africa/24libya.html",
+      "byline": "By Kareem Fahim and David D. Kirkpatrick"
+    }
+  ]
+}

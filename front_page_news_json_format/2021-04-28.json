@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-04-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Epicurious Has a Beef With Beef",
+      "snippet": "The popular cooking website will not publish new beef recipes over concerns about climate change. “We think of this decision as not anti-beef but rather pro-planet,” an article said.",
+      "abstract": "The popular cooking website will not publish new beef recipes over concerns about climate change. “We think of this decision as not anti-beef but rather pro-planet,” an article said.",
+      "lead_paragraph": "Could an empire of the kitchen quietly stop cooking with beef and leave no one the wiser?",
+      "publication_date": "2021-04-27T17:30:02+0000",
+      "section_name": "Food",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/27/dining/epicurious-beef.html",
+      "byline": "By Derrick Bryson Taylor and Christina Morales"
+    },
+    {
+      "headline": "How Gavin Newsom Landed in a California Jam",
+      "snippet": "The campaign to recall the state’s governor shows that even a one-party stronghold like California can be rocked by the nation’s political polarization.",
+      "abstract": "The campaign to recall the state’s governor shows that even a one-party stronghold like California can be rocked by the nation’s political polarization.",
+      "lead_paragraph": "SACRAMENTO — For all the controversies and Covid-19 crises that now have Gov. Gavin Newsom of California facing a historic recall election, it was a pair of prosaic events on Nov. 6 — a court hearing and a dinner — that led to the current political instability that will grip the state for months to come.",
+      "publication_date": "2021-04-27T21:30:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/27/us/politics/gavin-newsom-recall-california.html",
+      "byline": "By Shawn Hubler and Jennifer Medina"
+    },
+    {
+      "headline": "C.D.C. Eases Outdoor Mask Guidance for Vaccinated Americans",
+      "snippet": "“Go get the shot,” President Biden declared Tuesday, hailing an easing of federal guidance on outdoor mask wearing as a step toward post-pandemic normalcy.",
+      "abstract": "“Go get the shot,” President Biden declared Tuesday, hailing an easing of federal guidance on outdoor mask wearing as a step toward post-pandemic normalcy.",
+      "lead_paragraph": "WASHINGTON — The Centers for Disease Control and Prevention took a major step on Tuesday toward coaxing Americans into a post-pandemic world, relaxing the rules on mask wearing outdoors as coronavirus cases recede and people increasingly chafe against restrictions.",
+      "publication_date": "2021-04-27T23:38:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/27/us/politics/coronavirus-masks-outdoors.html",
+      "byline": "By Sheryl Gay Stolberg and Roni Caryn Rabin"
+    },
+    {
+      "headline": "How Long Can the Afghan Security Forces Last on Their Own?",
+      "snippet": "As the United States withdraws from Afghanistan, it leaves behind broken and battered Afghan security forces to defend the country from the Taliban and other threats.",
+      "abstract": "As the United States withdraws from Afghanistan, it leaves behind broken and battered Afghan security forces to defend the country from the Taliban and other threats.",
+      "lead_paragraph": "MAZAR-I-SHARIF, Afghanistan — The Taliban attack on a police outpost at the edge of the city began at dusk, with the muted chatter of machine-gun fire and the thud of explosions. The men under attack radioed Capt. Mohammed Fawad Saleh at his headquarters, several miles away, desperate for help.",
+      "publication_date": "2021-04-28T07:00:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/28/world/asia/afghanistan-security-forces.html",
+      "byline": "By Thomas Gibbons-Neff, Najim Rahim and C. J. Chivers"
+    },
+    {
+      "headline": "As Economy Rebounds, Manufacturers Face New Hurdles",
+      "snippet": "U.S. factories are humming again. But the recovery’s speed has left many employers scrambling for workers or for parts.",
+      "abstract": "U.S. factories are humming again. But the recovery’s speed has left many employers scrambling for workers or for parts.",
+      "lead_paragraph": "Matt Guse would hire a dozen machinists — if only he could find them.",
+      "publication_date": "2021-04-28T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/28/business/economy/factories-manufacturing-economy.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "California Is Awash in Cash, Thanks to a Booming Market",
+      "snippet": "In a single year, the state’s financial outlook has gone from surplus to deficit to surplus as capital gains tax collections have risen amid a soaring stock market and I.P.O. boom.",
+      "abstract": "In a single year, the state’s financial outlook has gone from surplus to deficit to surplus as capital gains tax collections have risen amid a soaring stock market and I.P.O. boom.",
+      "lead_paragraph": "As the pandemic raged last May, California was reeling. Spending on unemployment assistance and health care had jumped, while tax revenues were on the verge of cratering. State officials, just months earlier counting on a $5.6 billion budget surplus, now anticipated a $54 billion shortfall. Severe cuts would be needed, making an already frightening recession even worse.",
+      "publication_date": "2021-04-28T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/28/business/california-budget-stock-market.html",
+      "byline": "By Matt Phillips"
+    }
+  ]
+}

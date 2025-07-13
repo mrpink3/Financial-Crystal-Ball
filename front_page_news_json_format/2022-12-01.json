@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2022-12-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Who Made Your World Cup Jersey?",
+      "snippet": "Garment workers in Myanmar earn less than $3 a day to produce soccer apparel for Adidas. Some say they were fired after asking factory owners for a raise.",
+      "abstract": "Garment workers in Myanmar earn less than $3 a day to produce soccer apparel for Adidas. Some say they were fired after asking factory owners for a raise.",
+      "lead_paragraph": "As the World Cup in Qatar kicked off last week, millions of fans pulled on jerseys costing $90 to $150 that were sold by Nike and Adidas, the official outfitter of this year’s tournament. Players, wearing new, brightly colored uniforms, slipped into shiny cleats and shoes that can retail for more than $200.",
+      "publication_date": "2022-12-01T05:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/01/business/world-cup-myanmar-adidas-wages.html",
+      "byline": "By Elizabeth Paton"
+    },
+    {
+      "headline": "How the Collapse of Sam Bankman-Fried’s Crypto Empire Has Disrupted A.I.",
+      "snippet": "Mr. Bankman-Fried and his colleagues spent more than $530 million to battle what they saw as the dangers of artificial intelligence. Now those efforts are reeling.",
+      "abstract": "Mr. Bankman-Fried and his colleagues spent more than $530 million to battle what they saw as the dangers of artificial intelligence. Now those efforts are reeling.",
+      "lead_paragraph": "SAN FRANCISCO — In April, a San Francisco artificial intelligence lab called Anthropic raised $580 million for research involving “A.I. safety.”",
+      "publication_date": "2022-12-01T10:00:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "California Panel Sizes Up Reparations for Black Citizens",
+      "snippet": "The state is undertaking the nation’s most ambitious effort so far to compensate for the economic legacy of slavery and racism.",
+      "abstract": "The state is undertaking the nation’s most ambitious effort so far to compensate for the economic legacy of slavery and racism.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-12-01T10:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/01/business/economy/california-black-reparations.html",
+      "byline": "By Kurtis Lee"
+    },
+    {
+      "headline": "After Xi’s Coronation, a Roar of Discontent Against His Hard-Line Politics",
+      "snippet": "Protests in China have roused a tradition of dissent that had seemed spent after 10 years under Xi Jinping. The effects may far outlast the street clashes.",
+      "abstract": "Protests in China have roused a tradition of dissent that had seemed spent after 10 years under Xi Jinping. The effects may far outlast the street clashes.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-12-01T10:51:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/01/world/asia/china-covid-protests-xi-jinping.html",
+      "byline": "By Chris Buckley"
+    },
+    {
+      "headline": "The Fed’s Preferred Inflation Gauge Slowed in October",
+      "snippet": "A measure of inflation that the Federal Reserve watches most closely is showing signs of moderation, though price gains still remain too fast for comfort.",
+      "abstract": "A measure of inflation that the Federal Reserve watches most closely is showing signs of moderation, though price gains still remain too fast for comfort.",
+      "lead_paragraph": "Inflation showed welcome signs of slowing in October, but it remained uncomfortably rapid even as a spate of economic data underscored that a return to normal price increases could take time.",
+      "publication_date": "2022-12-01T13:36:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/01/business/inflation-federal-reserve.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-12-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In Struggle for National Identity, Iraqis Rally Around Many Flags",
+      "snippet": "For the new government in Baghdad, promoting a new sense of national unity is a challenge as great as battling the Islamic State.",
+      "abstract": "For the new government in Baghdad, promoting a new sense of national unity is a challenge as great as battling the Islamic State.",
+      "lead_paragraph": "BAGHDAD — At checkpoints across Baghdad, soldiers have defied a recent order from the prime minister to remove Shiite religious flags and replace them with Iraqi ones. At schools in the northern city of Kirkuk, students have raised Kurdish flags. And in the southern port city of Basra angry citizens have designed their own flag, anchored by the image of a single drop of oil.",
+      "publication_date": "2014-12-22T17:34:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/12/23/world/middleeast/iraqis-rally-around-many-flags-as-a-national-identity-falters.html",
+      "byline": "By Tim Arango"
+    },
+    {
+      "headline": "North Korea Loses Its Link to the Internet",
+      "snippet": "While perhaps a coincidence, the failure, which lasted about 10 hours, began after President Obama said the U.S. would respond to an act of “cybervandalism” against Sony Pictures.",
+      "abstract": "While perhaps a coincidence, the failure, which lasted about 10 hours, began after President Obama said the U.S. would respond to an act of “cybervandalism” against Sony Pictures.",
+      "lead_paragraph": "SAN FRANCISCO — A strange thing happened to North Korea’s already tenuous link to the Internet on Monday: It failed. ",
+      "publication_date": "2014-12-22T18:41:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/12/23/world/asia/attack-is-suspected-as-north-korean-internet-collapses.html",
+      "byline": "By Nicole Perlroth and David E. Sanger"
+    },
+    {
+      "headline": "Group Sues Aetna, Claiming Discrimination Against H.I.V. Patients",
+      "snippet": "Consumer Watchdog says a new policy requiring patients to obtain drugs by mail order violates the federal health care law.",
+      "abstract": "Consumer Watchdog says a new policy requiring patients to obtain drugs by mail order violates the federal health care law.",
+      "lead_paragraph": "A consumer group has sued the health insurer Aetna, claiming that it discriminated against patients with H.I.V. when it required them to obtain medications exclusively through its own mail-order pharmacy.",
+      "publication_date": "2014-12-22T21:22:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/12/23/business/group-sues-aetna-claiming-discrimination-against-hiv-patients.html",
+      "byline": "By Katie Thomas"
+    },
+    {
+      "headline": "Union Leaders Attacked at Bangladesh Garment Factories, Investigations Show",
+      "snippet": "In response to the assaults, two major apparel companies are ending or suspending orders with the Azim Group, which owns the two factories where they occurred.",
+      "abstract": "In response to the assaults, two major apparel companies are ending or suspending orders with the Azim Group, which owns the two factories where they occurred.",
+      "lead_paragraph": "The garment factory’s closed-circuit camera captured some unusual activity: Out front a female union leader was swarmed by people, pushed to the ground and assaulted while a male union activist was chased away and punched.",
+      "publication_date": "2014-12-22T23:06:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/12/23/business/international/attacks-on-union-leaders-at-azim-factories-in-bangladesh-are-documented.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Natural Gas Glut Isn’t Deterring Southwestern Energy",
+      "snippet": "Southwestern, the No. 4 domestic producer of natural gas, is developing over 400,000 acres of reserves in the shale fields of West Virginia and Pennsylvania.",
+      "abstract": "Southwestern, the No. 4 domestic producer of natural gas, is developing over 400,000 acres of reserves in the shale fields of West Virginia and Pennsylvania.",
+      "lead_paragraph": "WONDERVIEW, Ark. — Across the giant Fayetteville shale gas field here, country roads that were clogged by truck traffic just a few years ago are empty again. Once aglow at night from the bright lights twinkling on drilling rigs, the roads are now dark under the starry Arkansas sky.",
+      "publication_date": "2014-12-22T23:39:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/12/23/business/energy-environment/natural-gas-glut-isnt-deterring-southwestern-energy.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Yellen’s First Year at Fed: A Remarkably Steady Course",
+      "snippet": "Though Janet L. Yellen’s approach at the Federal Reserve has hewed closely to her predecessor’s, central bank officials and outside experts expect changes next year.",
+      "abstract": "Though Janet L. Yellen’s approach at the Federal Reserve has hewed closely to her predecessor’s, central bank officials and outside experts expect changes next year.",
+      "lead_paragraph": "WASHINGTON — In her first speech as chairwoman of the Federal Reserve, Janet L. Yellen told the stories of three people looking for work.",
+      "publication_date": "2014-12-23T00:24:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/12/23/business/economy/yellens-first-year-at-fed-a-remarkably-steady-course.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Neglected Server Provided Entry for JPMorgan Hackers",
+      "snippet": "The weak spot at JPMorgan appears to have been a fairly simple two-step password system that was neglected.",
+      "abstract": "The weak spot at JPMorgan appears to have been a fairly simple two-step password system that was neglected.",
+      "lead_paragraph": "The computer breach at JPMorgan Chase this summer — the largest intrusion of an American bank to date — might have been thwarted if the bank had installed a simple security fix to an overlooked server in its vast network, said people who have been briefed on internal and outside investigations into the attack.",
+      "publication_date": "2014-12-23T01:41:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/12/22/entry-point-of-jpmorgan-data-breach-is-identified/",
+      "byline": "By Matthew Goldstein, Nicole Perlroth and Michael Corkery"
+    },
+    {
+      "headline": "A Gender Gap More Powerful Than the Internet ",
+      "snippet": "Instead of narrowing gender gaps, the technology industry created vast new ones for Stanford University’s pioneering class of 1994.",
+      "abstract": "Instead of narrowing gender gaps, the technology industry created vast new ones for Stanford University’s pioneering class of 1994.",
+      "lead_paragraph": "PALO ALTO, Calif. — In the history of American higher education, it is hard to top the luck and timing of the Stanford class of 1994, whose members arrived on campus barely aware of what an email was, and yet grew up to help teach the rest of the planet to shop, send money, find love and navigate an ever-expanding online universe.",
+      "publication_date": "2014-12-23T13:09:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/12/23/us/stanfords-women-won-just-a-sliver-of-silicon-valley-.html",
+      "byline": "By Jodi Kantor"
+    },
+    {
+      "headline": "Economic Vital Signs in 3rd Quarter Were Strongest in a Decade",
+      "snippet": "The Commerce Department revised its summer growth figures to 5 percent, bolstered by robust spending by businesses and consumers.",
+      "abstract": "The Commerce Department revised its summer growth figures to 5 percent, bolstered by robust spending by businesses and consumers.",
+      "lead_paragraph": "The American economy grew last quarter at its fastest rate in over a decade, providing the strongest evidence to date that the recovery is finally gaining sustained power more than five years after it began.",
+      "publication_date": "2014-12-23T15:03:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/12/24/business/us-q3-gdp-revised-up-to-5-percent.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "In Israel, Antitrust Regulator Reviews Natural Gas Development",
+      "snippet": "Officials expressed concerns that Noble Energy, a Houston-based company, and its partners have a monopoly on the sector.",
+      "abstract": "Officials expressed concerns that Noble Energy, a Houston-based company, and its partners have a monopoly on the sector.",
+      "lead_paragraph": "LONDON — Israel’s fledgling natural gas industry was rattled on Tuesday over a threat by the country’s antitrust regulator to break an American-Israeli group’s hold on the country’s gas resources.",
+      "publication_date": "2014-12-23T15:26:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/12/24/business/international/in-israel-antitrust-regulator-reviews-natural-gas-development.html",
+      "byline": "By Stanley Reed"
+    }
+  ]
+}

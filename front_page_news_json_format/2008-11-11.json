@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2008-11-11",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Starbucks Profit Down Sharply on Restructuring Costs",
+      "snippet": "The coffee chain attributed the fourth-quarter drop to the costs of closing underperforming stores and also falling sales.",
+      "abstract": "The coffee chain attributed the fourth-quarter drop to the costs of closing underperforming stores and also falling sales.",
+      "lead_paragraph": "SAN FRANCISCO  Starbucks, the global coffee chain, was built by a generation of coffee drinkers who regularly rewarded themselves with a small daily luxury. ",
+      "publication_date": "2008-11-10T21:33:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/11/business/11sbux.html",
+      "byline": "By Brad Stone"
+    },
+    {
+      "headline": "For South, a Waning Hold on National Politics",
+      "snippet": "The pattern of support for Barack Obama may signify that the centrality of the South to national politics has come to an end.",
+      "abstract": "The pattern of support for Barack Obama may signify that the centrality of the South to national politics has come to an end.",
+      "lead_paragraph": "VERNON, Ala. — Fear of the politician with the unusual name and look did not end with last Tuesday’s vote in this rural red swatch where buck heads and rifles hang on the wall. This corner of the Deep South still resonates with negative feelings about the race of President-elect Barack Obama.",
+      "publication_date": "2008-11-11T02:16:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/11/us/politics/11south.html",
+      "byline": "By Adam Nossiter"
+    },
+    {
+      "headline": "Sparring Starts as Republicans Ponder Future",
+      "snippet": "Republicans are debating how to position themselves ideologically and how aggressively to take on the new Democratic president.",
+      "abstract": "Republicans are debating how to position themselves ideologically and how aggressively to take on the new Democratic president.",
+      "lead_paragraph": "WASHINGTON  One week after the Republicans were routed in the presidential election, the fight is on over who will be the new leaders of the party. Republicans are debating how to position themselves ideologically and how aggressively to take on President-elect Barack Obama.",
+      "publication_date": "2008-11-11T02:51:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/11/us/politics/11repubs.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "A Town Drowns in Debt as Home Values Plunge",
+      "snippet": "Almost 90 percent of homeowners in Mountain House, Calif., owe more on their mortgages than their houses are worth.",
+      "abstract": "Almost 90 percent of homeowners in Mountain House, Calif., owe more on their mortgages than their houses are worth.",
+      "lead_paragraph": "MOUNTAIN HOUSE, Calif.  This town, 59 feet above sea level, is the most underwater community in America.",
+      "publication_date": "2008-11-11T02:52:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/11/business/11home.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Pakistanis Mired in Brutal Battle to Oust Taliban",
+      "snippet": "In a vital corridor to Afghanistan, the Taliban has proven far more resilient than the Pakistani Army anticipated.",
+      "abstract": "In a vital corridor to Afghanistan, the Taliban has proven far more resilient than the Pakistani Army anticipated.",
+      "lead_paragraph": "LOE SAM, Pakistan  When Pakistan’s army retook this strategic stronghold from the Taliban last month, it discovered how deeply Islamic militants had encroached on  and literally dug into  Pakistani territory.",
+      "publication_date": "2008-11-11T02:56:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/11/world/asia/11pstan.html",
+      "byline": "By Jane Perlez and Pir Zubair Shah"
+    },
+    {
+      "headline": "A.I.G. Secures $150 Billion Assistance Package",
+      "snippet": "A central component of the new package will be an effort to stop the collateral calls that have been rapidly draining A.I.G.’s cash.",
+      "abstract": "A central component of the new package will be an effort to stop the collateral calls that have been rapidly draining A.I.G.’s cash.",
+      "lead_paragraph": "The American International Group said on Monday that it lost almost $25 billion in the third quarter and had secured a new $150 billion government assistance package intended to stem the bleeding from its complex financial contracts. ",
+      "publication_date": "2008-11-11T02:56:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/11/business/11insure.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Obama Asks Bush to Provide Help for Automakers",
+      "snippet": "President Bush indicated he might support the aid if Democrats dropped their opposition to a free-trade pact with Colombia.",
+      "abstract": "President Bush indicated he might support the aid if Democrats dropped their opposition to a free-trade pact with Colombia.",
+      "lead_paragraph": "WASHINGTON  The struggling auto industry was thrust into the middle of a political standoff between the White House and Democrats on Monday as President-elect Barack Obama urged President Bush in a meeting at the White House to support immediate emergency aid.",
+      "publication_date": "2008-11-11T03:02:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/11/us/politics/11auto.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Why Obama May Assent to Deals",
+      "snippet": "The conventional wisdom is that large mergers and acquisitions would be tougher under an Obama administration than they have been under President Bush. But some experts disagree.",
+      "abstract": "The conventional wisdom is that large mergers and acquisitions would be tougher under an Obama administration than they have been under President Bush. But some experts disagree.",
+      "lead_paragraph": "“Antitrust theory is theoretical. Losing jobs and plants is real.” ",
+      "publication_date": "2008-11-11T03:06:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/11/business/11sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    }
+  ]
+}

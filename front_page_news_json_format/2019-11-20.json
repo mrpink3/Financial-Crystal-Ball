@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2019-11-20",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "What Is End-to-End Encryption? Another Bull’s-Eye on Big Tech",
+      "snippet": "After years of on-and-off debate over nearly snoop-proof security, the industry is girding for new pressure from law enforcement around the world.",
+      "abstract": "After years of on-and-off debate over nearly snoop-proof security, the industry is girding for new pressure from law enforcement around the world.",
+      "lead_paragraph": "SAN FRANCISCO — A Justice Department official hinted on Monday that a yearslong fight over encrypted communications could become part of a sweeping investigation of big tech companies.",
+      "publication_date": "2019-11-19T18:42:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/19/technology/end-to-end-encryption.html",
+      "byline": "By Nicole Perlroth"
+    },
+    {
+      "headline": "PG&E Struggles to Find a Way Out of Bankruptcy",
+      "snippet": "California’s largest utility needs to reach a settlement with victims of wildfires and other creditors while fending off calls for a state takeover.",
+      "abstract": "California’s largest utility needs to reach a settlement with victims of wildfires and other creditors while fending off calls for a state takeover.",
+      "lead_paragraph": "After an autumn marked by mass blackouts and wildfires, Pacific Gas & Electric is racing to craft a plan to escape bankruptcy. That plan needs to satisfy fire victims and state officials who are threatening to take over PG&E, California’s largest utility, unless executives improve its safety record.",
+      "publication_date": "2019-11-19T19:42:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/19/business/energy-environment/pge-bankruptcy-blackout.html",
+      "byline": "By Lauren Hepler, Peter Eavis and Ivan Penn"
+    },
+    {
+      "headline": "Officials Testify Trump Call Was Inappropriate; One ‘Couldn’t Believe’ It",
+      "snippet": "In the second week of impeachment hearings, White House national security aides recalled their concerns after the president’s conversation with his Ukrainian counterpart.",
+      "abstract": "In the second week of impeachment hearings, White House national security aides recalled their concerns after the president’s conversation with his Ukrainian counterpart.",
+      "lead_paragraph": "WASHINGTON — Two White House national security officials testified before the House’s impeachment inquiry on Tuesday that President Trump’s request to Ukraine’s president to investigate Democratic rivals was inappropriate, and one of them said it validated his “worst fear” that American policy toward that country would veer off course.",
+      "publication_date": "2019-11-19T21:03:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/19/us/politics/trump-impeachment-hearing-testimony.html",
+      "byline": "By Nicholas Fandos and Michael D. Shear"
+    },
+    {
+      "headline": "A White House Now ‘Cannibalizing Itself’",
+      "snippet": "Even for a president who rarely spares the rhetorical howitzer, this was something new.",
+      "abstract": "Even for a president who rarely spares the rhetorical howitzer, this was something new.",
+      "lead_paragraph": "WASHINGTON — As Lt. Col. Alexander S. Vindman sat in a stately chamber testifying on Tuesday, the White House posted on its official Twitter account a message denouncing his judgment. His fellow witness, Jennifer Williams, had barely left the room when the White House issued a statement challenging her credibility.",
+      "publication_date": "2019-11-20T01:45:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/19/us/politics/trump-alexander-vindman-jennifer-williams.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "One Whopper Jr., Hold the Toy",
+      "snippet": "As environmental concerns grow, chains like Burger King and McDonald’s are rethinking what to offer with children’s meals.",
+      "abstract": "As environmental concerns grow, chains like Burger King and McDonald’s are rethinking what to offer with children’s meals.",
+      "lead_paragraph": "In the climactic scene of “Toy Story 3,” Woody, Buzz Lightyear and the rest of the crew narrowly escape death when a remote-controlled claw lifts them from an incinerator just before flames engulf them.",
+      "publication_date": "2019-11-20T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/20/business/burger-king-plastic-toys.html",
+      "byline": "By David Yaffe-Bellany"
+    }
+  ]
+}

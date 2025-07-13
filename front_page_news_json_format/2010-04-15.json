@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-04-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "White House and Democrats Join to Press Case on Financial Controls",
+      "snippet": "The president and Democrats virtually dared Republicans to side with Wall Street by opposing a bill to tighten regulation of the financial industry.",
+      "abstract": "The president and Democrats virtually dared Republicans to side with Wall Street by opposing a bill to tighten regulation of the financial industry.",
+      "lead_paragraph": "WASHINGTON — The White House and Democratic Congressional leaders said Wednesday that they would press forward with legislation to tighten regulation of the nation’s financial system. Rebuffing Republican criticism, the Democrats effectively dared the minority party to side with Wall Street by opposing the measure. ",
+      "publication_date": "2010-04-14T16:24:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/15/business/15regulate.html",
+      "byline": "By David M. Herszenhorn and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Defaults Rise in Loan Modification Program",
+      "snippet": "Defaults nearly doubled in March, continuing a troubling trend that threatens to undermine the federal program.",
+      "abstract": "Defaults nearly doubled in March, continuing a troubling trend that threatens to undermine the federal program.",
+      "lead_paragraph": " The number of homeowners who defaulted on their mortgages even after securing cheaper terms through the government’s modification program nearly doubled in March, continuing a trend that could undermine the entire program.",
+      "publication_date": "2010-04-14T19:32:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/15/business/15mortgages.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Moving Taped Past to Hard-Drive Future",
+      "snippet": "Now that hard-drive video storage has become so cheap, taped memories can be moved into a computer with a minimum of fuss.",
+      "abstract": "Now that hard-drive video storage has become so cheap, taped memories can be moved into a computer with a minimum of fuss.",
+      "lead_paragraph": "It started with a call from Steve Jobs.",
+      "publication_date": "2010-04-14T21:31:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/15/technology/personaltech/15pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Poll Finds Tea Party Backers Wealthier  and More Educated",
+      "snippet": "Tea Party supporters are wealthier and more well-educated than the general public and tend to be Republican, white, male and married, according to the latest New York Times/CBS News poll.",
+      "abstract": "Tea Party supporters are wealthier and more well-educated than the general public and tend to be Republican, white, male and married, according to the latest New York Times/CBS News poll.",
+      "lead_paragraph": "Tea Party supporters are wealthier and more well-educated than the general public, and are no more or less afraid of falling into a lower socioeconomic class, according to the latest New York Times/CBS News poll.",
+      "publication_date": "2010-04-14T22:32:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/15/us/politics/15poll.html",
+      "byline": "By Kate Zernike and Megan Thee-Brenan"
+    },
+    {
+      "headline": "Stints in Court May Yield Clues to a Style",
+      "snippet": "A look at Elena Kagan’s service as solicitor general provides insights into how she would interact on the Supreme Court.",
+      "abstract": "A look at Elena Kagan’s service as solicitor general provides insights into how she would interact on the Supreme Court.",
+      "lead_paragraph": "WASHINGTON — Two weeks ago, Solicitor General Elena Kagan, a leading contender for appointment to the Supreme Court, presented her sixth argument there. She bantered easily with the justices, and she seemed to have a special rapport with Justice Antonin Scalia, at one point responding to a question from him with one of her own.",
+      "publication_date": "2010-04-15T00:20:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/15/us/politics/15scotus.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Toyota Deals Quickly With GX 460 Problem",
+      "snippet": "After charges that it was slow to respond to accelerator problems, Toyota worked quickly on its S.U.V. issue.",
+      "abstract": "After charges that it was slow to respond to accelerator problems, Toyota worked quickly on its S.U.V. issue.",
+      "lead_paragraph": "DETROIT — The chief engineer in Japan for the Lexus GX 460 sport utility vehicle was roused from bed early Tuesday by a telephone call from Toyota engineers in the United States.",
+      "publication_date": "2010-04-15T00:26:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/15/business/15toyota.html",
+      "byline": "By Micheline Maynard"
+    },
+    {
+      "headline": "Obama Speech Signals a U.S. Shift on Middle East",
+      "snippet": "A statement that the conflict is vital to U.S. security showed how hard President Obama might push for peace.",
+      "abstract": "A statement that the conflict is vital to U.S. security showed how hard President Obama might push for peace.",
+      "lead_paragraph": "WASHINGTON — It was just a phrase at the end of President Obama’s news conference on Tuesday, but it was a stark reminder of a far-reaching shift in how the United States views the Israeli-Palestinian conflict, and how aggressively it might push for a peace agreement.",
+      "publication_date": "2010-04-15T01:25:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/15/world/middleeast/15mideast.html",
+      "byline": "By Mark Landler and Helene Cooper"
+    },
+    {
+      "headline": "The Tables Turn",
+      "snippet": "Restaurants have begun to see signs of a recovery in the last few months, and the industry has hired thousands of additional workers.",
+      "abstract": "Restaurants have begun to see signs of a recovery in the last few months, and the industry has hired thousands of additional workers.",
+      "lead_paragraph": "On many weeknights last year, in the depths of the recession, Tursi’s Latin King restaurant in Des Moines closed one of its three dining rooms and pared its kitchen to a skeleton crew. ",
+      "publication_date": "2010-04-15T03:15:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/15/business/15restaurant.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "Volcanic Ash to Curtail Air Traffic Into  Midday Friday",
+      "snippet": "The plume of ash from a volcano in Iceland forced aviation authorities to order the restrictions, affecting thousands of flights in a wide arc from Ireland to Scandinavia.",
+      "abstract": "The plume of ash from a volcano in Iceland forced aviation authorities to order the restrictions, affecting thousands of flights in a wide arc from Ireland to Scandinavia.",
+      "lead_paragraph": "PARIS — A dark and spectacular volcanic cloud shrouded much of northern Europe on Thursday, forcing airlines to cancel thousands of flights as it drifted at high altitude south and east from an erupting volcano in Iceland. The shutdown of airspace was one of the most sweeping ever ordered in peacetime, amid fears that travel could continue to be delayed days after the cloud dissipates. ",
+      "publication_date": "2010-04-15T07:03:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/16/world/europe/16ash.html",
+      "byline": "By Nicola Clark and Liz Robbins"
+    },
+    {
+      "headline": "Investment Firm Agrees to Settle Kickback Inquiry",
+      "snippet": "The deal does not include Steven Rattner, a founder of the firm who later joined the Obama administration.",
+      "abstract": "The deal does not include Steven Rattner, a founder of the firm who later joined the Obama administration.",
+      "lead_paragraph": "The investment firm founded by Steven L. Rattner, the politically connected financier who went on to lead President Obama’s auto task force, has agreed to pay $12 million to settle allegations that it paid kickbacks to win lucrative business from the New York State pension fund. ",
+      "publication_date": "2010-04-15T15:05:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/16/business/16pension.html",
+      "byline": "By Louise Story"
+    }
+  ]
+}

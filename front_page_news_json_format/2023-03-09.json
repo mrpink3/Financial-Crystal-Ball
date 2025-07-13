@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-03-09",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Justice Dept. Finds Pattern of Discriminatory Policing in Louisville",
+      "snippet": "The review, undertaken after a specialized unit killed Breonna Taylor in a botched raid in 2020, paints a damning portrait of a department in crisis.",
+      "abstract": "The review, undertaken after a specialized unit killed Breonna Taylor in a botched raid in 2020, paints a damning portrait of a department in crisis.",
+      "lead_paragraph": "WASHINGTON — The police department in Louisville, Ky., engaged in a far-ranging pattern of discriminatory and abusive law enforcement practices, the Justice Department said on Wednesday after conducting a two-year investigation prompted by the fatal shooting of Breonna Taylor by the police in 2020.",
+      "publication_date": "2023-03-08T17:20:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/08/us/politics/louisville-police-breonna-taylor-justice-dept.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "Here’s What the Fed Chair Said This Week, and Why It Matters",
+      "snippet": "Jerome H. Powell, the Fed chair, opened the door to a more aggressive policy path — but emphasized that it depended on incoming data.",
+      "abstract": "Jerome H. Powell, the Fed chair, opened the door to a more aggressive policy path — but emphasized that it depended on incoming data.",
+      "lead_paragraph": "Jerome H. Powell, the chair of the Federal Reserve, used his testimony before lawmakers this week to lay out a more aggressive path ahead for American monetary policy as the central bank tries to combat stubbornly rapid inflation.",
+      "publication_date": "2023-03-08T17:39:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/08/business/economy/fed-chair-inflation-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "With Murdaugh’s Conviction, a Century of Influence Unravels",
+      "snippet": "When Alex Murdaugh was convicted of murdering his wife and son, some South Carolinians saw the verdict as a step toward dismantling a system of power “based on who you know.”",
+      "abstract": "When Alex Murdaugh was convicted of murdering his wife and son, some South Carolinians saw the verdict as a step toward dismantling a system of power “based on who you know.”",
+      "lead_paragraph": "Across the chasms of race and class that have long divided and defined South Carolina, Alex Murdaugh appeared in the life of Pamela Pinckney at her darkest moment, offering to help.",
+      "publication_date": "2023-03-08T19:20:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/08/us/alex-murdaugh-murders-south-carolina.html",
+      "byline": "By Richard Fausset and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "Records Show Fox and G.O.P.’s Shared Quandary: Trump",
+      "snippet": "Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.",
+      "abstract": "Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.",
+      "lead_paragraph": "“Do we have enough dead people for tonight?”",
+      "publication_date": "2023-03-09T01:31:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/08/business/media/tucker-carlson-fox-trump.html",
+      "byline": "By Nicholas Confessore and Jim Rutenberg"
+    },
+    {
+      "headline": "How Murdoch Runs Fox News, in His Own (Often Terse) Words",
+      "snippet": "Court filings give a peek into how Rupert Murdoch shapes coverage at his news organizations.",
+      "abstract": "Court filings give a peek into how Rupert Murdoch shapes coverage at his news organizations.",
+      "lead_paragraph": "In late 2020, Rupert Murdoch was holed up in the English countryside with his now ex-wife, far from Fox News headquarters in Midtown Manhattan. The pandemic seclusion left him “bored,” he recently said in a deposition, with little to do “but write stupid emails.”",
+      "publication_date": "2023-03-09T10:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/09/business/media/rupert-murdoch-fox-news.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "With Its Future at Stake, the Academy Tries to Fix the Oscars (Again)",
+      "snippet": "The awards telecast has been losing viewers for years. New leadership wants to reverse that starting Sunday, and ensure the financial well-being of the organization.",
+      "abstract": "The awards telecast has been losing viewers for years. New leadership wants to reverse that starting Sunday, and ensure the financial well-being of the organization.",
+      "lead_paragraph": "The stage design for the 95th Academy Awards on Sunday is more Doctor Strange modern and less Dowager Countess musty. That means plentiful video screens, including ones that cover the sides of the theater, with nary a Swarovski crystal curtain — the old standby — to be seen.",
+      "publication_date": "2023-03-09T10:00:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/09/business/media/academy-awards-broadcast.html",
+      "byline": "By Brooks Barnes"
+    }
+  ]
+}

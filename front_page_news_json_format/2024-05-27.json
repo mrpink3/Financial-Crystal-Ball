@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "date": "2024-05-27",
+    "total_articles": 16
+  },
+  "articles": [
+    {
+      "headline": "A Mexican Taco Stand Goes From Local Favorite to Michelin Darling",
+      "snippet": "Taquería El Califa de León, in Mexico City, became the first Mexican taco stand to win a Michelin star. Since then, it has been deluged with customers and fame.",
+      "abstract": "Taquería El Califa de León, in Mexico City, became the first Mexican taco stand to win a Michelin star. Since then, it has been deluged with customers and fame.",
+      "lead_paragraph": "Over a week ago, Taquería El Califa de León was simply one of Mexico City’s nearly 11,000 registered taco shops, though there are undoubtedly many more that aren’t. Sure, it had been around nearly 60 years and was popular, especially among politicians who worked nearby. But it was mostly a locally known taco stand.",
+      "publication_date": "2024-05-24T17:00:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/24/world/americas/taqueria-el-califa-de-leon-mexico-city-michelin-star.html",
+      "byline": "By James Wagner and Luis Antonio Rojas"
+    },
+    {
+      "headline": "Google’s A.I. Search Errors Cause a Furor Online",
+      "snippet": "The company’s latest A.I. search feature has erroneously told users to eat glue and rocks, provoking a backlash among users.",
+      "abstract": "The company’s latest A.I. search feature has erroneously told users to eat glue and rocks, provoking a backlash among users.",
+      "lead_paragraph": "Last week, Google unveiled its biggest change to search in years, showcasing new artificial intelligence capabilities that answer people’s questions in the company’s attempt to catch up to rivals Microsoft and OpenAI.",
+      "publication_date": "2024-05-24T17:54:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/24/technology/google-ai-overview-search.html",
+      "byline": "By Nico Grant"
+    },
+    {
+      "headline": "Are These Drones Too Chinese to Pass U.S. Muster in an Anti-China Moment?",
+      "snippet": "U.S.-based Anzu Robotics is selling drones using technology from DJI, a Chinese firm that is the target of efforts by lawmakers to limit Chinese technology in America.",
+      "abstract": "U.S.-based Anzu Robotics is selling drones using technology from DJI, a Chinese firm that is the target of efforts by lawmakers to limit Chinese technology in America.",
+      "lead_paragraph": "A one-man startup believes it has an answer to U.S. government concerns over the Chinese-made drones that dominate commercial sales in the American market.",
+      "publication_date": "2024-05-24T19:49:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/24/business/china-drones-anzu-dji.html",
+      "byline": "By Kate Kelly"
+    },
+    {
+      "headline": "Xi Jinping’s Recipe for Total Control: An Army of Eyes and Ears",
+      "snippet": "Reviving a Mao-era surveillance campaign, the authorities are tracking residents, schoolchildren and businesses to forestall any potential unrest.",
+      "abstract": "Reviving a Mao-era surveillance campaign, the authorities are tracking residents, schoolchildren and businesses to forestall any potential unrest.",
+      "lead_paragraph": "The wall in the police station was covered in sheets of paper, one for every building in the sprawling Beijing apartment complex. Each sheet was further broken down by unit, with names, phone numbers and other information on the residents.",
+      "publication_date": "2024-05-25T04:01:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/25/world/asia/china-surveillance-xi.html",
+      "byline": "By Vivian Wang"
+    },
+    {
+      "headline": "He Threw ‘Spaghetti at the Wall’ for Trump. Now He’s After a Top Job.",
+      "snippet": "If Donald Trump wins the presidency, Richard Grenell hopes to be secretary of state. But his work raises questions, even from his former boss.",
+      "abstract": "If Donald Trump wins the presidency, Richard Grenell hopes to be secretary of state. But his work raises questions, even from his former boss.",
+      "lead_paragraph": "Richard Grenell’s quest to be secretary of state in a second Trump administration began late on Election Day in 2020, when the defeated president dispatched loyalists to run shambolic “stop the steal” operations in battleground states.",
+      "publication_date": "2024-05-25T09:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/25/us/politics/grenell-trump-cabinet.html",
+      "byline": "By Elizabeth Williamson"
+    },
+    {
+      "headline": "One of the Deadliest Jobs in Mexico: Running for Office",
+      "snippet": "The assassination of Gisela Gaytán shocked Mexico. She was among dozens of aspirants for public office killed in recent months.",
+      "abstract": "The assassination of Gisela Gaytán shocked Mexico. She was among dozens of aspirants for public office killed in recent months.",
+      "lead_paragraph": "Gisela Gaytán had just arrived at an event on the first day of her mayoral campaign in central Mexico’s industrial heartland when the gunfire broke out.",
+      "publication_date": "2024-05-25T09:00:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/25/world/americas/mexico-election-violence.html",
+      "byline": "By Emiliano Rodríguez Mega and Simon Romero"
+    },
+    {
+      "headline": "Free Food? Modi Makes Sure Every Indian Knows Whom to Thank for It.",
+      "snippet": "India’s welfare programs improve lives. Prime Minister Narendra Modi’s party uses its vast machinery to ensure the handouts also create loyal voters.",
+      "abstract": "India’s welfare programs improve lives. Prime Minister Narendra Modi’s party uses its vast machinery to ensure the handouts also create loyal voters.",
+      "lead_paragraph": "Durga Prasad, an 80-year-old farmer, was resting under the shade of a tree in front of his home when the party workers came. An app on their smartphones could tell them in an instant who Mr. Prasad was, whom he might vote for — and why he should be grateful to India’s prime minister, Narendra Modi.",
+      "publication_date": "2024-05-26T04:01:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/26/world/asia/india-welfare-modi.html",
+      "byline": "By Suhasini Raj and Alex Travelli"
+    },
+    {
+      "headline": "The Hamas Chief and the Israeli Who Saved His Life",
+      "snippet": "In an Israeli prison infirmary, a Jewish dentist came to the aid of a desperately ill Hamas inmate. Years later, the prisoner became a mastermind of the Oct. 7 attack.",
+      "abstract": "In an Israeli prison infirmary, a Jewish dentist came to the aid of a desperately ill Hamas inmate. Years later, the prisoner became a mastermind of the Oct. 7 attack.",
+      "lead_paragraph": "This is how Dr. Yuval Bitton remembers the morning of Oct. 7. Being jolted awake just after sunrise by the insistent ringing of his phone. The frantic voice of his daughter, who was traveling abroad, asking, “Dad, what’s happened in Israel? Turn on the TV.”",
+      "publication_date": "2024-05-26T07:00:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/26/world/middleeast/hamas-sinwar-israel-doctor-prison-swap.html",
+      "byline": "By Jo Becker and Adam Sella"
+    },
+    {
+      "headline": "Fetterman, Flashing a Sharper Edge, Keeps Picking Fights With the Left",
+      "snippet": "The first-term Pennsylvanian has battled with progressives on Israel, immigration and energy, adopting a more caustic political persona and alienating some supporters.",
+      "abstract": "The first-term Pennsylvanian has battled with progressives on Israel, immigration and energy, adopting a more caustic political persona and alienating some supporters.",
+      "lead_paragraph": "Senator John Fetterman was hard to miss, lumbering down an empty hallway in a Senate office building dressed in his signature baggy gym shorts and a black hoodie. So when Stevie O’Hanlon, an environmentalist and organizer from Chester County, Pa., spotted him recently, she took the opportunity to question her home-state senator about a pipeline in her community.",
+      "publication_date": "2024-05-26T07:00:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/26/us/politics/fetterman-democrats-israel-gaza.html",
+      "byline": "By Annie Karni"
+    },
+    {
+      "headline": "Optimistic About the War in Ukraine, Putin Unleashes a Purge at Home",
+      "snippet": "Despite years of criticism, President Vladimir V. Putin has only now changed his defense minister and allowed high-level corruption arrests.",
+      "abstract": "Despite years of criticism, President Vladimir V. Putin has only now changed his defense minister and allowed high-level corruption arrests.",
+      "lead_paragraph": "Periodic outcries over incompetence and corruption at the top of the Russian military have dogged President Vladimir V. Putin’s war effort since the start of his invasion of Ukraine in early 2022.",
+      "publication_date": "2024-05-26T07:15:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/26/world/europe/russia-corruption-putin.html",
+      "byline": "By Paul Sonne and Anatoly Kurmanaev"
+    },
+    {
+      "headline": "What Happened to Our Ad-Free TV?",
+      "snippet": "Ads are here, there — almost everywhere — on streaming services now.",
+      "abstract": "Ads are here, there — almost everywhere — on streaming services now.",
+      "lead_paragraph": "Not long ago, streaming TV came with a promise: Sign up, and commercials will be a thing of the past.",
+      "publication_date": "2024-05-26T09:03:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/26/business/media/ads-tv-streaming.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "‘Furiosa’ Is a Box Office Dud, Adding to Hollywood Woes",
+      "snippet": "Memorial Day weekend ticket sales in North America are expected to total $125 million, down 40 percent from last year.",
+      "abstract": "Memorial Day weekend ticket sales in North America are expected to total $125 million, down 40 percent from last year.",
+      "lead_paragraph": "Hollywood expected “Furiosa: A Mad Max Saga” to scorch the box office over the holiday weekend. Instead, the big-budget Warner Bros. prequel iced it over.",
+      "publication_date": "2024-05-26T17:20:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/26/business/media/furiosa-box-office-memorial-day-weekend.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "How China Pulled So Far Ahead on Industrial Policy",
+      "snippet": "The United States and Europe are trying to catch up to a rival skilled in using all the levers of government and banking to dominate global manufacturing.",
+      "abstract": "The United States and Europe are trying to catch up to a rival skilled in using all the levers of government and banking to dominate global manufacturing.",
+      "lead_paragraph": "For more than half a century, concerns about oil shortages or a damaged climate have spurred governments to invest in alternative energy sources.",
+      "publication_date": "2024-05-27T04:01:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/27/business/economy/china-us-tariffs.html",
+      "byline": "By Patricia Cohen, Keith Bradsher and Jim Tankersley"
+    },
+    {
+      "headline": "A 100-Ton Locomotive With No One in the Cab",
+      "snippet": "Railroad unions are raising safety concerns about the growing use of remote-controlled trains after a rash of fatal accidents.",
+      "abstract": "Railroad unions are raising safety concerns about the growing use of remote-controlled trains after a rash of fatal accidents.",
+      "lead_paragraph": "One evening last June, as Esther Iradukunda set the table for dinner at her home in Buffalo, she heard a high-pitched cry through the kitchen window. She rushed outside and followed the screams to the train tracks that ran about 100 feet away from her house.",
+      "publication_date": "2024-05-27T09:00:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/27/us/train-safety-crashes-union.html",
+      "byline": "By Frances Robles, Sergio Olmos, Mark Walker and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "Onstage, Witches and Cossacks Strike a Chord With Ukrainians",
+      "snippet": "A play based on a 19th-century literary classic is a smash hit among Ukrainians who see in the story cultural and historical echoes of what they face after two years of war.",
+      "abstract": "A play based on a 19th-century literary classic is a smash hit among Ukrainians who see in the story cultural and historical echoes of what they face after two years of war.",
+      "lead_paragraph": "The lines for the show snake down the block, with people waiting for up to seven hours to buy tickets at the theater in downtown Kyiv. Videos of the performance have drawn millions of views online.",
+      "publication_date": "2024-05-27T09:23:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/27/world/europe/ukrainians-witches-theater-play.html",
+      "byline": "By Maria Varenikova"
+    },
+    {
+      "headline": "Biden Doesn’t Want You Buying an E.V. From China. Here’s Why.",
+      "snippet": "The president wants to shift America’s car fleet toward electric vehicles, but not at the expense of American jobs or national security.",
+      "abstract": "The president wants to shift America’s car fleet toward electric vehicles, but not at the expense of American jobs or national security.",
+      "lead_paragraph": "President Biden wants more of America’s cars and trucks to run on electricity, not gas. His administration has pushed that goal on multiple fronts, including strict new regulations of auto emissions and lavish new subsidies to help American consumers take as much as $7,500 off the cost of a new electric vehicle.",
+      "publication_date": "2024-05-27T13:46:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/27/business/biden-evs.html",
+      "byline": "By Jim Tankersley"
+    }
+  ]
+}

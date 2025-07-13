@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-05-27",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Uvalde Had Prepared for School Shootings. It Did Not Stop the Rampage.",
+      "snippet": "Uvalde officials had trained to confront gunmen and, like other schools around the country, had invested in security.",
+      "abstract": "Uvalde officials had trained to confront gunmen and, like other schools around the country, had invested in security.",
+      "lead_paragraph": "In August 2020, law enforcement officers from five agencies converged inside the hallways of a school in Uvalde, Texas, their guns drawn, role-playing how they would halt a gunman.",
+      "publication_date": "2022-05-26T16:56:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/26/us/mass-shooting-school-security.html",
+      "byline": "By Mike Baker and Dana Goldstein"
+    },
+    {
+      "headline": "A Face Search Engine Anyone Can Use Is Alarmingly Accurate",
+      "snippet": "PimEyes is a paid service that finds photos of a person from across the internet, including some the person may not want exposed. “We’re just a tool provider,” its owner said.",
+      "abstract": "PimEyes is a paid service that finds photos of a person from across the internet, including some the person may not want exposed. “We’re just a tool provider,” its owner said.",
+      "lead_paragraph": "For $29.99 a month, a website called PimEyes offers a potentially dangerous superpower from the world of science fiction: the ability to search for a face, finding obscure photos that would otherwise have been as safe as the proverbial needle in the vast digital haystack of the internet.",
+      "publication_date": "2022-05-26T18:35:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "byline": "By Kashmir Hill"
+    },
+    {
+      "headline": "As Russia Diverges From the Global Economy, Soviet-Style Scarcity Looms",
+      "snippet": "With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch.",
+      "abstract": "With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch.",
+      "lead_paragraph": "Gripped by heavy economic sanctions and increasingly isolated from Western suppliers, Russia worked on Thursday to keep its factories and businesses running and stave off a return to Soviet-era scarcity.",
+      "publication_date": "2022-05-26T21:08:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/26/world/europe/russia-economy-sanctions.html",
+      "byline": "By Patricia Cohen, Eshe Nelson, Valeriya Safronova and Michael Levenson"
+    },
+    {
+      "headline": "How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine",
+      "snippet": "Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going.",
+      "abstract": "Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going.",
+      "lead_paragraph": "WASHINGTON — Three months into Russia’s invasion of Ukraine, America and its allies are quietly debating the inevitable question: How does this end?",
+      "publication_date": "2022-05-26T23:33:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html",
+      "byline": "By David E. Sanger, Steven Erlanger and Eric Schmitt"
+    },
+    {
+      "headline": "Senators Grasp for a Bipartisan Gun Deal, Facing Long Odds",
+      "snippet": "A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different?",
+      "abstract": "A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different?",
+      "lead_paragraph": "WASHINGTON — After the deadliest school shooting in a decade, a small group of Republican and Democratic senators have begun an urgent and uphill effort to strike a compromise on new gun laws, voicing hope that a wave of collective outrage at the slaughter of 19 children and two teachers could finally conquer a decade of congressional paralysis.",
+      "publication_date": "2022-05-26T23:42:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/26/us/politics/senate-guns-bipartisan-deal.html",
+      "byline": "By Emily Cochrane and Catie Edmondson"
+    },
+    {
+      "headline": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
+      "snippet": "An unsettling glimpse at the digitization of education.",
+      "abstract": "An unsettling glimpse at the digitization of education.",
+      "lead_paragraph": "A Florida teenager taking a biology class at a community college got an upsetting note this year. A start-up called Honorlock had flagged her as acting suspiciously during an exam in February. She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.”",
+      "publication_date": "2022-05-27T07:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "byline": "By Kashmir Hill"
+    },
+    {
+      "headline": "Children called for help from inside classrooms in Uvalde. The police waited.",
+      "snippet": "A new timeline from the state police raised questions about whether lives could have been saved with swift action.",
+      "abstract": "A new timeline from the state police raised questions about whether lives could have been saved with swift action.",
+      "lead_paragraph": "UVALDE, Texas — Furtively, speaking in a whisper, a fourth-grade girl dialed the police. Around her, in Room 112 at Robb Elementary School, were the motionless bodies of her classmates and scores of spent bullet casings fired by a gunman who had already been inside the school for half an hour.",
+      "publication_date": "2022-05-27T09:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/27/us/children-called-for-help-from-inside-classrooms-in-uvalde-the-police-waited.html",
+      "byline": "By J. David Goodman, Edgar Sandoval, Karen Zraick and Rick Rojas"
+    },
+    {
+      "headline": "‘Escalation of Secrecy’: Global Brands Seek Clarity on Xinjiang",
+      "snippet": "Companies that sourced cotton from the region in China are weighing evidence of forced labor, a lack of visibility into operations and new regulation.",
+      "abstract": "Companies that sourced cotton from the region in China are weighing evidence of forced labor, a lack of visibility into operations and new regulation.",
+      "lead_paragraph": "In the summer of 2019, an executive at Patagonia got a phone call from a trusted auditor working in China. A planned trip to visit some cotton farms in the region of Xinjiang wasn’t going to happen. Soon other barriers were thrown up. Information from suppliers in the region ran dry.",
+      "publication_date": "2022-05-27T09:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/27/business/cotton-xinjiang-forced-labor-retailers.html",
+      "byline": "By Alexandra Stevenson and Sapna Maheshwari"
+    },
+    {
+      "headline": "Americans Keep Spending Even as Inflation Erodes Buying Power",
+      "snippet": "To keep up with rising prices, Americans are saving less, but economists expect expenditures to slow in the months ahead.",
+      "abstract": "To keep up with rising prices, Americans are saving less, but economists expect expenditures to slow in the months ahead.",
+      "lead_paragraph": "Americans built up trillions of dollars in savings during the pandemic. Now, with prices rising at their fastest pace in decades, they are tapping that stockpile to keep on spending.",
+      "publication_date": "2022-05-27T12:33:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/27/business/economy/pce-inflation-april.html",
+      "byline": "By Ben Casselman and Lydia DePillis"
+    },
+    {
+      "headline": "Gas Prices Hit New Highs as Summer Driving Season Starts",
+      "snippet": "A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market.",
+      "abstract": "A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market.",
+      "lead_paragraph": "HOUSTON — With the Russian invasion of Ukraine grinding on, drivers will have to shell out a lot more to fill up their cars as the summer travel season begins this Memorial Day weekend.",
+      "publication_date": "2022-05-27T13:53:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html",
+      "byline": "By Clifford Krauss"
+    }
+  ]
+}

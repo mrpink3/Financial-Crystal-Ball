@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-07-21",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Google Promises Privacy With Virus App but Can Still Collect Location Data",
+      "snippet": "Some government agencies that use the software said they were surprised that Google may pick up the locations of certain app users. Others said they had unsuccessfully pushed Google to make a change.",
+      "abstract": "Some government agencies that use the software said they were surprised that Google may pick up the locations of certain app users. Others said they had unsuccessfully pushed Google to make a change.",
+      "lead_paragraph": "When Google and Apple announced plans in April for free software to help alert people of their possible exposure to the coronavirus, the companies promoted it as “privacy preserving” and said it would not track users’ locations. Encouraged by those guarantees, Germany, Switzerland and other countries used the code to develop national virus alert apps that have been downloaded more than 20 million times.",
+      "publication_date": "2020-07-20T17:35:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/20/technology/google-covid-tracker-app.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "For Women in Afghan Security Forces, a Daily Battle",
+      "snippet": "A new generation of women is moving to take up leadership roles in Afghanistan. The price is a daily barrage of abuse, and the fear that not much has changed.",
+      "abstract": "A new generation of women is moving to take up leadership roles in Afghanistan. The price is a daily barrage of abuse, and the fear that not much has changed.",
+      "lead_paragraph": "KHOST, Afghanistan — Motivated, educated and fresh from finishing police academy in Turkey, Second Lt. Zala Zazai had stellar qualifications for the job she took in eastern Afghanistan in June. It all mattered little once she started.",
+      "publication_date": "2020-07-20T19:12:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/20/world/asia/afghanistan-women-police.html",
+      "byline": "By Mujib Mashal and Kiana Hayeri"
+    },
+    {
+      "headline": "Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers",
+      "snippet": "With a $5 billion play for Noble Energy, the oil giant is set to acquire properties around the world for a relative bargain. Other companies might make similar moves.",
+      "abstract": "With a $5 billion play for Noble Energy, the oil giant is set to acquire properties around the world for a relative bargain. Other companies might make similar moves.",
+      "lead_paragraph": "HOUSTON — In the first big deal since oil prices crashed four months ago, Chevron agreed on Monday to buy Noble Energy for roughly $5 billion in what many experts consider the beginning of a sweeping consolidation in the U.S. oil industry.",
+      "publication_date": "2020-07-20T20:05:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/20/business/energy-environment/chevron-noble-oil-mergers.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Trump Threatens to Send Federal Law Enforcement Forces to More Cities",
+      "snippet": "As federal agents patrol Portland and head to Chicago, Democrats call the president’s plan “an American crisis,” barely 100 days before the election.",
+      "abstract": "As federal agents patrol Portland and head to Chicago, Democrats call the president’s plan “an American crisis,” barely 100 days before the election.",
+      "lead_paragraph": "WASHINGTON — President Trump plans to deploy federal law enforcement to Chicago and threatened on Monday to send agents to other major cities — all controlled by Democrats.",
+      "publication_date": "2020-07-20T23:54:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/20/us/politics/trump-chicago-portland-federal-agents.html",
+      "byline": "By Peter Baker, Zolan Kanno-Youngs and Monica Davey"
+    },
+    {
+      "headline": "E.U. Adopts Groundbreaking Stimulus to Fight Coronavirus Recession",
+      "snippet": "The $857 billion package includes unprecedented steps to help less wealthy countries, including selling collective debt and giving much of the money as grants, not loans.",
+      "abstract": "The $857 billion package includes unprecedented steps to help less wealthy countries, including selling collective debt and giving much of the money as grants, not loans.",
+      "lead_paragraph": "BRUSSELS — After nearly five days of intense haggling, European Union leaders early on Tuesday stepped up to confront one of the gravest challenges in the bloc’s history, agreeing to a landmark spending package to rescue their economies from the ravages of the pandemic.",
+      "publication_date": "2020-07-21T03:39:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html",
+      "byline": "By Matina Stevis-Gridneff"
+    },
+    {
+      "headline": "Coronavirus Threatens the Luster of Superstar Cities",
+      "snippet": "Urban centers, with a dynamism that feeds innovation, have long been resilient. But the pandemic could drive a shift away from density.",
+      "abstract": "Urban centers, with a dynamism that feeds innovation, have long been resilient. But the pandemic could drive a shift away from density.",
+      "lead_paragraph": "Cities are remarkably resilient. They have risen from the ashes after being carpet-bombed and hit with nuclear weapons. “If you think about pandemics in the past,” noted the Princeton economist Esteban Rossi-Hansberg, “they didn’t destroy cities.”",
+      "publication_date": "2020-07-21T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/21/business/economy/coronavirus-cities.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "A Company Backs a Cause. It Funds a Politician Who Doesn’t. What Gives?",
+      "snippet": "As the world expects more of corporations, it is untenable to support social and environmental causes while giving money, even indirectly, to candidates who oppose them.",
+      "abstract": "As the world expects more of corporations, it is untenable to support social and environmental causes while giving money, even indirectly, to candidates who oppose them.",
+      "lead_paragraph": "Walmart calls its employees “heroes” for putting their health at risk to work during the pandemic. AT&T champions L.G.B.T.Q. rights. Microsoft is undertaking one of the country’s most ambitious corporate efforts to eliminate its carbon emissions.",
+      "publication_date": "2020-07-21T09:32:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/21/business/dealbook/corporate-political-donations.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "‘No One’ Protected British Democracy From Russia, U.K. Report Concludes",
+      "snippet": "Russian efforts to interfere in the British political system were widely ignored by successive governments, according to a long-awaited report by Parliament.",
+      "abstract": "Russian efforts to interfere in the British political system were widely ignored by successive governments, according to a long-awaited report by Parliament.",
+      "lead_paragraph": "LONDON — Russia has mounted a prolonged, sophisticated campaign to undermine Britain’s democracy and corrupt its politics, while successive British governments have looked the other way, according to a long-delayed report released on Tuesday by a British parliamentary committee.",
+      "publication_date": "2020-07-21T10:01:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/21/world/europe/uk-russia-report-brexit-interference.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "Major Security Flaws Found in South Korea Quarantine App",
+      "snippet": "The defects, which have been fixed, exposed private details of people in quarantine. The country has been hailed as a pioneer in digital public health.",
+      "abstract": "The defects, which have been fixed, exposed private details of people in quarantine. The country has been hailed as a pioneer in digital public health.",
+      "lead_paragraph": "SEOUL, South Korea — South Korea has been praised for making effective use of digital tools to contain the coronavirus, from emergency phone alerts to aggressive contact tracing based on a variety of data.",
+      "publication_date": "2020-07-21T12:14:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/21/technology/korea-coronavirus-app-security.html",
+      "byline": "By Choe Sang-Hun, Aaron Krolik, Raymond Zhong and Natasha Singer"
+    },
+    {
+      "headline": "Chaotic Scenes in Portland as Backlash to Federal Deployment Grows",
+      "snippet": "The street demonstrations that have shuddered through Portland for 54 consecutive nights have drawn out a complicated mix of emotions and grievances.",
+      "abstract": "The street demonstrations that have shuddered through Portland for 54 consecutive nights have drawn out a complicated mix of emotions and grievances.",
+      "lead_paragraph": "PORTLAND, Ore. — With a ski helmet and goggles on her head, Allison Hyder recounted how she had told relatives that she planned to stand at the rear of protests in downtown Portland. But, in the early hours of Tuesday, the grandmother of five found herself right up front, locking arms with other mothers dressed in yellow.",
+      "publication_date": "2020-07-21T14:06:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/21/us/portland-protests.html",
+      "byline": "By Mike Baker"
+    }
+  ]
+}

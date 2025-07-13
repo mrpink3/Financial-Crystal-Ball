@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-05-19",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Walmart, With Amazon in Its Cross Hairs, Posts E-Commerce Gains",
+      "snippet": "The company still trails in its effort to compete with Amazon, but the growth is a sign that it is making headway in its online presence.",
+      "abstract": "The company still trails in its effort to compete with Amazon, but the growth is a sign that it is making headway in its online presence.",
+      "lead_paragraph": "Walmart has always excelled at selling products in its cavernous stores. It appears to be getting its head around selling online, too.",
+      "publication_date": "2017-05-18T16:52:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/18/business/walmart-online-sales-jump-63-percent.html",
+      "byline": "By Rachel Abrams"
+    },
+    {
+      "headline": "Roger Ailes: The Man Who Mined a Divided America",
+      "snippet": "The Fox News creator made a fortune creating a cultural safe space for Americans pining for the way things were.",
+      "abstract": "The Fox News creator made a fortune creating a cultural safe space for Americans pining for the way things were.",
+      "lead_paragraph": "Before Donald Trump rode the anger of forgotten (white) America to an “America First” presidency, before Breitbart News became a “platform for the alt-right” and before there were “alternative facts” and dueling versions of reality, Roger Ailes saw a divided country but an undivided news media. And he set out to change it.",
+      "publication_date": "2017-05-18T18:34:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/18/business/media/roger-ailes-jim-rutenberg.html",
+      "byline": "By Jim Rutenberg"
+    },
+    {
+      "headline": "Fiat Chrysler, in Settlement Talks With U.S., Is Under More Pressure",
+      "snippet": "A new study adds to evidence that the company, one of the world’s biggest carmakers, flouted the rules on diesel emissions, much like Volkswagen.",
+      "abstract": "A new study adds to evidence that the company, one of the world’s biggest carmakers, flouted the rules on diesel emissions, much like Volkswagen.",
+      "lead_paragraph": "FRANKFURT — Fiat Chrysler Automobiles, one of the world’s biggest carmakers, said on Thursday that it was in talks with the Department of Justice to settle an investigation into diesel deception, as growing evidence points to the carmaker’s use of illegal software to evade emissions tests.",
+      "publication_date": "2017-05-18T19:05:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/18/business/energy-environment/fiat-chrysler-diesel-emissions.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "In Tumult of Trump, Jon Corzine Seeks a Wall Street Comeback",
+      "snippet": "After a number of setbacks, the former New Jersey governor and Goldman Sachs executive is planning his next act: a hedge fund built for the Trump era.",
+      "abstract": "After a number of setbacks, the former New Jersey governor and Goldman Sachs executive is planning his next act: a hedge fund built for the Trump era.",
+      "lead_paragraph": "Jon S. Corzine is a 6-foot-2 bear of a man who has spent decades roaming expansive halls of power. He held the top job at the old Goldman Sachs office tower, a concrete pinnacle of American capitalism. And after that, he had the run of the governor’s mansion in New Jersey — all 18,000 square feet of it.",
+      "publication_date": "2017-05-18T19:32:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/05/18/business/dealbook/jon-corzine-wall-street-comeback.html",
+      "byline": "By Ben Protess"
+    },
+    {
+      "headline": "Comey, Unsettled by Trump, Is Said to Have Wanted Him Kept at a Distance",
+      "snippet": "The former F.B.I. director described being dismayed by the president’s attempts to build a personal relationship with him amid the Russia investigation.",
+      "abstract": "The former F.B.I. director described being dismayed by the president’s attempts to build a personal relationship with him amid the Russia investigation.",
+      "lead_paragraph": "WASHINGTON — President Trump called the F.B.I. director, James B. Comey, weeks after he took office and asked him when federal authorities were going to put out word that Mr. Trump was not personally under investigation, according to two people briefed on the call.",
+      "publication_date": "2017-05-18T23:37:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/18/us/politics/james-comey-memo-fbi-trump.html",
+      "byline": "By Michael S. Schmidt"
+    },
+    {
+      "headline": "Roger Ailes’s Swift Exit From the Network He Built",
+      "snippet": "Mr. Ailes was ousted barely two weeks after the former Fox News anchor Gretchen Carlson filed a lawsuit accusing him of sexual harassment.",
+      "abstract": "Mr. Ailes was ousted barely two weeks after the former Fox News anchor Gretchen Carlson filed a lawsuit accusing him of sexual harassment.",
+      "lead_paragraph": "In recent months, Roger E. Ailes’s influence seemed to be everywhere in the news.",
+      "publication_date": "2017-05-19T01:31:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/18/business/media/roger-ailes-fox-news-sexual-harassment-.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "Do Not Drain Your 401(k), or Let a Former Employer Do It",
+      "snippet": "Cashing out a retirement plan when switching jobs is generally bad — and risky. Better to roll it over yourself into an individual retirement account.",
+      "abstract": "Cashing out a retirement plan when switching jobs is generally bad — and risky. Better to roll it over yourself into an individual retirement account.",
+      "lead_paragraph": "If you are lucky enough to work for a paternalistic employer, it can be easier than ever to set yourself up with a retirement savings account. Many employers have taken to signing people up automatically for 401(k)’s and similar workplace plans. Some even raise the amount you set aside each year unless you object.",
+      "publication_date": "2017-05-19T09:00:33+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/19/your-money/401ks-and-similar-plans/do-not-drain-your-401-k-or-let-a-former-employer-do-it.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Washington Post, Breaking News, Is Also Breaking New Ground",
+      "snippet": "As with Watergate, the paper’s scoops about the administration are helping shape the national conversation. They are also driving its digital success.",
+      "abstract": "As with Watergate, the paper’s scoops about the administration are helping shape the national conversation. They are also driving its digital success.",
+      "lead_paragraph": "Since The Washington Post’s Watergate-era glory days, my need to read that paper has waxed and waned. I already pay for and scour The New York Times (of course), The Wall Street Journal and The New Yorker, which is a lot to manage before I even get to the books on my night stand and Kindle. So I haven’t been looking for more to read, let alone another monthly expense.",
+      "publication_date": "2017-05-19T11:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/19/business/washington-post-digital-news.html",
+      "byline": "By James B. Stewart"
+    }
+  ]
+}

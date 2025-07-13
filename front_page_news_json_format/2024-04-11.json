@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2024-04-11",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Is the Boom-and-Bust Business Cycle Dead?",
+      "snippet": "There is a growing view that the U.S. business cycle has changed (for better) in a more diversified economy. To some, that sounds like tempting fate.",
+      "abstract": "There is a growing view that the U.S. business cycle has changed (for better) in a more diversified economy. To some, that sounds like tempting fate.",
+      "lead_paragraph": "For much of modern history, even the richest nations have been subject to big perennial upswings and crashes in commercial activity almost as fixed as the four seasons.",
+      "publication_date": "2024-04-11T09:02:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/11/business/economy/business-cycle.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "Soft Landing or No Landing? Fed’s Economic Picture Gets Complicated.",
+      "snippet": "Stubborn inflation and strong growth could keep the Federal Reserve wary about interest rate cuts, eager to avoid adding vim to the economy.",
+      "abstract": "Stubborn inflation and strong growth could keep the Federal Reserve wary about interest rate cuts, eager to avoid adding vim to the economy.",
+      "lead_paragraph": "America seemed headed for an economic fairy-tale ending in late 2023. The painfully rapid inflation that had kicked off in 2021 appeared to be cooling in earnest, and economic growth had begun to gradually moderate after a series of Federal Reserve interest rate increases.",
+      "publication_date": "2024-04-11T09:05:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/11/business/economy/federal-reserve-soft-no-landing.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Biden Administration Approves Expansion of Background Checks on Gun Sales",
+      "snippet": "The new rule, which is likely to face legal challenges, is an attempt to regulate a fast-growing shadow market of weapons that has fueled gun violence.",
+      "abstract": "The new rule, which is likely to face legal challenges, is an attempt to regulate a fast-growing shadow market of weapons that has fueled gun violence.",
+      "lead_paragraph": "The Biden administration has approved the broadest expansion of federal background checks in decades in an attempt to regulate a fast-growing shadow market of weapons sold online, at gun shows and through private sellers that has contributed to gun violence.",
+      "publication_date": "2024-04-11T09:05:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/11/us/politics/biden-guns-background-checks.html",
+      "byline": "By Glenn Thrush and Erica L. Green"
+    },
+    {
+      "headline": "‘Save Democracy’ Democrats Look to Win Primaries on Anti-Trump Sentiment",
+      "snippet": "In two races in Maryland and Virginia, candidates are turning political fame into campaigns, and a Pennsylvania race is focused on a congressman’s role in Trump’s efforts to overturn his 2020 loss.",
+      "abstract": "In two races in Maryland and Virginia, candidates are turning political fame into campaigns, and a Pennsylvania race is focused on a congressman’s role in Trump’s efforts to overturn his 2020 loss.",
+      "lead_paragraph": "Harry Dunn, a former Capitol Police officer whose pitched battles with former President Donald J. Trump’s supporters on and after Jan. 6, 2021, vaulted him to political stardom, was greeted Tuesday evening in Annapolis, Md., like a celebrity.",
+      "publication_date": "2024-04-11T09:06:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/11/us/politics/democrats-trump-save-democracy.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "This Artificially Intelligent Pin Wants to Free You From Your Phone",
+      "snippet": "The $700 Ai Pin, funded by OpenAI’s Sam Altman and Microsoft, can be helpful — until it struggles with tasks like doing math and crafting sandwich recipes.",
+      "abstract": "The $700 Ai Pin, funded by OpenAI’s Sam Altman and Microsoft, can be helpful — until it struggles with tasks like doing math and crafting sandwich recipes.",
+      "lead_paragraph": "On a recent afternoon, I held a bagel in front of me and said: “Look and tell me if this is healthy.”",
+      "publication_date": "2024-04-11T12:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/11/technology/personaltech/ai-pin-humane-openai-microsoft.html",
+      "byline": "By Brian X. Chen and Andri Tambunan"
+    }
+  ]
+}

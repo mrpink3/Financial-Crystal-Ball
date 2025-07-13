@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-07-23",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "For Airlines, It’s Looking More Like 2019 Again",
+      "snippet": "U.S. carriers are reaping the rewards as a surge in domestic air travel has exceeded forecasts.",
+      "abstract": "U.S. carriers are reaping the rewards as a surge in domestic air travel has exceeded forecasts.",
+      "lead_paragraph": "The aviation recovery is gaining momentum.",
+      "publication_date": "2021-07-22T17:54:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/22/business/airlines-united-american-southwest-delta.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "‘I’ll Never Forget You’: Veterans Push to Get Afghan Partners in War to the U.S.",
+      "snippet": "Through WhatsApp and Facebook messages, Afghans who served as interpreters are asking former colleagues in America to get them out as the Taliban close in.",
+      "abstract": "Through WhatsApp and Facebook messages, Afghans who served as interpreters are asking former colleagues in America to get them out as the Taliban close in.",
+      "lead_paragraph": "EDGEWATER, Md. — In a grainy video chat, Zak shared the latest from his embattled province in Afghanistan, an update as grim as it was commonplace. “The Taliban left a note at my house last night. They said, ‘Surrender tonight or we will kill you,’” he recounted in a tone more resigned than terrified.",
+      "publication_date": "2021-07-22T21:59:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/22/us/politics/afghanistan-usa-war.html",
+      "byline": "By Jennifer Steinhauer and John Ismay"
+    },
+    {
+      "headline": "‘Not Out of the Woods’: C.D.C. Issues Warning to the Unvaccinated",
+      "snippet": "The renewed sense of urgency was aimed at millions of people who have not yet been vaccinated and therefore are most likely to be infected.",
+      "abstract": "The renewed sense of urgency was aimed at millions of people who have not yet been vaccinated and therefore are most likely to be infected.",
+      "lead_paragraph": "WASHINGTON — The director of the Centers for Disease Control and Prevention warned on Thursday that the United States was “not out of the woods yet” on the pandemic and was once again at a “pivotal point” as the highly infectious Delta variant ripped through unvaccinated communities.",
+      "publication_date": "2021-07-22T22:52:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/22/us/politics/cdc-delta-variant.html",
+      "byline": "By Michael D. Shear, Jonathan Weisman and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Tense Funeral for Haiti Leader Exposes Rifts, and U.S. Delegation Departs Early",
+      "snippet": "Angry protests before and during the funeral reflected the nation’s deep divisions, a backdrop to a moment many had hoped would help mend a fractured nation. Shots were reported outside the event.",
+      "abstract": "Angry protests before and during the funeral reflected the nation’s deep divisions, a backdrop to a moment many had hoped would help mend a fractured nation. Shots were reported outside the event.",
+      "lead_paragraph": "CAP-HAÏTIEN, Haiti — Heckled by protesters and surrounded by phalanxes of heavily armed guards, foreign diplomats and Haitian politicians attended the funeral of Haiti’s assassinated president on Friday, a tense event that laid bare a fractured nation’s problems instead of providing an opportunity for healing.",
+      "publication_date": "2021-07-23T05:00:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/23/world/americas/moises-jovenel-funeral-haiti.html",
+      "byline": "By Catherine Porter"
+    },
+    {
+      "headline": "How Tech Won the Pandemic and Now May Never Lose",
+      "snippet": "As the world reeled, Silicon Valley supplied the tools that made life and work possible. Now tech companies are awash in money — and questions about what it means to win amid so much loss.",
+      "abstract": "As the world reeled, Silicon Valley supplied the tools that made life and work possible. Now tech companies are awash in money — and questions about what it means to win amid so much loss.",
+      "lead_paragraph": "SAN FRANCISCO — In April 2020, with 2,000 Americans dying every day of Covid-19, Jeff Bezos, Amazon’s chief executive and the world’s richest man, announced he was focusing on people rather than profits. Amazon would spend about $4 billion in the next few months “providing for customers and protecting employees,” he said, wiping out the profit the retailer would have made without the virus.",
+      "publication_date": "2021-07-23T09:00:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/07/23/technology/silicon-valleys-pandemic-profits.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Crypto Nomads: Surfing the World for Risk and Profit",
+      "snippet": "A new generation of industry leaders has set up offshore trading exchanges largely beyond the reach of American regulators.",
+      "abstract": "A new generation of industry leaders has set up offshore trading exchanges largely beyond the reach of American regulators.",
+      "lead_paragraph": "It is just after midnight in Hong Kong, and Sam Bankman-Fried stares at the trading data on his six monitors, watching a global cryptocurrency crash happening in real time.",
+      "publication_date": "2021-07-23T09:00:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/07/23/us/politics/crypto-billionaires.html",
+      "byline": "By Eric Lipton and Ephrat Livni"
+    },
+    {
+      "headline": "Tokyo Olympics Open to a Sea of Empty Seats",
+      "snippet": "While an opening ceremony is usually a chance for the host nation to showcase the best of itself, these Games are being staged with the less lofty ambition of enduring the pandemic.",
+      "abstract": "While an opening ceremony is usually a chance for the host nation to showcase the best of itself, these Games are being staged with the less lofty ambition of enduring the pandemic.",
+      "lead_paragraph": "TOKYO — The athletes marched into the arena masked and waving exuberantly. Dancers in pastel costumes and hats clapped and moved their arms in the air to whip up excitement. But there were no fans and no cheering audience — only row upon row of mostly empty seats stretching into the reaches of the vast Olympic Stadium in central Tokyo.",
+      "publication_date": "2021-07-23T14:53:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/23/world/asia/tokyo-olympics-opening-ceremony.html",
+      "byline": "By Motoko Rich"
+    },
+    {
+      "headline": "Some Florida Hospitals Have More Covid Patients Than Ever Before",
+      "snippet": "A rapid rise in Covid-19 hospitalizations in parts of the country with lagging vaccination rates is causing alarm.",
+      "abstract": "A rapid rise in Covid-19 hospitalizations in parts of the country with lagging vaccination rates is causing alarm.",
+      "lead_paragraph": "MIAMI — A month ago, the number of Covid-19 patients admitted at two University of Florida hospitals in Jacksonville was down to 14. Now more than 140 people are hospitalized with the coronavirus, a tenfold increase over five weeks — and the highest number of Covid-19 patients this system has seen during the pandemic.",
+      "publication_date": "2021-07-23T15:25:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/23/us/covid-hospitals-florida.html",
+      "byline": "By Patricia Mazzei"
+    }
+  ]
+}

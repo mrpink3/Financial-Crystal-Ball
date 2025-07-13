@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2009-06-05",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "S.E.C. Accuses Countrywide’s Ex-Chief of Fraud",
+      "snippet": "Angelo R. Mozilo faces charges of misleading investors about lending practices involving subprime mortgages.",
+      "abstract": "Angelo R. Mozilo faces charges of misleading investors about lending practices involving subprime mortgages.",
+      "lead_paragraph": "Angelo R. Mozilo, the self-made man from the Bronx who built Countrywide Financial into the nation’s largest mortgage lender before the credit squeeze hit, has been charged with securities fraud and insider trading in a civil suit brought by the Securities and Exchange Commission.",
+      "publication_date": "2009-06-04T20:26:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/05/business/05insider.html",
+      "byline": "By Gretchen Morgenson"
+    },
+    {
+      "headline": "Tax Break for Profits Went Awry",
+      "snippet": "A study indicates that billions of dollars U.S. companies brought back from foreign subsidiaries at a lower tax rate went to stock buybacks and dividends.",
+      "abstract": "A study indicates that billions of dollars U.S. companies brought back from foreign subsidiaries at a lower tax rate went to stock buybacks and dividends.",
+      "lead_paragraph": "It was called the “Homeland Investment Act,” and was sold to Congress as a way to spur investment in America, building plants, increasing research and development and creating jobs. It gave international companies a large one-time tax break on overseas profits, but only if the money was used for specified investments in the United States.",
+      "publication_date": "2009-06-04T21:22:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/05/business/05norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Taliban Stir Rising Anger of Pakistanis",
+      "snippet": "After months of televised cruelties, broken promises and attacks, many Pakistanis are turning against the Taliban.",
+      "abstract": "After months of televised cruelties, broken promises and attacks, many Pakistanis are turning against the Taliban.",
+      "lead_paragraph": "ISLAMABAD, Pakistan  A year ago, the Pakistani public was deeply divided over what to do about its spreading insurgency. Some saw the Taliban militants as fellow Muslims and native sons who simply wanted Islamic law, and many opposed direct military action against them. ",
+      "publication_date": "2009-06-05T00:55:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/05/world/asia/05refugees.html",
+      "byline": "By Sabrina Tavernise"
+    },
+    {
+      "headline": "In Ratings Agencies, Investors Still Trust",
+      "snippet": "Despite the blame given to them for the mortgage collapse, Moody’s and others still seem to have the confidence of the financial industry.",
+      "abstract": "Despite the blame given to them for the mortgage collapse, Moody’s and others still seem to have the confidence of the financial industry.",
+      "lead_paragraph": "The words sound almost quaint in this post-subprime age: “Credit. Man’s Confidence in Man.” ",
+      "publication_date": "2009-06-05T01:17:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/05/business/economy/05place.html",
+      "byline": "By David Gillen"
+    },
+    {
+      "headline": "At G.M., He’s in Charge of Selling What Remains",
+      "snippet": "A 40-year career in the restructuring business was a warm-up act for Albert Koch of AlixPartners.",
+      "abstract": "A 40-year career in the restructuring business was a warm-up act for Albert Koch of AlixPartners.",
+      "lead_paragraph": "Over the course of a 40-year career in the restructuring business, Albert A. Koch has helped manage some of the biggest bankruptcies on record, including the 2002 filing of Kmart, where he was the retailer’s chief financial officer.",
+      "publication_date": "2009-06-05T01:23:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/05/business/05auto.html",
+      "byline": "By Michael J. de la Merced"
+    },
+    {
+      "headline": "Ailing, Banks Still Field Strong Lobby at Capitol",
+      "snippet": "In defeating a change in bankruptcy law, the banking industry showed its struggles would not stop it from protecting its interests.",
+      "abstract": "In defeating a change in bankruptcy law, the banking industry showed its struggles would not stop it from protecting its interests.",
+      "lead_paragraph": "WASHINGTON  As he often does, President Obama took the opportunity in a bill-signing ceremony last month to remind Congress “to do what we were actually sent here to do  and that is to stand up to the special interests, and stand up for the American people.” ",
+      "publication_date": "2009-06-05T01:38:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/05/business/economy/05bankrupt.html",
+      "byline": "By Stephen Labaton"
+    },
+    {
+      "headline": "Apple Races to Keep Ahead of Rivals",
+      "snippet": "At next week’s Worldwide Developers Conference, Apple’s support among fans and developers will be tested.",
+      "abstract": "At next week’s Worldwide Developers Conference, Apple’s support among fans and developers will be tested.",
+      "lead_paragraph": "SAN FRANCISCO  With its coveted gadgets and resurgent stock price, Apple has cast something of a spell on both consumers and investors. ",
+      "publication_date": "2009-06-05T02:06:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/05/technology/companies/05apple.html",
+      "byline": "By Brad Stone"
+    },
+    {
+      "headline": "Sotomayor Rose on Merit Alone, Her Allies Say",
+      "snippet": "In the 1980s and 1990s, Sonia Sotomayor rose from corporate lawyer to a federal judge by timing, energy and merit, associates recall.",
+      "abstract": "In the 1980s and 1990s, Sonia Sotomayor rose from corporate lawyer to a federal judge by timing, energy and merit, associates recall.",
+      "lead_paragraph": " New York City in the 1980s was a place defined by party fiefs and political bosses, and high-profile public jobs were a coin of their realm.",
+      "publication_date": "2009-06-05T02:24:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/05/us/politics/05judge.html",
+      "byline": "By Michael Powell and Serge F. Kovaleski"
+    },
+    {
+      "headline": "Bank of America Ousts Head of Risk Oversight",
+      "snippet": "The officer the bank replaced, Amy Woods Brinkley, was one of the highest ranking women on Wall Street. More board members may depart in coming weeks.",
+      "abstract": "The officer the bank replaced, Amy Woods Brinkley, was one of the highest ranking women on Wall Street. More board members may depart in coming weeks.",
+      "lead_paragraph": "Facing pressure from federal regulators to improve its risk oversight, Bank of America forced out its chief risk officer on Thursday and continued a shake-up of its board. ",
+      "publication_date": "2009-06-05T03:36:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/05/business/05risk.html",
+      "byline": "By Louise Story and Eric Dash"
+    },
+    {
+      "headline": "Hints of Hope Even as Jobless Rate Jumps to 9.4%",
+      "snippet": "The U.S. unemployment rate rose to the highest level in 26 years, but the loss of fewer jobs than expected amplified hopes of recovery.",
+      "abstract": "The U.S. unemployment rate rose to the highest level in 26 years, but the loss of fewer jobs than expected amplified hopes of recovery.",
+      "lead_paragraph": "The American economy shed 345,000 jobs in May, and the unemployment rate spiked to 9.4 percent, but the losses were far smaller than anticipated, amplifying hopes of recovery.",
+      "publication_date": "2009-06-05T12:40:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/06/business/economy/06jobs.html",
+      "byline": "By Peter S. Goodman and Jack Healy"
+    }
+  ]
+}

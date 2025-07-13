@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-08-05",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "With Census Count Finishing Early, Fears of a Skewed Tally Rise",
+      "snippet": "With 60 million households still uncounted, the bureau said it would wrap up the survey a month early. Critics called it a bald move to politicize the count in favor of Republicans.",
+      "abstract": "With 60 million households still uncounted, the bureau said it would wrap up the survey a month early. Critics called it a bald move to politicize the count in favor of Republicans.",
+      "lead_paragraph": "WASHINGTON — With the Trump administration’s decision to end the 2020 census count four weeks early, the Census Bureau now has to accomplish what officials have said it cannot do: accurately count the nation’s hardest-to-reach residents — nearly four of every 10 households — in just six weeks.",
+      "publication_date": "2020-08-04T16:14:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/04/us/2020-census-ending-early.html",
+      "byline": "By Michael Wines and Richard Fausset"
+    },
+    {
+      "headline": "Disney, Staggered by Pandemic, Sees a Streaming Boom",
+      "snippet": "The company lost $4.7 billion in the latest quarter, but also reported that Disney+ has about 60.5 million subscribers after nine months of operation.",
+      "abstract": "The company lost $4.7 billion in the latest quarter, but also reported that Disney+ has about 60.5 million subscribers after nine months of operation.",
+      "lead_paragraph": "The Walt Disney Company reported doomsday financial results on Tuesday as a result of the coronavirus pandemic and a television-related write-down, with net quarterly losses totaling $4.72 billion.",
+      "publication_date": "2020-08-04T22:38:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/04/business/media/disney-earnings-coronavirus.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Blasts Rock Beirut, Killing Dozens and Wounding Thousands",
+      "snippet": "The cause remained unclear hours later. But officials in the Lebanese capital said 2,750 tons of highly explosive ammonium nitrate had been stored in a depot at the center of the explosion.",
+      "abstract": "The cause remained unclear hours later. But officials in the Lebanese capital said 2,750 tons of highly explosive ammonium nitrate had been stored in a depot at the center of the explosion.",
+      "lead_paragraph": "BEIRUT, Lebanon — The blasts came within seconds of each other.",
+      "publication_date": "2020-08-04T23:14:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Businesses Thought They Were Covered for the Pandemic. Insurers Say No.",
+      "snippet": "The N.B.A.’s Houston Rockets and restaurants like Chez Panisse are among those suing their insurers for refusing to pay “business interruption” claims during the coronavirus outbreak.",
+      "abstract": "The N.B.A.’s Houston Rockets and restaurants like Chez Panisse are among those suing their insurers for refusing to pay “business interruption” claims during the coronavirus outbreak.",
+      "lead_paragraph": "When the Great Lockdown started in Michigan, Nick Gavrilides closed the dining room of his Soup Spoon Cafe in Lansing, had some farewell beers with his workers and set to work on an insurance claim.",
+      "publication_date": "2020-08-05T09:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/05/business/business-interruption-insurance-pandemic.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Is TikTok a Good Buy? It Depends on What’s Included",
+      "snippet": "TikTok’s most valuable assets, a hyper-effective algorithm and a community of popular creators, may not be as easy to acquire as the company itself.",
+      "abstract": "TikTok’s most valuable assets, a hyper-effective algorithm and a community of popular creators, may not be as easy to acquire as the company itself.",
+      "lead_paragraph": "TikTok is going to get acquired or die trying.",
+      "publication_date": "2020-08-05T09:00:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/05/technology/tiktok-deal-algorithm.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "German Banks Push Back as American Investors Seek More Influence",
+      "snippet": "A drive by buyout firm Cerberus to force cost cutting at Commerzbank has run into resistance from Berlin.",
+      "abstract": "A drive by buyout firm Cerberus to force cost cutting at Commerzbank has run into resistance from Berlin.",
+      "lead_paragraph": "A few weeks ago the American private equity firm Cerberus Capital Management seemed to be on the cusp of provoking a major shake-up in German banking after it pressured the two top executives of the country’s second-largest lender to quit.",
+      "publication_date": "2020-08-05T13:55:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/05/business/commerzbank-cerebus-german-banks-private-equity.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Japan’s Locked Borders Shake the Trust of Its Foreign Workers",
+      "snippet": "A pandemic policy that bars re-entry for many permanent and long-term residents has upended many lives and undercut Tokyo’s efforts to woo global capital and talent.",
+      "abstract": "A pandemic policy that bars re-entry for many permanent and long-term residents has upended many lives and undercut Tokyo’s efforts to woo global capital and talent.",
+      "lead_paragraph": "TOKYO — When Jeff Mazziotta, a director of a nonprofit wildlife conservation organization, left Japan for South Africa in early March, he planned to spend a month training park rangers on emergency field medicine before returning to Tokyo.",
+      "publication_date": "2020-08-05T14:19:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/05/business/japan-entry-ban-coronavirus.html",
+      "byline": "By Ben Dooley"
+    }
+  ]
+}

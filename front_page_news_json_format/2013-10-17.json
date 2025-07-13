@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2013-10-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Gridlock Has Cost U.S. Billions, and the Meter Is Still Running",
+      "snippet": "Damage to growth, employment and interest rates has already been extensive, economists say, even without a debt default and a continuation of the government shutdown.",
+      "abstract": "Damage to growth, employment and interest rates has already been extensive, economists say, even without a debt default and a continuation of the government shutdown.",
+      "lead_paragraph": "WASHINGTON — Containers of goods idling at ports. Reduced sales at sandwich shops in downtown Washington. Canceled vacations to national parks and to destinations abroad. Reduced corporate earnings forecasts. Higher interest payments on short-term debt.",
+      "publication_date": "2013-10-16T17:31:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/17/business/economy/high-cost-to-the-economy-from-the-fiscal-impasse.html",
+      "byline": "By Annie Lowrey, Nathaniel Popper and Nelson D. Schwartz"
+    },
+    {
+      "headline": "Facebook Eases Privacy Rules for Teenagers",
+      "snippet": "Teenagers will now be able to post items that can be seen by the public, making it easier for the social network to turn a post into an ad that can be shown widely.",
+      "abstract": "Teenagers will now be able to post items that can be seen by the public, making it easier for the social network to turn a post into an ad that can be shown widely.",
+      "lead_paragraph": "SAN FRANCISCO — Facebook has loosened its privacy rules for teenagers as a debate swirls over online threats to children from bullies and sexual predators.",
+      "publication_date": "2013-10-16T20:07:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/17/technology/facebook-changes-privacy-policy-for-teenagers.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "Jury Rules for Mark Cuban in Setback for S.E.C.",
+      "snippet": "The Securities and Exchange Commission’s loss could reignite concerns about the agency’s struggles in the courtroom.",
+      "abstract": "The Securities and Exchange Commission’s loss could reignite concerns about the agency’s struggles in the courtroom.",
+      "lead_paragraph": "Updated, 8:42 p.m. | The government mocked Mark Cuban as a winner in “his mind,” claiming that the billionaire owner of the Dallas Mavericks basketball team possessed a “competitive edge” that drove him to insider trading.",
+      "publication_date": "2013-10-16T20:14:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/10/16/mark-cuban-cleared-of-insider-trading/",
+      "byline": "By Ben Protess and Lauren D'Avolio"
+    },
+    {
+      "headline": "Reconciling 2 Worlds With Windows 8.1",
+      "snippet": "After a year of tinkering with the much-criticized Windows 8, Microsoft unveils (drumroll) Windows 8.1. The changes are many and useful.",
+      "abstract": "After a year of tinkering with the much-criticized Windows 8, Microsoft unveils (drumroll) Windows 8.1. The changes are many and useful.",
+      "lead_paragraph": "Just about one year ago, Microsoft gave us two new operating systems.",
+      "publication_date": "2013-10-16T21:06:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/17/technology/personaltech/reconciling-the-2-worlds-of-windows-8.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Scattered by War, Syrians Struggle to Start Over",
+      "snippet": "The plight of a family that fled to Jordan shows how the war has forced Syrians to remake their lives in new and often unwelcoming places.",
+      "abstract": "The plight of a family that fled to Jordan shows how the war has forced Syrians to remake their lives in new and often unwelcoming places.",
+      "lead_paragraph": "MAFRAQ, Jordan — Watering the plants on her balcony back home in Syria this spring, Wedad Sarhan took delight in how they were stirring to life after the winter months. A jasmine tree filled the small balcony with its sweet scent. An apricot tree, planted eight springs earlier, was blossoming for the first time.",
+      "publication_date": "2013-10-16T23:08:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/17/world/middleeast/scattered-by-war-syrian-family-struggles-to-start-over.html",
+      "byline": "By Norimitsu Onishi"
+    },
+    {
+      "headline": "In Greece, the Banking Chief Draws Scrutiny",
+      "snippet": "Georgios A. Provopoulos, the governor of the Bank of Greece, helped keep the country out of bankruptcy and in the euro zone, but a banking deal he approved is under inquiry.",
+      "abstract": "Georgios A. Provopoulos, the governor of the Bank of Greece, helped keep the country out of bankruptcy and in the euro zone, but a banking deal he approved is under inquiry.",
+      "lead_paragraph": "ATHENS — In an era when central bankers like Ben S. Bernanke dominate the global economic stage, few hold as much power within their own country as Georgios A. Provopoulos, the governor of the Bank of Greece, who has played a crucial role in keeping Greece out of bankruptcy and in the euro zone.",
+      "publication_date": "2013-10-16T23:58:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/17/business/international/in-greece-the-banking-chief-draws-scrutiny.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Snowden Journalist’s New Venture to Be Bankrolled by eBay Founder",
+      "snippet": "Pierre Omidyar will finance the news site drawing Glenn Greenwald away from The Guardian, where he reported on the revelations by Edward Snowden.",
+      "abstract": "Pierre Omidyar will finance the news site drawing Glenn Greenwald away from The Guardian, where he reported on the revelations by Edward Snowden.",
+      "lead_paragraph": "For years, the tech billionaire Pierre M. Omidyar has been experimenting with ways to promote serious journalism, searching for the proper media platform to support with the fortune he earned as the founder of eBay. He has made grants to independent media outlets in Africa and government watchdog groups in the United States. In a more direct effort, he created a news Web site in Hawaii, his home state.",
+      "publication_date": "2013-10-17T01:16:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/17/business/media/snowden-journalists-new-venture-to-be-bankrolled-by-ebay-founder.html",
+      "byline": "By Noam Cohen and Quentin Hardy"
+    },
+    {
+      "headline": "Losing a Lot to Get Little",
+      "snippet": "Republicans could have turned the problem-plagued rollout of the health care law into an argument against it, but instead a failed campaign to strip the law of federal money has left the party in disarray.",
+      "abstract": "Republicans could have turned the problem-plagued rollout of the health care law into an argument against it, but instead a failed campaign to strip the law of federal money has left the party in disarray.",
+      "lead_paragraph": "WASHINGTON — For the Republicans who despise President Obama’s health care law, the last few weeks should have been a singular moment to turn its problem-plagued rollout into an argument against it. Instead, in a futile campaign to strip the law of federal money, the party focused harsh scrutiny on its own divisions, hurt its national standing and undermined its ability to win concessions from Democrats. Then they surrendered almost unconditionally.",
+      "publication_date": "2013-10-17T01:45:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/17/us/politics/losing-a-lot-to-get-little.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "Fall in Revenue at Goldman Sachs Raises Concerns",
+      "snippet": "The weakness renewed worries about the headwinds that Goldman and other banks are facing in big money-producing areas like fixed-income trading.",
+      "abstract": "The weakness renewed worries about the headwinds that Goldman and other banks are facing in big money-producing areas like fixed-income trading.",
+      "lead_paragraph": "Updated, 5:53 p.m. | Among Goldman Sachs employees, the chatter started months ago that 2013 was going to be a good bonus year. The Wall Street bank began the year strong, and despite concerns about the economy, its profit doubled over year-ago levels in the second quarter.",
+      "publication_date": "2013-10-17T12:03:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/10/17/goldman-quarterly-profit-flat-but-beats-estimates/",
+      "byline": "By Susanne Craig and Peter Eavis"
+    },
+    {
+      "headline": "If You Like a Star Athlete, Now You Can Buy a Share",
+      "snippet": "Fantex Holdings, a start-up backed by prominent investors, is creating stocks tied to the value and performance of an athlete’s brand. First up: Arian Foster of the Houston Texans.",
+      "abstract": "Fantex Holdings, a start-up backed by prominent investors, is creating stocks tied to the value and performance of an athlete’s brand. First up: Arian Foster of the Houston Texans.",
+      "lead_paragraph": "Updated, 8:48 p.m. | First, there was old-fashioned gambling on football. Then came the fantasy leagues. And now, thanks to Wall Street, fans can buy a stake in their favorite player.",
+      "publication_date": "2013-10-17T12:31:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2013/10/17/want-a-piece-of-a-star-athlete-now-you-really-can-buy-one/",
+      "byline": "By Peter Lattman and Steve Eder"
+    }
+  ]
+}

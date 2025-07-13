@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-12-27",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "The Tech That Was Fixed in 2018 and the Tech That Still Needs Fixing",
+      "snippet": "From Facebook to creepy online ads, the worst tech of the year made the internet feel like an unsafe place to hang out. Yet there were some products that were fixed, our personal tech critic writes.",
+      "abstract": "From Facebook to creepy online ads, the worst tech of the year made the internet feel like an unsafe place to hang out. Yet there were some products that were fixed, our personal tech critic writes.",
+      "lead_paragraph": "Personal technology was so awful this year that nobody would think you were paranoid if you dug a hole and buried your computer, phone and smart speaker under six feet of earth.",
+      "publication_date": "2018-12-26T16:26:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/26/technology/personaltech/tech-fix-2018.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "‘A Breaking Point’: Second Child’s Death Prompts New Procedures for Border Agency",
+      "snippet": "United States Customs and Border Protection said it would focus on children younger than 10, and revealed new details about the 8-year-old who died this week.",
+      "abstract": "United States Customs and Border Protection said it would focus on children younger than 10, and revealed new details about the 8-year-old who died this week.",
+      "lead_paragraph": "A Guatemalan boy who died on Christmas Eve while in United States custody was moved among at least four crowded facilities at the border over the six days from his apprehension until his death.",
+      "publication_date": "2018-12-26T17:08:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/26/us/felipe-alonzo-gomez-customs-border-patrol.html",
+      "byline": "By Miriam Jordan"
+    },
+    {
+      "headline": "Trump Makes Surprise Visit to American Troops in Iraq",
+      "snippet": "President Trump’s first visit to forces in a combat zone came after criticism that he had not made such a trip — and days after his defense secretary resigned.",
+      "abstract": "President Trump’s first visit to forces in a combat zone came after criticism that he had not made such a trip — and days after his defense secretary resigned.",
+      "lead_paragraph": "President Trump visited American military forces on Wednesday in Iraq, making his first trip to troops stationed in a combat zone only days after announcing his intention to withdraw the United States from foreign wars in Syria and Afghanistan.",
+      "publication_date": "2018-12-26T19:18:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/26/us/politics/trump-iraq-troops-visit.html",
+      "byline": "By Annie Karni, Mark Landler and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "India Curbs Power of Amazon and Walmart to Sell Products Online",
+      "snippet": "The government announced a new policy barring the foreign companies from selling products from affiliated companies on their Indian shopping sites.",
+      "abstract": "The government announced a new policy barring the foreign companies from selling products from affiliated companies on their Indian shopping sites.",
+      "lead_paragraph": "The Indian government dealt a surprise blow on Wednesday to the e-commerce ambitions of Amazon and Walmart, effectively barring the American companies from selling products supplied by affiliated companies on their Indian shopping sites and from offering their customers special discounts or exclusive products.",
+      "publication_date": "2018-12-26T22:43:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/26/technology/india-amazon-walmart-online-retail.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "‘Stupid Questions,’ Rarer Briefings, No Holiday Party: Trump’s Year With the Press",
+      "snippet": "The president frequently attacked the news media in general and lobbed insults at individual reporters. But he also sat for dozens of interviews.",
+      "abstract": "The president frequently attacked the news media in general and lobbed insults at individual reporters. But he also sat for dozens of interviews.",
+      "lead_paragraph": "It can be easy to forget that, two years ago, the White House press briefing took place nearly every day. The president refrained from insulting reporters on live television. And correspondents did not lose their access for showing insufficient “respect.”",
+      "publication_date": "2018-12-26T23:58:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/26/business/media/trump-year-with-press.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Stocks Rise as Wall St.’s Roller Coaster Stages Late-Day Rally",
+      "snippet": "Volatility continued to shake financial markets in the United States, with share prices recovering in the afternoon after an early slide.",
+      "abstract": "Volatility continued to shake financial markets in the United States, with share prices recovering in the afternoon after an early slide.",
+      "lead_paragraph": "Wall Street’s roller-coaster ride extended into Thursday with stocks staging a late-day recovery as investors turned their attention to fresh data about the United States economy.",
+      "publication_date": "2018-12-27T08:51:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/27/business/global-stock-markets.html",
+      "byline": "By Emily Flitter"
+    },
+    {
+      "headline": "Minnesota Town Defamed by German Reporter Is Ready to Forgive",
+      "snippet": "A reporter for Der Spiegel published condescending fiction about Fergus Falls. Residents are eager to set the record straight, but also to move on.",
+      "abstract": "A reporter for Der Spiegel published condescending fiction about Fergus Falls. Residents are eager to set the record straight, but also to move on.",
+      "lead_paragraph": "FERGUS FALLS, Minn. — Claas Relotius, who spent weeks reporting in Fergus Falls last year for one of Europe’s most respected publications, could have written about the many residents who maintain friendships across partisan lines, about the efforts to lure former residents back to west-central Minnesota or about how a city of roughly 14,000 people maintains a robust arts scene.",
+      "publication_date": "2018-12-27T10:00:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/27/us/der-spiegel-fergus-falls-minnesota.html",
+      "byline": "By Matt Furber and Mitch Smith"
+    },
+    {
+      "headline": "Remember Bitcoin? Some Investors Might Want to Forget",
+      "snippet": "It was fun while it lasted. Cryptocurrencies soared and then they crashed. But true aficionados believe the underlying blockchain still has potential.",
+      "abstract": "It was fun while it lasted. Cryptocurrencies soared and then they crashed. But true aficionados believe the underlying blockchain still has potential.",
+      "lead_paragraph": "PALO ALTO, Calif. — Last year around this time, a toy called a cryptokitty sold for $170,000. A real estate agent remade himself as CoinDaddy, producing cryptocurrency-themed music videos. The man behind a company called Ripple became for a moment richer than Mark Zuckerberg. Kids barely out of high school were buying Lamborghinis because of a crypto meme. Experts went on CNBC to say Bitcoin was going to reach $100,000 per coin.",
+      "publication_date": "2018-12-27T10:00:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/27/technology/bitcoin-cryptocurrency-crash.html",
+      "byline": "By Nellie Bowles"
+    }
+  ]
+}

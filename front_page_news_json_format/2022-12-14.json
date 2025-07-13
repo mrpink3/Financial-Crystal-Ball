@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-12-14",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’",
+      "snippet": "A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.",
+      "abstract": "A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.",
+      "lead_paragraph": "Sam Bankman-Fried’s lies, prosecutors say, stretched back to the very beginning.",
+      "publication_date": "2022-12-13T16:02:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/13/business/ftx-sam-bankman-fried-fraud-charges.html",
+      "byline": "By David Yaffe-Bellany, Matthew Goldstein and Emily Flitter"
+    },
+    {
+      "headline": "Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs",
+      "snippet": "Twitter has stopped paying rent on offices and is considering not paying severance packages to former employees, among other measures.",
+      "abstract": "Twitter has stopped paying rent on offices and is considering not paying severance packages to former employees, among other measures.",
+      "lead_paragraph": "SAN FRANCISCO — Over the past two weeks, Elon Musk has shaken up Twitter’s legal department, disbanded a council that advised the social media company on safety issues and is continuing to take drastic steps to cut costs.",
+      "publication_date": "2022-12-13T21:10:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/13/technology/elon-musk-twitter-shakeup.html",
+      "byline": "By Ryan Mac, Mike Isaac and Kate Conger"
+    },
+    {
+      "headline": "Despite Trump’s Lobbying, McCarthy’s Speaker Bid Remains Imperiled on the Right",
+      "snippet": "Representative Kevin McCarthy is dealing with a group of right-wing detractors who appear impervious to negotiation, and who have yet to be moved even by the entreaties of the former president.",
+      "abstract": "Representative Kevin McCarthy is dealing with a group of right-wing detractors who appear impervious to negotiation, and who have yet to be moved even by the entreaties of the former president.",
+      "lead_paragraph": "WASHINGTON — Former President Donald J. Trump has been working the phones, personally pitching right-wing lawmakers on voting to make Representative Kevin McCarthy, the Republican leader he has called “My Kevin,” the speaker of the House.",
+      "publication_date": "2022-12-13T23:55:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/13/us/politics/trump-mccarthy-speaker-republicans-freedom-caucus.html",
+      "byline": "By Catie Edmondson, Maggie Haberman and Annie Karni"
+    },
+    {
+      "headline": "The Federal Reserve signals more to come even as it slows rate increases.",
+      "snippet": "Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected",
+      "abstract": "Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected",
+      "lead_paragraph": "Federal Reserve officials on Wednesday slowed their campaign to cool the economy but indicated that interest rates would rise higher in 2023 than previously expected as inflation proves more stubborn than policymakers had hoped.",
+      "publication_date": "2022-12-14T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/14/business/economy/interest-rates-inflation-fed.html",
+      "byline": "By Jeanna Smialek and Joe Rennison"
+    },
+    {
+      "headline": "A Sign That Tuition Is Too High: Some Colleges Are Slashing It in Half",
+      "snippet": "Colby-Sawyer in New Hampshire has reduced its tuition to $17,500 a year, from about $46,000. But the cut is also a recognition that few pay the list price.",
+      "abstract": "Colby-Sawyer in New Hampshire has reduced its tuition to $17,500 a year, from about $46,000. But the cut is also a recognition that few pay the list price.",
+      "lead_paragraph": "NEW LONDON, N.H. — Over the last two years, applications at Colby-Sawyer College, a small, quaint assemblage of red brick buildings surrounded by three mountains, fell about 10 percent, hurt by the pandemic and by competition from less expensive public colleges across the Northeast.",
+      "publication_date": "2022-12-14T10:00:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/14/us/college-universities-college-tuition-reset.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "How Will China Fare With Covid? ‘Meaningless’ Data Clouds the Picture.",
+      "snippet": "Despite assurances that the situation is under control, information on infections has become more opaque now that Beijing has rolled back pandemic restrictions.",
+      "abstract": "Despite assurances that the situation is under control, information on infections has become more opaque now that Beijing has rolled back pandemic restrictions.",
+      "lead_paragraph": "Since China dramatically reversed course and loosened its zero-tolerance approach to Covid last week, Beijing has gone all out to convince the public that it can weather the potential risks of lifting restrictions and still put the world’s second-largest economy back on track.",
+      "publication_date": "2022-12-14T10:28:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/14/business/china-economy-covid.html",
+      "byline": "By Daisuke Wakabayashi and Claire Fu"
+    },
+    {
+      "headline": "New Suit Uses Data to Back Racial Bias Claims Against State Farm",
+      "snippet": "Black customers have long claimed that the nation’s largest home insurer discriminates against them. A lawsuit claims a nine-month study provides some proof.",
+      "abstract": "Black customers have long claimed that the nation’s largest home insurer discriminates against them. A lawsuit claims a nine-month study provides some proof.",
+      "lead_paragraph": "Jacqueline Huskey, a Black woman living in suburban Illinois, tried more than a dozen times to get help from State Farm after a hailstorm punched holes in her roof. Now, thanks to a broad study of how the insurer handles claims like hers, she has evidence indicating that her struggle is a common one for Black customers.",
+      "publication_date": "2022-12-14T15:02:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/14/business/state-farm-racial-bias-lawsuit.html",
+      "byline": "By Emily Flitter"
+    }
+  ]
+}

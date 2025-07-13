@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2021-01-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Confessions of a Virtual Reality Gym Rat",
+      "snippet": "The workouts are real, even if the impossibly beautiful scenery is not.",
+      "abstract": "The workouts are real, even if the impossibly beautiful scenery is not.",
+      "lead_paragraph": "This year has created a lot of reluctant converts. Months ago, in less dire circumstances, we swore we’d never do any number of strange-sounding things: attend Zoom weddings, embrace ring lights, feed a sourdough starter. And yet here we are, making do.",
+      "publication_date": "2021-01-01T10:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/01/technology/confessions-of-a-virtual-reality-gym-rat.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "A Monster Wind Turbine Is Upending an Industry",
+      "snippet": "G.E.’s giant machine, which can light up a small town, is stoking a renewable-energy arms race.",
+      "abstract": "G.E.’s giant machine, which can light up a small town, is stoking a renewable-energy arms race.",
+      "lead_paragraph": "Twirling above a strip of land at the mouth of Rotterdam’s harbor is a wind turbine so large it is difficult to photograph. The turning diameter of its rotor is longer than two American football fields end to end. Later models will be taller than any building on the mainland of Western Europe.",
+      "publication_date": "2021-01-01T10:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/01/business/GE-wind-turbine.html",
+      "byline": "By Stanley Reed"
+    }
+  ]
+}

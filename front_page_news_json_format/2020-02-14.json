@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-02-14",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Build Build Build Build Build Build Build Build Build Build Build Build Build Build",
+      "snippet": "When California’s housing crisis slammed into a wealthy suburb, one public servant became a convert to a radically simple doctrine.",
+      "abstract": "When California’s housing crisis slammed into a wealthy suburb, one public servant became a convert to a radically simple doctrine.",
+      "lead_paragraph": "The City Council of Lafayette, Calif., met the public two Mondays a month, and Steve Falk liked to sit off by himself, near the fire exit of the auditorium, so that he could observe from the widest possible vantage. Trim, with a graying buzz cut, Mr. Falk was the city manager — basically the chief executive — of Lafayette, a wealthy suburb in the San Francisco Bay Area that is notoriously antagonistic to development.",
+      "publication_date": "2020-02-13T16:16:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/02/13/business/economy/housing-crisis-conor-dougherty-golden-gates.html",
+      "byline": "By Conor Dougherty"
+    },
+    {
+      "headline": "U.S. Charges Huawei With Racketeering, Adding Pressure on China",
+      "snippet": "The indictment is the Trump administration’s latest move in its fight against the Chinese tech giant, which it deems a security threat.",
+      "abstract": "The indictment is the Trump administration’s latest move in its fight against the Chinese tech giant, which it deems a security threat.",
+      "lead_paragraph": "WASHINGTON — The U.S. government has charged Huawei and two of its subsidiaries with federal racketeering and conspiracy to steal trade secrets from American companies, a significant escalation in the Trump administration’s legal fight with the Chinese telecommunications company.",
+      "publication_date": "2020-02-13T18:52:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/13/technology/huawei-racketeering-wire-fraud.html",
+      "byline": "By David McCabe, Nicole Hong and Katie Benner"
+    },
+    {
+      "headline": "Judge Halts Work on Microsoft’s JEDI Contract, a Victory for Amazon",
+      "snippet": "The judge ordered work to stop on a cloud-computing contract for the Pentagon until Amazon’s legal challenge was resolved.",
+      "abstract": "The judge ordered work to stop on a cloud-computing contract for the Pentagon until Amazon’s legal challenge was resolved.",
+      "lead_paragraph": "A federal judge in Washington ordered Microsoft on Thursday to halt all work on a $10 billion cloud-computing contract for the Pentagon, in a victory for Amazon, which had challenged the awarding of the contract.",
+      "publication_date": "2020-02-13T19:38:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/13/technology/amazon-jedi-pentagon-contract-microsoft.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Barr Says Attacks From Trump Make Work ‘Impossible’",
+      "snippet": "The attorney general said that the president’s attacks on prosecutors’ handling of his friend Roger Stone’s sentencing undermine the legal system and the Justice Department.",
+      "abstract": "The attorney general said that the president’s attacks on prosecutors’ handling of his friend Roger Stone’s sentencing undermine the legal system and the Justice Department.",
+      "lead_paragraph": "WASHINGTON — Attorney General William P. Barr delivered an extraordinary rebuke of President Trump on Thursday, saying that his attacks on the Justice Department had made it “impossible for me to do my job” and that “I’m not going to be bullied or influenced by anybody.”",
+      "publication_date": "2020-02-13T21:11:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/13/us/politics/william-barr-trump.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "How Months of Miscalculation Led the U.S. and Iran to the Brink of War",
+      "snippet": "The Trump administration escalated pressure on Iran to try to negotiate over its nuclear aims. Instead, Iran fought back with violent attacks. At critical points, each country misjudged the other.",
+      "abstract": "The Trump administration escalated pressure on Iran to try to negotiate over its nuclear aims. Instead, Iran fought back with violent attacks. At critical points, each country misjudged the other.",
+      "lead_paragraph": "WASHINGTON — In late September, a plane carrying senior Iranian officials touched down in Abu Dhabi, the gleaming capital of the United Arab Emirates.",
+      "publication_date": "2020-02-13T21:41:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/13/us/politics/iran-trump-administration.html",
+      "byline": "By Mark Mazzetti, Ronen Bergman and Farnaz Fassihi"
+    },
+    {
+      "headline": "China Expands Chaotic Dragnet in Coronavirus Crackdown",
+      "snippet": "The “wartime” campaign to round up all who might be sick was extended to cities beyond the epicenter, even as it was marred by confusion that has isolated vulnerable patients and left some to die.",
+      "abstract": "The “wartime” campaign to round up all who might be sick was extended to cities beyond the epicenter, even as it was marred by confusion that has isolated vulnerable patients and left some to die.",
+      "lead_paragraph": "China’s leaders expanded a mass roundup of people possibly sickened with the coronavirus on Thursday, widening their dragnet well beyond the epicenter of the outbreak to at least two more cities in what the government has called a “wartime” campaign to stamp out the epidemic.",
+      "publication_date": "2020-02-13T23:35:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/13/world/asia/13china-coronavirus-cases.html",
+      "byline": "By Amy Qin"
+    },
+    {
+      "headline": "3 Steps to a Socially Conscious Portfolio",
+      "snippet": "So you want your investment holdings to reflect your values and you’re confused by all the so-called E.S.G. funds. Here’s how to start.",
+      "abstract": "So you want your investment holdings to reflect your values and you’re confused by all the so-called E.S.G. funds. Here’s how to start.",
+      "lead_paragraph": "When the Justice Department announced this week that it was charging several members of the Chinese Army over the Equifax hack, it was all too easy to forget that the company’s sloppy practices had left the door open to thieves seeking leverage over American citizens.",
+      "publication_date": "2020-02-14T10:00:22+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/14/your-money/how-to-build-an-esg-funds-portfolio.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "What Being a Mayor Taught Pete Buttigieg",
+      "snippet": "Some Democratic rivals question whether Mr. Buttigieg has the experience to be president. Some key episodes in South Bend show how he struggled, learned and grew as a leader.",
+      "abstract": "Some Democratic rivals question whether Mr. Buttigieg has the experience to be president. Some key episodes in South Bend show how he struggled, learned and grew as a leader.",
+      "lead_paragraph": "SOUTH BEND, Ind. — The news was alarming: Children in some of South Bend’s poorest neighborhoods had a higher rate of lead poisoning than children in Flint, Mich.",
+      "publication_date": "2020-02-14T10:00:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/14/us/politics/pete-buttigieg-south-bend-mayor.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Russians Pressure U.S. Forces in Northeast Syria",
+      "snippet": "Russian troops are engaging in standoffs with U.S. troops guarding oil fields and fighting remnants of the Islamic State.",
+      "abstract": "Russian troops are engaging in standoffs with U.S. troops guarding oil fields and fighting remnants of the Islamic State.",
+      "lead_paragraph": "WASHINGTON — Russia is intensifying a pressure campaign on U.S. military forces in northeastern Syria following the American withdrawal from much of that area ahead of a Turkish cross-border offensive last fall, American military and diplomatic officials say.",
+      "publication_date": "2020-02-14T15:18:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/14/world/middleeast/russia-northeast-syria.html",
+      "byline": "By Eric Schmitt"
+    }
+  ]
+}

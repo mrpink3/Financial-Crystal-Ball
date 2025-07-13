@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2020-03-24",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Whatever It Takes: How the Fed Aims to Rescue the Economy",
+      "snippet": "The central bank is using tactics from the last financial crisis and deploying new ones to keep money flowing. Here are the basics.",
+      "abstract": "The central bank is using tactics from the last financial crisis and deploying new ones to keep money flowing. Here are the basics.",
+      "lead_paragraph": "The Federal Reserve on Monday pledged to do, in essence, whatever it takes to keep the economy from collapsing under the weight of the coronavirus pandemic.",
+      "publication_date": "2020-03-23T22:09:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/23/business/economy/federal-reserve-how-rescue.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Trump Considers Reopening Economy, Over Health Experts’ Objections",
+      "snippet": "The president is questioning whether stay-at-home orders have gone too far. But relaxing them could significantly increase the death toll from the coronavirus, health officials warn.",
+      "abstract": "The president is questioning whether stay-at-home orders have gone too far. But relaxing them could significantly increase the death toll from the coronavirus, health officials warn.",
+      "lead_paragraph": "WASHINGTON — As the United States entered Week 2 of trying to contain the spread of the coronavirus by shuttering large swaths of the economy, President Trump, Wall Street executives and many conservative economists began questioning whether the government had gone too far and should instead lift restrictions that are already inflicting deep pain on workers and businesses.",
+      "publication_date": "2020-03-24T00:13:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/23/business/trump-coronavirus-economy.html",
+      "byline": "By Jim Tankersley, Maggie Haberman and Roni Caryn Rabin"
+    },
+    {
+      "headline": "In World’s Most Vulnerable Countries, the Pandemic Rivals the 2008 Crisis",
+      "snippet": "As capital flees emerging markets, those countries are absorbing the most potent economic shocks of the coronavirus outbreak.",
+      "abstract": "As capital flees emerging markets, those countries are absorbing the most potent economic shocks of the coronavirus outbreak.",
+      "lead_paragraph": "In New Delhi, a fruit vendor whose sales have dropped by half now dilutes the milk she serves to her five children. In central Turkey, a company that runs hot air balloon rides for tourists has banished its 49 employees to indefinite leave while cutting their wages by half.",
+      "publication_date": "2020-03-24T13:51:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/24/business/coronavirus-per-country-pandemic.html",
+      "byline": "By Peter S. Goodman, Daniel Politi, Suhasini Raj, Lynsey Chutel and Abdi Latif Dahir"
+    },
+    {
+      "headline": "States Say Some Doctors Stockpile Trial Coronavirus Drugs, for Themselves",
+      "snippet": "The stockpiling has become so worrisome that pharmacy boards in many states have issued emergency restrictions on how the drugs can be dispensed.",
+      "abstract": "The stockpiling has become so worrisome that pharmacy boards in many states have issued emergency restrictions on how the drugs can be dispensed.",
+      "lead_paragraph": "Doctors are hoarding medications touted as possible coronavirus treatments by writing prescriptions for themselves and family members, according to pharmacy boards in states across the country.",
+      "publication_date": "2020-03-24T14:54:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/24/business/doctors-buying-coronavirus-drugs.html",
+      "byline": "By Ellen Gabler"
+    },
+    {
+      "headline": "Democrats Near Deal With White House on Stimulus Package",
+      "snippet": "Top Democrats and administration officials said they were optimistic about finalizing a compromise on a $2 trillion economic package after agreeing to add oversight for a bailout fund.",
+      "abstract": "Top Democrats and administration officials said they were optimistic about finalizing a compromise on a $2 trillion economic package after agreeing to add oversight for a bailout fund.",
+      "lead_paragraph": "WASHINGTON — Congressional leaders and Trump administration officials closed in on a deal on Tuesday on a roughly $2 trillion economic stabilization plan to respond to the coronavirus pandemic, after agreeing to Democratic demands to add oversight requirements for a $500 billion government bailout fund for distressed companies.",
+      "publication_date": "2020-03-24T15:53:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/24/us/politics/coronavirus-stimulus-bill.html",
+      "byline": "By Emily Cochrane and Nicholas Fandos"
+    }
+  ]
+}

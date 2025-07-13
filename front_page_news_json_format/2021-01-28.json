@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2021-01-28",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Extremists Emboldened by Capitol Attack Pose Rising Threat, Homeland Security Says",
+      "snippet": "The warning was a notable departure for a Department of Homeland Security accused of being reluctant during the Trump administration to publish intelligence reports or public warnings about the dangers posed by extremists and white supremacist gro...",
+      "abstract": "The warning was a notable departure for a Department of Homeland Security accused of being reluctant during the Trump administration to publish intelligence reports or public warnings about the dangers posed by extremists and white supremacist groups.",
+      "lead_paragraph": "WASHINGTON — Warning that the deadly rampage of the Capitol this month may not be an isolated episode, the Department of Homeland Security on Wednesday said publicly for the first time that the United States faced a growing threat from “violent domestic extremists” emboldened by the attack.",
+      "publication_date": "2021-01-28T01:50:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/27/us/politics/homeland-security-threat.html",
+      "byline": "By Zolan Kanno-Youngs and David E. Sanger"
+    },
+    {
+      "headline": "Frail at Year’s End, Economy Looks for a Second Wind",
+      "snippet": "With new shutdowns and a delay in aid, the recovery faltered in the fourth quarter. Better times are expected this year. The question is how soon.",
+      "abstract": "With new shutdowns and a delay in aid, the recovery faltered in the fourth quarter. Better times are expected this year. The question is how soon.",
+      "lead_paragraph": "The U.S. economic rebound faltered at the end of 2020 as surging coronavirus cases kept people home and a delay in federal assistance hampered many households and businesses.",
+      "publication_date": "2021-01-28T08:53:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/28/business/gdp-report-2020.html",
+      "byline": "By Ben Casselman"
+    }
+  ]
+}

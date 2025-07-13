@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2020-05-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Biden Denies Tara Reade’s Assault Allegation: ‘It Never Happened’",
+      "snippet": "Joseph R. Biden Jr., in his first public address of a former Senate aide’s accusation that he sexually assaulted her in 1993, called on the National Archives to release any document related to the allegation.",
+      "abstract": "Joseph R. Biden Jr., in his first public address of a former Senate aide’s accusation that he sexually assaulted her in 1993, called on the National Archives to release any document related to the allegation.",
+      "lead_paragraph": "Former Vice President Joseph R. Biden Jr. on Friday denied an allegation of sexual assault by a former Senate aide, Tara Reade, breaking a monthlong silence that had frustrated some Democratic activists as his presidential campaign navigated issues of gender that are vitally important to many members of his party.",
+      "publication_date": "2020-05-01T09:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/01/us/politics/joe-biden-tara-reade-morning-joe.html",
+      "byline": "By Katie Glueck, Lisa Lerer and Sydney Ember"
+    },
+    {
+      "headline": "‘This Feels Very Different’",
+      "snippet": "For over a decade, the Permian Basin has been the epicenter of the American oil boom. Now, it’s the epicenter of its demise.",
+      "abstract": "For over a decade, the Permian Basin has been the epicenter of the American oil boom. Now, it’s the epicenter of its demise.",
+      "lead_paragraph": "MIDLAND, Texas — In just over a month, scores of drilling rigs have been dismantled and tucked away in storage yards. Pump jacks, those piston pumps that lift crude out of the ground, have seesawed to a standstill as operators shut down wells.",
+      "publication_date": "2020-05-01T09:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/01/business/energy-environment/oil-industry-texas-coronavirus.html",
+      "byline": "By Tamir Kalifa and Clifford Krauss"
+    },
+    {
+      "headline": "The Business of Burps: Scientists Smell Profit in Cow Emissions",
+      "snippet": "Cattle produce more methane than many large countries. A solution could be an ecological and financial breakthrough — and a Swiss biotech company may be on the cusp.",
+      "abstract": "Cattle produce more methane than many large countries. A solution could be an ecological and financial breakthrough — and a Swiss biotech company may be on the cusp.",
+      "lead_paragraph": "LANCASTER, England — Peaches, a brown-and-white Jersey cow weighing 1,200 pounds, was amiably following Edward Towers through a barn on a sunny March morning when the 6-year-old dug in her front hooves.",
+      "publication_date": "2020-05-01T09:00:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/05/01/business/cow-methane-climate-change.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Congress Calls on Jeff Bezos of Amazon to Testify",
+      "snippet": "Lawmakers want to question Mr. Bezos, Amazon’s chief executive, as part of its antitrust investigation.",
+      "abstract": "Lawmakers want to question Mr. Bezos, Amazon’s chief executive, as part of its antitrust investigation.",
+      "lead_paragraph": "WASHINGTON — The House Judiciary Committee on Friday called on Jeff Bezos, Amazon’s chief executive, to testify before Congress, in a major escalation of its investigation into the country’s largest technology companies.",
+      "publication_date": "2020-05-01T14:55:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/01/technology/jeff-bezos-congress.html",
+      "byline": "By David McCabe"
+    }
+  ]
+}

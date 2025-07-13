@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-08-27",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "The Fed’s Evolution Is Coming to a Computer Screen Near You",
+      "snippet": "The 2020 version of the Federal Reserve’s loftiest annual meeting will be webcast this week, allowing the public to tune in for the first time. It could be the stage for an important policy shift.",
+      "abstract": "The 2020 version of the Federal Reserve’s loftiest annual meeting will be webcast this week, allowing the public to tune in for the first time. It could be the stage for an important policy shift.",
+      "lead_paragraph": "WASHINGTON — For more than a year, the Federal Reserve has wrestled with how to achieve its twin goals — maximum employment and stable inflation — in an era of tepid price increases and very low interest rates.",
+      "publication_date": "2020-08-26T19:09:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/26/business/economy/fed-meeting-powell.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Top U.S. Officials Told C.D.C. to Soften Coronavirus Testing Guidelines",
+      "snippet": "The Centers for Disease Control and Prevention abruptly changed its recommendations, saying people without Covid-19 symptoms should not get tested.",
+      "abstract": "The Centers for Disease Control and Prevention abruptly changed its recommendations, saying people without Covid-19 symptoms should not get tested.",
+      "lead_paragraph": "WASHINGTON — Trump administration officials on Wednesday defended a new recommendation that people without Covid-19 symptoms abstain from testing, even as scientists warned that the policy could hobble an already weak federal response as schools reopen and a potential autumn wave looms.",
+      "publication_date": "2020-08-26T23:29:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/politics/coronavirus-testing-trump-cdc.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Trump Takes Night Off From Anti-Immigrant Talk to Swear In U.S. Citizens",
+      "snippet": "Five new American citizens were stunned to be naturalized at a White House ceremony during the Republican National Convention. Some said they did not know they were being broadcast until friends called to tell them.",
+      "abstract": "Five new American citizens were stunned to be naturalized at a White House ceremony during the Republican National Convention. Some said they did not know they were being broadcast until friends called to tell them.",
+      "lead_paragraph": "WASHINGTON — President Trump moved within weeks of taking office to prohibit immigrants from Sudan from entering the United States, citing terrorism threats and including it in his travel ban on some predominantly Muslim countries — restrictions that remain partly in place today.",
+      "publication_date": "2020-08-26T23:41:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/politics/trump-naturalization-ceremony-rnc.html",
+      "byline": "By Zolan Kanno-Youngs and Michael D. Shear"
+    },
+    {
+      "headline": "How Chaos in Kenosha Is Already Swaying Some Voters in Wisconsin",
+      "snippet": "As residents see fires and looting, some worry that local Democratic leaders are failing to keep control of the situation.",
+      "abstract": "As residents see fires and looting, some worry that local Democratic leaders are failing to keep control of the situation.",
+      "lead_paragraph": "John Geraghty, a 41-year-old worker in a tractor factory, has barely paid attention to the presidential race or the conventions. Every day he focuses on survival: getting his son to sports practice, working at his job where he now wears a mask, and getting home to sleep, only to start over again the next day.",
+      "publication_date": "2020-08-27T00:27:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/kenosha-wisconsin-trump.html",
+      "byline": "By Sabrina Tavernise and Ellen Almer Durston"
+    },
+    {
+      "headline": "With Wisconsin Unrest as Backdrop, Republicans Intensify Law-and-Order Message",
+      "snippet": "On the third day of the convention, Vice President Mike Pence and other Republicans portrayed Democrats as tolerant of violence and riots. And they continued to try to soften President Trump’s image.",
+      "abstract": "On the third day of the convention, Vice President Mike Pence and other Republicans portrayed Democrats as tolerant of violence and riots. And they continued to try to soften President Trump’s image.",
+      "lead_paragraph": "WASHINGTON — Republicans used the third night of their convention on Wednesday to amplify warnings of violence and lawlessness under Democratic leadership, trying to capitalize on the worsening unrest in Wisconsin to reclaim moderate voters who might be reluctant to hand President Trump a second term.",
+      "publication_date": "2020-08-27T02:14:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/politics/republican-national-convention-recap.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Intel Slips, and a High-Profile Supercomputer Is Delayed",
+      "snippet": "The chip maker was selected for an Energy Department project meant to show American tech independence. But problems at Intel have thrown a wrench into the effort.",
+      "abstract": "The chip maker was selected for an Energy Department project meant to show American tech independence. But problems at Intel have thrown a wrench into the effort.",
+      "lead_paragraph": "OAKLAND, Calif. — When it selected Intel to help build a $500 million supercomputer last year, the Energy Department bet that computer chips made in the United States could help counter a technology challenge from China.",
+      "publication_date": "2020-08-27T09:00:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/27/technology/intel-aurora-supercomputer.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "Turkey Braces for Yet Another Currency Crisis",
+      "snippet": "A sharp drop in the value of the lira is testing businesses and residents while they are coping with the pandemic.",
+      "abstract": "A sharp drop in the value of the lira is testing businesses and residents while they are coping with the pandemic.",
+      "lead_paragraph": "When the Turkish lira plunged to a new low against the dollar and euro this month, Hakan Bulgurlu did not panic. This was not the first time that Mr. Bulgurlu, the chief executive of Arcelik, a Turkish maker of home appliances, had steered through a currency crisis.",
+      "publication_date": "2020-08-27T09:00:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/27/business/turkey-currency-crisis.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Fed Chair Sets Stage for Longer Periods of Lower Rates",
+      "snippet": "Jerome H. Powell said the central bank would focus its efforts on fostering a strong labor market while tolerating higher inflation.",
+      "abstract": "Jerome H. Powell said the central bank would focus its efforts on fostering a strong labor market while tolerating higher inflation.",
+      "lead_paragraph": "Jerome H. Powell, the chair of the Federal Reserve, announced a major shift in how the central bank guides the economy, signaling it will make job growth pre-eminent and will not raise interest rates to guard against coming inflation just because the unemployment rate is low.",
+      "publication_date": "2020-08-27T13:17:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

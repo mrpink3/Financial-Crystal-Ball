@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-06-29",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump Urged Armed Supporters to Capitol, White House Aide Testifies",
+      "snippet": "Cassidy Hutchinson told the House committee investigating the riot that President Donald J. Trump did not care about the potential for violence because his supporters were not there to attack him.",
+      "abstract": "Cassidy Hutchinson told the House committee investigating the riot that President Donald J. Trump did not care about the potential for violence because his supporters were not there to attack him.",
+      "lead_paragraph": "WASHINGTON — The first White House aide to testify publicly before the House committee investigating the Jan. 6 attack provided a damning account on Tuesday of how former President Donald J. Trump, knowing his supporters were armed and threatening violence, urged them to march to the Capitol and sought to join them there, privately siding with them as they stormed the building and called for the hanging of the vice president.",
+      "publication_date": "2022-06-28T16:38:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/28/us/politics/trump-meadows-jan-6-surprise-hearing.html",
+      "byline": "By Luke Broadwater and Michael S. Schmidt"
+    },
+    {
+      "headline": "A President Untethered",
+      "snippet": "In the final, frenzied days of his administration, Donald J. Trump’s behavior turned increasingly volatile as he smashed dishware and lunged at his own Secret Service agent, according to testimony.",
+      "abstract": "In the final, frenzied days of his administration, Donald J. Trump’s behavior turned increasingly volatile as he smashed dishware and lunged at his own Secret Service agent, according to testimony.",
+      "lead_paragraph": "WASHINGTON — He flung his lunch across the room, smashing the plate in a fit of anger as ketchup dripped down the wall. He appeared to endorse supporters who wanted to hang his own vice president. And in a scene laid out by a former aide that seemed more out of a movie than real life, he tried to wrestle away the steering wheel of his presidential vehicle and lunged at his own Secret Service agent.",
+      "publication_date": "2022-06-28T23:41:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/28/us/politics/trump-jan-6-behavior.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Cassidy Hutchinson’s Testimony Highlights Legal Risks for Trump",
+      "snippet": "The former White House aide’s revelations about Jan. 6 chipped away at any potential defense that Donald J. Trump was merely expressing well-founded views about election fraud.",
+      "abstract": "The former White House aide’s revelations about Jan. 6 chipped away at any potential defense that Donald J. Trump was merely expressing well-founded views about election fraud.",
+      "lead_paragraph": "It was one of the most dramatic moments in a presentation filled with them: Just before President Donald J. Trump went onstage near the White House last year and urged his supporters to “fight like hell” and march on the Capitol, an aide testified on Tuesday, he was told that some of them were armed.",
+      "publication_date": "2022-06-28T23:48:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/28/us/politics/trump-legal-risk-jan-6.html",
+      "byline": "By Alan Feuer and Glenn Thrush"
+    },
+    {
+      "headline": "For Many Women, Roe Was About More Than Abortion. It Was About Freedom.",
+      "snippet": "After the reversal of Roe v. Wade, some women are reconsidering their plans, including where they live, and wondering how best to channel their anger.",
+      "abstract": "After the reversal of Roe v. Wade, some women are reconsidering their plans, including where they live, and wondering how best to channel their anger.",
+      "lead_paragraph": "CHICAGO — Countless women wept. Some spent the weekend burning white-hot with rage, commiserating with friends and mothers and sisters. Many were fearful, recognizing the feeling of a freedom being taken away and thinking to themselves: This could only get worse.",
+      "publication_date": "2022-06-29T07:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/29/us/women-abortion-roe-wade.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "As Prices Skyrocket, Coupons Are Harder to Find Than Ever",
+      "snippet": "Brands and retailers are shifting away from the clipped newspaper discounts, and the digital version hasn’t grown fast enough to catch up.",
+      "abstract": "Brands and retailers are shifting away from the clipped newspaper discounts, and the digital version hasn’t grown fast enough to catch up.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-06-29T07:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/29/business/economy/grocery-coupons-inflation.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Highest Mortgage Rates Since 2008 Housing Crisis Cool Sales",
+      "snippet": "As the Federal Reserve tries to fight high inflation, costly mortgage rates have begun to price people out of the housing market.",
+      "abstract": "As the Federal Reserve tries to fight high inflation, costly mortgage rates have begun to price people out of the housing market.",
+      "lead_paragraph": "For the past two years, anyone who had a home to sell could get practically any asking price. Good shape or bad, in cities and in exurbs, seemingly everything on the market had a line of eager buyers.",
+      "publication_date": "2022-06-29T09:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/29/business/economy/mortgage-rates-housing-market.html",
+      "byline": "By Conor Dougherty"
+    }
+  ]
+}

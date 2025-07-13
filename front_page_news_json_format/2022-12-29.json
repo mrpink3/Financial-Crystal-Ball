@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-12-29",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "U.S. to Require Negative Covid Tests for Travelers Coming From China",
+      "snippet": "Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.",
+      "abstract": "Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.",
+      "lead_paragraph": "The Biden administration, fearful that a surge of coronavirus infections in Beijing could spawn a new and more dangerous variant, announced on Wednesday that it will require travelers from China, including Hong Kong and Macau, to present negative Covid-19 tests before entering the United States.",
+      "publication_date": "2022-12-28T20:25:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/28/us/politics/covid-requirements-china-us-travel.html",
+      "byline": "By Sheryl Gay Stolberg and Benjamin Mueller"
+    },
+    {
+      "headline": "Hard-Line Positions by Russia and Ukraine Dim Hope for Peace Talks",
+      "snippet": "Both Moscow and Kyiv say they are ready to talk, but their terms for sitting down at a negotiating table suggest otherwise.",
+      "abstract": "Both Moscow and Kyiv say they are ready to talk, but their terms for sitting down at a negotiating table suggest otherwise.",
+      "lead_paragraph": "As the battle for Ukraine turns into a bloody, mile-by-mile fight in numbing cold, Ukrainian and Russian officials have insisted that they are willing to discuss making peace.",
+      "publication_date": "2022-12-28T20:35:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/28/world/europe/ukraine-russia-peace-talks.html",
+      "byline": "By Shashank Bengali"
+    },
+    {
+      "headline": "10 Months Into Job, Southwest’s C.E.O. Faces a Giant Crisis",
+      "snippet": "Bob Jordan, the airline’s top executive, heralded the company’s performance just weeks before the storm highlighted gaping weaknesses in its operations.",
+      "abstract": "Bob Jordan, the airline’s top executive, heralded the company’s performance just weeks before the storm highlighted gaping weaknesses in its operations.",
+      "lead_paragraph": "After Southwest Airlines made it through Thanksgiving with few flight cancellations, Bob Jordan, the company’s chief executive, was in a celebratory mood. At a meeting with Wall Street analysts and investors this month at the New York Stock Exchange, he said the company’s performance had been “just incredible.”",
+      "publication_date": "2022-12-28T23:52:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/28/business/economy/southwest-airlines-bob-jordan.html",
+      "byline": "By Peter Eavis and Isabella Simonetti"
+    },
+    {
+      "headline": "The Tech That Will Invade Our Lives in 2023",
+      "snippet": "Say hello to new-and-improved A.I. assistants, and move over to brands like Twitter and Tesla.",
+      "abstract": "Say hello to new-and-improved A.I. assistants, and move over to brands like Twitter and Tesla.",
+      "lead_paragraph": "Each year, I look ahead at what’s new in technology to predict the tech that may affect your life in a big way — and the tech that will most likely be a fad.",
+      "publication_date": "2022-12-29T08:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/29/technology/personaltech/new-tech-2023-ai-chat-vr.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "The 2022 Good Tech Awards",
+      "snippet": "Nuclear fusion, generative A.I., bee tracking and more. There’s a lot to like.",
+      "abstract": "Nuclear fusion, generative A.I., bee tracking and more. There’s a lot to like.",
+      "lead_paragraph": "The year 2022, in the tech world, was one of big leaps and even bigger pratfalls.",
+      "publication_date": "2022-12-29T10:00:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/29/technology/good-tech-awards-2022.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Its Reputation in Tatters, Southwest Aims to Resume Normal Schedule on Friday",
+      "snippet": "Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”",
+      "abstract": "Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”",
+      "lead_paragraph": "Southwest Airlines, caught in a vexing tangle of misplaced staff and technical problems since last week’s winter storm, said Thursday that it planned to return to normal operations on Friday “with minimal disruptions.”",
+      "publication_date": "2022-12-29T10:34:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/29/business/southwest-canceled-flights-updates.html",
+      "byline": "By Isabella Simonetti, Peter Eavis and Soumya Karlamangla"
+    }
+  ]
+}

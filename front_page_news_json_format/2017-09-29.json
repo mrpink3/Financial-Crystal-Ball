@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2017-09-29",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "In Trade Actions, Trump Embraces Unpredictability",
+      "snippet": "In imposing punitive tariffs on Canadian jets, the Trump administration has intensified confusion about the principles guiding its trade policy.",
+      "abstract": "In imposing punitive tariffs on Canadian jets, the Trump administration has intensified confusion about the principles guiding its trade policy.",
+      "lead_paragraph": "PARIS — President Trump has rarely been accused of running a surplus in predictability. As his administration this week imposed punitive tariffs on a Canadian airplane manufacturer, it exacerbated confusion over where Mr. Trump might venture next in his zeal to redraw the terms of American commerce with the world.",
+      "publication_date": "2017-09-28T18:42:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/28/business/trump-trade.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "For Uber in London, a New Route: Diplomacy",
+      "snippet": "The ride-hailing service’s chief, Dara Khosrowshahi, has moved away from the combative tone of his predecessor, Travis Kalanick, in an initial test.",
+      "abstract": "The ride-hailing service’s chief, Dara Khosrowshahi, has moved away from the combative tone of his predecessor, Travis Kalanick, in an initial test.",
+      "lead_paragraph": "As a global disrupter, Uber is no stranger to conflict, and its instinct has always been pugilistic. But on Monday, three days after Transport for London said it wouldn’t renew the ride-hailing service’s license to operate, Uber all but prostrated itself to show its humility.",
+      "publication_date": "2017-09-28T19:03:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/28/business/uber-london.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Risk on All Sides as 4,800 Women Sue Over Johnson’s Baby Powder and Cancer",
+      "snippet": "Johnson & Johnson has been accused of causing thousands of cases of ovarian cancer by plaintiffs who are mostly taking the company to court individually, not as a team.",
+      "abstract": "Johnson & Johnson has been accused of causing thousands of cases of ovarian cancer by plaintiffs who are mostly taking the company to court individually, not as a team.",
+      "lead_paragraph": "Thousands of women across the country are suing the consumer goods giant Johnson & Johnson over its baby powder, claiming that talcum particles in the popular product caused their ovarian cancer.",
+      "publication_date": "2017-09-28T20:08:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/28/business/johnson-and-johnson-baby-talcum-powder-lawsuits.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "Trump Administration Is Pressed to Step Up Hurricane Recovery in Puerto Rico",
+      "snippet": "White House aides insisted that the administration’s response was adequate, but residents in Puerto Rico complained of a lack of basic supplies.",
+      "abstract": "White House aides insisted that the administration’s response was adequate, but residents in Puerto Rico complained of a lack of basic supplies.",
+      "lead_paragraph": "WASHINGTON — The Trump administration moved on Thursday to step up its assistance to Puerto Rico more than a week after Hurricane Maria, appointing a three-star general to coordinate with agencies and vowing to give the island all it needed as aides tried to stave off comparisons to the response to Hurricane Katrina more than a decade ago.",
+      "publication_date": "2017-09-28T21:43:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/28/us/politics/trump-administration-puerto-rico-hurricane-maria-response.html",
+      "byline": "By Helene Cooper, Julie Hirschfeld Davis and Jack Healy"
+    },
+    {
+      "headline": "Alabama Victory Provides Blueprint for New Bannon Alliance",
+      "snippet": "A new coalition could put Steve Bannon and Robert and Rebekah Mercer on a collision course with not just the Republican establishment, but with the Koch brothers and ultimately with President Trump.",
+      "abstract": "A new coalition could put Steve Bannon and Robert and Rebekah Mercer on a collision course with not just the Republican establishment, but with the Koch brothers and ultimately with President Trump.",
+      "lead_paragraph": "WASHINGTON — Stephen K. Bannon and two of his longtime benefactors are putting together a political coalition designed to ensure that the victory of a Republican insurgent in the Alabama Senate primary this week was just the beginning of the surprises that await the party establishment.",
+      "publication_date": "2017-09-28T22:04:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/28/us/politics/steve-bannon-robert-rebekah-mercer-alliance.html",
+      "byline": "By Kenneth P. Vogel and Jeremy W. Peters"
+    },
+    {
+      "headline": "China’s Harsh Words Mask a Trade Boom With South Korea",
+      "snippet": "Even as China scolds Seoul for housing a U.S. missile defense system, its businesses and consumers buy up more Korean semiconductors and cosmetics.",
+      "abstract": "Even as China scolds Seoul for housing a U.S. missile defense system, its businesses and consumers buy up more Korean semiconductors and cosmetics.",
+      "lead_paragraph": "BEIJING — Forget geopolitics: Leo Li, a 33-year-old language teacher in China, wants his essence of South Korean snail slime.",
+      "publication_date": "2017-09-29T05:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/29/business/china-south-korea-trade.html",
+      "byline": "By Sui-Lee Wee and Jeyup S. Kwaak"
+    },
+    {
+      "headline": "Cuban Doctors Revolt: ‘You Get Tired of Being a Slave’",
+      "snippet": "In a rare act of defiance, some 150 Cuban doctors serving in Brazil have sued to work as independent contractors, cutting out the Havana government.",
+      "abstract": "In a rare act of defiance, some 150 Cuban doctors serving in Brazil have sued to work as independent contractors, cutting out the Havana government.",
+      "lead_paragraph": "RIO DE JANEIRO — In a rare act of collective defiance, scores of Cuban doctors working overseas to make money for their families and their country are suing to break ranks with the Cuban government, demanding to be released from what one judge called a “form of slave labor.”",
+      "publication_date": "2017-09-29T07:00:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/29/world/americas/brazil-cuban-doctors-revolt.html",
+      "byline": "By Ernesto Londoño"
+    },
+    {
+      "headline": "In Grim Camps, Rohingya Suffer on ‘Scale That We Couldn’t Imagine’",
+      "snippet": "Half of Myanmar’s Rohingya Muslims are now packed into tarp huts in Bangladesh, and aid workers are just starting to reach some of the most desperate.",
+      "abstract": "Half of Myanmar’s Rohingya Muslims are now packed into tarp huts in Bangladesh, and aid workers are just starting to reach some of the most desperate.",
+      "lead_paragraph": "BALUKHALI, Bangladesh — Up to their ankles in mud, hundreds of Rohingya refugees fought to the front of the crowd outside of their makeshift camp. An open-bed truck full of Bangladeshi volunteers was passing by, tossing out donated goods at random: small bags of rice, a faded SpongeBob SquarePants T-shirt, a cluster of dirty forks.",
+      "publication_date": "2017-09-29T09:00:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/29/world/asia/rohingya-refugees-myanmar-bangladesh.html",
+      "byline": "By Ben C. Solomon"
+    },
+    {
+      "headline": "A Game to Help Students Pay the Right Price for College",
+      "snippet": "Payback walks students through picking a college and paying for it, from choosing majors to finding work. Will it help them or scare them?",
+      "abstract": "Payback walks students through picking a college and paying for it, from choosing majors to finding work. Will it help them or scare them?",
+      "lead_paragraph": "In the last big economic downturn, back when Tim Ranzetta was in the student loan analysis and consulting business and working with colleges, borrowers often found their way to him, too.",
+      "publication_date": "2017-09-29T12:00:29+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/29/your-money/paying-for-college/payback-college-loans.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Illnesses at U.S. Embassy in Havana Prompt Evacuation of More Diplomats",
+      "snippet": "Secretary of State Rex W. Tillerson repeated the American assertion that embassy personnel were deliberately targeted. But he did not blame Cuba.",
+      "abstract": "Secretary of State Rex W. Tillerson repeated the American assertion that embassy personnel were deliberately targeted. But he did not blame Cuba.",
+      "lead_paragraph": "WASHINGTON — It started as a medical mystery. It then was determined to have been the result of a mysterious attack. And on Friday, the illness that has affected 21 diplomats at the American Embassy in Havana, with symptoms including hearing loss and cognitive difficulties, threatened the future of Cuban-American relations.",
+      "publication_date": "2017-09-29T14:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/29/us/politics/us-embassy-cuba-attacks.html",
+      "byline": "By Gardiner Harris and Adam Goldman"
+    },
+    {
+      "headline": "Catalans, Elated but Fearful, Brace for Independence Vote",
+      "snippet": "Spain has ordered security forces to stop Sunday’s referendum, but many Catalans plan to defy them, after “waiting for this moment for 300 years.”",
+      "abstract": "Spain has ordered security forces to stop Sunday’s referendum, but many Catalans plan to defy them, after “waiting for this moment for 300 years.”",
+      "lead_paragraph": "TERRASSA, Spain — Jordi Juanico Sabaté, a 6-foot-8 giant of a man, folded himself into a cafe chair in this Catalan city and fixed his eyes at a point on the horizon.",
+      "publication_date": "2017-09-29T14:51:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/29/world/europe/catalonia-independence-spain-referendum.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "New Skirmish in an Old Battle: Wall Street vs. the Customer",
+      "snippet": "Investors in Europe will soon enjoy a fairer market under new rules. American investors won’t, if regulators side with big brokerage firms.",
+      "abstract": "Investors in Europe will soon enjoy a fairer market under new rules. American investors won’t, if regulators side with big brokerage firms.",
+      "lead_paragraph": "A corrosive custom forced on investors is finally getting the ax under new regulations in Europe. Too bad some on Wall Street are working overtime to ensure that United States investors don’t get the same deal.",
+      "publication_date": "2017-09-29T15:15:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/09/29/business/wall-street-europe.html",
+      "byline": "By Gretchen Morgenson"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-12-22",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Elon Musk’s Distraction Is Just One of Tesla’s Problems",
+      "snippet": "The maker of electric cars faces sharp competition, plummeting shares and production woes while its chief executive is preoccupied with Twitter.",
+      "abstract": "The maker of electric cars faces sharp competition, plummeting shares and production woes while its chief executive is preoccupied with Twitter.",
+      "lead_paragraph": "Production headaches on three continents. Intensifying competition. A plunging share price. And a distracted chief executive seemingly bent on alienating some of the company’s most loyal customers.",
+      "publication_date": "2022-12-21T16:06:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/21/business/tesla-elon-musk.html",
+      "byline": "By Jack Ewing, Daisuke Wakabayashi and Melissa Eddy"
+    },
+    {
+      "headline": "Jenna Bush Hager, Progeny of Presidents, Is Now a Publishing Kingmaker",
+      "snippet": "The former first daughter is famous in her own right. Her TV book club is one of the few reliable paths to the best-seller list in a precarious industry.",
+      "abstract": "The former first daughter is famous in her own right. Her TV book club is one of the few reliable paths to the best-seller list in a precarious industry.",
+      "lead_paragraph": "There is a madcap performance within the Jenna Bush Hager morning routine.",
+      "publication_date": "2022-12-21T16:46:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/12/21/business/jenna-bush-hager-book-club.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "As Ukraine Prepares for a Second Year at War, the Prospect of a Stalemate Looms",
+      "snippet": "American officials believe that with Russia bolstering defenses and learning lessons, Ukraine will find it more challenging to retake land.",
+      "abstract": "American officials believe that with Russia bolstering defenses and learning lessons, Ukraine will find it more challenging to retake land.",
+      "lead_paragraph": "WASHINGTON — As the war in Ukraine soon enters its second year, Ukrainian troops will find it much more challenging to reclaim territory from Russian forces who are focused on defending their remaining land gains rather than making a deeper push into the country, American officials say.",
+      "publication_date": "2022-12-21T18:10:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/21/us/politics/ukraine-russia-war-stalemate.html",
+      "byline": "By Julian E. Barnes, Helene Cooper and Eric Schmitt"
+    },
+    {
+      "headline": "In Testimony, Hannity and Other Fox Employees Said They Doubted Trump’s Fraud Claims",
+      "snippet": "On Wednesday, lawyers for Dominion Voting Systems shared some of the strongest evidence yet that some Fox employees knew what they broadcast about the claims was false.",
+      "abstract": "On Wednesday, lawyers for Dominion Voting Systems shared some of the strongest evidence yet that some Fox employees knew what they broadcast about the claims was false.",
+      "lead_paragraph": "On Nov. 30, 2020, Sean Hannity hosted Sidney Powell on his prime-time Fox News program. As she had in many other interviews around that time — on Fox and elsewhere in right-wing media — Ms. Powell, a former federal prosecutor, spun wild conspiracy theories about what she said was “corruption all across the country, in countless districts,” in a plot to steal re-election from the president, Donald J. Trump.",
+      "publication_date": "2022-12-21T21:38:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/21/business/media/sean-hannity-fox-trump-election.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "Putin Concedes Military Failings, but Insists Russia Will Fight On",
+      "snippet": "Nodding to criticism that his army lacked the basic necessities to wage war, the Russian leader said his government was providing “everything that the army asks for.’’",
+      "abstract": "Nodding to criticism that his army lacked the basic necessities to wage war, the Russian leader said his government was providing “everything that the army asks for.’’",
+      "lead_paragraph": "After months of blistering assessments from inside and outside Russia that his war effort in Ukraine lacked even the basic resources necessary to prevail, President Vladimir V. Putin delivered his own verdict on that criticism on Wednesday: It’s valid.",
+      "publication_date": "2022-12-21T22:12:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/21/world/europe/vladimir-putin-russia-ukraine.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "U.S. Aid Is ‘Not Charity,’ Zelensky Tells Congress as a Lengthy War Looms",
+      "snippet": "President Volodymyr Zelensky described military assistance for Ukraine as an investment in global security and democracy in the face of Russian aggression.",
+      "abstract": "President Volodymyr Zelensky described military assistance for Ukraine as an investment in global security and democracy in the face of Russian aggression.",
+      "lead_paragraph": "WASHINGTON — President Volodymyr Zelensky of Ukraine delivered an emotional wartime appeal to a joint meeting of Congress on Wednesday night, telling Americans that “your money is not charity” and vowing that his people would eventually secure an improbable victory against Russia on behalf of all free nations.",
+      "publication_date": "2022-12-22T00:33:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/21/us/politics/zelensky-visit-washington-biden.html",
+      "byline": "By Michael D. Shear and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "I.R.S. Routinely Audited Obama and Biden, Raising Questions Over Delays for Trump",
+      "snippet": "The revelation that the agency had not audited Donald J. Trump during his first two years in office despite a mandatory presidential audit program raised concerns about potential politicization.",
+      "abstract": "The revelation that the agency had not audited Donald J. Trump during his first two years in office despite a mandatory presidential audit program raised concerns about potential politicization.",
+      "lead_paragraph": "WASHINGTON — The I.R.S. subjected both President Donald J. Trump’s predecessor and his successor to annual audits of their tax returns once they took office, spokespeople for Barack Obama and President Biden said on Wednesday, intensifying questions about how Mr. Trump escaped such scrutiny until Democrats in the House started inquiring.",
+      "publication_date": "2022-12-22T00:42:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/21/us/politics/trump-irs-taxes.html",
+      "byline": "By Charlie Savage and Alan Rappeport"
+    },
+    {
+      "headline": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
+      "snippet": "Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.",
+      "abstract": "Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.",
+      "lead_paragraph": "Two former top executives of Sam Bankman-Fried’s crypto trading empire have pleaded guilty to federal criminal fraud charges and are cooperating in the prosecution of the disgraced crypto entrepreneur, the U.S. attorney for the Southern District of New York said on Wednesday night.",
+      "publication_date": "2022-12-22T01:58:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html",
+      "byline": "By David Yaffe-Bellany, Matthew Goldstein and Benjamin Weiser"
+    },
+    {
+      "headline": "Microsoft Gambles on ‘Nice Guy’ Strategy to Close Activision Megadeal",
+      "snippet": "Federal regulators have sued to block the $69 billion acquisition, but the company has settled on a path forward and is preparing to force the issue.",
+      "abstract": "Federal regulators have sued to block the $69 billion acquisition, but the company has settled on a path forward and is preparing to force the issue.",
+      "lead_paragraph": "Early this month, Brad Smith, Microsoft’s president, met with Lina Khan, the chair of the Federal Trade Commission, to push for regulatory approval of Microsoft’s $69 billion acquisition of the video game company Activision Blizzard.",
+      "publication_date": "2022-12-22T10:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/22/technology/microsoft-activision-strategy.html",
+      "byline": "By Karen Weise and David McCabe"
+    },
+    {
+      "headline": "Without a Covid Narrative, China’s Censors Are Not Sure What to Do",
+      "snippet": "The end of “zero Covid” has undermined years of official propaganda, and the vast censorship system is struggling to catch up.",
+      "abstract": "The end of “zero Covid” has undermined years of official propaganda, and the vast censorship system is struggling to catch up.",
+      "lead_paragraph": "Since China dropped its strict “zero Covid” policy, a joke has been making the rounds on social media about the sudden shift.",
+      "publication_date": "2022-12-22T10:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/22/business/china-covid-censorship-propaganda.html",
+      "byline": "By John Liu and Paul Mozur"
+    }
+  ]
+}

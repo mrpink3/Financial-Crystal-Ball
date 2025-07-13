@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-09-08",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Emerges as Inspiration for Germany’s Far Right",
+      "snippet": "Among German conspiracy theorists, ultranationalists and neo-Nazis, the American president is surfacing as a rallying cry, or even as a potential “liberator.”",
+      "abstract": "Among German conspiracy theorists, ultranationalists and neo-Nazis, the American president is surfacing as a rallying cry, or even as a potential “liberator.”",
+      "lead_paragraph": "BERLIN — Just before hundreds of far-right activists recently tried to storm the German Parliament, one of their leaders revved up the crowd by conjuring President Trump.",
+      "publication_date": "2020-09-07T16:23:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/07/world/europe/germany-trump-far-right.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Chess (Yes, Chess) Is Now a Streaming Obsession",
+      "snippet": "Viewers are flocking to games during the pandemic, entranced by a charismatic grandmaster and his lightning-fast play.",
+      "abstract": "Viewers are flocking to games during the pandemic, entranced by a charismatic grandmaster and his lightning-fast play.",
+      "lead_paragraph": "On a recent afternoon, thousands of noncombatants watched from the sidelines as their general ordered his troops across the battlefield and became locked in a fierce duel with the enemy.",
+      "publication_date": "2020-09-07T19:16:49+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/07/technology/chess-new-streaming-obsession-twitch.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "How Trump’s Billion-Dollar Campaign Lost Its Cash Advantage",
+      "snippet": "Five months ago, President Trump’s re-election campaign had a huge financial edge over Joseph R. Biden Jr.’s. The Times conducted an extensive review of how the Trump team spent lavishly to show how that advantage evaporated.",
+      "abstract": "Five months ago, President Trump’s re-election campaign had a huge financial edge over Joseph R. Biden Jr.’s. The Times conducted an extensive review of how the Trump team spent lavishly to show how that advantage evaporated.",
+      "lead_paragraph": "Money was supposed to have been one of the great advantages of incumbency for President Trump, much as it was for President Barack Obama in 2012 and George W. Bush in 2004. After getting outspent in 2016, Mr. Trump filed for re-election on the day of his inauguration — earlier than any other modern president — betting that the head start would deliver him a decisive financial advantage this year.",
+      "publication_date": "2020-09-07T21:21:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/07/us/politics/trump-election-campaign-fundraising.html",
+      "byline": "By Shane Goldmacher and Maggie Haberman"
+    },
+    {
+      "headline": "The Two Men Buying Your Favorite Retailers",
+      "snippet": "Jamie Salter and David Simon, one a licensing expert and the other a mall operator, are reshaping the shopping landscape by acquiring bankrupt brands like Brooks Brothers and Forever 21.",
+      "abstract": "Jamie Salter and David Simon, one a licensing expert and the other a mall operator, are reshaping the shopping landscape by acquiring bankrupt brands like Brooks Brothers and Forever 21.",
+      "lead_paragraph": "It has been a prolonged period of retail carnage: storied names declaring bankruptcy, mass market brands closing thousands of stores, tens of thousands of shop employees furloughed or laid off, garment workers in dire straits. More ominous still are the predictions that we will never shop the same way again.",
+      "publication_date": "2020-09-08T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/08/business/retail-bankruptcy-authentic-brands.html",
+      "byline": "By Sapna Maheshwari and Vanessa Friedman"
+    },
+    {
+      "headline": "Black, Native American and Fighting for Recognition in Indian Country",
+      "snippet": "Enslaved people were also driven west along the Trail of Tears. After a historic Supreme Court ruling, their descendants are fighting to be counted as tribal members.",
+      "abstract": "Enslaved people were also driven west along the Trail of Tears. After a historic Supreme Court ruling, their descendants are fighting to be counted as tribal members.",
+      "lead_paragraph": "OKMULGEE, Okla. — Ron Graham never had to prove to anyone that he was Black. But he has spent more than 30 years haunting tribal offices and genealogical archives, fighting for recognition that he is also a citizen of the Muscogee (Creek) Nation.",
+      "publication_date": "2020-09-08T07:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/08/us/enslaved-people-native-americans-oklahoma.html",
+      "byline": "By Jack Healy"
+    },
+    {
+      "headline": "‘The Lockdown Killed My Father’: Farmer Suicides Add to India’s Virus Misery",
+      "snippet": "Farm bankruptcies and debts have been the source of misery in India for decades. But experts say the suffering has reached new levels in the pandemic.",
+      "abstract": "Farm bankruptcies and debts have been the source of misery in India for decades. But experts say the suffering has reached new levels in the pandemic.",
+      "lead_paragraph": "SIRSIWALA, India — Randhir Singh was already deeply in debt when the coronavirus pandemic struck. Looking out at his paltry cotton field by the side of a railway track, he walked in circles, hopeless. In early May, he killed himself by lying on the same track.",
+      "publication_date": "2020-09-08T07:00:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/08/world/asia/india-coronavirus-farmer-suicides-lockdown.html",
+      "byline": "By Karan Deep Singh"
+    },
+    {
+      "headline": "‘Kill All You See’: In a First, Myanmar Soldiers Tell of Rohingya Slaughter",
+      "snippet": "Video testimony from two soldiers supports widespread accusations that Myanmar’s military tried to eradicate the ethnic minority in a genocidal campaign.",
+      "abstract": "Video testimony from two soldiers supports widespread accusations that Myanmar’s military tried to eradicate the ethnic minority in a genocidal campaign.",
+      "lead_paragraph": "The two soldiers confess their crimes in a monotone, a few blinks of the eye their only betrayal of emotion: executions, mass burials, village obliterations and rape.",
+      "publication_date": "2020-09-08T07:03:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/08/world/asia/myanmar-rohingya-genocide.html",
+      "byline": "By Hannah Beech, Saw Nang and Marlise Simons"
+    }
+  ]
+}

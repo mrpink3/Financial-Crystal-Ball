@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2014-02-19",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Chinese Developer Envisions a Future for Abandoned London Docks",
+      "snippet": "London’s mayor has said the proposal by a Chinese developer for the derelict Royal Albert Dock will add $10 billion to Britain’s economy.",
+      "abstract": "London’s mayor has said the proposal by a Chinese developer for the derelict Royal Albert Dock will add $10 billion to Britain’s economy.",
+      "lead_paragraph": "LONDON — Known for ambitious plans in China for business parks the size of cities, Xu Weiping says he cannot wait to start work on his first project abroad: turning an abandoned London dock into Europe’s main hub for Chinese companies.",
+      "publication_date": "2014-02-18T18:32:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/19/business/international/london-docks-await-chinese-redevelopment.html",
+      "byline": "By Julia Werdigier"
+    },
+    {
+      "headline": "Minimum Wage Increase Would Have Mixed Effects, C.B.O. Report Says",
+      "snippet": "The analysis provided instant fuel for both supporters and critics of raising the federal minimum wage.",
+      "abstract": "The analysis provided instant fuel for both supporters and critics of raising the federal minimum wage.",
+      "lead_paragraph": "WASHINGTON — A popular Democratic proposal to raise the minimum wage to $10.10 an hour, championed by President Obama, could reduce total employment by 500,000 workers by the second half of 2016. But it would also lift 900,000 families out of poverty and increase the incomes of 16.5 million low-wage workers in an average week.",
+      "publication_date": "2014-02-18T19:41:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/19/business/mixed-results-in-us-study-of-increasing-minimum-wage.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Fed Closes a Loophole for Banks Overseas",
+      "snippet": "The new rules will force the American operations of foreign banks to follow many of the same rules as American banks, including holding more capital as a financial buffer to absorb losses..",
+      "abstract": "The new rules will force the American operations of foreign banks to follow many of the same rules as American banks, including holding more capital as a financial buffer to absorb losses..",
+      "lead_paragraph": "Updated, 8:51 p.m. | Foreign banks with a major presence on Wall Street will no longer be allowed to avoid many of the tougher rules that the United States introduced after the financial crisis to prevent banking failures and bailouts.",
+      "publication_date": "2014-02-18T20:23:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/02/18/fed-issues-final-rules-for-foreign-banks/",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Lending Where Banks Can’t, Blackstone Thrives in Ireland",
+      "snippet": "Crippled by bad loans and regulatory restraints, European banks are ceding ground to firms like Blackstone and others that can lend money like a bank but are not scrutinized as such.",
+      "abstract": "Crippled by bad loans and regulatory restraints, European banks are ceding ground to firms like Blackstone and others that can lend money like a bank but are not scrutinized as such.",
+      "lead_paragraph": "Bankers have been blanketing Ireland in search of cheap assets and lucrative deals, and few firms have been as aggressive as the Blackstone Group.",
+      "publication_date": "2014-02-19T00:31:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/02/18/lending-where-banks-cant-blackstone-cashes-in-in-ireland/",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Loan Complaints by Homeowners Rise Once More",
+      "snippet": "Shoddy paperwork, erroneous fees and wrongful evictions — abuses that previously dogged the nation’s largest banks — are now cropping up among mortgage servicers that collect payments.",
+      "abstract": "Shoddy paperwork, erroneous fees and wrongful evictions — abuses that previously dogged the nation’s largest banks — are now cropping up among mortgage servicers that collect payments.",
+      "lead_paragraph": " A growing number of homeowners trying to avert foreclosure are confronting problems on a new front as the mortgage industry undergoes a seismic shift.",
+      "publication_date": "2014-02-19T02:16:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/02/18/loan-complaints-by-homeowners-rise-once-more/",
+      "byline": "By Jessica Silver-Greenberg and Michael Corkery"
+    },
+    {
+      "headline": "Obama’s Vote-Getting Tactics Struggle to Find the Uninsured",
+      "snippet": "Canvassers deployed by groups supporting the Affordable Care Act are searching door to door for people who lack health coverage, with little success.",
+      "abstract": "Canvassers deployed by groups supporting the Affordable Care Act are searching door to door for people who lack health coverage, with little success.",
+      "lead_paragraph": "HOLLYWOOD, Fla. — The hunt for the uninsured in Broward County got underway one recent afternoon when 41 canvassers, armed with electronic maps on Samsung tablets, set off through working-class neighborhoods to peddle the Affordable Care Act door to door. Four hours later, they had made contact with 2,623 residents and signed up exactly 25 people.",
+      "publication_date": "2014-02-19T02:19:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/02/19/us/proven-models-break-down-in-search-for-the-uninsured.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Wireless System Could Offer a Private Fast Lane",
+      "snippet": "The technology, called pCell, is one of many techniques that companies are looking at to address the rising public appetite for mobile data, especially video.",
+      "abstract": "The technology, called pCell, is one of many techniques that companies are looking at to address the rising public appetite for mobile data, especially video.",
+      "lead_paragraph": "SAN FRANCISCO — In a spacious loft across the street from the Bay Bridge, Steve Perlman did something last week that would ordinarily bring a cellular network to its knees.",
+      "publication_date": "2014-02-19T05:04:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/19/technology/wireless-system-could-offer-a-private-fast-lane.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "Ukraine Leader Strains for Grip as Chaos Spreads",
+      "snippet": "Opposition leaders confirmed overnight that a truce had been reached with the government of President Viktor F. Yanukovych, but it was uncertain that any pause in the conflict would hold.",
+      "abstract": "Opposition leaders confirmed overnight that a truce had been reached with the government of President Viktor F. Yanukovych, but it was uncertain that any pause in the conflict would hold.",
+      "lead_paragraph": "KIEV, Ukraine — Ukraine spiraled deeper into disarray on Wednesday as the government of President Viktor F. Yanukovych and several thousand grimly determined protesters, along with their supporters in Russia and Europe, faced off in a confrontation over the fate of this fractured country of 46 million.",
+      "publication_date": "2014-02-19T08:19:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/02/20/world/europe/ukraine.html",
+      "byline": "By Andrew Higgins and Andrew E. Kramer"
+    },
+    {
+      "headline": "Truth Is Beauty, and Beauty Can Be Subversive",
+      "snippet": "Ragnar Kjartansson brings his work “Der Klang der Offenbarung des Göttlichen,” or “The Explosive Sonics of Divinity,” to the Volksbühne theater in Berlin.",
+      "abstract": "Ragnar Kjartansson brings his work “Der Klang der Offenbarung des Göttlichen,” or “The Explosive Sonics of Divinity,” to the Volksbühne theater in Berlin.",
+      "lead_paragraph": "BERLIN — For decades,  the Volksbühne theater, in the former East Berlin, has been at the heart of political theater in Europe. Its bold productions, often involving nudity, women in men’s roles and anticapitalist rhetoric, have helped shape the avant-garde.",
+      "publication_date": "2014-02-19T14:22:11+0000",
+      "section_name": "Arts",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2014/02/20/arts/international/testing-german-ideas-of-beauty.html",
+      "byline": "By Rachel Donadio"
+    }
+  ]
+}

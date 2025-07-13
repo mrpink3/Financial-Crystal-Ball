@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-05-17",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Can Reparations Bring Black Residents Back to San Francisco?",
+      "snippet": "San Francisco has proposed the nation’s most ambitious reparations plan, including $5 million cash payments and housing aid that aims to bring people back.",
+      "abstract": "San Francisco has proposed the nation’s most ambitious reparations plan, including $5 million cash payments and housing aid that aims to bring people back.",
+      "lead_paragraph": "SAN FRANCISCO — Standing at the stoop of her childhood home — a slim but stately Victorian shaded by an evergreen pear tree — Lynette Mackey pulled up a photo of a family gathering from nearly 50 years ago. The men were all in suits, the women in skirts. Ms. Mackey, a teenager in red bell bottoms, stretched her arms wide and had a beaming smile.",
+      "publication_date": "2023-05-16T16:21:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/16/us/san-francisco-reparations.html",
+      "byline": "By Tim Arango"
+    },
+    {
+      "headline": "OpenAI’s Sam Altman Urges A.I. Regulation in Senate Hearing",
+      "snippet": "The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.",
+      "abstract": "The tech executive and lawmakers agreed that new A.I. systems must be regulated. Just how that would happen is not yet clear.",
+      "lead_paragraph": "The tone of congressional hearings featuring tech industry executives in recent years can best be described as antagonistic. Mark Zuckerberg, Jeff Bezos and other tech luminaries have all been dressed down on Capitol Hill by lawmakers upset with their companies.",
+      "publication_date": "2023-05-16T16:30:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/16/technology/openai-altman-artificial-intelligence-regulation.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Strippers Unionize at California Club After Long Fight",
+      "snippet": "The club agreed not to block the dancers from affiliating with Actors’ Equity in what appears to be the industry’s first unionization since the 1990s.",
+      "abstract": "The club agreed not to block the dancers from affiliating with Actors’ Equity in what appears to be the industry’s first unionization since the 1990s.",
+      "lead_paragraph": "For much of last year, a group of strippers at a California club called Star Garden raised concerns about safety issues like handsy customers and a poorly maintained stage — as well as retaliation from management when they spoke up. The complaints led the dancers to picket the club and seek a union vote.",
+      "publication_date": "2023-05-16T17:10:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/16/business/strippers-union-labor.html",
+      "byline": "By Noam Scheiber and Ava Sasani"
+    },
+    {
+      "headline": "Silicon Valley Bank’s Ex-C.E.O. Is ‘Truly Sorry’ but Deflects Blame",
+      "snippet": "Senators derided Gregory Becker at a hearing about the reasons for the failure of his bank. “It sounds a lot like ‘my dog ate my homework,’” one said.",
+      "abstract": "Senators derided Gregory Becker at a hearing about the reasons for the failure of his bank. “It sounds a lot like ‘my dog ate my homework,’” one said.",
+      "lead_paragraph": "In his first public remarks since Silicon Valley Bank collapsed, triggering widespread industry turmoil, the lender’s former chief executive pointed the finger at pretty much everybody but himself, casting blame on regulators, the media, his board of directors and even the bank’s own depositors.",
+      "publication_date": "2023-05-16T17:15:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/16/business/silicon-valley-bank-becker-testimony.html",
+      "byline": "By Rob Copeland"
+    },
+    {
+      "headline": "As Ukrainian Attack Looms, Putin Faces Setbacks and Disunity in Russian Forces",
+      "snippet": "The problems that have hindered Russia’s 15-month war are still festering: stretched resources and disunity in the ranks. Still, Mr. Putin’s resolve augurs a willingness to prosecute a long war.",
+      "abstract": "The problems that have hindered Russia’s 15-month war are still festering: stretched resources and disunity in the ranks. Still, Mr. Putin’s resolve augurs a willingness to prosecute a long war.",
+      "lead_paragraph": "Drones have exploded over the Kremlin. Russian military aircraft are crashing before they even reach Ukrainian airspace. A Russian mercenary boss is releasing one profanity-laced tirade after another, claiming that corrupt Russian generals who “all reek of expensive perfume” are sending soldiers to their deaths.",
+      "publication_date": "2023-05-16T17:31:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/16/world/europe/putin-russia-military-prigozhin.html",
+      "byline": "By Paul Sonne and Anton Troianovski"
+    },
+    {
+      "headline": "For Gen Z, Playing an Influencer on TikTok Comes Naturally",
+      "snippet": "There’s stuff to promote now. The followers can come later.",
+      "abstract": "There’s stuff to promote now. The followers can come later.",
+      "lead_paragraph": "Rachel Aaron, a 24-year-old who works in public relations in New York, recently dressed up for a work event at Bloomingdale’s. In the era of “get ready with me” videos on TikTok, it was a golden opportunity to create content.",
+      "publication_date": "2023-05-17T09:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/17/business/tiktok-influencers-gen-z.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Gains Near Bakhmut Raise Ukraine’s Hopes of a Turning Tide",
+      "snippet": "The advances have been small, and Russians still hold most of the city, but Ukrainians say they see a meaningful shift in momentum.",
+      "abstract": "The advances have been small, and Russians still hold most of the city, but Ukrainians say they see a meaningful shift in momentum.",
+      "lead_paragraph": "Russian forces spent nearly a year carving a path of devastation and death in their bid to surround the city of Bakhmut in eastern Ukraine, and by March it seemed they were close to succeeding.",
+      "publication_date": "2023-05-17T09:36:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/17/world/europe/ukraine-russia-bakhmut-counteroffensive.html",
+      "byline": "By Marc Santora and Tyler Hicks"
+    }
+  ]
+}

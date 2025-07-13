@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-06-08",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Ukraine’s strategic dilemma in Sievierodonetsk: Stand and fight, or pull back?",
+      "snippet": "Sievierodonetsk, now site of the most intense combat, is “dead,” President Volodymyr Zelensky said, but letting it go might be worse than shedding blood to hold it.",
+      "abstract": "Sievierodonetsk, now site of the most intense combat, is “dead,” President Volodymyr Zelensky said, but letting it go might be worse than shedding blood to hold it.",
+      "lead_paragraph": "KRAMATORSK, Ukraine — Just to enter Sievierodonetsk, Ukrainian soldiers run a gantlet of Russian artillery shells zeroed in on the only access route: a bridge littered with the burned husks of cars and trucks that didn’t make it.",
+      "publication_date": "2022-06-07T20:31:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/07/world/europe/ukraine-sievierodonetsk-donbas.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Retired General Investigated Over Undisclosed Lobbying for Qatar",
+      "snippet": "Documents show that the Justice Department has records indicating that John Allen, who now heads the Brookings Institution, secretly lobbied for Qatar and lied about it to federal agents.",
+      "abstract": "Documents show that the Justice Department has records indicating that John Allen, who now heads the Brookings Institution, secretly lobbied for Qatar and lied about it to federal agents.",
+      "lead_paragraph": "WASHINGTON — Federal prosecutors have obtained records indicating that John R. Allen, the retired four-star Marine general who commanded all American troops in Afghanistan and now heads a venerable Washington think tank, secretly lobbied for the government of Qatar, lied to investigators about his role and tried to withhold evidence sought by a federal subpoena, according to court documents.",
+      "publication_date": "2022-06-08T03:16:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/07/us/politics/general-john-allen-lobbying-qatar.html",
+      "byline": "By Mark Mazzetti and David D. Kirkpatrick"
+    },
+    {
+      "headline": "Recession? Stagflation? British Businesses Wade Through Dire Warnings.",
+      "snippet": "Higher prices plus a labor shortfall plus a national economic contraction make it hard to plan for the future.",
+      "abstract": "Higher prices plus a labor shortfall plus a national economic contraction make it hard to plan for the future.",
+      "lead_paragraph": "In the struggle against soaring prices, Sean Hughes has been willing to try anything to keep costs down at his gastropub, Dylans at The Kings Arms. That includes adding some less traditional fare among favorites like prime rib and Scotch eggs. The latest: confit beef tongue.",
+      "publication_date": "2022-06-08T04:30:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/08/business/stagflation-uk-businesses.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "The Pandemic Crushed Teachers. After Uvalde, They Wonder ‘What More?’",
+      "snippet": "Teachers were already grappling with adrift students and political fights. After the mass shooting in a Texas elementary school, many wondered how much more they had left to give.",
+      "abstract": "Teachers were already grappling with adrift students and political fights. After the mass shooting in a Texas elementary school, many wondered how much more they had left to give.",
+      "lead_paragraph": "On the day that a gunman walked into an elementary school in Uvalde, Texas, and carried out the deadliest school shooting this country has seen in a decade, an English teacher in St. Augustine, Fla., was on her lunch break, watching online as her local school board meeting erupted into an agitated fight over library books.",
+      "publication_date": "2022-06-08T07:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/08/us/teachers-uvalde-shooting-grief.html",
+      "byline": "By Sarah Mervosh"
+    },
+    {
+      "headline": "Fraud and Identity Theft Trial to Test American Anti-Hacking Law",
+      "snippet": "A woman is accused of downloading data of more than 100 million Capital One customers. Her lawyers argue a conviction would criminalize legitimate research practices.",
+      "abstract": "A woman is accused of downloading data of more than 100 million Capital One customers. Her lawyers argue a conviction would criminalize legitimate research practices.",
+      "lead_paragraph": "Nearly three years after the disclosure of one of the largest data breaches in the United States, the former Amazon employee accused of stealing customers’ personal information from Capital One is standing trial in a case that will test the power of American anti-hacking law.",
+      "publication_date": "2022-06-08T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/08/technology/capital-one-hacker-trial.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Progressive Backlash in California Fuels Democratic Debate Over Crime",
+      "snippet": "Election results in San Francisco and Los Angeles were the latest signs of a restless Democratic electorate that remains deeply unsatisfied and concerned about public safety.",
+      "abstract": "Election results in San Francisco and Los Angeles were the latest signs of a restless Democratic electorate that remains deeply unsatisfied and concerned about public safety.",
+      "lead_paragraph": "LOS ANGELES — Progressive Democrats were knocked on the defensive in their own party over crime and homelessness on Wednesday after voters in two high-profile California races delivered a stark warning about the potency of law and order as a political message in 2022.",
+      "publication_date": "2022-06-08T09:00:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/08/us/politics/california-voters-democrats-crime.html",
+      "byline": "By Shane Goldmacher"
+    },
+    {
+      "headline": "How Safe Are Systems Like Tesla’s Autopilot? No One Knows.",
+      "snippet": "Automakers and technology companies say they are making driving safer, but verifying these claims is difficult.",
+      "abstract": "Automakers and technology companies say they are making driving safer, but verifying these claims is difficult.",
+      "lead_paragraph": "Every three months, Tesla publishes a safety report that provides the number of miles between crashes when drivers use the company’s driver-assistance system, Autopilot, and the number of miles between crashes when they do not.",
+      "publication_date": "2022-06-08T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/08/technology/tesla-autopilot-safety-data.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "White House Struggles to Talk About the ‘Problem From Hell’",
+      "snippet": "Inflation is upending voter confidence and posing a glaring political liability that looms over the Biden administration’s major policy decisions.",
+      "abstract": "Inflation is upending voter confidence and posing a glaring political liability that looms over the Biden administration’s major policy decisions.",
+      "lead_paragraph": "WASHINGTON — President Biden was at a private meeting discussing student debt forgiveness this year when, as happens uncomfortably often these days, the conversation came back to inflation.",
+      "publication_date": "2022-06-08T14:03:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/08/business/economy/inflation-biden-administration.html",
+      "byline": "By Zolan Kanno-Youngs and Jeanna Smialek"
+    }
+  ]
+}

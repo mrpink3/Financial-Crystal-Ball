@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2016-08-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Barclays Shrinks, but Says Its Core Business Is Stronger",
+      "snippet": "The bank is accelerating the sale of businesses it deems nonessential, hoping to return to growth — and higher dividends.",
+      "abstract": "The bank is accelerating the sale of businesses it deems nonessential, hoping to return to growth — and higher dividends.",
+      "lead_paragraph": "LONDON — Barclays has been a bit of a punching bag among British banks in recent years.",
+      "publication_date": "2016-08-16T16:23:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/17/business/dealbook/barclays-on-a-selling-spree-aims-to-get-back-to-basics.html",
+      "byline": "By Chad Bray"
+    },
+    {
+      "headline": "As Louisiana Floodwaters Recede, the Scope of Disaster Comes Into View",
+      "snippet": "The state said that at least 11 people had died and that about 30,000 had been rescued after a storm system dumped more than 20 inches of rain in two days.",
+      "abstract": "The state said that at least 11 people had died and that about 30,000 had been rescued after a storm system dumped more than 20 inches of rain in two days.",
+      "lead_paragraph": "DENHAM SPRINGS, La. — Kathryn Morgan, 18, stood on the shore of the neighborhood, waiting for a boat and taking stock.",
+      "publication_date": "2016-08-16T18:26:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/17/us/louisiana-flooding.html",
+      "byline": "By Campbell Robertson and Alan Blinder"
+    },
+    {
+      "headline": "New Rules Require Heavy-Duty Trucks to Reduce Emissions by 25% Over the Next Decade",
+      "snippet": "Officials said the new rules would cut 1.1 billion tons of carbon emissions and represent a global benchmark for reducing pollutants linked to climate change.",
+      "abstract": "Officials said the new rules would cut 1.1 billion tons of carbon emissions and represent a global benchmark for reducing pollutants linked to climate change.",
+      "lead_paragraph": "The Obama administration on Tuesday issued aggressive new emissions standards for heavy-duty trucks. The rules are expected to achieve better fuel efficiency and a bigger cut in pollution than the version that was first proposed last year.",
+      "publication_date": "2016-08-16T18:30:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/17/business/energy-environment/epa-truck-emission-standards.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "When the Pilot Is a Mom: Accommodating New Motherhood at 30,000 Feet",
+      "snippet": "Female airline pilots are pushing for paid maternity leave and private spaces to pump breast milk, as opponents point to added costs and safety issues.",
+      "abstract": "Female airline pilots are pushing for paid maternity leave and private spaces to pump breast milk, as opponents point to added costs and safety issues.",
+      "lead_paragraph": "Boarding a flight can feel like stepping into a time capsule — men typically fly the plane, while most flight attendants are still women. Which is why a female pilot from Delta Air Lines did something dramatic at a union meeting recently.",
+      "publication_date": "2016-08-16T20:57:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/17/business/when-the-captain-is-mom-accommodating-new-motherhood-at-30000-feet.html",
+      "byline": "By Annalyn Kurtz"
+    },
+    {
+      "headline": "Gawker Is Said to Be Sold to Univision in a $135 Million Bid",
+      "snippet": "The sale came two months after Gawker filed for bankruptcy, a concession to the financial pressure it faced from a judgment in a case involving Hulk Hogan.",
+      "abstract": "The sale came two months after Gawker filed for bankruptcy, a concession to the financial pressure it faced from a judgment in a case involving Hulk Hogan.",
+      "lead_paragraph": "Gawker Media, whose fierce independence afforded it an unsparing approach to web journalism that influenced news organizations across the internet and the wider media world, was sold to Univision at auction on Tuesday, giving the freewheeling company an outside owner for the first time since its founding 14 years ago.",
+      "publication_date": "2016-08-16T22:20:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/17/business/media/gawker-sale.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Trump Casinos’ Tax Debt Was $30 Million. Then Christie Took Office.",
+      "snippet": "Under Gov. Chris Christie, New Jersey agreed to accept just $5 million in the bankruptcy cases of casinos founded by his friend Donald J. Trump, raising questions of special treatment.",
+      "abstract": "Under Gov. Chris Christie, New Jersey agreed to accept just $5 million in the bankruptcy cases of casinos founded by his friend Donald J. Trump, raising questions of special treatment.",
+      "lead_paragraph": "By the time Chris Christie became governor of New Jersey, the state’s auditors and lawyers had been battling for several years to collect long-overdue taxes owed by the casinos founded by his friend Donald J. Trump.",
+      "publication_date": "2016-08-16T23:01:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/17/us/politics/trump-chris-christie-casinos.html",
+      "byline": "By Russ Buettner"
+    },
+    {
+      "headline": "‘Shadow Brokers’ Leak Raises Alarming Question: Was the N.S.A. Hacked?",
+      "snippet": "Outside experts said the data contained what appeared to be genuine samples of the top-secret code used in the production of the N.S.A.’s custom-built malware.",
+      "abstract": "Outside experts said the data contained what appeared to be genuine samples of the top-secret code used in the production of the N.S.A.’s custom-built malware.",
+      "lead_paragraph": "The release on websites this week of what appears to be top-secret computer code that the National Security Agency has used to break into the networks of foreign governments and other espionage targets has caused deep concern inside American intelligence agencies, raising the question of whether America’s own elite operatives have been hacked and their methods revealed.",
+      "publication_date": "2016-08-17T01:14:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/17/us/shadow-brokers-leak-raises-alarming-question-was-the-nsa-hacked.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Donald Trump Appoints Media Firebrand to Run Campaign",
+      "snippet": "Naming Stephen K. Bannon the campaign’s chief executive completed a merger between the most strident elements of the conservative news media and Mr. Trump’s campaign.",
+      "abstract": "Naming Stephen K. Bannon the campaign’s chief executive completed a merger between the most strident elements of the conservative news media and Mr. Trump’s campaign.",
+      "lead_paragraph": "Donald J. Trump named as his new campaign chief on Wednesday a conservative media provocateur whose news organization regularly attacks the Republican Party establishment, savages Hillary Clinton and encourages Mr. Trump’s most pugilistic instincts.",
+      "publication_date": "2016-08-17T07:31:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/18/us/politics/donald-trump-stephen-bannon-paul-manafort.html",
+      "byline": "By Jonathan Martin, Jim Rutenberg and Maggie Haberman"
+    },
+    {
+      "headline": "A Charming Alternative Universe of You, Your Friends and No News",
+      "snippet": "Both Snapchat Stories and the newer Instagram Stories let users experience their friends’ most intimate and endearing moments in a news-free zone.",
+      "abstract": "Both Snapchat Stories and the newer Instagram Stories let users experience their friends’ most intimate and endearing moments in a news-free zone.",
+      "lead_paragraph": "This column is about escapist social networks, but let’s start with Donald J. Trump because he seems more or less inescapable right now.",
+      "publication_date": "2016-08-17T09:00:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/18/technology/a-charming-alternative-universe-of-you-your-friends-and-no-news.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Sydney Morning Herald Faces Uncertain Print Future in Australia",
+      "snippet": "The decline of Fairfax Media, The Herald’s publisher and one of Australia’s two dominant media companies, has dismayed many citizens.",
+      "abstract": "The decline of Fairfax Media, The Herald’s publisher and one of Australia’s two dominant media companies, has dismayed many citizens.",
+      "lead_paragraph": "They pushed for women to get the vote in Australia’s national elections. They brought down a central bank board member. And they helped convict a state official.",
+      "publication_date": "2016-08-17T15:02:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/18/business/international/australia-media-fairfax-smh.html",
+      "byline": "By Keith Bradsher and Michelle Innis"
+    }
+  ]
+}

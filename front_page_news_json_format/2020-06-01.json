@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2020-06-01",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Facing Protests Over Use of Force, Police Respond With More Force",
+      "snippet": "Videos showed officers using batons, tear gas, pepper spray and rubber bullets on protesters and bystanders.",
+      "abstract": "Videos showed officers using batons, tear gas, pepper spray and rubber bullets on protesters and bystanders.",
+      "lead_paragraph": "[Follow our live updates on the George Floyd protests across the country.]",
+      "publication_date": "2020-06-01T00:45:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/31/us/police-tactics-floyd-protests.html",
+      "byline": "By Shaila Dewan and Mike Baker"
+    },
+    {
+      "headline": "How Minneapolis, One of America’s Most Liberal Cities, Struggles With Racism",
+      "snippet": "The Midwestern city that has been the site of unrest views itself as embracing multiculturalism. But it also struggles with segregation and racial gaps on education.",
+      "abstract": "The Midwestern city that has been the site of unrest views itself as embracing multiculturalism. But it also struggles with segregation and racial gaps on education.",
+      "lead_paragraph": "MINNEAPOLIS — Residents of Minneapolis swell with pride over their city’s sparkling lakes, glassy downtown, beautifully kept green spaces and bicycle friendliness that draws comparisons to Copenhagen. They see themselves as public spirited, embracing of multiculturalism and inspired by Minnesota’s liberal icons, Hubert Humphrey, Walter Mondale and Paul Wellstone.",
+      "publication_date": "2020-06-01T09:00:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/01/us/minneapolis-racism-minnesota.html",
+      "byline": "By John Eligon and Julie Bosman"
+    },
+    {
+      "headline": "Is America’s Pandemic Waning or Raging? Yes",
+      "snippet": "A single day reveals divergent realities across the country: As cases drop in the Northeast and some cities reopen, other places report stubbornly high numbers.",
+      "abstract": "A single day reveals divergent realities across the country: As cases drop in the Northeast and some cities reopen, other places report stubbornly high numbers.",
+      "lead_paragraph": "CHICAGO — In the weeks since America began reopening on a large scale, the coronavirus has persisted on a stubborn but uneven path, with meaningful progress in some cities and alarming new outbreaks in others.",
+      "publication_date": "2020-06-01T09:00:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/01/us/coronavirus-united-states.html",
+      "byline": "By Julie Bosman and Mitch Smith"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-10-13",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Hundreds of Police Officers Have Died From Covid. Vaccines Remain a Hard Sell.",
+      "snippet": "Far more law enforcement officers in the U.S. have died from Covid-19 than from any other work-related cause in 2020 and 2021. Even so, police unions are fighting vaccine mandates.",
+      "abstract": "Far more law enforcement officers in the U.S. have died from Covid-19 than from any other work-related cause in 2020 and 2021. Even so, police unions are fighting vaccine mandates.",
+      "lead_paragraph": "BAKER, La. — Over the last year and a half, a majority of the roughly 40 police officers who patrol Baker, La., a suburb of Baton Rouge, tested positive for the coronavirus. All of them recovered and went back to work — until Lt. DeMarcus Dunn got sick.",
+      "publication_date": "2021-10-12T16:02:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/12/us/police-covid-vaccines.html",
+      "byline": "By Mitch Smith"
+    },
+    {
+      "headline": "The Unlikely Issue Shaping the Virginia Governor’s Race: Schools",
+      "snippet": "Virginia Republicans in a tight governor’s race have been staging “Parents Matter” rallies and tapping into conservative anger over mandates and critical race theory.",
+      "abstract": "Virginia Republicans in a tight governor’s race have been staging “Parents Matter” rallies and tapping into conservative anger over mandates and critical race theory.",
+      "lead_paragraph": "WINCHESTER, Va. — As a lifelong Republican in her home state of Virginia, Tammy Yoder faithfully casts her ballot for those who want to lower taxes, oppose abortion and back other conservative causes.",
+      "publication_date": "2021-10-12T21:30:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/12/us/politics/virginia-governor-republicans-schools.html",
+      "byline": "By Lisa Lerer"
+    },
+    {
+      "headline": "World’s Growth Cools and the Rich-Poor Divide Widens",
+      "snippet": "The International Monetary Fund says the persistence of the coronavirus and global supply chain crisis weighs on economies.",
+      "abstract": "The International Monetary Fund says the persistence of the coronavirus and global supply chain crisis weighs on economies.",
+      "lead_paragraph": "As the world economy struggles to find its footing, the resurgence of the coronavirus and supply chain chokeholds threaten to hold back the global recovery’s momentum, a closely watched report warned on Tuesday.",
+      "publication_date": "2021-10-12T21:54:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/12/business/economy/imf-world-economic-outlook.html",
+      "byline": "By Patricia Cohen and Alan Rappeport"
+    },
+    {
+      "headline": "China’s Power Problems Expose a Strategic Weakness",
+      "snippet": "China announced on Wednesday a national rush to mine and burn more coal, as the country’s electricity shortage threatens to damage its image as a reliable manufacturing base.",
+      "abstract": "China announced on Wednesday a national rush to mine and burn more coal, as the country’s electricity shortage threatens to damage its image as a reliable manufacturing base.",
+      "lead_paragraph": "BEIJING — A bread company can’t get all the power it needs for its bakeries. A chemicals supplier for some of the world’s biggest paint producers announced production cuts. A port city changed electricity rationing rules for manufacturers four times in a single day.",
+      "publication_date": "2021-10-13T08:38:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/13/business/china-electricity-shortage.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "A Stock Market Malaise With the Shadow of ’70s-Style Stagflation",
+      "snippet": "After coasting higher over the summer, markets are jittery over rising prices, growth snarls and a number of other threats.",
+      "abstract": "After coasting higher over the summer, markets are jittery over rising prices, growth snarls and a number of other threats.",
+      "lead_paragraph": "Vaccine mandates seem to be working, younger children may be approved for shots by Halloween, and the coronavirus appears to be in retreat. But those hopeful signs  herald a messy new phase for the country’s economic recovery — and that’s putting Wall Street more on edge than it’s been in months.",
+      "publication_date": "2021-10-13T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/13/business/stocks-inflation-stagflation.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.",
+      "snippet": "In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive?",
+      "abstract": "In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive?",
+      "lead_paragraph": "KATOKU, Japan — Standing on its mountain-fringed beach, there is no hint that the Japanese village of Katoku even exists. Its handful of houses hide behind a dune covered with morning glories and pandanus trees, the chitter of cicadas interrupted only by the cadence of waves and the call of an azure-winged jay.",
+      "publication_date": "2021-10-13T09:00:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html",
+      "byline": "By Ben Dooley and Hisako Ueno"
+    },
+    {
+      "headline": "Consumer Prices Jump Again, Presenting a Dilemma for Washington",
+      "snippet": "Consumer Price Index data from the Labor Department showed that prices kept climbing in September, as supply chain snarls and rising rents fueled rapid inflation.",
+      "abstract": "Consumer Price Index data from the Labor Department showed that prices kept climbing in September, as supply chain snarls and rising rents fueled rapid inflation.",
+      "lead_paragraph": "Consumer prices jumped more than expected last month, with rent, food and furniture costs surging as a limited supply of housing and a shortage of goods stemming from supply chain troubles combined to fuel rapid inflation.",
+      "publication_date": "2021-10-13T09:20:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/13/business/economy/september-2021-cpi-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Social Security Benefits to Rise 5.9% in 2022, Most in Four Decades",
+      "snippet": "The increase, a cost-of-living adjustment that applies to about 70 million Americans, comes as consumer prices have jumped sharply.",
+      "abstract": "The increase, a cost-of-living adjustment that applies to about 70 million Americans, comes as consumer prices have jumped sharply.",
+      "lead_paragraph": "Benefits from Social Security, which tens of millions of retired Americans rely on to pay their bills, will increase by 5.9 percent in 2022, the Social Security Administration said on Wednesday. It is the biggest boost in 40 years as prices for food, cars and rent keep climbing.",
+      "publication_date": "2021-10-13T13:28:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/13/business/social-security-cola.html",
+      "byline": "By Madeleine Ngo"
+    }
+  ]
+}

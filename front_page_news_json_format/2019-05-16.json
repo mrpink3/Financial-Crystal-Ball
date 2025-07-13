@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2019-05-16",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Alabama Aims Squarely at Roe, but the Supreme Court May Prefer Glancing Blows",
+      "snippet": "The court’s conservative majority may prefer to chip away at abortion rights rather than overrule Roe outright.",
+      "abstract": "The court’s conservative majority may prefer to chip away at abortion rights rather than overrule Roe outright.",
+      "lead_paragraph": "WASHINGTON — Abortion rights are at risk at the Supreme Court, but the short-term threat may not come from extreme measures like the one passed by Alabama lawmakers.",
+      "publication_date": "2019-05-15T16:01:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/15/us/politics/supreme-court-abortion.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Trump Immigration Proposal Emphasizes Immigrants’ Skills Over Family Ties",
+      "snippet": "The plan, to be unveiled Thursday, will significantly scale back family-based immigration and increase the educational and skills requirements to move to the United States.",
+      "abstract": "The plan, to be unveiled Thursday, will significantly scale back family-based immigration and increase the educational and skills requirements to move to the United States.",
+      "lead_paragraph": "WASHINGTON — President Trump on Thursday will unveil a plan to overhaul parts of the nation’s immigration system that would impose new security measures at the border and significantly increase the educational and skills requirements for people allowed to migrate to the United States.",
+      "publication_date": "2019-05-15T20:12:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/15/us/politics/trump-immigration-kushner.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Huawei Is a Target as Trump Moves to Ban Foreign Telecom Gear",
+      "snippet": "The administration also announced that it had placed the company on a list of firms prevented from buying American parts and technologies without seeking approval.",
+      "abstract": "The administration also announced that it had placed the company on a list of firms prevented from buying American parts and technologies without seeking approval.",
+      "lead_paragraph": "WASHINGTON — President Trump moved on Wednesday to ban American telecommunications firms from installing foreign-made equipment that could pose a threat to national security, White House officials said, stepping up a battle against China by effectively barring sales by Huawei, the country’s leading networking company.",
+      "publication_date": "2019-05-15T20:45:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/15/business/huawei-ban-trump.html",
+      "byline": "By Cecilia Kang and David E. Sanger"
+    },
+    {
+      "headline": "CBS Unveils Its New Lineup After a Season of Crisis",
+      "snippet": "A possible merger with Viacom is back in play for the most-watched network, after it was affected by claims of misconduct at its executive wing, news division and prime-time shows.",
+      "abstract": "A possible merger with Viacom is back in play for the most-watched network, after it was affected by claims of misconduct at its executive wing, news division and prime-time shows.",
+      "lead_paragraph": "CBS will finish the 2018-19 season as the most-watched broadcast network for the 11th year in a row, a fact that executives did not neglect to mention from the Carnegie Hall stage at their annual pitch to advertisers on Wednesday.",
+      "publication_date": "2019-05-15T21:08:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/15/business/media/cbs-lineup-new-season-upfronts.html",
+      "byline": "By Edmund Lee and John Koblin"
+    },
+    {
+      "headline": "How the Promise of a $120 Billion Uber I.P.O. Evaporated",
+      "snippet": "Uber’s offering was supposed to be a crowning moment for the ride-hailing company. But it suffered setback after setback and ultimately resulted in pointed questions for all involved.",
+      "abstract": "Uber’s offering was supposed to be a crowning moment for the ride-hailing company. But it suffered setback after setback and ultimately resulted in pointed questions for all involved.",
+      "lead_paragraph": "Last September, Uber’s top executives were pitched by some of Wall Street’s biggest banks, Morgan Stanley and Goldman Sachs.",
+      "publication_date": "2019-05-15T22:57:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/15/technology/uber-ipo-price.html",
+      "byline": "By Mike Isaac, Michael J. de la Merced and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Trump’s Love for Tariffs Began in Japan’s ’80s Boom",
+      "snippet": "Thirty years later, few issues have defined Donald J. Trump’s presidency more than his love for tariffs — and on few issues has he been more unswerving.",
+      "abstract": "Thirty years later, few issues have defined Donald J. Trump’s presidency more than his love for tariffs — and on few issues has he been more unswerving.",
+      "lead_paragraph": "WASHINGTON — Donald J. Trump lost an auction in 1988 for a 58-key piano used in the classic film “Casablanca” to a Japanese trading company representing a collector. While he brushed off being outbid, it was a firsthand reminder of Japan’s growing wealth, and the following year, Mr. Trump went on television to call for a 15 percent to 20 percent tax on imports from Japan.",
+      "publication_date": "2019-05-15T23:31:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/15/us/politics/china-trade-donald-trump.html",
+      "byline": "By Jim Tankersley and Mark Landler"
+    },
+    {
+      "headline": "Iran Threat Debate Is Set Off by Images of Missiles at Sea",
+      "snippet": "The photographs fueled fears that Iran would fire missiles at U.S. naval ships in the Persian Gulf. But some said the moves could be defensive acts against Washington provocations.",
+      "abstract": "The photographs fueled fears that Iran would fire missiles at U.S. naval ships in the Persian Gulf. But some said the moves could be defensive acts against Washington provocations.",
+      "lead_paragraph": "WASHINGTON — The intelligence that caused the White House to escalate its warnings about a threat from Iran came from photographs of missiles on small boats in the Persian Gulf that were put on board by Iranian paramilitary forces, three American officials said.",
+      "publication_date": "2019-05-16T01:54:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/15/world/middleeast/iran-war-usa.html",
+      "byline": "By Julian E. Barnes, Eric Schmitt, Nicholas Fandos and Edward Wong"
+    },
+    {
+      "headline": "Vice Tries to Turn the Page by Making Content for Others",
+      "snippet": "A new chief executive hopes that the TV and movie production business can help overcome significant difficulties elsewhere in the company.",
+      "abstract": "A new chief executive hopes that the TV and movie production business can help overcome significant difficulties elsewhere in the company.",
+      "lead_paragraph": "LOS ANGELES — Danny Gabai was used to being ignored. For years, he ran what may have been Vice Media’s most uncool business — the production of feature films, made to be shown in theaters.",
+      "publication_date": "2019-05-16T09:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/16/business/media/vice-media-television-studio.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Modi Promised Better Days and Bridges. India’s Voters Are Still Waiting.",
+      "snippet": "As Prime Minister Narendra Modi seeks re-election, he confronts anger over a weakening economy and failed promises to revive stalled infrastructure projects.",
+      "abstract": "As Prime Minister Narendra Modi seeks re-election, he confronts anger over a weakening economy and failed promises to revive stalled infrastructure projects.",
+      "lead_paragraph": "LUNSU VILLAGE, India — Across the Kangra Valley, in the hills below the snow-capped peaks of the Himalayas, the promise of a modern railway reverberated like the beginning of something vital — access to jobs, hospitals, universities, and shops.",
+      "publication_date": "2019-05-16T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/16/business/india-modi-election-economy.html",
+      "byline": "By Peter S. Goodman"
+    }
+  ]
+}

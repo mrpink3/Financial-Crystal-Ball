@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-09-22",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump Campaign Knew Lawyers’ Voting Machine Claims Were Baseless, Memo Shows",
+      "snippet": "Days before lawyers allied with Donald Trump gave a news conference promoting election conspiracy theories, his campaign had determined that many of those claims were false, court filings reveal.",
+      "abstract": "Days before lawyers allied with Donald Trump gave a news conference promoting election conspiracy theories, his campaign had determined that many of those claims were false, court filings reveal.",
+      "lead_paragraph": "Two weeks after the 2020 election, a team of lawyers closely allied with Donald J. Trump held a widely watched news conference at the Republican Party’s headquarters in Washington. At the event, they laid out a bizarre conspiracy theory claiming that a voting machine company had worked with an election software firm, the financier George Soros and Venezuela to steal the presidential contest from Mr. Trump.",
+      "publication_date": "2021-09-21T18:11:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/21/us/politics/trump-dominion-voting.html",
+      "byline": "By Alan Feuer"
+    },
+    {
+      "headline": "American Airlines and JetBlue Face Antitrust Suit Over Alliance",
+      "snippet": "The Justice Department said their partnership amounted to a merger in the New York and Boston markets and reduced competition more widely.",
+      "abstract": "The Justice Department said their partnership amounted to a merger in the New York and Boston markets and reduced competition more widely.",
+      "lead_paragraph": "The Justice Department filed an antitrust suit on Tuesday against American Airlines and JetBlue, saying a growing alliance between the two carriers had created a “de facto merger” in the New York and Boston markets, reducing competition and hurting consumers.",
+      "publication_date": "2021-09-21T20:30:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/21/business/american-airlines-jetblue-antitrust.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "No More Apologies: Inside Facebook’s Push to Defend Its Image",
+      "snippet": "Mark Zuckerberg, the chief executive, has signed off on an effort to show users pro-Facebook stories and to distance himself from scandals.",
+      "abstract": "Mark Zuckerberg, the chief executive, has signed off on an effort to show users pro-Facebook stories and to distance himself from scandals.",
+      "lead_paragraph": "Mark Zuckerberg, Facebook’s chief executive, signed off last month on a new initiative code-named Project Amplify.",
+      "publication_date": "2021-09-21T21:30:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html",
+      "byline": "By Ryan Mac and Sheera Frenkel"
+    },
+    {
+      "headline": "At U.N., Biden Calls for Diplomacy, Not Conflict, but Some Are Skeptical",
+      "snippet": "The president said he wants global cooperation to meet challenges, but some allies and adversaries say his actions point to confrontation with China and unilateral action, belying his words.",
+      "abstract": "The president said he wants global cooperation to meet challenges, but some allies and adversaries say his actions point to confrontation with China and unilateral action, belying his words.",
+      "lead_paragraph": "President Biden, fighting mounting doubts among America’s allies about his commitment to working with them, used his debut address to the United Nations on Tuesday to call for “relentless diplomacy” on climate change, the pandemic and efforts to blunt the expanding influence of autocratic nations like China and Russia.",
+      "publication_date": "2021-09-21T23:22:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/21/world/asia/biden-united-nations-unga.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Beyond Evergrande’s Troubles, a Slowing Chinese Economy",
+      "snippet": "Investors are watching whether the property developer defaults. But in the background, the world’s No. 2 economy is flashing numerous warning signs.",
+      "abstract": "Investors are watching whether the property developer defaults. But in the background, the world’s No. 2 economy is flashing numerous warning signs.",
+      "lead_paragraph": "BEIJING — Global markets have watched anxiously as a huge and deeply indebted Chinese property company flirts with default, fearing that any collapse could ripple through the international financial system.",
+      "publication_date": "2021-09-22T10:54:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/22/business/economy/china-economy-evergrande.html",
+      "byline": "By Keith Bradsher and Alexandra Stevenson"
+    },
+    {
+      "headline": "What Will It Take for Electric Vehicles to Create Jobs, Not Cut Them?",
+      "snippet": "A report by a liberal think tank tries to quantify the potential employment gains and losses, concluding that subsidies will be crucial.",
+      "abstract": "A report by a liberal think tank tries to quantify the potential employment gains and losses, concluding that subsidies will be crucial.",
+      "lead_paragraph": "When President Biden announced his multitrillion-dollar jobs plan in March, it included nearly $175 billion in spending to encourage Americans to buy electric vehicles.",
+      "publication_date": "2021-09-22T13:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/22/business/economy/electric-vehicles-jobs.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

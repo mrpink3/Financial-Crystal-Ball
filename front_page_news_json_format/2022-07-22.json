@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-07-22",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Ukraine Tries to Make the Case That It Can Win, Citing Recent Strikes",
+      "snippet": "Pushing back against skepticism that Western weapons will allow them to turn the tide against Russia, Ukrainians point to successful attacks using new long-range rocket systems.",
+      "abstract": "Pushing back against skepticism that Western weapons will allow them to turn the tide against Russia, Ukrainians point to successful attacks using new long-range rocket systems.",
+      "lead_paragraph": "KYIV, Ukraine — Just weeks ago, Ukraine’s military was being pummeled relentlessly in the East, taking heavy casualties as it slowly gave ground to the Russian advance. Western support appeared to be softening, amid skepticism that Ukraine could win a war of attrition, or that an influx of sophisticated weapons would turn the tide.",
+      "publication_date": "2022-07-21T18:14:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/21/world/europe/ukraine-russia-weapons-war.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Jan. 6 Panel Presents Evidence of Trump’s Refusal to Stop the Riot",
+      "snippet": "The House panel painted a detailed picture of how, as officials rushed to respond to an attack on the United States government, the commander in chief chose for hours to do nothing.",
+      "abstract": "The House panel painted a detailed picture of how, as officials rushed to respond to an attack on the United States government, the commander in chief chose for hours to do nothing.",
+      "lead_paragraph": "As a mob of his supporters assaulted the Capitol, former President Donald J. Trump sat in his dining room off the Oval Office, watching the violence on television and choosing to do nothing for hours to stop it, an array of former administration officials testified to the House committee investigating the Jan. 6 attack in accounts laid out on Thursday.",
+      "publication_date": "2022-07-22T00:05:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/21/us/politics/trump-jan-6.html",
+      "byline": "By Luke Broadwater and Maggie Haberman"
+    },
+    {
+      "headline": "After Roe, Republicans Sharpen Attacks on Gay and Transgender Rights",
+      "snippet": "Since the Supreme Court overturned Roe v. Wade, anti-gay rhetoric and calls to roll back L.G.B.T.Q. rights have grown bolder among Republican elected officials and candidates.",
+      "abstract": "Since the Supreme Court overturned Roe v. Wade, anti-gay rhetoric and calls to roll back L.G.B.T.Q. rights have grown bolder among Republican elected officials and candidates.",
+      "lead_paragraph": "Days after the Supreme Court overturned the right to abortion, Michigan’s Republican candidates for governor were asked if it was also time to roll back constitutional protections for gay rights.",
+      "publication_date": "2022-07-22T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/22/us/politics/after-roe-republicans-sharpen-attacks-on-gay-and-transgender-rights.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Inside Ukraine’s Thriving Tech Sector",
+      "snippet": "Ukrainian technology companies have earned billions. But with most executives unable to meet foreign clients, the good times may not last.",
+      "abstract": "Ukrainian technology companies have earned billions. But with most executives unable to meet foreign clients, the good times may not last.",
+      "lead_paragraph": "LVIV, Ukraine — The hassles never end for Yuriy Adamchuk, a Ukrainian executive who spends most of his waking hours coaxing 3,000 software coders to deliver projects on time, despite the obstacles and occasional horrors of war and a never-ending series of interruptions.",
+      "publication_date": "2022-07-22T09:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/07/22/business/ukraine-tech-companies-putin.html",
+      "byline": "By David Segal"
+    },
+    {
+      "headline": "Germany bails out Uniper, a crucial gas provider squeezed by Russia.",
+      "snippet": "The government announced a multibillion-euro rescue and agreed to acquire a 30 percent stake in the company.",
+      "abstract": "The government announced a multibillion-euro rescue and agreed to acquire a 30 percent stake in the company.",
+      "lead_paragraph": "The German government agreed on Friday to take an approximately 30 percent stake in Uniper, which is one of the country’s largest suppliers of natural gas and was on the brink of financial ruin, to keep energy supplies flowing and fend off potential chaos in Europe’s energy market.",
+      "publication_date": "2022-07-22T10:06:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/22/business/german-government-gas-supply-uniper.html",
+      "byline": "By Melissa Eddy and Stanley Reed"
+    },
+    {
+      "headline": "Twitter’s earnings falter as it fights with Elon Musk.",
+      "snippet": "The social media company swung to a loss in the second quarter and cited “uncertainty” over its pending takeover by the billionaire Tesla chief executive as a factor.",
+      "abstract": "The social media company swung to a loss in the second quarter and cited “uncertainty” over its pending takeover by the billionaire Tesla chief executive as a factor.",
+      "lead_paragraph": "Twitter is embroiled in a grueling legal fight with Elon Musk as he tries to back out of a $44 billion acquisition of the company. It has slowed its hiring as it grapples with a flagging economy. Its stock price has slumped.",
+      "publication_date": "2022-07-22T12:27:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/22/technology/twitter-earnings.html",
+      "byline": "By Kate Conger and Adam Satariano"
+    },
+    {
+      "headline": "Biden’s New Economic Scorecard: The Price at the Pump",
+      "snippet": "The president has grown fond of boasting about a prolonged streak of falling gasoline prices, a move wrapped in risk and irony.",
+      "abstract": "The president has grown fond of boasting about a prolonged streak of falling gasoline prices, a move wrapped in risk and irony.",
+      "lead_paragraph": "WASHINGTON — After topping $5 a gallon in June, the price of gasoline has fallen for more than a month. The Biden administration wants to tell you about it. Again and again.",
+      "publication_date": "2022-07-22T15:43:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/22/us/politics/biden-gas-prices.html",
+      "byline": "By Jim Tankersley"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-12-07",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Huawei Executive’s Arrest Intensifies Trade War Fears",
+      "snippet": "The arrest of Meng Wanzhou, an executive at the Chinese company Huawei, could imperil trade talks. But it is part of the Trump administration’s efforts to contain China and Iran.",
+      "abstract": "The arrest of Meng Wanzhou, an executive at the Chinese company Huawei, could imperil trade talks. But it is part of the Trump administration’s efforts to contain China and Iran.",
+      "lead_paragraph": "WASHINGTON — At dinner with China’s president, Xi Jinping, on Saturday night in Buenos Aires, President Trump celebrated their “special” relationship and all but predicted they would emerge with a truce in the trade war between the United States and China.",
+      "publication_date": "2018-12-06T18:05:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/06/us/politics/huawei-meng-china-iran.html",
+      "byline": "By Mark Landler, Edward Wong and Katie Benner"
+    },
+    {
+      "headline": "Making President Trump’s Bed: A Housekeeper Without Papers",
+      "snippet": "At the president’s New Jersey golf course, an undocumented immigrant has worked as a maid since 2013. She said she never imagined she “would see such important people close up.”",
+      "abstract": "At the president’s New Jersey golf course, an undocumented immigrant has worked as a maid since 2013. She said she never imagined she “would see such important people close up.”",
+      "lead_paragraph": "BEDMINSTER, N.J. — During more than five years as a housekeeper at the Trump National Golf Club in Bedminster, N.J., Victorina Morales has made Donald J. Trump’s bed, cleaned his toilet and dusted his crystal golf trophies. When he visited as president, she was directed to wear a pin in the shape of the American flag adorned with a Secret Service logo.",
+      "publication_date": "2018-12-06T18:22:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/06/us/trump-bedminster-golf-undocumented-workers.html",
+      "byline": "By Miriam Jordan"
+    },
+    {
+      "headline": "‘Yellow Vest’ Protests Shake France. Here’s the Lesson for Climate Change.",
+      "snippet": "There is little doubt among scientists and economists that carbon taxes are needed to reduce fossil fuel dependence. The question is how to design them to cushion the blow on the most vulnerable.",
+      "abstract": "There is little doubt among scientists and economists that carbon taxes are needed to reduce fossil fuel dependence. The question is how to design them to cushion the blow on the most vulnerable.",
+      "lead_paragraph": "PARIS — Vincent Picard describes himself as a “militant ecologist.” But when protesters took to the streets to express their rage over a planned increase in France’s fuel tax, Mr. Picard joined their ranks.",
+      "publication_date": "2018-12-06T18:52:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/06/world/europe/france-fuel-carbon-tax.html",
+      "byline": "By Alissa J. Rubin and Somini Sengupta"
+    },
+    {
+      "headline": "At ‘60 Minutes,’ Independence Led to Trouble, Investigators Say",
+      "snippet": "The show’s “physical, administrative and cultural separation” from the rest of CBS News permitted misconduct, according to a draft of a report for the CBS board.",
+      "abstract": "The show’s “physical, administrative and cultural separation” from the rest of CBS News permitted misconduct, according to a draft of a report for the CBS board.",
+      "lead_paragraph": "For decades, “60 Minutes” has reigned at the top of television news, bringing in hundreds of journalistic awards, not to mention weekly ratings for CBS that are the envy of the industry. The success has allowed “60 Minutes” to operate independently from the larger network news division to which it belongs.",
+      "publication_date": "2018-12-07T00:07:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/06/business/media/60-minutes-jeff-fager-don-hewitt.html",
+      "byline": "By Rachel Abrams and John Koblin"
+    },
+    {
+      "headline": "U.S. Oil Exports Are Rising. So Is the Trade Deficit.",
+      "snippet": "The Trump administration has touted increased energy exports as a key element in its strategy to rebalance foreign trade. It’s not working.",
+      "abstract": "The Trump administration has touted increased energy exports as a key element in its strategy to rebalance foreign trade. It’s not working.",
+      "lead_paragraph": "WASHINGTON — The United States exported more oil and fuel than it imported last week for the first time in 75 years, a significant milestone in the resurgence of domestic energy production that comes as the Trump administration pushes to increase energy exports even further.",
+      "publication_date": "2018-12-07T00:10:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/06/us/politics/us-oil-exports-trade-deficit.html",
+      "byline": "By Binyamin Appelbaum and Jim Tankersley"
+    },
+    {
+      "headline": "With the Economy Uncertain, Tech ‘Unicorns’ Rush Toward I.P.O.",
+      "snippet": "Faced with a choppy stock market and fears of an economic downturn, Uber and Lyft are moving toward the public markets as other private tech companies also get ready.",
+      "abstract": "Faced with a choppy stock market and fears of an economic downturn, Uber and Lyft are moving toward the public markets as other private tech companies also get ready.",
+      "lead_paragraph": "SAN FRANCISCO — For years, Uber and Lyft put off going public. Now, they are speeding up.",
+      "publication_date": "2018-12-07T00:12:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/06/technology/lyft-uber-ipo.html",
+      "byline": "By Erin Griffith and Mike Isaac"
+    },
+    {
+      "headline": "A.I. as Talent Scout: Unorthodox Hires, and Maybe Lower Pay",
+      "snippet": "A form of artificial intelligence is being used to surface job candidates with the attributes of a perfect fit, even without conventional credentials.",
+      "abstract": "A form of artificial intelligence is being used to surface job candidates with the attributes of a perfect fit, even without conventional credentials.",
+      "lead_paragraph": "One day this fall, Ashutosh Garg, the chief executive of a recruiting service called Eightfold.ai, turned up a résumé that piqued his interest.",
+      "publication_date": "2018-12-07T00:47:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/06/business/economy/artificial-intelligence-hiring.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Lean In’s Sheryl Sandberg Problem",
+      "snippet": "The movement that Facebook’s chief operating officer started is trying to leave her, and her scandals, behind.",
+      "abstract": "The movement that Facebook’s chief operating officer started is trying to leave her, and her scandals, behind.",
+      "lead_paragraph": "The door to the Lean In office in Palo Alto, Calif., has Sheryl Sandberg’s name on it. The email addresses for Lean In employees bear her initials. And millions of dollars in funding every year for the women’s empowerment organization comes from her.",
+      "publication_date": "2018-12-07T09:47:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/12/07/technology/lean-in-sheryl-sandberg-problem.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Mueller Says Manafort Lied About Contacts With Trump Officials",
+      "snippet": "The special counsel detailed his accusations that the former campaign chairman Paul Manafort lied to investigators.",
+      "abstract": "The special counsel detailed his accusations that the former campaign chairman Paul Manafort lied to investigators.",
+      "lead_paragraph": "WASHINGTON — Paul Manafort, President Trump’s former campaign chairman, lied to federal investigators about his contacts with Trump administration officials and his interactions with a Russian linked to Moscow’s intelligence services, the special counsel’s office said on Friday.",
+      "publication_date": "2018-12-07T15:02:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/07/us/politics/manafort-special-counsel-lies.html",
+      "byline": "By Adam Goldman and Sharon LaFraniere"
+    },
+    {
+      "headline": "A Teacher’s Long Road to Student Loan Forgiveness (and a $4,500 Surprise)",
+      "snippet": "Public service debt waivers require 120 payments, meticulous attention to detail and, for a teacher named Jed Shafer, an appeal to a new program.",
+      "abstract": "Public service debt waivers require 120 payments, meticulous attention to detail and, for a teacher named Jed Shafer, an appeal to a new program.",
+      "lead_paragraph": "Jed Shafer’s wife, Mary, riffled through the mail on Nov. 29, no longer expecting any unwelcome news.",
+      "publication_date": "2018-12-07T15:34:57+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/07/your-money/public-service-loan-forgiveness.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

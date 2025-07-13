@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-12-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Biden Aims to Inject New Energy Into U.S. Relations With African Nations",
+      "snippet": "With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.",
+      "abstract": "With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.",
+      "lead_paragraph": "WASHINGTON — President Biden sought to revitalize America’s listless relationship with Africa on Wednesday, promising a grab bag of economic initiatives to make up for a predecessor who had denigrated the continent and catch up with strategic competitors like China that have expanded their influence.",
+      "publication_date": "2022-12-14T17:46:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/14/us/politics/biden-us-africa-summit.html",
+      "byline": "By Peter Baker and Declan Walsh"
+    },
+    {
+      "headline": "The Infrared Hunt for Russian Troops in the Battle for Bakhmut",
+      "snippet": "On a frigid December night, The New York Times accompanied members of a surveillance team for the Ukrainian Army as they used a thermal sight to find enemy positions miles away.",
+      "abstract": "On a frigid December night, The New York Times accompanied members of a surveillance team for the Ukrainian Army as they used a thermal sight to find enemy positions miles away.",
+      "lead_paragraph": "BAKHMUT, Ukraine — Wind howled through leafless trees and through the windows of the blown-out apartment building as the surveillance team marched up flights of stairs covered with broken glass. The cold numbed their fingers as they set up their equipment: a laptop-size thermal imaging sight, its tripod and a Starlink satellite dish and battery.",
+      "publication_date": "2022-12-15T05:01:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/15/world/europe/bakhmut-ukraine-russia-war.html",
+      "byline": "By Thomas Gibbons-Neff and Tyler Hicks"
+    },
+    {
+      "headline": "An Alternate Reality: How Russia’s State TV Spins the Ukraine War",
+      "snippet": "Leaked emails detail how Russia’s biggest state broadcaster, working with the nation’s security services, mined right-wing American news and Chinese media to craft a narrative that Moscow was winning.",
+      "abstract": "Leaked emails detail how Russia’s biggest state broadcaster, working with the nation’s security services, mined right-wing American news and Chinese media to craft a narrative that Moscow was winning.",
+      "lead_paragraph": "As Russian tanks were stuck in the mud outside Kyiv earlier this year and the economic fallout of war with Ukraine took hold, one part of Russia’s government hummed with precision: television propaganda.",
+      "publication_date": "2022-12-15T08:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/15/technology/russia-state-tv-ukraine-war.html",
+      "byline": "By Paul Mozur, Adam Satariano and Aaron Krolik"
+    },
+    {
+      "headline": "You Bought the Thing. Now You Regret the Thing.",
+      "snippet": "Ever experienced buyer’s remorse? Of course you have. But there are ways to prevent it.",
+      "abstract": "Ever experienced buyer’s remorse? Of course you have. But there are ways to prevent it.",
+      "lead_paragraph": "The limited edition SpongeBob Funko Pop was calling to Jason Grioua.",
+      "publication_date": "2022-12-15T08:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/15/business/buyers-remorse-personal-finance.html",
+      "byline": "By Isabella Simonetti"
+    },
+    {
+      "headline": "Traumatized by Covid, but Ruled by a Party That Never Apologizes",
+      "snippet": "Gripped with grief, anxiety and depression, many in China want a national reckoning over the hard-line “zero Covid” policy. Holding the government to account may be a quixotic quest.",
+      "abstract": "Gripped with grief, anxiety and depression, many in China want a national reckoning over the hard-line “zero Covid” policy. Holding the government to account may be a quixotic quest.",
+      "lead_paragraph": "They posted photos of their positive Covid tests on social media. They described their symptoms as if they were something to be celebrated: fever, cough, fatigue, body ache, loss of taste and smell. They talked about how wonderful it was to no longer be afraid of being sent to quarantine camps for infections and to no longer have to worry about neighbors being locked down for weeks as a result.",
+      "publication_date": "2022-12-15T10:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/15/business/china-zero-covid-apology.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "In the World of Wrestling, a Heavy Hitter Steps Into the Ring",
+      "snippet": "The owner of the Los Angeles Lakers believes WOW — Women of Wrestling can be an engine of female empowerment. Her performers, known as “superheroes,” are breaking new ground in the historically male-centric space.",
+      "abstract": "The owner of the Los Angeles Lakers believes WOW — Women of Wrestling can be an engine of female empowerment. Her performers, known as “superheroes,” are breaking new ground in the historically male-centric space.",
+      "lead_paragraph": "“Transforming Spaces” is a series about women driving change in sometimes unexpected places.",
+      "publication_date": "2022-12-15T10:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/15/business/women-of-wrestling-jeanie-buss.html",
+      "byline": "By Joshua Needelman"
+    },
+    {
+      "headline": "How a Sprawling Hospital Chain Ignited Its Own Staffing Crisis",
+      "snippet": "Ascension, one of the country’s largest health systems, spent years cutting jobs, leaving it flat-footed when the pandemic hit.",
+      "abstract": "Ascension, one of the country’s largest health systems, spent years cutting jobs, leaving it flat-footed when the pandemic hit.",
+      "lead_paragraph": "At a hospital in a Chicago suburb last winter, there were so few nurses that psychiatric patients with Covid were left waiting a full day for beds, and a single aide was on hand to assist with 32 infected patients. Nurses were so distraught about the inadequate staffing that they banded together to file formal complaints every day for more than a month.",
+      "publication_date": "2022-12-15T10:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/15/business/hospital-staffing-ascension.html",
+      "byline": "By Rebecca Robbins, Katie Thomas and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Europe’s Central Banks Raise Rates, and Prepare for More",
+      "snippet": "The European Central Bank, Bank of England and Swiss National Bank raised interest rates by half a point, a day after the Federal Reserve did the same.",
+      "abstract": "The European Central Bank, Bank of England and Swiss National Bank raised interest rates by half a point, a day after the Federal Reserve did the same.",
+      "lead_paragraph": "Less than 24 hours after the Federal Reserve slowed its pace of interest rate increases, central banks in Europe did too, but they each stressed they were in a continuous battle against stubbornly high inflation.",
+      "publication_date": "2022-12-15T13:34:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/15/business/european-central-bank-inflation-interest-rates.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "U.S. Cracks Down on Chinese Companies for Security Concerns",
+      "snippet": "The Biden administration placed severe restrictions on trade with dozens of Chinese entities, its latest step in a campaign to curtail access to technology with military applications.",
+      "abstract": "The Biden administration placed severe restrictions on trade with dozens of Chinese entities, its latest step in a campaign to curtail access to technology with military applications.",
+      "lead_paragraph": "WASHINGTON — The Biden administration on Thursday stepped up its efforts to impede China’s development of advanced semiconductors, restricting another 36 companies and organizations from getting access to American technology.",
+      "publication_date": "2022-12-15T13:45:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/15/business/economy/us-china-biden-security.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Amazon Agrees to Change Some Business Practices in E.U. Settlement",
+      "snippet": "The e-commerce giant avoided a fine, but will make a variety of changes regulators believe will help independent merchants who had raised alarms about Amazon’s tactics.",
+      "abstract": "The e-commerce giant avoided a fine, but will make a variety of changes regulators believe will help independent merchants who had raised alarms about Amazon’s tactics.",
+      "lead_paragraph": "Amazon has agreed to a settlement with European Union regulators that will force the company to make significant changes to its business practices but also allows the e-commerce giant to avoid a drawn out legal fight and billions of dollars of potential fines, according to three people with knowledge of the deal.",
+      "publication_date": "2022-12-15T15:28:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/15/technology/amazon-europe-settlement.html",
+      "byline": "By Adam Satariano and Karen Weise"
+    }
+  ]
+}

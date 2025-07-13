@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2023-05-31",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "CHIPS Act Funding for Science and Research Falls Short",
+      "snippet": "A deal to limit government spending in exchange for suspending the debt ceiling has further fueled concerns that the law’s ambitious goals could be harder to achieve.",
+      "abstract": "A deal to limit government spending in exchange for suspending the debt ceiling has further fueled concerns that the law’s ambitious goals could be harder to achieve.",
+      "lead_paragraph": "A renewed focus on the need to rein in federal spending has raised concerns about whether a bipartisan law that dedicates billions to advancing scientific research as well as revitalizing the American semiconductor industry will receive all of its promised funding.",
+      "publication_date": "2023-05-30T19:14:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/30/us/politics/chips-act-science-funding.html",
+      "byline": "By Madeleine Ngo"
+    },
+    {
+      "headline": "Drone Strike in Moscow Brings Ukraine War Home to Russians",
+      "snippet": "At least eight drones were intercepted, the Kremlin said, but the foray raised questions about Russian air defenses.",
+      "abstract": "At least eight drones were intercepted, the Kremlin said, but the foray raised questions about Russian air defenses.",
+      "lead_paragraph": "A barrage of attack drones were downed over Moscow on Tuesday, the first time civilian areas of the Russian capital have been touched directly by the Ukrainian conflict and a signal that a distant war may soon begin to feel somewhat less so for ordinary Russians.",
+      "publication_date": "2023-05-30T23:02:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/30/world/europe/moscow-drone-strike-russia-ukraine.html",
+      "byline": "By Anatoly Kurmanaev, Ivan Nechepurenko and Eric Nagourney"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-07-16",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Airlines May Learn to Love the Boeing 737 Max Again",
+      "snippet": "Airlines have canceled orders for hundreds of the troubled jet because of its safety problems and the pandemic, but others are still eager to buy them.",
+      "abstract": "Airlines have canceled orders for hundreds of the troubled jet because of its safety problems and the pandemic, but others are still eager to buy them.",
+      "lead_paragraph": "The first half of the year was not kind to the 737 Max. Boeing froze production of its beleaguered plane from January through much of May as customers canceled hundreds of orders, and deals for hundreds more were put at risk by delays in the plane’s return to the skies and the coronavirus pandemic.",
+      "publication_date": "2020-07-15T18:09:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/15/business/boeing-737-max-return.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Hollywood Stays Away From Facebook Ad Boycott",
+      "snippet": "The entertainment business is a big advertiser but has been noticeably silent as other industries protest the social network’s handling of hate speech.",
+      "abstract": "The entertainment business is a big advertiser but has been noticeably silent as other industries protest the social network’s handling of hate speech.",
+      "lead_paragraph": "LOS ANGELES — More than 1,000 companies have halted their Facebook advertising over the past month as part of a protest over the social network’s handling of hate speech, with most major industries represented in the boycott.",
+      "publication_date": "2020-07-15T19:15:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/15/business/media/hollywood-facebook-ad-boycott.html",
+      "byline": "By Brooks Barnes and Nicole Sperling"
+    },
+    {
+      "headline": "A Brazen Online Attack Targets V.I.P. Twitter Users in a Bitcoin Scam",
+      "snippet": "In a major show of force, hackers breached some of the site’s most prominent accounts, a Who’s Who of Americans in politics, entertainment and tech.",
+      "abstract": "In a major show of force, hackers breached some of the site’s most prominent accounts, a Who’s Who of Americans in politics, entertainment and tech.",
+      "lead_paragraph": "It was about 4 in the afternoon on Wednesday on the East Coast when chaos struck online. Dozens of the biggest names in America — including Joseph R. Biden Jr., Barack Obama, Kanye West, Bill Gates and Elon Musk — posted similar messages on Twitter: Send Bitcoin and the famous people would send back double your money.",
+      "publication_date": "2020-07-15T21:35:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/15/technology/twitter-hack-bill-gates-elon-musk.html",
+      "byline": "By Sheera Frenkel, Nathaniel Popper, Kate Conger and David E. Sanger"
+    },
+    {
+      "headline": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
+      "snippet": "The presidential order under consideration would be based on the same statute in the Immigration and Nationality Act used in a 2017 travel ban on several predominantly Muslim countries.",
+      "abstract": "The presidential order under consideration would be based on the same statute in the Immigration and Nationality Act used in a 2017 travel ban on several predominantly Muslim countries.",
+      "lead_paragraph": "The Trump administration is considering a sweeping ban on travel to the United States by members of the Chinese Communist Party and their families, according to people familiar with the proposal, a move that would almost certainly prompt retaliation against Americans seeking to enter or remain in China and exacerbate tensions between the two nations.",
+      "publication_date": "2020-07-15T23:59:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html",
+      "byline": "By Paul Mozur and Edward Wong"
+    },
+    {
+      "headline": "Boom Time for Death Planning",
+      "snippet": "The coronavirus pandemic has drawn new business to start-ups that provide end-of-life services, from estate planning to a final tweet.",
+      "abstract": "The coronavirus pandemic has drawn new business to start-ups that provide end-of-life services, from estate planning to a final tweet.",
+      "lead_paragraph": "One day in April, as the coronavirus ravaged New York City, 24-year-old Isabelle Rodriguez composed a tweet she would send from the grave.",
+      "publication_date": "2020-07-16T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/07/16/business/boom-time-for-death-planning.html",
+      "byline": "By Jennifer Miller"
+    },
+    {
+      "headline": "In Coronavirus Vaccine Race, China Strays From the Official Paths",
+      "snippet": "Beijing is offering several vaccine candidates to employees of state-owned companies and the armed forces, while also conducting clinical trials in other countries.",
+      "abstract": "Beijing is offering several vaccine candidates to employees of state-owned companies and the armed forces, while also conducting clinical trials in other countries.",
+      "lead_paragraph": "The offer to employees at the state-owned oil giant was compelling: Be among the first in China to take a coronavirus vaccine.",
+      "publication_date": "2020-07-16T13:22:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/16/business/china-vaccine-coronavirus.html",
+      "byline": "By Sui-Lee Wee and Mariana Simões"
+    },
+    {
+      "headline": "Russia Is Trying to Steal Virus Vaccine Data, Western Nations Say",
+      "snippet": "The hackers have been targeting British, Canadian and American organizations racing to create coronavirus vaccines.",
+      "abstract": "The hackers have been targeting British, Canadian and American organizations racing to create coronavirus vaccines.",
+      "lead_paragraph": "WASHINGTON — Russian hackers are attempting to steal coronavirus vaccine research, the American, British and Canadian governments said Thursday, accusing the Kremlin of opening a new front in its spy battles with the West amid the worldwide competition to contain the pandemic.",
+      "publication_date": "2020-07-16T13:36:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html",
+      "byline": "By Julian E. Barnes"
+    },
+    {
+      "headline": "Pandemic’s Headache for Managers: Downs, Ups and … Now What?",
+      "snippet": "For a Baltimore condiment maker with 100 workers, “it’s been a roller coaster” trying to plan for what comes next.",
+      "abstract": "For a Baltimore condiment maker with 100 workers, “it’s been a roller coaster” trying to plan for what comes next.",
+      "lead_paragraph": "Phil Tulkoff’s family has owned a Baltimore condiment company for more than 90 years, and he’s uneasy. Not because business at Tulkoff Food Products is bad — he lived through that this spring — but because it is suddenly good.",
+      "publication_date": "2020-07-16T15:15:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/16/business/economy/company-reopening-coronavirus.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Southern Iraq’s Toxic Twilight",
+      "snippet": "Burning Gas and Poisoning the Air",
+      "abstract": "Burning Gas and Poisoning the Air",
+      "lead_paragraph": "NAHRAN OMAR, Iraq — The men of Nahran Omar, a village in the heart of southern Iraq’s oil country, filed into a Shiite shrine clutching envelopes with X-rays, medical reports and death certificates.",
+      "publication_date": "2020-07-16T15:54:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/16/world/middleeast/iraq-gas-flaring-cancer-environment.html",
+      "byline": "By Alissa J. Rubin, Clifford Krauss and Ivor Prickett"
+    }
+  ]
+}

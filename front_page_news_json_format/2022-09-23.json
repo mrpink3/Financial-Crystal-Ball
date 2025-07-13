@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-09-23",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Herschel Walker’s Company Said It Donated Profits, but Evidence Is Scant",
+      "snippet": "The Georgia Republican candidate claimed his business donated 15 percent of its profits to charities. Three of the four groups named as recipients say they didn’t receive money.",
+      "abstract": "The Georgia Republican candidate claimed his business donated 15 percent of its profits to charities. Three of the four groups named as recipients say they didn’t receive money.",
+      "lead_paragraph": "Back when he was a businessman running a food-distribution company, Herschel Walker, the Republican candidate for Senate in Georgia, said his company offered its customers more than just burgers and hot wings.",
+      "publication_date": "2022-09-22T17:10:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/22/us/politics/herschel-walker-charity-donations.html",
+      "byline": "By David A. Fahrenthold and Shane Goldmacher"
+    },
+    {
+      "headline": "Central Banks Accept Pain Now, Fearing Worse Later",
+      "snippet": "Federal Reserve officials and their counterparts around the world are trying to defeat inflation by rapidly raising interest rates. They know it will come at a cost.",
+      "abstract": "Federal Reserve officials and their counterparts around the world are trying to defeat inflation by rapidly raising interest rates. They know it will come at a cost.",
+      "lead_paragraph": "A day after the Federal Reserve lifted interest rates sharply and signaled more to come, central banks across Asia and Europe followed suit on Thursday, waging their own campaigns to crush an outbreak of inflation that is bedeviling consumers and worrying policymakers around the globe.",
+      "publication_date": "2022-09-22T21:19:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/22/business/economy/central-banks-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Ukraine War Comes Home to Russians as Putin Imposes Draft",
+      "snippet": "As Vladimir Putin’s “special military operation” enters a new chapter, Russians are being plucked from villages around the country for training and military service.",
+      "abstract": "As Vladimir Putin’s “special military operation” enters a new chapter, Russians are being plucked from villages around the country for training and military service.",
+      "lead_paragraph": "A day after President Vladimir V. Putin announced a call-up that could sweep 300,000 civilians into military service, thousands of Russians across the country received draft papers on Thursday and some were being marched to buses and planes for training — and perhaps soon a trip to the front lines in Ukraine.",
+      "publication_date": "2022-09-22T23:11:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/22/world/europe/putin-russia-military-ukraine-war.html",
+      "byline": "By Anton Troianovski, Valerie Hopkins, Ivan Nechepurenko and Alina Lobzina"
+    },
+    {
+      "headline": "As Trump’s Legal Woes Mount, So Do Financial Pressures on Him",
+      "snippet": "The lawsuit filed by New York’s attorney general is the latest indication of how an array of investigations is affecting the former president’s business and personal wealth.",
+      "abstract": "The lawsuit filed by New York’s attorney general is the latest indication of how an array of investigations is affecting the former president’s business and personal wealth.",
+      "lead_paragraph": "The New York attorney general’s fraud lawsuit that was filed on Wednesday against former President Donald J. Trump seeks to recover $250 million from his company and essentially run him out of business in the state.",
+      "publication_date": "2022-09-22T23:51:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/22/us/politics/trump-finances-lawsuits.html",
+      "byline": "By Maggie Haberman, Ben Protess, Matthew Goldstein and Eric Lipton"
+    },
+    {
+      "headline": "Apple to Sponsor the Super Bowl Halftime Show",
+      "snippet": "Apple’s pursuit of an N.F.L. media package has broadened to include a sponsorship of one of TV’s most-watched events.",
+      "abstract": "Apple’s pursuit of an N.F.L. media package has broadened to include a sponsorship of one of TV’s most-watched events.",
+      "lead_paragraph": "Talks between the National Football League and Apple over a package of Sunday football games have dragged as the league and the tech giant have wrangled over pricing, but another deal has been added to the mix: sponsorship of the Super Bowl halftime show.",
+      "publication_date": "2022-09-23T04:40:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/23/technology/apple-nfl-super-bowl.html",
+      "byline": "By Tripp Mickle"
+    },
+    {
+      "headline": "Where Online Hate Speech Can Bring the Police to Your Door",
+      "snippet": "Battling far-right extremism, Germany has gone further than any other Western democracy to prosecute individuals for what they say online, testing the limits of free speech on the internet.",
+      "abstract": "Battling far-right extremism, Germany has gone further than any other Western democracy to prosecute individuals for what they say online, testing the limits of free speech on the internet.",
+      "lead_paragraph": " When the police pounded the door before dawn at a home in northwest Germany, a bleary-eyed young man in his boxer shorts answered. The officers asked for his father, who was at work.",
+      "publication_date": "2022-09-23T09:00:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/09/23/technology/germany-internet-speech-arrest.html",
+      "byline": "By Adam Satariano and Christopher F. Schuetze"
+    },
+    {
+      "headline": "The Most Dominant Toxic Election Narratives Online",
+      "snippet": "Misleading and divisive posts about the Nov. 8 midterm vote have flooded social media. Here are three prevalent themes.",
+      "abstract": "Misleading and divisive posts about the Nov. 8 midterm vote have flooded social media. Here are three prevalent themes.",
+      "lead_paragraph": "Ballot mules. Poll watch parties. Groomers.",
+      "publication_date": "2022-09-23T09:00:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/23/technology/midterm-elections-misinformation.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "U.K. Government Goes Full Tilt on Tax Cuts and Free-Market Economics",
+      "snippet": "The new administration’s plans are a break from the Boris Johnson era and represent a turn toward Thatcherism. The negative reaction from financial markets underscored the extent of the gamble.",
+      "abstract": "The new administration’s plans are a break from the Boris Johnson era and represent a turn toward Thatcherism. The negative reaction from financial markets underscored the extent of the gamble.",
+      "lead_paragraph": "LONDON — Britain’s new prime minister, Liz Truss, gambled on Friday that a heavy dose of tax cuts, deregulation and free-market economics would reignite her country’s growth — a radical shift in policy that unnerved global investors already rattled by an energy crisis, surging inflation and the specter of widespread recessions.",
+      "publication_date": "2022-09-23T09:21:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/23/world/europe/uk-tax-cuts-economy.html",
+      "byline": "By Eshe Nelson, Stephen Castle and Mark Landler"
+    }
+  ]
+}

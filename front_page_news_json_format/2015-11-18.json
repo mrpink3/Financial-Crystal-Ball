@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2015-11-18",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Gawker to Retool as Politics Site",
+      "snippet": "The website, which has covered New York and the media for more than a decade, is changing focus as part of a broad revamping at Gawker Media.",
+      "abstract": "The website, which has covered New York and the media for more than a decade, is changing focus as part of a broad revamping at Gawker Media.",
+      "lead_paragraph": "Gawker.com, a site that pioneered the knowing, irreverent tone that has come to define web journalism, will switch from covering New York and the media world, as it has done since its founding in 2003, to focus on politics.",
+      "publication_date": "2015-11-17T19:47:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/18/business/media/gawker-politics-media.html",
+      "byline": "By Ravi Somaiya"
+    },
+    {
+      "headline": "Ben Carson Is Struggling to Grasp Foreign Policy, Advisers Say",
+      "snippet": "The candidate’s remarks on the Middle East and national security have raised questions about his knowledge of the subject, and advisers say tutoring is having little effect.",
+      "abstract": "The candidate’s remarks on the Middle East and national security have raised questions about his knowledge of the subject, and advisers say tutoring is having little effect.",
+      "lead_paragraph": "Ben Carson’s remarks on foreign policy have repeatedly raised questions about his grasp of the subject, but never more seriously than in the past week, when he wrongly asserted that China had intervened militarily in Syria and then failed, on national television, to name the countries he would call on to form a coalition to fight the Islamic State.",
+      "publication_date": "2015-11-17T20:03:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/18/us/politics/ben-carson-is-struggling-to-grasp-foreign-policy-advisers-say.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Electing to Ignore the Poorest of the Poor",
+      "snippet": "Selective government assistance programs have left behind the persistently poor, an issue that has not been addressed in the presidential election season.",
+      "abstract": "Selective government assistance programs have left behind the persistently poor, an issue that has not been addressed in the presidential election season.",
+      "lead_paragraph": "The first few primary debates of the presidential election season are in. We can see where the economic policy discussion is going.",
+      "publication_date": "2015-11-17T20:20:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/18/business/economy/electing-to-ignore-the-poorest-of-the-poor.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Experts Explain How Global Powers Can Smash ISIS",
+      "snippet": "Much of the world agrees the Islamic State must be crushed. But how that can be accomplished, and what the consequences may be, is more complicated.",
+      "abstract": "Much of the world agrees the Islamic State must be crushed. But how that can be accomplished, and what the consequences may be, is more complicated.",
+      "lead_paragraph": "Much of the world agrees that the Islamic State needs to be crushed.",
+      "publication_date": "2015-11-18T04:07:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/18/world/middleeast/envisioning-how-global-powers-can-smash-isis.html",
+      "byline": "By Tim Arango"
+    },
+    {
+      "headline": "France Unsure if Raid Killed Top Suspect in Paris Attacks",
+      "snippet": "Two people were killed and more than 5,000 rounds were fired in the raid near Paris, but officials were not sure if the suspected ringleader of the attacks was there.",
+      "abstract": "Two people were killed and more than 5,000 rounds were fired in the raid near Paris, but officials were not sure if the suspected ringleader of the attacks was there.",
+      "lead_paragraph": "ST.-DENIS, France — The assault began before dawn Wednesday at a decrepit squat in a close suburb of Paris when scores of French police officers stormed a third-floor apartment in search of their elusive quarry: Abdelhamid Abaaoud, a Belgian suspected of organizing last week’s deadly attacks in Paris by the Islamic State.",
+      "publication_date": "2015-11-18T08:25:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/19/world/europe/paris-attacks.html",
+      "byline": "By Lilia Blaise, Liz Alderman and Aurelien Breeden"
+    },
+    {
+      "headline": "In Rise of ISIS, No Single Missed Key but Many Strands of Blame",
+      "snippet": "By the time the U.S. withdrew from Iraq, it thought it had subdued the Islamic State. The group is now on a very different trajectory.",
+      "abstract": "By the time the U.S. withdrew from Iraq, it thought it had subdued the Islamic State. The group is now on a very different trajectory.",
+      "lead_paragraph": "By the time the United States withdrew from its long bloody encounter with Iraq in 2011, it thought it had declawed a once fearsome enemy: the Islamic State, which had many names and incarnations but at the time was neither fearsome nor a state.",
+      "publication_date": "2015-11-18T09:48:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/19/world/middleeast/in-rise-of-isis-no-single-missed-key-but-many-strands-of-blame.html",
+      "byline": "By Ian Fisher"
+    },
+    {
+      "headline": "How Amazon’s Long Game Yielded a Retail Juggernaut",
+      "snippet": "Jeff Bezos bucked the trend of seeking short-term results to create an addictive shopping experience few can match. And his newer enterprise is a blockbuster, too.",
+      "abstract": "Jeff Bezos bucked the trend of seeking short-term results to create an addictive shopping experience few can match. And his newer enterprise is a blockbuster, too.",
+      "lead_paragraph": "To study the graph of Amazon’s stock performance in 2015 is to witness a series of stepwise lurches toward commanding new heights. Over all, the stock market has been flat this year, and technology companies, as a group, haven’t fared much better.",
+      "publication_date": "2015-11-18T10:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/19/technology/how-amazons-long-game-yielded-a-retail-juggernaut.html",
+      "byline": "By Farhad Manjoo"
+    }
+  ]
+}

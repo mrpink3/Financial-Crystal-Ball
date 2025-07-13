@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2019-02-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Apple Shows Facebook Who Has the Power in an App Dispute",
+      "snippet": "After two days of disruptions, the iPhone maker restored the social network’s access to internal apps that its employees rely on in their jobs.",
+      "abstract": "After two days of disruptions, the iPhone maker restored the social network’s access to internal apps that its employees rely on in their jobs.",
+      "lead_paragraph": "SAN FRANCISCO — When Facebook employees woke up on Wednesday morning, many found they could not perform even the most basic work tasks.",
+      "publication_date": "2019-02-01T00:55:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/31/technology/apple-blocks-facebook.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Trump, in Interview, Calls Wall Talks ‘Waste of Time’ and Dismisses Investigations",
+      "snippet": "President Trump indicated he will most likely take action on his own when the talks officially end in two weeks.",
+      "abstract": "President Trump indicated he will most likely take action on his own when the talks officially end in two weeks.",
+      "lead_paragraph": "WASHINGTON — A defiant President Trump declared on Thursday that he has all but given up on negotiating with Congress over his border wall and will build it on his own even as he dismissed any suggestions of wrongdoing in the investigations that have ensnared his associates.",
+      "publication_date": "2019-02-01T01:55:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/31/us/politics/trump-wall-investigations-interview.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    }
+  ]
+}

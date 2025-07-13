@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-01-05",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Prosecutors Move Quickly on Jan. 6 Cases, but One Big Question Remains",
+      "snippet": "In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach.",
+      "abstract": "In the year since the assault on the Capitol by a pro-Trump mob, more than 700 people have been arrested, with little public indication from the Justice Department of how high the investigation might reach.",
+      "lead_paragraph": "Follow our live updates on the Jan. 6 Capitol Attack Anniversary.",
+      "publication_date": "2022-01-05T08:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-riot-investigation.html",
+      "byline": "By Alan Feuer"
+    },
+    {
+      "headline": "Why Isn’t Biden’s Expanded Child Tax Credit More Popular?",
+      "snippet": "The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons.",
+      "abstract": "The expansion has expired, and a bill to renew it has stalled. Public opinion is favorable but not overwhelmingly so, for several reasons.",
+      "lead_paragraph": "A significant piece of President Biden’s domestic agenda has come to an end. The monthly expansion of the existing child tax credit expired last month after Congress failed to extend it.",
+      "publication_date": "2022-01-05T10:00:21+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/upshot/biden-child-tax-credit.html",
+      "byline": "By Ian Prasad Philbrick"
+    },
+    {
+      "headline": "The Tech That Will Invade Our Lives in 2022",
+      "snippet": "Here we go again: Virtual reality, now called “the metaverse,” will be a thing. So will the smart home.",
+      "abstract": "Here we go again: Virtual reality, now called “the metaverse,” will be a thing. So will the smart home.",
+      "lead_paragraph": "Each year, I look ahead at what’s new in consumer technology to guide you through what you might expect to buy — and what will most likely be a fad.",
+      "publication_date": "2022-01-05T10:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/technology/personaltech/tech-2022-vr-metaverse.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Supply Chain Woes Prompt a New Push to Revive U.S. Factories",
+      "snippet": "Companies are testing whether the United States can regain some of the manufacturing output it ceded in recent decades to China and other countries.",
+      "abstract": "Companies are testing whether the United States can regain some of the manufacturing output it ceded in recent decades to China and other countries.",
+      "lead_paragraph": "When visitors arrive at the office of America Knits in tiny Swainsboro, Ga., the first thing they see on the wall is a black-and-white photo that a company co-founder, Steve Hawkins, discovered in a local antiques store.",
+      "publication_date": "2022-01-05T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/business/economy/supply-chain-reshoring-us-manufacturing.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Milk Companies Look West, Pressuring Northeast Dairy Farmers",
+      "snippet": "Organic milk has been a lifeline for small farms in Maine and other New England states. Now those farms are facing trouble as milk processors look to huge dairies in Western states.",
+      "abstract": "Organic milk has been a lifeline for small farms in Maine and other New England states. Now those farms are facing trouble as milk processors look to huge dairies in Western states.",
+      "lead_paragraph": "SEARSMONT, Maine — Glendon Mehuren II’s Faithful Venture Farm, 35 miles east of the state capital of Augusta, looks as tranquil as the farms pictured on cartons of organic milk. Cows ramble among weathered barns perched on a hill surrounded by small pastures and woodlots.",
+      "publication_date": "2022-01-05T10:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/business/organic-dairy-farms-new-england.html",
+      "byline": "By Murray Carpenter"
+    },
+    {
+      "headline": "As Beijing Takes Control, Chinese Tech Companies Lose Jobs and Hope",
+      "snippet": "The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest.",
+      "abstract": "The crackdown is killing the entrepreneurial drive that made China a tech power and destroying jobs that used to attract the country’s brightest.",
+      "lead_paragraph": "Like many ambitious young Chinese, Zhao Junfeng studied hard in college and graduate school so he could land a coveted job as a programmer at a big Chinese internet company.",
+      "publication_date": "2022-01-05T10:00:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/technology/china-tech-internet-crackdown-layoffs.html",
+      "byline": "By Li Yuan"
+    }
+  ]
+}

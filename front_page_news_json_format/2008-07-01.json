@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2008-07-01",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A New Campaign Charge: You Supported Clinton",
+      "snippet": "Democratic incumbents with large African-American constituencies are trying to soothe resentments incited by their support for Senator Hillary Rodham Clinton.",
+      "abstract": "Democratic incumbents with large African-American constituencies are trying to soothe resentments incited by their support for Senator Hillary Rodham Clinton.",
+      "lead_paragraph": "Brooklyn’s 10th Congressional District, home to more African-Americans than any other in New York, gave Senator Barack Obama his highest margin of victory in the state. But the district’s longtime congressman, Edolphus Towns, did not share his constituency’s preference for Mr. Obama. Now some of those voters are pushing to oust him.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/07/01/us/politics/01dems.html",
+      "byline": "By Raymond Hernandez"
+    },
+    {
+      "headline": "At Midyear, the Economic Pain Persists",
+      "snippet": "More than a year after the credit crisis first flared, the financial industry seems to be caught in a vicious circle.",
+      "abstract": "More than a year after the credit crisis first flared, the financial industry seems to be caught in a vicious circle.",
+      "lead_paragraph": "Many policy makers and bankers said this credit mess was contained.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/01/business/01place.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "Wounded Iraqi Forces Say They’ve Been Abandoned",
+      "snippet": "Iraqi veterans described their government’s treatment of them as at best indifferent and at worst vindictive.",
+      "abstract": "Iraqi veterans described their government’s treatment of them as at best indifferent and at worst vindictive.",
+      "lead_paragraph": "BAGHDAD  Dawoud Ameen, a former Iraqi soldier, lay in bed, his shattered legs splayed before him, worrying about the rent for his family of five.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/01/world/middleeast/01vets.html",
+      "byline": "By Michael Kamber"
+    },
+    {
+      "headline": "Ragtag Insurgency Gains a Lifeline From Al Qaeda",
+      "snippet": "A group of Algerian militants has been transformed from a nationalist insurgency to a potent ally of Al Qaeda.",
+      "abstract": "A group of Algerian militants has been transformed from a nationalist insurgency to a potent ally of Al Qaeda.",
+      "lead_paragraph": "NACIRIA, Algeria  Hiding in the caves and woodlands surrounding this hill-country town, Algerian insurgents were all but washed up a few years ago.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/01/world/africa/01algeria.html",
+      "byline": "By Souad Mekhennet, Michael Moss, Eric Schmitt, Elaine Sciolino and Margot Williams"
+    },
+    {
+      "headline": "Financier Starts Sentence in Prostitution Case",
+      "snippet": "Jeffrey E. Epstein, adviser to billionaires, on Monday left his Caribbean island home and turned himself in to Florida authorities to begin serving an 18-month sentence.",
+      "abstract": "Jeffrey E. Epstein, adviser to billionaires, on Monday left his Caribbean island home and turned himself in to Florida authorities to begin serving an 18-month sentence.",
+      "lead_paragraph": "The bad news arrived by phone last week on Little St. James Island, the palm-fringed Xanadu in the Caribbean where Jeffrey E. Epstein, adviser to billionaires, lives in secluded splendor. ",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/01/business/01epstein.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Bag Helps Laptop Pass Air Security",
+      "snippet": "New laptop bags approved by the Transportation Security Administration make it possible to go through X-ray inspection without having to take the laptop out.",
+      "abstract": "New laptop bags approved by the Transportation Security Administration make it possible to go through X-ray inspection without having to take the laptop out.",
+      "lead_paragraph": "For years at airport security checkpoints, passengers have heard the refrain, almost a dirge: “Laptops must be removed from their cases and placed on the belt.”",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/01/business/01road.html",
+      "byline": "By Joe Sharkey"
+    },
+    {
+      "headline": "Weather Risks Cloud Promise of Biofuel",
+      "snippet": "Recent storms and floods have highlighted the risks of an economy that has grown more dependent on corn for fuel.",
+      "abstract": "Recent storms and floods have highlighted the risks of an economy that has grown more dependent on corn for fuel.",
+      "lead_paragraph": "The record storms and floods that swept through the Midwest last month struck at the heart of America’s corn region, drowning fields and dashing hopes of a bumper crop. ",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/01/business/01weather.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Are Bean Counters to Blame?",
+      "snippet": "For Stephen A. Schwarzman, the co-founder of the Blackstone Group, an accounting rule partly explains why the American financial system looks so wobbly these days.",
+      "abstract": "For Stephen A. Schwarzman, the co-founder of the Blackstone Group, an accounting rule partly explains why the American financial system looks so wobbly these days.",
+      "lead_paragraph": "Some blame the rapacious lenders. Others point to the deadbeat borrowers. But Stephen A. Schwarzman sees another set of culprits behind all the pain in the financial industry: the accountants.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/01/business/01sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Drug Arrests Were Real; the Badge Was Fake",
+      "snippet": "A man who pretended to be a federal agent has stirred a legal and political controversy in a small Missouri town.",
+      "abstract": "A man who pretended to be a federal agent has stirred a legal and political controversy in a small Missouri town.",
+      "lead_paragraph": "GERALD, Mo.  Like so many rural communities in the country’s middle, this small town had wrestled for years with the woes of methamphetamine. Then, several months ago, a federal agent showed up.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/07/01/us/01impostor.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "EBay Ordered to Pay $61 Million in Sale of Counterfeit Goods",
+      "snippet": "The luxury giant LVMH for the second time successfully challenged eBay in a French court, arguing that 90 percent of the Louis Vuitton bags and Dior perfumes sold on eBay are fakes.",
+      "abstract": "The luxury giant LVMH for the second time successfully challenged eBay in a French court, arguing that 90 percent of the Louis Vuitton bags and Dior perfumes sold on eBay are fakes.",
+      "lead_paragraph": "PARIS — EBay said it would appeal a French court’s order that it pay 38.6 million euros ($60.8 million) in damages to the French luxury goods company LVMH, the latest round in a long-running legal battle over the sale of counterfeit goods on the Internet.",
+      "publication_date": "2008-07-01T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/07/01/technology/01ebay.html",
+      "byline": "By Doreen Carvajal"
+    }
+  ]
+}

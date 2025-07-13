@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2022-05-31",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "In the Senate, Chasing an Ever-Elusive Gun Law Deal",
+      "snippet": "After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself.",
+      "abstract": "After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself.",
+      "lead_paragraph": "WASHINGTON — The decision of the Senate majority leader, Chuck Schumer of New York, to try for a negotiated compromise on new gun laws in the wake of the latest pair of mass shootings may prove to be a high-stakes bet on representative democracy itself, made at a time when faith in Congress — and the Senate in particular — is in tatters in both parties.",
+      "publication_date": "2022-05-30T21:17:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "The Arrow in America’s Heart",
+      "snippet": "Relentless mass shootings, a million dead from Covid — How much do we value a single life?",
+      "abstract": "Relentless mass shootings, a million dead from Covid — How much do we value a single life?",
+      "lead_paragraph": "Two days after the massacre of children in Uvalde, Texas, and 12 days after the racist mass killing in Buffalo, Chenxing Han, a chaplain and teacher, told a Buddhist parable.",
+      "publication_date": "2022-05-31T07:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/31/us/america-life-uvalde-covid.html",
+      "byline": "By Elizabeth Dias"
+    },
+    {
+      "headline": "Wall Street’s Losing Streak Ends, but Uncertainty That Drove It Lingers",
+      "snippet": "As stocks have tumbled this year, predictions that the selling is over have been wrong time and again.",
+      "abstract": "As stocks have tumbled this year, predictions that the selling is over have been wrong time and again.",
+      "lead_paragraph": "The stock market’s staggering run of losses came to an end last week, with the S&P 500 snapping a seven-week losing streak and pulling away from the brink of a bear market with a 6.6 percent bounce through Friday.",
+      "publication_date": "2022-05-31T07:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/31/business/stocks-bear-market.html",
+      "byline": "By Coral Murphy Marcos"
+    },
+    {
+      "headline": "After a Bumper 2021, Companies Might Struggle to Increase Profits",
+      "snippet": "Businesses face headwinds as demand weakens, the Federal Reserve raises rates and government stimulus programs end.",
+      "abstract": "Businesses face headwinds as demand weakens, the Federal Reserve raises rates and government stimulus programs end.",
+      "lead_paragraph": "The profits engine that drove stocks to their highs, making many Americans feel richer than they had in a generation, may now be working in reverse.",
+      "publication_date": "2022-05-31T07:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/31/business/stock-market-company-profits.html",
+      "byline": "By Peter Eavis and Talmon Joseph Smith"
+    }
+  ]
+}

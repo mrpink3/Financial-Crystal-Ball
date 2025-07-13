@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-07-31",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Why Changing Unemployment Payments Could Take Months",
+      "snippet": "Republicans want wage replacement instead of an extra $600 per week in unemployment benefits, but technical and political hurdles are in the way.",
+      "abstract": "Republicans want wage replacement instead of an extra $600 per week in unemployment benefits, but technical and political hurdles are in the way.",
+      "lead_paragraph": "WASHINGTON — Republicans want to replace a weekly bonus check for the unemployed with a new system that offers 70 percent of the wages workers were earning before they were laid off. Experts say it would be a difficult switch to pull off and one that would disadvantage lower-wage workers.",
+      "publication_date": "2020-07-30T16:28:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/30/business/unemployment-payments-change.html",
+      "byline": "By Jim Tankersley and Tara Siegel Bernard"
+    },
+    {
+      "headline": "Trump Attacks an Election He Is at Risk of Losing",
+      "snippet": "Mr. Trump has become a heckler in his own government, failing to marshal leaders in Washington to form a robust response to the health and economic crises. Instead, he is raising doubts about holding the election on time.",
+      "abstract": "Mr. Trump has become a heckler in his own government, failing to marshal leaders in Washington to form a robust response to the health and economic crises. Instead, he is raising doubts about holding the election on time.",
+      "lead_paragraph": "[Follow our latest coverage of the Biden vs. Trump 2020 election.]",
+      "publication_date": "2020-07-30T18:10:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/30/us/politics/trump-delay-election.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "A Collapse That Wiped Out 5 Years of Growth, With No Bounce in Sight",
+      "snippet": "The second-quarter contraction set a grim record, and it would have been worse without government aid that is expiring.",
+      "abstract": "The second-quarter contraction set a grim record, and it would have been worse without government aid that is expiring.",
+      "lead_paragraph": "The coronavirus pandemic’s toll on the nation’s economy became emphatically clearer Thursday as the government detailed the most devastating three-month collapse on record, which wiped away nearly five years of growth.",
+      "publication_date": "2020-07-30T20:43:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "The Economy Is in Record Decline, but Not for the Tech Giants",
+      "snippet": "Even though the tech industry’s four biggest companies were stung by a slowdown in spending, they reported a combined $28 billion in profits on Thursday.",
+      "abstract": "Even though the tech industry’s four biggest companies were stung by a slowdown in spending, they reported a combined $28 billion in profits on Thursday.",
+      "lead_paragraph": "A day after lawmakers grilled the chief executives of the biggest tech companies about their size and power, Amazon, Apple, Alphabet and Facebook reported surprisingly healthy quarterly financial results, defying one of the worst economic downturns on record.",
+      "publication_date": "2020-07-30T23:02:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html",
+      "byline": "By Daisuke Wakabayashi, Karen Weise, Jack Nicas and Mike Isaac"
+    },
+    {
+      "headline": "Hope, Despair, Control: The 1950s China My Father Saw, Echoed Today",
+      "snippet": "William Stevenson was one of the first foreign correspondents to visit the People’s Republic of China. Decades later, despite its transformation, I recognize the same country.",
+      "abstract": "William Stevenson was one of the first foreign correspondents to visit the People’s Republic of China. Decades later, despite its transformation, I recognize the same country.",
+      "lead_paragraph": "William Stevenson was one of the first foreign correspondents to visit the People’s Republic of China. Decades later, despite its transformation, I recognize the same country.",
+      "publication_date": "2020-07-31T02:59:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/interactive/2020/07/30/world/asia/china-1950s-echoed-today.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "In Argentina’s Debt Negotiations, a Kinder, Gentler Capitalism Faces a Test",
+      "snippet": "BlackRock, the world’s largest asset management company, is opposing a debt settlement deal with Argentina as the country grapples with soaring poverty and the pandemic.",
+      "abstract": "BlackRock, the world’s largest asset management company, is opposing a debt settlement deal with Argentina as the country grapples with soaring poverty and the pandemic.",
+      "lead_paragraph": "LONDON — Laurence D. Fink presents himself as the vanguard of a progressive form of capitalism in which profits are not everything: The enlightened money is supposed to press for environmental and social protection.",
+      "publication_date": "2020-07-31T09:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/31/business/argentina-debt.html",
+      "byline": "By Peter S. Goodman and Daniel Politi"
+    },
+    {
+      "headline": "With Security Law as a Cudgel, Beijing Cracks Down on Hong Kong",
+      "snippet": "The spirit and the letter of the new law has been used to crush Hong Kong’s opposition. In the latest blow to the pro-democracy movement, the government postponed an election, citing the coronavirus.",
+      "abstract": "The spirit and the letter of the new law has been used to crush Hong Kong’s opposition. In the latest blow to the pro-democracy movement, the government postponed an election, citing the coronavirus.",
+      "lead_paragraph": "BEIJING — For weeks, as Beijing quickly drafted and imposed a stringent new national security law for Hong Kong, many in the territory feared the rules would be used to intimidate the opposition, but hoped they would not presage a broad crackdown.",
+      "publication_date": "2020-07-31T12:56:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-national-security-law.html",
+      "byline": "By Keith Bradsher, Elaine Yu and Steven Lee Myers"
+    }
+  ]
+}

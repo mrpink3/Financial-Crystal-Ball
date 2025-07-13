@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-04-12",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Twitter Grapples With an Elon Musk Problem",
+      "snippet": "Mr. Musk, Twitter’s biggest shareholder, is free to buy more stock in the company and could use the platform against itself. Some employees are dismayed.",
+      "abstract": "Mr. Musk, Twitter’s biggest shareholder, is free to buy more stock in the company and could use the platform against itself. Some employees are dismayed.",
+      "lead_paragraph": "Elon Musk has offered to buy Twitter, follow our live coverage of the news. ",
+      "publication_date": "2022-04-11T21:29:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+      "byline": "By Mike Isaac and Kate Conger"
+    },
+    {
+      "headline": "No More ‘Have a Nice Day’: Lviv Learns to Live With War",
+      "snippet": "Ukraine’s cultural capital, the western city of Lviv, is trying to adjust to being on the fringes of war and at the center of massive displacement.",
+      "abstract": "Ukraine’s cultural capital, the western city of Lviv, is trying to adjust to being on the fringes of war and at the center of massive displacement.",
+      "lead_paragraph": "LVIV, Ukraine — When war came to Ukraine in February, Helen Polishchuk made some adjustments in the six-story bar she manages in central Lviv.",
+      "publication_date": "2022-04-11T22:11:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/11/world/middleeast/ukraine-lviv-refugees.html",
+      "byline": "By Jane Arraf and Mauricio Lima"
+    },
+    {
+      "headline": "Far From Defeated, Putin Intends to Escalate War in Ukraine",
+      "snippet": "Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.”",
+      "abstract": "Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.”",
+      "lead_paragraph": "Austria’s chancellor visited President Vladimir V. Putin of Russia on Monday — the first Western leader to see him in person since the Ukraine invasion — and said he came away feeling not only pessimistic about peace prospects but fearing that Mr. Putin intended to drastically intensify the brutality of the war.",
+      "publication_date": "2022-04-11T22:30:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/11/world/europe/ukraine-russia-war-putin.html",
+      "byline": "By Steven Erlanger and Anton Troianovski"
+    },
+    {
+      "headline": "China Sets Aside Push to Spread Wealth in Pivotal Year for Xi",
+      "snippet": "Xi Jinping’s rhetoric about redistributing wealth was aimed partly at drumming up public support. But it unnerved entrepreneurs and posed a drag on growth.",
+      "abstract": "Xi Jinping’s rhetoric about redistributing wealth was aimed partly at drumming up public support. But it unnerved entrepreneurs and posed a drag on growth.",
+      "lead_paragraph": "BEIJING — For much of last year, China’s top leader, Xi Jinping, waged a fierce campaign to rein in private capital and narrow social inequalities. Regulators cracked down on tech giants and wealthy celebrities. Beijing demanded that tycoons give back to society. And the Communist Party promised that a new era of “common prosperity” was on the horizon.",
+      "publication_date": "2022-04-12T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/12/business/china-economy-covid.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Inflation Hits Fastest Pace Since 1981, at 8.5% Through March",
+      "snippet": "Gasoline weighed heavily in the increases, while prices moderated in several categories. Some economists say the overall rate may have peaked.",
+      "abstract": "Gasoline weighed heavily in the increases, while prices moderated in several categories. Some economists say the overall rate may have peaked.",
+      "lead_paragraph": "Inflation hit 8.5 percent in the United States last month, the fastest 12-month pace since 1981, as a surge in gasoline prices tied to Russia’s invasion of Ukraine added to sharp increases coming from the collision of strong demand and stubborn pandemic-related supply shortages.",
+      "publication_date": "2022-04-12T09:01:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/12/business/economy/inflation-report-march.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Welcome Back to the Office. Isn’t This Fun?",
+      "snippet": "Tech companies really want their employees to be happy — or at least less annoyed — about returning. So they’re providing concerts, food trucks and other perks.",
+      "abstract": "Tech companies really want their employees to be happy — or at least less annoyed — about returning. So they’re providing concerts, food trucks and other perks.",
+      "lead_paragraph": "When Google employees returned to their mostly empty offices this month, they were told to relax. Office time should be “not only productive but also fun.” Explore the place a little. Don’t book back-to-back meetings.",
+      "publication_date": "2022-04-12T16:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/12/technology/rto-return-office-technology.html",
+      "byline": "By Daisuke Wakabayashi, Erin Griffith and Kate Conger"
+    }
+  ]
+}

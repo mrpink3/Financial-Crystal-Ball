@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-01-08",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Sonos, Squeezed by the Tech Giants, Sues Google",
+      "snippet": "The maker of home speakers said Google and Amazon stole its technology and abused their power, but it could only risk suing one.",
+      "abstract": "The maker of home speakers said Google and Amazon stole its technology and abused their power, but it could only risk suing one.",
+      "lead_paragraph": "SANTA BARBARA, Calif. — In 2013, Sonos scored a coup when Google agreed to design its music service to work easily with Sonos’s home speakers. For the project, Sonos handed over the effective blueprints to its speakers.",
+      "publication_date": "2020-01-07T16:57:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/07/technology/sonos-sues-google.html",
+      "byline": "By Jack Nicas and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "In Reversal, Boeing Recommends 737 Max Simulator Training for Pilots",
+      "snippet": "The company had long maintained that the training wasn’t needed to fly the plane, which was grounded after two deadly crashes.",
+      "abstract": "The company had long maintained that the training wasn’t needed to fly the plane, which was grounded after two deadly crashes.",
+      "lead_paragraph": "From its inception, Boeing’s 737 Max was designed to save airlines the expense of training their pilots on flight simulators. During the initial approval of the plane and after two crashes killed 346 people last year, Boeing argued in conversations with the Federal Aviation Administration that simulator training was not necessary. ",
+      "publication_date": "2020-01-07T17:59:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/07/business/boeing-737-max-simulator-training.html",
+      "byline": "By Natalie Kitroeff and David Gelles"
+    },
+    {
+      "headline": "Don’t Tilt Scales Against Trump, Facebook Executive Warns",
+      "snippet": "In an internal memo, Andrew Bosworth said he “desperately” wanted the president to lose. But, he said, the company should avoid hurting Mr. Trump’s campaign.",
+      "abstract": "In an internal memo, Andrew Bosworth said he “desperately” wanted the president to lose. But, he said, the company should avoid hurting Mr. Trump’s campaign.",
+      "lead_paragraph": "SAN FRANCISCO — Since the 2016 election, when Russian trolls and a tsunami of misinformation turned social media into a partisan battlefield, Facebook has wrestled with the role it played in President Trump’s victory. ",
+      "publication_date": "2020-01-07T18:39:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/07/technology/facebook-trump-2020.html",
+      "byline": "By Kevin Roose, Sheera Frenkel and Mike Isaac"
+    },
+    {
+      "headline": "McConnell Says He Will Proceed on Impeachment Trial Without Witness Deal",
+      "snippet": "The intention, with no commitment to calling witnesses or admitting new evidence, foreshadows a partisan vote to kick off a divisive proceeding.",
+      "abstract": "The intention, with no commitment to calling witnesses or admitting new evidence, foreshadows a partisan vote to kick off a divisive proceeding.",
+      "lead_paragraph": "WASHINGTON — Senator Mitch McConnell, the majority leader, said Tuesday that he planned to move forward with President Trump’s impeachment trial without committing to calling witnesses or hearing new evidence, foreshadowing a partisan vote to kick off a divisive proceeding. ",
+      "publication_date": "2020-01-07T19:29:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/07/us/politics/impeachment-trial-witnesses.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Pressed for Details on Suleimani Strike, Trump Administration Gives Few",
+      "snippet": "Administration officials argue that the general was plotting imminent attacks, but Democrats said that the intelligence they have seen was too vague.",
+      "abstract": "Administration officials argue that the general was plotting imminent attacks, but Democrats said that the intelligence they have seen was too vague.",
+      "lead_paragraph": "WASHINGTON — Under increasing pressure to defend the killing of a top Iranian general in Iraq, senior Trump administration officials offered new justifications but little detail on Tuesday, citing threats to the American Embassy in Baghdad and intelligence suggesting other imminent attacks that helped prompt the strike.",
+      "publication_date": "2020-01-08T01:23:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/07/us/politics/trump-soleimani.html",
+      "byline": "By Julian E. Barnes, Catie Edmondson, Thomas Gibbons-Neff and Rukmini Callimachi"
+    },
+    {
+      "headline": "Little Clarity, Many Theories in Ukraine Airline Crash in Iran",
+      "snippet": "The Boeing jet went down near Tehran, killing at least 176 people. “All possible versions of what occurred must be examined,” including an attack, Ukraine’s president said.",
+      "abstract": "The Boeing jet went down near Tehran, killing at least 176 people. “All possible versions of what occurred must be examined,” including an attack, Ukraine’s president said.",
+      "lead_paragraph": "The mood in Tehran was tense on Wednesday morning when Ukraine International Flight 752 took off, bound for Kyiv. Just hours earlier, Iran had fired missiles at two bases in Iraq that house United States troops, and Iranian forces were on alert for an American counterstrike.",
+      "publication_date": "2020-01-08T03:50:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/07/world/middleeast/iran-plane-crash-boeing-ukraine.html",
+      "byline": "By David Gelles, Anton Troianovski and Daniel Victor"
+    },
+    {
+      "headline": "How Rupert Murdoch Is Influencing Australia’s Bushfire Debate",
+      "snippet": "Critics see a concerted effort to shift blame, protect conservative leaders and divert attention from climate change.",
+      "abstract": "Critics see a concerted effort to shift blame, protect conservative leaders and divert attention from climate change.",
+      "lead_paragraph": "WOMBEYAN CAVES, Australia — Deep in the burning forests south of Sydney this week, volunteer firefighters were clearing a track through the woods, hoping to hold back a nearby blaze, when one of them shouted over the crunching of bulldozers.",
+      "publication_date": "2020-01-08T12:36:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/08/world/australia/fires-murdoch-disinformation.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "Trump Backs Away From Further Military Conflict With Iran",
+      "snippet": "A day after Iranian missiles fell on bases housing American troops in Iraq, the president said that no Americans were harmed and that Iran now “appears to be standing down.”",
+      "abstract": "A day after Iranian missiles fell on bases housing American troops in Iraq, the president said that no Americans were harmed and that Iran now “appears to be standing down.”",
+      "lead_paragraph": "WASHINGTON — President Trump backed away from further military action against Iran and called for renewed diplomacy on Wednesday as the bristling confrontation of the past six days eased in the aftermath of an Iranian missile strike that seemed intended to save face rather than inflict casualties.",
+      "publication_date": "2020-01-08T14:51:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/08/world/middleeast/trump-speech.html",
+      "byline": "By Peter Baker"
+    }
+  ]
+}

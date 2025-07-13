@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2014-04-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Justices Skeptical of Aereo’s Business",
+      "snippet": "Television broadcasters are challenging Aereo, an Internet start-up that uses arrays of small antennas to stream over-the-air signals to subscribers.",
+      "abstract": "Television broadcasters are challenging Aereo, an Internet start-up that uses arrays of small antennas to stream over-the-air signals to subscribers.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court signaled on Tuesday that it was struggling with two conflicting impulses in considering a request from television broadcasters to shut down Aereo, an Internet start-up they say threatens the economic viability of their businesses. ",
+      "publication_date": "2014-04-22T17:46:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/23/business/media/supreme-court-hears-arguments-in-aereo-case.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Appeal Judges Hint at Doubts in Insider Case",
+      "snippet": "A federal appeals court picked apart the government’s case against two former hedge fund traders, questioning whether the judge in the trial erred when instructing jurors.",
+      "abstract": "A federal appeals court picked apart the government’s case against two former hedge fund traders, questioning whether the judge in the trial erred when instructing jurors.",
+      "lead_paragraph": "Updated, 9:02 p.m. | Preet Bharara’s perfect record, 80 insider trading convictions without a single defeat, is in jeopardy.",
+      "publication_date": "2014-04-22T18:50:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/04/22/appeals-court-raises-doubts-about-governments-insider-trading-case/",
+      "byline": "By Ben Protess and Matthew Goldstein"
+    },
+    {
+      "headline": "Hotel Brands Share Real Estate, Sometimes Uneasily",
+      "snippet": "As developers squeeze into metropolitan areas, more hotel brands are sharing buildings and amenities while trying to maintain their individuality.",
+      "abstract": "As developers squeeze into metropolitan areas, more hotel brands are sharing buildings and amenities while trying to maintain their individuality.",
+      "lead_paragraph": "In hotels these days, it’s the haves versus the have-nots.",
+      "publication_date": "2014-04-22T21:21:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/23/business/hotel-brands-share-real-estate-sometimes-uneasily.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "Acceleration Is Forecast for Spending on Health",
+      "snippet": "The Affordable Care Act may well be on track to meeting its primary goal, but reining in health care spending still appears well beyond the grasp of the law.",
+      "abstract": "The Affordable Care Act may well be on track to meeting its primary goal, but reining in health care spending still appears well beyond the grasp of the law.",
+      "lead_paragraph": "WASHINGTON — Standing before a roomful of economists, policy makers and health care experts earlier this month, Amitabh Chandra, director of Health Policy Research at Harvard’s Kennedy School of Government, closed a presentation about the slowdown in health care spending over the last decade by citing an article in The New York Times.",
+      "publication_date": "2014-04-22T21:27:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/23/business/economy/forecasting-the-scale-of-health-spendings-climb.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Gilead Revenue Soars on Hepatitis C Drug",
+      "snippet": "Gilead Sciences reported $2.3 billion in sales of Sovaldi, a new hepatitis C drug that has raised an outcry over its $1,000-a-pill price.",
+      "abstract": "Gilead Sciences reported $2.3 billion in sales of Sovaldi, a new hepatitis C drug that has raised an outcry over its $1,000-a-pill price.",
+      "lead_paragraph": "Record sales of a new hepatitis C drug pushed the first-quarter earnings of Gilead Sciences far beyond expectations, the company reported on Tuesday, but could also heighten concerns about the high cost of the drug, known as Sovaldi, and the ability of the health care system to pay for it.",
+      "publication_date": "2014-04-22T22:17:46+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/23/your-money/gilead-revenue-soars-on-hepatitis-c-drug.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "G.M. Seeks to Fend Off Lawsuits Over Switch",
+      "snippet": "The company asked a federal bankruptcy judge to dismiss dozens of lawsuits over its handling of a defective ignition switch in millions of cars, and to bar similar cases in the future.",
+      "abstract": "The company asked a federal bankruptcy judge to dismiss dozens of lawsuits over its handling of a defective ignition switch in millions of cars, and to bar similar cases in the future.",
+      "lead_paragraph": "General Motors moved on Tuesday to prevent future safety lapses by expanding its oversight of problematic vehicles even as the automaker continued to take an aggressive legal posture in dealing with its past missteps. ",
+      "publication_date": "2014-04-23T00:47:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/23/business/gm-seeks-to-fend-off-lawsuits-over-switch.html",
+      "byline": "By Hilary Stout and Bill Vlasic"
+    },
+    {
+      "headline": "Sherpas Move to Shut Everest in Labor Fight",
+      "snippet": "Last week’s deadly avalanche has prompted Mount Everest’s Sherpas to threaten to cancel the season unless the government shares proceeds from what has become a multimillion-dollar industry.",
+      "abstract": "Last week’s deadly avalanche has prompted Mount Everest’s Sherpas to threaten to cancel the season unless the government shares proceeds from what has become a multimillion-dollar industry.",
+      "lead_paragraph": "KATMANDU, Nepal — Over the years, as Mount Everest attracted larger crowds of amateur climbers from the West, the Sherpas adjusted: to a slower ascent, to traffic jams, to bulging loads of gear. Every spring some new frustration would get them talking, then recede with the end of the season.",
+      "publication_date": "2014-04-23T01:15:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/23/world/asia/sherpas-delay-everest-climbs-in-labor-fight.html",
+      "byline": "By Ellen Barry, Bhadra Sharma and Nida Najar"
+    },
+    {
+      "headline": "Amid Politics, Obama Drifted Away From Kin",
+      "snippet": "The death of President Obama’s aunt has highlighted his complicated ties to his father’s side of the family. “He leads his life, and I lead my life,” said Malik Obama, a half brother.",
+      "abstract": "The death of President Obama’s aunt has highlighted his complicated ties to his father’s side of the family. “He leads his life, and I lead my life,” said Malik Obama, a half brother.",
+      "lead_paragraph": "BOSTON — After Zeituni Onyango, the woman President Obama once called Auntie, died in a South Boston nursing home this month, her closest relatives gathered her belongings at her nearby apartment. There, framed photographs of her with the president covered the wall.",
+      "publication_date": "2014-04-23T02:24:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/23/us/politics/amid-politics-obama-drifted-away-from-kin.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Amazon to Stream Original HBO Content",
+      "snippet": "In a deal believed to be worth at least $300 million, Amazon is forming an alliance with HBO.",
+      "abstract": "In a deal believed to be worth at least $300 million, Amazon is forming an alliance with HBO.",
+      "lead_paragraph": "Amazon will stream a selection of HBO series, mini-series and original movies as part of its Prime subscription service, the latest alliance between technology and entertainment companies trying to capture viewers who are moving online. ",
+      "publication_date": "2014-04-23T13:13:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/24/business/amazon-to-offer-original-hbo-content.html",
+      "byline": "By Ravi Somaiya"
+    }
+  ]
+}

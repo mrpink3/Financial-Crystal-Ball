@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-02-26",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Twitter Shakes Off the Cobwebs With New Product Plans",
+      "snippet": "Though it has received outsized attention for the last few years, the company has not changed very much. But a recent acquisition spree signals a new course.",
+      "abstract": "Though it has received outsized attention for the last few years, the company has not changed very much. But a recent acquisition spree signals a new course.",
+      "lead_paragraph": "For years, Twitter remained pretty much the same. One of its most memorable product updates was in 2017 when it doubled the number of characters that could fit into a tweet.",
+      "publication_date": "2021-02-25T18:44:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/25/technology/twitter-product-plans.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Give Biden a Chance? On Covid Aid, Some Trump Voters Just Might",
+      "snippet": "Republican leaders in Washington firmly oppose the president’s stimulus plan, but a sizable number of Trump voters support it, interviews and polls show.",
+      "abstract": "Republican leaders in Washington firmly oppose the president’s stimulus plan, but a sizable number of Trump voters support it, interviews and polls show.",
+      "lead_paragraph": "In Washington, Republicans stand united in opposition to President Biden’s first major legislative proposal, a $1.9 trillion economic rescue plan that they have labeled a bloated, budget-busting “blue state bailout.”",
+      "publication_date": "2021-02-25T21:43:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.html",
+      "byline": "By Lisa Lerer"
+    },
+    {
+      "headline": "Top Senate Official Disqualifies Minimum Wage From Stimulus Plan",
+      "snippet": "The parliamentarian ruled that the provision, which would gradually increase the wage to $15 an hour, violated the strict budgetary rules that limit what can be included in the package.",
+      "abstract": "The parliamentarian ruled that the provision, which would gradually increase the wage to $15 an hour, violated the strict budgetary rules that limit what can be included in the package.",
+      "lead_paragraph": "WASHINGTON — Democrats suffered a major setback on Thursday in their bid to push through a $15-an-hour minimum wage as part of President Biden’s $1.9 trillion stimulus package, after the Senate’s top rule-enforcer said that the increase could not be included in the bill.",
+      "publication_date": "2021-02-26T00:31:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/25/us/politics/federal-minimum-wage.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "D.C.’s Mayor Mourned Covid’s Unequal Toll. Her Sister Is the Latest Victim.",
+      "snippet": "As the number of coronavirus deaths in the city reached 1,000 this week, three-fourths of the dead were Black.",
+      "abstract": "As the number of coronavirus deaths in the city reached 1,000 this week, three-fourths of the dead were Black.",
+      "lead_paragraph": "In the long season of the pandemic, Washington, D.C., managed to avoid some of the grimmest numbers. Relative to its population, there have been fewer known cases in the city than in most states, and far fewer deaths than in New Orleans or New York City.",
+      "publication_date": "2021-02-26T00:47:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/25/us/muriel-bowser-mercia-covid-washington.html",
+      "byline": "By Nicholas Bogel-Burroughs and Campbell Robertson"
+    },
+    {
+      "headline": "China Persecutes Those Who Question ‘Heroes.’ A Sleuth Keeps Track.",
+      "snippet": "An online spreadsheet with an anonymous minder tabulates Xi Jinping’s crackdown on speech.",
+      "abstract": "An online spreadsheet with an anonymous minder tabulates Xi Jinping’s crackdown on speech.",
+      "lead_paragraph": "In China, don’t question the heroes.",
+      "publication_date": "2021-02-26T06:08:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/26/business/china-online-censorship.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Income and Spending Gains Are Latest Sign of Economic Recovery",
+      "snippet": "Personal income and spending both surged in January as a new round of government checks hit Americans’ bank accounts.",
+      "abstract": "Personal income and spending both surged in January as a new round of government checks hit Americans’ bank accounts.",
+      "lead_paragraph": "The American economic recovery came perilously close to falling off a cliff at the end of last year. But government aid arrived just in time to prevent a disaster — and possibly paved the way for a dynamic rebound.",
+      "publication_date": "2021-02-26T13:46:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/26/business/economy/personal-income-spending.html",
+      "byline": "By Sydney Ember and Ben Casselman"
+    },
+    {
+      "headline": "Dad, a Death Sentence and the Planner Who Set Us Straight",
+      "snippet": "A personal finance columnist, a lawyer and an executive whose nonprofit works with cancer patients sound like siblings who would be prepared to deal with their dad’s diagnosis. They still needed help.",
+      "abstract": "A personal finance columnist, a lawyer and an executive whose nonprofit works with cancer patients sound like siblings who would be prepared to deal with their dad’s diagnosis. They still needed help.",
+      "lead_paragraph": "There are few things in life more fraught than conversations about illness, death and money.",
+      "publication_date": "2021-02-26T15:06:13+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/26/your-money/financial-planner-end-of-life.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

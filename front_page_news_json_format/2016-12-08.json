@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2016-12-08",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Donald Trump Picks John Kelly, Retired General, to Lead Homeland Security",
+      "snippet": "General Kelly had a 40-year career in the Marine Corps. In 2010, one of his sons was killed while leading a platoon in Afghanistan.",
+      "abstract": "General Kelly had a 40-year career in the Marine Corps. In 2010, one of his sons was killed while leading a platoon in Afghanistan.",
+      "lead_paragraph": "WASHINGTON — President-elect Donald J. Trump has settled on Gen. John F. Kelly, a retired four-star Marine general whose son was killed in combat in Afghanistan, as his choice for secretary of Homeland Security, putting a seasoned commander with personal experience of the costs of war in charge of protecting the nation’s borders.",
+      "publication_date": "2016-12-07T16:13:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/07/us/politics/john-kelly-dhs-trump.html",
+      "byline": "By Mark Landler and Maggie Haberman"
+    },
+    {
+      "headline": "Worried About the Privacy of Your Messages? Download Signal",
+      "snippet": "Signal, an encrypted chat service, is a must in an era when companies collect ever more information about users and government surveillance may expand.",
+      "abstract": "Signal, an encrypted chat service, is a must in an era when companies collect ever more information about users and government surveillance may expand.",
+      "lead_paragraph": "BY the time you finish reading this column, you would be foolish not to download the messaging app Signal onto your smartphone and computer.",
+      "publication_date": "2016-12-07T17:17:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/07/technology/personaltech/worried-about-the-privacy-of-your-messages-download-signal.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Trump Picks Scott Pruitt, Climate Change Denialist, to Lead E.P.A.",
+      "snippet": "Mr. Pruitt, the Oklahoma attorney general, has been a key architect of the legal battle against President Obama’s climate change policies.",
+      "abstract": "Mr. Pruitt, the Oklahoma attorney general, has been a key architect of the legal battle against President Obama’s climate change policies.",
+      "lead_paragraph": "WASHINGTON — President-elect Donald J. Trump has selected Scott Pruitt, the Oklahoma attorney general and a close ally of the fossil fuel industry, to run the Environmental Protection Agency, signaling Mr. Trump’s determination to dismantle President Obama’s efforts to counter climate change — and much of the E.P.A. itself.",
+      "publication_date": "2016-12-07T19:08:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/07/us/politics/scott-pruitt-epa-trump.html",
+      "byline": "By Coral Davenport and Eric Lipton"
+    },
+    {
+      "headline": "Donald Trump Is Said to Intend to Keep a Stake in His Business",
+      "snippet": "The president-elect is said to be considering turning over his company to his two adult sons, but planning to resist calls to divest.",
+      "abstract": "The president-elect is said to be considering turning over his company to his two adult sons, but planning to resist calls to divest.",
+      "lead_paragraph": "President-elect Donald J. Trump is considering formally turning over the operational responsibility for his real estate company to his two adult sons, but he intends to keep a stake in the business and resist calls to divest, according to several people briefed on the discussions.",
+      "publication_date": "2016-12-08T01:16:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/07/us/politics/trump-organization-ivanka-trump.html",
+      "byline": "By Maggie Haberman and Jo Becker"
+    },
+    {
+      "headline": "Surge in Dollar Provokes Jitters in Emerging Markets Around World",
+      "snippet": "Countries that have been binging on cheap dollar debt for more than a decade now face a spike in debt servicing costs and elevated debt burdens.",
+      "abstract": "Countries that have been binging on cheap dollar debt for more than a decade now face a spike in debt servicing costs and elevated debt burdens.",
+      "lead_paragraph": "The election of Donald J. Trump has set off a monthlong run of investor ebullience, whose highlight has been a sustained increase in the value of the dollar against the world’s currencies.",
+      "publication_date": "2016-12-08T03:25:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/07/business/dealbook/dollar-value-exchange-yuan-peso.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Tied to Europe, Britain’s Car Industry Is Vulnerable After ‘Brexit’",
+      "snippet": "After becoming an efficient industry with deep links to the Continent, it must grapple with the impact of the country’s vote to leave the European Union.",
+      "abstract": "After becoming an efficient industry with deep links to the Continent, it must grapple with the impact of the country’s vote to leave the European Union.",
+      "lead_paragraph": "BURNASTON, England — On Toyota’s brightly lit assembly line here, workers guide wheel and engine assemblies into unfinished sedans. Driverless carts carry parts through narrow aisles to work stations. The assembly line moves with clockwork precision, able to pop out a vehicle every 72 seconds.",
+      "publication_date": "2016-12-08T05:01:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/08/business/international/britain-brexit-europe-cars-toyota.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Cuba’s Surge in Tourism Keeps Food Off Residents’ Plates",
+      "snippet": "Consumption by visitors — nearly 3.5 million last year — is overwhelming supplies and raising prices, forcing families to make do with even less than usual.",
+      "abstract": "Consumption by visitors — nearly 3.5 million last year — is overwhelming supplies and raising prices, forcing families to make do with even less than usual.",
+      "lead_paragraph": "HAVANA — For Lisset Felipe, privation is a standard facet of Cuban life, a struggle shared by nearly all, whether they’re enduring blackouts or hunting for toilet paper.",
+      "publication_date": "2016-12-08T10:00:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/08/world/americas/cuba-fidel-castro-food-tourism.html",
+      "byline": "By Azam Ahmed"
+    }
+  ]
+}

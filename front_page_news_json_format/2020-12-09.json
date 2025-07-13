@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-12-09",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "For a Nation on Edge, Antacids Become Hard to Find",
+      "snippet": "Queasy Americans, fighting upset stomachs and worries about the pandemic, have stocked up on prescription and over-the-counter medications, making them scarce in some parts of the country.",
+      "abstract": "Queasy Americans, fighting upset stomachs and worries about the pandemic, have stocked up on prescription and over-the-counter medications, making them scarce in some parts of the country.",
+      "lead_paragraph": "First it was toilet paper. Then it was meat.",
+      "publication_date": "2020-12-08T16:37:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/08/business/virus-tums-pepcid-hard-to-find.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "As U.K. Begins Vaccinations, a Glimpse of Life After Covid",
+      "snippet": "A 90-year-old former jewelry shop assistant was the first to get a shot, followed, appropriately enough, by a man named William Shakespeare.",
+      "abstract": "A 90-year-old former jewelry shop assistant was the first to get a shot, followed, appropriately enough, by a man named William Shakespeare.",
+      "lead_paragraph": "LONDON — In March, the emergency room doctor was bedridden with the first case of the coronavirus among his colleagues at a hospital in Wales. Within weeks, he was back in scrubs, tending to a crush of ill, breathless patients.",
+      "publication_date": "2020-12-08T18:32:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/08/world/europe/uk-vaccination-covid-virus.html",
+      "byline": "By Benjamin Mueller"
+    },
+    {
+      "headline": "Blunders Eroded U.S. Confidence in Early Vaccine Front-Runner",
+      "snippet": "The Oxford-AstraZeneca effort held great promise to help arrest the pandemic. But a series of miscues caused it to fall behind in the U.S.",
+      "abstract": "The Oxford-AstraZeneca effort held great promise to help arrest the pandemic. But a series of miscues caused it to fall behind in the U.S.",
+      "lead_paragraph": "On the afternoon of Sept. 8, AstraZeneca officials had a conference call with the Food and Drug Administration. The discussion covered important ground: What would AstraZeneca need to do to win the F.D.A.’s blessing for the coronavirus vaccine it was developing with the University of Oxford?",
+      "publication_date": "2020-12-08T19:53:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/08/business/covid-vaccine-oxford-astrazeneca.html",
+      "byline": "By Rebecca Robbins, Sharon LaFraniere, Noah Weiland, David D. Kirkpatrick and Benjamin Mueller"
+    },
+    {
+      "headline": "Who’s Behind the Fight Between Warner Bros. and Hollywood? It’s AT&T",
+      "snippet": "The town is mad about the studio’s decision to put movies on HBO Max and in theaters at the same time. But with a telecom giant running an entertainment company, things were bound to get weird.",
+      "abstract": "The town is mad about the studio’s decision to put movies on HBO Max and in theaters at the same time. But with a telecom giant running an entertainment company, things were bound to get weird.",
+      "lead_paragraph": "Even a small sample of the Warner Bros. 2021 film slate suggests the studio’s big-screen ambitions: a desert-planet messiah who can kill with a word (“Dune”); a colossal clash between mutant monsters (“Godzilla vs. Kong”); a local hero who whips up frenzied dance routines across uptown rooftops (“In the Heights”).",
+      "publication_date": "2020-12-08T20:51:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/08/business/media/hbo-max-subscribers-att-box-office-losses.html",
+      "byline": "By Edmund Lee"
+    },
+    {
+      "headline": "FireEye, a Top Cybersecurity Firm, Says It Was Hacked by a Nation-State",
+      "snippet": "The Silicon Valley company said hackers — almost certainly Russian — made off with tools that could be used to mount new attacks around the world.",
+      "abstract": "The Silicon Valley company said hackers — almost certainly Russian — made off with tools that could be used to mount new attacks around the world.",
+      "lead_paragraph": "WASHINGTON — For years, the cybersecurity firm FireEye has been the first call for government agencies and companies around the world who have been hacked by the most sophisticated attackers, or fear they might be.",
+      "publication_date": "2020-12-08T21:01:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html",
+      "byline": "By David E. Sanger and Nicole Perlroth"
+    },
+    {
+      "headline": "Supreme Court Rejects Republican Challenge to Pennsylvania Vote",
+      "snippet": "In a one-sentence order, the court refused to overturn election results that had already been certified and submitted.",
+      "abstract": "In a one-sentence order, the court refused to overturn election results that had already been certified and submitted.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Tuesday refused a long-shot request from Pennsylvania Republicans to overturn Joseph R. Biden Jr.’s victory in the state, delivering an unmistakable rebuke to President Trump in the forum on which he had pinned his hopes.",
+      "publication_date": "2020-12-08T22:02:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/08/us/supreme-court-republican-challenge-pennsylvania-vote.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Biden’s Pentagon Pick Reignites Debate Over Civilian Control of Military",
+      "snippet": "Congress would need to approve a waiver for Lloyd J. Austin III, a recently retired general, to serve in the civilian post, four years after President Trump’s first defense secretary received one.",
+      "abstract": "Congress would need to approve a waiver for Lloyd J. Austin III, a recently retired general, to serve in the civilian post, four years after President Trump’s first defense secretary received one.",
+      "lead_paragraph": "WASHINGTON — President-elect Joseph R. Biden Jr.’s intention to nominate a retired Army general as secretary of defense has run into bipartisan resistance on Capitol Hill, where there are growing concerns about another former commander leading the Pentagon in a nation that has a long tradition of civilian control of the military.",
+      "publication_date": "2020-12-08T23:43:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/08/us/politics/biden-austin-defense-secretary.html",
+      "byline": "By Jennifer Steinhauer, Eric Schmitt and Luke Broadwater"
+    },
+    {
+      "headline": "‘There’s No Place for Them to Go’: I.C.U. Beds Near Capacity Across U.S.",
+      "snippet": "More than a third of Americans live in areas where hospitals are running critically short of intensive care beds.",
+      "abstract": "More than a third of Americans live in areas where hospitals are running critically short of intensive care beds.",
+      "lead_paragraph": "More than a third of Americans live in areas where hospitals are running critically short of intensive care beds.",
+      "publication_date": "2020-12-09T10:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2020/12/09/us/covid-hospitals-icu-capacity.html",
+      "byline": "By Lauren Leatherby, John Keefe, Lucy Tompkins, Charlie Smart and Matthew Conlen"
+    },
+    {
+      "headline": "How Bad Was Virus Aid Fraud? One Banker Was ‘Frustrated With Humanity’",
+      "snippet": "The Paycheck Protection Program offered small businesses a few months of relief, but prosecutors will be running down fraud for years.",
+      "abstract": "The Paycheck Protection Program offered small businesses a few months of relief, but prosecutors will be running down fraud for years.",
+      "lead_paragraph": "Chris Hurn wasn’t surprised scammers were trying to get government money. An enormous relief effort like the $523 billion Paycheck Protection Program is bound to attract grifters.",
+      "publication_date": "2020-12-09T10:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/09/business/ppp-fraud-paycheck-protection-program.html",
+      "byline": "By Stacy Cowley"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-02-05",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Northam Scandal Opens Rift Between Top Democrats in Virginia",
+      "snippet": "As a racist yearbook photo and claims of sexual assault plunged the capitol deeper into turmoil, the state’s lieutenant governor suggested the governor might be trying to sabotage him.",
+      "abstract": "As a racist yearbook photo and claims of sexual assault plunged the capitol deeper into turmoil, the state’s lieutenant governor suggested the governor might be trying to sabotage him.",
+      "lead_paragraph": "RICHMOND, Va. — Virginia plunged deeper into political turmoil Monday as Gov. Ralph Northam told aides he was not planning to step down, and his own lieutenant governor suggested Mr. Northam’s supporters were behind an effort to smear him with claims of sexual assault to block his ascent if the governor resigned.",
+      "publication_date": "2019-02-04T16:23:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/04/us/politics/northam-photo.html",
+      "byline": "By Jonathan Martin and Alan Blinder"
+    },
+    {
+      "headline": "Cleaner Classrooms and Rising Scores: With Tighter Oversight, Head Start Shows Gains",
+      "snippet": "The improvements made by the country’s biggest preschool program offer a story of bipartisan progress at odds with its polarizing time.",
+      "abstract": "The improvements made by the country’s biggest preschool program offer a story of bipartisan progress at odds with its polarizing time.",
+      "lead_paragraph": "JACKSONVILLE, Fla. — When federal officials inspected this city’s Head Start program five years ago, they found moldy classrooms, exposed wires, leaking sewage, a sagging roof and trash-strewn playgrounds littered with safety hazards. A teacher had jerked a student so hard she dislocated the girl’s shoulder.",
+      "publication_date": "2019-02-04T16:43:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/04/us/politics/head-start-preschool.html",
+      "byline": "By Jason DeParle"
+    },
+    {
+      "headline": "Once the ‘Bond King,’ Bill Gross Is Retiring, His Star Dimmed",
+      "snippet": "Mr. Gross was forced out of Pimco, which he co-founded in 1971, five years ago. His performance has lagged since he joined Janus Henderson Investments.",
+      "abstract": "Mr. Gross was forced out of Pimco, which he co-founded in 1971, five years ago. His performance has lagged since he joined Janus Henderson Investments.",
+      "lead_paragraph": "William H. Gross, the “Bond King,” is going into retirement.",
+      "publication_date": "2019-02-04T19:45:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/04/business/bond-king-bill-gross-retirement.html",
+      "byline": "By Jeff Sommer"
+    },
+    {
+      "headline": "Trump Inaugural Committee Ordered to Hand Over Documents to Federal Investigators",
+      "snippet": "Prosecutors in Manhattan demanded documents about the committee’s donors, including whether it received illegal foreign donations.",
+      "abstract": "Prosecutors in Manhattan demanded documents about the committee’s donors, including whether it received illegal foreign donations.",
+      "lead_paragraph": "Escalating one of the investigations into President Trump’s inaugural committee, federal prosecutors ordered on Monday that its officials turn over documents about donors, finances and activities, according to two people familiar with the inquiry.",
+      "publication_date": "2019-02-05T00:34:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/04/us/politics/trump-inaugural-committee-subpoena.html",
+      "byline": "By Maggie Haberman and Ben Protess"
+    },
+    {
+      "headline": "Trump’s Options for Wall Shrink as Republicans Balk at National Emergency Declaration",
+      "snippet": "As lawmakers negotiate a deal, Republicans are warning the president that declaring an emergency to build a wall could rupture his party and prompt a vote to overrule him.",
+      "abstract": "As lawmakers negotiate a deal, Republicans are warning the president that declaring an emergency to build a wall could rupture his party and prompt a vote to overrule him.",
+      "lead_paragraph": "WASHINGTON — President Trump’s legislative path to a border wall has narrowed significantly on the eve of Tuesday’s State of the Union speech, and his fallback plan to circumvent Congress by declaring a state of emergency could create a major division in his own party.",
+      "publication_date": "2019-02-05T00:57:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/04/us/politics/trump-border-wall-republicans.html",
+      "byline": "By Glenn Thrush and Emily Cochrane"
+    },
+    {
+      "headline": "A School Board Says No to Big Oil, and Alarms Sound in Business-Friendly Louisiana",
+      "snippet": "Given new veto power over the tax breaks the state lavishes on industry, local officials are starting to say their budget needs come first. Business leaders are aghast.",
+      "abstract": "Given new veto power over the tax breaks the state lavishes on industry, local officials are starting to say their budget needs come first. Business leaders are aghast.",
+      "lead_paragraph": "BATON ROUGE, La. — It was a squabble over $2.9 million in property-tax breaks — small change for Exxon Mobil, a company that measures its earnings by the billions.",
+      "publication_date": "2019-02-05T08:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/05/us/louisiana-itep-exxon-mobil.html",
+      "byline": "By Richard Fausset"
+    },
+    {
+      "headline": "The Rise of the Robot Reporter",
+      "snippet": "Fast, accurate and no typos! Bloomberg News, The Washington Post and The Associated Press test out machine-generated journalism.",
+      "abstract": "Fast, accurate and no typos! Bloomberg News, The Washington Post and The Associated Press test out machine-generated journalism.",
+      "lead_paragraph": "As reporters and editors find themselves the victims of layoffs at digital publishers and traditional newspaper chains alike, journalism generated by machine is on the rise.",
+      "publication_date": "2019-02-05T08:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/05/business/media/artificial-intelligence-journalism-robots.html",
+      "byline": "By Jaclyn Peiser"
+    },
+    {
+      "headline": "Ultra-Orthodox Israeli Woman Defies Rabbis and Runs Left",
+      "snippet": "Seeing herself as a voice for the “new Haredim,” Michal Zernowitski hopes secular Labor voters will give her a chance.",
+      "abstract": "Seeing herself as a voice for the “new Haredim,” Michal Zernowitski hopes secular Labor voters will give her a chance.",
+      "lead_paragraph": "TEL AVIV — It is primary season in Israel, and the creaky Labor Party, hemorrhaging support and desperate to project energy and vitality, has invited its 44 candidates for Parliament to a college campus for a night billed as speed dating with hundreds of voters.",
+      "publication_date": "2019-02-05T10:00:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/05/world/middleeast/michal-zernowitski-labor-party.html",
+      "byline": "By David M. Halbfinger"
+    }
+  ]
+}

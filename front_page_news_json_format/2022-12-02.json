@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-12-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Eyes $156 Million Yacht in Dubai Linked to a Russian Oligarch",
+      "snippet": "The U.S. Justice Department is taking steps to seize the Madame Gu, a 324-foot luxury yacht, but it will be diplomatically thorny.",
+      "abstract": "The U.S. Justice Department is taking steps to seize the Madame Gu, a 324-foot luxury yacht, but it will be diplomatically thorny.",
+      "lead_paragraph": "DUBAI, United Arab Emirates — On a clear morning in late October, the jewel-blue hull of the Madame Gu, one of the world’s most luxurious superyachts, gleamed, its aluminum rails shimmering in the sun. Workers on the pier said they had recently seen people painting, cleaning and generally keeping the ship with its helipad and six guest staterooms in pristine condition.",
+      "publication_date": "2022-12-01T16:35:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/01/us/politics/madame-gu-yacht-dubai-russia.html",
+      "byline": "By Kate Kelly, Michael Forsythe and Julian E. Barnes"
+    },
+    {
+      "headline": "With Senate Vote, Congress Moves to Avert Rail Strike",
+      "snippet": "Bipartisan coalitions in the House and Senate pushed through a bill that would impose an agreement between rail companies and their workers.",
+      "abstract": "Bipartisan coalitions in the House and Senate pushed through a bill that would impose an agreement between rail companies and their workers.",
+      "lead_paragraph": "WASHINGTON — The Senate on Thursday voted overwhelmingly to impose a labor agreement between rail companies and their workers who have been locked in a stubborn stalemate, moving with uncommon speed to avert a potential holiday season rail strike that would jeopardize shipping across the country.",
+      "publication_date": "2022-12-01T19:27:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/01/us/politics/senate-rail-strike.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "Appeals Court Scraps Special Master Review in Trump Documents Case",
+      "snippet": "The panel’s decision removed a major obstacle to the Justice Department’s investigation into Mr. Trump’s handling of sensitive government documents.",
+      "abstract": "The panel’s decision removed a major obstacle to the Justice Department’s investigation into Mr. Trump’s handling of sensitive government documents.",
+      "lead_paragraph": "WASHINGTON — A federal appeals court on Thursday removed a major obstacle to the criminal investigation into former President Donald J. Trump’s hoarding of government documents, ending an outside review of thousands of records the F.B.I. seized from his home and freeing the Justice Department to use them in its inquiry.",
+      "publication_date": "2022-12-01T22:58:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/01/us/politics/trump-special-master.html",
+      "byline": "By Alan Feuer and Charlie Savage"
+    },
+    {
+      "headline": "Biden Says He Is Willing to Talk to Putin About Ukraine, With Conditions",
+      "snippet": "Showing a united front during a state visit, President Biden and President Emmanuel Macron of France affirmed their support for Ukraine ahead of a cold winter that will test the alliance.",
+      "abstract": "Showing a united front during a state visit, President Biden and President Emmanuel Macron of France affirmed their support for Ukraine ahead of a cold winter that will test the alliance.",
+      "lead_paragraph": "WASHINGTON — Standing beside the French leader who has championed the need for dialogue with Moscow, President Biden said on Thursday that he would talk to President Vladimir V. Putin, but only in consultation with NATO allies and only if the Russian leader indicated he was “looking for a way to end the war.”",
+      "publication_date": "2022-12-02T00:33:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/01/us/politics/biden-macron-putin-ukraine.html",
+      "byline": "By Roger Cohen and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "Germans Have Seen the Future, and It’s a Heat Pump",
+      "snippet": "The boxy machines look and function like large air-conditioners on reverse, but Germans hope they hold the key to Europe’s push for fossil-free heating.",
+      "abstract": "The boxy machines look and function like large air-conditioners on reverse, but Germans hope they hold the key to Europe’s push for fossil-free heating.",
+      "lead_paragraph": "REMSCHEID, Germany — After decades of heating their homes with relatively cheap Russian natural gas, Germans are facing exorbitant prices for energy. The search is on for an alternative source of warmth that is climate-friendly and free from natural gas.",
+      "publication_date": "2022-12-02T05:00:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/02/world/europe/germany-heat-pumps.html",
+      "byline": "By Melissa Eddy and Patrick Junker"
+    },
+    {
+      "headline": "How China’s Police Used Phones and Faces to Track Protesters",
+      "snippet": "After a weekend of protests, the authorities in China are using the country’s all-seeing surveillance apparatus to find those bold enough to defy them.",
+      "abstract": "After a weekend of protests, the authorities in China are using the country’s all-seeing surveillance apparatus to find those bold enough to defy them.",
+      "lead_paragraph": "On Sunday, when Mr. Zhang went to protest China’s strict Covid policies in Beijing, he thought he came prepared to go undetected.",
+      "publication_date": "2022-12-02T09:09:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/02/business/china-protests-surveillance.html",
+      "byline": "By Paul Mozur, Claire Fu and Amy Chang Chien"
+    },
+    {
+      "headline": "Why Are Middle-Aged Men Missing From the Labor Market?",
+      "snippet": "Men ages 35 to 44 are staging a lackluster rebound from pandemic job loss, despite a strong economy.",
+      "abstract": "Men ages 35 to 44 are staging a lackluster rebound from pandemic job loss, despite a strong economy.",
+      "lead_paragraph": "For the past five months Paul Rizzo, 38, has been delivering food and groceries through the DoorDash app. But he spent the first half of 2022 earning no paycheck at all — reflecting a surprising trend among middle-aged men.",
+      "publication_date": "2022-12-02T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/02/business/economy/job-market-middle-aged-men.html",
+      "byline": "By Jeanna Smialek, Lydia DePillis and Ben Casselman"
+    },
+    {
+      "headline": "Applying to College, and Trying to Appear ‘Less Asian’",
+      "snippet": "The affirmative action lawsuit against Harvard seemed to confirm advice given for years to Asian Americans: Don’t play chess, don’t check the box declaring race.",
+      "abstract": "The affirmative action lawsuit against Harvard seemed to confirm advice given for years to Asian Americans: Don’t play chess, don’t check the box declaring race.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-12-02T10:00:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/02/us/asian-american-college-applications.html",
+      "byline": "By Amy Qin"
+    },
+    {
+      "headline": "U.S. Job Growth Remains Strong, Defying Fed’s Rate Strategy",
+      "snippet": "Employers added 263,000 workers in November, even as some industries showed signs of a slowdown. Wage growth exceeded expectations.",
+      "abstract": "Employers added 263,000 workers in November, even as some industries showed signs of a slowdown. Wage growth exceeded expectations.",
+      "lead_paragraph": "America’s jobs engine kept churning in November, the Labor Department reported Friday, a show of continued demand for workers despite the Federal Reserve’s push to curb inflation, largely by tamping down hiring.",
+      "publication_date": "2022-12-02T10:14:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/02/business/economy/jobs-report-november.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Hate Speech’s Rise on Twitter Is Unprecedented, Researchers Find",
+      "snippet": "Problematic content and formerly barred accounts have increased sharply in the short time since Elon Musk took over, researchers said.",
+      "abstract": "Problematic content and formerly barred accounts have increased sharply in the short time since Elon Musk took over, researchers said.",
+      "lead_paragraph": "Before Elon Musk bought Twitter, slurs against Black Americans showed up on the social media service an average of 1,282 times a day. After the billionaire became Twitter’s owner, they jumped to 3,876 times a day.",
+      "publication_date": "2022-12-02T14:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/02/technology/twitter-hate-speech.html",
+      "byline": "By Sheera Frenkel and Kate Conger"
+    }
+  ]
+}

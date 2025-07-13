@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-05-08",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Push for Profits Left Nursing Homes Struggling to Provide Care",
+      "snippet": "Some with private equity owners, focused on making money, were particularly ill equipped and understaffed to handle Covid-19.",
+      "abstract": "Some with private equity owners, focused on making money, were particularly ill equipped and understaffed to handle Covid-19.",
+      "lead_paragraph": "When the pandemic struck, the majority of the nation’s nursing homes were losing money, some were falling into disrepair, and others were struggling to attract new occupants, leaving many of them ill equipped to protect workers and residents as the coronavirus raged through their properties.",
+      "publication_date": "2020-05-07T17:06:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/07/business/coronavirus-nursing-homes.html",
+      "byline": "By Matthew Goldstein, Jessica Silver-Greenberg and Robert Gebeloff"
+    },
+    {
+      "headline": "U.S. Drops Michael Flynn Case, in Move Backed by Trump",
+      "snippet": "The extraordinary move came after Mr. Flynn, the former national security adviser, fought the case in court for months, a reversal after pleading guilty twice and cooperating with investigators.",
+      "abstract": "The extraordinary move came after Mr. Flynn, the former national security adviser, fought the case in court for months, a reversal after pleading guilty twice and cooperating with investigators.",
+      "lead_paragraph": "WASHINGTON — After an extraordinary public campaign by President Trump and his allies, the Justice Department dropped its criminal case on Thursday against Michael T. Flynn, Mr. Trump’s first national security adviser.",
+      "publication_date": "2020-05-07T18:45:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/07/us/politics/michael-flynn-case-dropped.html",
+      "byline": "By Adam Goldman and Katie Benner"
+    },
+    {
+      "headline": "White House Rejects C.D.C.’s Coronavirus Reopening Plan",
+      "snippet": "Detailed guidelines for reopening drafted by the Centers for Disease Control and Prevention were blocked from publication after Trump administration officials labeled them “overly prescriptive.”",
+      "abstract": "Detailed guidelines for reopening drafted by the Centers for Disease Control and Prevention were blocked from publication after Trump administration officials labeled them “overly prescriptive.”",
+      "lead_paragraph": "WASHINGTON — As President Trump rushes to reopen the economy, a battle has erupted between the White House and the Centers for Disease Control and Prevention over the agency’s detailed guidelines to help schools, restaurants, churches and other establishments safely reopen.",
+      "publication_date": "2020-05-07T19:15:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/07/us/politics/trump-cdc.html",
+      "byline": "By Abby Goodnough and Maggie Haberman"
+    },
+    {
+      "headline": "The Results Are In for the Sharing Economy. They Are Ugly.",
+      "snippet": "Lyft, Uber and Airbnb depend on travel, vacations and gatherings. That’s a problem when much of the world is staying home.",
+      "abstract": "Lyft, Uber and Airbnb depend on travel, vacations and gatherings. That’s a problem when much of the world is staying home.",
+      "lead_paragraph": "OAKLAND, Calif. — The coronavirus pandemic has gutted the so-called sharing economy. Its most valuable companies, which started the year by promising that they would soon become profitable, now say consumer demand has all but vanished.",
+      "publication_date": "2020-05-07T20:17:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/07/technology/the-results-are-in-for-the-sharing-economy-they-are-ugly.html",
+      "byline": "By Kate Conger and Erin Griffith"
+    },
+    {
+      "headline": "Why Get All Made Up With Nowhere to Go?",
+      "snippet": "Staying at home has caused many people to change their makeup, hair-care and skin-care routines. Companies are feeling the effects.",
+      "abstract": "Staying at home has caused many people to change their makeup, hair-care and skin-care routines. Companies are feeling the effects.",
+      "lead_paragraph": "Amie Wohrer reached her limit about three weeks into the shutdown.",
+      "publication_date": "2020-05-08T09:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/08/business/coronavirus-makeup-hair-skin-care.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "Hidden Toll: Mexico Ignores Wave of Coronavirus Deaths in Capital",
+      "snippet": "More than three times as many people may have died from Covid-19 in Mexico City than federal statistics show, according to a Times analysis.",
+      "abstract": "More than three times as many people may have died from Covid-19 in Mexico City than federal statistics show, according to a Times analysis.",
+      "lead_paragraph": "MEXICO CITY — The Mexican government is not reporting hundreds, possibly thousands, of deaths from the coronavirus in Mexico City, dismissing anxious officials who have tallied more than three times as many fatalities in the capital than the government publicly acknowledges, according to officials and confidential data.",
+      "publication_date": "2020-05-08T09:00:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/08/world/americas/mexico-coronavirus-count.html",
+      "byline": "By Azam Ahmed and Daniel Berehulak"
+    },
+    {
+      "headline": "How Bad Is Unemployment? ‘Literally Off the Charts’",
+      "snippet": "The U.S. jobless rate for April is put at 14.7 percent, with 20.5 million jobs lost, figures that almost certainly understate the economic devastation.",
+      "abstract": "The U.S. jobless rate for April is put at 14.7 percent, with 20.5 million jobs lost, figures that almost certainly understate the economic devastation.",
+      "lead_paragraph": "The U.S. jobless rate for April is put at 14.7 percent, with 20.5 million jobs lost, figures that almost certainly understate the economic devastation.",
+      "publication_date": "2020-05-08T12:48:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2020/05/08/business/economy/april-jobs-report.html",
+      "byline": "By Nelson D. Schwartz, Ben Casselman and Ella Koeze"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-03-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Bridgewater Associates, World’s Biggest Hedge Fund, Shakes Up Leadership",
+      "snippet": "Ray Dalio, its founder, will step down as co-chief executive, and Jon Rubinstein, a former Apple executive hired 10 months ago to be a co-chief executive, will leave.",
+      "abstract": "Ray Dalio, its founder, will step down as co-chief executive, and Jon Rubinstein, a former Apple executive hired 10 months ago to be a co-chief executive, will leave.",
+      "lead_paragraph": "Ray Dalio, the billionaire founder of Bridgewater Associates, the world’s biggest hedge fund, is stepping down from its day-to-day operation as he continues to struggle to find a successor to run the firm, known for its unusual culture of “radical transparency.”",
+      "publication_date": "2017-03-01T16:31:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/01/business/dealbook/ray-dalio-bridgewater-hedge-fund.html",
+      "byline": "By Alexandra Stevenson and Matthew Goldstein"
+    },
+    {
+      "headline": "For China’s Factories, a Weaker Currency Is a Double-Edged Sword",
+      "snippet": "Chinese manufacturers once reaped big benefits from a falling renminbi, but heavy debt and intense competition now reduce the positive impact.",
+      "abstract": "Chinese manufacturers once reaped big benefits from a falling renminbi, but heavy debt and intense competition now reduce the positive impact.",
+      "lead_paragraph": "FOSHAN, China — At first glance, given the way that China controls its currency, the Guangdong Chigo Air Conditioning Company might seem like a winner.",
+      "publication_date": "2017-03-01T17:17:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/01/business/china-dollar-yuan-renminbi.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Darren Woods, Exxon’s New Chief, Begins to Make His Mark",
+      "snippet": "Mr. Woods, succeeding Rex W. Tillerson, is outlining ambitious growth plans for a company that is slow to change and hobbled by debt and market uncertainties.",
+      "abstract": "Mr. Woods, succeeding Rex W. Tillerson, is outlining ambitious growth plans for a company that is slow to change and hobbled by debt and market uncertainties.",
+      "lead_paragraph": "HOUSTON — The executive wing of Exxon Mobil’s headquarters outside Dallas is nicknamed the God Pod because orders given by executives there can sometimes be as sharp as thunderbolts.",
+      "publication_date": "2017-03-01T21:35:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/01/business/energy-environment/darren-woods-exxon-mobil-investors.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "What Booming Markets Are Telling Us About the Global Economy",
+      "snippet": "Shedding pessimism after seeming to be hopelessly trapped in a cycle of low growth and inflation.",
+      "abstract": "Shedding pessimism after seeming to be hopelessly trapped in a cycle of low growth and inflation.",
+      "lead_paragraph": "The stock market reached yet another new high on Wednesday, the latest development to make a mockery of what savvy economic commentators thought they knew about the world.",
+      "publication_date": "2017-03-01T23:27:01+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/01/upshot/what-booming-markets-are-telling-us-about-the-global-economy.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking",
+      "snippet": "Obama administration officials scrambled to ensure intelligence of connections between the Trump campaign and Russian officials was preserved after they left office.",
+      "abstract": "Obama administration officials scrambled to ensure intelligence of connections between the Trump campaign and Russian officials was preserved after they left office.",
+      "lead_paragraph": "WASHINGTON — In the Obama administration’s last days, some White House officials scrambled to spread information about Russian efforts to undermine the presidential election — and about possible contacts between associates of President-elect Donald J. Trump and Russians — across the government. Former American officials say they had two aims: to ensure that such meddling isn’t duplicated in future American or European elections, and to leave a clear trail of intelligence for government investigators.",
+      "publication_date": "2017-03-02T00:52:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/01/us/politics/obama-trump-russia-election-hacking.html",
+      "byline": "By Matthew Rosenberg, Adam Goldman and Michael S. Schmidt"
+    },
+    {
+      "headline": "In Speech, Trump Tests a New Tactic: Toning It Down",
+      "snippet": "The president’s address to Congress was a recognition that a softer sales tactic was needed to sell the hard-edge populist agenda he campaigned on.",
+      "abstract": "The president’s address to Congress was a recognition that a softer sales tactic was needed to sell the hard-edge populist agenda he campaigned on.",
+      "lead_paragraph": "WASHINGTON — President Trump loves the song “My Way,” bristles at the slightest alterations in his daily routine, and lashes out when the world won’t accept him on his own terms.",
+      "publication_date": "2017-03-02T02:20:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/01/us/trump-speech-congress-conciliatory.html",
+      "byline": "By Glenn Thrush and Maggie Haberman"
+    },
+    {
+      "headline": "Republican Unity on Health Care Is Elusive, Despite Trump’s Support",
+      "snippet": "Fundamental disagreements remain between Republican leaders and the party’s most conservative members, particularly over the details of a proposed tax credit.",
+      "abstract": "Fundamental disagreements remain between Republican leaders and the party’s most conservative members, particularly over the details of a proposed tax credit.",
+      "lead_paragraph": "WASHINGTON — President Trump’s address to Congress on Tuesday night buoyed House Republican leaders who were hopeful that his leadership would unite fractious lawmakers around a plan to replace the Affordable Care Act. But fundamental disagreements still divide Republicans on one of the central promises of their 2016 campaigns: repealing the health law.",
+      "publication_date": "2017-03-02T02:49:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/01/us/politics/affordable-care-act-health-care-trump.html",
+      "byline": "By Thomas Kaplan and Robert Pear"
+    },
+    {
+      "headline": "Jeff Sessions Recuses Himself From Russia Inquiry",
+      "snippet": "The announcement came after a day of rapid-fire developments that intensified pressure for a full investigation into Moscow’s meddling in the election.",
+      "abstract": "The announcement came after a day of rapid-fire developments that intensified pressure for a full investigation into Moscow’s meddling in the election.",
+      "lead_paragraph": "WASHINGTON — Attorney General Jeff Sessions, facing a storm of criticism over newly disclosed contacts with the Russian ambassador to the United States, recused himself on Thursday from any investigation into charges that Russia meddled in the 2016 presidential election.",
+      "publication_date": "2017-03-02T08:14:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/02/us/politics/jeff-sessions-russia-trump-investigation-democrats.html",
+      "byline": "By Mark Landler and Eric Lichtblau"
+    },
+    {
+      "headline": "Xi Jinping, Seeking to Extend Power, May Bend Retirement Rules",
+      "snippet": "The fate of Wang Qishan, 68 and a powerful ally of Xi Jinping, will be a topic of speculation when the national legislature convenes on Sunday.",
+      "abstract": "The fate of Wang Qishan, 68 and a powerful ally of Xi Jinping, will be a topic of speculation when the national legislature convenes on Sunday.",
+      "lead_paragraph": "BEIJING — For years, China’s Communist Party has maintained a check on the power of its leaders by calling on them to retire if they have reached age 68 when a new term begins.",
+      "publication_date": "2017-03-02T10:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/02/world/asia/xi-jinping-china-retirement-rules.html",
+      "byline": "By Chris Buckley"
+    },
+    {
+      "headline": "Building a Road Map for the Self-Driving Car",
+      "snippet": "Along with sensors, autonomous vehicles will need detailed maps of the road and the obstacles ahead. Creating these maps will be a monumental task.",
+      "abstract": "Along with sensors, autonomous vehicles will need detailed maps of the road and the obstacles ahead. Creating these maps will be a monumental task.",
+      "lead_paragraph": "How do you create a map showing every road in the United States, with the precise location of every stop sign, all the lane markings, every exit ramp and every traffic light — and update it in real time as traffic is rerouted around construction and accidents?",
+      "publication_date": "2017-03-02T15:12:44+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/02/automobiles/wheels/self-driving-cars-gps-maps.html",
+      "byline": "By Neal E. Boudette"
+    }
+  ]
+}

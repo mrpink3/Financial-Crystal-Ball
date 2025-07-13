@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-11-03",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "As the Fed Prepares to Slow Support, Attention Shifts to Rate Increases",
+      "snippet": "The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates.",
+      "abstract": "The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates.",
+      "lead_paragraph": "Jerome H. Powell, the Federal Reserve chair, is on the cusp of accomplishing something that would have seemed like a victory a year ago: Central bankers are expected to announce a plan to wean the economy off their asset-buying program on Wednesday without roiling markets, a delicate maneuver that was in no way assured.",
+      "publication_date": "2021-11-02T16:28:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/02/business/economy/fed-jerome-powell-rates-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Facebook, Citing Societal Concerns, Plans to Shut Down Facial Recognition System",
+      "snippet": "Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users.",
+      "abstract": "Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-11-02T17:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html",
+      "byline": "By Kashmir Hill and Ryan Mac"
+    },
+    {
+      "headline": "Democrats Push for Agreement on Tax Deduction That Benefits the Rich",
+      "snippet": "Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration.",
+      "abstract": "Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration.",
+      "lead_paragraph": "WASHINGTON — Democrats were readying an agreement on Tuesday that would repeal a cap on the amount of state and local taxes that homeowners can deduct as part of a broader $1.85 trillion spending bill, a move that could amount to a significant tax cut for wealthy Americans in liberal states.",
+      "publication_date": "2021-11-02T22:38:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html",
+      "byline": "By Emily Cochrane and Alan Rappeport"
+    },
+    {
+      "headline": "With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start",
+      "snippet": "Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up.",
+      "abstract": "Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up.",
+      "lead_paragraph": "GLASGOW — The world leaders gathered at a crucial climate summit secured new agreements on Tuesday to end deforestation and reduce emissions of the potent greenhouse gas methane, building momentum as the conference prepared to shift to a more grueling two weeks of negotiations on how to avert the planet’s catastrophic warming.",
+      "publication_date": "2021-11-02T22:50:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html",
+      "byline": "By Jim Tankersley, Katie Rogers and Lisa Friedman"
+    },
+    {
+      "headline": "Justices’ Questions Suggest New York Gun Control Law Is Unlikely to Survive",
+      "snippet": "The law, which imposes strict limits on carrying guns in public, faced a skeptical reception from the Supreme Court on Wednesday.",
+      "abstract": "The law, which imposes strict limits on carrying guns in public, faced a skeptical reception from the Supreme Court on Wednesday.",
+      "lead_paragraph": "WASHINGTON — A New York law that imposes strict limits on carrying guns outside the home seemed unlikely to survive its encounter with the Supreme Court, based on questioning from the justices on Wednesday.",
+      "publication_date": "2021-11-03T09:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/03/us/politics/supreme-court-guns-second-amendment.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "A Sinking Student Housing Empire",
+      "snippet": "An ambitious property management company that pitches upscale off-campus apartments across the country has left tenants and investors stewing.",
+      "abstract": "An ambitious property management company that pitches upscale off-campus apartments across the country has left tenants and investors stewing.",
+      "lead_paragraph": "Between the busted elevators, the malfunctioning fire alarms and the utilities being shut off for weeks at a time, the students at a half-dozen off-campus housing complexes across the country say they’re not getting what they paid for.",
+      "publication_date": "2021-11-03T09:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/03/business/student-housing-real-estate.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "In a ‘Workers Economy,’ Who Really Holds the Cards?",
+      "snippet": "Some people are resigning. Some are sitting on the sidelines awaiting a prime gig. Others are flexing their muscles — requesting raises, or remote options — while still clocking in.",
+      "abstract": "Some people are resigning. Some are sitting on the sidelines awaiting a prime gig. Others are flexing their muscles — requesting raises, or remote options — while still clocking in.",
+      "lead_paragraph": "Zella Roberts was one of the highest performing waitresses at the Sonic drive-in in Asheville, N.C., her manager told her, but there were days during the pandemic when she questioned whether she could continue her job. The customers were unruly and often unmasked; the base pay was $5 an hour. Then one afternoon, last November, a man coughed in her face as she served him a hot dog. Ms. Roberts went home and cried.",
+      "publication_date": "2021-11-03T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/03/business/jobs-workers-economy.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "ISIS Poses a Growing Threat to New Taliban Government in Afghanistan",
+      "snippet": "The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community.",
+      "abstract": "The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community.",
+      "lead_paragraph": "JALALABAD, Afghanistan — Aref Mohammad’s war against the Islamic State ended earlier this fall when his unit of Taliban fighters was ambushed by the terrorist group in eastern Afghanistan. A bullet shattered his femur, leaving him disabled and barely able to walk, never mind fight.",
+      "publication_date": "2021-11-03T14:29:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html",
+      "byline": "By Victor J. Blue, Thomas Gibbons-Neff and Christina Goldbaum"
+    }
+  ]
+}

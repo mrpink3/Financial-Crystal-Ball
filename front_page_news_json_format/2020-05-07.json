@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-05-07",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Firm Set Up by G.O.P. Operatives Under Scrutiny Over Virus Contracts",
+      "snippet": "Blue Flame Medical boasted that it could acquire masks, testing kits and other equipment to respond to the pandemic. State and local governments paid up — and are still waiting for delivery.",
+      "abstract": "Blue Flame Medical boasted that it could acquire masks, testing kits and other equipment to respond to the pandemic. State and local governments paid up — and are still waiting for delivery.",
+      "lead_paragraph": "WASHINGTON — A company created just six weeks ago by a pair of Republican operatives received hundreds of millions of dollars in payments from desperate state and local governments for coronavirus supplies, but is now facing a federal criminal investigation and a rising chorus of complaints from customers who say their orders never arrived.",
+      "publication_date": "2020-05-06T17:11:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/06/us/politics/coronavirus-masks-tests-ppe.html",
+      "byline": "By Kenneth P. Vogel"
+    },
+    {
+      "headline": "As Hunger Swells, Food Stamps Become a Partisan Flash Point",
+      "snippet": "Democrats are seeking to raise benefits as research shows a rise in food insecurity without modern precedent amid the pandemic. But Republicans have balked at a long-term expansion of the program.",
+      "abstract": "Democrats are seeking to raise benefits as research shows a rise in food insecurity without modern precedent amid the pandemic. But Republicans have balked at a long-term expansion of the program.",
+      "lead_paragraph": "WASHINGTON — As a padlocked economy leaves millions of Americans without paychecks, lines outside food banks have stretched for miles, prompting some of the overwhelmed charities to seek help from the National Guard.",
+      "publication_date": "2020-05-06T21:41:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/06/us/politics/coronavirus-hunger-food-stamps.html",
+      "byline": "By Jason DeParle"
+    },
+    {
+      "headline": "Small Businesses Counting on Loan Forgiveness Could Be Stuck With Debt",
+      "snippet": "Business owners who took out loans under the Paycheck Protection Program thought converting them to grants would be easy. It’s not.",
+      "abstract": "Business owners who took out loans under the Paycheck Protection Program thought converting them to grants would be easy. It’s not.",
+      "lead_paragraph": "WASHINGTON — The embattled small business lending program at the center of the Trump administration’s economic rescue is running into a new set of challenges, one that threatens to saddle borrowers with huge debt loads, as banks begin the tricky task of proving the loans they extended actually met the government’s strict and shifting terms.",
+      "publication_date": "2020-05-06T22:37:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/06/business/small-businesses-loans-ppp-coronavirus.html",
+      "byline": "By Alan Rappeport and Emily Flitter"
+    },
+    {
+      "headline": "E.U. Is Facing Its Worst Recession Ever. Watch Out, World.",
+      "snippet": "New forecasts predict a 7.4 percent economic collapse and risks of even worse decline if the reopening triggers a second virus wave.",
+      "abstract": "New forecasts predict a 7.4 percent economic collapse and risks of even worse decline if the reopening triggers a second virus wave.",
+      "lead_paragraph": "BRUSSELS — The good news for Europe is that the worst of the pandemic is beginning to ease. This week deaths in Italy hit a nearly two-month low. And the German leader Angela Merkel announced that schools, day care centers and restaurants would reopen in the next few days.",
+      "publication_date": "2020-05-06T22:38:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/06/business/coronavirus-europe-reopening-recession.html",
+      "byline": "By Matina Stevis-Gridneff and Jack Ewing"
+    },
+    {
+      "headline": "Trump’s New Coronavirus Message: Time to Move On to the Economic Recovery",
+      "snippet": "The president’s cure-can’t-be-worse-than-the-disease logic is clear: As bad as the virus may be, the cost of the virtual national lockdown has grown too high.",
+      "abstract": "The president’s cure-can’t-be-worse-than-the-disease logic is clear: As bad as the virus may be, the cost of the virtual national lockdown has grown too high.",
+      "lead_paragraph": "WASHINGTON — Confronted with America’s worst public health crisis in generations, President Trump declared himself a wartime president. Now he has begun doing what past commanders have done when a war goes badly: Declare victory and go home.",
+      "publication_date": "2020-05-07T00:02:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/06/us/politics/trump-coronavirus-recovery.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Travel From New York City Seeded Wave of U.S. Outbreaks",
+      "snippet": "The coronavirus outbreak in New York City became the primary source of infections around the United States, researchers have found.",
+      "abstract": "The coronavirus outbreak in New York City became the primary source of infections around the United States, researchers have found.",
+      "lead_paragraph": "New York City’s coronavirus outbreak grew so large by early March that the city became the primary source of new infections in the United States, new research reveals, as thousands of infected people traveled from the city and seeded outbreaks around the country.",
+      "publication_date": "2020-05-07T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/07/us/new-york-city-coronavirus-outbreak.html",
+      "byline": "By Benedict Carey and James Glanz"
+    },
+    {
+      "headline": "Boom in Canned Food Means a Boom in Cans, Too",
+      "snippet": "With soup and vegetables flying off supermarket shelves to feed a shut-in nation, canneries are bustling — and they really need metal containers.",
+      "abstract": "With soup and vegetables flying off supermarket shelves to feed a shut-in nation, canneries are bustling — and they really need metal containers.",
+      "lead_paragraph": "The restaurants in downtown Hannibal, Mo., have been closed for weeks because of the coronavirus, but on the town’s western outskirts, its largest employer is buzzing.",
+      "publication_date": "2020-05-07T09:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/07/business/coronavirus-cans-food.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "For Workers, No Sign of ‘What Normal Is Going to Look Like’",
+      "snippet": "Initial steps to reopen businesses have yet to offset continuing job losses, with a “secondary wave” of layoffs hitting white-collar industries.",
+      "abstract": "Initial steps to reopen businesses have yet to offset continuing job losses, with a “secondary wave” of layoffs hitting white-collar industries.",
+      "lead_paragraph": "With unemployment claims surpassing 33 million since March, the nation’s near-term economic outlook hinges on whether patchwork reopenings can mend the coronavirus pandemic’s damage — and how soon.",
+      "publication_date": "2020-05-07T12:49:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/07/business/economy/coronavirus-unemployment-claims.html",
+      "byline": "By Patricia Cohen and Tiffany Hsu"
+    },
+    {
+      "headline": "Neiman Marcus, a Symbol of Luxury, Files for Bankruptcy",
+      "snippet": "The high-end retailer is not liquidating, and expects to emerge from restructuring later this year.",
+      "abstract": "The high-end retailer is not liquidating, and expects to emerge from restructuring later this year.",
+      "lead_paragraph": "In March 2019, the luxury retailer Neiman Marcus opened its first outpost in Manhattan. Spread over three floors and 188,000 square feet, the store was an anchor tenant of the gleaming Hudson Yards development and, the company’s chief executive said, a new kind of “retail theater.” It boasted in-house aestheticians, live cooking and mixology demonstrations, and fitting rooms complete with interactive touch screens.",
+      "publication_date": "2020-05-07T14:19:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/07/business/neiman-marcus-bankruptcy.html",
+      "byline": "By Vanessa Friedman and Sapna Maheshwari"
+    },
+    {
+      "headline": "Supreme Court Unanimously Overturns ‘Bridgegate’ Convictions",
+      "snippet": "The court said there was evidence of “wrongdoing” by two associates of Chris Christie, the former New Jersey governor, but no federal crime.",
+      "abstract": "The court said there was evidence of “wrongdoing” by two associates of Chris Christie, the former New Jersey governor, but no federal crime.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Thursday unanimously overturned the convictions of two defendants in the “Bridgegate” scandal that snarled traffic on the world’s busiest bridge, upended New Jersey politics and doomed the presidential aspirations of Chris Christie, the state’s governor at the time.",
+      "publication_date": "2020-05-07T14:27:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/07/us/supreme-court-bridgegate.html",
+      "byline": "By Adam Liptak and Nick Corasaniti"
+    }
+  ]
+}

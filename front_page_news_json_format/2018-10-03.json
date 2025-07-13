@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-10-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Offering Inspiration and Advice, Real Vision Is HGTV for Hedge Fund Hopefuls",
+      "snippet": "With some 20,000 devotees, a start-up financial video service sells the strategies of insiders, with a side of lifestyle television.",
+      "abstract": "With some 20,000 devotees, a start-up financial video service sells the strategies of insiders, with a side of lifestyle television.",
+      "lead_paragraph": "Kieran O’Dea rises at 5 a.m. to begin his daily routine, shuffling to his desk to eye his portfolio: a cluster of biotechnology stocks and a bet that Tesla will go bust.",
+      "publication_date": "2018-10-02T18:04:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/02/business/real-vision-hedge-fund-video.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Trump Engaged in Suspect Tax Schemes as He Reaped Riches From His Father",
+      "snippet": "The president has long sold himself as a self-made billionaire, but a Times investigation found that he received at least $413 million in today’s dollars from his father’s real estate empire, much of it through tax dodges in the 1990s.",
+      "abstract": "The president has long sold himself as a self-made billionaire, but a Times investigation found that he received at least $413 million in today’s dollars from his father’s real estate empire, much of it through tax dodges in the 1990s.",
+      "lead_paragraph": "The president has long sold himself as a self-made billionaire, but a Times investigation found that he received at least $413 million in today’s dollars from his father’s real estate empire, much of it through tax dodges in the 1990s.",
+      "publication_date": "2018-10-02T19:07:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html",
+      "byline": "By David Barstow, Susanne Craig and Russ Buettner"
+    },
+    {
+      "headline": "Facebook Hack Puts Thousands of Other Sites at Risk",
+      "snippet": "Ten years ago, the social network introduced a password system that connected it to a broad swath of the internet. Now we are seeing the downside.",
+      "abstract": "Ten years ago, the social network introduced a password system that connected it to a broad swath of the internet. Now we are seeing the downside.",
+      "lead_paragraph": "SAN FRANCISCO — When Mark Zuckerberg introduced an online tool called Facebook Connect in 2008, he hailed it as a kind of digital passport to the rest of the internet. In just a few clicks, users would be able to log in to other apps and sites with their Facebook passwords.",
+      "publication_date": "2018-10-02T23:01:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/02/technology/facebook-hack-other-sites.html",
+      "byline": "By Mike Isaac and Kate Conger"
+    },
+    {
+      "headline": "Elon Musk’s Ultimatum to Tesla: Fight the S.E.C., or I Quit",
+      "snippet": "Tesla’s board caved to the company co-founder’s demand, according to people familiar with the board’s decision. Two days later, the company and Mr. Musk settled with regulators.",
+      "abstract": "Tesla’s board caved to the company co-founder’s demand, according to people familiar with the board’s decision. Two days later, the company and Mr. Musk settled with regulators.",
+      "lead_paragraph": "Securities and Exchange Commission officials were understandably taken aback on Thursday morning when Tesla’s board — and its chairman, Elon Musk — abruptly pulled out of a carefully crafted settlement.",
+      "publication_date": "2018-10-02T23:10:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/02/business/tesla-elon-musk-sec.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "‘Better to Drown’: A Greek Refugee Camp’s Epidemic of Misery",
+      "snippet": "Trauma, psychosis and suicide attempts have become common occurrences at Moria, a Greek island camp, where aid groups warn of a mental health crisis.",
+      "abstract": "Trauma, psychosis and suicide attempts have become common occurrences at Moria, a Greek island camp, where aid groups warn of a mental health crisis.",
+      "lead_paragraph": "MORIA, Greece — He survived torture in Congo, and a perilous boat journey from Turkey. But Michael Tamba, a former Congolese political prisoner, came closest to death only after he had supposedly found sanctuary at Europe’s biggest refugee camp.",
+      "publication_date": "2018-10-03T02:30:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/02/world/europe/greece-lesbos-moria-refugees.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "Marks & Spencer Is Struggling. Can Knickers, Candy and Colin the Caterpillar Cakes Save It?",
+      "snippet": "The British icon has played a crucial role in the daily lives of millions for more than 100 years, but financial problems and store closings have made its future uncertain.",
+      "abstract": "The British icon has played a crucial role in the daily lives of millions for more than 100 years, but financial problems and store closings have made its future uncertain.",
+      "lead_paragraph": "STOCKTON-ON-TEES, England — This once-booming County Durham market town in the northeast corner of England has something of a grand past. Known for a time as the Queen of the North, Stockton was the departure point in 1825 for the world’s first public passenger railway.",
+      "publication_date": "2018-10-03T03:45:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/02/business/marks-spencer-faded-glory.html",
+      "byline": "By Elizabeth Paton"
+    }
+  ]
+}

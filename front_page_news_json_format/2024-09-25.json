@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-09-25",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "U.S. Accuses Visa of Monopoly in Debit Cards",
+      "snippet": "The financial giant, which processes the majority of debit card spending in the United States, unfairly imposed fees on merchants and deterred rivals, the Justice Department said.",
+      "abstract": "The financial giant, which processes the majority of debit card spending in the United States, unfairly imposed fees on merchants and deterred rivals, the Justice Department said.",
+      "lead_paragraph": "The Justice Department filed an antitrust lawsuit against Visa on Tuesday, accusing the financial giant of unfairly stifling competition in debit cards, the latest in a string of cases aimed at deterring monopolistic behavior by big companies.",
+      "publication_date": "2024-09-24T18:30:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/24/business/dealbook/visa-antitrust-lawsuit-debit-cards.html",
+      "byline": "By Lauren Hirsch and Danielle Kaye"
+    },
+    {
+      "headline": "Behind Kamala Harris’s Rise: Silicon Valley’s Wealthiest Woman",
+      "snippet": "The alliance between Kamala Harris and Laurene Powell Jobs is a genuine friendship that has thrust the press-shy billionaire philanthropist into the political spotlight.",
+      "abstract": "The alliance between Kamala Harris and Laurene Powell Jobs is a genuine friendship that has thrust the press-shy billionaire philanthropist into the political spotlight.",
+      "lead_paragraph": "After Vice President Joe Biden swore in Kamala Harris as a United States senator in January 2017, they posed for a customary photo in the Capitol with her family. Then she asked her future boss for a favor: Would he indulge in one more photo?",
+      "publication_date": "2024-09-24T19:36:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/24/us/politics/kamala-harris-laurene-powell-jobs.html",
+      "byline": "By Theodore Schleifer"
+    },
+    {
+      "headline": "As U.N. Meets, Israel Pounds Targets in Lebanon, Sending Civilians Fleeing",
+      "snippet": "Israel said it was striking Hezbollah targets with “high intensity” to keep the campaign as short as possible, as the Lebanese militants maintained their own cross-border barrage.",
+      "abstract": "Israel said it was striking Hezbollah targets with “high intensity” to keep the campaign as short as possible, as the Lebanese militants maintained their own cross-border barrage.",
+      "lead_paragraph": "Thousands fled their homes on Tuesday as Israeli warplanes pounded more Hezbollah targets in Lebanon, in an offensive that has plunged the country into uncertainty over what Israel will do next and how the militant group might respond.",
+      "publication_date": "2024-09-24T22:01:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/24/world/middleeast/israel-hezbollah-lebanon.html",
+      "byline": "By Euan Ward, Ben Hubbard, Aaron Boxerman and Michael Levenson"
+    },
+    {
+      "headline": "News Outlets Brace for Chaos on Election Night (and Perhaps Beyond)",
+      "snippet": "Here’s how they’re preparing to make calls in a very tight race — and ensure that viewers and readers believe them.",
+      "abstract": "Here’s how they’re preparing to make calls in a very tight race — and ensure that viewers and readers believe them.",
+      "lead_paragraph": "The data nerd of NBC News, Steve Kornacki, is preparing to sleep at his desk in 30 Rockefeller Plaza — for days on end, if need be. CNN is adding to its bench of legal experts in case of disputed counts in swing states.",
+      "publication_date": "2024-09-25T09:01:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/25/business/media/election-day-fox-cnn-ap.html",
+      "byline": "By Benjamin Mullin and Michael M. Grynbaum"
+    },
+    {
+      "headline": "Kushner’s Fund Has Reaped Millions in Fees, but So Far Returned No Profits",
+      "snippet": "The son-in-law of former President Donald J. Trump has said he has intentionally moved slowly to invest investors’ money, which came primarily from foreign entities.",
+      "abstract": "The son-in-law of former President Donald J. Trump has said he has intentionally moved slowly to invest investors’ money, which came primarily from foreign entities.",
+      "lead_paragraph": "The private equity firm run by Jared Kushner, the son-in-law of former President Donald J. Trump, has been paid at least $112 million in fees since 2021 by Saudi Arabia and other foreign investors, even though as of July it had not yet returned any profits to the governments largely bankrolling the firm.",
+      "publication_date": "2024-09-25T09:04:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/09/25/us/politics/kushner-private-equity-saudi-arabia.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "Behind OpenAI’s Audacious Plan to Make A.I. Flow Like Electricity",
+      "snippet": "Sam Altman, OpenAI’s chief executive, is talking to the United Arab Emirates, Asian chipmakers and U.S. officials to expand the computing power needed to build artificial intelligence.",
+      "abstract": "Sam Altman, OpenAI’s chief executive, is talking to the United Arab Emirates, Asian chipmakers and U.S. officials to expand the computing power needed to build artificial intelligence.",
+      "lead_paragraph": "Late last year, Sam Altman, the chief executive of OpenAI, started pitching an audacious plan that he hoped would create the computing power his company needed to build more powerful artificial intelligence.",
+      "publication_date": "2024-09-25T15:48:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html",
+      "byline": "By Cade Metz and Tripp Mickle"
+    }
+  ]
+}

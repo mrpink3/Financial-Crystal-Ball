@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-08-27",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "How Telegram’s Founder Went From Russia’s Mark Zuckerberg to Wanted Man",
+      "snippet": "Pavel Durov’s anti-establishment streak helped him create one of the world’s biggest online platforms, which emphasizes free speech. It also put a target on his back.",
+      "abstract": "Pavel Durov’s anti-establishment streak helped him create one of the world’s biggest online platforms, which emphasizes free speech. It also put a target on his back.",
+      "lead_paragraph": "More than a decade ago, when Russia pushed Pavel Durov to shut down the pages of opposition politicians on a Facebook-like site he had created, the tech entrepreneur responded online by posting a cheeky picture of a hoodie-wearing dog with its tongue out.",
+      "publication_date": "2024-08-26T18:46:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/26/technology/pavel-durov-telegram-founder.html",
+      "byline": "By Paul Mozur and Adam Satariano"
+    },
+    {
+      "headline": "How a Federal Court in New Orleans Is Driving the Conservative Agenda",
+      "snippet": "Today, the U.S. Fifth Circuit Court of Appeals is an outlier. But a Trump victory in November could transform it into the standard-bearer of MAGA-era jurisprudence.",
+      "abstract": "Today, the U.S. Fifth Circuit Court of Appeals is an outlier. But a Trump victory in November could transform it into the standard-bearer of MAGA-era jurisprudence.",
+      "lead_paragraph": "The Supreme Court term that ended this summer delivered a number of big wins for traditional conservative causes. The court made it easier to challenge federal regulations. It made it harder to prosecute former presidents. And it delivered another decision that expanded the rights of gun enthusiasts.",
+      "publication_date": "2024-08-26T21:08:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/26/us/new-orleans-appeals-court-trump.html",
+      "byline": "By Mattathias Schwartz"
+    },
+    {
+      "headline": "‘Twilight Love’: Shanghai’s Lonely and Retired Are Looking for Love",
+      "snippet": "China has the world’s largest population of people 65 or older, and more and more of them are unattached.",
+      "abstract": "China has the world’s largest population of people 65 or older, and more and more of them are unattached.",
+      "lead_paragraph": "For Shanghai’s lonely and retired, love is elusive. Divorced or widowed residents gather in a dating corner in People’s Park every weekend looking for a chat. They mill about an Ikea canteen on Tuesdays in search of some fun.",
+      "publication_date": "2024-08-27T04:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/27/business/china-seniors-dating-shanghai.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Tesla’s Rivals Still Can’t Use Its Superchargers",
+      "snippet": "Elon Musk’s plan to open Tesla’s charging network is proceeding slowly. Nobody is entirely sure why, or when that might change.",
+      "abstract": "Elon Musk’s plan to open Tesla’s charging network is proceeding slowly. Nobody is entirely sure why, or when that might change.",
+      "lead_paragraph": "Scarce and finicky public chargers are among the biggest reasons people hesitate to buy electric cars. So when Elon Musk, the chief executive of Tesla, agreed last year to open the company’s well-regarded Supercharger network to vehicles from other carmakers, many drivers and industry experts celebrated the decision.",
+      "publication_date": "2024-08-27T09:04:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/27/business/energy-environment/tesla-electric-vehicle-charging.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Telegram’s Loudest Defender: The Global Crypto Industry",
+      "snippet": "When the messaging app’s founder, Pavel Durov, was arrested, he received a flood of support from a multitrillion-dollar industry that relies on it.",
+      "abstract": "When the messaging app’s founder, Pavel Durov, was arrested, he received a flood of support from a multitrillion-dollar industry that relies on it.",
+      "lead_paragraph": "Shortly after Pavel Durov, the founder of the messaging app Telegram, was arrested in France on Saturday, the chief executive of the cryptocurrency company Tether called the situation “very concerning.” Crypto enthusiasts pledged to support Mr. Durov, posting the hashtag #FreeDurov. Others investors declared that the arrest was an assault on free speech.",
+      "publication_date": "2024-08-27T15:22:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "What Across-the-Board Tariffs Could Mean for the Global Economy",
+      "snippet": "Donald J. Trump, the Republican presidential nominee, has floated the idea of a 10 percent tariff on all U.S. imports, a plan that economists say could badly damage trade.",
+      "abstract": "Donald J. Trump, the Republican presidential nominee, has floated the idea of a 10 percent tariff on all U.S. imports, a plan that economists say could badly damage trade.",
+      "lead_paragraph": "Former President Donald J. Trump blames the global trading system for inflicting a long list of ills on the American economy including lost jobs, closed foreign markets and an overvalued dollar.",
+      "publication_date": "2024-08-27T15:35:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/27/business/trump-tariffs-us-trade.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

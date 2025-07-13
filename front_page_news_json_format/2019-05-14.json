@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-05-14",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "The Fusion Reactor Next Door",
+      "snippet": "Entrepreneurs are taking up the search for a near limitless energy source and seeking investors willing to put money behind a long-shot bet against climate change.",
+      "abstract": "Entrepreneurs are taking up the search for a near limitless energy source and seeking investors willing to put money behind a long-shot bet against climate change.",
+      "lead_paragraph": "YARNTON, England — On a Friday afternoon, a small group of scientists gathered in front of a bank of computer screens near a Ping-Pong table in a warehouse close to Britain’s Oxford University. Scattered conversations and laughter hushed as a siren started blaring. ",
+      "publication_date": "2019-05-13T21:29:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/13/business/fusion-energy-climate-change.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "White House Reviews Military Plans Against Iran, in Echoes of Iraq War",
+      "snippet": "The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John R. Bolton, the national security adviser.",
+      "abstract": "The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John R. Bolton, the national security adviser.",
+      "lead_paragraph": "WASHINGTON — At a meeting of President Trump’s top national security aides last Thursday, Acting Defense Secretary Patrick Shanahan presented an updated military plan that envisions sending as many as 120,000 troops to the Middle East should Iran attack American forces or accelerate work on nuclear weapons, administration officials said.",
+      "publication_date": "2019-05-13T23:44:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/13/world/middleeast/us-military-plans-iran.html",
+      "byline": "By Eric Schmitt and Julian E. Barnes"
+    },
+    {
+      "headline": "WhatsApp Rushes to Fix Security Flaw Exposed in Hacking of Lawyer’s Phone",
+      "snippet": "Researchers said the NSO Group had found a vulnerability, which was disclosed Monday, that was used to target the iPhone of a human-rights lawyer in London and perhaps others.",
+      "abstract": "Researchers said the NSO Group had found a vulnerability, which was disclosed Monday, that was used to target the iPhone of a human-rights lawyer in London and perhaps others.",
+      "lead_paragraph": "SAN FRANCISCO — An Israeli firm accused of supplying tools for spying on human-rights activists and journalists now faces claims that its technology can use a security hole in WhatsApp, the messaging app used by 1.5 billion people, to break into the digital communications of iPhone and Android phone users.",
+      "publication_date": "2019-05-14T01:59:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/13/technology/nso-group-whatsapp-spying.html",
+      "byline": "By Nicole Perlroth and Ronen Bergman"
+    },
+    {
+      "headline": "Modi Cut India’s Red Tape. Now He Hopes to Win Votes for His Work.",
+      "snippet": "Taxes are simpler, and bureaucracy has been trimmed. Prime Minister Modi wants a second term to prove that India is open for business.",
+      "abstract": "Taxes are simpler, and bureaucracy has been trimmed. Prime Minister Modi wants a second term to prove that India is open for business.",
+      "lead_paragraph": "MUMBAI, India — A jeans maker saw his delivery costs cut by half when the highway police stopped asking for bribes. An aluminum wire factory faced only three inspectors rather than 12 to keep its licenses. Big companies like Corning, the American fiber-optic cable business, found they could wield a new bankruptcy law to demand that customers pay overdue bills. ",
+      "publication_date": "2019-05-14T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/14/business/india-modi-business-red-tape.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "A Friend to Israel, and to Bigots: Viktor Orban’s ‘Double Game’ on Anti-Semitism",
+      "snippet": "Hungary’s leader has backed Jewish institutions and causes, and befriended Prime Minister Benjamin Netanyahu of Israel — while making use of anti-Semitic tropes.",
+      "abstract": "Hungary’s leader has backed Jewish institutions and causes, and befriended Prime Minister Benjamin Netanyahu of Israel — while making use of anti-Semitic tropes.",
+      "lead_paragraph": "BUDAPEST — In late November, the office of Hungary’s far-right prime minister, Viktor Orban, announced it would donate $3.4 million to causes fighting anti-Semitism in Europe.",
+      "publication_date": "2019-05-14T13:56:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/14/world/europe/orban-hungary-antisemitism.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "Attention, Amazon Shoppers: Google Wants Some of Your Spending Money",
+      "snippet": "Amazon wants to sell ads. Google wants to woo shoppers. Their ambitions are putting the tech giants on a collision course.",
+      "abstract": "Amazon wants to sell ads. Google wants to woo shoppers. Their ambitions are putting the tech giants on a collision course.",
+      "lead_paragraph": "SAN FRANCISCO — For years, Google and Amazon stuck to their strengths. Google’s search monopoly and universe of online services seemed to present little overlap with Amazon’s web commerce empire.",
+      "publication_date": "2019-05-14T15:56:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/14/technology/google-shopping-amazon-rivalry.html",
+      "byline": "By Daisuke Wakabayashi and Karen Weise"
+    },
+    {
+      "headline": "In China, Some Fear the End of ‘Chimerica’",
+      "snippet": "As the trade war with the U.S. threatens to decouple the world’s two largest economies, some in China argue that the two sides benefit from the relationship more than they admit.",
+      "abstract": "As the trade war with the U.S. threatens to decouple the world’s two largest economies, some in China argue that the two sides benefit from the relationship more than they admit.",
+      "lead_paragraph": "Wu Shichun is one of countless Chinese entrepreneurs who over the past four decades have prospered from access to American customers and money. ",
+      "publication_date": "2019-05-14T15:57:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/14/business/us-china-tariffs.html",
+      "byline": "By Li Yuan"
+    }
+  ]
+}

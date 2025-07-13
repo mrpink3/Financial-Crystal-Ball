@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-01-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "10 Electric Vehicles to Watch",
+      "snippet": "Sales doubled in 2019, but the industry’s tipping point — severing ties to the gas pump — still lies ahead. These cars will help make that happen.",
+      "abstract": "Sales doubled in 2019, but the industry’s tipping point — severing ties to the gas pump — still lies ahead. These cars will help make that happen.",
+      "lead_paragraph": "This article is part of our continuing Fast Forward series, which examines technological, economic, social and cultural shifts that happen as businesses evolve.",
+      "publication_date": "2020-01-01T08:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/01/business/future-electric-cars-2020.html",
+      "byline": "By Eric A. Taub"
+    },
+    {
+      "headline": "Pro-Iranian Protesters End Siege of U.S. Embassy in Baghdad",
+      "snippet": "Iran’s ability to deploy militias to attack the American Embassy, with Iraqi support, made clear how much power it wields in Iraq.",
+      "abstract": "Iran’s ability to deploy militias to attack the American Embassy, with Iraqi support, made clear how much power it wields in Iraq.",
+      "lead_paragraph": "BAGHDAD — After a second day of tense protests at the American Embassy in Baghdad, thousands of pro-Iranian demonstrators dispersed on Wednesday, ending a siege that had trapped American diplomats in the embassy compound overnight and winding down a potentially explosive crisis for the Trump administration.",
+      "publication_date": "2020-01-01T09:25:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/01/world/middleeast/us-embassy-baghdad-iraq.html",
+      "byline": "By Falih Hassan and Alissa J. Rubin"
+    },
+    {
+      "headline": "The Tech That Will Invade Our Lives in 2020",
+      "snippet": "From smart homes to ultrafast wireless speeds, here’s what to watch.",
+      "abstract": "From smart homes to ultrafast wireless speeds, here’s what to watch.",
+      "lead_paragraph": "The 2010s made one thing clear: Tech is everywhere in life.",
+      "publication_date": "2020-01-01T10:00:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/01/technology/personaltech/tech-trends-2020.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Elizabeth Warren Isn’t Talking Much About ‘Medicare for All’ Anymore",
+      "snippet": "There are signs her campaign is seeking to calm fears about her health care proposal, including having small meetings with rural Iowa voters to explain her financing and transition plans.",
+      "abstract": "There are signs her campaign is seeking to calm fears about her health care proposal, including having small meetings with rural Iowa voters to explain her financing and transition plans.",
+      "lead_paragraph": "DES MOINES — In warm-up remarks introducing Senator Elizabeth Warren at campaign rallies, young volunteers often say they are supporting her because of her plan to transform the health care system through a single-payer “Medicare for all” program. It happened in Des Moines on Saturday and Oklahoma City last week, and in western Iowa cities like Clarinda and Council Bluffs on Sunday.",
+      "publication_date": "2020-01-01T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/01/us/politics/elizabeth-warren-medicare-for-all.html",
+      "byline": "By Astead W. Herndon"
+    },
+    {
+      "headline": "In a Homecoming Video Meant to Unite Campus, Almost Everyone Was White",
+      "snippet": "The video was created to show off the University of Wisconsin. Instead, it set off a furor, and a reckoning over what it means to be a black student on campus.",
+      "abstract": "The video was created to show off the University of Wisconsin. Instead, it set off a furor, and a reckoning over what it means to be a black student on campus.",
+      "lead_paragraph": "[Race affects our lives in countless ways. To read more provocative stories on race from The Times, sign up for our Race/Related newsletter here.]",
+      "publication_date": "2020-01-01T10:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/01/us/university-of-wisconsin-race-video.html",
+      "byline": ""
+    },
+    {
+      "headline": "China Moves to Steady Its Slowing Economic Growth",
+      "snippet": "The country’s central bank will in effect inject $115 billion into the financial system despite signs the economy has been improving.",
+      "abstract": "The country’s central bank will in effect inject $115 billion into the financial system despite signs the economy has been improving.",
+      "lead_paragraph": "HONG KONG — China on Wednesday moved to pump more cash into its financial system, suggesting that Beijing remained concerned about faltering growth despite signs that the world’s second-largest economy was stabilizing.",
+      "publication_date": "2020-01-01T10:12:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/01/business/economy/china-economy-reserve-requirement-ratio.html",
+      "byline": "By Carlos Tejada and Ben Casselman"
+    }
+  ]
+}

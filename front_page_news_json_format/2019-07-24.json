@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2019-07-24",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Jeffrey Epstein Moved Money Overseas in Transactions His Bank Flagged to U.S.",
+      "snippet": "Employees at Deutsche Bank reported potentially illicit transactions to a federal regulator. Mr. Epstein, who is charged with sex trafficking, had dozens of accounts at the bank.",
+      "abstract": "Employees at Deutsche Bank reported potentially illicit transactions to a federal regulator. Mr. Epstein, who is charged with sex trafficking, had dozens of accounts at the bank.",
+      "lead_paragraph": "As Deutsche Bank officials this year scrambled to extricate themselves from a yearslong relationship with Jeffrey Epstein, the wealthy financier charged this month with sex trafficking, they uncovered suspicious transactions in which Mr. Epstein had moved money out of the United States.",
+      "publication_date": "2019-07-23T17:44:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/23/business/jeffrey-epstein-deutsche-bank.html",
+      "byline": "By David Enrich and Jo Becker"
+    },
+    {
+      "headline": "9/11 First Responders Fund Clears Senate and Heads to Trump",
+      "snippet": "Congress gave final approval to legislation that would extend lifetime compensation to emergency workers who became ill after the attacks of Sept. 11, 2001.",
+      "abstract": "Congress gave final approval to legislation that would extend lifetime compensation to emergency workers who became ill after the attacks of Sept. 11, 2001.",
+      "lead_paragraph": "WASHINGTON — Thousands of emergency workers who rushed to the rubble of the World Trade Center after the Sept. 11 attacks will be granted health care and other compensation for the rest of their lives. The Senate on Tuesday gave final approval to legislation that would care permanently for those who have grown deathly ill from the toxins of ground zero.",
+      "publication_date": "2019-07-23T19:42:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/23/us/politics/9-11-first-responders-fund-bill.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "Justice Department Opens Antitrust Review of Big Tech Companies",
+      "snippet": "The agency said it would look into concerns about anticompetitive behavior by some of the industry’s biggest companies.",
+      "abstract": "The agency said it would look into concerns about anticompetitive behavior by some of the industry’s biggest companies.",
+      "lead_paragraph": "The federal government has turned its full investigative powers toward examining the world’s biggest technology companies, building on a backlash against the industry that has been growing for over a year.",
+      "publication_date": "2019-07-23T21:21:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/23/technology/justice-department-tech-antitrust.html",
+      "byline": "By Daisuke Wakabayashi, Katie Benner and Steve Lohr"
+    },
+    {
+      "headline": "Neil Armstrong’s Death, and a Stormy, Secret $6 Million Settlement",
+      "snippet": "The astronaut’s sons contended that incompetent medical care had cost him his life, and threatened to go public. His widow says she wanted no part of the payout.",
+      "abstract": "The astronaut’s sons contended that incompetent medical care had cost him his life, and threatened to go public. His widow says she wanted no part of the payout.",
+      "lead_paragraph": "When Neil Armstrong died in a Cincinnati hospital two weeks after undergoing heart surgery in 2012, his family released a touching tribute addressing the astronaut’s millions of admirers around the globe.",
+      "publication_date": "2019-07-23T21:47:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/23/us/neil-armstrong-wrongful-death-settlement.html",
+      "byline": "By Scott Shane and Sarah Kliff"
+    },
+    {
+      "headline": "‘We’re Full,’ Car Dealers Say as Auto Sales Slow After a Long Boom",
+      "snippet": "After seven years of strong growth, carmakers are selling fewer cars, cutting production and laying off workers as even inventories of unsold S.U.V.s rise.",
+      "abstract": "After seven years of strong growth, carmakers are selling fewer cars, cutting production and laying off workers as even inventories of unsold S.U.V.s rise.",
+      "lead_paragraph": "Over the past decade, the auto industry enjoyed a boom unlike any other in modern history.",
+      "publication_date": "2019-07-23T22:57:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/23/business/were-full-car-dealers-say-as-auto-sales-slow-after-a-long-boom.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Boris Johnson to Take Leadership of a Britain in Deep Crisis",
+      "snippet": "Promising Brexit, the new Conservative Party leader will take over with less political clout than just about any prime minister since World War II.",
+      "abstract": "Promising Brexit, the new Conservative Party leader will take over with less political clout than just about any prime minister since World War II.",
+      "lead_paragraph": "LONDON — Boris Johnson, the brash standard-bearer for a British exit from the European Union, won the contest to become the next prime minister on Tuesday, at a critical moment in his country’s history and with less political clout than just about any of its leaders since the Second World War.",
+      "publication_date": "2019-07-23T23:00:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/23/world/europe/boris-johnson-to-take-leadership-of-a-britain-in-deep-crisis.html",
+      "byline": "By David D. Kirkpatrick, Stephen Castle and Benjamin Mueller"
+    },
+    {
+      "headline": "Trump and Johnson: Allies in Disruption",
+      "snippet": "President Trump is pushing Boris Johnson, the incoming prime minister of Britain, toward a hard break with the European Union. But Mr. Johnson could be constrained.",
+      "abstract": "President Trump is pushing Boris Johnson, the incoming prime minister of Britain, toward a hard break with the European Union. But Mr. Johnson could be constrained.",
+      "lead_paragraph": "WASHINGTON — Since the start of the Trump administration, Britain has helped lead the quiet resistance to a president upending American foreign policy and straining the trans-Atlantic alliance.",
+      "publication_date": "2019-07-24T00:20:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/23/world/europe/trump-boris-johnson.html",
+      "byline": "By Edward Wong and David E. Sanger"
+    },
+    {
+      "headline": "YouTube Is a Big Business. Just How Big Is Anyone’s Guess.",
+      "snippet": "As Alphabet prepares to report quarterly earnings, investors will largely remain in the dark about one of its most important businesses.",
+      "abstract": "As Alphabet prepares to report quarterly earnings, investors will largely remain in the dark about one of its most important businesses.",
+      "lead_paragraph": "YouTube probably generates $16 billion to $25 billion in annual revenue, making the video service big enough to crack the top half of the Fortune 500.",
+      "publication_date": "2019-07-24T07:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/24/technology/youtube-financial-disclosure-google.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Boeing May Halt 737 Max Production as Economic Fallout Spreads",
+      "snippet": "The aerospace giant experienced a 35 percent drop in sales for the quarter, largely because the troubled jetliner remains grounded after two deadly crashes.",
+      "abstract": "The aerospace giant experienced a 35 percent drop in sales for the quarter, largely because the troubled jetliner remains grounded after two deadly crashes.",
+      "lead_paragraph": "Boeing said on Wednesday that it was considering halting production of the 737 Max if the grounding of its most popular plane persists, a move that could damage airlines, suppliers and even the United States economy.",
+      "publication_date": "2019-07-24T11:44:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/24/business/boeing-earnings-737-max.html",
+      "byline": "By David Gelles"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-12-03",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "1 Percent of P.P.P. Borrowers Got Over One-Quarter of the Loan Money",
+      "snippet": "Newly released data gives the most detailed accounting yet of the pandemic aid provided to 5.2 million businesses that sought forgivable loans.",
+      "abstract": "Newly released data gives the most detailed accounting yet of the pandemic aid provided to 5.2 million businesses that sought forgivable loans.",
+      "lead_paragraph": "The Paycheck Protection Program was the centerpiece of the federal government’s relief efforts to keep millions of small businesses afloat during the coronavirus pandemic. But new data shows what many had suspected all along: The money was shared unevenly, with the biggest sums going to a sliver of the companies in need.",
+      "publication_date": "2020-12-02T18:01:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/02/business/paycheck-protection-program-coronavirus.html",
+      "byline": "By Stacy Cowley and Ella Koeze"
+    },
+    {
+      "headline": "Iran Moves to Increase Uranium Enrichment and Bar Nuclear Inspectors",
+      "snippet": "Iran’s response to the assassination of its top nuclear scientist poses an early challenge to the Biden administration, and may be seen as a provocation by President Trump.",
+      "abstract": "Iran’s response to the assassination of its top nuclear scientist poses an early challenge to the Biden administration, and may be seen as a provocation by President Trump.",
+      "lead_paragraph": "Iran responded Wednesday to the assassination of its top nuclear scientist by enacting a law ordering an immediate ramping up of its enrichment of uranium to levels closer to weapons-grade fuel.",
+      "publication_date": "2020-12-02T19:33:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/02/world/middleeast/iran-nuclear-enrichment-inspectors.html",
+      "byline": "By Farnaz Fassihi and David E. Sanger"
+    },
+    {
+      "headline": "2,596 Trades in One Term: Inside Senator Perdue’s Stock Portfolio",
+      "snippet": "The Georgia Republican’s stock trades have far outpaced those of his Senate colleagues and have included a range of companies within his Senate committees’ oversight, an analysis shows.",
+      "abstract": "The Georgia Republican’s stock trades have far outpaced those of his Senate colleagues and have included a range of companies within his Senate committees’ oversight, an analysis shows.",
+      "lead_paragraph": "As a member of the Senate’s cybersecurity subcommittee, David Perdue has raised alarms that hackers from overseas pose a threat to U.S. computer networks. Citing a frightening report by a California-based company called FireEye, Mr. Perdue was among the senators who asked this spring that the National Guard prepare to protect against such data breaches.",
+      "publication_date": "2020-12-02T19:36:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/02/us/politics/david-perdue-stock-trades.html",
+      "byline": "By Stephanie Saul, Kate Kelly and Michael LaForgia"
+    },
+    {
+      "headline": "As Hospitals Fill, Travel Nurses Race to Virus Hot Spots",
+      "snippet": "Demand is rising for nurses who work on contract. It is a nomadic existence and, in a pandemic, a high-risk one. “I was totally unprepared for the reality,” one recalled.",
+      "abstract": "Demand is rising for nurses who work on contract. It is a nomadic existence and, in a pandemic, a high-risk one. “I was totally unprepared for the reality,” one recalled.",
+      "lead_paragraph": "As the coronavirus cut a devastating path around the country, Laura Liffiton, 32, found herself racing along behind.",
+      "publication_date": "2020-12-02T23:58:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/02/us/covid-travel-nurses.html",
+      "byline": "By Julie Bosman and Hilary Swift"
+    },
+    {
+      "headline": "Cyberattacks Discovered on Vaccine Distribution Operations",
+      "snippet": "IBM has found that companies and governments have been targeted by unknown attackers, prompting a warning from the Homeland Security Department.",
+      "abstract": "IBM has found that companies and governments have been targeted by unknown attackers, prompting a warning from the Homeland Security Department.",
+      "lead_paragraph": "A series of cyberattacks is underway aimed at the companies and government organizations that will be distributing coronavirus vaccines around the world, IBM’s cybersecurity division has found, though it is unclear whether the goal is to steal the technology for keeping the vaccines refrigerated in transit or to sabotage the movements.",
+      "publication_date": "2020-12-03T10:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/03/us/politics/vaccine-cyberattacks.html",
+      "byline": "By David E. Sanger and Sharon LaFraniere"
+    },
+    {
+      "headline": "Oil Refineries See Profit in Turning Kitchen Grease Into Diesel",
+      "snippet": "Struggling energy companies are increasing the production of renewable diesel, which can reduce greenhouse gas emissions.",
+      "abstract": "Struggling energy companies are increasing the production of renewable diesel, which can reduce greenhouse gas emissions.",
+      "lead_paragraph": "HOUSTON — Many businesses are betting that electric and hydrogen-powered cars and trucks will play a critical role in the fight against climate change. But some oil companies are hoping that so will smelly restaurant grease and slaughterhouse waste.",
+      "publication_date": "2020-12-03T10:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/03/business/energy-environment/oil-refineries-renewable-diesel.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "A Covid-Free Cruise Takes Planning, but the Strip Show Goes On",
+      "snippet": "Singapore allows cruises to nowhere, helping a struggling industry. That means socially distanced buffet lines, electronic monitoring and hand sanitizer at the slot machines.",
+      "abstract": "Singapore allows cruises to nowhere, helping a struggling industry. That means socially distanced buffet lines, electronic monitoring and hand sanitizer at the slot machines.",
+      "lead_paragraph": "ABOARD THE WORLD DREAM, IN THE STRAIT OF MALACCA — The drinks were virgin and the distancing was social when the Dream Boys strippers stormed the stage. Masks at poolside were mandatory. Hand sanitizer stations stood within easy reach of the slot machines.",
+      "publication_date": "2020-12-03T10:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/12/03/business/singapore-cruise-covid-19.html",
+      "byline": "By Sui-Lee Wee"
+    }
+  ]
+}

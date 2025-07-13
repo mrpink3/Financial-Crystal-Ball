@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-10-09",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "F.B.I. Says Michigan Anti-Government Group Plotted to Kidnap Gov. Gretchen Whitmer",
+      "snippet": "Authorities charged 13 men, some of whom were accused of plotting to storm the State Capitol building and planning to start a civil war.",
+      "abstract": "Authorities charged 13 men, some of whom were accused of plotting to storm the State Capitol building and planning to start a civil war.",
+      "lead_paragraph": "Storming the State Capitol. Instigating a civil war. Abducting a sitting governor ahead of the presidential election.",
+      "publication_date": "2020-10-08T16:21:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/08/us/gretchen-whitmer-michigan-militia.html",
+      "byline": "By Nicholas Bogel-Burroughs, Shaila Dewan and Kathleen Gray"
+    },
+    {
+      "headline": "‘Staggeringly High’: U.S. Jobless Claims Remained Elevated Last Week",
+      "snippet": "More than 800,000 Americans filed new applications for state unemployment benefits.",
+      "abstract": "More than 800,000 Americans filed new applications for state unemployment benefits.",
+      "lead_paragraph": "Applications for jobless benefits remained high last week, even as the collapse of stimulus talks in Washington raised fears of a new wave of layoffs.",
+      "publication_date": "2020-10-08T16:51:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/08/business/economy/unemployment-jobless-claims-coronavirus.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Harry and Meghan Get an Apology After Suing Paparazzi",
+      "snippet": "A celebrity news agency in Los Angeles also agreed to turn over photos of the couple’s young son and destroy its copies after a settlement in an invasion-of-privacy case.",
+      "abstract": "A celebrity news agency in Los Angeles also agreed to turn over photos of the couple’s young son and destroy its copies after a settlement in an invasion-of-privacy case.",
+      "lead_paragraph": "LOS ANGELES — The case of the unauthorized backyard photographs of Archie Harrison Mountbatten-Windsor has been solved. And the legal outcome, unveiled on Thursday by his parents, Prince Harry and Meghan, has left one of Hollywood’s biggest paparazzi agencies with its tail between its legs.",
+      "publication_date": "2020-10-08T17:33:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/08/business/harry-meghan-paparazzi-lawsuit.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Elliott Broidy, a Top Trump Fund-Raiser, Charged in Foreign Influence Case",
+      "snippet": "Federal authorities accused him of conspiring to violate lobbying laws in his unsuccessful efforts to resolve an investigation into the embezzlement of the Malaysian investment fund 1MDB.",
+      "abstract": "Federal authorities accused him of conspiring to violate lobbying laws in his unsuccessful efforts to resolve an investigation into the embezzlement of the Malaysian investment fund 1MDB.",
+      "lead_paragraph": "WASHINGTON — Elliott Broidy already had a record when he became a major fund-raiser for the Trump campaign in 2016. Now he has become the latest Trump ally to face criminal charges, this time accused of evading foreign lobbying laws while trying to make money off his access to the administration.",
+      "publication_date": "2020-10-08T19:20:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/08/us/politics/elliott-broidy-trump-fundraiser.html",
+      "byline": "By Kenneth P. Vogel"
+    },
+    {
+      "headline": "Inside the People of Praise, the Tight-Knit Faith Community of Amy Coney Barrett",
+      "snippet": "Even for a conservative religious community, the People of Praise is notable in how deeply embedded members are in one another’s lives.",
+      "abstract": "Even for a conservative religious community, the People of Praise is notable in how deeply embedded members are in one another’s lives.",
+      "lead_paragraph": "About 35 years ago in New Orleans, a young lawyer for Shell Oil Company received an opportunity that should have been a triumph: a prestigious transfer to the main office in Houston, and a significant raise. On paper, the promotion was a stroke of good fortune for the father of six. In reality, it was devastating. He broke the news to his wife in the driveway of their home. “This is awful,” he told her. “A move to Houston means life for our family will never be the same.”",
+      "publication_date": "2020-10-08T23:51:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/08/us/people-of-praise-amy-coney-barrett.html",
+      "byline": "By Ruth Graham and Sharon LaFraniere"
+    },
+    {
+      "headline": "Trump Lashes Out at His Cabinet With Calls to Indict Political Rivals",
+      "snippet": "The pressure on his top administration officials to take action came as President Trump bristled at the restraints of his illness.",
+      "abstract": "The pressure on his top administration officials to take action came as President Trump bristled at the restraints of his illness.",
+      "lead_paragraph": "WASHINGTON — President Trump berated his own cabinet officers on Thursday for not prosecuting or implicating his political enemies, lashing out even as he announced that he hoped to return to the campaign trail on Saturday just nine days after he tested positive for the coronavirus.",
+      "publication_date": "2020-10-09T00:50:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/08/us/politics/trump-calls-to-indict-political-rivals.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "Customers Still Like to Shop in Person, Even if They Get Only to the Curb",
+      "snippet": "Online orders have surged for retailers in the pandemic, as curbside pickup helps Americans satisfy their desire to hop in a car and drive to the store.",
+      "abstract": "Online orders have surged for retailers in the pandemic, as curbside pickup helps Americans satisfy their desire to hop in a car and drive to the store.",
+      "lead_paragraph": "When the pandemic forced Dick’s Sporting Goods to close its hundreds of stores in March, the retailer hustled to set up curbside pickup within two days. Its initial attempt, though, was just this side of a children’s lemonade stand.",
+      "publication_date": "2020-10-09T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/09/business/retailers-curbside-pickup.html",
+      "byline": "By Sapna Maheshwari and Michael Corkery"
+    },
+    {
+      "headline": "The Northeast Held the Virus in Check. Now Cases Are Inching Up Again.",
+      "snippet": "The Northeast, devastated by the coronavirus in the spring and held up as a model of infection control by summer, is now seeing early signs of a second wave.",
+      "abstract": "The Northeast, devastated by the coronavirus in the spring and held up as a model of infection control by summer, is now seeing early signs of a second wave.",
+      "lead_paragraph": "Follow our live coverage of the coronavirus pandemic here.",
+      "publication_date": "2020-10-09T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/09/us/northeast-coronavirus-cases.html",
+      "byline": "By Sarah Mervosh and Julie Bosman"
+    },
+    {
+      "headline": "Trump’s Struggles Ripple Across the Sun Belt, Endangering G.O.P. Stronghold",
+      "snippet": "President Trump is fading nationally as he alienates women, seniors and suburbanites, polls show. But private G.O.P. surveys show he is in close races in solidly red states, too.",
+      "abstract": "President Trump is fading nationally as he alienates women, seniors and suburbanites, polls show. But private G.O.P. surveys show he is in close races in solidly red states, too.",
+      "lead_paragraph": "PHOENIX — Cindy Bishop is the sort of voter who has some Republicans bracing for a wipeout next month.",
+      "publication_date": "2020-10-09T09:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/09/us/politics/trump-biden-sun-belt.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016",
+      "snippet": "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump.",
+      "abstract": "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump.",
+      "lead_paragraph": "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump.",
+      "publication_date": "2020-10-09T15:26:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html",
+      "byline": "By Susanne Craig, Mike McIntire and Russ Buettner"
+    },
+    {
+      "headline": "Twitter Will Turn Off Some Features to Fight Election Misinformation",
+      "snippet": "The platform is trying to address growing concern that falsehoods could lead to instability. Most of the changes will start on Oct. 20.",
+      "abstract": "The platform is trying to address growing concern that falsehoods could lead to instability. Most of the changes will start on Oct. 20.",
+      "lead_paragraph": "OAKLAND, Calif. — Twitter took steps on Friday to slow the way information flows on its network, even changing some of its most basic features, as alarm grows that lies and calls for violence will sweep through social media in the weeks surrounding the presidential election.",
+      "publication_date": "2020-10-09T16:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/09/technology/twitter-election-ban-features.html",
+      "byline": "By Kate Conger"
+    }
+  ]
+}

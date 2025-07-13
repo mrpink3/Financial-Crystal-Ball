@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-06-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Ransomware Disrupts Meat Plants in Latest Attack on Critical U.S. Business",
+      "snippet": "All of JBS’s beef plants in the U.S. were shuttered on Tuesday, and many of its pork and poultry plants were affected, according to a union and Facebook posts meant for employees.",
+      "abstract": "All of JBS’s beef plants in the U.S. were shuttered on Tuesday, and many of its pork and poultry plants were affected, according to a union and Facebook posts meant for employees.",
+      "lead_paragraph": "A cyberattack on the world’s largest meat processor forced the shutdown of nine beef plants in the United States on Tuesday, according to union officials, and disrupted production at poultry and pork plants. The attack could upset the nation’s meat markets and raises new questions about the vulnerability of critical American businesses.",
+      "publication_date": "2021-06-01T20:52:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/01/business/meat-plant-cyberattack-jbs.html",
+      "byline": "By Julie Creswell, Nicole Perlroth and Noam Scheiber"
+    },
+    {
+      "headline": "‘Contested, Heated Culture Wars’ Mark Ultraconservative Texas Session",
+      "snippet": "This was the session that pushed Texas further to the right, at a time when it seemed least likely to do so — as the state becomes younger, less white and less Republican.",
+      "abstract": "This was the session that pushed Texas further to the right, at a time when it seemed least likely to do so — as the state becomes younger, less white and less Republican.",
+      "lead_paragraph": "AUSTIN, Texas — It was a literal exit strategy: Texas Democrats staged a last-minute walkout on Sunday to kill an elections bill that would have restricted voting statewide. The quorum-breaking move — a decades-old maneuver favored by Democratic lawmakers — worked, in dramatic fashion.",
+      "publication_date": "2021-06-01T21:57:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/01/us/texas-republicans.html",
+      "byline": "By Edgar Sandoval, David Montgomery and Manny Fernandez"
+    },
+    {
+      "headline": "Why China’s Most-Hated Internet Company Decided to Play Nice",
+      "snippet": "Tencent’s popularity may help it avoid trouble with Beijing. But its vast power could still squelch innovation in the world’s largest online market.",
+      "abstract": "Tencent’s popularity may help it avoid trouble with Beijing. But its vast power could still squelch innovation in the world’s largest online market.",
+      "lead_paragraph": "A few months after Wang Xing founded a Groupon-like e-commerce service called Meituan, he learned that China’s biggest internet company, Tencent, had started a similar venture.",
+      "publication_date": "2021-06-02T07:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/02/technology/china-tencent-monopoly.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "For Many Workers, Change in Mask Policy Is a Nightmare",
+      "snippet": "After a shift by the C.D.C., employers withdrew mask policies that workers felt were protecting them from unvaccinated customers.",
+      "abstract": "After a shift by the C.D.C., employers withdrew mask policies that workers felt were protecting them from unvaccinated customers.",
+      "lead_paragraph": "The Kroger supermarket in Yorktown, Va., is in a county where mask wearing can be casual at best. Yet for months, the store urged patrons to cover their noses and mouths, and almost everyone complied.",
+      "publication_date": "2021-06-02T09:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/02/business/retail-workers-cdc-mask-vaccinated.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "‘Come On In, Boys’: A Wave of the Hand Sets Off Spain-Morocco Migrant Fight",
+      "snippet": "Spanish officials say Morocco increasingly sees migrants as currency for financial and political gains after it let up to 12,000 flood into a Spanish enclave in North Africa over two days.",
+      "abstract": "Spanish officials say Morocco increasingly sees migrants as currency for financial and political gains after it let up to 12,000 flood into a Spanish enclave in North Africa over two days.",
+      "lead_paragraph": "CEUTA, Spain — Daouda Faye, a 25-year-old migrant from Senegal, was elated when he heard that Moroccan border guards had suddenly started waving in undocumented migrants across the border to Ceuta, a fenced-off Spanish enclave on the North African coast.",
+      "publication_date": "2021-06-02T09:00:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/02/world/europe/spain-ceuta-migrants-morocco.html",
+      "byline": "By Nicholas Casey and José Bautista"
+    },
+    {
+      "headline": "Portugal Is Riding a Boom in Bicycles",
+      "snippet": "To meet a jump in demand, the country’s bike-making industry is building new factories, hiring workers and dealing with parts shortages.",
+      "abstract": "To meet a jump in demand, the country’s bike-making industry is building new factories, hiring workers and dealing with parts shortages.",
+      "lead_paragraph": "VOUZELA, Portugal — Inside a factory set among eucalyptus trees in the Portuguese countryside, workers carefully cut thin strips of sticky carbon fiber and press them into molds. It is slow and painstaking labor.",
+      "publication_date": "2021-06-02T09:00:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/02/world/europe/portugal-bike-boom.html",
+      "byline": "By Raphael Minder"
+    },
+    {
+      "headline": "Russian Cybercriminal Group Was Behind Meat Plant Attack, F.B.I. Says",
+      "snippet": "Meat processing plants operated by JBS, which handles a fifth of the cattle and hog slaughter in the U.S., were coming back online on Wednesday but were not all at full capacity, union officials said.",
+      "abstract": "Meat processing plants operated by JBS, which handles a fifth of the cattle and hog slaughter in the U.S., were coming back online on Wednesday but were not all at full capacity, union officials said.",
+      "lead_paragraph": "The perpetrators of a ransomware attack that shut down some operations at the world’s largest meat processor this week was a Russian-based cybercriminal group known for its attacks on prominent American companies, the F.B.I. said Wednesday.",
+      "publication_date": "2021-06-02T13:01:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/02/business/jbs-beef-cyberattack.html",
+      "byline": "By Nicole Perlroth, Noam Scheiber and Julie Creswell"
+    },
+    {
+      "headline": "A 20-Foot Sea Wall? Miami Faces the Hard Choices of Climate Change.",
+      "snippet": "A proposal to construct barriers for storm surge protection has forced South Floridians to reckon with the many environmental challenges they face.",
+      "abstract": "A proposal to construct barriers for storm surge protection has forced South Floridians to reckon with the many environmental challenges they face.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-06-02T14:30:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/02/us/miami-fl-seawall-hurricanes.html",
+      "byline": "By Patricia Mazzei"
+    }
+  ]
+}

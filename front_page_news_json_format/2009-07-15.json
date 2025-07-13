@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2009-07-15",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Afghan War’s Buried Bombs Put Risk in Every Step",
+      "snippet": "The insurgency’s improvised explosive devices are becoming more common and sophisticated each week.",
+      "abstract": "The insurgency’s improvised explosive devices are becoming more common and sophisticated each week.",
+      "lead_paragraph": "FORWARD OPERATING BASE ALTIMUR, Afghanistan  The call came just after dinner: a pickup truck carrying Afghan national police officers had hit a buried bomb, and all five officers inside were dead. ",
+      "publication_date": "2009-07-14T20:19:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/07/15/world/asia/15ied.html",
+      "byline": "By James Dao"
+    },
+    {
+      "headline": "Intel’s Results Give Hope to Industry",
+      "snippet": "The chip company reported second-quarter sales of $8 billion, which analysts say indicate how well the overall computer industry is doing.",
+      "abstract": "The chip company reported second-quarter sales of $8 billion, which analysts say indicate how well the overall computer industry is doing.",
+      "lead_paragraph": " The darkest time in the personal computer industry’s history may have ended.",
+      "publication_date": "2009-07-14T20:30:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/07/15/technology/companies/15chip.html",
+      "byline": "By Ashlee Vance"
+    },
+    {
+      "headline": "Part-Time Workers Mask Unemployment Woes",
+      "snippet": "In California and other states, one out of every five people who would like to be working full time is not doing so.",
+      "abstract": "In California and other states, one out of every five people who would like to be working full time is not doing so.",
+      "lead_paragraph": "In California and a handful of other states, one out of every five people who would like to be working full time is not now doing so.",
+      "publication_date": "2009-07-15T00:37:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/07/15/business/economy/15leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Calpers Sues Over Ratings of Securities",
+      "snippet": "The public pension fund has filed suit in California in connection with $1 billion in losses that it says were caused by “wildly inaccurate” credit ratings from the three leading ratings agencies.",
+      "abstract": "The public pension fund has filed suit in California in connection with $1 billion in losses that it says were caused by “wildly inaccurate” credit ratings from the three leading ratings agencies.",
+      "lead_paragraph": "SACRAMENTO  The nation’s largest public pension fund has filed suit in California state court in connection with $1 billion in losses that it says were caused by “wildly inaccurate” credit ratings from the three leading ratings agencies. ",
+      "publication_date": "2009-07-15T01:28:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/07/15/business/15calpers.html",
+      "byline": "By Leslie Wayne"
+    },
+    {
+      "headline": "To Shrink a U.S. Car, Chrysler Goes to Poland",
+      "snippet": "Engineers from Chrysler, looking for guidance, have been visiting a Fiat plant in Poland that is churning out autos and profits.",
+      "abstract": "Engineers from Chrysler, looking for guidance, have been visiting a Fiat plant in Poland that is churning out autos and profits.",
+      "lead_paragraph": "TYCHY, Poland  For decades, automakers looking for the secret to small-car success would journey to Toyota City in Japan. These days, they are coming to Tychy.",
+      "publication_date": "2009-07-15T01:31:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/07/15/business/global/15fiat.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Germany Has Been Slow to Fix Its Banks",
+      "snippet": "Companies want to be prepared when the global economy rebounds, but say lenders are squeezing them on credit.",
+      "abstract": "Companies want to be prepared when the global economy rebounds, but say lenders are squeezing them on credit.",
+      "lead_paragraph": "FRANKFURT  Farhad Farassat, a Munich-based entrepreneur, blames fickle banks for his difficulty getting a loan. But, like many Germans, his problem may be largely political.",
+      "publication_date": "2009-07-15T01:34:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/07/15/business/global/15credit.html",
+      "byline": "By Carter Dougherty"
+    },
+    {
+      "headline": "Derivatives Are Focus of Antitrust Investigators",
+      "snippet": "Markit, a data warehouse controlled by several big banks, said it had been notified that it was the subject of an inquiry.",
+      "abstract": "Markit, a data warehouse controlled by several big banks, said it had been notified that it was the subject of an inquiry.",
+      "lead_paragraph": "The Justice Department is investigating the role of several major companies in the credit markets, in another indication that the government is intensifying its scrutiny of derivatives,",
+      "publication_date": "2009-07-15T01:36:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/07/15/business/15cds.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "Mortgages Are Now a Bank’s Best Friend",
+      "snippet": "Mortgages have switched from a bane to a boon for banks in the second quarter because of a refinancing wave.",
+      "abstract": "Mortgages have switched from a bane to a boon for banks in the second quarter because of a refinancing wave.",
+      "lead_paragraph": "For the last two years, housing has been at the center of the banking industry’s troubles. But for at least one quarter, it will help lift its results. ",
+      "publication_date": "2009-07-15T01:55:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/07/15/business/15bank.html",
+      "byline": "By Eric Dash"
+    }
+  ]
+}

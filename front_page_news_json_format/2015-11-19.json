@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2015-11-19",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Fed Minutes Signal Readiness for December Rate Increase",
+      "snippet": "Policy makers said the economy seemed healthy enough to move away from historically low interest rates, barring “unanticipated shocks.”",
+      "abstract": "Policy makers said the economy seemed healthy enough to move away from historically low interest rates, barring “unanticipated shocks.”",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve, setting aside its habitual reticence, is issuing increasingly explicit warnings that it is likely to start raising its benchmark interest rate in December.",
+      "publication_date": "2015-11-18T19:09:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/19/business/economy/fed-minutes-interest-rate-increase.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "With TV Viewing Changing, Networks Take Longer to Drop Shows",
+      "snippet": "In an industry where hits are in short supply, executives are becoming extra cautious about canceling a show too soon.",
+      "abstract": "In an industry where hits are in short supply, executives are becoming extra cautious about canceling a show too soon.",
+      "lead_paragraph": "Last Friday, something happened in network television that’s almost unheard-of these days: A show got canceled.",
+      "publication_date": "2015-11-18T19:17:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/19/business/media/with-tv-viewing-changing-networks-take-longer-to-drop-shows.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "For France, an Alliance Against ISIS May Be Easier Said Than Done",
+      "snippet": "The United States and Russia have been drawn together against ISIS by the Paris attacks, but disagreements between them remain.",
+      "abstract": "The United States and Russia have been drawn together against ISIS by the Paris attacks, but disagreements between them remain.",
+      "lead_paragraph": "PARIS — By attacking civilian targets well beyond its territory, the Islamic State has seemingly accomplished what diplomats had failed to do. Suddenly, the international order has been scrambled, drawing the United States, Russia and France together in a possible alliance against the terrorist group.",
+      "publication_date": "2015-11-18T20:19:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/19/world/europe/for-france-an-alliance-against-isis-may-be-easier-said-than-done.html",
+      "byline": "By Steven Erlanger and Peter Baker"
+    },
+    {
+      "headline": "For Its I.P.O., Square Scales Back Valuation by $3 Billion",
+      "snippet": "The price of $9 a share is below the marketed range, a sign that the party for Silicon Valley may be soon coming to an end.",
+      "abstract": "The price of $9 a share is below the marketed range, a sign that the party for Silicon Valley may be soon coming to an end.",
+      "lead_paragraph": "The long-running gold rush into hot technology start-ups showed signs of faltering on Wednesday, as a much-anticipated market debut had to scale back its ambitions.",
+      "publication_date": "2015-11-19T01:07:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/19/business/dealbook/square-match-ipo-pricing.html",
+      "byline": "By Leslie Picker and Mike Isaac"
+    },
+    {
+      "headline": "Fantasy Sports Inquiry Puts Spotlight on a Success for Yahoo",
+      "snippet": "Yahoo, one of the leading sites for sports fans, has found success with its streams of N.F.L. games, but its push into fantasy sports has drawn scrutiny from regulators.",
+      "abstract": "Yahoo, one of the leading sites for sports fans, has found success with its streams of N.F.L. games, but its push into fantasy sports has drawn scrutiny from regulators.",
+      "lead_paragraph": "SAN FRANCISCO — Yahoo has long been a top online destination for sports fans, and this year, it made two big bets to expand that audience: its multimillion-dollar deal to webcast a National Football League game and its July entrance into the world of daily fantasy sports contests.",
+      "publication_date": "2015-11-19T01:39:49+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/11/19/technology/yahoo-faces-an-inquiry-on-fantasy-sports-push.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "One Slogan, Many Methods: Black Lives Matter Enters Politics",
+      "snippet": "Black Lives Matter has become an Internet-driven civil rights movement. Today, a number of groups under that banner are trying to influence politics nationwide in a variety of ways.",
+      "abstract": "Black Lives Matter has become an Internet-driven civil rights movement. Today, a number of groups under that banner are trying to influence politics nationwide in a variety of ways.",
+      "lead_paragraph": "When the Democratic National Committee recently rejected adding a presidential debate focusing exclusively on issues affecting black people, it got divergent responses from two groups widely associated with the Black Lives Matter movement.",
+      "publication_date": "2015-11-19T02:28:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/19/us/one-slogan-many-methods-black-lives-matter-enters-politics.html",
+      "byline": "By John Eligon"
+    },
+    {
+      "headline": "Paris Attacks Suspect Killed in Shootout Had Plotted Terror for 11 Months",
+      "snippet": "Abdelhamid Abaaoud is believed to have organized a string of attacks that made him the most talked-about — and, in jihadist circles, feted — terrorist since Osama bin Laden.",
+      "abstract": "Abdelhamid Abaaoud is believed to have organized a string of attacks that made him the most talked-about — and, in jihadist circles, feted — terrorist since Osama bin Laden.",
+      "lead_paragraph": "VERVIERS, Belgium — Black smudges and faded traces of gunfire on a red brick rowhouse here in eastern Belgium mark the death foretold of Abdelhamid Abaaoud. It is the spot where, 11 months before the announcement on Thursday that he had been killed outside Paris, he began plotting an elaborate campaign of terror across Europe.",
+      "publication_date": "2015-11-19T10:28:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/20/world/europe/paris-attacks.html",
+      "byline": "By Andrew Higgins and Kimiko de Freytas-Tamura"
+    },
+    {
+      "headline": "Genetically Engineered Salmon Approved for Consumption",
+      "snippet": "The F.D.A. approval clears the way for the first genetically altered animal to enter the American food supply, despite strong opposition.",
+      "abstract": "The F.D.A. approval clears the way for the first genetically altered animal to enter the American food supply, despite strong opposition.",
+      "lead_paragraph": "Federal regulators on Thursday approved a genetically engineered salmon as fit for consumption, making it the first genetically altered animal to be cleared for American supermarkets and dinner tables.",
+      "publication_date": "2015-11-19T14:18:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/11/20/business/genetically-engineered-salmon-approved-for-consumption.html",
+      "byline": "By Andrew Pollack"
+    }
+  ]
+}

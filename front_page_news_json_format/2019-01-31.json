@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-01-31",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Foxconn Reconsidering Plans for a Wisconsin Factory Heralded by Trump",
+      "snippet": "The Taiwanese company’s intent to build a $10 billion plant with 13,000 jobs was hailed by President Trump. It now sees a shift toward research.",
+      "abstract": "The Taiwanese company’s intent to build a $10 billion plant with 13,000 jobs was hailed by President Trump. It now sees a shift toward research.",
+      "lead_paragraph": "It was heralded a year and a half ago as the start of a Midwestern manufacturing renaissance: Foxconn, the Taiwanese electronics behemoth, would build a $10 billion Wisconsin plant to make flat-screen televisions, creating 13,000 jobs. President Trump later called the project “the eighth wonder of the world.”",
+      "publication_date": "2019-01-30T17:50:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/30/business/foxconn-factory-wisconsin.html",
+      "byline": "By Natalie Kitroeff, Patricia Cohen and Monica Davey"
+    },
+    {
+      "headline": "‘Quantitative Tightening’: the Hot Topic in Markets Right Now",
+      "snippet": "It’s not China. It’s not the shutdown’s aftermath. The latest obsession of investors is the Fed’s plan to reduce the stockpile of bonds it bought during and after the Great Recession.",
+      "abstract": "It’s not China. It’s not the shutdown’s aftermath. The latest obsession of investors is the Fed’s plan to reduce the stockpile of bonds it bought during and after the Great Recession.",
+      "lead_paragraph": "Anyone paying attention to financial markets in recent months knew that the Federal Reserve’s management of the economy was perhaps the single most important question on the minds of investors.",
+      "publication_date": "2019-01-31T00:01:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/30/business/fed-quantitative-tightening.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Maduro Turns to Special Police Force to Crush Dissent",
+      "snippet": "Facing the biggest challenge yet to his rule, President Nicolás Maduro of Venezuela has called on a special police force to serve as enforcers where he once relied on the military.",
+      "abstract": "Facing the biggest challenge yet to his rule, President Nicolás Maduro of Venezuela has called on a special police force to serve as enforcers where he once relied on the military.",
+      "lead_paragraph": "CARACAS, Venezuela — The agents barged into the home of Yonaiker Ordóñez, 18, on Sunday morning as he slept. Dressed in helmets and carrying rifles, the men grabbed the teenager and forced him to another room without explaining why they came, his family said.",
+      "publication_date": "2019-01-31T00:06:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/30/world/americas/venezuela-maduro-protests-faes.html",
+      "byline": "By Ana Vanessa Herrero and Nicholas Casey"
+    },
+    {
+      "headline": "Maybe Only Tim Cook Can Fix Facebook’s Privacy Problem",
+      "snippet": "The cold war between Facebook and Apple over data use and privacy is heating up. How far should Mr. Cook take it?",
+      "abstract": "The cold war between Facebook and Apple over data use and privacy is heating up. How far should Mr. Cook take it?",
+      "lead_paragraph": "It’s nowhere in his job description, but Tim Cook, Apple’s chief executive, has recently taken a moonlight gig as Facebook’s privacy watchdog.",
+      "publication_date": "2019-01-31T00:50:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/30/technology/facebook-privacy-apple-tim-cook.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "An Angry Trump Pushes Back Against His Own ‘Naive’ Intelligence Officials",
+      "snippet": "The president treated the Worldwide Threat Assessment presented the day before as a scorecard on his foreign policy and something close to an affront.",
+      "abstract": "The president treated the Worldwide Threat Assessment presented the day before as a scorecard on his foreign policy and something close to an affront.",
+      "lead_paragraph": "WASHINGTON — President Trump lashed out at the nation’s intelligence agencies on Wednesday, accusing them of being “passive and naive” about the dangers posed by Iran, and defending his handling of Afghanistan, North Korea and the Islamic State.",
+      "publication_date": "2019-01-31T02:21:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/30/us/politics/trump-intelligence-agencies.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Locast, a Free App Streaming Network TV, Would Love to Get Sued",
+      "snippet": "Want to watch the Super Bowl and other network TV for free? A start-up called Locast will let you, and (so far) the big broadcasters aren’t trying to stop it.",
+      "abstract": "Want to watch the Super Bowl and other network TV for free? A start-up called Locast will let you, and (so far) the big broadcasters aren’t trying to stop it.",
+      "lead_paragraph": "On the roof of a luxury building at the edge of Central Park, 585 feet above the concrete, a lawyer named David Goodfriend has attached a modest four-foot antenna that is a threat to the entire TV-industrial complex. ",
+      "publication_date": "2019-01-31T10:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/01/31/business/locast-streaming-free-network-tv.html",
+      "byline": "By Edmund Lee"
+    },
+    {
+      "headline": "As Chances of No-Deal Brexit Rise, British Companies Scramble to Prepare",
+      "snippet": "A lack of clarity over the terms of Britain’s looming departure from the European Union has British businesses stockpiling products and components, and delaying new investments.",
+      "abstract": "A lack of clarity over the terms of Britain’s looming departure from the European Union has British businesses stockpiling products and components, and delaying new investments.",
+      "lead_paragraph": "TELFORD, England — Filtermist, a company flush with business across Europe, is scrambling to fix a problem whose contours are maddeningly unknown. In less than 60 days, absent a sudden outbreak of amity in its domestic politics, Britain will crash out of the European Union without a deal spelling out what happens next.",
+      "publication_date": "2019-01-31T10:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/31/business/brexit-european-union.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "India’s Leader Is Accused of Hiding Unemployment Data Before Vote",
+      "snippet": "The leaked report undercut a tenet of Prime Minister Narendra Modi’s job-creation vows, and came out just months before the next election.",
+      "abstract": "The leaked report undercut a tenet of Prime Minister Narendra Modi’s job-creation vows, and came out just months before the next election.",
+      "lead_paragraph": "NEW DELHI — When voters swept Prime Minister Narendra Modi into power five years ago, it was in no small part because of his vows to create millions of jobs and vault India into an era of prosperity.",
+      "publication_date": "2019-01-31T13:56:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/31/world/asia/india-unemployment-rate.html",
+      "byline": "By Jeffrey Gettleman and Hari Kumar"
+    }
+  ]
+}

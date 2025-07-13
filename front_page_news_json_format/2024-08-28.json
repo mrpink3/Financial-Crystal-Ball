@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2024-08-28",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Mexico Pauses Relations With U.S. Embassy Amid Clash Over Judicial Overhaul",
+      "snippet": "President Andrés Manuel López Obrador’s proposed changes to the judiciary are at the center of a diplomatic fight with the United States in the last weeks of his presidency.",
+      "abstract": "President Andrés Manuel López Obrador’s proposed changes to the judiciary are at the center of a diplomatic fight with the United States in the last weeks of his presidency.",
+      "lead_paragraph": "For months, tensions have been building in Mexico over the president’s sweeping plans to overhaul the judiciary, shaking the country’s political system and straining diplomatic ties with the United States.",
+      "publication_date": "2024-08-27T16:13:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/27/world/americas/mexico-us-pause-relations.html",
+      "byline": "By Simon Romero and Emiliano Rodríguez Mega"
+    },
+    {
+      "headline": "Harris and Trump Embrace Tariffs, Though Their Approaches Differ",
+      "snippet": "Both Democrats and Republicans are expressing support for tariffs to protect American industry, reversing decades of trade thinking in Washington.",
+      "abstract": "Both Democrats and Republicans are expressing support for tariffs to protect American industry, reversing decades of trade thinking in Washington.",
+      "lead_paragraph": "When Donald J. Trump ran for president in 2016, there was not much love for tariffs in Washington. Many Republicans and Democrats believed that putting levies on imports created economic inefficiencies and that freer trade was the best recipe for growth.",
+      "publication_date": "2024-08-27T16:28:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/27/us/politics/trump-harris-tariffs.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Can Tech Executives Be Held Responsible for What Happens on Their Platforms?",
+      "snippet": "The indictment of Pavel Durov, Telegram’s founder, as part of an investigation into illicit activities on the messaging app set off worries about the personal liability of tech executives.",
+      "abstract": "The indictment of Pavel Durov, Telegram’s founder, as part of an investigation into illicit activities on the messaging app set off worries about the personal liability of tech executives.",
+      "lead_paragraph": "This month, X closed its Brazil operations after one of its executives was threatened with arrest for not taking down certain content. Last year, Changpeng Zhao, the founder of Binance, pleaded guilty to federal money-laundering violations that took place on his cryptocurrency platform. In 2021, Twitter executives in India faced arrest over posts that the government wanted removed from the site.",
+      "publication_date": "2024-08-28T04:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/28/technology/durov-telegram-liability-platforms.html",
+      "byline": "By Adam Satariano and Cecilia Kang"
+    },
+    {
+      "headline": "Africa’s Debt Crisis Has ‘Catastrophic Implications’ for the World",
+      "snippet": "Crushing obligations to foreign creditors that have few precedents have sapped numerous African nations of growth and stoked social instability.",
+      "abstract": "Crushing obligations to foreign creditors that have few precedents have sapped numerous African nations of growth and stoked social instability.",
+      "lead_paragraph": "After a new tax increase incited weeks of deadly riots in Kenya early this summer, President William Ruto announced that he was reversing course. He abandoned the finance law he had proposed, and then he shook up his cabinet.",
+      "publication_date": "2024-08-28T04:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/28/business/african-debt-crisis.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "The East Rises in Germany, and So Does Political Extremism",
+      "snippet": "Closely watched elections in the former East Germany are likely to reveal a still-divided country and yield a worrying challenge to Berlin.",
+      "abstract": "Closely watched elections in the former East Germany are likely to reveal a still-divided country and yield a worrying challenge to Berlin.",
+      "lead_paragraph": "Anna Wenske, 69, worked for decades at the national theater of East Germany, where she was born and still lives. “After the reunification, everything went kaput,” she said. She lost her job and her savings; it took her years of part-time work to reach a kind of equilibrium.",
+      "publication_date": "2024-08-28T09:04:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/28/world/europe/germany-state-elections-extremism.html",
+      "byline": "By Steven Erlanger"
+    }
+  ]
+}

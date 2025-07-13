@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-05-31",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Free Cash to Fight Income Inequality? California City Is First in U.S. to Try",
+      "snippet": "Long plagued by poverty and desperation, Stockton, Calif., is testing universal basic income as a means of improving the lives of its residents.",
+      "abstract": "Long plagued by poverty and desperation, Stockton, Calif., is testing universal basic income as a means of improving the lives of its residents.",
+      "lead_paragraph": "STOCKTON, Calif. — This town in California’s Central Valley has long functioned as a display case for wrenching troubles afflicting American life: The housing bust that turned Stockton into an epicenter of a national foreclosure disaster and plunged the city into bankruptcy. The homeless people clustered in tents along the railroad tracks. Boarded-up storefronts on cracked sidewalks. Gang violence.",
+      "publication_date": "2018-05-30T16:06:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/05/30/business/stockton-basic-income.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Trump Responds to Fury Over ‘Roseanne,’ but Not Her Racist Remarks",
+      "snippet": "President Trump acknowledged the furor over a racist Twitter post made by Roseanne Barr, but focused on the apology issued by ABC.",
+      "abstract": "President Trump acknowledged the furor over a racist Twitter post made by Roseanne Barr, but focused on the apology issued by ABC.",
+      "lead_paragraph": "WASHINGTON — It was not the racist comment that made the president angry. It was the apology from ABC.",
+      "publication_date": "2018-05-30T16:22:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/30/us/politics/roseanne-barr-trump.html",
+      "byline": "By Katie Rogers and Emily Cochrane"
+    },
+    {
+      "headline": "Bill Gross, Revered Fund Manager, Is Having a Year to Forget",
+      "snippet": "The bond fund that he runs for Janus is down sharply this year, thanks partly to recent European market turmoil. That comes on the heels of a contentious divorce.",
+      "abstract": "The bond fund that he runs for Janus is down sharply this year, thanks partly to recent European market turmoil. That comes on the heels of a contentious divorce.",
+      "lead_paragraph": "William H. Gross, one of the world’s best-known investors, is having a very bad year.",
+      "publication_date": "2018-05-30T22:53:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/30/business/bill-gross-janus-bonds.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Cambridge Analytica’s Parent Company Helped Shape Saudi Arabia’s Reform Movement",
+      "snippet": "The government of Saudi Arabia, trying to diversify its economy and open up its society, called in the SCL Group, a secretive consulting firm, to help plot the kingdom’s reform plans.",
+      "abstract": "The government of Saudi Arabia, trying to diversify its economy and open up its society, called in the SCL Group, a secretive consulting firm, to help plot the kingdom’s reform plans.",
+      "lead_paragraph": "The price of oil was in free fall and a youthful population restive.",
+      "publication_date": "2018-05-31T07:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/31/business/cambridge-analytica-scl-group-saudi-arabia.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "SoftBank Fund Puts $2.25 Billion in G.M.’s Driverless Unit",
+      "snippet": "The magnitude of the deal reflects the growing confidence that commercial use of autonomous cars is in sight, despite recent setbacks.",
+      "abstract": "The magnitude of the deal reflects the growing confidence that commercial use of autonomous cars is in sight, despite recent setbacks.",
+      "lead_paragraph": "Self-driving cars have increasingly figured in visions of the automotive future, and a big new investment is the latest signal that such a moment is close at hand.",
+      "publication_date": "2018-05-31T13:43:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/31/business/dealbook/gm-softbank-cruise.html",
+      "byline": "By Neal E. Boudette and Michael J. de la Merced"
+    },
+    {
+      "headline": "White House to Impose Metal Tariffs on E.U., Canada and Mexico",
+      "snippet": "Tariffs on imported steel and aluminum are meant to fulfill President Trump’s vows to protect American industry, but they are drawing a fierce response.",
+      "abstract": "Tariffs on imported steel and aluminum are meant to fulfill President Trump’s vows to protect American industry, but they are drawing a fierce response.",
+      "lead_paragraph": "WASHINGTON — The Trump administration said on Thursday that it would impose steep tariffs on metals imported from its closest allies, provoking retaliation against American businesses and consumers and further straining diplomatic ties tested by the president’s combative approach.",
+      "publication_date": "2018-05-31T13:44:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/31/us/politics/trump-aluminum-steel-tariffs.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Trump Wields Pardon Pen to Confront Justice System",
+      "snippet": "As he has for all of his acts of clemency since taking office, Mr. Trump bypassed the traditional system for presidential pardons.",
+      "abstract": "As he has for all of his acts of clemency since taking office, Mr. Trump bypassed the traditional system for presidential pardons.",
+      "lead_paragraph": "WASHINGTON — For more than a year, President Trump has struggled to control the United States’ law enforcement apparatus, frustrated that it remains at least partly out of his grasp. But he is increasingly turning to a tool that allows him to push back against a justice system he calls unfair.",
+      "publication_date": "2018-05-31T13:59:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/31/us/politics/dsouza-pardon.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "In the World of Cryptocurrency, Even Good Projects Can Go Bad",
+      "snippet": "Envion, a Swiss project, claimed its initial coin offering had raised $100 million for a plan to link clean energy to Bitcoin. Now investors are counting their losses.",
+      "abstract": "Envion, a Swiss project, claimed its initial coin offering had raised $100 million for a plan to link clean energy to Bitcoin. Now investors are counting their losses.",
+      "lead_paragraph": "SAN FRANCISCO — While scams proliferated in the unregulated world of virtual currencies over the last year, a company in Switzerland seemed to be among the more legitimate outfits creating its own cryptocurrency.",
+      "publication_date": "2018-05-31T15:24:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/31/technology/envion-initial-coin-offering.html",
+      "byline": "By Nathaniel Popper"
+    }
+  ]
+}

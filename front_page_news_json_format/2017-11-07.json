@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2017-11-07",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "After a Tax Crackdown, Apple Found a New Shelter for Its Profits",
+      "snippet": "The tech giant has found a tax haven in the island of Jersey, leaving billions of dollars untouched by the United States, leaked documents reveal.",
+      "abstract": "The tech giant has found a tax haven in the island of Jersey, leaving billions of dollars untouched by the United States, leaked documents reveal.",
+      "lead_paragraph": "Tim Cook was angry.",
+      "publication_date": "2017-11-06T18:00:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/06/world/apple-taxes-jersey.html",
+      "byline": "By Jesse Drucker and Simon Bowers"
+    },
+    {
+      "headline": "From Utah, Secretive Help for a Russian Oligarch and His Jet",
+      "snippet": "Records leaked from an offshore law firm show how the wealthy elite sidestep prohibitions on foreigners registering private planes in the United States.",
+      "abstract": "Records leaked from an offshore law firm show how the wealthy elite sidestep prohibitions on foreigners registering private planes in the United States.",
+      "lead_paragraph": "SALT LAKE CITY — Bank of Utah has that all-American feel. Founded in the 1950s by a veteran of both world wars, it offers affordable mortgages and savings accounts, sponsors children’s festivals and collects coats for the poor.",
+      "publication_date": "2017-11-06T18:00:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/06/world/bank-of-utah-leonid-mikhelson.html",
+      "byline": "By Mike McIntire"
+    },
+    {
+      "headline": "A.I. Researchers Leave Elon Musk Lab to Begin Robotics Start-Up",
+      "snippet": "Pieter Abbeel, a Berkeley professor, is part of the team that has started Embodied Intelligence to make it possible for robots to learn on their own.",
+      "abstract": "Pieter Abbeel, a Berkeley professor, is part of the team that has started Embodied Intelligence to make it possible for robots to learn on their own.",
+      "lead_paragraph": "EMERYVILLE, Calif. — During a recent speech at the University of California, Berkeley, Pieter Abbeel played a video clip of a robot doing housework.",
+      "publication_date": "2017-11-07T00:00:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/06/technology/artificial-intelligence-start-up.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Saudi Money Fuels the Tech Industry. It’s Time to Ask Why.",
+      "snippet": "As the world’s moneyed princes, dictators and oligarchs look for more places to park their billions, mountains of money may be coming to Silicon Valley.",
+      "abstract": "As the world’s moneyed princes, dictators and oligarchs look for more places to park their billions, mountains of money may be coming to Silicon Valley.",
+      "lead_paragraph": "We need to talk about the tsunami of questionable money crashing into the tech industry.",
+      "publication_date": "2017-11-07T00:52:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/06/technology/unsavory-sources-money-fueling-tech.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "China’s Technology Ambitions Could Upset the Global Trade Order",
+      "snippet": "China is gleaning know-how from foreign firms, willing or otherwise, to build the industries of the future, in an effort that worries companies and Washington.",
+      "abstract": "China is gleaning know-how from foreign firms, willing or otherwise, to build the industries of the future, in an effort that worries companies and Washington.",
+      "lead_paragraph": "BEIJING — When President Trump arrives in Beijing on Wednesday, he will most likely complain about traditional areas of dispute like steel and cars. But Washington officials and major global companies increasingly worry about a new generation of deals that could give China a firmer grip on the technology of tomorrow.",
+      "publication_date": "2017-11-07T15:15:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/07/business/made-in-china-technology-trade.html",
+      "byline": "By Jane Perlez, Paul Mozur and Jonathan Ansfield"
+    }
+  ]
+}

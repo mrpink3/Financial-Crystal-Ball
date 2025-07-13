@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-09-12",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Delays Planned Tariff Increase in ‘Gesture of Good Will’ to China",
+      "snippet": "President Trump said the United States would delay its next planned tariff hike on China by two weeks, potentially giving negotiators a window to avoid the increase.",
+      "abstract": "President Trump said the United States would delay its next planned tariff hike on China by two weeks, potentially giving negotiators a window to avoid the increase.",
+      "lead_paragraph": "WASHINGTON — President Trump said Wednesday night that the United States would delay its next planned tariff increase on China by two weeks, as “a gesture of good will” that may help to mend the seriously damaged ties between the world’s two biggest economies.",
+      "publication_date": "2019-09-11T17:01:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/11/us/politics/trump-counterfeit-drugs-china.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "California’s Contractor Law Stirs Confusion Beyond the Gig Economy",
+      "snippet": "After state lawmakers voted to extend minimum-wage and other protections to independent contractors, Uber said it would not treat its drivers as employees.",
+      "abstract": "After state lawmakers voted to extend minimum-wage and other protections to independent contractors, Uber said it would not treat its drivers as employees.",
+      "lead_paragraph": "SAN FRANCISCO — After months of bickering over who would be covered by a landmark bill meant to protect workers, California legislators passed legislation on Wednesday that could help hundreds of thousands of independent contractors become employees and earn a minimum wage, overtime pay and other benefits.",
+      "publication_date": "2019-09-11T20:27:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/11/business/economy/uber-california-bill.html",
+      "byline": "By Kate Conger and Noam Scheiber"
+    },
+    {
+      "headline": "Trump Wants Negative Rates. Here’s How That Would Work.",
+      "snippet": "The U.S. has never cut interest rates below zero, but such a move has been considered. There are some big hurdles.",
+      "abstract": "The U.S. has never cut interest rates below zero, but such a move has been considered. There are some big hurdles.",
+      "lead_paragraph": "WASHINGTON — The world has gone topsy-turvy. President Trump invited, and then disinvited, the Taliban to Camp David. Taylor Swift is in a long-term relationship, and Popeyes put its fried chicken on a bun. Now Mr. Trump wants the Federal Reserve to join everyone else in the upside down that is 2019. ",
+      "publication_date": "2019-09-11T21:36:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/11/business/economy/trump-fed-negative-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Supreme Court Says Trump Can Bar Asylum Seekers While Legal Fight Continues",
+      "snippet": "The policy requires many Central American migrants to seek and be denied asylum in another country before applying in the United States.",
+      "abstract": "The policy requires many Central American migrants to seek and be denied asylum in another country before applying in the United States.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Wednesday allowed the Trump administration to bar most Central American migrants from seeking asylum in the United States, while the legal fight plays out in the courts.",
+      "publication_date": "2019-09-11T22:24:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/11/us/politics/supreme-court-trump-asylum.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "How Jewish Should the Jewish State Be? The Question Shadows an Israeli Vote",
+      "snippet": "The long-simmering conflict between Israel’s secular and religious Jews takes center stage in the national election on Tuesday.",
+      "abstract": "The long-simmering conflict between Israel’s secular and religious Jews takes center stage in the national election on Tuesday.",
+      "lead_paragraph": "JERUSALEM — For years, the resentment had been building.",
+      "publication_date": "2019-09-12T09:00:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/12/world/middleeast/israeli-election-religious-secular.html",
+      "byline": "By David M. Halbfinger"
+    },
+    {
+      "headline": "E.C.B. Acts to Head Off Recession Threat in Europe, With a Caveat",
+      "snippet": "The bank announced measures to stimulate eurozone growth, but will face questions about what else it can do if the economy fails to respond.",
+      "abstract": "The bank announced measures to stimulate eurozone growth, but will face questions about what else it can do if the economy fails to respond.",
+      "lead_paragraph": "FRANKFURT — The European Central Bank took unexpectedly aggressive steps on Thursday to head off a downturn before it gained momentum, but the bank signaled that it was reaching the limits of what it could do to stimulate the eurozone economy.",
+      "publication_date": "2019-09-12T12:04:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/12/business/ecb-europe-recession-stimulus.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Inside the Military’s 5-Star Layovers at a Trump Resort in Scotland",
+      "snippet": "There is little evidence that stays by military personnel at President Trump’s resort in Scotland are part of a scheme to enrich him. But they have raised ethical and political questions.",
+      "abstract": "There is little evidence that stays by military personnel at President Trump’s resort in Scotland are part of a scheme to enrich him. But they have raised ethical and political questions.",
+      "lead_paragraph": "TURNBERRY, Scotland — The middle-aged golfers had finished their last single-malt whiskies late one night this July, and the bartenders were closing up.",
+      "publication_date": "2019-09-12T15:19:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/12/us/politics/trump-turnberry-military.html",
+      "byline": "By David D. Kirkpatrick and Eric Lipton"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-09-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Embattled Fed Nominee Celebrates Free Markets, but Not in Her Backyard",
+      "snippet": "Judy Shelton, a longtime Federal Reserve critic and gold standard fan, could soon clinch a job on the Fed board. Her views have often been inconsistent.",
+      "abstract": "Judy Shelton, a longtime Federal Reserve critic and gold standard fan, could soon clinch a job on the Fed board. Her views have often been inconsistent.",
+      "lead_paragraph": "FREDERICKSBURG, Va. — Judy Shelton has spent her career pushing for free markets and criticizing the far-reaching power of the Federal Reserve — an institution she may join as a governor and could one day lead, given the right chain of events.",
+      "publication_date": "2020-09-22T19:04:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/22/business/economy/judy-shelton-federal-reserve-inconsistencies.html",
+      "byline": "By Jeanna Smialek and Emily Cochrane"
+    },
+    {
+      "headline": "Justice Dept. Case Against Google Is Said to Focus on Search Dominance",
+      "snippet": "The decision to narrow the case to search could set off separate lawsuits from states over Google’s power in other business segments.",
+      "abstract": "The decision to narrow the case to search could set off separate lawsuits from states over Google’s power in other business segments.",
+      "lead_paragraph": "WASHINGTON — The Department of Justice’s impending lawsuit against Google has narrowed to focus on the company’s power over internet search, a decision that could set off a cascade of separate lawsuits from states in ensuing weeks over the Silicon Valley giant’s dominance in other business segments.",
+      "publication_date": "2020-09-22T21:08:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/22/technology/justice-dept-case-google-search-dominance.html",
+      "byline": "By Cecilia Kang, Katie Benner, Steve Lohr and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "How Republicans Are Trying to Use the Green Party to Their Advantage",
+      "snippet": "The G.O.P. has sought to help Green Party candidates in previous election cycles to siphon votes from Democrats. This year is no different — but it hasn’t always worked.",
+      "abstract": "The G.O.P. has sought to help Green Party candidates in previous election cycles to siphon votes from Democrats. This year is no different — but it hasn’t always worked.",
+      "lead_paragraph": "Four years ago, the Green Party candidate played a significant role in several crucial battleground states, drawing a vote total in three of them — Wisconsin, Michigan and Pennsylvania — that exceeded the margin between Donald J. Trump and Hillary Clinton.",
+      "publication_date": "2020-09-22T23:19:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/22/us/politics/green-party-republicans-hawkins.html",
+      "byline": "By Maggie Haberman, Danny Hakim and Nick Corasaniti"
+    },
+    {
+      "headline": "With Court Prize in Sight, Republicans Unite Behind Trump Once Again",
+      "snippet": "The swift rally behind President Trump’s push to fill a Supreme Court seat before the election reflects his lock on the Republican Party.",
+      "abstract": "The swift rally behind President Trump’s push to fill a Supreme Court seat before the election reflects his lock on the Republican Party.",
+      "lead_paragraph": "WASHINGTON — Senator Mitt Romney of Utah said on Tuesday that he would back President Trump’s push to fill the Supreme Court seat vacated by the death of Justice Ruth Bader Ginsburg, cementing all but monolithic Republican support six weeks before the presidential election for confirming a new justice who would tilt the court decisively to the right.",
+      "publication_date": "2020-09-22T23:47:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/22/us/politics/ruth-bader-ginsburg-republicans.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "American Suburbs Are Tilting for Biden. But Not Milwaukee’s.",
+      "snippet": "The predominantly white neighborhoods outside Wisconsin’s largest city, among the nation’s most racially segregated suburbs, could be a key part of President Trump’s narrowing path to re-election.",
+      "abstract": "The predominantly white neighborhoods outside Wisconsin’s largest city, among the nation’s most racially segregated suburbs, could be a key part of President Trump’s narrowing path to re-election.",
+      "lead_paragraph": "CEDARBURG, Wis. — When Michael Hicks and his daughter chalked “Black Lives Matter” on the pavement outside their suburban home, someone scrubbed it away within hours.",
+      "publication_date": "2020-09-23T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/23/us/politics/wisconsin-trump-biden-suburbs.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Dust Off Desks and Boot Up Terminals: Wall St. Returns, Fitfully",
+      "snippet": "New York’s finance industry is beginning to reoccupy offices in fits and starts, impeded by uncertainty around the virus.",
+      "abstract": "New York’s finance industry is beginning to reoccupy offices in fits and starts, impeded by uncertainty around the virus.",
+      "lead_paragraph": "Six months ago, New York’s financial industry abandoned its corner offices, conference rooms and trading floors almost overnight as the coronavirus raged across the city.",
+      "publication_date": "2020-09-23T09:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/23/business/wall-street-return-to-office.html",
+      "byline": "By Kate Kelly"
+    },
+    {
+      "headline": "In the Epicenter of Mexico’s Epicenter, Feeling Like a ‘Trapped Animal’",
+      "snippet": "For the vast majority of people in one teeming neighborhood of Mexico City, risking illness or death has simply become the price of survival.",
+      "abstract": "For the vast majority of people in one teeming neighborhood of Mexico City, risking illness or death has simply become the price of survival.",
+      "lead_paragraph": "IZTAPALAPA, MEXICO — The man in the vegetable stall next to Christopher Arriaga’s died first. A longtime customer was next, then another. A few days later, an elderly carrot vendor got sick and died within the week.",
+      "publication_date": "2020-09-23T09:00:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/23/world/americas/mexico-coronavirus-covid-iztapalapa.html",
+      "byline": "By Azam Ahmed and Daniel Berehulak"
+    },
+    {
+      "headline": "As China Ages, a Push to Add Elevators Offers a New Kind of Economic Relief",
+      "snippet": "China’s premier wants to retrofit three million older apartment buildings all over the country, but he still needs political buy-in at the top.",
+      "abstract": "China’s premier wants to retrofit three million older apartment buildings all over the country, but he still needs political buy-in at the top.",
+      "lead_paragraph": "GUANGZHOU, China — When China faced previous economic slowdowns, it favored pharaonic, multibillion-dollar construction projects to quickly pump money into the economy. A bullet train network that now connects 700 cities. Ultramodern expressways longer than America’s interstate highways. And 81 of the world’s 100 highest bridges.",
+      "publication_date": "2020-09-23T09:00:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/23/business/china-economy-elevators-aging.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "White House Accused of Improperly Politicizing Review of John Bolton’s Book",
+      "snippet": "The account by a former National Security Council official also implied that the Justice Department may have told a court that the book contains classified information and opened a criminal investigation based on false pretenses.",
+      "abstract": "The account by a former National Security Council official also implied that the Justice Department may have told a court that the book contains classified information and opened a criminal investigation based on false pretenses.",
+      "lead_paragraph": "WASHINGTON — White House aides improperly intervened to prevent a manuscript by President Trump’s former national security adviser John R. Bolton from becoming public, a career official said in a letter filed in court on Wednesday, accusing them of making false assertions that Mr. Bolton had revealed classified material and suggesting that they retaliated when she refused to go along.",
+      "publication_date": "2020-09-23T12:42:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/23/us/politics/john-bolton-book-review-process.html",
+      "byline": "By Michael S. Schmidt and Charlie Savage"
+    }
+  ]
+}

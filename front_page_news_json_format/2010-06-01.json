@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2010-06-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Cellphone in New Role: Loyalty Card",
+      "snippet": "Using their cellphones, consumers can track their visits and purchases and earn rewards.",
+      "abstract": "Using their cellphones, consumers can track their visits and purchases and earn rewards.",
+      "lead_paragraph": "Loyalty cards  those little paper cards that promise a free sandwich or coffee after 10 purchases, but instead get lost or forgotten  are going mobile. And merchants are looking for ways to marry the concept to games that customers can play to earn more free items and, it is hoped, spend more money. ",
+      "publication_date": "2010-06-01T00:00:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/01/technology/01loopt.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Owners Stop Paying Mortgages, and Stop Fretting",
+      "snippet": "Some overextended borrowers stop paying the mortgage and capitalize on the time that it takes to be evicted.",
+      "abstract": "Some overextended borrowers stop paying the mortgage and capitalize on the time that it takes to be evicted.",
+      "lead_paragraph": "ST. PETERSBURG, Fla.  For Alex Pemberton and Susan Reboyras, foreclosure is becoming a way of life  something they did not want but are in no hurry to get out of.",
+      "publication_date": "2010-06-01T00:55:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/01/business/01nopay.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "BP Tries Again to Divert Oil Leak With Dome",
+      "snippet": "Officials said they had resolved problems that hindered a previous attempt to use a dome to funnel oil to a tanker.",
+      "abstract": "Officials said they had resolved problems that hindered a previous attempt to use a dome to funnel oil to a tanker.",
+      "lead_paragraph": "HOUSTON  Unable for six weeks to plug the gushing oil well beneath the Gulf of Mexico, BP renewed an effort Monday to use a dome to funnel some of the leaking crude to a tanker on the surface. A similar attempt failed three weeks ago, but officials said they had resolved some of the technical problems that forced them to abort last time.",
+      "publication_date": "2010-06-01T01:06:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/01/us/01spill.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "European Central Bank’s Report Issues Warning",
+      "snippet": "Borrowing costs could rise as European banks compete with governments in the bond market.",
+      "abstract": "Borrowing costs could rise as European banks compete with governments in the bond market.",
+      "lead_paragraph": "FRANKFURT  Despite recent improvements in the health of European banks, they remain vulnerable to a daunting array of hazards that are expected to produce another round of sizable write-offs during the next couple of years, the European Central Bank said Monday, in a report that cataloged in alarming detail the problems facing the region’s financial institutions. ",
+      "publication_date": "2010-06-01T01:16:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/01/business/global/01ecb.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Chinese Honda Strike a Wake-Up Call for Japan ",
+      "snippet": "As Chinese incomes rise, China and Japan face a realignment that will alter their economic relationship.",
+      "abstract": "As Chinese incomes rise, China and Japan face a realignment that will alter their economic relationship.",
+      "lead_paragraph": "TOKYO  The strike that has crippled production at Honda Motor’s factories in China has come as a wake-up call to Japan’s flagship exporters as they seek to remain competitive and push into China’s burgeoning market with the help of low-wage workers. ",
+      "publication_date": "2010-06-01T15:23:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/02/business/global/02honda.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "U.S. Opens Criminal Inquiry Into Oil Spill",
+      "snippet": "Officials began reviewing potential violations as the crisis threatened to define the president’s second year in office.",
+      "abstract": "Officials began reviewing potential violations as the crisis threatened to define the president’s second year in office.",
+      "lead_paragraph": "WASHINGTON  The Obama administration said Tuesday that it had begun civil and criminal investigations into the massive oil spill in the Gulf of Mexico, as the deepening crisis threatened to define President Obama’s second year in office.",
+      "publication_date": "2010-06-01T15:32:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/02/us/02spill.html",
+      "byline": "By Helene Cooper and Peter Baker"
+    }
+  ]
+}

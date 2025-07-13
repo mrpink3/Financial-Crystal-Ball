@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2015-02-05",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "F.C.C. Plans Strong Hand to Regulate the Internet",
+      "snippet": "The proposal would create legal authority to ensure that no content is blocked and that the Internet is not divided into fast and slow lanes.",
+      "abstract": "The proposal would create legal authority to ensure that no content is blocked and that the Internet is not divided into fast and slow lanes.",
+      "lead_paragraph": "For the last year, Tom Wheeler, chairman of the Federal Communications Commission, has been working on new rules to ensure so-called net neutrality, or an open Internet. Over that time, his hints and comments have shown a steady shift toward stronger regulation — and a more direct confrontation with the cable television and telecommunications companies that provide high-speed Internet service to most American homes.",
+      "publication_date": "2015-02-04T16:42:56+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/05/technology/fcc-wheeler-net-neutrality.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Ukraine City at War’s Edge Clings to Arts",
+      "snippet": "Despite the fighting that continues on the city’s outskirts, the opera, the circus and the planetarium remain open for people craving entertainment.",
+      "abstract": "Despite the fighting that continues on the city’s outskirts, the opera, the circus and the planetarium remain open for people craving entertainment.",
+      "lead_paragraph": "DONETSK, Ukraine — The persistent shelling was barely audible through the thick stone walls of the Donetsk National Academic Opera and Ballet Theater. It might have been nothing more than a rickety tram bouncing along Artem Street.",
+      "publication_date": "2015-02-04T19:09:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/05/world/europe/cultural-life-goes-on-in-donetsk-war-permitting.html",
+      "byline": "By Rick Lyman"
+    },
+    {
+      "headline": "Giving Drone Industry Leeway to Innovate",
+      "snippet": "The Federal Aviation Administration is considering new rules for drones, but some say imposing broad limitations could quash the technology, moving innovation overseas.",
+      "abstract": "The Federal Aviation Administration is considering new rules for drones, but some say imposing broad limitations could quash the technology, moving innovation overseas.",
+      "lead_paragraph": "When a small drone slipped free from its operator one morning last week and flew into the Washington sky, evading radar and the best defenses of the United States Secret Service to end up a sorry wreck on the White House lawn, the incident seemed to crystallize the fear that many harbor about a future dominated by aerial machines.",
+      "publication_date": "2015-02-04T19:21:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/05/technology/personaltech/giving-the-drone-industry-the-leeway-to-innovate.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "As Greece Rebels, the Notion of Debt Forgiveness Returns",
+      "snippet": "With Europe grappling with staggeringly high unemployment and stubbornly low growth, showing some mercy on debt may yet gain ground.",
+      "abstract": "With Europe grappling with staggeringly high unemployment and stubbornly low growth, showing some mercy on debt may yet gain ground.",
+      "lead_paragraph": "Europe’s most powerful policy makers dismiss the idea, investors fear it, and it would almost certainly face fierce resistance from within the Continent’s richer countries.",
+      "publication_date": "2015-02-05T02:14:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2015/02/04/as-greece-rebels-the-notion-of-debt-forgiveness-returns/",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Claims Against Saudis Cast New Light on Secret Pages of 9/11 Report",
+      "snippet": "Accusations by the former Qaeda operative Zacarias Moussaoui have fueled calls for President Obama to declassify a section of the 2002 report.",
+      "abstract": "Accusations by the former Qaeda operative Zacarias Moussaoui have fueled calls for President Obama to declassify a section of the 2002 report.",
+      "lead_paragraph": "WASHINGTON — A still-classified section of the investigation by congressional intelligence committees into the Sept. 11, 2001, attacks has taken on an almost mythic quality over the past 13 years — 28 pages that examine crucial support given the hijackers and that by all accounts implicate prominent Saudis in financing terrorism.",
+      "publication_date": "2015-02-05T04:39:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/05/us/claims-against-saudis-cast-new-light-on-secret-pages-of-9-11-report.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Millions of Anthem Customers Targeted in Cyberattack",
+      "snippet": "The insurer said hackers were able to breach a database that contained as many as 80 million records of current and former customers, including names, Social Security numbers and income data.",
+      "abstract": "The insurer said hackers were able to breach a database that contained as many as 80 million records of current and former customers, including names, Social Security numbers and income data.",
+      "lead_paragraph": "Anthem, one of the nation’s largest health insurers, said late Wednesday that the personal information of tens of millions of its customers and employees, including its chief executive, was the subject of a “very sophisticated external cyberattack.”",
+      "publication_date": "2015-02-05T05:15:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/05/business/hackers-breached-data-of-millions-insurer-says.html",
+      "byline": "By Reed Abelson and Matthew Goldstein"
+    },
+    {
+      "headline": "U.S. and Europe Working to End Ukraine Fighting",
+      "snippet": "As the White House weighs sending arms to bolster Ukraine’s forces, Secretary of State John Kerry is joining the leaders of Germany and France in Kiev to bolster peace efforts.",
+      "abstract": "As the White House weighs sending arms to bolster Ukraine’s forces, Secretary of State John Kerry is joining the leaders of Germany and France in Kiev to bolster peace efforts.",
+      "lead_paragraph": "KIEV, Ukraine — With fighting intensifying in eastern Ukraine and the White House weighing whether to send arms to bolster the government’s forces, Western leaders embarked on a concerted diplomatic effort on Thursday aimed at ending a conflict that has strained relations with Russia.",
+      "publication_date": "2015-02-05T10:32:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/06/world/europe/kerry-biden-hollande-merkel-ukraine-conflict.html",
+      "byline": "By Michael R. Gordon and David M. Herszenhorn"
+    },
+    {
+      "headline": "Pfizer Bets $15 Billion on New Class of Generic Drugs",
+      "snippet": "In its offer to buy Hospira, Pfizer is paying richly for what it believes will be a lucrative source of future revenue, drugs known as biosimilars.",
+      "abstract": "In its offer to buy Hospira, Pfizer is paying richly for what it believes will be a lucrative source of future revenue, drugs known as biosimilars.",
+      "lead_paragraph": "Pfizer is making a $15.2 billion bet on the drug industry’s new, more elite class of generics: costly, complex copies of already expensive biotech drugs.",
+      "publication_date": "2015-02-05T12:24:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2015/02/05/pfizer-to-buy-hospira-a-drug-maker-for-15-2-billion-in-cash/",
+      "byline": "By David Gelles and Katie Thomas"
+    },
+    {
+      "headline": "The Secret World of a Well-Paid ‘Donor Adviser’ in Politics",
+      "snippet": "“Donor advisers” like Mary Pat Bonner have immense power in the world of political fund-raising, and their commissions are provoking complaints from big-money contributors.",
+      "abstract": "“Donor advisers” like Mary Pat Bonner have immense power in the world of political fund-raising, and their commissions are provoking complaints from big-money contributors.",
+      "lead_paragraph": "A constellation of left-leaning nonprofits and “super PACs” are raising tens of millions of dollars to pave the way for Hillary Rodham Clinton’s presidential campaign — and nearly all of them have paid Mary Pat Bonner a cut.",
+      "publication_date": "2015-02-05T14:30:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/06/us/in-invisible-world-of-political-donor-advisers-a-highly-visible-player.html",
+      "byline": "By Nicholas Confessore"
+    }
+  ]
+}

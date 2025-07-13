@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2021-12-21",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "The New Get-Rich-Faster Job in Silicon Valley: Crypto Start-Ups",
+      "snippet": "Tech executives and engineers are quitting Google, Meta, Amazon and other large companies for what they say is a once-in-generation opportunity with crypto.",
+      "abstract": "Tech executives and engineers are quitting Google, Meta, Amazon and other large companies for what they say is a once-in-generation opportunity with crypto.",
+      "lead_paragraph": "OAKLAND, Calif. — When Sandy Carter left her job as a vice president of Amazon’s cloud computing unit this month, she announced in a LinkedIn post that she was joining a crypto technology company. She included a link for open positions at the start-up.",
+      "publication_date": "2021-12-20T16:31:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/20/technology/silicon-valley-cryptocurrency-start-ups.html",
+      "byline": "By Daisuke Wakabayashi and Mike Isaac"
+    },
+    {
+      "headline": "Behind Manchin’s Opposition, a Long History of Fighting Climate Measures",
+      "snippet": "Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large.",
+      "abstract": "Senator Joe Manchin III noted climate policy when he said he would vote against the Build Back Better Act. In his life and career, West Virginia coal has loomed large.",
+      "lead_paragraph": "WASHINGTON — Senator Joe Manchin III on Monday cited a litany of issues that drove him to oppose President Biden’s $2 trillion Build Back Better bill, from Democrats’ refusal to attach work requirements to social benefits to their failure to raise tax rates on the rich. But left almost unsaid was the issue that has always propelled his political career as a Democratic maverick: climate change.",
+      "publication_date": "2021-12-20T22:50:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/20/us/politics/manchin-climate-change-coal.html",
+      "byline": "By Jonathan Weisman and Lisa Friedman"
+    },
+    {
+      "headline": "The U.S. Faces Another Covid Christmas as Omicron Fuels a Rise in Cases",
+      "snippet": "In a country already struggling with full hospitals and virus fatigue, the variant has contributed to spikes in some states.",
+      "abstract": "In a country already struggling with full hospitals and virus fatigue, the variant has contributed to spikes in some states.",
+      "lead_paragraph": "With the holiday travel season already underway, new coronavirus cases are surging in the United States, prompting governors and mayors to once again wrestle with how far to go to combat the virus as federal officials said that Omicron has become by far the dominant form of new virus cases in the country.",
+      "publication_date": "2021-12-20T23:35:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/20/us/us-holidays-omicron-cases.html",
+      "byline": "By Campbell Robertson, Mitch Smith and Giulia Heyward"
+    },
+    {
+      "headline": "Crack Down Hard, or Wait and See? Europe Splits on Omicron Response.",
+      "snippet": "As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment.",
+      "abstract": "As some nations impose tough restrictions in the face of soaring cases, others, including France, are lying back for the moment.",
+      "lead_paragraph": "PARIS — The Dutch can now invite only two guests to their homes as part of a new lockdown. In Denmark, where masks and other social restrictions had all but disappeared thanks to a successful vaccination campaign, cinemas, amusement parks, zoos and other establishments are closed once again.",
+      "publication_date": "2021-12-20T23:54:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/20/world/europe/europe-divided-omicron-response.html",
+      "byline": "By Norimitsu Onishi and Nicholas Casey"
+    },
+    {
+      "headline": "Jan. 6 Committee Weighs Possibility of Criminal Referrals",
+      "snippet": "The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others.",
+      "abstract": "The House panel is examining whether there is enough evidence to recommend that the Justice Department pursue cases against Donald J. Trump and others.",
+      "lead_paragraph": "When the House formed a special committee this summer to investigate the Jan. 6 Capitol assault, its stated goal was to compile the most authoritative account of what occurred and make recommendations to ensure it never happens again.",
+      "publication_date": "2021-12-21T00:36:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/20/us/politics/jan-6-committee-trump-criminal-referral.html",
+      "byline": "By Michael S. Schmidt and Luke Broadwater"
+    },
+    {
+      "headline": "How the 2020s Economy Could Resemble the 1980s",
+      "snippet": "It depends on whether Jerome Powell at the Fed can pull a reverse Paul Volcker.",
+      "abstract": "It depends on whether Jerome Powell at the Fed can pull a reverse Paul Volcker.",
+      "lead_paragraph": "It is easy to recall the 1980s as being a boom time for the United States economy — a time of gleaming excess that, among other things, powered Ronald Reagan to a landslide re-election in 1984.",
+      "publication_date": "2021-12-21T08:00:07+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/21/upshot/how-the-2020s-economy-could-resemble-the-1980s.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "That Fun TikTok Video? It’s Actually an Ad.",
+      "snippet": "Brands are flocking to the platform like never before, drawn by its more than 1 billion users and its algorithm, which can make an ad seem like just another video.",
+      "abstract": "Brands are flocking to the platform like never before, drawn by its more than 1 billion users and its algorithm, which can make an ad seem like just another video.",
+      "lead_paragraph": "Ever since young Americans began their exodus from commercial television to streaming services and social media, advertisers have searched for the digital equivalent of home shopping channels, a place online where users might engage with ads rather than just quickly clicking past them.",
+      "publication_date": "2021-12-21T10:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/21/business/tiktok-ads.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "How the Copycats Came for Clubhouse",
+      "snippet": "The company showed that people would flock to an audio-only social media app. Can it fend off the imitators?",
+      "abstract": "The company showed that people would flock to an audio-only social media app. Can it fend off the imitators?",
+      "lead_paragraph": "Last December, Chris Barnett bought his first iPhone at the insistence of his friends. They told him he needed to get on Clubhouse, an invitation-only audio app that was available only on iPhones.",
+      "publication_date": "2021-12-21T10:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/21/technology/clubhouse-twitter-spaces.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Biden Bolsters Virus Fight, Offering Aid to Hospitals and Free Tests",
+      "snippet": "The president also sought to address the nation’s battered psyche, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.”",
+      "abstract": "The president also sought to address the nation’s battered psyche, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.”",
+      "lead_paragraph": "WASHINGTON — President Biden accelerated his administration’s coronavirus response on Tuesday as the country faced a surge in cases from a highly contagious new variant, telling anxious Americans that “we should all be concerned about Omicron, but not panicked.”",
+      "publication_date": "2021-12-21T10:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/21/us/politics/omicron-covid-biden.html",
+      "byline": "By Sheryl Gay Stolberg and Michael D. Shear"
+    },
+    {
+      "headline": "How the Kremlin Is Militarizing Russian Society",
+      "snippet": "With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight.",
+      "abstract": "With a “youth army,” a cathedral honoring the military and state media promoting patriotism, the government is preparing Russians for the possibility of a fight.",
+      "lead_paragraph": "MOSCOW — Stepping onto a podium in heavy boots and military fatigues at a ceremony outside Moscow, six teenagers accepted awards for an increasingly important discipline in Russia: patriotism.",
+      "publication_date": "2021-12-21T10:00:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/21/world/europe/russia-military-putin-kremlin.html",
+      "byline": "By Anton Troianovski, Ivan Nechepurenko, Valerie Hopkins and Sergey Ponomarev"
+    },
+    {
+      "headline": "Are Schools Ready for the Next Big Surge?",
+      "snippet": "Districts say they don’t want to close classrooms again. But the latest wave in Covid-19 cases could challenge the rickety infrastructure that has kept schools running this year.",
+      "abstract": "Districts say they don’t want to close classrooms again. But the latest wave in Covid-19 cases could challenge the rickety infrastructure that has kept schools running this year.",
+      "lead_paragraph": "The dread was familiar.",
+      "publication_date": "2021-12-21T10:06:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/21/us/covid-schools.html",
+      "byline": "By Dana Goldstein"
+    }
+  ]
+}

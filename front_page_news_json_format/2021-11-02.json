@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-11-02",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Regulators Ask Congress to Create New Rules for Cryptocurrencies",
+      "snippet": "A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability.",
+      "abstract": "A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability.",
+      "lead_paragraph": "WASHINGTON — Federal regulators say they urgently need more power from Congress to properly regulate stablecoins, a fast-growing type of cryptocurrency that they warn could result in bank runs, consumer abuse and payment snafus unless lawmakers act quickly, according to a report issued Monday by the Treasury Department.",
+      "publication_date": "2021-11-01T19:01:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html",
+      "byline": "By Ephrat Livni and Eric Lipton"
+    },
+    {
+      "headline": "Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point",
+      "snippet": "The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years.",
+      "abstract": "The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years.",
+      "lead_paragraph": "ALBANY, Ga. — After giving up on their goal of creating a new Medicaid program to cover two million poor adults, Democrats are aiming to provide them with free private coverage as part of the party’s social policy bill. But there is a catch: The benefits would last only four years.",
+      "publication_date": "2021-11-01T20:53:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Leaders Warn of Climate ‘Doomsday’ as Old Rifts Divide Summit’s First Day",
+      "snippet": "The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world.",
+      "abstract": "The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world.",
+      "lead_paragraph": "GLASGOW — World leaders opened a pivotal climate summit in Scotland on Monday with apocalyptic warnings about the scarce time left to avert catastrophic global warming, yet offered few new commitments to more aggressively cut greenhouse gas emissions.",
+      "publication_date": "2021-11-01T23:56:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html",
+      "byline": "By Jim Tankersley, Lisa Friedman and Somini Sengupta"
+    },
+    {
+      "headline": "How Car Shortages Are Putting the World’s Economy at Risk",
+      "snippet": "Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple.",
+      "abstract": "Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple.",
+      "lead_paragraph": "Turmoil in the auto industry, a powerful engine of the global economy, is threatening growth and sending tremors through companies and communities that depend on carmakers for money and jobs.",
+      "publication_date": "2021-11-02T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html",
+      "byline": "By Jack Ewing and Patricia Cohen"
+    },
+    {
+      "headline": "Shutting Down Historical Debate, China Makes It a Crime to Mock Heroes",
+      "snippet": "Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy.",
+      "abstract": "Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy.",
+      "lead_paragraph": "[Follow live updates on the meeting between President Biden and China’s leader, Xi Jinping.]",
+      "publication_date": "2021-11-02T09:00:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html",
+      "byline": "By Steven Lee Myers"
+    },
+    {
+      "headline": "Corporate Climate Pledges Often Ignore a Key Component: Supply Chains",
+      "snippet": "Many companies do not account for the emissions from their supply chains, which can be a significant majority of their contributions to greenhouse gases.",
+      "abstract": "Many companies do not account for the emissions from their supply chains, which can be a significant majority of their contributions to greenhouse gases.",
+      "lead_paragraph": "For nearly 30 years, the pharmaceutical giant Bristol Myers Squibb has proclaimed it’s been setting and meeting ambitious targets around energy and greenhouse gas emissions. These days, those goals include being “carbon neutral” by 2040.",
+      "publication_date": "2021-11-02T09:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/02/business/corporate-climate-pledge-supply-chain.html",
+      "byline": "By Michael Corkery and Julie Creswell"
+    }
+  ]
+}

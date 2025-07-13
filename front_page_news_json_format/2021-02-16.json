@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-02-16",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Parler, a Social Network That Attracted Trump Fans, Returns Online",
+      "snippet": "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet.",
+      "abstract": "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet.",
+      "lead_paragraph": "SAN FRANCISCO — Parler, the social network that drew millions of Trump supporters before disappearing from the internet, is back online a month after Amazon and other tech giants cut off the company for hosting calls for violence around the time of the Capitol riot.",
+      "publication_date": "2021-02-15T17:47:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "Biden and the Fed Leave 1970s Inflation Fears Behind",
+      "snippet": "Administration and Fed officials argue that workers not getting enough stimulus help is a larger concern than potential spikes in consumer prices.",
+      "abstract": "Administration and Fed officials argue that workers not getting enough stimulus help is a larger concern than potential spikes in consumer prices.",
+      "lead_paragraph": "WASHINGTON — Presidents who find themselves digging out of recessions have long heeded the warnings of inflation-obsessed economists, who fear that acting aggressively to stimulate a struggling economy will bring a return of the monstrous price increases that plagued the nation in the 1970s.",
+      "publication_date": "2021-02-15T20:30:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/15/business/economy/biden-fed-inflation-covid.html",
+      "byline": "By Jim Tankersley and Jeanna Smialek"
+    },
+    {
+      "headline": "Adam Kinzinger’s Lonely Mission",
+      "snippet": "Censured by his party and shunned by family members, Mr. Kinzinger, a six-term Illinois congressman, is pressing Republicans to leave Donald Trump behind — and risking his career doing so.",
+      "abstract": "Censured by his party and shunned by family members, Mr. Kinzinger, a six-term Illinois congressman, is pressing Republicans to leave Donald Trump behind — and risking his career doing so.",
+      "lead_paragraph": "WASHINGTON — As the Republican Party censures, condemns and seeks to purge leaders who aren’t in lock step with Donald J. Trump, Adam Kinzinger, the six-term Illinois congressman, stands as enemy No. 1 — unwelcome not just in his party but also in his own family, some of whom recently disowned him.",
+      "publication_date": "2021-02-15T21:42:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/15/us/politics/adam-kinzinger-republicans-trump.html",
+      "byline": "By Reid J. Epstein"
+    },
+    {
+      "headline": "A Black Soldier’s Heroism, Overlooked in 1965, May Finally Be Lauded in 2021",
+      "snippet": "Comrades repeatedly told the Army that Capt. Paris Davis, one of the first Black officers in the Special Forces, deserved the Medal of Honor. The Army kept losing the paperwork.",
+      "abstract": "Comrades repeatedly told the Army that Capt. Paris Davis, one of the first Black officers in the Special Forces, deserved the Medal of Honor. The Army kept losing the paperwork.",
+      "lead_paragraph": "Capt. Paris Davis was in the thick of a pre-dawn raid on an enemy camp in Vietnam when a grenade blasted out several of his teeth and, more troubling, tore off part of his trigger finger. Then enemy fire started pelting the Special Forces team he commanded. His most experienced sergeant was shot down. Then the demolitions specialist. Then the only medic.",
+      "publication_date": "2021-02-15T22:25:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/15/us/paris-davis-medal-of-honor.html",
+      "byline": "By Dave Philipps"
+    },
+    {
+      "headline": "Icy Storm Barrels Across Central U.S., Leaving Millions Without Power",
+      "snippet": "The snowstorm covered a huge part of the country, including states unaccustomed to slick roads and a deep freeze.",
+      "abstract": "The snowstorm covered a huge part of the country, including states unaccustomed to slick roads and a deep freeze.",
+      "lead_paragraph": "[Live winter storm updates.]",
+      "publication_date": "2021-02-15T22:49:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/15/us/winter-storm-today.html",
+      "byline": "By David Montgomery, Campbell Robertson, Clifford Krauss and Marie Fazio"
+    },
+    {
+      "headline": "Big Tech’s Next Big Problem Could Come From People Like ‘Mr. Sweepy’",
+      "snippet": "Government antitrust lawsuits have created openings for numerous private cases against Big Tech, with more expected to come. If successful, the cases could cost them dearly.",
+      "abstract": "Government antitrust lawsuits have created openings for numerous private cases against Big Tech, with more expected to come. If successful, the cases could cost them dearly.",
+      "lead_paragraph": "Google is facing antitrust cases from Europe’s top competition enforcer, the Justice Department and attorneys general from more than 30 states and territories.",
+      "publication_date": "2021-02-16T08:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/16/technology/google-facebook-private-antitrust.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "The Auto Industry Bets Its Future on Batteries",
+      "snippet": "Carmakers, government agencies and investors are pouring money into battery research in a global race to profit from emission-free electric cars.",
+      "abstract": "Carmakers, government agencies and investors are pouring money into battery research in a global race to profit from emission-free electric cars.",
+      "lead_paragraph": "As automakers like General Motors, Volkswagen and Ford Motor make bold promises about transitioning to an electrified, emission-free future, one thing is becoming obvious: They will need a lot of batteries.",
+      "publication_date": "2021-02-16T10:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/16/business/energy-environment/electric-car-batteries-investment.html",
+      "byline": "By Jack Ewing and Ivan Penn"
+    },
+    {
+      "headline": "In Turkey’s Safe Zone in Syria, Security and Misery Go Hand in Hand",
+      "snippet": "Turkey was widely criticized when it sent forces into Syria, but today its soldiers stand between millions of Syrians and potential slaughter at the hands of President Bashar al-Assad’s forces.",
+      "abstract": "Turkey was widely criticized when it sent forces into Syria, but today its soldiers stand between millions of Syrians and potential slaughter at the hands of President Bashar al-Assad’s forces.",
+      "lead_paragraph": "AFRIN, Syria — In a tented camp on a hilltop above the city of Afrin, 300 Syrian families struggle to keep warm in the rain and mud. Displaced three times since they fled their farms near Damascus seven years ago, they survive on slim handouts and send the children out to scavenge.",
+      "publication_date": "2021-02-16T10:51:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/16/world/middleeast/syria-turkey-erdogan-afrin.html",
+      "byline": "By Carlotta Gall"
+    },
+    {
+      "headline": "A Hidden Hurdle in Efforts to Diversify Boardrooms",
+      "snippet": "Some companies are reluctant to let lower-level managers become outside directors, adding a systemic impediment to the push.",
+      "abstract": "Some companies are reluctant to let lower-level managers become outside directors, adding a systemic impediment to the push.",
+      "lead_paragraph": "Last spring, Niki Christoff, a senior Salesforce executive, was offered an opportunity to join the board of a publicly traded company alongside her day job. Being a director of a public company is a corporate badge of honor, and the invitation signaled she was poised to break into a club long dominated by men.",
+      "publication_date": "2021-02-16T11:34:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/16/business/dealbook/boardroom-diversity.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "To Plug a Pension Gap, This City Rented Its Streets. To Itself.",
+      "snippet": "Cities and states issued at least $6.1 billion in pension bonds last year. Novel ways to do so include renting property they already own under dummy corporations.",
+      "abstract": "Cities and states issued at least $6.1 billion in pension bonds last year. Novel ways to do so include renting property they already own under dummy corporations.",
+      "lead_paragraph": "The City of Tucson, Ariz., decided last year to pay rent on five golf courses and a zoo — to itself. In California, West Covina agreed to pay rent on its own streets. And in Flagstaff, Ariz., a new lease agreement covers libraries, fire stations and even City Hall.",
+      "publication_date": "2021-02-16T14:05:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/16/business/dealbook/pension-borrowing-retirement.html",
+      "byline": "By Mary Williams Walsh"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-01-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Biden Hammers Republicans on the Economy, With Eye on 2024",
+      "snippet": "The president has found a welcome foil in a new conservative House majority and its tax and spending plans, sharpening a potential re-election message.",
+      "abstract": "The president has found a welcome foil in a new conservative House majority and its tax and spending plans, sharpening a potential re-election message.",
+      "lead_paragraph": "WASHINGTON — President Biden on Thursday assailed House Republicans over their tax and spending plans, including potential changes to popular retirement programs, ahead of what is likely to be a run for re-election.",
+      "publication_date": "2023-01-26T16:47:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/26/us/politics/biden-economy.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "How Barr’s Quest to Find Flaws in the Russia Inquiry Unraveled",
+      "snippet": "The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.",
+      "abstract": "The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.",
+      "lead_paragraph": "WASHINGTON — It became a regular litany of grievances from President Donald J. Trump and his supporters: The investigation into his 2016 campaign’s ties to Russia was a witch hunt, they maintained, that had been opened without any solid basis, went on too long and found no proof of collusion.",
+      "publication_date": "2023-01-26T18:26:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/26/us/politics/durham-trump-russia-barr.html",
+      "byline": "By Charlie Savage, Adam Goldman and Katie Benner"
+    },
+    {
+      "headline": "On Trump’s Social Network: Ads for Miracle Cures, Scams and Fake Merchandise",
+      "snippet": "Truth Social, the social network started by former President Donald J. Trump, has struggled to attract large brands.",
+      "abstract": "Truth Social, the social network started by former President Donald J. Trump, has struggled to attract large brands.",
+      "lead_paragraph": "Between posts about conspiracy theories and right-wing grievances was an unusual advertisement: a photo of former President Donald J. Trump holding a $1,000 bill made of gold, which he was apparently offering free to supporters.",
+      "publication_date": "2023-01-27T10:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/27/technology/trump-truth-social-ads.html",
+      "byline": "By Stuart A. Thompson"
+    },
+    {
+      "headline": "Start-Up Raises $200 Million to Speed Up Drug Trials",
+      "snippet": "New York-based Paradigm has raised a significant amount to simplify clinical trials. Its goal is ambitious, but its challenges are many, researchers say.",
+      "abstract": "New York-based Paradigm has raised a significant amount to simplify clinical trials. Its goal is ambitious, but its challenges are many, researchers say.",
+      "lead_paragraph": "For individuals suffering from a deadly disease, clinical trials for drugs offer lifesaving hope. But for all the rapid advances in science and medicine, some of the building blocks of clinical trials — the back-end technology, data aggregation and patient recruitment — haven’t changed much in decades.",
+      "publication_date": "2023-01-27T10:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/27/business/paradigm-startup-clinical-trials.html",
+      "byline": "By Maureen Farrell"
+    },
+    {
+      "headline": "U.S. Officials Overseeing Aid Say Ukrainian Leaders Are Tackling Corruption",
+      "snippet": "The ouster of several officials has renewed questions about how the Zelensky government is addressing concerns about aid.",
+      "abstract": "The ouster of several officials has renewed questions about how the Zelensky government is addressing concerns about aid.",
+      "lead_paragraph": "WASHINGTON — Since the start of the war in Ukraine, U.S. officials have watched with some anxiety as billions of American dollars flowed into the country, well aware of Kyiv’s history of political corruption and fearing that aid might be siphoned off for personal gain.",
+      "publication_date": "2023-01-27T10:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/27/us/politics/ukraine-corruption-scandal.html",
+      "byline": "By Michael Crowley and Edward Wong"
+    },
+    {
+      "headline": "A Copper Mine Could Advance Green Energy but Scar Sacred Land",
+      "snippet": "Tribal groups are fighting an Arizona project whose backers say increasing the supply of copper, crucial to batteries, would reduce fossil-fuel use.",
+      "abstract": "Tribal groups are fighting an Arizona project whose backers say increasing the supply of copper, crucial to batteries, would reduce fossil-fuel use.",
+      "lead_paragraph": "SUPERIOR, Ariz. — As Wendsler Nosie finished his evening prayers sitting before a mesquite fire, a ceremonial yucca staff festooned with eagle feathers by his side, he gazed sternly toward a distant mesa where mining companies hope to extract more than a billion tons of copper.",
+      "publication_date": "2023-01-27T10:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/27/business/energy-environment/copper-mine-arizona.html",
+      "byline": "By Clifford Krauss and Tamir Kalifa"
+    },
+    {
+      "headline": "Consumer Spending Slid Again in December",
+      "snippet": "Fresh data offered more detail on how shoppers retrenched at the end of 2022.",
+      "abstract": "Fresh data offered more detail on how shoppers retrenched at the end of 2022.",
+      "lead_paragraph": "For more than a year now, the U.S. economy has faced two fundamental, interwoven challenges: Consumers wouldn’t stop spending, and prices wouldn’t stop rising.",
+      "publication_date": "2023-01-27T13:37:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/27/business/economy/consumer-spending-december.html",
+      "byline": "By Ben Casselman and Jeanna Smialek"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2024-01-02",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "I Spent New Year’s Eve Trying to Do the FAFSA. It Didn’t Go Well.",
+      "snippet": "The new, simplified version of the college student aid form was supposed to become available in December. It was, kind of, for some people.",
+      "abstract": "The new, simplified version of the college student aid form was supposed to become available in December. It was, kind of, for some people.",
+      "lead_paragraph": "Since 2020, when Congress ordered up simplification of the federal financial aid system, the U.S. Department of Education has faced the complex task of actually making the changes to the ever-important formula for determining who gets what.",
+      "publication_date": "2024-01-01T18:13:24+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/01/your-money/college-student-aid-fafsa.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Israel’s Top Court Strikes Down Move to Curb Its Powers",
+      "snippet": "The Supreme Court, by the narrowest of margins, rejected a law pushed by Netanyahu allies that limited its authority to review government decisions.",
+      "abstract": "The Supreme Court, by the narrowest of margins, rejected a law pushed by Netanyahu allies that limited its authority to review government decisions.",
+      "lead_paragraph": "Israel’s Supreme Court on Monday struck down a law limiting its own powers, a momentous step in the legal and political crisis that gripped the country before the war with Hamas, and pitted the court against Prime Minister Benjamin Netanyahu’s right-wing government.",
+      "publication_date": "2024-01-01T22:08:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/01/world/middleeast/israel-supreme-court-netanyahu.html",
+      "byline": "By Isabel Kershner, Aaron Boxerman and Thomas Fuller"
+    },
+    {
+      "headline": "India Is Chasing China’s Economy. But Something Is Holding It Back.",
+      "snippet": "Long-term investment in India by businesses is stagnant, and foreign money is falling, even as the government is driving growth with infrastructure spending.",
+      "abstract": "Long-term investment in India by businesses is stagnant, and foreign money is falling, even as the government is driving growth with infrastructure spending.",
+      "lead_paragraph": "India’s economy is booming. Stock prices are through the roof, among the best performing in the world. The government’s investment in airports, bridges and roads, and clean-energy infrastructure is visible almost everywhere. India’s total output, or gross domestic product, is expected to increase 6 percent this year — faster than the United States or China.",
+      "publication_date": "2024-01-02T05:01:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/02/business/india-economy-foreign-direct-investment.html",
+      "byline": "By Alex Travelli"
+    },
+    {
+      "headline": "Britain’s Economy Is ‘Not Working.’ Here Are 2 Key Reasons.",
+      "snippet": "The power grid can’t keep up with demand for connections, and local planning authorities can block new construction for years. Overcoming these roadblocks has gained essential support.",
+      "abstract": "The power grid can’t keep up with demand for connections, and local planning authorities can block new construction for years. Overcoming these roadblocks has gained essential support.",
+      "lead_paragraph": "In the countryside of Cambridgeshire, a British semiconductor start-up was ready to expand beyond its lab and open a manufacturing base. But the company’s ambitions came with unexpected costs to bring enough electricity to the new site. The potential bill? One million pounds.",
+      "publication_date": "2024-01-02T05:01:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/02/business/uk-economy-growth.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "In 2024, Expect New Debates on A.I., Gender and Guns",
+      "snippet": "Some of the most contentious issues in the country will dominate the agendas of state legislatures returning to work in the coming days and weeks.",
+      "abstract": "Some of the most contentious issues in the country will dominate the agendas of state legislatures returning to work in the coming days and weeks.",
+      "lead_paragraph": "As Americans have engaged in fierce disagreement over gender expression and sexual orientation, the costs and reach of racism, and the danger and opportunity presented by rapid technological advancement, state legislatures have been one of the most visible and influential arenas for these debates.",
+      "publication_date": "2024-01-02T08:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/02/us/state-legislatures-2024.html",
+      "byline": "By Rick Rojas"
+    },
+    {
+      "headline": "Tesla Sales Rebound After Steep Price Cuts",
+      "snippet": "The leading U.S. electric-vehicle maker also drew buyers eager to take advantage of government incentives that will be harder to get in 2024.",
+      "abstract": "The leading U.S. electric-vehicle maker also drew buyers eager to take advantage of government incentives that will be harder to get in 2024.",
+      "lead_paragraph": "Tesla sales jumped during the last three months of 2023 after the carmaker slashed prices and customers rushed to take advantage of tax breaks on electric vehicles — provisions that will be harder to come by in 2024.",
+      "publication_date": "2024-01-02T13:51:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/02/business/tesla-fourth-quarter-sales.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "The Twin Fronts in the Battle Over Israel’s Identity",
+      "snippet": "Monday’s court ruling joined the war in Gaza in a widening crisis over what kind of state Israel will be.",
+      "abstract": "Monday’s court ruling joined the war in Gaza in a widening crisis over what kind of state Israel will be.",
+      "lead_paragraph": "The decision by the Israeli Supreme Court to reject legislative control over the judiciary ends for now the languishing effort by the far-right government of Benjamin Netanyahu to diminish the courts, which had already sparked nine months of protests that only ended when Hamas attacked Israel on Oct. 7.",
+      "publication_date": "2024-01-02T14:39:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/02/world/middleeast/israel-supreme-court-netanyahu.html",
+      "byline": "By Steven Erlanger"
+    }
+  ]
+}

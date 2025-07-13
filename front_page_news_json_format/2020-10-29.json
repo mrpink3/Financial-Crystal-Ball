@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-10-29",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Biden’s Caution: Wise Campaign Tactic or Misguided Gamble?",
+      "snippet": "Joe Biden is counting on voters to view him as a safe and steady alternative to a president who regularly dismisses virus precautions. But his measured campaign pace may be scrutinized if he loses.",
+      "abstract": "Joe Biden is counting on voters to view him as a safe and steady alternative to a president who regularly dismisses virus precautions. But his measured campaign pace may be scrutinized if he loses.",
+      "lead_paragraph": "WILMINGTON, Del. — On the Friday before Election Day, Joseph R. Biden Jr. will be in the Midwest, campaigning in both Iowa and Wisconsin as he presses his closing argument.",
+      "publication_date": "2020-10-28T18:41:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.html",
+      "byline": "By Katie Glueck"
+    },
+    {
+      "headline": "Republicans Blast Social Media C.E.O.s While Democrats Deride Hearing",
+      "snippet": "Republican senators accused the leaders of Twitter, Facebook and Google of censorship. Democrats denounced that as posturing.",
+      "abstract": "Republican senators accused the leaders of Twitter, Facebook and Google of censorship. Democrats denounced that as posturing.",
+      "lead_paragraph": "WASHINGTON — Lawmakers hammered the chief executives of Twitter, Facebook, Google and one another at a Senate hearing on Wednesday, with Republicans claiming the companies were suppressing conservative views while Democrats accused their colleagues of holding a “sham” hearing for political gain.",
+      "publication_date": "2020-10-28T19:55:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/28/technology/senate-tech-hearing-section-230.html",
+      "byline": "By David McCabe and Cecilia Kang"
+    },
+    {
+      "headline": "France and Germany Lock Down as Second Coronavirus Wave Grows",
+      "snippet": "The new steps are the toughest since the spring and follow added restrictions in Spain and Italy aimed at curbing the spread of the virus and easing the strain on hospitals.",
+      "abstract": "The new steps are the toughest since the spring and follow added restrictions in Spain and Italy aimed at curbing the spread of the virus and easing the strain on hospitals.",
+      "lead_paragraph": "BRUSSELS — France announced a second nationwide lockdown and Germany moved to the very edge of one on Wednesday, testing their pandemic-weary populations as they tried to stop a mounting new wave of coronavirus infections from swamping hospitals and undoing hopes of economic recovery.",
+      "publication_date": "2020-10-28T21:18:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/28/world/europe/france-germany-coronavirus-covid.html",
+      "byline": "By Matina Stevis-Gridneff"
+    },
+    {
+      "headline": "Supreme Court Allows Longer Deadlines for Absentee Ballots in Pennsylvania and North Carolina",
+      "snippet": "Republicans in both states opposed the extensions. Justice Amy Coney Barrett, who joined the court on Tuesday, did not participate in either case, saying she had not had time to fully review the briefs.",
+      "abstract": "Republicans in both states opposed the extensions. Justice Amy Coney Barrett, who joined the court on Tuesday, did not participate in either case, saying she had not had time to fully review the briefs.",
+      "lead_paragraph": "WASHINGTON — In a pair of decisions welcomed by Democrats, the Supreme Court on Wednesday let election officials in two key battleground states, Pennsylvania and North Carolina, accept absentee ballots for several days after Election Day.",
+      "publication_date": "2020-10-28T21:51:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/28/us/supreme-court-pennsylvania-north-carolina-absentee-ballots.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Stocks Post Worst Day in 4 Months as Infections Rise Around the Globe",
+      "snippet": "The S&P 500 was down 3.5 percent after France and Germany announced new lockdown measures, an unwelcome reminder of the recovery’s fragility.",
+      "abstract": "The S&P 500 was down 3.5 percent after France and Germany announced new lockdown measures, an unwelcome reminder of the recovery’s fragility.",
+      "lead_paragraph": "Coronavirus flare-ups across the United States and new lockdown measures in major European economies sent stocks sliding to their worst performance in months on Wednesday.",
+      "publication_date": "2020-10-28T21:58:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/28/business/stock-market-coronavirus.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Days From Election, Police Killing of Black Man Roils Philadelphia",
+      "snippet": "The shooting and its aftermath were guaranteed to ratchet up tensions in a country already on edge. Debates about how to improve police accountability have been complicated by looting.",
+      "abstract": "The shooting and its aftermath were guaranteed to ratchet up tensions in a country already on edge. Debates about how to improve police accountability have been complicated by looting.",
+      "lead_paragraph": "PHILADELPHIA — There is a grim familiarity to it all. In the final days of a bitter election, it is a reprise of the terrible images that the country has come to know all too well this year: The shaky cellphone video, the abrupt death of a Black man at the hands of the police. The howls of grief at the scene. The protests that formed immediately. The looting of stores that lasted late into the night.",
+      "publication_date": "2020-10-28T22:53:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/28/us/philadelphia-police-shooting.html",
+      "byline": "By Jon Hurdle, Campbell Robertson and Richard A. Oppel Jr"
+    },
+    {
+      "headline": "Trump’s Closing Argument on Virus Clashes With Science, and Voters’ Lives",
+      "snippet": "The president has continued to downplay the severity of the coronavirus and declare before largely maskless crowds that it is vanishing. The surge in new cases across the country says: Not so.",
+      "abstract": "The president has continued to downplay the severity of the coronavirus and declare before largely maskless crowds that it is vanishing. The surge in new cases across the country says: Not so.",
+      "lead_paragraph": "As an immense new surge in coronavirus cases sweeps the country, President Trump is closing his re-election campaign by pleading with voters to ignore the evidence of a calamity unfolding before their eyes and trust his word that the disease is already disappearing as a threat to their personal health and economic well being.",
+      "publication_date": "2020-10-28T23:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/28/us/politics/trump-coronavirus.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "Texas Is a Tossup. So Why Won’t Trump or Biden Campaign There?",
+      "snippet": "A victory by the Democrats would herald the arrival of a formidable multiracial coalition in the country’s largest red state.",
+      "abstract": "A victory by the Democrats would herald the arrival of a formidable multiracial coalition in the country’s largest red state.",
+      "lead_paragraph": "BROWNSVILLE, Texas — When Senator Ted Cruz of Texas spoke with President Trump on the phone last week, he congratulated the president on his debate performance, nudged him to keep driving policy-oriented attacks against his opponent, Joseph R. Biden Jr., and relayed one more message.",
+      "publication_date": "2020-10-29T09:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/29/us/politics/texas-battleground-state.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Turkish Bank Case Showed Erdogan’s Influence With Trump",
+      "snippet": "New details of the Justice Department’s handling of the accusations against Halkbank reveal how Turkey’s leader pressured the president, prompting concern from top White House aides.",
+      "abstract": "New details of the Justice Department’s handling of the accusations against Halkbank reveal how Turkey’s leader pressured the president, prompting concern from top White House aides.",
+      "lead_paragraph": "WASHINGTON — ​Geoffrey S. Berman was outraged.",
+      "publication_date": "2020-10-29T09:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/29/us/politics/trump-erdogan-halkbank.html",
+      "byline": "By Eric Lipton and Benjamin Weiser"
+    },
+    {
+      "headline": "‘It’s Going Away’: A Small Movie Theater Struggles to Survive",
+      "snippet": "The pandemic has staggered the industry and left independent operations like the Park Plaza Cinema in Hilton Head Island, S.C., fighting to stay afloat.",
+      "abstract": "The pandemic has staggered the industry and left independent operations like the Park Plaza Cinema in Hilton Head Island, S.C., fighting to stay afloat.",
+      "lead_paragraph": "On a rainy day last week, 72 moviegoers visited the Park Plaza Cinema in Hilton Head Island, S.C., to see Liam Neeson in “Honest Thief.” It was the largest single-day attendance the independently owned five-screen theater had seen since reopening in August after a five-month shutdown. The feeling of celebration was short-lived. The next day, only 22 people showed.",
+      "publication_date": "2020-10-29T09:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/29/business/media/pandemic-small-movie-theaters.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "New Terror Attacks Leave France Embattled at Home and Abroad",
+      "snippet": "A man with a knife killed three people at a church in Nice, in an assault that bore similarities to the recent killing of a schoolteacher, which has shaken the country.",
+      "abstract": "A man with a knife killed three people at a church in Nice, in an assault that bore similarities to the recent killing of a schoolteacher, which has shaken the country.",
+      "lead_paragraph": "NICE, France — A terror attack that killed three people in Nice on Thursday left France increasingly embattled at home and abroad, as the government called for toughening measures against Islamist extremism, amid rising tensions with Muslim nations.",
+      "publication_date": "2020-10-29T09:39:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/29/world/europe/nice-attack-france.html",
+      "byline": "By Norimitsu Onishi and Constant Méheut"
+    }
+  ]
+}

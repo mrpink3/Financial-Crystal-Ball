@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2017-01-11",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Fox News Settled Sexual Harassment Allegations Against Bill O’Reilly, Documents Show",
+      "snippet": "When Juliet Huddy rebuffed advances by Mr. O’Reilly, he tried to derail her career, according to a draft of a letter from her lawyers obtained by The New York Times.",
+      "abstract": "When Juliet Huddy rebuffed advances by Mr. O’Reilly, he tried to derail her career, according to a draft of a letter from her lawyers obtained by The New York Times.",
+      "lead_paragraph": "In the weeks after Roger Ailes was ousted as the chairman of Fox News in July amid a sexual harassment scandal, company executives secretly struck an agreement with a longtime broadcast personality who had come forward with similar accusations about the network’s top host, Bill O’Reilly.",
+      "publication_date": "2017-01-10T17:16:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/10/business/media/bill-oreilly-sexual-harassment-fox-news-juliet-huddy.html",
+      "byline": "By Emily Steel and Michael S. Schmidt"
+    },
+    {
+      "headline": "Jeff Sessions Says He Would Be Independent and Stand Up to Trump",
+      "snippet": "During a Senate hearing, the senator who is in line to become attorney general promised to aggressively enforce even laws with which he disagreed.",
+      "abstract": "During a Senate hearing, the senator who is in line to become attorney general promised to aggressively enforce even laws with which he disagreed.",
+      "lead_paragraph": "WASHINGTON — Senator Jeff Sessions, President-elect Donald J. Trump’s nominee for attorney general, pledged on Tuesday to “say no” to Mr. Trump if he tries to go beyond the law, and he spoke out against torture, a ban on Muslim immigration and other ideas that had been floated by Mr. Trump.",
+      "publication_date": "2017-01-10T18:01:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/10/us/politics/jeff-sessions-attorney-general.html",
+      "byline": "By Eric Lichtblau and Matt Apuzzo"
+    },
+    {
+      "headline": "Trump Tells Congress to Repeal and Replace Health Care Law ‘Very Quickly’",
+      "snippet": "President-elect Donald J. Trump said he wanted to replace the Affordable Care Act as soon as it was repealed, but some Republicans want more time to consider an alternative.",
+      "abstract": "President-elect Donald J. Trump said he wanted to replace the Affordable Care Act as soon as it was repealed, but some Republicans want more time to consider an alternative.",
+      "lead_paragraph": "President-elect Donald J. Trump demanded on Tuesday that Congress immediately repeal the Affordable Care Act and pass another health law quickly. His remarks put Republicans in the nearly impossible position of having only weeks to replace a health law that took nearly two years to pass.",
+      "publication_date": "2017-01-10T18:38:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/10/us/repeal-affordable-care-act-donald-trump.html",
+      "byline": "By Maggie Haberman and Robert Pear"
+    },
+    {
+      "headline": "Dylann Roof Is Sentenced to Death in Charleston Church Massacre",
+      "snippet": "Dylann S. Roof was found guilty of 33 counts in connection with the June 17, 2015, massacre at Emanuel African Methodist Episcopal Church. Nine people died.",
+      "abstract": "Dylann S. Roof was found guilty of 33 counts in connection with the June 17, 2015, massacre at Emanuel African Methodist Episcopal Church. Nine people died.",
+      "lead_paragraph": "Note: This is a story from 2017. Now the police are trying to end the notoriety of gunmen in shootings. ",
+      "publication_date": "2017-01-10T19:02:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/10/us/dylann-roof-trial-charleston.html",
+      "byline": "By Alan Blinder and Kevin Sack"
+    },
+    {
+      "headline": "Volkswagen Set to Plead Guilty and to Pay U.S. $4.3 Billion in Deal",
+      "snippet": "The agreement, which would settle a federal criminal investigation into the carmaker’s cheating on vehicle emissions tests, could be put to a company vote on Wednesday.",
+      "abstract": "The agreement, which would settle a federal criminal investigation into the carmaker’s cheating on vehicle emissions tests, could be put to a company vote on Wednesday.",
+      "lead_paragraph": "Volkswagen is on the verge of pleading guilty to criminal charges and paying $4.3 billion in fines, in a deal that would resolve a federal criminal investigation into its cheating on vehicle emissions tests, the automaker said on Tuesday.",
+      "publication_date": "2017-01-10T19:35:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/10/business/volkswagen-diesel-settlement.html",
+      "byline": "By Jack Ewing and Hiroko Tabuchi"
+    },
+    {
+      "headline": "SoftBank’s $100 Billion Investment Fund Starts to Take Shape",
+      "snippet": "Masayoshi Son has pledged to create jobs, but a small group of former Deutsche Bank executives are looking beyond just tech start-ups for investing the mammoth fund.",
+      "abstract": "Masayoshi Son has pledged to create jobs, but a small group of former Deutsche Bank executives are looking beyond just tech start-ups for investing the mammoth fund.",
+      "lead_paragraph": "Many business titans have made the trek to Trump Tower for a private audience with Donald J. Trump since he was elected president, but none have made a bigger splash than Masayoshi Son, the billionaire telecommunications entrepreneur.",
+      "publication_date": "2017-01-10T20:30:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/10/business/dealbook/softbank-vision-fund-investment.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him",
+      "snippet": "The material was considered so potentially explosive that the intelligence agencies decided that the president and the president-elect needed to be told and that the agencies were actively investigating it.",
+      "abstract": "The material was considered so potentially explosive that the intelligence agencies decided that the president and the president-elect needed to be told and that the agencies were actively investigating it.",
+      "lead_paragraph": "WASHINGTON — The chiefs of America’s intelligence agencies last week presented President Obama and President-elect Donald J. Trump with a summary of unsubstantiated reports that Russia had collected compromising and salacious personal information about Mr. Trump, two officials with knowledge of the briefing said.",
+      "publication_date": "2017-01-11T00:01:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/10/us/politics/donald-trump-russia-intelligence.html",
+      "byline": "By Scott Shane, Adam Goldman and Matthew Rosenberg"
+    },
+    {
+      "headline": "Higher Minimum Wage May Have Losers",
+      "snippet": "As more cities and states raise their minimum wages, researchers question how much difference the changes will make for the working poor.",
+      "abstract": "As more cities and states raise their minimum wages, researchers question how much difference the changes will make for the working poor.",
+      "lead_paragraph": "CHICAGO — A growing number of economists have found that many cities and states have considerable room to raise the minimum wage before employers meaningfully cut back on hiring.",
+      "publication_date": "2017-01-11T01:45:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/10/business/economy/national-minimum-wage-.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Obama, Saying Goodbye, Warns of Threats to National Unity",
+      "snippet": "The president’s confidence was etched with frustration over economic inequity, racism and closed-mindedness that he said imperiled the nation’s democratic fabric.",
+      "abstract": "The president’s confidence was etched with frustration over economic inequity, racism and closed-mindedness that he said imperiled the nation’s democratic fabric.",
+      "lead_paragraph": "CHICAGO — President Obama, delivering a farewell address in the city that launched his political career, declared on Tuesday his continued confidence in the American experiment. But he warned, in the wake of a toxic presidential election, that economic inequity, racism and closed-mindedness threatened to shred the nation’s democratic fabric.",
+      "publication_date": "2017-01-11T05:42:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/11/us/obama-farewell-address-president.html",
+      "byline": "By Mark Landler and Julie Bosman"
+    },
+    {
+      "headline": "How Netflix Is Deepening Our Cultural Echo Chambers",
+      "snippet": "There was a lot to criticize about broadcast TV, but it brought the nation together. Streaming services are doing the opposite.",
+      "abstract": "There was a lot to criticize about broadcast TV, but it brought the nation together. Streaming services are doing the opposite.",
+      "lead_paragraph": "When “One Day at a Time” started its run on CBS in December 1975, it became an instant hit and remained so for almost a decade.",
+      "publication_date": "2017-01-11T10:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/11/technology/how-netflix-is-deepening-our-cultural-echo-chambers.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Trump, a New Style of Fighter, Takes the Ring",
+      "snippet": "Donald J. Trump’s buoyantly belligerent news conference showed he had no plans to betray his roots to appear more presidential.",
+      "abstract": "Donald J. Trump’s buoyantly belligerent news conference showed he had no plans to betray his roots to appear more presidential.",
+      "lead_paragraph": "WASHINGTON — President-elect Donald J. Trump’s aides often cite his appearances at professional wrestling matches as an inspiration for his outsize political speaking style, and his buoyantly belligerent news conference in New York on Wednesday proved he has no plans to betray his brawler’s roots in the service of seeming more presidential.",
+      "publication_date": "2017-01-11T15:33:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/11/us/politics/obama-trump-transition.html",
+      "byline": "By Glenn Thrush"
+    }
+  ]
+}

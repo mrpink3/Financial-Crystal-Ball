@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2017-03-10",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "With Trump in White House, Some Executives Ask, Why Not Me?",
+      "snippet": "Boldface names discussed as contenders for the Democratic nomination include Howard Schultz, Robert A. Iger, Marc Benioff, Sheryl Sandberg and Oprah Winfrey.",
+      "abstract": "Boldface names discussed as contenders for the Democratic nomination include Howard Schultz, Robert A. Iger, Marc Benioff, Sheryl Sandberg and Oprah Winfrey.",
+      "lead_paragraph": "Having reached the top of a major corporation and amassed a fortune, chief executives often wonder: What’s next?",
+      "publication_date": "2017-03-09T18:45:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/09/business/bloomberg-iger-business-executives-president.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "With Rebels Gone, Colombia Jumps Into the Pot Industry",
+      "snippet": "The government, which has received billions in American aid to eradicate the drug trade, will license a small number of companies to cultivate medical marijuana.",
+      "abstract": "The government, which has received billions in American aid to eradicate the drug trade, will license a small number of companies to cultivate medical marijuana.",
+      "lead_paragraph": "CORINTO, Colombia — For years, Blanca Riveros has had the same routine: After fixing breakfast and taking her son to school, she heads home to a large plastic trash bag filled with marijuana.",
+      "publication_date": "2017-03-09T22:51:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/09/world/americas/colombia-marijuana-farc-drugs-santos.html",
+      "byline": "By Nicholas Casey"
+    },
+    {
+      "headline": "South Korea Removes President Park Geun-hye",
+      "snippet": "The president’s ouster, after months of turmoil over a corruption scandal, is expected to shift the country’s politics to the opposition on the left.",
+      "abstract": "The president’s ouster, after months of turmoil over a corruption scandal, is expected to shift the country’s politics to the opposition on the left.",
+      "lead_paragraph": "SEOUL, South Korea — A South Korean court removed the president on Friday, a first in the nation’s history, rattling the delicate balance of relationships across Asia at a particularly tense time.",
+      "publication_date": "2017-03-10T02:25:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/09/world/asia/park-geun-hye-impeached-south-korea.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "Are You Middle Class Enough to Deserve a Health Care Tax Break?",
+      "snippet": "The Republican health care bill sets income parameters that may — or may not — look like a useful benchmark, depending on your perspective.",
+      "abstract": "The Republican health care bill sets income parameters that may — or may not — look like a useful benchmark, depending on your perspective.",
+      "lead_paragraph": "Something fascinating happened during the most recent rewrite of the Obamacare repair bill: Its authors tried to define who is middle class enough to be deserving of a big tax handout.",
+      "publication_date": "2017-03-10T10:00:29+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/10/your-money/taxes/are-you-middle-class-enough-to-deserve-a-health-care-tax-break.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Steady U.S. Job Growth Sets Stage for Fed to Raise Interest Rates",
+      "snippet": "The economy added 235,000 jobs and unemployment fell to 4.7 percent in the first full month of President Trump’s term, continuing an upturn in the labor market.",
+      "abstract": "The economy added 235,000 jobs and unemployment fell to 4.7 percent in the first full month of President Trump’s term, continuing an upturn in the labor market.",
+      "lead_paragraph": "A wave of hiring in February — President Trump’s first full month in office — pointed to a strong foundation for the nation’s economy, providing further evidence for the Federal Reserve that the moment to raise interest rates has come.",
+      "publication_date": "2017-03-10T10:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/10/business/economy/february-unemployment-jobs-report.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Even Before the Wall, Migrants Find the U.S. Forbidding",
+      "snippet": "A sharp drop in illegal crossings, possibly as a result of President Trump’s immigration policies, is being felt along both sides of the border.",
+      "abstract": "A sharp drop in illegal crossings, possibly as a result of President Trump’s immigration policies, is being felt along both sides of the border.",
+      "lead_paragraph": "SONOYTA, Mexico — Reiner Ríos Gómez, who is from Honduras’s capital, Tegucigalpa, lifted his shirt last week to expose a scar about 12 inches long in the middle of his back, where he said a machete hit him as he fled the robbers who were trying to steal his pay: 2,800 lempiras, or about $119, for half a month’s work in construction.",
+      "publication_date": "2017-03-10T10:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/10/us/trump-immigration-border.html",
+      "byline": "By Fernanda Santos, Kirk Semple and Caitlin Dickerson"
+    },
+    {
+      "headline": "‘Revolution? What Revolution?’ Russia Asks 100 Years Later",
+      "snippet": "The events of 1917 reshaped the country and the world, but the idea of celebrating an uprising of any sort is unwelcome in the Kremlin.",
+      "abstract": "The events of 1917 reshaped the country and the world, but the idea of celebrating an uprising of any sort is unwelcome in the Kremlin.",
+      "lead_paragraph": "MOSCOW — The Kremlin plans to sit out the centenary of the Russian Revolution.",
+      "publication_date": "2017-03-10T10:00:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/10/world/europe/russian-revolution-100-years-putin.html",
+      "byline": "By Neil MacFarquhar"
+    }
+  ]
+}

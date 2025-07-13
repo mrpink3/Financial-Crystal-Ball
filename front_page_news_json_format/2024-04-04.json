@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2024-04-04",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Traders Are Betting Millions That Trump Media Will Tumble",
+      "snippet": "The parent company of Truth Social is a popular target for short-sellers, even after they lost $100 million last month betting on a decline in the stock that didn’t come.",
+      "abstract": "The parent company of Truth Social is a popular target for short-sellers, even after they lost $100 million last month betting on a decline in the stock that didn’t come.",
+      "lead_paragraph": "Before former President Donald J. Trump’s social media company made its stock market debut, many investors were lining up to bet on its collapse. After the company’s share price plunged following an initial surge, the appetite to bet against the stock has grown even more ravenous.",
+      "publication_date": "2024-04-03T19:09:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/03/business/trump-media-short-selling.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Did One Guy Just Stop a Huge Cyberattack?",
+      "snippet": "A Microsoft engineer noticed something was off on a piece of software he worked on. He soon discovered someone was probably trying to gain access to computers all over the world.",
+      "abstract": "A Microsoft engineer noticed something was off on a piece of software he worked on. He soon discovered someone was probably trying to gain access to computers all over the world.",
+      "lead_paragraph": "The internet, as anyone who works deep in its trenches will tell you, is not a smooth, well-oiled machine.",
+      "publication_date": "2024-04-03T20:09:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "They Had Just Delivered Tons of Food. Then Their Convoy Was Hit.",
+      "snippet": "The deaths of World Central Kitchen workers pushed the number of aid employees killed during the war in Gaza to at least 196, according to the U.N. secretary general, António Guterres.",
+      "abstract": "The deaths of World Central Kitchen workers pushed the number of aid employees killed during the war in Gaza to at least 196, according to the U.N. secretary general, António Guterres.",
+      "lead_paragraph": "Lalzawmi Frankcom’s text message was short and sweet: a heart emoji reply at 10:38 p.m. on Sunday to her friend Josh Phelps, who had sent along photos of their humanitarian work together on a reservation in South Dakota.",
+      "publication_date": "2024-04-03T20:18:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/03/world/middleeast/israel-world-central-kitchen-gaza.html",
+      "byline": "By Cassandra Vinograd, Abu Bakr Bashir, Riley Mellen, Aaron Boxerman and Aric Toler"
+    },
+    {
+      "headline": "U.S. and China Continue to Talk, but Economic Divide Remains Wide",
+      "snippet": "Election-year rancor will make it difficult for Washington and Beijing to find areas of cooperation on trade and investment.",
+      "abstract": "Election-year rancor will make it difficult for Washington and Beijing to find areas of cooperation on trade and investment.",
+      "lead_paragraph": "When Treasury Secretary Janet L. Yellen traveled to Beijing last summer, her mission was to re-establish a dialogue between the world’s largest economies and stabilize a relationship that appeared to have reached rock bottom.",
+      "publication_date": "2024-04-03T22:05:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/03/us/politics/us-china-economic-divide.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "How to Revive a Burned Forest? Rebuild the Tree Supply Chain",
+      "snippet": "As forests succumb to ever-fiercer wildfires, the federal government and some adventurous private companies are trying to resuscitate an industry.",
+      "abstract": "As forests succumb to ever-fiercer wildfires, the federal government and some adventurous private companies are trying to resuscitate an industry.",
+      "lead_paragraph": "When it came to wildfires, 2021 was an increasingly common kind of year in Montana: Flames consumed 747,000 acres, an area nearly the size of Long Island.",
+      "publication_date": "2024-04-04T09:00:46+0000",
+      "section_name": "Headway",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/04/headway/wildfire-forestry-supply-chain.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "What Are We Told About the Health of Biden and Trump? They Decide.",
+      "snippet": "President Biden and former President Donald J. Trump are the oldest people ever to seek the presidency, challenging norms about what the public should know about candidates’ health.",
+      "abstract": "President Biden and former President Donald J. Trump are the oldest people ever to seek the presidency, challenging norms about what the public should know about candidates’ health.",
+      "lead_paragraph": "In 2008, when Senator John McCain was the oldest person to seek a first term in the White House, his campaign set out to reassure the public about his health. It let reporters examine 1,173 pages of handwritten notes, lab results and insurance documents, including details of the senator’s biopsies, his prostate exams and even the “very light tan freckling” on his buttocks.",
+      "publication_date": "2024-04-04T09:01:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/04/us/politics/biden-trump-health.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "They Want to Become Nuns and Priests. Student Debt Holds Them Back.",
+      "snippet": "For young adults who want to join certain religious orders, paying off debt before taking a vow of poverty can prove challenging. But their communities are willing to help.",
+      "abstract": "For young adults who want to join certain religious orders, paying off debt before taking a vow of poverty can prove challenging. But their communities are willing to help.",
+      "lead_paragraph": "It wasn’t until after college that Kendra Baker began to consider becoming a nun. She had been raised a Roman Catholic, and after her father fell from the roof of their home, suffering life-threatening injuries, her family called a priest to come and pray with them. A few hours later, her father opened his eyes.",
+      "publication_date": "2024-04-04T09:04:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/04/business/student-debt-catholic-fundraising.html",
+      "byline": "By Sejla Rizvic"
+    },
+    {
+      "headline": "Trump Venues Bank on Golf, With Help From Saudi Arabia",
+      "snippet": "The focus of the former president’s hotel business is shifting from big cities to his golf resorts, which are benefiting from a relationship with the Saudi-funded LIV Golf tournaments.",
+      "abstract": "The focus of the former president’s hotel business is shifting from big cities to his golf resorts, which are benefiting from a relationship with the Saudi-funded LIV Golf tournaments.",
+      "lead_paragraph": "Amateur golfers lined up on Thursday at the Trump National Doral near Miami, having agreed to pay more than $9,000 apiece to play a friendly round alongside some of the world’s top professionals.",
+      "publication_date": "2024-04-04T13:24:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/04/us/politics/trump-golf-saudi-arabia.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "Plan to Stash Pollution Beneath the Sea Could Save Money and Jobs",
+      "snippet": "The Italian energy giant Eni sees future profits from collecting carbon dioxide and pumping it into natural gas fields that have been exhausted.",
+      "abstract": "The Italian energy giant Eni sees future profits from collecting carbon dioxide and pumping it into natural gas fields that have been exhausted.",
+      "lead_paragraph": "Renowned for ancient churches and the tomb of Dante, the 14th-century poet, the city of Ravenna and its environs along Italy’s Adriatic coast are also home to old-line industries like steel and fertilizer. The manufacturing plants are of little interest to the many tourists who help sustain the area’s economy, but these sites employ tens of thousands of people.",
+      "publication_date": "2024-04-04T14:24:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/04/business/carbon-capture-europe-eni.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "TikTok Turns to Nuns, Veterans and Ranchers in Marketing Blitz",
+      "snippet": "The video app is spending millions on ads as Congress considers a bill that could lead to a U.S. ban.",
+      "abstract": "The video app is spending millions on ads as Congress considers a bill that could lead to a U.S. ban.",
+      "lead_paragraph": "In a TV commercial, Sister Monica Clare, a nun in northern New Jersey, walks through a church that’s bathed in sunlight and sits in a pew, crossing herself. Her message: TikTok is a force for good.",
+      "publication_date": "2024-04-04T15:14:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/04/business/media/tiktok-marketing-blitz-ban.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Ford Slows Its Push Into Electric Vehicles",
+      "snippet": "The automaker said it would delay new battery-powered models and shift its focus to hybrid cars, sales of which are rising fast.",
+      "abstract": "The automaker said it would delay new battery-powered models and shift its focus to hybrid cars, sales of which are rising fast.",
+      "lead_paragraph": "Ford Motor on Thursday delayed the production of at least two new electric cars and said it would pivot to making more hybrids. Its decision was the latest sign that large automakers have been forced to rethink their strategy for electric vehicles because sales for those models are slowing.",
+      "publication_date": "2024-04-04T15:34:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/04/business/ford-delays-electric-vehicles.html",
+      "byline": "By Neal E. Boudette"
+    }
+  ]
+}

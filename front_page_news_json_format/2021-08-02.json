@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2021-08-02",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "A Fire in Minnesota. An Arrest in Mexico. Cameras Everywhere.",
+      "snippet": "One night in the Twin Cities, shortly after the killing of George Floyd, someone set a fire in a Goodwill. That led to an international search for the culprits — and it exposed a growing system of global surveillance.",
+      "abstract": "One night in the Twin Cities, shortly after the killing of George Floyd, someone set a fire in a Goodwill. That led to an international search for the culprits — and it exposed a growing system of global surveillance.",
+      "lead_paragraph": "Mena Yousif wore dark clothing to the protest, with white sneakers and a blue hijab that she could pull over her face, perfect gear during a pandemic. Jose Felan, stocky and tall, wore a baseball cap and a gray T-shirt that showed off a distinctive tattoo on his forearm: “Mena,” with a crown above the “a.”",
+      "publication_date": "2021-08-01T07:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/08/01/technology/minneapolis-protests-facial-recognition.html",
+      "byline": "By Kashmir Hill"
+    },
+    {
+      "headline": "Can Paramount+ Succeed? One Producer Hopes to Make It So.",
+      "snippet": "“He’s our future,” one CBS Studios executive said of Alex Kurtzman, who has a lucrative contract to expand the “Star Trek” universe — and with it the streaming service’s audience.",
+      "abstract": "“He’s our future,” one CBS Studios executive said of Alex Kurtzman, who has a lucrative contract to expand the “Star Trek” universe — and with it the streaming service’s audience.",
+      "lead_paragraph": "Like so many other writer-directors, Alex Kurtzman grew up worshiping film.",
+      "publication_date": "2021-08-01T09:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/01/business/media/alex-kurtzman-paramount-cbs-star-trek.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Riots Shatter Veneer of Coexistence in Israel’s Mixed Towns",
+      "snippet": "Israel’s Jewish and Palestinian communities looked past each other until violence and bloodshed forced a reckoning.",
+      "abstract": "Israel’s Jewish and Palestinian communities looked past each other until violence and bloodshed forced a reckoning.",
+      "lead_paragraph": "ACRE, Israel — Uri Jeremias, a celebrated Israeli chef, saw himself as a benefactor. By bringing jobs, tourists and investment to the mainly Arab heart of the coastal town of Acre, he believed he was seen as nurturing coexistence between Jews and Arabs.",
+      "publication_date": "2021-08-01T09:00:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html",
+      "byline": "By Roger Cohen"
+    },
+    {
+      "headline": "A Fight Over Zoning Tests Charlottesville’s Progress on Race",
+      "snippet": "Four years after a white supremacist march, the Virginia city is reconsidering its housing and zoning rules.",
+      "abstract": "Four years after a white supremacist march, the Virginia city is reconsidering its housing and zoning rules.",
+      "lead_paragraph": "CHARLOTTESVILLE, Va. — In early July, crews showed up downtown for some long-delayed evictions. After years of protest, litigation and even violence, the statues of two Confederate generals, Lee and Jackson, were finally carted out of city parks, expelled by the city’s drive to right its past wrongs.",
+      "publication_date": "2021-08-01T19:32:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/01/us/charlottesville-va-zoning-affordable-housing.html",
+      "byline": "By Campbell Robertson"
+    },
+    {
+      "headline": "To Fight Vaccine Lies, Authorities Recruit an ‘Influencer Army’",
+      "snippet": "The White House has teamed up with TikTok stars, while some states are paying “local micro influencers” for pro-vaccine campaigns.",
+      "abstract": "The White House has teamed up with TikTok stars, while some states are paying “local micro influencers” for pro-vaccine campaigns.",
+      "lead_paragraph": "LOS ANGELES — Ellie Zeiler, 17, a TikTok creator with over 10 million followers, received an email in June from Village Marketing, an influencer marketing agency. It said it was reaching out on behalf of another party: the White House.",
+      "publication_date": "2021-08-01T20:25:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html",
+      "byline": "By Taylor Lorenz"
+    },
+    {
+      "headline": "How Local Media Spreads Misinformation From Vaccine Skeptics",
+      "snippet": "Facebook and other social media have been under scrutiny for vaccine misinformation, but local outlets have also sometimes been active.",
+      "abstract": "Facebook and other social media have been under scrutiny for vaccine misinformation, but local outlets have also sometimes been active.",
+      "lead_paragraph": "The Freedom’s Phoenix, a local news site in Phoenix, and The Atlanta Business Journal, a news site in Atlanta, both published the same article about coronavirus vaccines in March.",
+      "publication_date": "2021-08-01T20:38:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/01/technology/local-media-misinformation-vaccine-skeptics.html",
+      "byline": "By Sheera Frenkel and Tiffany Hsu"
+    },
+    {
+      "headline": "Where a Vast Global Vaccination Program Went Wrong",
+      "snippet": "After months of struggle, the U.N.-backed Covax alliance will soon have many more doses, promising relief for vaccine shortages in poorer countries. But it faces a deepening crisis: difficulties getting shots into arms as the Delta variant spreads...",
+      "abstract": "After months of struggle, the U.N.-backed Covax alliance will soon have many more doses, promising relief for vaccine shortages in poorer countries. But it faces a deepening crisis: difficulties getting shots into arms as the Delta variant spreads.",
+      "lead_paragraph": "Deaths from Covid-19 were surging across Africa in June when 100,000 doses of the Pfizer-BioNTech vaccine arrived in Chad. The delivery seemed proof that the United Nations-backed program to immunize the world could get the most desirable vaccines to the least developed nations. Yet five weeks later, Chad’s health minister said, 94,000 doses remained unused.",
+      "publication_date": "2021-08-02T07:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/02/world/europe/covax-covid-vaccine-problems-africa.html",
+      "byline": "By Benjamin Mueller and Rebecca Robbins"
+    },
+    {
+      "headline": "A Wall Street Dressing Down: Always. Be. Casual.",
+      "snippet": "As workers return to the financial district, longstanding dress codes have been relaxed. Right now, almost anything goes. Even jeans.",
+      "abstract": "As workers return to the financial district, longstanding dress codes have been relaxed. Right now, almost anything goes. Even jeans.",
+      "lead_paragraph": "The suits are returning to the office. In chinos. And sneakers. And ballet flats.",
+      "publication_date": "2021-08-02T07:00:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/02/business/wall-street-casual.html",
+      "byline": "By Lananh Nguyen, Melodie Jeng and Brent Murray"
+    },
+    {
+      "headline": "Lack of Foreign Workers Has Seasonal Businesses Scrambling",
+      "snippet": "Even with a visa cap increased, the pandemic’s disruption has left a dearth of landscapers, crabbers and restaurant help.",
+      "abstract": "Even with a visa cap increased, the pandemic’s disruption has left a dearth of landscapers, crabbers and restaurant help.",
+      "lead_paragraph": "SALT LAKE CITY — Tyler Holt summed up the problem his Utah landscaping business faces every year. “People who want to be in the job force want stability — if they want to work, they work full time,” he said. “Locally there’s just no workers who want to do anything seasonal.”",
+      "publication_date": "2021-08-02T09:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/02/business/economy/seasonal-foreign-guest-workers.html",
+      "byline": "By Patricia Cohen and Sydney Ember"
+    },
+    {
+      "headline": "Haitians Investigating President’s Death, Under Threat, Go Into Hiding",
+      "snippet": "The officials, two court clerks and an investigative judge who collected evidence in President Jovenel Moïse’s assassination, are now in hiding.",
+      "abstract": "The officials, two court clerks and an investigative judge who collected evidence in President Jovenel Moïse’s assassination, are now in hiding.",
+      "lead_paragraph": "PORT-AU-PRINCE, Haiti — They examined the bodies of Haiti’s slain president and of the mercenaries who are accused of conspiring to kill him. Now they are in hiding, changing their location every few hours, with a backpack full of legal documents that could determine the fate of Haiti’s most important trial in decades.",
+      "publication_date": "2021-08-02T12:47:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/02/world/americas/haiti-jovenel-moise-killing.html",
+      "byline": "By Anatoly Kurmanaev"
+    },
+    {
+      "headline": "Looking for St. Mark’s Square? You May Find Yourself in a Shipyard Instead.",
+      "snippet": "As Venice’s ban on cruise ships took effect this weekend, some tourists were surprised to be docked hours away from the city’s famous sights.",
+      "abstract": "As Venice’s ban on cruise ships took effect this weekend, some tourists were surprised to be docked hours away from the city’s famous sights.",
+      "lead_paragraph": "MONFALCONE, Italy — Vittoria Comparone had never been to Venice. So for her coming honeymoon, she booked a dream cruise including a majestic approach to the city past St. Mark’s Square, the Doge’s Palace and all the astonishing, photogenic treasures along the Giudecca Canal.",
+      "publication_date": "2021-08-02T13:32:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/02/world/europe/italy-venice-tourism-cruise-ships.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "The App With the Unprintable Name That Wants to Give Power to Creators",
+      "snippet": "Fed up with the imbalance between online influencers and brands, Lindsey Lee Lugrin and Isha Mehra created a platform to change that.",
+      "abstract": "Fed up with the imbalance between online influencers and brands, Lindsey Lee Lugrin and Isha Mehra created a platform to change that.",
+      "lead_paragraph": "LOS ANGELES — Six years ago, Lindsey Lee Lugrin, a budding social media creator and model, was given the chance to be featured in a Marc by Marc Jacobs ad campaign. She was paid $1,000.",
+      "publication_date": "2021-08-02T14:53:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/02/technology/fypm-creators-app-pay.html",
+      "byline": "By Taylor Lorenz"
+    }
+  ]
+}

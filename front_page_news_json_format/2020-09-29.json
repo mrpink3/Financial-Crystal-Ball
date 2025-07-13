@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-09-29",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Even as Americans Grew Richer, Inequality Persisted",
+      "snippet": "A Federal Reserve survey of family finances shows that inequality was high last year. It’s likely to worsen because of the pandemic.",
+      "abstract": "A Federal Reserve survey of family finances shows that inequality was high last year. It’s likely to worsen because of the pandemic.",
+      "lead_paragraph": "American families shored up their savings substantially between 2016 and 2019, according to Federal Reserve data released on Monday, but wealth inequality remained stubbornly high — and that was before the coronavirus pandemic took hold.",
+      "publication_date": "2020-09-28T16:01:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/28/business/economy/coronavirus-pandemic-income-inequality.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Trump, Biden and ‘Made in U.S.A.’: Same Refrain, Varying Notes",
+      "snippet": "Joe Biden’s economic proposals show how the president has shifted the playing field toward protectionism. But there may be fewer jobs to lose, or regain.",
+      "abstract": "Joe Biden’s economic proposals show how the president has shifted the playing field toward protectionism. But there may be fewer jobs to lose, or regain.",
+      "lead_paragraph": "In July, former Vice President Joseph R. Biden Jr. presented an economic strategy to “rebuild domestic manufacturing capacity,” restoring local supply chains from semiconductors to pharmaceuticals. In September he added a tax penalty to the plan, aimed at companies that move jobs to other countries, alongside a tax credit for businesses that bring them home.",
+      "publication_date": "2020-09-28T18:02:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/28/business/economy/biden-trump-made-in-usa.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "How Barrett and the Court Fight Are Influencing Swing Voters",
+      "snippet": "Americans who are still making up their minds in the presidential contest are weighing a complex set of issues and applying a range of viewpoints to the two candidates. They don’t fit neatly into partisan stereotypes.",
+      "abstract": "Americans who are still making up their minds in the presidential contest are weighing a complex set of issues and applying a range of viewpoints to the two candidates. They don’t fit neatly into partisan stereotypes.",
+      "lead_paragraph": "Jennifer Mintun is a Catholic stay-at-home mother in Denver, N.C., who thinks there should be more restrictions on abortion rights. But she’s worried that Judge Amy Coney Barrett, President Trump’s nominee to the Supreme Court, may go too far in opposing abortion and same-sex marriage.",
+      "publication_date": "2020-09-28T22:58:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/28/us/politics/amy-barrett-supreme-court-voters.html",
+      "byline": "By Reid J. Epstein"
+    },
+    {
+      "headline": "Trump Deflects Questions About Taxes, but First Debate Has a New Issue",
+      "snippet": "While the president’s Republican allies generally kept their silence, Democrats pounced and former Vice President Joseph R. Biden Jr., the party’s presidential candidate, posted a video noting that the president paid less in income taxes than ever...",
+      "abstract": "While the president’s Republican allies generally kept their silence, Democrats pounced and former Vice President Joseph R. Biden Jr., the party’s presidential candidate, posted a video noting that the president paid less in income taxes than everyday Americans.",
+      "lead_paragraph": "[Read our profile detailing Joe Biden’s road to the White House and presidency.]",
+      "publication_date": "2020-09-28T23:26:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/28/us/politics/trump-taxes-presidential-debate.html",
+      "byline": "By Peter Baker and Michael D. Shear"
+    },
+    {
+      "headline": "Behind the White House Effort to Pressure the C.D.C. on School Openings",
+      "snippet": "Documents and interviews show how senior officials sought to play down the risks of sending children back to the classroom, alarming public health experts.",
+      "abstract": "Documents and interviews show how senior officials sought to play down the risks of sending children back to the classroom, alarming public health experts.",
+      "lead_paragraph": "WASHINGTON — Top White House officials pressured the Centers for Disease Control and Prevention this summer to play down the risk of sending children back to school, a strikingly political intervention in one of the most sensitive public health debates of the pandemic, according to documents and interviews with current and former government officials.",
+      "publication_date": "2020-09-29T00:14:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/28/us/politics/white-house-cdc-coronavirus-schools.html",
+      "byline": "By Mark Mazzetti, Noah Weiland and Sharon LaFraniere"
+    },
+    {
+      "headline": "Tax Records Reveal How Fame Gave Trump a $427 Million Lifeline",
+      "snippet": "“The Apprentice” rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House.",
+      "abstract": "“The Apprentice” rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House.",
+      "lead_paragraph": "“The Apprentice” rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House.",
+      "publication_date": "2020-09-29T01:16:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2020/09/28/us/donald-trump-taxes-apprentice.html",
+      "byline": "By Mike McIntire"
+    },
+    {
+      "headline": "Prosecutors Target Ex-Audi Chief in First VW Emissions Trial",
+      "snippet": "Rupert Stadler is accused of continuing to sell cars with illegal software even after Volkswagen’s cheating scandal came to light.",
+      "abstract": "Rupert Stadler is accused of continuing to sell cars with illegal software even after Volkswagen’s cheating scandal came to light.",
+      "lead_paragraph": "Ever since Volkswagen was caught five years ago using illegal software to conceal the fact that its “clean diesels” were actually rolling pollution machines, the company has insisted that the wrongdoing was the work of lower-level employees. Managers at the very top were clueless, Volkswagen’s lawyers have said.",
+      "publication_date": "2020-09-29T04:01:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/29/business/Volkswagen-Audi-rupert-stadler-diesel.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Immigrants Say They Were Pressured Into Unneeded Surgeries",
+      "snippet": "Immigrants detained at an ICE-contracted center in Georgia said they had invasive gynecology procedures that they later learned might have been unnecessary.",
+      "abstract": "Immigrants detained at an ICE-contracted center in Georgia said they had invasive gynecology procedures that they later learned might have been unnecessary.",
+      "lead_paragraph": "Wendy Dowe was startled awake early one morning in January 2019, when guards called her out of her cellblock in the Irwin County immigration detention center in rural Georgia, where she had been held for four months. She would be having surgery that day, they said.",
+      "publication_date": "2020-09-29T09:00:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/29/us/ice-hysterectomies-surgeries-georgia.html",
+      "byline": "By Caitlin Dickerson, Seth Freed Wessler and Miriam Jordan"
+    },
+    {
+      "headline": "How Coal-Loving Australia Became the Leader in Rooftop Solar",
+      "snippet": "Embracing solar panels to save money, homeowners have made the country a powerhouse in renewable energy.",
+      "abstract": "Embracing solar panels to save money, homeowners have made the country a powerhouse in renewable energy.",
+      "lead_paragraph": "CAIRNS, Australia — Australia is the world’s second-largest exporter of coal, which plays an outsize role in its economy and politics. But the country has also quietly become a renewable energy powerhouse.",
+      "publication_date": "2020-09-29T09:00:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/29/business/energy-environment/australia-rooftop-solar-coal.html",
+      "byline": "By Livia Albeck-Ripka and Ivan Penn"
+    },
+    {
+      "headline": "Vilified Early Over Lax Virus Strategy, Sweden Seems to Have Scourge Controlled",
+      "snippet": "After having weathered high death rates when it resisted a lockdown in the spring, Sweden now has one of Europe’s lowest rates of daily new cases. Whether that is an aberration remains to be seen.",
+      "abstract": "After having weathered high death rates when it resisted a lockdown in the spring, Sweden now has one of Europe’s lowest rates of daily new cases. Whether that is an aberration remains to be seen.",
+      "lead_paragraph": "STOCKHOLM — The scene at Norrsken House Stockholm, a co-working space, oozed with radical normalcy: Young, turtleneck-wearing hipsters schmoozed in the coffee corner. Others chatted freely away, at times quite near each other, in cozy conference rooms. Face masks were nowhere to be seen.",
+      "publication_date": "2020-09-29T13:24:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/29/world/europe/sweden-coronavirus-strategy.html",
+      "byline": "By Thomas Erdbrink"
+    },
+    {
+      "headline": "Pandemic Imperils Promotions for Women in Academia",
+      "snippet": "Even as faculty members are given more time to meet a deadline for tenure, many say they are getting less work done because of child care needs.",
+      "abstract": "Even as faculty members are given more time to meet a deadline for tenure, many say they are getting less work done because of child care needs.",
+      "lead_paragraph": "EVANSTON, Ill. — Like millions of parents, Kimberly Marion Suiseeya, a political-science professor at Northwestern University, saw her work life upended when her third grader’s school shut down in March. Later, she was demoralized to learn that local schools would not reopen this fall.",
+      "publication_date": "2020-09-29T15:04:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/29/business/economy/pandemic-women-tenure.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-09-05",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Kim Jong-un and Putin Plan to Meet in Russia to Discuss Weapons",
+      "snippet": "Russia seeks more weaponry for its war in Ukraine, and a North Korean delegation recently traveled to Russia by train to plan for Mr. Kim’s visit this month, officials say.",
+      "abstract": "Russia seeks more weaponry for its war in Ukraine, and a North Korean delegation recently traveled to Russia by train to plan for Mr. Kim’s visit this month, officials say.",
+      "lead_paragraph": "Kim Jong-un, the leader of North Korea, plans to travel to Russia this month to meet with President Vladimir V. Putin to discuss the possibility of supplying Russia with more weaponry for its war in Ukraine and other military cooperation, according to American and allied officials.",
+      "publication_date": "2023-09-04T18:06:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/04/us/politics/putin-kim-meeting-russia-north-korea-weapons.html",
+      "byline": "By Edward Wong and Julian E. Barnes"
+    },
+    {
+      "headline": "Telluride Film Festival Goes On, Despite Anxiety Over Strikes",
+      "snippet": "The festival opened this weekend with fewer stars, who were wary of breaking union rules about promoting films while two strikes have shut down much of Hollywood.",
+      "abstract": "The festival opened this weekend with fewer stars, who were wary of breaking union rules about promoting films while two strikes have shut down much of Hollywood.",
+      "lead_paragraph": "Majestic vistas, burbling brooks and sanguine festival goers are the hallmarks of the Telluride Film Festival, a showcase for the most prestigious films of the year. But no amount of natural beauty can overcome the low-level of anxiety that coursed through this mountain town over Labor Day weekend. With dual strikes raging in Hollywood — the writers’ strike just hit four months — no one wants to appear out of step with these unprecedented times.",
+      "publication_date": "2023-09-04T18:12:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/04/business/media/sag-aftra-strike-telluride.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Chinese Cars Star at Munich Auto Show, Underscoring German Economic Woes",
+      "snippet": "China, an electric-vehicle juggernaut, will have at least seven brands on display, while Germany’s automakers are now a drag on their home economy.",
+      "abstract": "China, an electric-vehicle juggernaut, will have at least seven brands on display, while Germany’s automakers are now a drag on their home economy.",
+      "lead_paragraph": "For decades, the phrase “Made in Germany” signaled cutting-edge automotive technology and design. But now German automakers are falling behind in the global race to produce more electric vehicles, and some executives are using a new catchphrase to describe how quickly they need to catch up: “China speed.”",
+      "publication_date": "2023-09-05T04:01:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/05/world/europe/chinese-automakers-iaa-mobility-german-auto-show.html",
+      "byline": "By Melissa Eddy"
+    },
+    {
+      "headline": "A $700 Million Bonanza for the Winners of Crypto’s Collapse: Lawyers",
+      "snippet": "Bankruptcy lawyers and other corporate turnaround specialists have reaped major fees from the bankruptcies of five cryptocurrency companies, including FTX.",
+      "abstract": "Bankruptcy lawyers and other corporate turnaround specialists have reaped major fees from the bankruptcies of five cryptocurrency companies, including FTX.",
+      "lead_paragraph": "The collapse in cryptocurrency prices last year forced a procession of major firms into bankruptcy, triggering a government crackdown and erasing the savings of millions of inexperienced investors.",
+      "publication_date": "2023-09-05T09:01:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/05/technology/crypto-collapse-lawyers-turnaround-specialists.html",
+      "byline": "By David Yaffe-Bellany and Yiwen Lu"
+    },
+    {
+      "headline": "Can Kenya Bring Order to Haiti? Doubts Are Swirling.",
+      "snippet": "The African country has volunteered to send forces to Haiti as its security crisis spirals out of control. But the plan is facing pushback.",
+      "abstract": "The African country has volunteered to send forces to Haiti as its security crisis spirals out of control. But the plan is facing pushback.",
+      "lead_paragraph": "Every day, Vélina Élysée Charlier drives past barricaded neighborhoods and frequently sees dead bodies lying on the street, she said, a result of score-settling between gangs and vigilantes in Haiti’s capital.",
+      "publication_date": "2023-09-05T09:02:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/05/world/americas/haiti-kenya-force-gangs.html",
+      "byline": "By Simon Romero, Andre Paultre and Abdi Latif Dahir"
+    },
+    {
+      "headline": "North Korea Finds New Leverage in the Ukraine War",
+      "snippet": "Kim Jong-un is likely to seek missile and warhead technology in an expected visit to Russia, and he is already getting a public embrace he has long sought.",
+      "abstract": "Kim Jong-un is likely to seek missile and warhead technology in an expected visit to Russia, and he is already getting a public embrace he has long sought.",
+      "lead_paragraph": "For Kim Jong-un, the leader of North Korea, a rare trip to Russia this month to discuss military aid for President Vladimir V. Putin’s Ukraine war effort could provide two things the North has wanted for a long time: technical help with its weapons programs, and to finally be needed by an important neighbor.",
+      "publication_date": "2023-09-05T10:57:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/05/world/asia/north-korea-russia-kim-jong-un.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "Federal Court Again Strikes Down Alabama’s Congressional Map",
+      "snippet": "Republicans failed to comply with a court order to create a second majority Black district or something “close to it,” the judicial panel said.",
+      "abstract": "Republicans failed to comply with a court order to create a second majority Black district or something “close to it,” the judicial panel said.",
+      "lead_paragraph": "A panel of federal judges rejected Alabama’s latest congressional map on Tuesday, ruling that a new map needed to be drawn because Republican lawmakers had failed to comply with orders to create a second majority Black district or something “close to it.”",
+      "publication_date": "2023-09-05T14:16:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/05/us/politics/alabama-congressional-map.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "Pork Industry Grapples With Whiplash of Shifting Regulations",
+      "snippet": "Retailers in California, and pig farmers and processors thousands of miles away, are bracing for the impact of a state ban on some sources of the meat.",
+      "abstract": "Retailers in California, and pig farmers and processors thousands of miles away, are bracing for the impact of a state ban on some sources of the meat.",
+      "lead_paragraph": "These were supposed to be boom times for Pederson’s Natural Farms.",
+      "publication_date": "2023-09-05T14:26:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/05/business/pork-prices-california.html",
+      "byline": "By Julie Creswell"
+    }
+  ]
+}

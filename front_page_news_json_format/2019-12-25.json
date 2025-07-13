@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2019-12-25",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Boeing Can’t Fly Its 737 Max, but It’s Ready to Sell Its Safety",
+      "snippet": "The company knows travelers are wary of its plane, so it has prepared presentations with strategies for airlines to help win back the public’s trust.",
+      "abstract": "The company knows travelers are wary of its plane, so it has prepared presentations with strategies for airlines to help win back the public’s trust.",
+      "lead_paragraph": "Since Boeing’s 737 Max jet was grounded in March, after two crashes killed 346 people, a question has loomed for the company: Would passengers be too scared to fly on the plane once it returned to the air? ",
+      "publication_date": "2019-12-24T16:55:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/24/business/boeing-737-max-survey.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Italy Is in a Hazelnut Cream-Filled Civil War",
+      "snippet": "With Italians’ appetite for snack food growing, Barilla and Ferrero are in a pitched battle to make sure their cookies come out on top.",
+      "abstract": "With Italians’ appetite for snack food growing, Barilla and Ferrero are in a pitched battle to make sure their cookies come out on top.",
+      "lead_paragraph": "MILAN — As Marianna Farina and her husband did some Christmas shopping on a windy night in Milan, she noticed lots of people walking around with small brown packages of cookies. ",
+      "publication_date": "2019-12-24T17:22:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/24/business/nutella-barilla-cookie.html",
+      "byline": "By Jason Horowitz and Anna Momigliano"
+    },
+    {
+      "headline": "Saudi Arabia Wants Your Next Vacation",
+      "snippet": "The oil-rich kingdom is betting on tourism to broaden its economy, but will visitors come?",
+      "abstract": "The oil-rich kingdom is betting on tourism to broaden its economy, but will visitors come?",
+      "lead_paragraph": "AL-UYAYNAH, Saudi Arabia — In a makeshift camp under a starry sky, Ghazi Al-Anazi talked about his experience in the fledgling Saudi tourist business. A decade ago, barely in his 20s, he started taking British business associates of his brother to see the wind-carved hills of the Saudi desert. ",
+      "publication_date": "2019-12-25T10:27:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/25/business/saudi-arabia-tourism.html",
+      "byline": "By Stanley Reed"
+    }
+  ]
+}

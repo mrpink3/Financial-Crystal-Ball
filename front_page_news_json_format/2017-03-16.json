@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-03-16",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "2 Federal Judges Rule Against Trump’s Latest Travel Ban",
+      "snippet": "Both rulings — the one in Hawaii more expansive than the one in Maryland — said the likely purpose of the president’s order was a de facto ban on Muslims.",
+      "abstract": "Both rulings — the one in Hawaii more expansive than the one in Maryland — said the likely purpose of the president’s order was a de facto ban on Muslims.",
+      "lead_paragraph": "A federal judge in Hawaii issued a nationwide order Wednesday evening blocking President Trump’s ban on travel from parts of the Muslim world, dealing a stinging blow to the White House and signaling that Mr. Trump will have to account in court for his heated rhetoric about Islam.",
+      "publication_date": "2017-03-15T17:22:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/15/us/politics/trump-travel-ban.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "Gamer’s Death Pushes Risks of Live Streaming Into View",
+      "snippet": "After Brian C. Vigneault died near the end of a 24-hour live stream, many players acknowledged the health risks of a culture that rewards those who stay online for hours.",
+      "abstract": "After Brian C. Vigneault died near the end of a 24-hour live stream, many players acknowledged the health risks of a culture that rewards those who stay online for hours.",
+      "lead_paragraph": "Early on Feb. 19, Brian C. Vigneault was nearing the end of a 24-hour marathon of live streaming himself playing the tank warfare video game World of Tanks when he left his computer to buy a pack of cigarettes. He never returned.",
+      "publication_date": "2017-03-15T17:27:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/15/technology/personaltech/live-streaming-gaming-death.html",
+      "byline": "By Daniel E. Slotnik"
+    },
+    {
+      "headline": "Openly Testy, Republicans Reject the President’s Wiretap Claims",
+      "snippet": "Representative Devin Nunes, the Republican chairman of the House Intelligence Committee, said he did not think there had been a wiretap on Trump Tower.",
+      "abstract": "Representative Devin Nunes, the Republican chairman of the House Intelligence Committee, said he did not think there had been a wiretap on Trump Tower.",
+      "lead_paragraph": "WASHINGTON — In a striking repudiation, Republicans on Wednesday threatened subpoenas and vented openly about the lack of evidence behind President Trump’s tweet that President Barack Obama had wiretapped his phones in Trump Tower during the 2016 campaign.",
+      "publication_date": "2017-03-15T18:08:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/15/us/politics/trump-wiretap-claim-obama-comey-congress.html",
+      "byline": "By Michael D. Shear, Adam Goldman and Emmarie Huetteman"
+    },
+    {
+      "headline": "Geert Wilders Falls Short in Election, as Wary Dutch Scatter Their Votes",
+      "snippet": "Voters turned out in record numbers, and rewarded right and center-right parties that had co-opted parts of Mr. Wilders’s message.",
+      "abstract": "Voters turned out in record numbers, and rewarded right and center-right parties that had co-opted parts of Mr. Wilders’s message.",
+      "lead_paragraph": "THE HAGUE — The far-right politician Geert Wilders fell short of expectations in Dutch elections on Wednesday, gaining seats but failing to persuade a decisive portion of voters to back his extreme positions on barring Muslim immigrants and jettisoning the European Union, according to official results and exit polls.",
+      "publication_date": "2017-03-16T00:31:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/15/world/europe/geert-wilders-netherlands-far-right-vote.html",
+      "byline": "By Alissa J. Rubin"
+    },
+    {
+      "headline": "Pentagon Grows, While E.P.A. and State Dept. Shrink in Trump’s Budget",
+      "snippet": "In reordering the nation’s priorities, the president would send billions to the southern border and the Pentagon and cut funds for foreign aid and the environment.",
+      "abstract": "In reordering the nation’s priorities, the president would send billions to the southern border and the Pentagon and cut funds for foreign aid and the environment.",
+      "lead_paragraph": "WASHINGTON — President Trump will send a budget to Congress on Thursday that sharply reorders the nation’s priorities by spending billions of dollars on defending the southern border and bolstering the Pentagon while severely cutting funds for foreign aid, poverty programs and the environment.",
+      "publication_date": "2017-03-16T04:01:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/16/us/politics/trump-budget-spending-cuts.html",
+      "byline": "By Alan Rappeport and Glenn Thrush"
+    },
+    {
+      "headline": "While Scolding Trump, Mexico Seeks to Curtail Citizens’ Rights",
+      "snippet": "A bill to overhaul the legal system would set back human rights in Mexico by decades, experts fear, while another bill would legalize the military’s domestic security role.",
+      "abstract": "A bill to overhaul the legal system would set back human rights in Mexico by decades, experts fear, while another bill would legalize the military’s domestic security role.",
+      "lead_paragraph": "MEXICO CITY — Even as Mexico fumes over President Trump’s aggressive stance toward its people, the Mexican government is quietly trying to rip up basic legal protections for its citizens at home and gut longstanding efforts to fix the nation’s broken rule of law.",
+      "publication_date": "2017-03-16T09:00:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/16/world/americas/mexico-trump-pena-nieto-wall-drug-war.html",
+      "byline": "By Azam Ahmed"
+    }
+  ]
+}

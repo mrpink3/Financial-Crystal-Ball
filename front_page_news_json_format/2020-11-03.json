@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-11-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "As Election Day Arrives, Trump Shifts Between Combativeness and Grievance",
+      "snippet": "The president is sounding notes of bravado and exasperation at the end of a divisive campaign. But he may have severed himself from the political realities of a country in crisis.",
+      "abstract": "The president is sounding notes of bravado and exasperation at the end of a divisive campaign. But he may have severed himself from the political realities of a country in crisis.",
+      "lead_paragraph": "President Trump arrives at Election Day on Tuesday toggling between confidence and exasperation, bravado and grievance, and marinating in frustration that he is trailing Joseph R. Biden Jr., whom he considers an unworthy opponent.",
+      "publication_date": "2020-11-02T19:55:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/02/us/politics/trump-campaign.html",
+      "byline": "By Maggie Haberman, Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "As Voting Nears End, Battle Intensifies Over Which Ballots Will Count",
+      "snippet": "President Trump and his allies say they intend an aggressive challenge to how the votes are counted in key states, and Democrats are mobilizing to meet it.",
+      "abstract": "President Trump and his allies say they intend an aggressive challenge to how the votes are counted in key states, and Democrats are mobilizing to meet it.",
+      "lead_paragraph": "[President-elect Joe Biden’s victory prompts spontaneous celebrations.]",
+      "publication_date": "2020-11-03T00:19:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/02/us/politics/election-day-ballot-counting.html",
+      "byline": "By Jim Rutenberg, Michael S. Schmidt, Nick Corasaniti and Peter Baker"
+    },
+    {
+      "headline": "Undeterred by Pandemic, Americans Prepare to Deliver Verdict on Trump",
+      "snippet": "President Trump and Joseph R. Biden Jr. barnstormed through battleground states, concluding an extraordinary campaign conducted amid a health crisis and deep economic anxiety.",
+      "abstract": "President Trump and Joseph R. Biden Jr. barnstormed through battleground states, concluding an extraordinary campaign conducted amid a health crisis and deep economic anxiety.",
+      "lead_paragraph": "[These are the key states President-elect Joe Biden won.]",
+      "publication_date": "2020-11-03T01:01:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/02/us/politics/trump-covid.html",
+      "byline": "By Shane Goldmacher"
+    },
+    {
+      "headline": "China Halts Ant Group’s Blockbuster I.P.O.",
+      "snippet": "A dual listing in Shanghai and Hong Kong was postponed one day after Chinese regulators summoned Jack Ma and other executives of the financial technology giant.",
+      "abstract": "A dual listing in Shanghai and Hong Kong was postponed one day after Chinese regulators summoned Jack Ma and other executives of the financial technology giant.",
+      "lead_paragraph": "Ant Group challenged China’s state-dominated banking system by bringing easy-to-use payments, borrowing and investing to hundreds of millions of smartphones across the country. On Tuesday, Chinese officialdom reminded the company who was really in charge.",
+      "publication_date": "2020-11-03T05:39:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/03/technology/ant-ipo-jack-ma-summoned.html",
+      "byline": "By Raymond Zhong and Cao Li"
+    },
+    {
+      "headline": "China Envisions a New Hong Kong, Firmly Under Its Control",
+      "snippet": "The government hopes to turn Hainan Island into a financial and shopping destination. Matching the former British colony won’t be easy.",
+      "abstract": "The government hopes to turn Hainan Island into a financial and shopping destination. Matching the former British colony won’t be easy.",
+      "lead_paragraph": "HAIKOU, China — Low taxes. Duty-free shopping. Sandy beaches. The Communist Party even wants to put people on yachts.",
+      "publication_date": "2020-11-03T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/03/business/china-hong-kong-hainan-island.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "If Restaurants Go, What Happens to Cities?",
+      "snippet": "Restaurants have been crucial in drawing the young and highly educated to live and work in central cities. The pandemic could erode that foundation.",
+      "abstract": "Restaurants have been crucial in drawing the young and highly educated to live and work in central cities. The pandemic could erode that foundation.",
+      "lead_paragraph": "When the Church Brew Works opened in 1999, it amounted to a rare bit of good news for the Lawrenceville neighborhood of Pittsburgh. Its population had shrunk by half since 1960. A quarter of its residents were over 65, mostly old-timers who once worked at the steel mills that hugged the Allegheny River.",
+      "publication_date": "2020-11-03T10:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/03/business/economy/cities-restaurants.html",
+      "byline": "By Eduardo Porter"
+    }
+  ]
+}

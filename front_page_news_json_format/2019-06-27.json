@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2019-06-27",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Boeing’s 737 Max Suffers Setback in Flight Simulator Test",
+      "snippet": "In at least one instance, an F.A.A. pilot was unable to quickly and easily follow Boeing’s emergency procedures to regain control of the plane.",
+      "abstract": "In at least one instance, an F.A.A. pilot was unable to quickly and easily follow Boeing’s emergency procedures to regain control of the plane.",
+      "lead_paragraph": "The Federal Aviation Administration said Wednesday that it had recently discovered a new problem with the 737 Max jet that Boeing must correct before the plane is returned to service.",
+      "publication_date": "2019-06-26T23:17:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/26/business/boeing-737-max-faa-test.html",
+      "byline": "By Natalie Kitroeff and Tiffany Hsu"
+    },
+    {
+      "headline": "Photo of Migrants Shocks, but Congress Stalls on Border Aid",
+      "snippet": "A photo of a migrant father and his 23-month-old daughter appeared to crystallize the human tragedy at the border, and it was everywhere — on cable, the internet and on the Senate floor.",
+      "abstract": "A photo of a migrant father and his 23-month-old daughter appeared to crystallize the human tragedy at the border, and it was everywhere — on cable, the internet and on the Senate floor.",
+      "lead_paragraph": "WASHINGTON — A photograph of a migrant father and his 23-month-old daughter lying face down on the muddy bank of the Rio Grande added an emotional charge on Wednesday to the immigration policy debate consuming Washington.",
+      "publication_date": "2019-06-27T02:22:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/26/us/politics/migrants-congress-border-aid.html",
+      "byline": "By Michael D. Shear and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "Democrats Diverge on Economy and Immigration in First Debate",
+      "snippet": "Elizabeth Warren set the tone for the party’s progressive wing, but others among the 10 candidates were more cautious, producing clashes along ideological lines.",
+      "abstract": "Elizabeth Warren set the tone for the party’s progressive wing, but others among the 10 candidates were more cautious, producing clashes along ideological lines.",
+      "lead_paragraph": "MIAMI — Democratic presidential candidates leveled a stark critique of President Trump’s immigration policies and the condition of the American working class in the first primary debate on Wednesday, but split in unmistakable terms over just how aggressively the next president should seek to transform the country along more liberal lines.",
+      "publication_date": "2019-06-27T02:33:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/26/us/politics/debate-recap.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Would You Pay $30 a Month to Check Your Email?",
+      "snippet": "One of Silicon Valley’s buzziest start-ups, Superhuman, is betting its app’s shiny features are worth a premium price.",
+      "abstract": "One of Silicon Valley’s buzziest start-ups, Superhuman, is betting its app’s shiny features are worth a premium price.",
+      "lead_paragraph": "The year is 2019, and the brainy engineers of Silicon Valley are hunkered down, working on transformative, next-generation technologies like self-driving cars, digital currencies and quantum computing.",
+      "publication_date": "2019-06-27T07:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/27/technology/superhuman-email.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Why E. Jean Carroll, ‘the Anti-Victim,’ Spoke Up About Trump",
+      "snippet": "The writer’s friends and confidantes talk publicly for the first time about her sexual assault allegation against the president.",
+      "abstract": "The writer’s friends and confidantes talk publicly for the first time about her sexual assault allegation against the president.",
+      "lead_paragraph": "E. Jean Carroll tore through the doors of the Fifth Avenue entrance of Bergdorf Goodman, her heart racing.",
+      "publication_date": "2019-06-27T10:04:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/27/us/politics/jean-carroll-trump-sexual-assault.html",
+      "byline": "By Jessica Bennett, Megan Twohey and Alexandra Alter"
+    }
+  ]
+}

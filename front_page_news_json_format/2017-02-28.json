@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2017-02-28",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump to Seek $54 Billion Increase in Military Spending",
+      "snippet": "The president is planning a budget that prioritizes the military and other public safety requirements, with cuts to most federal agencies.",
+      "abstract": "The president is planning a budget that prioritizes the military and other public safety requirements, with cuts to most federal agencies.",
+      "lead_paragraph": "WASHINGTON — President Trump put both political parties on notice Monday that he intends to slash spending on many of the federal government’s most politically sensitive programs — relating to education, the environment, science and poverty — to protect the economic security of retirees and to shift billions more to the armed forces.",
+      "publication_date": "2017-02-27T16:13:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/27/us/politics/trump-budget-military.html",
+      "byline": "By Michael D. Shear and Jennifer Steinhauer"
+    },
+    {
+      "headline": "Automakers Knew of Takata Airbag Hazard for Years, Suit Says",
+      "snippet": "Plaintiffs in a class action say internal documents from at least four automakers show that they continued to use the flawed airbags to save on costs.",
+      "abstract": "Plaintiffs in a class action say internal documents from at least four automakers show that they continued to use the flawed airbags to save on costs.",
+      "lead_paragraph": "At least four automakers knew for years that Takata’s airbags were dangerous and could rupture violently but continued to use those airbags in their vehicles to save on costs, lawyers representing victims of the defect asserted in a court document filed on Monday.",
+      "publication_date": "2017-02-27T18:28:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/27/business/takata-airbags-automakers-class-action.html",
+      "byline": "By Hiroko Tabuchi and Neal E. Boudette"
+    },
+    {
+      "headline": "Business Giants to Announce Creation of a Computing System Based on Ethereum",
+      "snippet": "An alliance of about 30 companies, including Microsoft and JPMorgan Chase, has plans to standardize data gathering and tracking with software that is seen as harder to hack.",
+      "abstract": "An alliance of about 30 companies, including Microsoft and JPMorgan Chase, has plans to standardize data gathering and tracking with software that is seen as harder to hack.",
+      "lead_paragraph": "SAN FRANCISCO — Microsoft, JPMorgan Chase and other corporate giants are joining forces to create a new kind of computing system based on the virtual currency network Ethereum.",
+      "publication_date": "2017-02-27T21:13:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/27/business/dealbook/ethereum-alliance-business-banking-security.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Trump Concedes Health Law Overhaul Is ‘Unbelievably Complex’",
+      "snippet": "The president suggested that the struggle to replace the Affordable Care Act was creating a legislative logjam, potentially stalling other parts of his agenda.",
+      "abstract": "The president suggested that the struggle to replace the Affordable Care Act was creating a legislative logjam, potentially stalling other parts of his agenda.",
+      "lead_paragraph": "WASHINGTON — President Trump, meeting with the nation’s governors, conceded Monday that he had not been aware of the complexities of health care policy-making: “I have to tell you, it’s an unbelievably complex subject. Nobody knew that health care could be so complicated.”",
+      "publication_date": "2017-02-28T02:29:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/27/us/politics/trump-concedes-health-law-overhaul-is-unbelievably-complex.html",
+      "byline": "By Robert Pear and Kate Kelly"
+    },
+    {
+      "headline": "Danish Companies Seek to Hire, but Everyone’s Already Working",
+      "snippet": "When nearly everyone who can work has work, that’s a good thing. But when all the skilled labor is engaged, continued recovery becomes challenging.",
+      "abstract": "When nearly everyone who can work has work, that’s a good thing. But when all the skilled labor is engaged, continued recovery becomes challenging.",
+      "lead_paragraph": "COPENHAGEN — When Peter Enevoldsen won a lucrative order for the precision tractor parts that his company, Sjorring Maskinfabrik, makes in northern Denmark, his eyes lit up. The contract was worth more than half a million euros — a boon for his profits.",
+      "publication_date": "2017-02-28T05:01:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/28/business/economy/denmark-jobs-full-employment.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "‘They Told Us They Were Here to Help Us.’ Then Came Slaughter.",
+      "snippet": "Some witnesses in Nigeria say that soldiers, seeking insurgents and finding none, started shooting men who had surrendered and burning villages to the ground.",
+      "abstract": "Some witnesses in Nigeria say that soldiers, seeking insurgents and finding none, started shooting men who had surrendered and burning villages to the ground.",
+      "lead_paragraph": "MAIDUGURI, Nigeria — A wheelbarrow saved his life.",
+      "publication_date": "2017-02-28T05:58:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/28/world/africa/nigeria-civilian-massacre.html",
+      "byline": "By Dionne Searcey"
+    },
+    {
+      "headline": "Shaky Jobs, Sluggish Wages: Reasons Are at Home",
+      "snippet": "While President Trump focuses on an exodus of factory jobs, domestic outsourcing may play a larger part in undermining American workers.",
+      "abstract": "While President Trump focuses on an exodus of factory jobs, domestic outsourcing may play a larger part in undermining American workers.",
+      "lead_paragraph": "President Trump hasn’t been saving jobs in the last few weeks, focusing his energy (and Twitter feed) on how to close the borders to immigrants instead.",
+      "publication_date": "2017-02-28T14:38:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/28/business/economy/economy-labor-wages-subcontracting.html",
+      "byline": "By Eduardo Porter"
+    }
+  ]
+}

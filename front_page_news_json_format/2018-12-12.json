@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-12-12",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Marriott Data Breach Is Traced to Chinese Hackers as U.S. Readies Crackdown on Beijing",
+      "snippet": "The Trump administration is expected to indict hackers and roll out import restrictions out of concern that Beijing will not easily change its trade, cyber and economic practices.",
+      "abstract": "The Trump administration is expected to indict hackers and roll out import restrictions out of concern that Beijing will not easily change its trade, cyber and economic practices.",
+      "lead_paragraph": "WASHINGTON — The cyberattack on the Marriott hotel chain that collected personal details of roughly 500 million guests was part of a Chinese intelligence-gathering effort that also hacked health insurers and the security clearance files of millions more Americans, according to two people briefed on the investigation.",
+      "publication_date": "2018-12-11T16:56:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/11/us/politics/trump-china-trade.html",
+      "byline": "By David E. Sanger, Nicole Perlroth, Glenn Thrush and Alan Rappeport"
+    },
+    {
+      "headline": "How Do You Recover After Millions Have Watched You Overdose?",
+      "snippet": "Amid an opioid crisis, police and strangers with cameras are posting raw images of drug users passed out. For those whose bleakest moments now live online, life is never the same.",
+      "abstract": "Amid an opioid crisis, police and strangers with cameras are posting raw images of drug users passed out. For those whose bleakest moments now live online, life is never the same.",
+      "lead_paragraph": "The first time Kelmae Hemphill watched herself overdose, she sobbed. There she was in a shaky video filmed by her own heroin dealer, sprawled out on a New Jersey road while a stranger pounded on her chest. “Come on, girl,” someone pleaded.",
+      "publication_date": "2018-12-11T17:47:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/11/us/overdoses-youtube-opioids-drugs.html",
+      "byline": "By Katharine Q. Seelye, Julie Turkewitz, Jack Healy and Alan Blinder"
+    },
+    {
+      "headline": "E.U. Hoped to Put Its House in Order This Year. Not Even Close.",
+      "snippet": "Britain, France and Germany are all facing political change or upheaval. For the European Union, the question is who will guide the bloc into an uncertain future.",
+      "abstract": "Britain, France and Germany are all facing political change or upheaval. For the European Union, the question is who will guide the bloc into an uncertain future.",
+      "lead_paragraph": "BRUSSELS — This was supposed to be the year Europe put its house in order. It would finally ratify a deal with Britain on its departure from the bloc. The French president, Emmanuel Macron, with his grand plans to revitalize the Continent, would succeed Chancellor Angela Merkel of Germany as the union’s de facto leader. Democratic backsliding in Hungary and Poland would be curbed. Populism would be contained.",
+      "publication_date": "2018-12-11T18:37:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/11/world/europe/brexit-europe-macron-merkel.html",
+      "byline": "By Steven Erlanger"
+    },
+    {
+      "headline": "Trump’s Judicial Nominees Take Heat but Largely Keep Marching Through Senate",
+      "snippet": "Some have been deemed unqualified by the American Bar Association, and others have proved racially divisive, but that hasn’t necessarily stopped them from reaching the bench.",
+      "abstract": "Some have been deemed unqualified by the American Bar Association, and others have proved racially divisive, but that hasn’t necessarily stopped them from reaching the bench.",
+      "lead_paragraph": "WASHINGTON — The Senate narrowly confirmed Jonathan Kobes as a federal appeals court judge on Tuesday even as the American Bar Association questioned his understanding of “complex legal analysis” and “knowledge of the law.”",
+      "publication_date": "2018-12-11T19:56:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/11/us/politics/republicans-judges-confirmation-votes.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Google’s Pichai Faces Privacy and Bias Questions in Congress",
+      "snippet": "A House committee grilled Sundar Pichai, the chief executive of Google, about a variety of issues, including worries about personal data and complaints about search results.",
+      "abstract": "A House committee grilled Sundar Pichai, the chief executive of Google, about a variety of issues, including worries about personal data and complaints about search results.",
+      "lead_paragraph": "WASHINGTON — Google’s chief executive, in perhaps the most public display of lawmakers’ unease with his company’s influence, was grilled on Tuesday about everything from search result bias and the data Google collects about its users to plans for a censored service in China.",
+      "publication_date": "2018-12-12T01:08:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/11/technology/google-pichai-house-committee-hearing.html",
+      "byline": "By Daisuke Wakabayashi and Cecilia Kang"
+    },
+    {
+      "headline": "When the Makers of Marlboro and Corona Get Into Marijuana",
+      "snippet": "With marijuana becoming legal in more markets, big corporations are swooping in with multibillion-dollar deals.",
+      "abstract": "With marijuana becoming legal in more markets, big corporations are swooping in with multibillion-dollar deals.",
+      "lead_paragraph": "Proponents of legal marijuana spent decades fighting a slow battle for mainstream acceptance. Now, with recreational use legal in Canada and many states in the United States, big business is suddenly swooping in.",
+      "publication_date": "2018-12-12T08:00:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/12/business/cannabis-business-altria-canopy-constellation-cronos.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Is Tech Too Easy to Use?",
+      "snippet": "The tech industry’s obsession with “frictionless” design has been the source of innumerable problems.",
+      "abstract": "The tech industry’s obsession with “frictionless” design has been the source of innumerable problems.",
+      "lead_paragraph": "Seven years ago, a younger and more carefree Mark Zuckerberg went onstage at Facebook’s annual developer conference and announced a major change to the social network’s design.",
+      "publication_date": "2018-12-12T10:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/12/technology/tech-friction-frictionless.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Pelosi and Dissident Democrats Reach Deal to Limit Her Speakership to 4 Years",
+      "snippet": "The agreement, which if adopted by House Democrats would also bind the party’s other two top leaders, almost certainly clears the way for Nancy Pelosi to be elected speaker next month.",
+      "abstract": "The agreement, which if adopted by House Democrats would also bind the party’s other two top leaders, almost certainly clears the way for Nancy Pelosi to be elected speaker next month.",
+      "lead_paragraph": "WASHINGTON — Representative Nancy Pelosi announced Wednesday that she had reached a deal with dissident Democrats to limit herself to four years as speaker, her most consequential move to date to put down a rebellion in her ranks and clinch the votes she needs to be elected.",
+      "publication_date": "2018-12-12T15:10:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/12/us/politics/nancy-pelosi-democrat-leadership.html",
+      "byline": "By Julie Hirschfeld Davis"
+    }
+  ]
+}

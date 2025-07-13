@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2016-04-20",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Google’s Antitrust Woes in Europe Are Likely to Grow",
+      "snippet": "Complainants contend the company favored its own mobile services over those of rivals in violation of European law.",
+      "abstract": "Complainants contend the company favored its own mobile services over those of rivals in violation of European law.",
+      "lead_paragraph": "Google’s antitrust problems in Europe are about to get a whole lot bigger.",
+      "publication_date": "2016-04-19T16:12:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/20/technology/google-android-eu-antitrust.html",
+      "byline": "By Mark Scott"
+    },
+    {
+      "headline": "Intel to Cut 12,000 Jobs as PC Demand Plummets",
+      "snippet": "The company, the largest semiconductor maker, will lay off 11 percent of its work force as it shifts to supplying chips for phones and other devices.",
+      "abstract": "The company, the largest semiconductor maker, will lay off 11 percent of its work force as it shifts to supplying chips for phones and other devices.",
+      "lead_paragraph": "SAN FRANCISCO — Intel, the world’s largest maker of semiconductors, said on Tuesday that it was laying off 12,000 people, about 11 percent of its work force, as it continues to reel from a long downturn in global demand for personal computers.",
+      "publication_date": "2016-04-19T20:33:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/20/technology/intel-earnings-job-cuts.html",
+      "byline": "By Quentin Hardy"
+    },
+    {
+      "headline": "Donald Trump and Hillary Clinton Win Easily in New York Primary",
+      "snippet": "Mr. Trump’s win reclaimed control of the Republican race; Mrs. Clinton fought off another challenge from Bernie Sanders.",
+      "abstract": "Mr. Trump’s win reclaimed control of the Republican race; Mrs. Clinton fought off another challenge from Bernie Sanders.",
+      "lead_paragraph": "Donald J. Trump wrested back control of the Republican presidential race on Tuesday with a commanding victory in the New York primary, while Hillary Clinton dealt a severe blow to Senator Bernie Sanders with an unexpectedly strong win that led her to declare that the Democratic nomination was “in sight.”",
+      "publication_date": "2016-04-19T23:15:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/20/us/politics/new-york-primary.html",
+      "byline": "By Patrick Healy and Maggie Haberman"
+    },
+    {
+      "headline": "Saudi Threat to Sell U.S. Assets Could Hurt, but Mostly the Saudis",
+      "snippet": "A move by the kingdom to sell off holdings worth billions if Congress passes a bill allowing the Saudis to be sued over 9/11 would have little impact on America, experts say.",
+      "abstract": "A move by the kingdom to sell off holdings worth billions if Congress passes a bill allowing the Saudis to be sued over 9/11 would have little impact on America, experts say.",
+      "lead_paragraph": "WASHINGTON — If Saudi Arabia follows through on its recent threat to sell off its investments in the United States, the financial maneuver could be painful — mostly for Saudi Arabia.",
+      "publication_date": "2016-04-20T00:18:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/20/business/international/saudi-threat-to-sell-us-assetscould-hurt-but-mostly-the-saudis.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "A Homecoming, and a Triumph, for Hillary Clinton in New York",
+      "snippet": "Mrs. Clinton has had dramatic highs and crushing lows in her political career, but New York has always been the state that loved her back.",
+      "abstract": "Mrs. Clinton has had dramatic highs and crushing lows in her political career, but New York has always been the state that loved her back.",
+      "lead_paragraph": "She danced the merengue in Washington Heights. She slammed down a mean game of dominoes in East Harlem.",
+      "publication_date": "2016-04-20T01:55:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/20/us/politics/hillary-clinton-new-york.html",
+      "byline": "By Amy Chozick"
+    },
+    {
+      "headline": "E.U. Charges Dispute Google’s Claims That Android Is Open to All",
+      "snippet": "Europe’s competition chief said Google unfairly promoted its services with cellphone makers, limiting rivals in the smartphone software market.",
+      "abstract": "Europe’s competition chief said Google unfairly promoted its services with cellphone makers, limiting rivals in the smartphone software market.",
+      "lead_paragraph": "Google has long stressed that Android, its popular mobile software, is open for anyone to use, including its rivals.",
+      "publication_date": "2016-04-20T09:49:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/21/technology/google-europe-antitrust.html",
+      "byline": "By Mark Scott"
+    },
+    {
+      "headline": "Mitsubishi Admits Cheating on Fuel-Economy Tests",
+      "snippet": "The manipulation of testing procedures by the automaker’s engineers affected about 620,000 vehicles sold in Japan, the company’s president said.",
+      "abstract": "The manipulation of testing procedures by the automaker’s engineers affected about 620,000 vehicles sold in Japan, the company’s president said.",
+      "lead_paragraph": "TOKYO — In the latest scandal to hit the automobile industry, Mitsubishi Motors said on Wednesday that it had cheated on fuel-economy tests for an ultrasmall car it produces in Japan. The company acknowledged that its engineers had intentionally manipulated evaluations.",
+      "publication_date": "2016-04-20T11:23:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/21/business/mitsubishi-fuel-economy-tests.html",
+      "byline": "By Jonathan Soble"
+    },
+    {
+      "headline": "Choosing to Skip the Upgrade and Care for the Gadget You’ve Got",
+      "snippet": "As part of a movement against consumerism, more people are maintaining their electronics instead of constantly buying the newest, fastest model.",
+      "abstract": "As part of a movement against consumerism, more people are maintaining their electronics instead of constantly buying the newest, fastest model.",
+      "lead_paragraph": "Vincent Lai was working at a recycling facility in New York and sorting through a bin of used cellphones a few years ago when he dug up a Palm Treo, a smartphone that was discontinued last decade.",
+      "publication_date": "2016-04-20T14:58:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/21/technology/personaltech/choosing-to-skipthe-upgrade-and-care-for-the-gadget-youve-got.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Harriet Tubman Ousts Andrew Jackson in Change for a $20",
+      "snippet": "Treasury Secretary Jacob J. Lew said that women and civil rights leaders would also appear on the $5 and $10 notes.",
+      "abstract": "Treasury Secretary Jacob J. Lew said that women and civil rights leaders would also appear on the $5 and $10 notes.",
+      "lead_paragraph": "WASHINGTON — Treasury Secretary Jacob J. Lew on Wednesday announced the most sweeping and historically symbolic makeover of American currency in a century, proposing to replace the slaveholding Andrew Jackson on the $20 bill with Harriet Tubman, the former slave and abolitionist, and to add women and civil rights leaders to the $5 and $10 notes.",
+      "publication_date": "2016-04-20T15:48:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/21/us/women-currency-treasury-harriet-tubman.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Flint Water Crisis Yields First Criminal Charges",
+      "snippet": "Two Michigan officials were accused of misleading other officials about the city’s water, and a city employee was charged with misconduct.",
+      "abstract": "Two Michigan officials were accused of misleading other officials about the city’s water, and a city employee was charged with misconduct.",
+      "lead_paragraph": "FLINT, Mich. — Three government workers were charged with crimes on Wednesday for their roles in this city’s water crisis, accused in part of covering up evidence of lead contamination.",
+      "publication_date": "2016-04-20T15:58:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/21/us/first-criminal-charges-are-filed-in-flint-water-crisis.html",
+      "byline": "By Monica Davey and Richard Pérez-Peña"
+    }
+  ]
+}

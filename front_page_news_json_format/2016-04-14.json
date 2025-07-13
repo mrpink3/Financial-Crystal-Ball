@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2016-04-14",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Chicago Police Dept. Plagued by Systemic Racism, Task Force Finds",
+      "snippet": "A panel assigned by Mayor Rahm Emanuel says police officers have mistreated people, operated without oversight and lost the trust of residents.",
+      "abstract": "A panel assigned by Mayor Rahm Emanuel says police officers have mistreated people, operated without oversight and lost the trust of residents.",
+      "lead_paragraph": "CHICAGO — Racism has contributed to a long pattern of institutional failures by the Chicago Police Department in which officers have mistreated people, operated without sufficient oversight, and lost the trust of residents, a task force appointed by Mayor Rahm Emanuel has found.",
+      "publication_date": "2016-04-13T19:42:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/14/us/chicago-police-dept-plagued-by-systemic-racism-task-force-finds.html",
+      "byline": "By Monica Davey and Mitch Smith"
+    },
+    {
+      "headline": "Theranos Under Fire as U.S. Threatens Crippling Sanctions",
+      "snippet": "It is the latest blow to the credibility of Theranos and Elizabeth Holmes, its chief executive, who seemingly became a self-made billionaire by promising to upend the blood-testing industry.",
+      "abstract": "It is the latest blow to the credibility of Theranos and Elizabeth Holmes, its chief executive, who seemingly became a self-made billionaire by promising to upend the blood-testing industry.",
+      "lead_paragraph": "Federal regulators have threatened a series of stiff sanctions against Theranos, the embattled blood-testing company, including closing down its flagship laboratory and potentially barring its chief executive from owning or operating its labs for two years.",
+      "publication_date": "2016-04-13T21:14:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/14/business/theranos-elizabeth-holmes-proposed-ban.html",
+      "byline": "By Reed Abelson and Andrew Pollack"
+    },
+    {
+      "headline": "As Takata Costs Soar in Airbag Recall, Files Show Early Worries on Financial Toll",
+      "snippet": "Internal documents and emails reveal new details about how economic pressures helped guide the company’s handling of its airbag defect, which is tied to at least 11 deaths and will cost it millions.",
+      "abstract": "Internal documents and emails reveal new details about how economic pressures helped guide the company’s handling of its airbag defect, which is tied to at least 11 deaths and will cost it millions.",
+      "lead_paragraph": "There is the cold-eyed calculation of the costs of an airbag recall: $100 each, translating to millions of dollars in expenses for Takata, the auto parts supplier.",
+      "publication_date": "2016-04-13T22:09:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/14/business/as-takata-costs-soar-in-airbag-recall-files-show-early-worries-on-financial-toll.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "In West Bank, Israel Imposes Pop-Up Checkpoints and Road Closings",
+      "snippet": "The winding detours for drivers are focused on smaller areas and thus not drawing widespread outrage among Palestinians.",
+      "abstract": "The winding detours for drivers are focused on smaller areas and thus not drawing widespread outrage among Palestinians.",
+      "lead_paragraph": "AWARTA, West Bank — The freshly spray-painted signs in this hamlet outside Nablus are a symbol of the new normal in the West Bank, seven months into a scattershot wave of Palestinian attacks on Israelis.",
+      "publication_date": "2016-04-14T00:21:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/04/14/world/middleeast/in-west-bank-israel-carries-out-a-crackdown-road-by-road.html",
+      "byline": "By Diaa Hadid"
+    },
+    {
+      "headline": "F.B.I. Used Hacking Software Decade Before iPhone Fight",
+      "snippet": "Newly declassified and released records show in new detail how F.B.I. hackers worked to defeat encryption over a decade before the agency’s recent fight with Apple over access to a locked iPhone.",
+      "abstract": "Newly declassified and released records show in new detail how F.B.I. hackers worked to defeat encryption over a decade before the agency’s recent fight with Apple over access to a locked iPhone.",
+      "lead_paragraph": "WASHINGTON — In early 2003, F.B.I. agents hit a roadblock in a secret investigation, called Operation Trail Mix. For months, agents had been intercepting phone calls and emails belonging to members of an animal welfare group that was believed to be sabotaging operations of a company that was using animals to test drugs. But encryption software had made the emails unreadable.",
+      "publication_date": "2016-04-14T00:49:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/04/14/technology/fbi-tried-to-defeat-encryption-10-years-ago-files-show.html",
+      "byline": "By Matt Apuzzo"
+    }
+  ]
+}

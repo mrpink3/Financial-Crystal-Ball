@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-02-04",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "China, Desperate to Stop Coronavirus, Turns Neighbor Against Neighbor",
+      "snippet": "The authorities hunt for people from Wuhan, the center of the outbreak, encouraging citizens to inform on others. Even those without symptoms are being ostracized.",
+      "abstract": "The authorities hunt for people from Wuhan, the center of the outbreak, encouraging citizens to inform on others. Even those without symptoms are being ostracized.",
+      "lead_paragraph": "GUANGZHOU, China — One person was turned away by hotel after hotel after he showed his ID card. Another was expelled by fearful local villagers. A third found his most sensitive personal information leaked online after registering with the authorities.",
+      "publication_date": "2020-02-03T23:12:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/03/business/china-coronavirus-wuhan-surveillance.html",
+      "byline": "By Paul Mozur"
+    },
+    {
+      "headline": "Beijing Sees ‘Major Test’ as Doors to China Close and Coronavirus Deaths Surpass SARS",
+      "snippet": "The number of dead is likely to grow as the tally of confirmed infections surges by more than 2,000 every day. “There’s no sign that it’s getting better,” said a health expert.",
+      "abstract": "The number of dead is likely to grow as the tally of confirmed infections surges by more than 2,000 every day. “There’s no sign that it’s getting better,” said a health expert.",
+      "lead_paragraph": "China’s Communist Party leadership called the month-old coronavirus epidemic a “major test” on Monday as other nations escalated efforts to isolate China, unnerving China’s stock market, depressing global oil prices and raising new anxiety about the world’s most populous country.",
+      "publication_date": "2020-02-03T23:27:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/03/world/asia/coronavirus-deaths-sars.html",
+      "byline": "By Sui-Lee Wee"
+    },
+    {
+      "headline": "Democrats and White House Rest Cases as Impeachment Sputters Toward a Verdict",
+      "snippet": "The House impeachment managers sought to put the Senate on trial while the president’s defense team argued he that had done nothing wrong.",
+      "abstract": "The House impeachment managers sought to put the Senate on trial while the president’s defense team argued he that had done nothing wrong.",
+      "lead_paragraph": "WASHINGTON — In their final appeals in President Trump’s impeachment trial, House Democrats argued on Monday that he had corrupted the presidency and would continue to put American interests at risk if the Senate failed to remove him from office. Mr. Trump’s defenders, denouncing the case against him, said he had done nothing wrong and should be judged by voters.",
+      "publication_date": "2020-02-04T01:31:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/03/us/politics/trump-impeachment-trial-final-arguments.html",
+      "byline": "By Nicholas Fandos and Catie Edmondson"
+    },
+    {
+      "headline": "Delays Mar Iowa Caucuses as Democrats Start Nominating Process",
+      "snippet": "A “quality control” issue with a new system of reporting results led to confusion and few solid numbers as Iowans turned out to select the candidate they thought could defeat President Trump.",
+      "abstract": "A “quality control” issue with a new system of reporting results led to confusion and few solid numbers as Iowans turned out to select the candidate they thought could defeat President Trump.",
+      "lead_paragraph": "DES MOINES — A night that was supposed to bring clarity to the Democratic presidential contest turned into a long ordeal of confusion and delays on Monday, as the Iowa Democratic Party failed to report results from more than a handful of precincts for hours after the state’s famed caucuses began.",
+      "publication_date": "2020-02-04T04:35:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/03/us/politics/iowa-democratic-caucus-primary.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
+      "snippet": "Start-ups want unusual internet addresses to help stand out. One winner: The island of Anguilla, whose “.ai” domain is a favorite of A.I. start-ups.",
+      "abstract": "Start-ups want unusual internet addresses to help stand out. One winner: The island of Anguilla, whose “.ai” domain is a favorite of A.I. start-ups.",
+      "lead_paragraph": "The luxury resorts along serene white-sand beaches have long propped up the economy of Anguilla, a tiny British territory in the Caribbean.",
+      "publication_date": "2020-02-04T08:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/04/business/custom-urls.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "IBM, Marriott and Mickey Mouse Take On Tech’s Favorite Law",
+      "snippet": "A motley group of powerful companies have their knives out for Section 230, which shields platforms from lawsuits over content posted by users.",
+      "abstract": "A motley group of powerful companies have their knives out for Section 230, which shields platforms from lawsuits over content posted by users.",
+      "lead_paragraph": "WASHINGTON — Disney and its powerful trade association have fought to stop the law’s spread abroad.",
+      "publication_date": "2020-02-04T08:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/04/technology/section-230-lobby.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "‘A Systemwide Disaster’: How the Iowa Caucuses Melted Down",
+      "snippet": "Unexplained “inconsistencies” in results, heated conference calls and firm denials of hacking left the contest in a strange state of almost suspended animation.",
+      "abstract": "Unexplained “inconsistencies” in results, heated conference calls and firm denials of hacking left the contest in a strange state of almost suspended animation.",
+      "lead_paragraph": "DES MOINES — Sean Bagniewski had seen the problems coming.",
+      "publication_date": "2020-02-04T10:49:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/04/us/politics/what-happened-iowa-caucuses.html",
+      "byline": "By Shane Goldmacher and Nick Corasaniti"
+    },
+    {
+      "headline": "Coronavirus Crisis Shows China’s Governance Failure",
+      "snippet": "As the Communist Party cements control, more officials worry about pleasing their bosses than taking care of the people.",
+      "abstract": "As the Communist Party cements control, more officials worry about pleasing their bosses than taking care of the people.",
+      "lead_paragraph": "Wuhan’s mayor blamed higher-ups. A senior disease control official blamed layers of bureaucracy. A top government expert blamed the public: The people, he said, simply didn’t understand what he told them.",
+      "publication_date": "2020-02-04T13:41:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/04/business/china-coronavirus-government.html",
+      "byline": "By Li Yuan"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-04-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In Many Cities, Rent Is Rising Out of Reach of Middle Class",
+      "snippet": "More households are being priced out of more areas: An analysis found 90 cities where the median rent is more than 30 percent of the median gross income.",
+      "abstract": "More households are being priced out of more areas: An analysis found 90 cities where the median rent is more than 30 percent of the median gross income.",
+      "lead_paragraph": "MIAMI — For rent and utilities to be considered affordable, they are supposed to take up no more than 30 percent of a household’s income. But that goal is increasingly unattainable for middle-income families as a tightening market pushes up rents ever faster, outrunning modest rises in pay.",
+      "publication_date": "2014-04-14T18:45:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/15/business/more-renters-find-30-affordability-ratio-unattainable.html",
+      "byline": "By Shaila Dewan"
+    },
+    {
+      "headline": "Bullets, Blood and Then Cry of ‘Heil Hitler’",
+      "snippet": "Until Sunday’s shootings, Frazier Glenn Miller was vocal about his views that Jews should be killed, but had not acted on them.",
+      "abstract": "Until Sunday’s shootings, Frazier Glenn Miller was vocal about his views that Jews should be killed, but had not acted on them.",
+      "lead_paragraph": "OVERLAND PARK, Kan. — After the Sunday afternoon mayhem, the handcuffed suspect was led to a gun-gray police car, his beard salt and pepper, his T-shirt a striking white. He looked like who he was, in part: a retiree who was said to have just spent part of his weekend at a casino. Then, from the back seat, he shouted a hoary phrase tinged with a Southern inflection:",
+      "publication_date": "2014-04-14T18:55:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/15/us/prosecutors-to-charge-suspect-with-hate-crime-in-kansas-shooting.html",
+      "byline": "By Steven Yaccino and Dan Barry"
+    },
+    {
+      "headline": "Etsy, Home of the Handmade, Takes On a Wholesaler’s Role",
+      "snippet": "The company, known for its small-scale artisans and handmade goods, will help some sellers get bigger, and take a commission.",
+      "abstract": "The company, known for its small-scale artisans and handmade goods, will help some sellers get bigger, and take a commission.",
+      "lead_paragraph": "Amy Hamley of Redraven Studios makes jewelry and delicate home décor items out of porcelain, like hanging planter sets and necklaces in the shape of arrow heads. For three years, she worked out of her basement and tried to break into the wholesale market.",
+      "publication_date": "2014-04-14T21:19:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/15/business/etsy-to-take-on-the-role-of-wholesaler.html",
+      "byline": "By Elizabeth A. Harris"
+    },
+    {
+      "headline": "Dual Turning Point for Biofuels",
+      "snippet": "Abengoa Bioenergy and other companies are constructing plants for ethanol made from corn stalks and wheat straw, but the market is saturated already.",
+      "abstract": "Abengoa Bioenergy and other companies are constructing plants for ethanol made from corn stalks and wheat straw, but the market is saturated already.",
+      "lead_paragraph": "HUGOTON, Kan. — There is an old joke in the energy business that advanced biofuels are the fuel of the future, and always will be.",
+      "publication_date": "2014-04-14T22:45:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/15/business/energy-environment/dual-turning-point-for-biofuels.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "2 Executives Leave G.M. After Wide-Ranging Recall",
+      "snippet": "The departures are the first major executive changes under Mary T. Barra, who took over as chief executive in January.",
+      "abstract": "The departures are the first major executive changes under Mary T. Barra, who took over as chief executive in January.",
+      "lead_paragraph": "DETROIT — In the first major shake-up of General Motors’ senior management since the company announced a wide-ranging recall in February, its chief spokesman and head Washington adviser, and its top human resources executive have left the company.",
+      "publication_date": "2014-04-15T00:47:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/15/business/2-executives-are-out-at-gm-after-recall.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "Looking at Some Corporate Tax Loopholes Ordinary Citizens May Envy",
+      "snippet": "On April 15, as individual taxpayers file, taking a look at a few opportunities for corporations that they may find slightly irksome.",
+      "abstract": "On April 15, as individual taxpayers file, taking a look at a few opportunities for corporations that they may find slightly irksome.",
+      "lead_paragraph": "It’s Tax Day.",
+      "publication_date": "2014-04-15T01:08:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/04/14/looking-at-some-corporate-tax-loopholes-ordinary-citizens-may-envy/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Marathon Bombing Suspect Waits in Isolation",
+      "snippet": "Beyond being segregated from other prisoners, Dzhokhar Tsarnaev, who is charged with helping carry out the 2013 Boston Marathon bombing, may well spend little time outside his cell, period.",
+      "abstract": "Beyond being segregated from other prisoners, Dzhokhar Tsarnaev, who is charged with helping carry out the 2013 Boston Marathon bombing, may well spend little time outside his cell, period.",
+      "lead_paragraph": "He cannot mingle, speak or pray with other prisoners. His only visitors are his legal team, a mental health consultant and his immediate family, who apparently have seen him only rarely. ",
+      "publication_date": "2014-04-15T01:17:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/15/us/marathon-bombing-suspect-waits-in-isolation.html",
+      "byline": "By Michael Wines and Serge F. Kovaleski"
+    },
+    {
+      "headline": "Political Rifts Slow U.S. Effort on Climate Laws",
+      "snippet": "Efforts to tackle climate change have repeatedly collided with politics in Washington, where Republicans question the science of global warming, and ties to the fossil fuel industry have made them resistant to change.",
+      "abstract": "Efforts to tackle climate change have repeatedly collided with politics in Washington, where Republicans question the science of global warming, and ties to the fossil fuel industry have made them resistant to change.",
+      "lead_paragraph": "WASHINGTON — The United States needs to enact a major climate change law, such as a tax on carbon pollution, by the end of this decade to stave off the most catastrophic impacts of global warming, according to the authors of a report released this week by the United Nations Intergovernmental Panel on Climate Change.",
+      "publication_date": "2014-04-15T01:44:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/15/us/politics/political-rifts-slow-us-effort-on-climate-laws.html",
+      "byline": "By Coral Davenport"
+    },
+    {
+      "headline": "Prices Soaring for Specialty Drugs, Researchers Find",
+      "snippet": "A report says that even as prescription costs have plummeted, a small slice of the population with serious illnesses is being asked to shoulder more of the cost of expensive treatments.",
+      "abstract": "A report says that even as prescription costs have plummeted, a small slice of the population with serious illnesses is being asked to shoulder more of the cost of expensive treatments.",
+      "lead_paragraph": "Even as the cost of prescription drugs has plummeted for many Americans, a small slice of the population is being asked to shoulder more and more of the cost of expensive treatments for diseases like cancer and hepatitis C, according to a report to be released on Tuesday by a major drug research firm. ",
+      "publication_date": "2014-04-15T04:11:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/15/business/prices-soaring-for-specialty-drugs-researchers-find.html",
+      "byline": "By Katie Thomas"
+    },
+    {
+      "headline": "Ukraine Sends Force to Stem Unrest in East",
+      "snippet": "Ukrainian forces stormed an airport outside of Slovyansk that had been held by separatists since Sunday.",
+      "abstract": "Ukrainian forces stormed an airport outside of Slovyansk that had been held by separatists since Sunday.",
+      "lead_paragraph": "SLOVYANSK, Ukraine — The Ukrainian military landed airborne troops at an airport about 25 miles south of here on Tuesday, raising tensions with Russia in the opening phase of what the government in Kiev called a wider military operation to confront pro-Russian militants in the eastern part of the country.",
+      "publication_date": "2014-04-15T11:44:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/16/world/europe/ukraine-russia.html",
+      "byline": "By Andrew E. Kramer"
+    }
+  ]
+}

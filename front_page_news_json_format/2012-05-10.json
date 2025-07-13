@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2012-05-10",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Fannie Mae Posts Profit; Seeks No Aid",
+      "snippet": "The government-backed mortgage financier said it made a profit in the first quarter and that it does not need additional bailout money — a first since the federal government took it over in 2008.",
+      "abstract": "The government-backed mortgage financier said it made a profit in the first quarter and that it does not need additional bailout money — a first since the federal government took it over in 2008.",
+      "lead_paragraph": "WASHINGTON —  Fannie Mae, the government-backed mortgage financier, said on Wednesday that it made a profit in the first quarter and that it did not need additional bailout money — a first since the federal government took it over in fall 2008.",
+      "publication_date": "2012-05-09T16:37:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/fannie-mae-profit-signals-a-stabilizing-housing-market.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "In Spain, a Debt Crisis Built on Corporate Borrowing",
+      "snippet": "The debt load of Grupo A.C.S., a giant construction company based in Spain, reflects the country’s severe financial struggle.",
+      "abstract": "The debt load of Grupo A.C.S., a giant construction company based in Spain, reflects the country’s severe financial struggle.",
+      "lead_paragraph": "LONDON — In a country with one of the highest levels of company debt in the world, few businesses in Spain shoulder as big a burden as Grupo A.C.S., the global construction giant whose debt woes have become a mirror image of Spain’s own increasingly severe financial struggle.",
+      "publication_date": "2012-05-09T18:36:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/global/in-spain-grupo-acss-high-debt-reflects-countrys-finances.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Obama Says Same-Sex Marriage Should Be Legal",
+      "snippet": "By publicly endorsing same-sex marriage in a television interview, the president took a definitive stand on one of the most contentious and politically charged social issues of the day.",
+      "abstract": "By publicly endorsing same-sex marriage in a television interview, the president took a definitive stand on one of the most contentious and politically charged social issues of the day.",
+      "lead_paragraph": "WASHINGTON — Before President Obama left the White House on Tuesday morning to fly to an event in Albany, several aides intercepted him in the Oval Office. Within minutes it was decided: the president would endorse same-sex marriage on Wednesday, completing a wrenching personal transformation on the issue.",
+      "publication_date": "2012-05-09T19:19:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/10/us/politics/obama-says-same-sex-marriage-should-be-legal.html",
+      "byline": "By Jackie Calmes and Peter Baker"
+    },
+    {
+      "headline": "Parents of P.O.W. Reveal U.S. Talks on Taliban Swap",
+      "snippet": "Frustrated by stalled negotiations, the parents of an Army sergeant abruptly disclosed that he was the subject of secret negotiations.",
+      "abstract": "Frustrated by stalled negotiations, the parents of an Army sergeant abruptly disclosed that he was the subject of secret negotiations.",
+      "lead_paragraph": "HAILEY, Idaho — The parents of the only American soldier held captive by Afghan insurgents have broken a yearlong silence about the status of their son, abruptly making public that he is a focus of secret negotiations between the Obama administration and the Taliban over a proposed prisoner exchange.",
+      "publication_date": "2012-05-09T19:25:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/10/world/asia/pow-is-focus-of-talks-on-taliban-prisoner-swap.html",
+      "byline": "By Elisabeth Bumiller and Matthew Rosenberg"
+    },
+    {
+      "headline": "The Voodoo Behind the Voice",
+      "snippet": "The VoiceLive Play is like a guitar stomp box, but for singers. It even supplies backup vocalists.",
+      "abstract": "The VoiceLive Play is like a guitar stomp box, but for singers. It even supplies backup vocalists.",
+      "lead_paragraph": "The Internet hit pop music hard. Without the Net, we’d still be buying songs from record stores. Apple would still be just a computer company. And Justin Bieber would probably be working in a Burger King in Ontario.",
+      "publication_date": "2012-05-09T21:12:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/10/technology/personaltech/voicelive-processor-listens-then-harmonizes-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Solar Installers Offer Deals, Gaining Converts",
+      "snippet": "Installers, often working through big-box chains, are taking advantage of hefty tax breaks, creative financing and cheap Chinese-made panels to make solar power accessible to the mass market.",
+      "abstract": "Installers, often working through big-box chains, are taking advantage of hefty tax breaks, creative financing and cheap Chinese-made panels to make solar power accessible to the mass market.",
+      "lead_paragraph": "HOLMDEL, N.J. — Jay Nuzzi, a New Jersey state trooper, had put off installing solar panels on his home here for years, deterred by the $70,000 it could cost. Then on a trip to Home Depot, he stumbled across a booth for Roof Diagnostics, which offered him a solar system at a price he couldn’t refuse: free.",
+      "publication_date": "2012-05-09T22:42:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/energy-environment/solar-installers-offer-homeowners-deals-gaining-converts.html",
+      "byline": "By Diane Cardwell"
+    },
+    {
+      "headline": "Working Late, by Choice or Not",
+      "snippet": "A record 7.2 million Americans 65 or older are working, either to supplement their retirement savings — in some cases diminished by the financial crisis — or to remain active.",
+      "abstract": "A record 7.2 million Americans 65 or older are working, either to supplement their retirement savings — in some cases diminished by the financial crisis — or to remain active.",
+      "lead_paragraph": "REPORT after report has made abundantly clear that job growth is weak, but there’s one wide swath of the population where employment growth is going gangbusters: older Americans.",
+      "publication_date": "2012-05-09T23:01:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/retirementspecial/for-many-reasons-older-americans-remain-at-work.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Help for Pro Athletes When the Cheers Stop",
+      "snippet": "In addition to pensions, the N.F.L. and the N.B.A. have transition programs for former athletes done playing and Major League Baseball is working on one.",
+      "abstract": "In addition to pensions, the N.F.L. and the N.B.A. have transition programs for former athletes done playing and Major League Baseball is working on one.",
+      "lead_paragraph": "DURING the New England Patriots’ 1982 training camp, several of Keith L. Lee’s teammates urged the second-string defensive back to push for a promotion. Mr. Lee, then a free agent pickup in his third year with the team, cornered his coach one day to lobby for the starter’s job. But his dream was dashed.",
+      "publication_date": "2012-05-09T23:01:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/pro-leagues-help-ex-players-adapt-after-the-glory.html",
+      "byline": "By David Wallis"
+    },
+    {
+      "headline": "A Circle of Tech: Collect Payout, Do a Start-Up",
+      "snippet": "The windfall from Facebook’s public offering may prompt some employees to leave, in what could be one of company’s lasting legacies — a new generation of tech tycoons looking to create or invest in, well, the next Facebook.",
+      "abstract": "The windfall from Facebook’s public offering may prompt some employees to leave, in what could be one of company’s lasting legacies — a new generation of tech tycoons looking to create or invest in, well, the next Facebook.",
+      "lead_paragraph": "MENLO PARK, Calif. — Matt Cohler was employee No. 7 at Facebook. Adam D’Angelo joined his high school friend Mark Zuckerberg’s quirky little start-up in 2004 — and became its chief technology officer. Ruchi Sanghvi was the first woman on its engineering team.",
+      "publication_date": "2012-05-10T01:01:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/10/technology/a-circle-of-tech-collect-payout-do-a-start-up.html",
+      "byline": "By Somini Sengupta"
+    },
+    {
+      "headline": "After Questions on Tactics, Accretive Cuts Forecast",
+      "snippet": "The medical debt-collection company, the subjection of an investigation by the Minnesota attorney general into its practices, announced higher quarterly earnings on Wednesday.",
+      "abstract": "The medical debt-collection company, the subjection of an investigation by the Minnesota attorney general into its practices, announced higher quarterly earnings on Wednesday.",
+      "lead_paragraph": "Despite a surge in revenue in the first quarter, Accretive Health on Wednesday lowered its earnings estimate for 2012 because of the loss of an important contract amid accusations that the medical debt-collection company had used overly aggressive tactics.",
+      "publication_date": "2012-05-10T01:21:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/after-questions-on-tactics-accretive-cuts-forecast.html",
+      "byline": "By Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "A Watershed Move, Both Risky and Inevitable",
+      "snippet": "In expressing his support for same-sex marriage, which remains a controversial issue, President Obama has clearly come to recognize that the forces of history appear to be changing.",
+      "abstract": "In expressing his support for same-sex marriage, which remains a controversial issue, President Obama has clearly come to recognize that the forces of history appear to be changing.",
+      "lead_paragraph": "President Obama’s endorsement of gay marriage on Wednesday was by any measure a watershed. A sitting United States president took sides in what many people consider the last civil rights movement, providing the most powerful evidence to date of how rapidly views are moving on an issue that was politically toxic just five years ago.",
+      "publication_date": "2012-05-10T02:01:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/10/us/politics/obamas-watershed-move-on-gay-marriage.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "New Rules May Curtail Some Fees in Mortgage",
+      "snippet": "The rules are designed to tackle origination fees, which vary widely depending on the amount of a loan.",
+      "abstract": "The rules are designed to tackle origination fees, which vary widely depending on the amount of a loan.",
+      "lead_paragraph": "WASHINGTON — The Consumer Financial Protection Bureau said it planned to propose tighter mortgage lending regulations that would limit the ability of banks and mortgage brokers to charge certain transaction fees, possibly ending one of the most abusive costs levied on consumers when they buy a house.",
+      "publication_date": "2012-05-10T02:03:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/10/business/consumer-agency-to-propose-curbs-on-origination-fees.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Data Signals Economic Trouble in China",
+      "snippet": "China’s incredible economic growth spurt shows signs of slowing, as April imports fell to near zero and exports were half of what was expected for the month.",
+      "abstract": "China’s incredible economic growth spurt shows signs of slowing, as April imports fell to near zero and exports were half of what was expected for the month.",
+      "lead_paragraph": "HONG KONG — As China’s leaders have been preoccupied with a political struggle leading up to a once-in-a-decade leadership change this autumn, there are increasing signs that the Chinese economy may be running into trouble. ",
+      "publication_date": "2012-05-10T04:38:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/11/business/global/china-trade-growth-slumps-in-april.html",
+      "byline": "By Keith Bradsher"
+    }
+  ]
+}

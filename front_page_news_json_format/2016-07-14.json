@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2016-07-14",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "After ‘Brexit,’ Britain Could Look to Norway as a Model",
+      "snippet": "Norway is outside of the European Union, but it can trade easily with the bloc’s members; the hitch is that it must allow the free movement of people.",
+      "abstract": "Norway is outside of the European Union, but it can trade easily with the bloc’s members; the hitch is that it must allow the free movement of people.",
+      "lead_paragraph": "HOKKSUND, Norway — Sigurd Braathen worked for a lifetime to build his family’s industrial company into a profitable venture with sales across Europe. Then an environmental diktat from Brussels threatened to outlaw half of his company’s energy-efficient water heaters, even in his home country of Norway.",
+      "publication_date": "2016-07-13T17:18:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/14/business/international/after-brexit-britain-could-look-to-norway-as-a-model.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "The Downside to Cord-Cutting",
+      "snippet": "A comparison of popular cable replacement services finds annoyances, like restrictions on content and missing channels.",
+      "abstract": "A comparison of popular cable replacement services finds annoyances, like restrictions on content and missing channels.",
+      "lead_paragraph": "This year, Michael Gartenberg, a former technology analyst, took the brave step of canceling his cable subscription. After six months of tinkering with alternatives, he went running back.",
+      "publication_date": "2016-07-13T17:29:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/14/technology/personaltech/the-downside-to-cord-cutting.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Race Relations Are at Lowest Point in Obama Presidency, Poll Finds",
+      "snippet": "A New York Times/CBS News Poll indicates that relations between African-Americans and the police are so brittle that the attack that killed five officers in Dallas left many respondents unsurprised.",
+      "abstract": "A New York Times/CBS News Poll indicates that relations between African-Americans and the police are so brittle that the attack that killed five officers in Dallas left many respondents unsurprised.",
+      "lead_paragraph": "Sixty-nine percent of Americans say race relations are generally bad, one of the highest levels of discord since the 1992 riots in Los Angeles during the Rodney King case, according to the latest New York Times/CBS News poll.",
+      "publication_date": "2016-07-13T22:30:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/14/us/most-americans-hold-grim-view-of-race-relations-poll-finds.html",
+      "byline": "By Giovanni Russonello"
+    },
+    {
+      "headline": "Theresa May’s Style: Put Your Head Down and Get to Work",
+      "snippet": "Britain’s new prime minister is widely seen as a safe pair of hands, but the times may demand that she be both steady and bold.",
+      "abstract": "Britain’s new prime minister is widely seen as a safe pair of hands, but the times may demand that she be both steady and bold.",
+      "lead_paragraph": "LONDON — Her beloved father, an Anglican vicar, died in a car crash when she was 25, after she had been married only a year, and her mother, who had multiple sclerosis, died a few months later. For Theresa May, a cherished only child, the shock was devastating.",
+      "publication_date": "2016-07-13T23:01:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/14/world/europe/theresa-may-profile.html",
+      "byline": "By Steven Erlanger"
+    },
+    {
+      "headline": "Gretchen Carlson’s Fox News Contract Could Shroud Her Case in Secrecy",
+      "snippet": "If the former Fox News anchor’s suit is forced into arbitration, her chances of winning are lessened, and little will be made public about it.",
+      "abstract": "If the former Fox News anchor’s suit is forced into arbitration, her chances of winning are lessened, and little will be made public about it.",
+      "lead_paragraph": "When Gretchen Carlson sought her day in court with a sexual harassment lawsuit against Roger Ailes, her former boss at Fox News, Mr. Ailes’s lawyers had a quick response: Move the case to arbitration.",
+      "publication_date": "2016-07-14T00:11:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/14/business/media/gretchen-carlsons-contract-could-shroud-her-case-in-secrecy.html",
+      "byline": "By Noam Scheiber and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Iran Sticks to Terms of Nuclear Deal, but Defies the U.S. in Other Ways",
+      "snippet": "The worst predictions of what would happen under the deal have not come to pass, but very little outside the strict confines of the agreement has improved.",
+      "abstract": "The worst predictions of what would happen under the deal have not come to pass, but very little outside the strict confines of the agreement has improved.",
+      "lead_paragraph": "WASHINGTON — A year after President Obama’s nuclear deal with Iran, the worst predictions of what would happen next have not come to pass.",
+      "publication_date": "2016-07-14T01:08:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/14/world/middleeast/iran-nuclear-deal.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "How Private Equity Found Power and Profit in State Capitols",
+      "snippet": "Private equity firms have used sophisticated but indirect political maneuvering with state and local entities to smooth the way for growth and revenue.",
+      "abstract": "Private equity firms have used sophisticated but indirect political maneuvering with state and local entities to smooth the way for growth and revenue.",
+      "lead_paragraph": "PHOENIX — Inside a cramped committee room on the cactus-dotted campus of Arizona’s Capitol, Kelsey Lundy stepped to the podium to detail new legislation and the higher costs it would impose on struggling borrowers.",
+      "publication_date": "2016-07-14T09:31:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/15/business/dealbook/private-equity-influence-fortress-investment-group.html",
+      "byline": "By Ben Protess, Jessica Silver-Greenberg and Rachel Abrams"
+    },
+    {
+      "headline": "Ruth Bader Ginsburg Expresses Regret for Criticizing Donald Trump",
+      "snippet": "Justice Ginsburg, who derided the presumptive Republican nominee in several interviews, said her comments were “ill-advised.”",
+      "abstract": "Justice Ginsburg, who derided the presumptive Republican nominee in several interviews, said her comments were “ill-advised.”",
+      "lead_paragraph": "WASHINGTON — Justice Ruth Bader Ginsburg’s indignant dissents from the bench have turned her into a heroine of the left, beloved for methodically skewering her conservative colleagues. On the internet, she has become the Notorious R.B.G.",
+      "publication_date": "2016-07-14T14:29:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/15/us/politics/ruth-bader-ginsburg-donald-trump.html",
+      "byline": "By Michael D. Shear"
+    }
+  ]
+}

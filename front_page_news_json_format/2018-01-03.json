@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-01-03",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A Saucy App Knows China’s Taste in News. The Censors Are Worried.",
+      "snippet": "The authorities have told the popular service Toutiao to clean up salacious material, illustrating the balance required to meet China’s voracious demand.",
+      "abstract": "The authorities have told the popular service Toutiao to clean up salacious material, illustrating the balance required to meet China’s voracious demand.",
+      "lead_paragraph": "HONG KONG — One of the world’s most valuable start-ups got that way by using artificial intelligence to satisfy Chinese internet users’ voracious appetite for news and entertainment. Every day, its smartphone app feeds 120 million people personalized streams of buzzy news stories, videos of dogs frolicking in snow, GIFs of traffic mishaps and listicles such as “The World’s Ugliest Celebrities.”",
+      "publication_date": "2018-01-02T16:29:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/02/business/china-toutiao-censorship.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "Orrin Hatch, Utah Senator, to Retire, Opening Path for Mitt Romney",
+      "snippet": "Mr. Hatch, the longest-serving Senate Republican, announced that he would retire at the end of the year, clearing a path for Mitt Romney to run.",
+      "abstract": "Mr. Hatch, the longest-serving Senate Republican, announced that he would retire at the end of the year, clearing a path for Mitt Romney to run.",
+      "lead_paragraph": "Senator Orrin G. Hatch of Utah, the longest-serving Senate Republican, announced Tuesday that he would retire at the end of the year, rebuffing personal pleas from President Trump to seek an eighth term and paving the way for Mitt Romney, a critic of Mr. Trump’s, to run for the seat.",
+      "publication_date": "2018-01-02T19:08:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/02/us/politics/orrin-hatch-retiring-romney-trump.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Trump Reiterates Support for Iranian Protesters, but Also Criticizes Obama",
+      "snippet": "Unlike President Barack Obama, who was faulted for his response to the protests that became known as the Green Movement, President Trump has come down on the side of the demonstrators",
+      "abstract": "Unlike President Barack Obama, who was faulted for his response to the protests that became known as the Green Movement, President Trump has come down on the side of the demonstrators",
+      "lead_paragraph": "WASHINGTON — President Trump has given full-throated support to the antigovernment protesters in Iran. But the rising tide of unrest there complicates an already vexing decision for him: whether he should rip up the nuclear deal struck by President Barack Obama.",
+      "publication_date": "2018-01-02T21:02:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/02/us/politics/trump-iran-protesters.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Care Suffers as More Nursing Homes Feed Money Into Corporate Webs",
+      "snippet": "On average, injury and complaint rates are higher, and staffs smaller, at for-profit facilities that outsource goods and services to their owners’ other businesses.",
+      "abstract": "On average, injury and complaint rates are higher, and staffs smaller, at for-profit facilities that outsource goods and services to their owners’ other businesses.",
+      "lead_paragraph": "MEMPHIS — When one of Martha Jane Pierce’s sons peeled back the white sock that had been covering his 82-year-old mother’s right foot for a month, he discovered rotting flesh.",
+      "publication_date": "2018-01-02T22:08:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/01/02/business/nursing-homes-care-corporate.html",
+      "byline": "By Jordan Rau"
+    },
+    {
+      "headline": "As Flow of Foreign Students Wanes, U.S. Universities Feel the Sting",
+      "snippet": "Colleges have cut programs amid a drop in international enrollment tied to several factors, including more restrictive immigration policies.",
+      "abstract": "Colleges have cut programs amid a drop in international enrollment tied to several factors, including more restrictive immigration policies.",
+      "lead_paragraph": "At Wright State University in Ohio, the French horn and tuba professors are out. So is the accomplished swimming team.",
+      "publication_date": "2018-01-02T23:15:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/02/us/international-enrollment-drop.html",
+      "byline": "By Stephanie Saul"
+    },
+    {
+      "headline": "MoneyGram and Ant Financial Call Off Merger, Citing Regulatory Concerns",
+      "snippet": "It is the latest deal to fall apart over worries about Chinese purchases of American businesses.",
+      "abstract": "It is the latest deal to fall apart over worries about Chinese purchases of American businesses.",
+      "lead_paragraph": "WASHINGTON — United States officials have effectively killed a Chinese company’s $1.2 billion plan to buy MoneyGram, the money transfer company, signaling the Trump administration’s growing skepticism of Chinese purchases of American companies and of broader business ties between the two economic powers.",
+      "publication_date": "2018-01-02T23:43:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/02/business/moneygram-ant-financial-china-cfius.html",
+      "byline": "By Ana Swanson and Paul Mozur"
+    },
+    {
+      "headline": "Democrats Outline Demands as Threat of Shutdown Looms",
+      "snippet": "Democrats are pushing for funding for children’s health care and protection for young undocumented immigrants, among other priorities.",
+      "abstract": "Democrats are pushing for funding for children’s health care and protection for young undocumented immigrants, among other priorities.",
+      "lead_paragraph": "WASHINGTON — The Senate returns on Wednesday with its Republican majority down to one seat and buoyed Democrats issuing a full list of demands — such as funding children’s health care and protecting young undocumented immigrants — just weeks before another possible government shutdown.",
+      "publication_date": "2018-01-03T01:50:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/02/us/politics/senate-democrats-government-shutdown-immigration.html",
+      "byline": "By Sheryl Gay Stolberg and Thomas Kaplan"
+    },
+    {
+      "headline": "As Iran Erupts in Protest, Tehran Is Notably Quiet",
+      "snippet": "It could be the sharp urban-rural divide, worries about a breakdown in authority or scars from the 2009 uprising. But whatever the cause, residents of the capital are sitting this one out.",
+      "abstract": "It could be the sharp urban-rural divide, worries about a breakdown in authority or scars from the 2009 uprising. But whatever the cause, residents of the capital are sitting this one out.",
+      "lead_paragraph": "TEHRAN — When they stepped through the gates of Tehran University last week, the student protesters had every expectation of igniting an impassioned rally against the government. After all, the university grounds had long been a flash point for demonstrations in the capital.",
+      "publication_date": "2018-01-03T09:15:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/03/world/middleeast/iran-protests.html",
+      "byline": "By Thomas Erdbrink"
+    },
+    {
+      "headline": "Expect 2018 to Be More Sane? Sorry, It’s Not Going to Happen",
+      "snippet": "Instead of revealing unseen order and predictability in the world, technology has made the world more volatile.",
+      "abstract": "Instead of revealing unseen order and predictability in the world, technology has made the world more volatile.",
+      "lead_paragraph": "Happy new year to you and yours, of course, but I’m going to have to put a halt to the festivities and play Frowning Farhad for a minute: You’re fooling yourself if you think 2018 is going to be any different, sanity- or anxiety-wise, from the roller coaster of the year just concluded.",
+      "publication_date": "2018-01-03T10:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/03/technology/2018-technology-chaos.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Made in China: New and Potentially Lifesaving Drugs",
+      "snippet": "A growing number of Chinese pharmaceutical companies are trying to break into the United States, seeking regulatory approval to offer their treatments for cancer and other ailments.",
+      "abstract": "A growing number of Chinese pharmaceutical companies are trying to break into the United States, seeking regulatory approval to offer their treatments for cancer and other ailments.",
+      "lead_paragraph": "SHANGHAI — One new drug promises to stop cancer from spreading to other organs. Another would treat blood cancer. A third would use the body’s immune system to kill tumors.",
+      "publication_date": "2018-01-03T10:03:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/03/business/china-drugs-health-care.html",
+      "byline": "By Sui-Lee Wee"
+    }
+  ]
+}

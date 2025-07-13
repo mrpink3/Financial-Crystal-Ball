@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-12-17",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "How Ashley Biden’s Diary Made Its Way to Project Veritas",
+      "snippet": "New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter.",
+      "abstract": "New details shed light on the federal investigation into the conservative group’s acquisition last year of a journal kept by the president’s daughter.",
+      "lead_paragraph": "In the final two months of the 2020 campaign, President Donald J. Trump, his grip on power slipping because of his handling of the pandemic, desperately tried to change the narrative by attacking the business dealings of Joseph R. Biden Jr.’s son Hunter, invoking his name publicly over 100 times.",
+      "publication_date": "2021-12-16T16:58:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/16/us/politics/ashley-biden-project-veritas-diary.html",
+      "byline": "By Adam Goldman and Michael S. Schmidt"
+    },
+    {
+      "headline": "Omicron Is an Economic Threat, but Inflation Is Worse, Central Bankers Say",
+      "snippet": "Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases.",
+      "abstract": "Within 24 hours, the Federal Reserve, Bank of England and European Central Bank all stepped forward to deal with price increases.",
+      "lead_paragraph": "There is still a lot scientists do not know about Omicron. There is cautious optimism — but no certainty — about the effectiveness of vaccines against this fast-spreading variant of the coronavirus, and experts do not fully understand what it means for public health or the economy.",
+      "publication_date": "2021-12-16T21:49:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/16/business/economy/omicron-inflation.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "In a Small Kentucky Town, the Candle Factory Was a Lifeline for Its Workers",
+      "snippet": "Eight people were killed when a tornado struck a Mayfield Consumer Products building. Now, amid acrimony over whether managers could have done more to keep employees safe, there is worry about lost jobs.",
+      "abstract": "Eight people were killed when a tornado struck a Mayfield Consumer Products building. Now, amid acrimony over whether managers could have done more to keep employees safe, there is worry about lost jobs.",
+      "lead_paragraph": "MAYFIELD, Ky. — Hispanic workers referred to the big, boxy factory on the west side of town as Las Velas, for the product it turned out: candles. Employees brought the calming fragrances — lavender, vanilla — home with them, imbued in their clothes. Some preferred it to the nearby local chicken plant or farms, where the work was backbreaking.",
+      "publication_date": "2021-12-16T23:22:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/16/us/kentucky-candle-factory-workers-tornado.html",
+      "byline": "By Edgar Sandoval and Richard Fausset"
+    },
+    {
+      "headline": "Offices Shut and Holiday Parties Dim as a Familiar Feeling Sinks In",
+      "snippet": "Employers mandate boosters, postpone return dates and brace for an Omicron surge.",
+      "abstract": "Employers mandate boosters, postpone return dates and brace for an Omicron surge.",
+      "lead_paragraph": "It was three words that workers don’t hear every day from their bosses: “I was wrong.”",
+      "publication_date": "2021-12-17T08:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/17/business/omicron-return-to-office.html",
+      "byline": "By Emma Goldberg and Lananh Nguyen"
+    },
+    {
+      "headline": "Russia Lays Out Demands for a Sweeping New Security Deal With NATO",
+      "snippet": "The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected.",
+      "abstract": "The proposal, coming as Moscow masses troops on the border with Ukraine, would establish a Cold War-like security arrangement in Eastern Europe that NATO officials immediately rejected.",
+      "lead_paragraph": "KYIV, Ukraine — Russia demanded on Friday that the United States and its allies halt all military activity in Eastern Europe and Central Asia in a sweeping proposal that would establish a Cold War-like security arrangement, posing a challenge to diplomatic efforts to defuse Russia’s growing military threat to Ukraine.",
+      "publication_date": "2021-12-17T12:02:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html",
+      "byline": "By Andrew E. Kramer and Steven Erlanger"
+    },
+    {
+      "headline": "Jury set to begin deliberations in Elizabeth Holmes’s fraud trial.",
+      "snippet": "The jury of eight men and four women will meet on Monday morning to consider wire fraud-related charges for claims made to Theranos’s investors and patients.",
+      "abstract": "The jury of eight men and four women will meet on Monday morning to consider wire fraud-related charges for claims made to Theranos’s investors and patients.",
+      "lead_paragraph": "SAN JOSE, Calif. — For more than three months, the defendant has donned a medical mask, clutched arms with her mother and entered the Robert F. Peckham Federal Building in San Jose, Calif., where executives, scientists and investors have accused her of fraud.",
+      "publication_date": "2021-12-17T13:30:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/17/technology/elizabeth-holmes-trial-closing-arguments.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Doctors and Nurses Are ‘Living in a Constant Crisis’ as Covid Fills Hospitals",
+      "snippet": "Hospitalizations across the country have increased 20 percent in two weeks, taxing already exhausted health care workers as the United States confronts the Omicron variant.",
+      "abstract": "Hospitalizations across the country have increased 20 percent in two weeks, taxing already exhausted health care workers as the United States confronts the Omicron variant.",
+      "lead_paragraph": "SAGINAW, Mich. — On the top floor of the hospital, in the unit that houses the sickest Covid-19 patients, 13 of the 14 beds were occupied. In the one empty room, a person had just died.",
+      "publication_date": "2021-12-17T15:57:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/17/us/covid-hospitals-omicron.html",
+      "byline": "By Mitch Smith"
+    }
+  ]
+}

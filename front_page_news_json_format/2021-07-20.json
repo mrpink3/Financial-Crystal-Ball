@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-07-20",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "How China Transformed Into a Prime Cyber Threat to the U.S.",
+      "snippet": "Over the past decade, China reorganized its hacking operations, turning into a sophisticated and mature adversary.",
+      "abstract": "Over the past decade, China reorganized its hacking operations, turning into a sophisticated and mature adversary.",
+      "lead_paragraph": "Nearly a decade ago, the United States began naming and shaming China for an onslaught of online espionage, the bulk of it conducted using low-level phishing emails against American companies for intellectual property theft.",
+      "publication_date": "2021-07-19T20:20:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/19/technology/china-hacking-us.html",
+      "byline": "By Nicole Perlroth"
+    },
+    {
+      "headline": "White House Dispute Exposes Facebook Blind Spot on Misinformation",
+      "snippet": "The company doesn’t know some specifics about how falsehoods about Covid-19 and vaccines for the virus spread on its social network.",
+      "abstract": "The company doesn’t know some specifics about how falsehoods about Covid-19 and vaccines for the virus spread on its social network.",
+      "lead_paragraph": "SAN FRANCISCO — At the start of the pandemic, a group of data scientists at Facebook held a meeting with executives to ask for resources to help measure the prevalence of misinformation about Covid-19 on the social network.",
+      "publication_date": "2021-07-19T22:40:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/19/technology/facebook-misinformation-blind-spot.html",
+      "byline": "By Sheera Frenkel"
+    },
+    {
+      "headline": "A House Race in Cleveland Captures the Democrats’ Generational Divide",
+      "snippet": "Nina Turner’s move from Bernie Sanders’s campaign co-chairwoman to House candidate has highlighted a Democratic divide between impatient young activists and cautious older voters.",
+      "abstract": "Nina Turner’s move from Bernie Sanders’s campaign co-chairwoman to House candidate has highlighted a Democratic divide between impatient young activists and cautious older voters.",
+      "lead_paragraph": "WARRENSVILLE HEIGHTS, Ohio — Nina Turner had just belted out a short address to God’s Tabernacle of Faith Church in the cadences and tremulous volumes of a preacher when the Rev. Timothy Eppinger called on the whole congregation to lay hands on the woman seeking the House seat of greater Cleveland.",
+      "publication_date": "2021-07-20T09:00:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/20/us/politics/nina-turner-shontel-brown.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "‘Game Over’: Food Carts Adjust to a Changed City",
+      "snippet": "For thousands of food truck operators and cart vendors in New York, the ability to make meaningful profits depends on large numbers of workers returning to the office.",
+      "abstract": "For thousands of food truck operators and cart vendors in New York, the ability to make meaningful profits depends on large numbers of workers returning to the office.",
+      "lead_paragraph": "Around 11:30 a.m. on a muggy July Wednesday in Midtown Manhattan, the line for Uncle Gussy’s food truck started to form.",
+      "publication_date": "2021-07-20T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/20/business/new-york-food-trucks-office-workers.html",
+      "byline": "By Julie Creswell and Coral Murphy Marcos"
+    },
+    {
+      "headline": "Low-Wage Workers Now Have Options, Which Could Mean a Raise",
+      "snippet": "The sharp rebound in hiring, especially in service industries, is widening opportunities and prompting employers to compete on pay.",
+      "abstract": "The sharp rebound in hiring, especially in service industries, is widening opportunities and prompting employers to compete on pay.",
+      "lead_paragraph": "McDonald’s is raising wages at its company-owned restaurants. It is also helping its franchisees hang on to workers with funding for backup child care, elder care and tuition assistance. Pay is up at Chipotle, too, and Papa John’s and many of its franchisees are offering hiring and referral bonuses.",
+      "publication_date": "2021-07-20T15:07:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/07/20/business/economy/workers-wages-mobility.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "A Drought So Dire That a Utah Town Pulled the Plug on Growth",
+      "snippet": "Groundwater and streams vital to both farmers and cities are drying up in the West, challenging the future of development.",
+      "abstract": "Groundwater and streams vital to both farmers and cities are drying up in the West, challenging the future of development.",
+      "lead_paragraph": "OAKLEY, Utah — The mountain spring that pioneers used to water their hayfields and now fills people’s taps flowed reliably into the old cowboy town of Oakley for decades. So when it dwindled to a trickle in this year’s scorching drought, officials took drastic action to preserve their water: They stopped building.",
+      "publication_date": "2021-07-20T15:24:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/07/20/us/utah-water-drought-climate-change.html",
+      "byline": "By Jack Healy and Sophie Kasakove"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-08-09",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "At Walmart Academy, Training Better Managers. But With a Better Future?",
+      "snippet": "A new program for store supervisors and department managers may make them better employees but may not help them reach the middle class.",
+      "abstract": "A new program for store supervisors and department managers may make them better employees but may not help them reach the middle class.",
+      "lead_paragraph": "FULTON, N.Y. — The procession started in toys, marched through electronics, down into grocery and past the registers at the front end.",
+      "publication_date": "2017-08-08T16:14:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/08/business/walmart-academy-employee-training.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "As Investigations Intensify, Israel Imagines Life After Netanyahu",
+      "snippet": "As an ex-aide turns state’s witness, Israelis across the spectrum are trying on the idea of the curtain coming down on Mr. Netanyahu’s career.",
+      "abstract": "As an ex-aide turns state’s witness, Israelis across the spectrum are trying on the idea of the curtain coming down on Mr. Netanyahu’s career.",
+      "lead_paragraph": "JERUSALEM — A black curtain went up a few months ago near Prime Minister Benjamin Netanyahu’s official residence on Jerusalem’s leafy Balfour Street. It screened pesky protesters from Mr. Netanyahu’s view — and prevented the public from seeing lawyers and detectives come and go as criminal investigations of the prime minister intensified.",
+      "publication_date": "2017-08-08T20:01:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/08/world/middleeast/netanyahu-israel-investigations.html",
+      "byline": "By Isabel Kershner"
+    },
+    {
+      "headline": "How Disney Wants to Take On Netflix With Its Own Streaming Services",
+      "snippet": "By accelerating its plans for direct-to-consumer streaming services, Disney hopes to address Wall Street concerns about growth.",
+      "abstract": "By accelerating its plans for direct-to-consumer streaming services, Disney hopes to address Wall Street concerns about growth.",
+      "lead_paragraph": "LOS ANGELES — The Walt Disney Company, under pressure to address threats to its vast television business, unveiled its answer on Tuesday: two Netflix-style streaming services.",
+      "publication_date": "2017-08-08T20:18:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/08/business/media/disney-streaming-service.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Contentious Memo Strikes Nerve Inside Google and Out",
+      "snippet": "The memo, written by a Google engineer who was later fired, enraged diversity advocates and also served as a rallying cry for conservatives and the alt-right.",
+      "abstract": "The memo, written by a Google engineer who was later fired, enraged diversity advocates and also served as a rallying cry for conservatives and the alt-right.",
+      "lead_paragraph": "SAN FRANCISCO — After leaving Harvard’s doctorate program in systems biology to join Google as a software engineer in 2013, James Damore joked on his Facebook page that he knew he had made the right move as he enjoyed a morning smoothie with oats. It was the type of workplace perk that is standard for Google employees.",
+      "publication_date": "2017-08-08T20:51:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/08/technology/google-engineer-fired-gender-memo.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "The Culture Wars Have Come to Silicon Valley",
+      "snippet": "After Google fired an engineer who wrote an anti-diversity manifesto, the tech industry is under the microscope for penalizing dissenting opinions.",
+      "abstract": "After Google fired an engineer who wrote an anti-diversity manifesto, the tech industry is under the microscope for penalizing dissenting opinions.",
+      "lead_paragraph": "The culture wars that have consumed politics in the United States have now landed on Silicon Valley’s doorstep.",
+      "publication_date": "2017-08-08T23:37:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/08/technology/the-culture-wars-have-come-to-silicon-valley.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "In the Age of Trump, the Dollar No Longer Seems a Sure Thing",
+      "snippet": "Long the ultimate safe haven in the global economy, the U.S. dollar may be losing some status as investors grapple with an uncertain political climate.",
+      "abstract": "Long the ultimate safe haven in the global economy, the U.S. dollar may be losing some status as investors grapple with an uncertain political climate.",
+      "lead_paragraph": "LONDON — It is the closest thing to a certainty in the global economy. When trouble flares and anxiety mounts, people who manage money traditionally entrust it to a seemingly indomitable refuge, the American dollar.",
+      "publication_date": "2017-08-09T09:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/09/business/dollar-trump-stock-market.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Russia Wants Innovation, but It’s Arresting Its Innovators",
+      "snippet": "The detention of a Siberian scientist turned high-tech entrepreneur stirs dismay as Russia struggles to diversify its faltering economy beyond oil and gas.",
+      "abstract": "The detention of a Siberian scientist turned high-tech entrepreneur stirs dismay as Russia struggles to diversify its faltering economy beyond oil and gas.",
+      "lead_paragraph": "AKADEMGORODOK, Russia — Dmitri Trubitsyn is a young physicist-entrepreneur with a patriotic reputation, seen in this part of Siberia as an exemplar of the talents, dedication and enterprise that President Vladimir V. Putin has hailed as vital for Russia’s future economic health.",
+      "publication_date": "2017-08-09T09:00:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/09/world/europe/vladimir-putin-russia-siberia.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Deep Divisions Emerge in Trump Administration as North Korea Threatens War",
+      "snippet": "A day after President Trump threatened North Korea with “fire and fury,” his top advisers lowered the heat.",
+      "abstract": "A day after President Trump threatened North Korea with “fire and fury,” his top advisers lowered the heat.",
+      "lead_paragraph": "BRIDGEWATER, N.J. — Senior American officials sent mixed signals on North Korea on Wednesday as President Trump’s “fire and fury” warning rattled allies and adversaries alike, a sign of his administration’s deep divisions as the outcast state once again threatened to wage nuclear war on the United States.",
+      "publication_date": "2017-08-09T12:03:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/09/us/politics/north-korea-nuclear-threat-rex-tillerson.html",
+      "byline": "By Peter Baker and Gardiner Harris"
+    },
+    {
+      "headline": "Manafort’s Home Searched as Part of Mueller Inquiry",
+      "snippet": "The F.B.I. searched the home of Paul Manafort, President Trump’s former campaign chairman, as part of the special investigation on Russia.",
+      "abstract": "The F.B.I. searched the home of Paul Manafort, President Trump’s former campaign chairman, as part of the special investigation on Russia.",
+      "lead_paragraph": "WASHINGTON — Investigators for the special counsel leading the Russia inquiry executed a search warrant late last month at the Northern Virginia home of President Trump’s former campaign manager, Paul J. Manafort, for tax documents and foreign banking records, according to a person familiar with the matter.",
+      "publication_date": "2017-08-09T14:45:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/09/us/politics/paul-manafort-home-search-mueller.html",
+      "byline": "By Michael S. Schmidt and Adam Goldman"
+    },
+    {
+      "headline": "Trump’s Threat to North Korea Was Improvised",
+      "snippet": "The comments embodied the president’s approach to foreign policy, an improvisational style that often leaves his national security team unsure of what he is going to say or do.",
+      "abstract": "The comments embodied the president’s approach to foreign policy, an improvisational style that often leaves his national security team unsure of what he is going to say or do.",
+      "lead_paragraph": "WASHINGTON — President Trump’s aides knew he planned to deliver a tough message to North Korea on Tuesday, but they did not expect a threat that rivaled the apocalyptic taunts often used by his target, Kim Jong-un.",
+      "publication_date": "2017-08-09T15:42:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/09/us/politics/trump-north-korea.html",
+      "byline": "By Glenn Thrush and Peter Baker"
+    }
+  ]
+}

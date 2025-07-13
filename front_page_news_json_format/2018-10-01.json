@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2018-10-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Elon Musk Settled With the S.E.C., but Tesla’s Troubles Aren’t Over",
+      "snippet": "The company is still struggling to produce and deliver its Model 3 cars. It is short on cash. And it still faces investigations by federal authorities.",
+      "abstract": "The company is still struggling to produce and deliver its Model 3 cars. It is short on cash. And it still faces investigations by federal authorities.",
+      "lead_paragraph": "Elon Musk was chastened by federal regulators on Saturday night, agreeing to step down as chairman of Tesla and to have his communications monitored.",
+      "publication_date": "2018-10-01T00:05:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/30/business/elon-musk-tesla-whats-next.html",
+      "byline": "By David Gelles, Matthew Goldstein and Neal E. Boudette"
+    },
+    {
+      "headline": "I.R.S. Tax Fraud Cases Plummet After Budget Cuts",
+      "snippet": "Audits and criminal referrals are down sharply since Congress cut the tax agency’s budget and management changed priorities.",
+      "abstract": "Audits and criminal referrals are down sharply since Congress cut the tax agency’s budget and management changed priorities.",
+      "lead_paragraph": "Tax evasion is at the center of the criminal cases against two associates of the president, Paul Manafort and Michael D. Cohen. The sheer scale of their efforts to avoid paying the government has given rise to a head-scratching question: How were they able to cheat the Internal Revenue Service for so many years?",
+      "publication_date": "2018-10-01T09:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/01/business/economy/irs-tax-fraud-audit.html",
+      "byline": "By Jesse Eisinger and Paul Kiel"
+    },
+    {
+      "headline": "Biden Is Preparing for 2020. Can He Overcome the Hill-Thomas Hearings?",
+      "snippet": "As he explores a possible 2020 presidential run, the former vice president finds that his role in Clarence Thomas’s confirmation hearings 27 years ago is complicating his plans.",
+      "abstract": "As he explores a possible 2020 presidential run, the former vice president finds that his role in Clarence Thomas’s confirmation hearings 27 years ago is complicating his plans.",
+      "lead_paragraph": "PROVIDENCE, R.I. — At a Democratic rally in a downtown ballroom Sunday evening, Gov. Gina Raimondo of Rhode Island spoke vividly about the Senate hearings on the sexual assault allegations against Judge Brett M. Kavanaugh, saying her “stomach turned” as she watched. Senator Sheldon Whitehouse was indignant, vowing “no more Kavanaughs” if the Democrats win control of the Senate in November.",
+      "publication_date": "2018-10-01T09:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/01/us/politics/biden-2020-anita-hill-kavanaugh.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "G.E. Ousts Chief Just Over a Year After Picking Him to Lead a Turnaround",
+      "snippet": "General Electric, in announcing the replacement of John Flannery, said it was facing “weaker performance” in its power generator business.",
+      "abstract": "General Electric, in announcing the replacement of John Flannery, said it was facing “weaker performance” in its power generator business.",
+      "lead_paragraph": "When John Flannery was named chief executive of General Electric last year, he said he would rethink the troubled business “with speed, urgency and no constraints.” In the next months, he sharply cut expenses and devised a plan to sell off large parts of the industrial giant.",
+      "publication_date": "2018-10-01T11:56:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/01/business/ge-ceo-flannery-replaced.html",
+      "byline": "By Steve Lohr and Kevin Granville"
+    },
+    {
+      "headline": "Trump Hails Revised Nafta Trade Deal, and Sets Up a Showdown With China",
+      "snippet": "The president said the new pact will help United States companies and workers. But the deal’s importance may have less to do with its details than the signal it sends.",
+      "abstract": "The president said the new pact will help United States companies and workers. But the deal’s importance may have less to do with its details than the signal it sends.",
+      "lead_paragraph": "WASHINGTON — President Trump said Monday that the revised North American Free Trade Agreement with Mexico and Canada would pour “cash and jobs” into the United States. But the deal’s importance may have less to do with the details than the signal it sends that Mr. Trump is methodically settling his multifront trade war to fight a single enemy: China.",
+      "publication_date": "2018-10-01T15:48:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/01/us/politics/nafta-deal-trump-canada-mexico.html",
+      "byline": "By Mark Landler and Alan Rappeport"
+    }
+  ]
+}

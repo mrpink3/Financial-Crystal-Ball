@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-12-08",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Lawmakers Press Biden Administration for Tougher Curbs on China Tech",
+      "snippet": "Republican legislators argue that the Biden administration has been ill-equipped and unmotivated in a technology fight with Beijing.",
+      "abstract": "Republican legislators argue that the Biden administration has been ill-equipped and unmotivated in a technology fight with Beijing.",
+      "lead_paragraph": "Republican lawmakers are faulting the Biden administration’s enforcement of restrictions on China’s access to American technology, saying that the administration is still allowing semiconductors and other American innovation to flow to Beijing that could ultimately aid China in a military conflict.",
+      "publication_date": "2023-12-07T17:02:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/07/us/politics/lawmakers-biden-china-tech.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Texas Judge Grants Woman’s Request for Abortion, in Rare Post-Roe Case",
+      "snippet": "A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.",
+      "abstract": "A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.",
+      "lead_paragraph": "A Texas judge granted a request on Thursday to allow an abortion despite the state’s strict bans, ruling in the case of a pregnant woman whose fetus was diagnosed with a fatal condition.",
+      "publication_date": "2023-12-07T17:29:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/07/us/texas-abortion-ruling-exception.html",
+      "byline": "By J. David Goodman"
+    },
+    {
+      "headline": "Hunter Biden Charged With Evading Taxes on Millions From Foreign Firms",
+      "snippet": "The Justice Department charged President Biden’s son after a long-running and wide-ranging investigation with substantial political repercussions.",
+      "abstract": "The Justice Department charged President Biden’s son after a long-running and wide-ranging investigation with substantial political repercussions.",
+      "lead_paragraph": "A federal grand jury charged Hunter Biden on Thursday with a scheme to evade federal taxes on millions in income from foreign businesses, the second indictment against him this year and a major new development in a case Republicans have made the cornerstone of a possible impeachment of President Biden.",
+      "publication_date": "2023-12-08T01:33:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/07/us/politics/hunter-biden-indictment.html",
+      "byline": "By Glenn Thrush and Michael S. Schmidt"
+    },
+    {
+      "headline": "China’s Electric Car Factories Can’t Hire Fast Enough",
+      "snippet": "China misjudged the rapid expansion of its electric vehicle sector, leaving a shortfall of skilled technicians as young people shun manufacturing careers.",
+      "abstract": "China misjudged the rapid expansion of its electric vehicle sector, leaving a shortfall of skilled technicians as young people shun manufacturing careers.",
+      "lead_paragraph": "Xing Wei graduated from a vocational high school in northeastern China in 2003 and went to work as an electrician in an auto parts factory in the country’s south. The only set of wheels he could afford was a black, three-speed bicycle.",
+      "publication_date": "2023-12-08T05:01:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/08/business/china-electric-vehicles.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Zombie TV Has Come for Cable",
+      "snippet": "Many of the most popular channels have largely ditched original dramas and comedies, morphing into vessels for endless reruns.",
+      "abstract": "Many of the most popular channels have largely ditched original dramas and comedies, morphing into vessels for endless reruns.",
+      "lead_paragraph": "In 2015, the USA cable network was a force in original programming. Dramas like “Suits,” “Mr. Robot” and “Royal Pains” either won awards or attracted big audiences.",
+      "publication_date": "2023-12-08T10:03:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/08/business/media/zombie-tv-cable-networks.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "U.S. Job Growth Holds Up as Economy Gradually Cools",
+      "snippet": "Interest rate increases have taken the edge off labor demand, but unemployment dipped in November, and wages rose more than expected.",
+      "abstract": "Interest rate increases have taken the edge off labor demand, but unemployment dipped in November, and wages rose more than expected.",
+      "lead_paragraph": "The U.S. economy continued to pump out jobs in November, suggesting there is still juice left in a labor market that has been slowing almost imperceptibly since last year’s pandemic rebound.",
+      "publication_date": "2023-12-08T10:03:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/08/business/economy/jobs-report-november-2023.html",
+      "byline": "By Lydia DePillis"
+    }
+  ]
+}

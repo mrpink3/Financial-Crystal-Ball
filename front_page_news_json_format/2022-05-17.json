@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-05-17",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Russia Planned a Major Military Overhaul. Ukraine Shows the Result.",
+      "snippet": "Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure.",
+      "abstract": "Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure.",
+      "lead_paragraph": "Army vehicles were so decrepit that repair crews were stationed roughly every 15 miles. Some officers were so out of shape that the military budgeted $1.5 million to re-size standard uniforms.",
+      "publication_date": "2022-05-16T19:56:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html",
+      "byline": "By Neil MacFarquhar"
+    },
+    {
+      "headline": "Elon Musk says Twitter deal ‘cannot move forward’ without more information.",
+      "snippet": "Mr. Musk called on Twitter to provide more data about the number of spam and fake accounts on the social media site.",
+      "abstract": "Mr. Musk called on Twitter to provide more data about the number of spam and fake accounts on the social media site.",
+      "lead_paragraph": "Elon Musk, chaos agent.",
+      "publication_date": "2022-05-17T08:39:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/17/business/elon-musk-twitter.html",
+      "byline": "By Lauren Hirsch, Kate Conger and Adam Satariano"
+    },
+    {
+      "headline": "Biden, Calling on Americans to ‘Take on the Haters,’ Condemns Racist Rhetoric After Buffalo Massacre",
+      "snippet": "The challenge for a president who came to office preaching unity may be how to take on those preaching hate.",
+      "abstract": "The challenge for a president who came to office preaching unity may be how to take on those preaching hate.",
+      "lead_paragraph": "BUFFALO — President Biden called on Americans on Tuesday to “take on the haters” and “reject the lie” of racial replacement that animated a white man who gunned down Black shoppers in the latest eruption of violence targeting people of color in the United States.",
+      "publication_date": "2022-05-17T09:00:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html",
+      "byline": "By Zolan Kanno-Youngs and Peter Baker"
+    },
+    {
+      "headline": "What Higher Interest Rates Could Mean for Jobs",
+      "snippet": "Layoffs are up only minimally, and employers may be averse to shedding workers after experiencing the challenges of rehiring.",
+      "abstract": "Layoffs are up only minimally, and employers may be averse to shedding workers after experiencing the challenges of rehiring.",
+      "lead_paragraph": "The past year has been a busy one for nearly every industry, as a reopening economy has ignited a war for talent. Unless, of course, your business is finding jobs for laid-off workers.",
+      "publication_date": "2022-05-17T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/17/business/economy/interest-rates-jobs-layoffs.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt",
+      "snippet": "Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries.",
+      "abstract": "Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries.",
+      "lead_paragraph": "Before war ravaged Yemen, Walid Al-Ahdal did not worry about feeding his children. At his hometown near the Red Sea, his family grew corn, raised goats and relied on their own cow for milk.",
+      "publication_date": "2022-05-17T14:09:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html",
+      "byline": "By Peter S. Goodman, Ruth Maclean, Salman Masood, Elif Ince, Flávia Milhorance, Muktita Suhartono and Brenda Kiven"
+    },
+    {
+      "headline": "With Plunging Enrollment, a ‘Seismic Hit’ to Public Schools",
+      "snippet": "The pandemic has supercharged the decline in the nation’s public school system in ways that experts say will not easily be reversed.",
+      "abstract": "The pandemic has supercharged the decline in the nation’s public school system in ways that experts say will not easily be reversed.",
+      "lead_paragraph": "ORANGE COUNTY, Calif. — In New York City, the nation’s largest school district has lost some 50,000 students over the past two years. In Michigan, enrollment remains more than 50,000 below prepandemic levels from big cities to the rural Upper Peninsula.",
+      "publication_date": "2022-05-17T15:44:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/17/us/public-schools-falling-enrollment.html",
+      "byline": "By Shawn Hubler"
+    }
+  ]
+}

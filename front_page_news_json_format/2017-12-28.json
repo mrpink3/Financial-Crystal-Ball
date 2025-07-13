@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-12-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "The Robots Are Coming, and Sweden Is Fine",
+      "snippet": "In a world full of anxiety about the potential job-destroying rise of automation, Sweden is well placed to embrace technology while limiting human costs.",
+      "abstract": "In a world full of anxiety about the potential job-destroying rise of automation, Sweden is well placed to embrace technology while limiting human costs.",
+      "lead_paragraph": "GARPENBERG, Sweden — From inside the control room carved into the rock more than half a mile underground, Mika Persson can see the robots on the march, supposedly coming for his job here at the New Boliden mine.",
+      "publication_date": "2017-12-27T21:27:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/27/business/the-robots-are-coming-and-sweden-is-fine.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "In a Complex Tax Bill, Let the Hunt for Loopholes Begin",
+      "snippet": "A 2004 change by Congress, meant to foster domestic manufacturing, may provide a cautionary tale: You can mine a lot of tax breaks from just one word.",
+      "abstract": "A 2004 change by Congress, meant to foster domestic manufacturing, may provide a cautionary tale: You can mine a lot of tax breaks from just one word.",
+      "lead_paragraph": "It was supposed to be a tax cut for manufacturers. Then it got out of control.",
+      "publication_date": "2017-12-27T23:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/27/business/economy/tax-loopholes.html",
+      "byline": "By Natalie Kitroeff"
+    },
+    {
+      "headline": "Some Things About Tech Were Good in 2017. No, Really.",
+      "snippet": "Amid a series of scandals and sins, a few righteous tech innovators actually brought positive change this year.",
+      "abstract": "Amid a series of scandals and sins, a few righteous tech innovators actually brought positive change this year.",
+      "lead_paragraph": "For much of Silicon Valley, 2017 felt like a nonstop parade of scandal and sin.",
+      "publication_date": "2017-12-27T23:50:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/27/technology/tech-roundup-2017.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "MoviePass Adds a Million Subscribers, Even if Theaters Aren’t Sold on It",
+      "snippet": "Users can go to the movies once a day for $9.95 a month. While multiplexes doubt that’s sustainable, the chief executive, who slashed the price, says, “We seem to have hit a nerve in America.”",
+      "abstract": "Users can go to the movies once a day for $9.95 a month. While multiplexes doubt that’s sustainable, the chief executive, who slashed the price, says, “We seem to have hit a nerve in America.”",
+      "lead_paragraph": "LOS ANGELES — As streaming services like Netflix and Hulu surge in popularity, movie theaters have been trying to compete by rethinking the concession counter and installing seats that resemble beds.",
+      "publication_date": "2017-12-28T01:03:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/27/business/media/moviepass-theaters-tickets.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Once a Cash Cow, Venezuela’s Oil Company Now Verges on Collapse",
+      "snippet": "The deepening troubles threaten to further destabilize a nation facing a dire recession and unbridled crime, as well as food and medicine shortages.",
+      "abstract": "The deepening troubles threaten to further destabilize a nation facing a dire recession and unbridled crime, as well as food and medicine shortages.",
+      "lead_paragraph": "PUNTO FIJO, Venezuela — A general with no energy experience has been installed as the head of the state oil company. Arrests, firings  and desperate emigration have gutted top talent. Oil facilities are crumbling, while production is plummeting.",
+      "publication_date": "2017-12-28T01:07:50+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/27/world/americas/venezuela-oil-pdvsa.html",
+      "byline": "By Kirk Semple and Clifford Krauss"
+    },
+    {
+      "headline": "China Offers Tax Incentives to Persuade U.S. Companies to Stay",
+      "snippet": "Following a tax overhaul in the United States, Beijing has announced a temporary exemption for foreign firms investing in certain sectors.",
+      "abstract": "Following a tax overhaul in the United States, Beijing has announced a temporary exemption for foreign firms investing in certain sectors.",
+      "lead_paragraph": "BEIJING — China said on Thursday that it would temporarily exempt foreign companies from paying tax on their earnings, a bid to keep American businesses from taking their profits out of China following Washington’s overhaul of the United States tax code.",
+      "publication_date": "2017-12-28T15:32:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/28/business/tax-bill-china.html",
+      "byline": "By Sui-Lee Wee"
+    }
+  ]
+}

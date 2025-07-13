@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-12-31",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "F.D.A. Plans to Allow 12- to 15-Year-Olds to Receive Pfizer Boosters",
+      "snippet": "Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot.",
+      "abstract": "Regulators are also expected to allow even younger children with immune deficiencies to get an extra shot.",
+      "lead_paragraph": "WASHINGTON — The Food and Drug Administration is planning to broaden eligibility for coronavirus vaccine booster shots on Monday, allowing 12- to 15-year-olds to receive third doses of Pfizer-BioNTech’s vaccine, according to people familiar with the agency’s deliberations.",
+      "publication_date": "2021-12-30T17:25:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/30/us/politics/boosters-12-15-year-olds-omicron.html",
+      "byline": "By Noah Weiland and Sharon LaFraniere"
+    },
+    {
+      "headline": "Air Travel Is No Holiday as Covid and Storms Cancel Flights",
+      "snippet": "Airlines and passengers are ending the year with many of their plans upended. And New Year’s weekend may be bumpy, too.",
+      "abstract": "Airlines and passengers are ending the year with many of their plans upended. And New Year’s weekend may be bumpy, too.",
+      "lead_paragraph": "Airlines may have thought their pandemic troubles were behind them in the fall as a coronavirus wave subsided and travelers increasingly took to the skies. But a new virus surge and winter storms have left the carriers and their passengers in a holiday mess.",
+      "publication_date": "2021-12-31T00:16:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/30/business/flights-cancelled.html",
+      "byline": "By Niraj Chokshi and Heather Murphy"
+    },
+    {
+      "headline": "Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine",
+      "snippet": "President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear.",
+      "abstract": "President Vladimir V. Putin of Russia spoke with President Biden for 50 minutes about the escalating crisis with Ukraine, but his intentions remained unclear.",
+      "lead_paragraph": "President Vladimir V. Putin warned President Biden on Thursday that any economic sanctions imposed on Russia if it moves to take new military action against Ukraine could result in a “complete rupture” of relations between the two nuclear superpowers, a Russian official told reporters on Thursday evening.",
+      "publication_date": "2021-12-31T01:07:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html",
+      "byline": "By David E. Sanger and Andrew E. Kramer"
+    },
+    {
+      "headline": "‘We Threw Out Any Plans We Had’: C.E.O.s Are Forced to Embrace Uncertainty",
+      "snippet": "Business leaders are trained to “shoot, move and communicate.” But the pandemic has called on them to rewrite the leadership playbook.",
+      "abstract": "Business leaders are trained to “shoot, move and communicate.” But the pandemic has called on them to rewrite the leadership playbook.",
+      "lead_paragraph": "In normal times, there are few words that C.E.O.s like more than “certainty.” Certainty allows executives to issue sales forecasts with oracle-like conviction. Certainty instills leaders with the confidence they need to invest $500 million in a new factory, or spend $20 billion buying a competitor. Certainty gives them the verve they need to preside over virtual town hall meetings with their employees and discuss race relations, furloughs, remote work and more.",
+      "publication_date": "2021-12-31T08:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/31/business/ceos-pandemic-leadership.html",
+      "byline": "By David Gelles and Emma Goldberg"
+    },
+    {
+      "headline": "The Elizabeth Holmes Trial Meanders to a Finish",
+      "snippet": "Other high-profile trials around the country have started and ended while Ms. Holmes’s case has stretched for four months into the new year.",
+      "abstract": "Other high-profile trials around the country have started and ended while Ms. Holmes’s case has stretched for four months into the new year.",
+      "lead_paragraph": "SAN JOSE, Calif. — The homicide trial of Kyle Rittenhouse in Wisconsin lasted two weeks, with four days of jury deliberations. Kimberly Potter’s manslaughter case in Minnesota took the same amount of time.",
+      "publication_date": "2021-12-31T08:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/31/business/slow-elizabeth-holmes-trial.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "A Digital Manhunt: How Chinese Police Track Critics on Twitter and Facebook",
+      "snippet": "Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals.",
+      "abstract": "Authorities in China have turned to sophisticated investigative software to track and silence obscure critics on overseas social media. Their targets include college students and non-Chinese nationals.",
+      "lead_paragraph": "When Jennifer Chen traveled back to her hometown in central China last winter for Lunar New Year, she thought little about Twitter. She had around 100 followers on an account she believed to be anonymous.",
+      "publication_date": "2021-12-31T08:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/31/business/china-internet-police-twitter.html",
+      "byline": "By Muyi Xiao and Paul Mozur"
+    }
+  ]
+}

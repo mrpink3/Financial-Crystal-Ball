@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-05-07",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump Advisers Accuse China of Reneging on Trade Commitments",
+      "snippet": "A trade war that seemed to be on the brink of ending now appears likely to be prolonged as President Trump threatens to impose more tariffs on China.",
+      "abstract": "A trade war that seemed to be on the brink of ending now appears likely to be prolonged as President Trump threatens to impose more tariffs on China.",
+      "lead_paragraph": "WASHINGTON — President Trump’s top economic advisers on Monday accused China of reneging on previous commitments to resolve a monthslong trade war and said Mr. Trump was prepared to prolong the standoff to force more significant concessions from Beijing.",
+      "publication_date": "2019-05-06T19:24:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/06/us/politics/trump-tariffs-china.html",
+      "byline": "By Ana Swanson and Keith Bradsher"
+    },
+    {
+      "headline": "Anadarko Says It Now Favors Occidental Bid Over Chevron",
+      "snippet": "Occidental and Chevron are competing to acquire Anadarko and its holdings in the Permian Basin. Chevron will now have four days to improve its bid.",
+      "abstract": "Occidental and Chevron are competing to acquire Anadarko and its holdings in the Permian Basin. Chevron will now have four days to improve its bid.",
+      "lead_paragraph": "HOUSTON — In an escalating bidding war, Anadarko Petroleum said on Monday that it intended to reject its first suitor in a takeover bid, Chevron, after Occidental Petroleum came forward with a better offer.",
+      "publication_date": "2019-05-06T22:55:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/06/business/energy-environment/anadarko-occidental-chevron.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Start-Ups Hoping to Fight Climate Change Struggle as Other Tech Firms Cash In",
+      "snippet": "A number of small companies are looking for ways to remove carbon from the atmosphere. But investors, burned by the clean-tech boom a decade ago, are leery.",
+      "abstract": "A number of small companies are looking for ways to remove carbon from the atmosphere. But investors, burned by the clean-tech boom a decade ago, are leery.",
+      "lead_paragraph": "SAN FRANCISCO — With the money he made selling his last start-up to Google, Matt Rogers has been investing in companies that are trying to fight climate change.",
+      "publication_date": "2019-05-07T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/07/business/carbon-removal-technology-start-ups.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Real Estate’s Latest Bid: Zillow Wants to Buy Your House",
+      "snippet": "Offering “instant buying” to home sellers, companies like Zillow and Opendoor are bringing liquidity to the housing market. Critics fear they will also bring risk.",
+      "abstract": "Offering “instant buying” to home sellers, companies like Zillow and Opendoor are bringing liquidity to the housing market. Critics fear they will also bring risk.",
+      "lead_paragraph": "In today’s on-demand digital world, buying and selling a home remains stubbornly, painfully analog. Most sales still begin with a real estate agent (and a 6 percent commission). Most still end in an office, with the two sides signing page after page of legalese.",
+      "publication_date": "2019-05-07T09:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/07/business/economy/ibuying-real-estate.html",
+      "byline": "By Ben Casselman and Conor Dougherty"
+    },
+    {
+      "headline": "Sandra Bland, It Turns Out, Filmed Traffic Stop Confrontation Herself",
+      "snippet": "A newly surfaced cellphone video shows Ms. Bland’s own view of the Texas traffic stop that preceded her death of an apparent suicide in jail.",
+      "abstract": "A newly surfaced cellphone video shows Ms. Bland’s own view of the Texas traffic stop that preceded her death of an apparent suicide in jail.",
+      "lead_paragraph": "AUSTIN, Tex. — [For more about police violence and unrest, go here]",
+      "publication_date": "2019-05-07T11:58:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/07/us/sandra-bland-video-brian-encinia.html",
+      "byline": "By David Montgomery"
+    },
+    {
+      "headline": "Justice Dept. Threatens House Democrats Over Contempt in Barr Battle",
+      "snippet": "In a letter to the House Judiciary Committee, the department accused Democrats of being unreasonable in subpoenaing that material.",
+      "abstract": "In a letter to the House Judiciary Committee, the department accused Democrats of being unreasonable in subpoenaing that material.",
+      "lead_paragraph": "WASHINGTON — The Justice Department threatened late Tuesday to ask President Trump to invoke executive privilege over the hidden portions of Robert S. Mueller III’s report and all of the evidence behind it if Democrats proceeded Wednesday with a vote to hold Attorney General William P. Barr in contempt of Congress.",
+      "publication_date": "2019-05-07T15:03:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/07/us/politics/don-mcgahn-subpoena.html",
+      "byline": "By Nicholas Fandos, Charlie Savage, Catie Edmondson and Maggie Haberman"
+    }
+  ]
+}

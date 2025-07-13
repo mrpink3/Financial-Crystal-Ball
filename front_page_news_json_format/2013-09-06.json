@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2013-09-06",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "The Perils When Megabanks Lose Focus",
+      "snippet": "Bailouts were necessary in 2008 to keep the financial system operating, but it is now more important than ever to distinguish why that was important.",
+      "abstract": "Bailouts were necessary in 2008 to keep the financial system operating, but it is now more important than ever to distinguish why that was important.",
+      "lead_paragraph": "Five years ago, as Lehman Brothers teetered, there was remarkably little concern about what would happen if it failed and virtually none about what would happen to the rest of Wall Street if it did.",
+      "publication_date": "2013-09-05T18:48:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/06/business/the-perils-when-megabanks-lose-their-focus.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "N.S.A. Able to Foil Basic Safeguards of Privacy on Web",
+      "snippet": "The National Security Agency has secretly circumvented or cracked much of the digital scrambling that protects global commerce, e-mails, phone calls, medical records and Web searches.",
+      "abstract": "The National Security Agency has secretly circumvented or cracked much of the digital scrambling that protects global commerce, e-mails, phone calls, medical records and Web searches.",
+      "lead_paragraph": "The National Security Agency is winning its long-running secret war on encryption, using supercomputers, technical trickery, court orders and behind-the-scenes persuasion to undermine the major tools protecting the privacy of everyday communications in the Internet age, according to newly disclosed documents.",
+      "publication_date": "2013-09-05T19:03:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html",
+      "byline": "By Nicole Perlroth, Jeff Larson and Scott Shane"
+    },
+    {
+      "headline": "A New Divestment Focus on Campus: Fossil Fuels",
+      "snippet": "Concern over global warming has spurred students to dust off investment choice as a weapon in their campaign. But whether it will be as effective this time is another matter.",
+      "abstract": "Concern over global warming has spurred students to dust off investment choice as a weapon in their campaign. But whether it will be as effective this time is another matter.",
+      "lead_paragraph": "In the 1980s, it was South Africa. In the 1990s, it was tobacco.",
+      "publication_date": "2013-09-05T19:53:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/09/05/a-new-divestment-focus-fossil-fuels/",
+      "byline": "By Randall Smith"
+    },
+    {
+      "headline": "Israel Backs Limited Strike Against Syria",
+      "snippet": "Israel sees the enforcement of President Obama’s “red line” as essential to halting Iran’s nuclear ambitions, and seems to prefer an attack that would maintain the status quo without strengthening either side.",
+      "abstract": "Israel sees the enforcement of President Obama’s “red line” as essential to halting Iran’s nuclear ambitions, and seems to prefer an attack that would maintain the status quo without strengthening either side.",
+      "lead_paragraph": "JERUSALEM — President Obama’s position on Syria — punish President Bashar al-Assad for using chemical weapons without seeking to force him from power — has been called “half-pregnant” by critics at home and abroad who prefer a more decisive American intervention to end Syria’s civil war.",
+      "publication_date": "2013-09-06T00:00:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/06/world/middleeast/israel-backs-limited-strike-against-syria.html",
+      "byline": "By Jodi Rudoren"
+    },
+    {
+      "headline": "National Parks Try to Appeal to Minorities",
+      "snippet": "Only about one in five visitors to a National Park site is nonwhite, according to a report commissioned by the Park Service, and only about 1 in 10 is Hispanic.",
+      "abstract": "Only about one in five visitors to a National Park site is nonwhite, according to a report commissioned by the Park Service, and only about 1 in 10 is Hispanic.",
+      "lead_paragraph": "LA PUSH, Wash. — Thrusting out into the Pacific Ocean, Olympic National Park can feel like a lost world, with its ferny rain forests, violent surf and cloud-shrouded peaks.",
+      "publication_date": "2013-09-06T00:09:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/06/us/national-parks-try-to-appeal-to-minorities.html",
+      "byline": "By Kirk Johnson"
+    },
+    {
+      "headline": "A Biotech King, Dethroned",
+      "snippet": "David Blech, who was once biotechnology’s top gunslinger and was worth about $300 million, is about to begin a four-year prison term, having pleaded guilty to stock manipulation.",
+      "abstract": "David Blech, who was once biotechnology’s top gunslinger and was worth about $300 million, is about to begin a four-year prison term, having pleaded guilty to stock manipulation.",
+      "lead_paragraph": "He was once hailed as the king of biotechnology. In the industry’s frontier days, David Blech was the top gunslinger, quick to draw his checkbook to start new companies or prop up faltering ones.",
+      "publication_date": "2013-09-06T00:38:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/06/business/david-blech-a-biotech-king-dethroned.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Plan at G-20 Is to Tighten Global Rules on Taxes",
+      "snippet": "The Group of 20 summit meeting is expected to enact new laws that would tighten rules on multinational companies that use subsidiaries to legally avoid paying taxes.",
+      "abstract": "The Group of 20 summit meeting is expected to enact new laws that would tighten rules on multinational companies that use subsidiaries to legally avoid paying taxes.",
+      "lead_paragraph": "MOSCOW — Many of the leaders of the world’s richest economies are convening at the eighth Group of 20 summit meeting in St. Petersburg, Russia, with the economic winds at their back, ready to sign on to a sweeping new set of tax rules for multinational corporations.",
+      "publication_date": "2013-09-06T01:18:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/06/business/global/plan-at-g-20-is-to-tighten-global-rules-on-taxes.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "A Newspaper in Las Vegas, at Risk of Closing, Divides a Family",
+      "snippet": "The publisher and editor of The Las Vegas Sun, Brian Greenspun, is suing to block a deal that could force the newspaper to close.",
+      "abstract": "The publisher and editor of The Las Vegas Sun, Brian Greenspun, is suing to block a deal that could force the newspaper to close.",
+      "lead_paragraph": "Tanned and fit, collar unbuttoned and no socks under his loafers, Brian Greenspun, the president of The Las Vegas Sun, stood in the middle of the newsroom, surrounded by $500 Herman Miller chairs, flat-screen monitors and floor-to-ceiling third-story windows offering an unmatched view of the Las Vegas Strip. ",
+      "publication_date": "2013-09-06T01:34:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/06/business/media/a-newspaper-in-las-vegas-at-risk-of-closing-divides-a-family.html",
+      "byline": "By Timothy Pratt"
+    },
+    {
+      "headline": "Skepticism and Wariness in Talk of Syria Attack",
+      "snippet": "As President Obama tries to rally domestic support for military action against Syria, the skepticism in Waynesburg, Pa.,  underscores the political hurdles he faces.",
+      "abstract": "As President Obama tries to rally domestic support for military action against Syria, the skepticism in Waynesburg, Pa.,  underscores the political hurdles he faces.",
+      "lead_paragraph": "WAYNESBURG, Pa. — From his bar-side perch at Hot Rod’s House of Barbeque here, 57-year-old Wolf Tripp argued that President George W. Bush had ample cause a decade ago to dispatch troops and armor into Iraq to topple Saddam Hussein. “Look at the mass graves,” he declared. “Hussein gassed his own people.”",
+      "publication_date": "2013-09-06T02:23:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/06/us/proudly-patriotic-but-skeptical-on-syria-attack.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "Prominent Doctor Said to Be Tied to Insider Trading Case at SAC",
+      "snippet": "The doctor, Joel Ross, is one of two physicians who prosecutors say leaked secret information about clinical drug trials that are at the center of the government’s insider-trading prosecution of the hedge fund SAC Capitol Advisors.",
+      "abstract": "The doctor, Joel Ross, is one of two physicians who prosecutors say leaked secret information about clinical drug trials that are at the center of the government’s insider-trading prosecution of the hedge fund SAC Capitol Advisors.",
+      "lead_paragraph": "A prominent New Jersey doctor specializing in Alzheimer’s disease has become ensnared in the government’s criminal case against a former portfolio manager at SAC Capital Advisors, the hedge fund owned by the billionaire investor Steven A. Cohen.",
+      "publication_date": "2013-09-06T03:58:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/09/05/prominent-doctor-said-to-be-tied-to-insider-trading-case-at-sac/",
+      "byline": "By Peter Lattman"
+    },
+    {
+      "headline": "Soft Jobs Data Not Expected to Deter Fed",
+      "snippet": "The Labor Department’s snapshot of the job market in August had several discouraging details underneath a relatively average gain of 169,000 jobs.",
+      "abstract": "The Labor Department’s snapshot of the job market in August had several discouraging details underneath a relatively average gain of 169,000 jobs.",
+      "lead_paragraph": "Despite a disappointing jobs report on Friday that raised fresh questions about the nation’s economic strength, analysts say they still believe the Federal Reserve will start pulling back on its stimulus program in a few weeks.",
+      "publication_date": "2013-09-06T12:34:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/07/business/economy/us-economy-adds-169000-jobs-as-unemployment-rate-falls.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "Obama Falls Short on Wider Backing for Syria Attack",
+      "snippet": "President Obama emerged from the Group of 20 summit meeting with a few international supporters, but other leaders urged him not to attack without United Nations backing.",
+      "abstract": "President Obama emerged from the Group of 20 summit meeting with a few international supporters, but other leaders urged him not to attack without United Nations backing.",
+      "lead_paragraph": "STRELNA, Russia — President Obama raced home on Friday to confront one of the biggest tests of his presidency as he ramped up a campaign to persuade Congress to support airstrikes against Syria that many world leaders he had consulted declined to back.",
+      "publication_date": "2013-09-06T15:22:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/07/world/middleeast/obama-syria-strike.html",
+      "byline": "By Peter Baker and Steven Lee Myers"
+    }
+  ]
+}

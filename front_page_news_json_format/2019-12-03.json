@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-12-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Democrats Ready Impeachment Report as Republicans Argue Trump Did Nothing Wrong",
+      "snippet": "In a report intended to counter Democrats’ impeachment case against President Trump, Republicans argued his efforts to get Ukraine to investigate his rivals had nothing to do with politics.",
+      "abstract": "In a report intended to counter Democrats’ impeachment case against President Trump, Republicans argued his efforts to get Ukraine to investigate his rivals had nothing to do with politics.",
+      "lead_paragraph": "WASHINGTON — House Democrats pressed forward on Monday with the next phase of their impeachment inquiry, putting the final touches on an Intelligence Committee report expected to form the basis of their case that President Trump’s effort to pressure Ukraine to announce investigations of his political rivals was an abuse of power that warrants his removal from office.",
+      "publication_date": "2019-12-02T20:30:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/02/us/politics/republican-impeachment-defense.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "‘It Just Isn’t Working’: PISA Test Scores Cast Doubt on U.S. Education Efforts",
+      "snippet": "An international exam shows that American 15-year-olds are stagnant in reading and math even though the country has spent billions to close gaps with the rest of the world.",
+      "abstract": "An international exam shows that American 15-year-olds are stagnant in reading and math even though the country has spent billions to close gaps with the rest of the world.",
+      "lead_paragraph": "The performance of American teenagers in reading and math has been stagnant since 2000, according to the latest results of a rigorous international exam, despite a decades-long effort to raise standards and help students compete with peers across the globe. ",
+      "publication_date": "2019-12-03T08:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/03/us/us-students-international-test-scores.html",
+      "byline": "By Dana Goldstein"
+    },
+    {
+      "headline": "How Far Can Cities Go to Police the Homeless? Boise Tests the Limit",
+      "snippet": "A decade-old legal fight shapes a mayoral race and offers the Supreme Court a chance to weigh in.",
+      "abstract": "A decade-old legal fight shapes a mayoral race and offers the Supreme Court a chance to weigh in.",
+      "lead_paragraph": "BOISE, Idaho — During a recent mayoral debate at a Boise homeless shelter, after disposing of icebreakers like the candidates’ favorite Metallica album, the moderator turned to something more contentious: a decade-old lawsuit, now a step away from the Supreme Court. The case, Boise v. Martin, is examining whether it’s a crime for someone to sleep outside when they have nowhere else to go. ",
+      "publication_date": "2019-12-03T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/03/business/homeless-boise.html",
+      "byline": "By Conor Dougherty"
+    },
+    {
+      "headline": "China Uses DNA to Map Faces, With Help From the West",
+      "snippet": "Beijing’s pursuit of control over a Muslim ethnic group pushes the rules of science and raises questions about consent.",
+      "abstract": "Beijing’s pursuit of control over a Muslim ethnic group pushes the rules of science and raises questions about consent.",
+      "lead_paragraph": "TUMXUK, China — In a dusty city in the Xinjiang region on China’s western frontier, the authorities are testing the rules of science.",
+      "publication_date": "2019-12-03T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/03/business/china-dna-uighurs-xinjiang.html",
+      "byline": "By Sui-Lee Wee and Paul Mozur"
+    },
+    {
+      "headline": "Sex Trafficking via Facebook Sets Off a Lawyer’s Novel Crusade",
+      "snippet": "A personal-injury lawyer in Houston is using an unusual argument to try to upend the internet’s most vital law.",
+      "abstract": "A personal-injury lawyer in Houston is using an unusual argument to try to upend the internet’s most vital law.",
+      "lead_paragraph": "HOUSTON — Tech has led to a lot of trouble lately: hate speech, financial scams, undermined elections. Yet tech companies have largely avoided legal consequences, thanks to a landmark 1996 law that protects them from lawsuits.",
+      "publication_date": "2019-12-03T10:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/03/technology/facebook-lawsuit-section-230.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "To Make Sense of Lebanon’s Protests, Follow the Garbage",
+      "snippet": "The country’s perpetual refuse crisis is just one example of the government corruption and dysfunction that have brought protesters into the streets.",
+      "abstract": "The country’s perpetual refuse crisis is just one example of the government corruption and dysfunction that have brought protesters into the streets.",
+      "lead_paragraph": "BEIRUT, Lebanon — In Lebanon, its people like to boast, you can take in pristine mountain villages and swim in the shimmering sea all in one day. ",
+      "publication_date": "2019-12-03T12:24:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/03/world/middleeast/lebanon-protests-corruption.html",
+      "byline": "By Vivian Yee and Hwaida Saad"
+    }
+  ]
+}

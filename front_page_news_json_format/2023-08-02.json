@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-08-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Divvy Wants to Make Rent-to-Own Deals Easy. Many Customers Find Them Hard.",
+      "snippet": "The start-up’s innovative business model has helped some renters save for a down payment on their home, but others have walked away frustrated by the company.",
+      "abstract": "The start-up’s innovative business model has helped some renters save for a down payment on their home, but others have walked away frustrated by the company.",
+      "lead_paragraph": "The three-bedroom house in suburban Atlanta on a quiet cul-de-sac seemed exactly what Jeneyha Wheatley-Frett and her husband, Shawn Frett, were looking for when they moved in about 15 months ago with their three children.",
+      "publication_date": "2023-08-01T16:49:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/01/business/divvy-homes-housing-rent.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "It’s Official: Stores Can No Longer Sell Most Incandescent Lights",
+      "snippet": "New efficiency rules, more than a decade in the making, have taken effect, relegating Edison’s glowing orbs to the history books.",
+      "abstract": "New efficiency rules, more than a decade in the making, have taken effect, relegating Edison’s glowing orbs to the history books.",
+      "lead_paragraph": "It’s the end of an era. In America, the incandescent light is no more (with a few exceptions).",
+      "publication_date": "2023-08-01T18:12:37+0000",
+      "section_name": "Climate",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/01/climate/incandescent-light-bulb-ban-leds.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "Trump Is Indicted in His Push to Overturn Election",
+      "snippet": "The former president faces three conspiracy charges and a count of attempting to obstruct an official proceeding in his campaign to use the levers of government power to remain in office.",
+      "abstract": "The former president faces three conspiracy charges and a count of attempting to obstruct an official proceeding in his campaign to use the levers of government power to remain in office.",
+      "lead_paragraph": "Former President Donald J. Trump was indicted on Tuesday in connection with his widespread efforts to overturn the 2020 election following a sprawling federal investigation into his attempts to cling to power after losing the presidency.",
+      "publication_date": "2023-08-01T21:33:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/01/us/politics/trump-indicted-election-jan-6.html",
+      "byline": "By Alan Feuer and Maggie Haberman"
+    },
+    {
+      "headline": "Trump’s Case Has Broad Implications for American Democracy",
+      "snippet": "The third indictment of the former president is the first to get to the heart of the matter: Can a sitting leader of the country spread lies to hold onto power even after voters reject him?",
+      "abstract": "The third indictment of the former president is the first to get to the heart of the matter: Can a sitting leader of the country spread lies to hold onto power even after voters reject him?",
+      "lead_paragraph": "In the long annals of the republic, the White House has seen its share of perfidy and scandal, presidents who cheated on their wives and cheated the taxpayers, who abused their power and abused the public trust.",
+      "publication_date": "2023-08-01T21:48:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/01/us/politics/trump-charged-jan-6-election-democracy.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Hollywood Studios Signal New Strategy by Talking With Writers",
+      "snippet": "The actors’ union has historically been more willing to negotiate, but when Fran Drescher took a hard line as its leader, executives shifted their focus to the other striking guild.",
+      "abstract": "The actors’ union has historically been more willing to negotiate, but when Fran Drescher took a hard line as its leader, executives shifted their focus to the other striking guild.",
+      "lead_paragraph": "When the Writers Guild of America told its members on Tuesday night that movie and television studios had asked for “a meeting this Friday to discuss negotiations,” it was the first sign of movement in a stalemate that had begun in early May.",
+      "publication_date": "2023-08-02T04:49:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/02/business/media/writers-guild-hollywood-strike.html",
+      "byline": "By Brooks Barnes and John Koblin"
+    },
+    {
+      "headline": "How ESPN Went From Disney’s Financial Engine to Its Problem",
+      "snippet": "The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.",
+      "abstract": "The sports juggernaut continues to earn billions of dollars for Disney, but profits are down and opportunities for growth have dwindled.",
+      "lead_paragraph": "ESPN has been Disney’s financial engine for nearly 30 years, powering the company through recessions, box office wipeouts and the pandemic. It was ESPN money that helped Disney pay for acquisitions — Marvel, Lucasfilm, Pixar, 21st Century Fox — and build a streaming service, transforming itself into a colossus and perhaps traditional media’s best hope of surviving Silicon Valley’s incursion into entertainment.",
+      "publication_date": "2023-08-02T09:00:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/02/business/media/espn-disney.html",
+      "byline": "By Kevin Draper and Brooks Barnes"
+    },
+    {
+      "headline": "Ukrainian Troops Trained by the West Stumble in Battle",
+      "snippet": "Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.",
+      "abstract": "Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.",
+      "lead_paragraph": "The first several weeks of Ukraine’s long-awaited counteroffensive have not been kind to the Ukrainian troops who were trained and armed by the United States and its allies.",
+      "publication_date": "2023-08-02T13:01:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/02/us/politics/ukraine-troops-counteroffensive-training.html",
+      "byline": "By Eric Schmitt and Helene Cooper"
+    },
+    {
+      "headline": "Jury in Pittsburgh Synagogue Trial Condemns Gunman to Death",
+      "snippet": "The verdict, after nearly 10 hours of deliberations, was met with a mix of solemnity, gratitude and relief among the survivors and families of those killed in the 2018 attack.",
+      "abstract": "The verdict, after nearly 10 hours of deliberations, was met with a mix of solemnity, gratitude and relief among the survivors and families of those killed in the 2018 attack.",
+      "lead_paragraph": "Nearly every morning for three months, family members and survivors quietly gathered in a federal courtroom in Pittsburgh. They listened to witnesses recount the terror of the morning nearly five years ago when a gunman murdered 11 worshipers in their synagogue, and to witnesses who tried to explain what drove the man to commit such horror.",
+      "publication_date": "2023-08-02T15:29:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/02/us/pittsburgh-synagogue-shooting-trial-robert-bowers.html",
+      "byline": "By Campbell Robertson and Nicholas Bogel-Burroughs"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2015-04-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "With Auto Show, G.M. Hopes to Lessen Damage",
+      "snippet": "The nation’s biggest automaker is blanketing the New York auto show with new products it hopes will improve its stagnant market share in America.",
+      "abstract": "The nation’s biggest automaker is blanketing the New York auto show with new products it hopes will improve its stagnant market share in America.",
+      "lead_paragraph": "After a huge safety crisis and a revolt by disgruntled investors, General Motors is eager to turn its attention back to cars and trucks.",
+      "publication_date": "2015-04-01T00:19:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/01/business/with-auto-show-gm-hopes-to-lessen-damage.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "Wall Street and Silicon Valley Form an Uneasy Alliance",
+      "snippet": "Entrepreneurs and venture capitalists have done their best to resist or reduce Wall Street’s entreaties, but it appears that a new relationship has begun to develop.",
+      "abstract": "Entrepreneurs and venture capitalists have done their best to resist or reduce Wall Street’s entreaties, but it appears that a new relationship has begun to develop.",
+      "lead_paragraph": "Silicon Valley has always had an uneasy relationship with Wall Street.",
+      "publication_date": "2015-04-01T13:44:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2015/04/02/business/dealbook/wall-street-and-silicon-valley-form-an-uneasy-alliance.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "In Colorado, Marijuana Taxes May Have to Be Passed Back",
+      "snippet": "A strict anti-spending provision in the state Constitution may force Colorado to refund nearly $60 million intended for school construction and other needs.",
+      "abstract": "A strict anti-spending provision in the state Constitution may force Colorado to refund nearly $60 million intended for school construction and other needs.",
+      "lead_paragraph": "DENVER — In the State Capitol, they are calling it Refund Madness.",
+      "publication_date": "2015-04-01T15:24:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/02/us/colorado-lawmakers-scramble-to-keep-millions-in-marijuana-taxes.html",
+      "byline": "By Jack Healy"
+    },
+    {
+      "headline": "With Galaxy S6 and S6 Edge, Samsung Tries to Regain Its Footing",
+      "snippet": "The elegant new smartphones aim to answer many criticisms leveled at Samsung’s phones but are most likely not quite enough to fix what ails the company.",
+      "abstract": "The elegant new smartphones aim to answer many criticisms leveled at Samsung’s phones but are most likely not quite enough to fix what ails the company.",
+      "lead_paragraph": "Samsung’s internal code name for its latest top-of-the-line smartphones, the Galaxy S6 and S6 Edge, is “Project Zero,” signaling what Samsung calls “a return to fundamentals.”",
+      "publication_date": "2015-04-01T15:46:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/02/technology/personaltech/with-galaxy-s6-and-s6-edge-samsung-tries-to-regain-its-footing.html",
+      "byline": "By Farhad Manjoo"
+    }
+  ]
+}

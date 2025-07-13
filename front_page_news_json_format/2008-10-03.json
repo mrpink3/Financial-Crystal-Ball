@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2008-10-03",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Credit Crisis Spreads a Pall Over Silicon Valley",
+      "snippet": "Entrepreneurs and investors believe the question is when, not if, the country’s cradle of innovation will be hurt.",
+      "abstract": "Entrepreneurs and investors believe the question is when, not if, the country’s cradle of innovation will be hurt.",
+      "lead_paragraph": "SAN FRANCISCO  Since the credit crisis began gripping the financial world, Silicon Valley has watched from the sidelines, secure in the faith that it was insulated from the coming storm.",
+      "publication_date": "2008-10-02T21:21:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/10/03/business/03valley.html",
+      "byline": "By Brad Stone and Claire Cain Miller"
+    },
+    {
+      "headline": "Falling Oil Price Is a Positive Note Amid Turmoil",
+      "snippet": "If prices keep dropping, consumers will have billions more dollars in their wallets, giving the economy some support.",
+      "abstract": "If prices keep dropping, consumers will have billions more dollars in their wallets, giving the economy some support.",
+      "lead_paragraph": "For the last year, rising oil prices have taken a toll on the economy, driving up gasoline and food costs, punishing airlines and automakers, and ripping a large hole in people’s pockets.",
+      "publication_date": "2008-10-02T21:29:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/10/03/business/03oil.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Mistakes of the Past Live Again",
+      "snippet": "Lawmakers are pushing regulators to change accounting rules to make the financial institutions look healthier than they are.",
+      "abstract": "Lawmakers are pushing regulators to change accounting rules to make the financial institutions look healthier than they are.",
+      "lead_paragraph": "“Reality is bad enough. Why should I tell the truth?”  Patrick Sky, songwriter",
+      "publication_date": "2008-10-02T22:10:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/10/03/business/03norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Short-Selling on States Can Pay Off",
+      "snippet": "Using derivatives called credit-default swaps, traders are making a profit by betting against the finances of the State of New Jersey and municipalities.",
+      "abstract": "Using derivatives called credit-default swaps, traders are making a profit by betting against the finances of the State of New Jersey and municipalities.",
+      "lead_paragraph": "While regulators were sprinting to save the financial system last month, someone was making a lot of money  by betting against the State of New Jersey.",
+      "publication_date": "2008-10-03T00:01:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/10/03/business/03swap.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Agency’s ’04 Rule Let Banks Pile Up New Debt",
+      "snippet": "A Securities and Exchange Commission decision helps explain how the financial crisis spun out of control.",
+      "abstract": "A Securities and Exchange Commission decision helps explain how the financial crisis spun out of control.",
+      "lead_paragraph": "“We have a good deal of comfort about the capital cushions at these firms at the moment.” — Christopher Cox, chairman of the Securities and Exchange Commission, March 11, 2008.",
+      "publication_date": "2008-10-03T01:37:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/10/03/business/03sec.html",
+      "byline": "By Stephen Labaton"
+    },
+    {
+      "headline": "Cordial but Pointed, Palin and Biden Face Off",
+      "snippet": "Gov. Sarah Palin used a steady grin, folksy manner and scripted talking points as Senator Joseph R. Biden Jr. sought to undermine her with forceful criticism.",
+      "abstract": "Gov. Sarah Palin used a steady grin, folksy manner and scripted talking points as Senator Joseph R. Biden Jr. sought to undermine her with forceful criticism.",
+      "lead_paragraph": "Gov. Sarah Palin used a steady grin, folksy manner and carefully scripted talking points to punch politely and persist politically at the vice-presidential debate on Thursday night, turning in a performance that her rival, Senator Joseph R. Biden Jr., sought to undermine with cordially delivered but pointed criticism.",
+      "publication_date": "2008-10-03T01:52:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/10/03/us/politics/03debate.html",
+      "byline": "By Patrick Healy"
+    },
+    {
+      "headline": "Confronting Taliban, Pakistan Finds Itself at War",
+      "snippet": "The Pakistani Army is engaged in full-scale battles with militants, and an estimated 250,000 people have fled.",
+      "abstract": "The Pakistani Army is engaged in full-scale battles with militants, and an estimated 250,000 people have fled.",
+      "lead_paragraph": "PESHAWAR, Pakistan — War has come to Pakistan, not just as terrorist bombings, but as full-scale battles, leaving Pakistanis angry and dismayed as the dead, wounded and displaced turn up right on their doorstep.",
+      "publication_date": "2008-10-03T01:56:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/10/03/world/asia/03pstan.html",
+      "byline": "By Jane Perlez and Pir Zubair Shah"
+    },
+    {
+      "headline": "In Debate, G.O.P. Ticket Survives a Test",
+      "snippet": "The debate was not the bad night that some had feared, but neither was it a turning point for the McCain camp.",
+      "abstract": "The debate was not the bad night that some had feared, but neither was it a turning point for the McCain camp.",
+      "lead_paragraph": "Gov. Sarah Palin made it through the vice-presidential debate on Thursday without doing any obvious damage to the Republican presidential ticket. By surviving her encounter with Senator Joseph R. Biden Jr. and quelling some of the talk about her basic qualifications for high office, she may even have done Senator John McCain a bit of good, freeing him to focus on the other troubles shadowing his campaign.",
+      "publication_date": "2008-10-03T04:15:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/10/03/us/politics/03assess.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Wells Fargo Swoops In",
+      "snippet": "Wachovia apparently rejected a deal made just four days ago to sell its banking business to Citigroup, in favor of being acquired for stock valued at $15.1 billion.",
+      "abstract": "Wachovia apparently rejected a deal made just four days ago to sell its banking business to Citigroup, in favor of being acquired for stock valued at $15.1 billion.",
+      "lead_paragraph": "The bold gambit that could reorder American banking began with the chirp of a cellphone in Charlotte, N.C. ",
+      "publication_date": "2008-10-03T12:11:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/10/04/business/04bank.html",
+      "byline": "By Eric Dash and Ben White"
+    },
+    {
+      "headline": "Bailout Plan Wins Approval; Democrats Vow Tighter Rules",
+      "snippet": "Even as President Bush signed the $700 billion economic bailout into law, lawmakers said it was only a first step and pledged to make a sweeping overhaul of financial regulation.",
+      "abstract": "Even as President Bush signed the $700 billion economic bailout into law, lawmakers said it was only a first step and pledged to make a sweeping overhaul of financial regulation.",
+      "lead_paragraph": "WASHINGTON  After the House reversed course and gave final approval to the $700 billion economic bailout package, President Bush quickly signed it into law on Friday, authorizing the Treasury to undertake what could become the most expensive government intervention in history. ",
+      "publication_date": "2008-10-03T13:48:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/10/04/business/economy/04bailout.html",
+      "byline": "By David M. Herszenhorn"
+    }
+  ]
+}

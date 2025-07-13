@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-04-28",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Judge Rejects Plea Deal on Guidant Heart Device",
+      "snippet": "The Justice Department was faulted for its $296 million deal with the device maker.",
+      "abstract": "The Justice Department was faulted for its $296 million deal with the device maker.",
+      "lead_paragraph": "A federal judge in Minnesota on Tuesday rejected a plea agreement between the federal government and the Guidant Corporation, saying that the deal did not hold the company sufficiently accountable for an episode in which it sold potentially flawed heart defibrillators.",
+      "publication_date": "2010-04-27T18:05:19+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/28/health/28device.html",
+      "byline": "By Barry Meier"
+    },
+    {
+      "headline": "In Shanghai, Hiding Bootlegs Before the World Visits",
+      "snippet": "With Shanghai preparing for the World Expo, stores have moved bootleg DVDs and CDs to back rooms as China hides a trade that is usually out in the open.",
+      "abstract": "With Shanghai preparing for the World Expo, stores have moved bootleg DVDs and CDs to back rooms as China hides a trade that is usually out in the open.",
+      "lead_paragraph": "SHANGHAI — The latest mystery in Shanghai, complete with sliding bookshelves, secret passageways and contraband goods, is this: Why are all the popular DVDs and CDs missing from this city’s shops?",
+      "publication_date": "2010-04-27T18:07:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/28/business/global/28piracy.html",
+      "byline": "By David Barboza"
+    },
+    {
+      "headline": "A Bank Tax as Insurance for Us All",
+      "snippet": "No one knows how to prevent the next crisis, but a bank tax is akin to an insurance policy for Wall Street.",
+      "abstract": "No one knows how to prevent the next crisis, but a bank tax is akin to an insurance policy for Wall Street.",
+      "lead_paragraph": "Washington",
+      "publication_date": "2010-04-27T20:54:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/28/business/economy/28leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Republicans Reject Finance Bill Again, and Offer a Plan of Their Own",
+      "snippet": "The Senate rejected a second Democratic attempt to bring the regulatory bill to the floor of the Senate, prompting a rebuke from President Obama.",
+      "abstract": "The Senate rejected a second Democratic attempt to bring the regulatory bill to the floor of the Senate, prompting a rebuke from President Obama.",
+      "lead_paragraph": "WASHINGTON — Republicans thwarted the Democrats’ efforts to overhaul financial regulation for a second day on Tuesday and floated an alternative proposal with some crucial differences in the regulation of consumer lending. ",
+      "publication_date": "2010-04-27T21:44:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/28/business/28regulate.html",
+      "byline": "By Edward Wyatt and David M. Herszenhorn"
+    },
+    {
+      "headline": "Democrats Use Goldman to Push Bank Overhaul",
+      "snippet": "The case has given Democrats  a chance to highlight a cast of purported villains and rouse populist anger.",
+      "abstract": "The case has given Democrats  a chance to highlight a cast of purported villains and rouse populist anger.",
+      "lead_paragraph": "WASHINGTON — Politicians like nothing more than a convenient foil, and Democrats locked in a stubborn impasse with Republicans over new rules to govern Wall Street believe they have found a gold-plated one in Goldman Sachs.",
+      "publication_date": "2010-04-28T00:08:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/28/business/28bankers.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "‘Controlled Burn’ Considered for Gulf Oil Spill ",
+      "snippet": "Officials said they were looking at a “controlled burn” of the petroleum in the Gulf of Mexico as soon as Wednesday.",
+      "abstract": "Officials said they were looking at a “controlled burn” of the petroleum in the Gulf of Mexico as soon as Wednesday.",
+      "lead_paragraph": "With a vast oil slick now within only 20 miles of the ecologically fragile Louisiana coastline, Coast Guard officials said they were considering a “controlled burn” of the petroleum on the surface of the Gulf of Mexico.",
+      "publication_date": "2010-04-28T00:11:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/28/us/28spill.html",
+      "byline": "By Leslie Kaufman"
+    },
+    {
+      "headline": "Europeans Fear Greek Debt Crisis Will Spread",
+      "snippet": "Stock indexes continued to fall Wednesday as investors wondered if Portugal, Spain and even Ireland may not be able to borrow the funds they need to finance their government spending. ",
+      "abstract": "Stock indexes continued to fall Wednesday as investors wondered if Portugal, Spain and even Ireland may not be able to borrow the funds they need to finance their government spending. ",
+      "lead_paragraph": "As Greece inches closer to the brink of financial collapse, fear that the debt crisis will spread is engulfing Europe.",
+      "publication_date": "2010-04-28T00:45:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/28/business/global/28euro.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Immigration Issue Poses a Complex Test for 2 Parties",
+      "snippet": "The emotional flare-up that has engulfed Washington has emerged as a political challenge for Republicans and Democrats alike.",
+      "abstract": "The emotional flare-up that has engulfed Washington has emerged as a political challenge for Republicans and Democrats alike.",
+      "lead_paragraph": "WASHINGTON — Senator John McCain of Arizona took to the Senate floor the other day to embrace a tough new Arizona law giving the police the authority to detain people they suspect are illegal immigrants. Mr. McCain, long an outspoken champion of giving illegal immigrants a path to citizenship, is facing a primary challenge this summer from a conservative who backs tough immigration measures.",
+      "publication_date": "2010-04-28T01:38:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/28/us/politics/28immig.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Despair Grows on Devastated Street in Haiti",
+      "snippet": "Now that the foreign doctors have left, many people on Avenue Poupelard feel they are on their own.",
+      "abstract": "Now that the foreign doctors have left, many people on Avenue Poupelard feel they are on their own.",
+      "lead_paragraph": "PORT-AU-PRINCE, Haiti — More than 100 long days after the earthquake, Ginette Lemazor, her husband and their impish 5-year-old boy are still living in a filthy mechanics’ lot on Avenue Poupelard.",
+      "publication_date": "2010-04-28T02:11:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/28/world/americas/28haiti.html",
+      "byline": "By Deborah Sontag"
+    },
+    {
+      "headline": "I.M.F. Promises More Aid for Greece as European Crisis Grows",
+      "snippet": "The International Monetary Fund is preparing a bailout of as much as $160 billion for Greece, but the promise of aid is overshadowed by concerns about Spain’s debt. ",
+      "abstract": "The International Monetary Fund is preparing a bailout of as much as $160 billion for Greece, but the promise of aid is overshadowed by concerns about Spain’s debt. ",
+      "lead_paragraph": "Hoping to quell its biggest crisis since the Asian woes of 1997, the International Monetary Fund promised on Wednesday to increase the 45 billion-euro aid package for Greece to as much as 120 billion euros over three years.",
+      "publication_date": "2010-04-28T06:54:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/29/business/global/29euro.html",
+      "byline": "By Landon Thomas Jr. and Nicholas Kulish"
+    }
+  ]
+}

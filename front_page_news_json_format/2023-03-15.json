@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2023-03-15",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "After Days of Panic, Bank Executives Can Breathe Again",
+      "snippet": "Regional bank leaders offered jittery customers everything from a personal cellphone number to a video chat with Mitt Romney.",
+      "abstract": "Regional bank leaders offered jittery customers everything from a personal cellphone number to a video chat with Mitt Romney.",
+      "lead_paragraph": "After nearly a week of tumult, the specter of a billowing crisis over the banking industry appeared to ease, at least for the moment, as pressure began to lift on the midsize and regional lenders most in peril.",
+      "publication_date": "2023-03-14T16:23:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/14/business/regional-banks-stock-western-alliance.html",
+      "byline": "By Rob Copeland"
+    },
+    {
+      "headline": "10 Ways GPT-4 Is Impressive but Still Flawed",
+      "snippet": "OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.",
+      "abstract": "OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.",
+      "lead_paragraph": "",
+      "publication_date": "2023-03-14T17:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/14/technology/openai-new-gpt4.html",
+      "byline": "By Cade Metz and Keith Collins"
+    },
+    {
+      "headline": "‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates",
+      "snippet": "In just weeks, a gold rush into artificial intelligence start-ups has become a full-blown mania.",
+      "abstract": "In just weeks, a gold rush into artificial intelligence start-ups has become a full-blown mania.",
+      "lead_paragraph": "When four leading artificial intelligence researchers left Google this year to create a start-up called Mobius AI, they weren’t sure what their product might be — just that it would involve A.I. technology that could generate its own photos and videos.",
+      "publication_date": "2023-03-14T17:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
+      "byline": "By Erin Griffith and Cade Metz"
+    },
+    {
+      "headline": "OpenAI Plans to Up the Ante in Tech’s A.I. Race",
+      "snippet": "The company unveiled new technology called GPT-4 four months after its ChatGPT stunned Silicon Valley. The update is an improvement, but it carries some of the same baggage.",
+      "abstract": "The company unveiled new technology called GPT-4 four months after its ChatGPT stunned Silicon Valley. The update is an improvement, but it carries some of the same baggage.",
+      "lead_paragraph": "Four months ago, a small San Francisco company became the talk of the technology industry when it introduced a new online chatbot that could answer complex questions, write poetry and even mimic human emotions.",
+      "publication_date": "2023-03-14T17:04:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/14/technology/openai-gpt4-chatgpt.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "How Washington Decided to Rescue Silicon Valley Bank’s Depositors",
+      "snippet": "Officials were initially unsure about the need for the measures they eventually announced to shore up the financial system, but changed their minds quickly.",
+      "abstract": "Officials were initially unsure about the need for the measures they eventually announced to shore up the financial system, but changed their minds quickly.",
+      "lead_paragraph": "WASHINGTON — On Friday afternoon, the deputy Treasury secretary, Wally Adeyemo, met with Jamie Dimon, the chief executive of JPMorgan Chase & Company, at Mr. Dimon’s office in New York.",
+      "publication_date": "2023-03-14T23:27:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/14/us/politics/inside-silicon-valley-bank-rescue.html",
+      "byline": "By Alan Rappeport, Lauren Hirsch, Jeanna Smialek and Jim Tankersley"
+    },
+    {
+      "headline": "Inside the Collapse of Silicon Valley Bank",
+      "snippet": "While its leader extolled innovation and the future of tech, the bank paid less attention to risk management and was caught flat-footed by economic change.",
+      "abstract": "While its leader extolled innovation and the future of tech, the bank paid less attention to risk management and was caught flat-footed by economic change.",
+      "lead_paragraph": "Gregory Becker, the chief executive of Silicon Valley Bank, leaned back in his chair at a technology conference last week in San Francisco’s luxurious Palace Hotel, and delivered a bullish message.",
+      "publication_date": "2023-03-14T23:45:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/14/business/silicon-valley-bank-gregory-becker.html",
+      "byline": "By Maureen Farrell"
+    },
+    {
+      "headline": "Russian Warplane Hits American Drone Over Black Sea, U.S. Says",
+      "snippet": "The incident was the first known physical contact between the two militaries since the war in Ukraine began last year.",
+      "abstract": "The incident was the first known physical contact between the two militaries since the war in Ukraine began last year.",
+      "lead_paragraph": "WASHINGTON — A Russian warplane struck a U.S. surveillance drone over the Black Sea on Tuesday, hitting the drone’s propeller and causing its American operators to bring it down in international waters, according to the Pentagon, in the first known physical contact between the Russian and American militaries since the war in Ukraine started last February.",
+      "publication_date": "2023-03-14T23:46:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/14/us/politics/russia-us-drone-black-sea.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Britain Issues a Call to Work, With More Child Care an Incentive",
+      "snippet": "In a major policy speech, Jeremy Hunt, the chancellor of the Exchequer, offered plans to promote greater work force participation, including more free child care.",
+      "abstract": "In a major policy speech, Jeremy Hunt, the chancellor of the Exchequer, offered plans to promote greater work force participation, including more free child care.",
+      "lead_paragraph": "The British government ramped up its efforts to get more people into work and make Britain an enticing investment destination as it announced on Wednesday an expansion of free child care, extended household energy subsidies and bolstered business investment incentives.",
+      "publication_date": "2023-03-15T08:06:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/15/business/jeremy-hunt-uk-budget-economy.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "How Siri, Alexa and Google Assistant Lost the A.I. Race",
+      "snippet": "The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.",
+      "abstract": "The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.",
+      "lead_paragraph": "On a rainy Tuesday in San Francisco, Apple executives took the stage in a crowded auditorium to unveil the fifth-generation iPhone. The phone, which looked identical to the previous version, had a new feature that the audience was soon buzzing about: Siri, a virtual assistant.",
+      "publication_date": "2023-03-15T09:00:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html",
+      "byline": "By Brian X. Chen, Nico Grant and Karen Weise"
+    },
+    {
+      "headline": "Bank Fears Go Global, Sending a Shudder Through Markets",
+      "snippet": "Stomach-churning volatility in stocks, bonds and other assets on Wednesday reflected renewed worries about the state of the economy and the risks lurking in the financial system.",
+      "abstract": "Stomach-churning volatility in stocks, bonds and other assets on Wednesday reflected renewed worries about the state of the economy and the risks lurking in the financial system.",
+      "lead_paragraph": "Fear about the unseen risks to the financial system rippled across the globe on Wednesday, breaking the brief calm that had settled over markets and deepening worries that a banking crisis could threaten the economy.",
+      "publication_date": "2023-03-15T11:35:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/15/business/stocks-today.html",
+      "byline": "By Joe Rennison and Jason Karaian"
+    },
+    {
+      "headline": "Credit Suisse to Borrow Up to $54 Billion From Central Bank",
+      "snippet": "The announcement came after investors, fearing that the bank would run out of money, began dumping its stock.",
+      "abstract": "The announcement came after investors, fearing that the bank would run out of money, began dumping its stock.",
+      "lead_paragraph": "Credit Suisse, the 166-year-old institution that was once an emblem of Swiss pride, is fighting for its life after investors, fearing that the bank would run out of money, dumped its stock and sent the price of insuring its debt against a default skyrocketing.",
+      "publication_date": "2023-03-15T15:11:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/15/business/credit-suisse-shares-saudi.html",
+      "byline": "By Michael J. de la Merced and Maureen Farrell"
+    }
+  ]
+}

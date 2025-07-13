@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-05-12",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Will Allow Drilling for Oil in Arctic Ocean",
+      "snippet": "The move is a major victory for Shell, but environmentalists say a possible accident there could have far-reaching consequences.",
+      "abstract": "The move is a major victory for Shell, but environmentalists say a possible accident there could have far-reaching consequences.",
+      "lead_paragraph": "WASHINGTON — The Obama administration on Monday gave conditional approval to allow Shell to start drilling for oil off the Alaskan coast this summer, a major victory for the petroleum industry and a devastating blow to environmentalists.",
+      "publication_date": "2015-05-11T18:01:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/12/us/white-house-gives-conditional-approval-for-shell-to-drill-in-arctic.html",
+      "byline": "By Coral Davenport"
+    },
+    {
+      "headline": "Fight Over China Currency Policies Threatens Vote on Trade Bill",
+      "snippet": "Democrats say they will filibuster a trade measure set for a vote Tuesday unless it is combined with a separate customs enforcement bill that would crack down on currency manipulation.",
+      "abstract": "Democrats say they will filibuster a trade measure set for a vote Tuesday unless it is combined with a separate customs enforcement bill that would crack down on currency manipulation.",
+      "lead_paragraph": "WASHINGTON — A heated dispute over how to challenge China on currency policy has imperiled a trade bill that has become President Obama’s top legislative priority, uniting even the president’s top Democratic supporters against taking up the bill in the Senate.",
+      "publication_date": "2015-05-11T20:08:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/12/business/fight-over-china-currency-policies-threatens-vote-on-trade-bill.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Judge’s Ruling Against 2 Banks Finds Misconduct in ’08 Crash",
+      "snippet": "Judge Denise L. Cote of Federal District Court in Manhattan ruled on Monday that Nomura and the Royal Bank of Scotland misled Fannie Mae and Freddie Mac.",
+      "abstract": "Judge Denise L. Cote of Federal District Court in Manhattan ruled on Monday that Nomura and the Royal Bank of Scotland misled Fannie Mae and Freddie Mac.",
+      "lead_paragraph": "Many on Wall Street have long argued that the banks did not generally break the law when they packaged shoddy mortgages and sold them to investors in the lead-up to the financial crisis of 2008.",
+      "publication_date": "2015-05-11T21:47:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/12/business/dealbook/nomura-found-liable-in-us-mortgage-suit-tied-to-financial-crisis.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "2 Police Lives Lost Are the Focus in Mississippi",
+      "snippet": "Scores of law enforcement officers and hundreds of ordinary citizens attended the memorial service for two Hattiesburg, Miss., police officers who were shot during a traffic stop Saturday.",
+      "abstract": "Scores of law enforcement officers and hundreds of ordinary citizens attended the memorial service for two Hattiesburg, Miss., police officers who were shot during a traffic stop Saturday.",
+      "lead_paragraph": "HATTIESBURG, Miss. — By the time a single bagpiper marched to the front of Hattiesburg Hall on Monday afternoon, scores of law enforcement officers from across Mississippi had lined the walls of the room in a local convention center. They, along with hundreds of ordinary citizens, had come to remember two young police officers, to seek solace and, perhaps, to seek meaning.",
+      "publication_date": "2015-05-11T22:43:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/12/us/slain-hattiesburg-mississippi-police-officers-are-memorialized.html",
+      "byline": "By Alan Blinder"
+    },
+    {
+      "headline": "TV Networks Borrow Page From Digital Rivals to Attract Advertisers",
+      "snippet": "Television networks are offering new data-driven products to help advertisers reach targeted audiences even as they shift to digital and social media.",
+      "abstract": "Television networks are offering new data-driven products to help advertisers reach targeted audiences even as they shift to digital and social media.",
+      "lead_paragraph": "Coca-Cola has created some of the most memorable commercials in television history. Now the company is looking for something more.",
+      "publication_date": "2015-05-11T23:30:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/12/business/media/tv-networks-borrow-page-from-digital-rivals-to-attract-advertisers.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Main Street Portfolios Are Investing in Unicorns",
+      "snippet": "Investors in certain mutual funds may not realize that they have bought shares of private start-up technology companies at sky-high valuations.",
+      "abstract": "Investors in certain mutual funds may not realize that they have bought shares of private start-up technology companies at sky-high valuations.",
+      "lead_paragraph": "With Uber now reportedly valued at $50 billion, there are justifiable worries that some private start-up technology companies worth $1 billion or more — known as unicorns — are in bubble territory.",
+      "publication_date": "2015-05-12T01:20:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/12/business/dealbook/main-street-portfolios-are-investing-in-unicorns.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "King’s Absence at Meeting Signals a Saudi-U.S. Marriage Adrift",
+      "snippet": "Both countries insisted that King Salman of Saudi Arabia was not snubbing President Obama by skipping meetings at Camp David, though it seemed to reflect a new reality that the allies are at odds.",
+      "abstract": "Both countries insisted that King Salman of Saudi Arabia was not snubbing President Obama by skipping meetings at Camp David, though it seemed to reflect a new reality that the allies are at odds.",
+      "lead_paragraph": "WASHINGTON — The decision by King Salman of Saudi Arabia to skip a summit meeting called by President Obama reflects a new reality for two nations that for generations shared goals in the Middle East but that are now at odds in fundamental ways. ",
+      "publication_date": "2015-05-12T01:34:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/12/us/politics/kings-absence-at-summit-signals-saudi-us-marriage-on-rocks.html",
+      "byline": "By Peter Baker and Michael D. Shear"
+    },
+    {
+      "headline": "Push to End Prison Rapes Loses Earlier Momentum",
+      "snippet": "After decades of societal indifference, Congress unanimously passed the Prison Rape Elimination Act in 2003. But the urgency behind that consensus has dissipated.",
+      "abstract": "After decades of societal indifference, Congress unanimously passed the Prison Rape Elimination Act in 2003. But the urgency behind that consensus has dissipated.",
+      "lead_paragraph": "NEW BOSTON, Tex. — The inmate, dressed in prison whites with a shaved head and incongruously tender eyes behind wire-rimmed glasses, entered the visiting room with her wrists joined as if she were handcuffed. At 31, she had spent her whole adult life behind bars, and it looked like a posture of habit.",
+      "publication_date": "2015-05-12T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/13/us/push-to-end-prison-rapes-loses-earlier-momentum.html",
+      "byline": "By Deborah Sontag"
+    },
+    {
+      "headline": "Verizon Bets on Video Ads in $4 Billion Deal for AOL",
+      "snippet": "Verizon’s $4.4 billion all-cash deal for AOL illustrates how the communications industry has changed, even if the underlying rationale has not.",
+      "abstract": "Verizon’s $4.4 billion all-cash deal for AOL illustrates how the communications industry has changed, even if the underlying rationale has not.",
+      "lead_paragraph": "The nation’s biggest wireless operator sees its digital future in a company that still offers dial-up Internet service.",
+      "publication_date": "2015-05-12T11:16:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/13/business/dealbook/verizon-to-buy-aol-for-4-4-billion.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "AOL, a Digital Pioneer, With Another Chance to Reshape Itself",
+      "snippet": "Acquisitions were once a symbol of the company, but the onetime Internet titan had in recent years been dogged by rumors of deals it should pursue.",
+      "abstract": "Acquisitions were once a symbol of the company, but the onetime Internet titan had in recent years been dogged by rumors of deals it should pursue.",
+      "lead_paragraph": "Soon after Tim Armstrong was named chief executive of AOL in 2009, he started reading the management book “You’re in Charge, Now What?”",
+      "publication_date": "2015-05-12T15:49:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/13/business/dealbook/the-deals-that-transformed-aol.html",
+      "byline": "By Emily Steel and Michael J. de la Merced"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2024-01-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Half of Gazans Are at Risk of Starving, U.N. Warns",
+      "snippet": "More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.",
+      "abstract": "More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.",
+      "lead_paragraph": "Walaa Zaiter’s four children have been hungry for weeks, but she can barely find them food.",
+      "publication_date": "2024-01-01T05:01:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/01/world/middleeast/gaza-israel-hunger.html",
+      "byline": "By Liam Stack, Gaya Gupta and Abu Bakr Bashir"
+    },
+    {
+      "headline": "Chill in the Housing Market Seeps Into Other Industries",
+      "snippet": "The slowdown in the residential real estate market, a crucial cog in the American economy, is threatening sectors like home improvement and storage.",
+      "abstract": "The slowdown in the residential real estate market, a crucial cog in the American economy, is threatening sectors like home improvement and storage.",
+      "lead_paragraph": "John Matheson, a home inspector in Alameda, Calif., kept busy during the pandemic when the housing market was red hot. But as interest rates started to rise about halfway through 2022, he noticed that his workload began to drop. Last year, the number of jobs plummeted.",
+      "publication_date": "2024-01-01T10:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/01/business/housing-market-services-retailers.html",
+      "byline": "By Martha C. White"
+    },
+    {
+      "headline": "Police Officers Are Charged With Crimes, but Are Juries Convicting?",
+      "snippet": "Since the death of George Floyd, a national movement promised sweeping justice reform. So far, police prosecutions have resulted in a mixed bag of convictions, acquittals and a mistrial.",
+      "abstract": "Since the death of George Floyd, a national movement promised sweeping justice reform. So far, police prosecutions have resulted in a mixed bag of convictions, acquittals and a mistrial.",
+      "lead_paragraph": "A few days before Christmas, a jury in Washington cleared three Tacoma police officers of criminal charges in the death of Manuel “Manny” Ellis, a 33-year-old Black man who died in police custody in 2020 after pleading that he could not breathe.",
+      "publication_date": "2024-01-01T10:02:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/01/us/george-floyd-elijah-mcclain-police-brutality-black-lives-matter-trials-civil-rights.html",
+      "byline": "By Audra D. S. Burch and Kelley Manley"
+    },
+    {
+      "headline": "These Classic Characters Are Losing Copyright Protection. They May Never Be the Same.",
+      "snippet": "What could happen to the original version of Mickey Mouse and others after they entered the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.",
+      "abstract": "What could happen to the original version of Mickey Mouse and others after they entered the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.",
+      "lead_paragraph": "If you’re the creative type and you’re struggling to come up with your next idea, do not fear: Some big works, including the original version of Mickey Mouse, are entering the public domain on Jan. 1 in the United States.",
+      "publication_date": "2024-01-01T10:45:09+0000",
+      "section_name": "Arts",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/01/arts/public-domain-mickey-mouse.html",
+      "byline": "By Sopan Deb"
+    }
+  ]
+}

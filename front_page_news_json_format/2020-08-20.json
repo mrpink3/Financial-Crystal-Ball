@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-08-20",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Facebook Removes 790 QAnon Groups to Fight Conspiracy Theory",
+      "snippet": "The social network also said it was restricting another 1,950 groups, 440 pages on Facebook and more than 10,000 accounts on Instagram related to the conspiracy group.",
+      "abstract": "The social network also said it was restricting another 1,950 groups, 440 pages on Facebook and more than 10,000 accounts on Instagram related to the conspiracy group.",
+      "lead_paragraph": "OAKLAND, Calif. — Facebook said on Wednesday that it had removed 790 QAnon groups from its site and was restricting another 1,950 groups, 440 pages and more than 10,000 Instagram accounts related to the right-wing conspiracy theory, in the social network’s most sweeping action against the fast-growing movement.",
+      "publication_date": "2020-08-19T19:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/19/technology/facebook-qanon-groups-takedown.html",
+      "byline": "By Sheera Frenkel"
+    },
+    {
+      "headline": "Obama Returns to the D.N.C. With a Chance to Protect His Legacy From Trump",
+      "snippet": "After four years watching his achievements being dismantled, he has almost as much at stake as his party’s nominee, Joe Biden, does.",
+      "abstract": "After four years watching his achievements being dismantled, he has almost as much at stake as his party’s nominee, Joe Biden, does.",
+      "lead_paragraph": "Shortly before the 2016 election, President Barack Obama told supporters that he would consider it “a personal insult” if America chose a bombastic reality television star who trafficked in racist conspiracy theories and stood against everything that he had spent eight years building.",
+      "publication_date": "2020-08-19T20:09:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/19/us/politics/barack-obama-dnc-trump.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Big-Box Retailers’ Profits Surge as Pandemic Marches On",
+      "snippet": "Walmart and Target reported record sales in the second quarter, driven by the convenience of one-stop shopping and their e-commerce operations.",
+      "abstract": "Walmart and Target reported record sales in the second quarter, driven by the convenience of one-stop shopping and their e-commerce operations.",
+      "lead_paragraph": "In the early days of the pandemic, when grocery stores in the United States ran low on staples like toilet paper, people flocked to Walmart and Target to stock up. Five months later, as the number of coronavirus cases remains high, shoppers continue to buy from the big-box retailers in record amounts.",
+      "publication_date": "2020-08-19T22:06:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/19/business/coronavirus-walmart-target-home-depot.html",
+      "byline": "By Gillian Friedman"
+    },
+    {
+      "headline": "Fires, Blackouts, a Heat Wave and a Pandemic: California’s ‘Horrible’ Month",
+      "snippet": "The nation’s most-populated state is facing multiple crises, including 23 major wildfires raging while the daily death toll from the coronavirus is above 100.",
+      "abstract": "The nation’s most-populated state is facing multiple crises, including 23 major wildfires raging while the daily death toll from the coronavirus is above 100.",
+      "lead_paragraph": "VACAVILLE, Calif. — How many things can go wrong at once?",
+      "publication_date": "2020-08-19T23:22:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/19/us/california-heatwave-blackouts-wildfires.html",
+      "byline": "By Thomas Fuller"
+    },
+    {
+      "headline": "Trump Administration Pushes Arms Sale to U.A.E. Despite Israeli Worries",
+      "snippet": "The Trump White House is quietly planning sales of F-35 stealth fighters and advanced drones to the Emiratis as part of a wider plan to realign the Middle East, but Israel and Congress may object.",
+      "abstract": "The Trump White House is quietly planning sales of F-35 stealth fighters and advanced drones to the Emiratis as part of a wider plan to realign the Middle East, but Israel and Congress may object.",
+      "lead_paragraph": "WASHINGTON — The Trump administration has accelerated a push to sell the F-35 stealth fighter and advanced armed drones to the United Arab Emirates, at a time when the Gulf nation is working with the Trump administration on a historic plan to formalize diplomatic ties with Israel, according to American officials familiar with the discussions.",
+      "publication_date": "2020-08-19T23:45:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/19/world/middleeast/trump-netanyahu-israel-uae.html",
+      "byline": "By Mark Mazzetti and Edward Wong"
+    },
+    {
+      "headline": "Kamala Harris Takes the Spotlight, a Moment for Her and History",
+      "snippet": "As a barrier-breaking candidate, and as the running mate to a 77-year-old, Ms. Harris arrives at the Democratic convention carrying an extraordinary set of hopes and expectations from party members.",
+      "abstract": "As a barrier-breaking candidate, and as the running mate to a 77-year-old, Ms. Harris arrives at the Democratic convention carrying an extraordinary set of hopes and expectations from party members.",
+      "lead_paragraph": "Kamala Harris stood before the Democratic Party on Wednesday as the bridge between a moderate generation of leaders and younger liberals on the rise, balancing the obligations of promoting Joseph R. Biden Jr. while offering herself to someday lead the party into a post-Biden era.",
+      "publication_date": "2020-08-19T23:56:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/19/us/politics/kamala-harris-dnc.html",
+      "byline": "By Adam Nagourney and Katie Glueck"
+    },
+    {
+      "headline": "Trump Says QAnon Followers Are People Who ‘Love Our Country’",
+      "snippet": "When asked, the president did not question the truth behind the claims of the QAnon conspiracy movement. Instead, he offered his help.",
+      "abstract": "When asked, the president did not question the truth behind the claims of the QAnon conspiracy movement. Instead, he offered his help.",
+      "lead_paragraph": "WASHINGTON — President Trump on Wednesday offered encouragement to proponents of QAnon, a viral conspiracy theory that has gained a widespread following among people who believe the president is secretly battling a criminal band of sex traffickers, and suggested that its proponents were patriots upset with unrest in Democratic cities.",
+      "publication_date": "2020-08-20T01:58:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/19/us/politics/trump-qanon-conspiracy-theories.html",
+      "byline": "By Katie Rogers and Kevin Roose"
+    },
+    {
+      "headline": "Democrats Nominate Harris for Vice President, as Obama Lashes Trump",
+      "snippet": "Senator Kamala Harris became the first woman of color on a major party ticket, while former President Barack Obama condemned President Trump by name and issued a grim warning about the durability of American democracy.",
+      "abstract": "Senator Kamala Harris became the first woman of color on a major party ticket, while former President Barack Obama condemned President Trump by name and issued a grim warning about the durability of American democracy.",
+      "lead_paragraph": "MILWAUKEE — Democrats formally nominated Senator Kamala Harris for the vice presidency on Wednesday night, placing a woman of color on a major party ticket for the first time and showcasing the diversity of race and gender they believe will energize their coalition to defeat President Trump in the fall.",
+      "publication_date": "2020-08-20T03:58:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/19/us/politics/democratic-national-convention-recap.html",
+      "byline": "By Astead W. Herndon and Lisa Lerer"
+    },
+    {
+      "headline": "Aleksei Navalny Hospitalized in Russia in Suspected Poisoning",
+      "snippet": "The prominent opposition leader was reported to be in serious but stable condition in intensive care in Siberia after his flight to Moscow was forced to make an emergency landing.",
+      "abstract": "The prominent opposition leader was reported to be in serious but stable condition in intensive care in Siberia after his flight to Moscow was forced to make an emergency landing.",
+      "lead_paragraph": "MOSCOW — Booked on an early morning flight back to Moscow, Aleksei A. Navalny began his day with a rushed breakfast — just a cup of tea in a plastic cup — at the airport in the Siberian city of Tomsk. Soon after his flight took off Thursday, he rushed to the toilet feeling violently ill.",
+      "publication_date": "2020-08-20T06:17:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/20/world/europe/navalny-poison-russia.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Writers Mutiny at ‘All Rise,’ the Rare CBS Show With a Black Female Lead",
+      "snippet": "Five have left the drama, whose white show runner, Greg Spottiswood, had disputes with the staff over its depictions of race and gender. He kept his job after reviews by human resources.",
+      "abstract": "Five have left the drama, whose white show runner, Greg Spottiswood, had disputes with the staff over its depictions of race and gender. He kept his job after reviews by human resources.",
+      "lead_paragraph": "The courtroom drama “All Rise” was something rare for CBS when it made its debut in September: a prime-time drama with a Black woman as its protagonist. After bringing in an average of more than five million viewers per episode, it was renewed for a second season in May.",
+      "publication_date": "2020-08-20T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/20/business/media/all-rise-cbs-writers.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "This Plan Pays to Avoid Layoffs. Why Don’t More Employers Use It?",
+      "snippet": "Often-overlooked job sharing programs, with a recent dose of federal aid, put workers on part-time duty in a downturn and make up lost wages.",
+      "abstract": "Often-overlooked job sharing programs, with a recent dose of federal aid, put workers on part-time duty in a downturn and make up lost wages.",
+      "lead_paragraph": "Linda Petersen remembers when the housing market collapsed in 2008 and she was faced with having to lay off most of the people she worked with at her land title and escrow company in Washington State.",
+      "publication_date": "2020-08-20T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/20/business/economy/jobs-work-sharing-unemployment.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

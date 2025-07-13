@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-08-29",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trump Associate Boasted That Moscow Business Deal ‘Will Get Donald Elected’",
+      "snippet": "Emails show that Felix Sater promised to get Vladimir Putin’s support for a Trump Tower in Moscow. “Our boy can become president,” he wrote.",
+      "abstract": "Emails show that Felix Sater promised to get Vladimir Putin’s support for a Trump Tower in Moscow. “Our boy can become president,” he wrote.",
+      "lead_paragraph": "WASHINGTON — A business associate of President Trump promised in 2015 to engineer a real estate deal with the aid of the president of Russia, Vladimir V. Putin, that he said would help Mr. Trump win the presidency.",
+      "publication_date": "2017-08-28T16:33:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/28/us/politics/trump-tower-putin-felix-sater.html",
+      "byline": "By Matt Apuzzo and Maggie Haberman"
+    },
+    {
+      "headline": "Uber’s C.E.O. Pick, Dara Khosrowshahi, Steps Into Brighter Spotlight",
+      "snippet": "Mr. Khosrowshahi has many tasks ahead of him, including repairing Uber’s internal culture and preparing the company for a self-driving future.",
+      "abstract": "Mr. Khosrowshahi has many tasks ahead of him, including repairing Uber’s internal culture and preparing the company for a self-driving future.",
+      "lead_paragraph": "SAN FRANCISCO — Dara Khosrowshahi’s family immigrated to the United States from Iran in 1978, when their country was convulsed by revolution. They were not particularly welcomed in America, and were broke.",
+      "publication_date": "2017-08-28T17:43:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/28/technology/dara-khosrowshahi-uber-ceo.html",
+      "byline": "By David Streitfeld and Nellie Bowles"
+    },
+    {
+      "headline": "Day Trading in Wall Street’s Complex ‘Fear Gauge’ Proliferates",
+      "snippet": "This explosion in interest is prompting concerns that investors may not be truly aware of what they are getting into.",
+      "abstract": "This explosion in interest is prompting concerns that investors may not be truly aware of what they are getting into.",
+      "lead_paragraph": "Each morning, at the market’s open, Seth M. Golden, a former logistics manager at a Target store, fires up the computer in his home office in northern Florida and does what he has done for years: Put on bets that Wall Street’s index of volatility, the VIX, will keep falling.",
+      "publication_date": "2017-08-28T18:46:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/28/business/dealbook/vix-trading.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Uber’s C.E.O. Choice Faces a Question of Ambitions",
+      "snippet": "Under its co-founder Travis Kalanick, Uber set out to revolutionize modern transportation. Its new C.E.O. may have a smaller, less risky vision.",
+      "abstract": "Under its co-founder Travis Kalanick, Uber set out to revolutionize modern transportation. Its new C.E.O. may have a smaller, less risky vision.",
+      "lead_paragraph": "In private and sometimes in public, Travis Kalanick was fond of describing Uber, the car-hailing service he co-founded and commanded absolutely, as the Amazon of the transportation business.",
+      "publication_date": "2017-08-28T21:23:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/28/technology/uber-new-ceo.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "North Korea Fires Missile Over Japan",
+      "snippet": "Pyongyang carried out one of its most provocative missile tests in recent years, prompting Japan to issue an alert for residents to take cover.",
+      "abstract": "Pyongyang carried out one of its most provocative missile tests in recent years, prompting Japan to issue an alert for residents to take cover.",
+      "lead_paragraph": "SEOUL, South Korea — North Korea carried out one of its most provocative missile tests in recent years early Tuesday morning, hurling a ballistic missile directly over Japan that prompted the government in Tokyo to warn residents in its path to take cover.",
+      "publication_date": "2017-08-28T21:39:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/28/world/asia/north-korea-missile.html",
+      "byline": "By Choe Sang-Hun and David E. Sanger"
+    },
+    {
+      "headline": "Coffee and Cots as Houston Houses Thousands in a Convention Center",
+      "snippet": "The George R. Brown Convention Center, in downtown Houston, is a hub of the enormous relief operation as the city confronts catastrophic flooding.",
+      "abstract": "The George R. Brown Convention Center, in downtown Houston, is a hub of the enormous relief operation as the city confronts catastrophic flooding.",
+      "lead_paragraph": "HOUSTON — The rescued are almost always wet when they arrive — slick, shuffling and staggering after hours in the rain. They are met with blankets and a security check, dry clothes and green cots. And then there is a feeling of relief that, for the moment, they have left the floodwaters behind.",
+      "publication_date": "2017-08-28T23:18:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/28/us/harvey-evacuations-texas.html",
+      "byline": "By Alan Blinder and Jack Healy"
+    },
+    {
+      "headline": "Apple’s Tim Cook Barnstorms for ‘Moral Responsibility’",
+      "snippet": "Don’t expect him to become a politician, but the Apple C.E.O. sees gaps in governmental social policies that he believes companies like his are obliged to help fill.",
+      "abstract": "Don’t expect him to become a politician, but the Apple C.E.O. sees gaps in governmental social policies that he believes companies like his are obliged to help fill.",
+      "lead_paragraph": "AUSTIN, Tex. — “The reality is that government, for a long period of time, has for whatever set of reasons become less functional and isn’t working at the speed that it once was. And so it does fall, I think, not just on business but on all other areas of society to step up.”",
+      "publication_date": "2017-08-28T23:28:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/28/business/dealbook/tim-cook-apple-moral-responsibility.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Deluged Texas Braces for More Rain, and Years of Recovery",
+      "snippet": "The flooding from Tropical Storm Harvey that has turned neighborhoods into lakes is just the start of a disaster that will take years to overcome.",
+      "abstract": "The flooding from Tropical Storm Harvey that has turned neighborhoods into lakes is just the start of a disaster that will take years to overcome.",
+      "lead_paragraph": "HOUSTON — As one of the most destructive storms in the nation’s history pummeled southeast Texas for a fourth day, forecasts on Tuesday morning called for still more rain, making clear that catastrophic flooding that had turned neighborhoods into lakes was just the start of a disaster that would take years to overcome.",
+      "publication_date": "2017-08-28T23:33:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/28/us/houston-flooding-harvey.html",
+      "byline": "By Julie Turkewitz, Richard Pérez-Peña and Jack Healy"
+    },
+    {
+      "headline": "Home Health Care: Shouldn’t It Be Work Worth Doing?",
+      "snippet": "Watching over older people is among the fastest-growing occupations. With more training and flexibility, it could help support a future middle class.",
+      "abstract": "Watching over older people is among the fastest-growing occupations. With more training and flexibility, it could help support a future middle class.",
+      "lead_paragraph": "Do you know who is going to care for you when you are old and frail? By current standards, it’s likely to be a middle-aged immigrant woman, with maybe a high school education and little if any training, making $20,000 a year.",
+      "publication_date": "2017-08-29T09:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/29/business/economy/home-health-care-work.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "A Pacifist Japan Starts to Embrace the Military",
+      "snippet": "As the North Korean missile threat grows, there are signs that Japan’s citizens are moving away from the country’s postwar pacifism.",
+      "abstract": "As the North Korean missile threat grows, there are signs that Japan’s citizens are moving away from the country’s postwar pacifism.",
+      "lead_paragraph": "GOTEMBA, Japan — The Japanese soldiers jumped out of the jeeps, unloaded the antitank missiles and dropped to the ground. Within minutes, they aimed and fired, striking hypothetical targets nearly a half-mile away.",
+      "publication_date": "2017-08-29T10:56:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/29/world/asia/korea-missile-japan-pacifism.html",
+      "byline": "By Motoko Rich"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-02-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Canada Oil-Sands Plan Collapses Over Politics and Economics",
+      "snippet": "A developer has abandoned a nine-year effort to extend mining, sparing Justin Trudeau a choice between energy interests and environmental concerns.",
+      "abstract": "A developer has abandoned a nine-year effort to extend mining, sparing Justin Trudeau a choice between energy interests and environmental concerns.",
+      "lead_paragraph": "A major effort to expand development of Canada’s oil sands has collapsed shortly before a deadline for government approval, undone by investor concerns over oil’s future and the political fault lines between economic and environmental priorities.",
+      "publication_date": "2020-02-24T19:17:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/24/business/energy-environment/frontier-oil-sands-canada.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Intuit to Buy Credit Karma to Create Financial Data Giant",
+      "snippet": "The $7.1 billion transaction underscores the value of the financial details of ordinary Americans.",
+      "abstract": "The $7.1 billion transaction underscores the value of the financial details of ordinary Americans.",
+      "lead_paragraph": "SAN FRANCISCO — Intuit, the parent company of TurboTax and Mint, agreed on Monday to pay $7.1 billion for Credit Karma, a start-up that has become one of the most popular financial applications for young consumers.",
+      "publication_date": "2020-02-24T21:16:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/24/business/dealbook/intuit-credit-karma.html",
+      "byline": "By Nathaniel Popper and Michael J. de la Merced"
+    },
+    {
+      "headline": "Harvey Weinstein Is Gone, but Hollywood Is Still a Man’s World",
+      "snippet": "The entertainment industry has undergone a tectonic shift in the past two years, but many of the most powerful people remain the same.",
+      "abstract": "The entertainment industry has undergone a tectonic shift in the past two years, but many of the most powerful people remain the same.",
+      "lead_paragraph": "LOS ANGELES — In Hollywood, director jobs are no longer automatically filled by white men. Television writers’ rooms have made diversity and inclusion top priorities. Human resources departments at major media corporations are more responsive when complaints are filed. Intimacy coordinators, who introduce physical consent considerations into the artistic process, are now normal on productions featuring sexual content.",
+      "publication_date": "2020-02-24T23:34:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/24/business/media/harvey-weinstein-hollywood.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Sanders Says He’ll Attract a Wave of New Voters. It Hasn’t Happened.",
+      "snippet": "Bernie Sanders has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record turnout.",
+      "abstract": "Bernie Sanders has so far prevailed by expanding his appeal among traditional Democratic voters, not by driving record turnout.",
+      "lead_paragraph": "CHARLESTON, S.C. — It is the most politically provocative part of Senator Bernie Sanders’s campaign pitch: that his progressive movement will bring millions of nonvoters into the November election, driving record turnout especially among disaffected working-class Americans and young people.",
+      "publication_date": "2020-02-24T23:47:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/24/us/politics/bernie-sanders-democratic-voters.html",
+      "byline": "By Sydney Ember and Nate Cohn"
+    },
+    {
+      "headline": "With Weinstein Conviction, Jury Delivers a Verdict on #MeToo",
+      "snippet": "The defense argued #MeToo had gone too far, but the jury suggested the opposite: that accountability could extend from the court of public opinion to a court of law.",
+      "abstract": "The defense argued #MeToo had gone too far, but the jury suggested the opposite: that accountability could extend from the court of public opinion to a court of law.",
+      "lead_paragraph": "The criminal case against Harvey Weinstein was a long shot.",
+      "publication_date": "2020-02-25T01:46:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/24/us/harvey-weinstein-verdict-metoo.html",
+      "byline": "By Megan Twohey and Jodi Kantor"
+    },
+    {
+      "headline": "Post-Brexit, Britain Is Going Its Own Way. That Way Looks Expensive.",
+      "snippet": "The country, preparing for trade talks with Brussels, is vowing to break with European Union rules. But that could wall off a vast market for its exports.",
+      "abstract": "The country, preparing for trade talks with Brussels, is vowing to break with European Union rules. But that could wall off a vast market for its exports.",
+      "lead_paragraph": "ROWLEY REGIS, England — Except for protracted uncertainty over Britain’s future relationship with Europe, these are promising days at Cube Precision, a factory in the Black Country of England.",
+      "publication_date": "2020-02-25T05:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/25/business/brexit-britain-eu-trade-talks.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Trump, in India, Demands 2 Liberal Justices Recuse Themselves From His Cases",
+      "snippet": "The president ratcheted up a fight with a judicial system he sees as biased against him.",
+      "abstract": "The president ratcheted up a fight with a judicial system he sees as biased against him.",
+      "lead_paragraph": "NEW DELHI — President Trump lashed out at two liberal Supreme Court justices on Tuesday, escalating his battle with the judicial system to new heights despite entreaties by his attorney general to refrain from attacks that complicate the administration’s legal fights.",
+      "publication_date": "2020-02-25T05:55:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/25/us/politics/trump-supreme-court.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Stocks Slide for 2nd Day as U.S. Sounds Alarm on Coronavirus",
+      "snippet": "The spread of the coronavirus has rattled investors who fear new outbreaks will push down global demand.",
+      "abstract": "The spread of the coronavirus has rattled investors who fear new outbreaks will push down global demand.",
+      "lead_paragraph": "Worried investors dumped stocks again Tuesday as American officials warned that it was only a matter of time before the coronavirus outbreak spreads to the United States.",
+      "publication_date": "2020-02-25T07:08:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/25/business/stock-markets-covid-19.html",
+      "byline": "By Matt Phillips and Keith Bradsher"
+    },
+    {
+      "headline": "‘I Felt Like Crying’: Coronavirus Shakes China’s Expecting Mothers",
+      "snippet": "Pregnant women describe a lonely, sometimes terrifying experience navigating the country’s overburdened health care system during the outbreak.",
+      "abstract": "Pregnant women describe a lonely, sometimes terrifying experience navigating the country’s overburdened health care system during the outbreak.",
+      "lead_paragraph": "HONG KONG — The hospital waiting room was filled with dozens of women wearing homemade hazmat suits. Their hair was tucked tightly under shower caps. Their rain ponchos zipped taut over winter coats. All of the women, anxious and pregnant during the coronavirus outbreak, had been waiting hours to see the same doctor.",
+      "publication_date": "2020-02-25T10:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/25/business/coronavirus-china-pregnant.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "As Emmanuel Macron’s Impact Grows, So Does French Disdain",
+      "snippet": "No recent president has had a deeper effect on France’s economy, society and politics. And many French despise him for it.",
+      "abstract": "No recent president has had a deeper effect on France’s economy, society and politics. And many French despise him for it.",
+      "lead_paragraph": "PARIS — One after another, the speakers in Parliament have denounced President Emmanuel Macron and his revolutionary plans, calling them “cynicism” and a “flagrant crime.” Outside, hundreds of protesters shout their fury. Other demonstrators, invoking a long French tradition, have called for his head.",
+      "publication_date": "2020-02-25T10:44:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/25/world/europe/macron-france-pensions.html",
+      "byline": "By Adam Nossiter"
+    }
+  ]
+}

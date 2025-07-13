@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2013-04-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trucking Industry Is Set to Expand Its Use of Natural Gas",
+      "snippet": "Natural gas is expected to gain popularity as a truck fuel for a number of reasons, including its low cost and demand from companies that ship goods.",
+      "abstract": "Natural gas is expected to gain popularity as a truck fuel for a number of reasons, including its low cost and demand from companies that ship goods.",
+      "lead_paragraph": "The natural gas boom has already upended the American power industry, displacing coal and bringing consumers cheaper electricity.",
+      "publication_date": "2013-04-22T19:25:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/04/23/business/energy-environment/natural-gas-use-in-long-haul-trucks-expected-to-rise.html",
+      "byline": "By Diane Cardwell and Clifford Krauss"
+    },
+    {
+      "headline": "In China, Breathing Becomes a Childhood Risk",
+      "snippet": "High levels of deadly pollutants in Beijing and other cities have led parents to alter their children’s day-to-day activities drastically, and some plan to leave the country.",
+      "abstract": "High levels of deadly pollutants in Beijing and other cities have led parents to alter their children’s day-to-day activities drastically, and some plan to leave the country.",
+      "lead_paragraph": "BEIJING — The boy’s chronic cough and stuffy nose began last year at the age of 3. His symptoms worsened this winter, when smog across northern China surged to record levels. Now he needs his sinuses cleared every night with saltwater piped through a machine’s tubes.",
+      "publication_date": "2013-04-22T22:21:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/23/world/asia/pollution-is-radically-changing-childhood-in-chinas-cities.html",
+      "byline": "By Edward Wong"
+    },
+    {
+      "headline": "Subscribers Help Propel Netflix Gain",
+      "snippet": "The company’s stock passed $200 a share in after-hours trading for the first time since 2011 after it reported robust first-quarter earnings.",
+      "abstract": "The company’s stock passed $200 a share in after-hours trading for the first time since 2011 after it reported robust first-quarter earnings.",
+      "lead_paragraph": "When Ted Sarandos, the chief content officer for Netflix, told GQ in an interview published three months ago that “the goal is to become HBO faster than HBO can become us,” maybe he was on to something.",
+      "publication_date": "2013-04-23T00:36:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/04/23/business/media/netflix-reports-strong-revenue-on-strength-of-subscribers.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "Fed Still Owes Congress a Blueprint on Its Emergency Lending",
+      "snippet": "Dodd-Frank, passed in 2010, required the Fed to develop policies and procedures to safeguard taxpayers when making emergency loans “as soon as is practicable.”",
+      "abstract": "Dodd-Frank, passed in 2010, required the Fed to develop policies and procedures to safeguard taxpayers when making emergency loans “as soon as is practicable.”",
+      "lead_paragraph": "After the Federal Reserve lent more than $1 trillion to big banks during the 2008 financial crisis, Congress required the central bank to devise specific ways of protecting taxpayers when doling out emergency loans to financial institutions.",
+      "publication_date": "2013-04-23T00:45:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/04/22/fed-still-owes-congress-a-blueprint-on-emergency-lending-to-banks/",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Co-Directors for S.E.C. Signal Shift",
+      "snippet": "Mary Jo White, the new chairwoman of the agency, is putting together her team, including one of her longtime lieutenants.",
+      "abstract": "Mary Jo White, the new chairwoman of the agency, is putting together her team, including one of her longtime lieutenants.",
+      "lead_paragraph": "The Securities and Exchange Commission ushered in a new era of leadership on Monday, appointing a former federal prosecutor turned defense lawyer to help run the unit that polices the front lines of financial fraud.",
+      "publication_date": "2013-04-23T00:53:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/04/22/s-e-c-picks-ceresney-and-canellos-for-enforcement/",
+      "byline": "By Ben Protess"
+    },
+    {
+      "headline": "In Gun Bill Defeat, a President’s Distaste for Twisting Arms",
+      "snippet": "The White House defended President Obama’s efforts on gun violence, but he has long struggled to master his relationship with Congress.",
+      "abstract": "The White House defended President Obama’s efforts on gun violence, but he has long struggled to master his relationship with Congress.",
+      "lead_paragraph": "WASHINGTON — Senator Mark Begich, Democrat of Alaska, asked President Obama’s administration for a little favor last month. Send your new interior secretary this spring to discuss a long-simmering dispute over construction of a road through a wildlife refuge, Mr. Begich asked in a letter. The administration said yes.",
+      "publication_date": "2013-04-23T01:26:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/23/us/politics/in-gun-bill-defeat-a-president-who-hesitates-to-twist-arms.html",
+      "byline": "By Michael D. Shear and Peter Baker"
+    },
+    {
+      "headline": "Stern Words, and a Pea-Size Punishment, for Google",
+      "snippet": "In the latest example of a meager fine for corporate wrongdoing, German regulators assessed Google $189,225 for violating privacy laws with its Street View project.",
+      "abstract": "In the latest example of a meager fine for corporate wrongdoing, German regulators assessed Google $189,225 for violating privacy laws with its Street View project.",
+      "lead_paragraph": "SAN FRANCISCO — Regulators in Germany, one of the most privacy-sensitive countries in the world, unleashed their wrath on Google on Monday for scooping up sensitive personal information in the Street View mapping project, and imposed the largest fine ever assessed by European regulators over a privacy violation. ",
+      "publication_date": "2013-04-23T01:27:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/04/23/business/global/stern-words-and-pea-size-punishment-for-google.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "In Tax Fight, Amazon Hands Baton to eBay",
+      "snippet": "EBay has taken up the fight against requiring Internet retailers to collect state sales tax wherever they ship, just as the issue is moving through Washington in earnest.",
+      "abstract": "EBay has taken up the fight against requiring Internet retailers to collect state sales tax wherever they ship, just as the issue is moving through Washington in earnest.",
+      "lead_paragraph": "Let’s rename it the eBay loophole.",
+      "publication_date": "2013-04-23T01:49:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/04/22/in-tax-fight-amazon-hands-baton-to-ebay/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "For Wounded, Daunting Cost; for Aid Fund, Tough Decisions",
+      "snippet": "Many of the people wounded in the Boston bombings could face staggering bills for care and rehabilitation, and compensation fund administrators must decide what to cover.",
+      "abstract": "Many of the people wounded in the Boston bombings could face staggering bills for care and rehabilitation, and compensation fund administrators must decide what to cover.",
+      "lead_paragraph": "WASHINGTON — For victims of the Boston Marathon bombings, the terrible physical cost may come with a daunting financial cost as well. ",
+      "publication_date": "2013-04-23T01:49:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/23/us/for-boston-victims-price-of-recovery-may-be-another-burden.html",
+      "byline": "By Abby Goodnough"
+    },
+    {
+      "headline": "Boston Suspects Are Seen as Self-Taught and Fueled by Web",
+      "snippet": "Investigators’ early portrait of the two brothers accused in the marathon bombings suggests they were driven by extremist Islamic beliefs and may have learned to build bombs on the Web.",
+      "abstract": "Investigators’ early portrait of the two brothers accused in the marathon bombings suggests they were driven by extremist Islamic beliefs and may have learned to build bombs on the Web.",
+      "lead_paragraph": "The portrait investigators have begun to piece together of the two brothers suspected of the Boston Marathon bombings suggests that they were motivated by extremist Islamic beliefs but were not acting with known terrorist groups — and that they may have learned to build bombs simply by logging onto the online English-language magazine of the affiliate of Al Qaeda in Yemen, law enforcement officials said Tuesday.",
+      "publication_date": "2013-04-23T15:17:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/04/24/us/boston-marathon-bombing-developments.html",
+      "byline": "By Michael Cooper, Michael S. Schmidt and Eric Schmitt"
+    }
+  ]
+}

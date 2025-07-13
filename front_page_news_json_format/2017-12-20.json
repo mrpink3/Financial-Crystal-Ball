@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-12-20",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Espionage Bills in Australia Stir Fears of Anti-Chinese Backlash",
+      "snippet": "Australia wants to curb Chinese government influence in its democracy, but Chinese-Australians worry the new legislation will unfairly single them out.",
+      "abstract": "Australia wants to curb Chinese government influence in its democracy, but Chinese-Australians worry the new legislation will unfairly single them out.",
+      "lead_paragraph": "SYDNEY, Australia — When Craig Chung, an up-and-coming Sydney city councilor, meets with former officials from the United States, neither the media nor his constituents seem to care.",
+      "publication_date": "2017-12-19T18:07:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/19/world/australia/australia-china-backlash-influence.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "How the Winklevoss Twins Found Vindication in a Bitcoin Fortune",
+      "snippet": "The virtual currency stockpile that Cameron and Tyler Winklevoss began amassing in 2012 is now worth around $1.65 billion. They have no plans to sell.",
+      "abstract": "The virtual currency stockpile that Cameron and Tyler Winklevoss began amassing in 2012 is now worth around $1.65 billion. They have no plans to sell.",
+      "lead_paragraph": "The Winklevoss twins have carved an unorthodox path toward fame in the American business world.",
+      "publication_date": "2017-12-19T18:16:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/19/technology/bitcoin-winklevoss-twins.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "How Republicans Rallied Together to Deliver a Tax Plan",
+      "snippet": "The rushed timeline of the bill resulted from the failure of health care legislation over the summer — and a collective decision to block out bad news.",
+      "abstract": "The rushed timeline of the bill resulted from the failure of health care legislation over the summer — and a collective decision to block out bad news.",
+      "lead_paragraph": "WASHINGTON — The sting of failure on health care still lingered in the Senate on Aug. 3, when Mitch McConnell, the majority leader, summoned the Republican members of the Budget Committee to his office. We need to pass a tax bill this fall, Mr. McConnell told his colleagues, and we need a budget that allows us to do that.",
+      "publication_date": "2017-12-20T01:42:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/19/us/politics/republican-tax-bill.html",
+      "byline": "By Jim Tankersley and Alan Rappeport"
+    },
+    {
+      "headline": "Uber Dealt Setback After European Court Rules It Is a Taxi Service",
+      "snippet": "The ruling by the European Court of Justice means the company must comply with tough rules governing traditional taxi associations in the region.",
+      "abstract": "The ruling by the European Court of Justice means the company must comply with tough rules governing traditional taxi associations in the region.",
+      "lead_paragraph": "The European Union’s highest court on Wednesday declared that Uber was a transportation business, not just a technology platform, another blow to a company already grappling with scandals and regulatory setbacks.",
+      "publication_date": "2017-12-20T08:42:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/20/business/uber-europe-ecj.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "In Protests of Net Neutrality Repeal, Teenage Voices Stood Out",
+      "snippet": "Young people who have grown up knowing only an open internet organized rallies, streamed the F.C.C. vote in class — and say they plan to keep fighting.",
+      "abstract": "Young people who have grown up knowing only an open internet organized rallies, streamed the F.C.C. vote in class — and say they plan to keep fighting.",
+      "lead_paragraph": "WASHINGTON — When Anooha Dasari, 16, heard the federal government was about to kill rules that guaranteed an open internet, she contacted her United States representatives for the first time, asking them to stop the action.",
+      "publication_date": "2017-12-20T10:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/20/technology/net-neutrality-repeal-teens.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "What the Tax Bill Fails to Address: Technology’s Tsunami",
+      "snippet": "Technology is changing everything about how Americans work, but the industry is left largely unscathed by the Republican tax bill that Congress took up this week.",
+      "abstract": "Technology is changing everything about how Americans work, but the industry is left largely unscathed by the Republican tax bill that Congress took up this week.",
+      "lead_paragraph": "Let’s pretend you have just been picked to run a small island nation. Congratulations!",
+      "publication_date": "2017-12-20T15:15:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/20/technology/tax-bill-technology.html",
+      "byline": "By Farhad Manjoo"
+    }
+  ]
+}

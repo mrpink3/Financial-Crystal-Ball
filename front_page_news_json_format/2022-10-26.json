@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-10-26",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Amid Backlash, Liberal House Democrats Retract Call to Pursue Ukraine Ceasefire",
+      "snippet": "One day after issuing a letter urging President Biden to seek direct diplomatic talks with Russia, progressives withdrew that appeal. The move reflected deepening divisions over the conflict.",
+      "abstract": "One day after issuing a letter urging President Biden to seek direct diplomatic talks with Russia, progressives withdrew that appeal. The move reflected deepening divisions over the conflict.",
+      "lead_paragraph": "WASHINGTON — Progressive House Democrats on Tuesday retracted their call for President Biden to engage in direct diplomatic talks with Russia over a Ukraine cease-fire, an abrupt retreat that exposed Democratic divisions and the first public hints of dissent in Congress over the war.",
+      "publication_date": "2022-10-25T18:19:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/25/world/europe/democrats-biden-ukraine.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Sunak Faces Political Test of His Career: Unify Party and Fix the Economy",
+      "snippet": "The Conservative Party is fractured and Britain’s public finances are battered. That will test the political skills of a leader who has been involved in national politics for only seven years.",
+      "abstract": "The Conservative Party is fractured and Britain’s public finances are battered. That will test the political skills of a leader who has been involved in national politics for only seven years.",
+      "lead_paragraph": "LONDON — Rishi Sunak took over as Britain’s prime minister on Tuesday, the third in seven weeks, hoping to slow the revolving door at 10 Downing Street and restore stability to a government in turmoil.",
+      "publication_date": "2022-10-25T21:20:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-uk-economy-politics.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "U.S. Officials Had a Secret Oil Deal With the Saudis. Or So They Thought.",
+      "snippet": "After Saudi leaders pushed to slash oil production despite a visit by President Biden, American officials have been left fuming that they were duped.",
+      "abstract": "After Saudi leaders pushed to slash oil production despite a visit by President Biden, American officials have been left fuming that they were duped.",
+      "lead_paragraph": "WASHINGTON — As President Biden was planning a politically risky trip to Saudi Arabia this summer, his top aides thought they had struck a secret deal to boost oil production through the end of the year — an arrangement that could have helped justify breaking a campaign pledge to shun the kingdom and its crown prince.",
+      "publication_date": "2022-10-25T22:55:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html",
+      "byline": "By Mark Mazzetti, Edward Wong and Adam Entous"
+    },
+    {
+      "headline": "Elon Musk Seems to Answer to No One. Except for a Judge in Delaware.",
+      "snippet": "Kathaleen St. J. McCormick, the chief judge of Delaware’s Chancery Court, gave Mr. Musk until Friday to acquire Twitter. She is also judging at least one other case involving the billionaire.",
+      "abstract": "Kathaleen St. J. McCormick, the chief judge of Delaware’s Chancery Court, gave Mr. Musk until Friday to acquire Twitter. She is also judging at least one other case involving the billionaire.",
+      "lead_paragraph": "Chancellor Kathaleen St. J. McCormick has become a very important person in the rambunctious life of Elon Musk.",
+      "publication_date": "2022-10-26T07:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/26/technology/musk-twitter-delaware-judge-mccormick.html",
+      "byline": "By Lauren Hirsch"
+    },
+    {
+      "headline": "How Elon Musk Became a Geopolitical Chaos Agent",
+      "snippet": "The world’s richest man has inserted himself in some of the world’s most combustible conflicts.",
+      "abstract": "The world’s richest man has inserted himself in some of the world’s most combustible conflicts.",
+      "lead_paragraph": "Elon Musk closes his purchase of Twitter and fires several top executives. Follow for the latest news updates.",
+      "publication_date": "2022-10-26T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/26/technology/elon-musk-geopolitics-china-ukraine.html",
+      "byline": "By Cade Metz, Adam Satariano and Chang Che"
+    },
+    {
+      "headline": "Airlines Need New Planes, but the Supply Chain Has Other Ideas",
+      "snippet": "Supply chain problems hamper Boeing and Airbus as they try to fulfill a spate of orders from carriers seeking to expand and rejuvenate their fleets.",
+      "abstract": "Supply chain problems hamper Boeing and Airbus as they try to fulfill a spate of orders from carriers seeking to expand and rejuvenate their fleets.",
+      "lead_paragraph": "Airlines are desperate to get more planes to meet insatiable and growing travel demand, but the two major plane manufacturers, Boeing and Airbus, are struggling to keep up.",
+      "publication_date": "2022-10-26T12:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/26/business/boeing-alaska-airlines.html",
+      "byline": "By Niraj Chokshi"
+    }
+  ]
+}

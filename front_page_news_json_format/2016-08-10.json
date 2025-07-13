@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2016-08-10",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Chinese Tech Firms Forced to Choose Market: Home or Everywhere Else",
+      "snippet": "The internet filters that keep foreign companies out have created an environment that pens China’s tech firms inside their home country.",
+      "abstract": "The internet filters that keep foreign companies out have created an environment that pens China’s tech firms inside their home country.",
+      "lead_paragraph": "HONG KONG — For teenagers who like to sing along with Ariana Grande and Flo Rida, Musical.ly is a must-have. The app that lets users lip-sync and dance in their own music videos boasts 100 million users and partners with pop stars like Ms. Grande and Meghan Trainor.",
+      "publication_date": "2016-08-09T20:10:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/10/technology/china-homegrown-internet-companies-rest-of-the-world.html",
+      "byline": "By Paul Mozur"
+    },
+    {
+      "headline": "Donald Trump Suggests ‘Second Amendment People’ Could Act Against Hillary Clinton",
+      "snippet": "Mr. Trump, in emphasizing gun issues and the Supreme Court during a speech, issued what some saw as a threat to Mrs. Clinton.",
+      "abstract": "Mr. Trump, in emphasizing gun issues and the Supreme Court during a speech, issued what some saw as a threat to Mrs. Clinton.",
+      "lead_paragraph": "WILMINGTON, N.C. — Donald J. Trump on Tuesday appeared to raise the possibility that gun rights supporters could take matters into their own hands if Hillary Clinton is elected president and appoints judges who favor stricter gun control measures.",
+      "publication_date": "2016-08-09T20:29:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/10/us/politics/donald-trump-hillary-clinton.html",
+      "byline": "By Nick Corasaniti and Maggie Haberman"
+    },
+    {
+      "headline": "Justice Department to Release Blistering Report of Racial Bias by Baltimore Police",
+      "snippet": "Investigators found that African-American residents were often stopped or arrested without legal justification.",
+      "abstract": "Investigators found that African-American residents were often stopped or arrested without legal justification.",
+      "lead_paragraph": "The Justice Department has found that the Baltimore Police Department for years has hounded black residents who make up most of the city’s population, systematically stopping, searching and arresting them, often with little provocation or rationale.",
+      "publication_date": "2016-08-09T21:39:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/10/us/justice-department-to-release-blistering-report-of-racial-bias-by-baltimore-police.html",
+      "byline": "By Richard A. Oppel Jr., Sheryl Gay Stolberg and Matt Apuzzo"
+    },
+    {
+      "headline": "Jefferies, Free of the Restraints of Bigger Banks, Is Emboldened",
+      "snippet": "Jefferies has an appetite for risk and a set of relationships to rival bigger Wall Street firms.",
+      "abstract": "Jefferies has an appetite for risk and a set of relationships to rival bigger Wall Street firms.",
+      "lead_paragraph": "When the activist investor Carl C. Icahn bought 15 percent of the organic and natural products maker Hain Celestial in 2010, the company’s chief turned for advice to Mr. Icahn’s own Wall Street banker, Richard Handler, the chief executive of the investment bank Jefferies.",
+      "publication_date": "2016-08-09T23:37:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/10/business/dealbook/jefferies-free-of-the-restraints-of-bigger-banks-is-emboldened.html",
+      "byline": "By Randall Smith"
+    },
+    {
+      "headline": "Donald Trump’s Support Among Republican Women Starts to Slide",
+      "snippet": "Many women are abandoning decades of party loyalty, calling Mr. Trump emotionally unfit for the presidency and a menace to national security.",
+      "abstract": "Many women are abandoning decades of party loyalty, calling Mr. Trump emotionally unfit for the presidency and a menace to national security.",
+      "lead_paragraph": "Of all the tribulations facing Donald J. Trump, perhaps none is stirring as much anxiety inside his campaign as the precipitous decline of support from Republican women, an electoral cornerstone for the party’s past nominees that is starting to crumble.",
+      "publication_date": "2016-08-10T01:01:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/10/us/politics/donald-trump-gop-women.html",
+      "byline": "By Michael Barbaro and Amy Chozick"
+    },
+    {
+      "headline": "The Fire That Shaped London",
+      "snippet": "The Museum of London is commemorating the 350th anniversary of the Great Fire with an exhibition that traces the fire and how it determined the city’s future.",
+      "abstract": "The Museum of London is commemorating the 350th anniversary of the Great Fire with an exhibition that traces the fire and how it determined the city’s future.",
+      "lead_paragraph": "LONDON — In the early hours of Sept. 2, 1666, a small fire broke out in a London bakery owned by Thomas Farriner. Stoked by easterly winds, the blaze engulfed timber-framed houses and warehouses stocked with brandy, wine and oil. By the time it was extinguished four days later, about 13,000 buildings had been destroyed — including the 500-year-old St. Paul’s Cathedral — and nearly 80 percent of the ancient city of London had been wiped out. As many as 100,000 people were left homeless.",
+      "publication_date": "2016-08-10T08:37:35+0000",
+      "section_name": "Arts",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2016/08/10/arts/international/the-great-fire-and-the-rebirth-of-london.html",
+      "byline": "By Farah Nayeri"
+    },
+    {
+      "headline": "Think Amazon’s Drone Delivery Idea Is a Gimmick? Think Again",
+      "snippet": "Amazon doesn’t reveal much, but a little sleuthing suggests that drones may be central to the online retailer’s long-term strategy.",
+      "abstract": "Amazon doesn’t reveal much, but a little sleuthing suggests that drones may be central to the online retailer’s long-term strategy.",
+      "lead_paragraph": "Amazon is the most obscure large company in the tech industry.",
+      "publication_date": "2016-08-10T09:00:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/08/11/technology/think-amazons-drone-delivery-idea-is-a-gimmick-think-again.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "‘A Fire Happened in the Newborn Unit, and Your Baby Died’",
+      "snippet": "It took more than an hour for firefighters to arrive at Baghdad’s Yarmouk hospital. No one could find keys to the nursery. None of the fire extinguishers worked.",
+      "abstract": "It took more than an hour for firefighters to arrive at Baghdad’s Yarmouk hospital. No one could find keys to the nursery. None of the fire extinguishers worked.",
+      "lead_paragraph": "BAGHDAD — If there were one safe place in Iraq, it should be a hospital nursery, locked down for the night with dozens of babies nestled inside.",
+      "publication_date": "2016-08-10T09:16:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/08/11/world/middleeast/baghdad-hospital-fire.html",
+      "byline": "By Falih Hassan, Omar Al-Jawoshy and Tim Arango"
+    }
+  ]
+}

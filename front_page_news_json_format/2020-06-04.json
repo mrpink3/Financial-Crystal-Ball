@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-06-04",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Snap Says It Will No Longer Promote Trump’s Account",
+      "snippet": "The social media company’s decision follows Twitter’s moves to label Mr. Trump’s posts inaccurate or as inciting violence.",
+      "abstract": "The social media company’s decision follows Twitter’s moves to label Mr. Trump’s posts inaccurate or as inciting violence.",
+      "lead_paragraph": "WASHINGTON — Snap said on Wednesday that it had stopped promoting the Snapchat account of President Trump after determining that his public comments off the site could incite violence, in another hardened stance by a social media company against the president.",
+      "publication_date": "2020-06-03T16:31:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/03/technology/snapchat-trump.html",
+      "byline": "By Cecilia Kang and Kate Conger"
+    },
+    {
+      "headline": "Former U.A.W. President Gary Jones Pleads Guilty",
+      "snippet": "Mr. Jones, who was accused of embezzling $1 million, will cooperate with federal prosecutors who have been investigating corruption at the autoworkers union.",
+      "abstract": "Mr. Jones, who was accused of embezzling $1 million, will cooperate with federal prosecutors who have been investigating corruption at the autoworkers union.",
+      "lead_paragraph": "The former president of the United Auto Workers Union, Gary Jones, on Wednesday pleaded guilty to embezzling union funds, becoming the highest-ranking union official to admit wrongdoing in a wide-ranging federal investigation that has involved more than a dozen senior union officials and at least three executives from Fiat Chrysler.",
+      "publication_date": "2020-06-03T18:45:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/03/business/gary-jones-uaw-pleads-guilty.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Fed Expands Municipal Bond Program, Opening Door to Some Smaller Cities",
+      "snippet": "At least two cities or counties in every state will be able to issue to the central bank’s program, meant to help municipal bond markets.",
+      "abstract": "At least two cities or counties in every state will be able to issue to the central bank’s program, meant to help municipal bond markets.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve said on Wednesday that it would allow states to designate some cities, counties and other debt issuers, like mass transit systems, to raise funds by selling debt to the central bank’s municipal bond-buying program.",
+      "publication_date": "2020-06-03T20:59:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/03/business/economy/fed-expands-municipal-bond-program.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Trump Campaign Looks at Electoral Map and Doesn’t Like What It Sees",
+      "snippet": "As polls show President Trump significantly trailing his rival, Joseph R. Biden Jr., his campaign is spending heavily in states, like Ohio, that it had hoped would not be competitive at all this year.",
+      "abstract": "As polls show President Trump significantly trailing his rival, Joseph R. Biden Jr., his campaign is spending heavily in states, like Ohio, that it had hoped would not be competitive at all this year.",
+      "lead_paragraph": "[Read our 2020 presidential election electoral college explainer.]",
+      "publication_date": "2020-06-03T23:29:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/03/us/politics/trump-campaign-virus-protests-polls.html",
+      "byline": "By Alexander Burns and Maggie Haberman"
+    },
+    {
+      "headline": "Esper Breaks With Trump on Using Troops Against Protesters",
+      "snippet": "Mark Esper’s comments reflected the turmoil within the military over President Trump, who has said he could put active-duty troops on the streets to perform law enforcement functions.",
+      "abstract": "Mark Esper’s comments reflected the turmoil within the military over President Trump, who has said he could put active-duty troops on the streets to perform law enforcement functions.",
+      "lead_paragraph": "WASHINGTON — Defense Secretary Mark T. Esper broke with President Trump on Wednesday and said that active-duty military troops should not be sent to control the wave of protests in American cities, at least for now. His words were at odds with his commander in chief, who on Monday threatened to do exactly that.",
+      "publication_date": "2020-06-04T00:11:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/03/us/politics/esper-milley-trump-protest.html",
+      "byline": "By Eric Schmitt, Helene Cooper, Thomas Gibbons-Neff and Maggie Haberman"
+    },
+    {
+      "headline": "New Charges for Former Minneapolis Police Officers as Protests Persist",
+      "snippet": "The former officer who held his knee on George Floyd’s neck was charged with second-degree murder. Three other officers now face charges as well.",
+      "abstract": "The former officer who held his knee on George Floyd’s neck was charged with second-degree murder. Three other officers now face charges as well.",
+      "lead_paragraph": "ST. PAUL, Minn. — The three Minneapolis police officers who failed to intervene while George Floyd was killed were charged on Wednesday with aiding in his death, and officials pressed a more severe charge against Derek Chauvin, the officer who pinned Mr. Floyd to the ground with a knee for nearly nine minutes while he pleaded, “I can’t breathe.”",
+      "publication_date": "2020-06-04T01:39:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/03/us/george-floyd-officers-charged.html",
+      "byline": "By John Eligon, Richard A. Oppel Jr. and Sarah Mervosh"
+    },
+    {
+      "headline": "Workers Fearful of the Coronavirus Are Getting Fired and Losing Their Benefits",
+      "snippet": "Thousands who refuse to return to work are being reported to the state to have their unemployment benefits potentially revoked.",
+      "abstract": "Thousands who refuse to return to work are being reported to the state to have their unemployment benefits potentially revoked.",
+      "lead_paragraph": "DENVER — After scraping by for weeks on unemployment checks and peanut butter sandwiches, Jake Lyon recently received the call that many who temporarily lost their jobs because of the coronavirus pandemic have anticipated: The college-town tea shop where he worked was reopening, and it was time to go back.",
+      "publication_date": "2020-06-04T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/04/us/virus-unemployment-fired.html",
+      "byline": "By Jack Healy"
+    },
+    {
+      "headline": "Economic Strain Persists Even as Businesses Reopen",
+      "snippet": "State jobless rolls increased last week as some workers were newly laid off and others belatedly started to receive benefits.",
+      "abstract": "State jobless rolls increased last week as some workers were newly laid off and others belatedly started to receive benefits.",
+      "lead_paragraph": "Employers continue to lay workers off while states struggle through a backlog of unemployment claims, a sign of the persistent strain the economy faces from the coronavirus pandemic even as businesses begin to reopen.",
+      "publication_date": "2020-06-04T13:35:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/04/business/economy/coronavirus-unemployment-claims.html",
+      "byline": "By Tiffany Hsu and Nelson D. Schwartz"
+    },
+    {
+      "headline": "Officers Charged in George Floyd’s Death Not Likely to Present United Front",
+      "snippet": "Facing decades in prison and a bail of at least $750,000, two former Minneapolis officers blamed Derek Chauvin, and a third has cooperated with investigators, their lawyers said.",
+      "abstract": "Facing decades in prison and a bail of at least $750,000, two former Minneapolis officers blamed Derek Chauvin, and a third has cooperated with investigators, their lawyers said.",
+      "lead_paragraph": "MINNEAPOLIS — Two of the former police officers charged with aiding and abetting in the killing of George Floyd turned on the senior officer accused in the case, making for an extraordinary court appearance on Thursday afternoon. A third officer was cooperating with the authorities, a sign that the four fired officers would not be presenting a united front.",
+      "publication_date": "2020-06-04T14:43:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/04/us/george-floyd-police-records-chauvin.html",
+      "byline": "By Kim Barker, John Eligon, Richard A. Oppel Jr. and Matt Furber"
+    }
+  ]
+}

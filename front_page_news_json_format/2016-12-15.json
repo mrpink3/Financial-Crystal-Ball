@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2016-12-15",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Fed Raises Key Interest Rate, Citing Strengthening Economy",
+      "snippet": "The increase was only the second since the financial crisis, and the central bank gave little indication that Donald J. Trump’s election altered its outlook.",
+      "abstract": "The increase was only the second since the financial crisis, and the central bank gave little indication that Donald J. Trump’s election altered its outlook.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve raised its benchmark interest rate Wednesday for just the second time since the financial crisis of 2008, saying the American economy is expanding at a healthy pace and setting itself up as a counterweight to President-elect Donald J. Trump’s push for considerably faster growth.",
+      "publication_date": "2016-12-14T19:10:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/14/business/economy/fed-interest-rates-janet-yellen.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Yahoo Says 1 Billion User Accounts Were Hacked",
+      "snippet": "The company says the attack was separate from the breach that led to an earlier disclosure that 500 million accounts were hacked.",
+      "abstract": "The company says the attack was separate from the breach that led to an earlier disclosure that 500 million accounts were hacked.",
+      "lead_paragraph": "SAN FRANCISCO — Yahoo, already reeling from its September disclosure that 500 million user accounts had been hacked in 2014, disclosed Wednesday that a different attack in 2013 compromised more than 1 billion accounts.",
+      "publication_date": "2016-12-14T22:24:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/14/technology/yahoo-hack.html",
+      "byline": "By Vindu Goel and Nicole Perlroth"
+    },
+    {
+      "headline": "Investors Sharpen Focus on Social and Environmental Risks to Stocks",
+      "snippet": "MSCI’s social index business grows as big pensions and other investors pour money into funds that focus on more than just corporate balance sheets.",
+      "abstract": "MSCI’s social index business grows as big pensions and other investors pour money into funds that focus on more than just corporate balance sheets.",
+      "lead_paragraph": "Pfizer stock was riding high in June 2015, up 128 percent in five years, making it the second-most valuable American drug maker. Nine out of 10 Wall Street research analysts recommended that investors hold it in their portfolio, if not buy more.",
+      "publication_date": "2016-12-15T01:15:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/14/business/dealbook/investors-social-environmental-corporate-governance.html",
+      "byline": "By Randall Smith"
+    },
+    {
+      "headline": "China’s Meitu, an Aspirational Beauty App, Goes Public",
+      "snippet": "The popular software gives users power to lighten their skin and reshape their faces — a definition of beauty that may not work in other places.",
+      "abstract": "The popular software gives users power to lighten their skin and reshape their faces — a definition of beauty that may not work in other places.",
+      "lead_paragraph": "HONG KONG — Your phone can make your face whiter. A touch can taper your jaw. It can slim your cheeks. Widen your eyes. Of course, it can make you thinner.",
+      "publication_date": "2016-12-15T04:10:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/14/business/dealbook/meitu-beauty-app-ipo.html",
+      "byline": "By Amie Tsang and Emily Feng"
+    },
+    {
+      "headline": "Heat, Hunger and War Force Africans Onto a ‘Road on Fire’",
+      "snippet": "The men and boys on the migrant trail out of countries like Niger and Mali say fickle rains and hotter days leave them no option but to risk their lives to gain a livelihood.",
+      "abstract": "The men and boys on the migrant trail out of countries like Niger and Mali say fickle rains and hotter days leave them no option but to risk their lives to gain a livelihood.",
+      "lead_paragraph": "The men and boys on the migrant trail out of countries like Niger and Mali say fickle rains and hotter days leave them no option but to risk their lives to gain a livelihood.",
+      "publication_date": "2016-12-15T10:29:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2016/12/15/world/africa/agadez-climate-change.html",
+      "byline": "Text by Somini Sengupta"
+    }
+  ]
+}

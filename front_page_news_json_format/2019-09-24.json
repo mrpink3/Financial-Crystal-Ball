@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2019-09-24",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "The Fed May Have Shrunk Its Balance Sheet Too Much. Does It Matter?",
+      "snippet": "President Trump blasted the process as too aggressive. Markets may have proved him right — though not for the reasons he laid out.",
+      "abstract": "President Trump blasted the process as too aggressive. Markets may have proved him right — though not for the reasons he laid out.",
+      "lead_paragraph": "President Trump spent nearly a year insisting that the Federal Reserve should stop shrinking the vast holdings of government-backed securities on its balance sheet, arguing that the process was reining in the United States economy.",
+      "publication_date": "2019-09-23T16:24:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/23/business/economy/fed-balance-sheet-cash-reserves-powell-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Trump Said to Have Frozen Aid to Ukraine Before Call With Its Leader",
+      "snippet": "The revelation came as leading congressional Democrats demanded that the administration turn over documentation about the matter and calls for impeachment grew.",
+      "abstract": "The revelation came as leading congressional Democrats demanded that the administration turn over documentation about the matter and calls for impeachment grew.",
+      "lead_paragraph": "President Trump personally ordered his staff to freeze more than $391 million in aid to Ukraine in the days before he pressed the new Ukrainian president to investigate the Democrats’ leading presidential candidate, two senior administration officials said Monday.",
+      "publication_date": "2019-09-23T18:26:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/23/us/politics/trump-un-biden-ukraine.html",
+      "byline": "By Maggie Haberman, Nicholas Fandos, Michael Crowley and Kenneth P. Vogel"
+    },
+    {
+      "headline": "Can Someone Be Fired for Being Gay? The Supreme Court Will Decide",
+      "snippet": "Gerald Bostock said he lost his job after joining a gay softball league. The justices will decide whether a landmark civil rights law protects him.",
+      "abstract": "Gerald Bostock said he lost his job after joining a gay softball league. The justices will decide whether a landmark civil rights law protects him.",
+      "lead_paragraph": "ATLANTA — The Supreme Court has delivered a remarkable series of victories to the gay rights movement over the last two decades, culminating in a ruling that established a constitutional right to same-sex marriage. But in more than half the states, someone can still be fired for being gay.",
+      "publication_date": "2019-09-23T23:32:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/23/us/politics/supreme-court-fired-gay.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Instead of ‘No Collusion!’ Trump Now Seems to Be Saying, So What if I Did?",
+      "snippet": "President Trump’s appeal to a foreign power for dirt on former Vice President Joseph R. Biden Jr. is an astonishing breach of the norms governing the American presidency.",
+      "abstract": "President Trump’s appeal to a foreign power for dirt on former Vice President Joseph R. Biden Jr. is an astonishing breach of the norms governing the American presidency.",
+      "lead_paragraph": "WASHINGTON — The last time he was accused of collaborating with a foreign power to influence an election, he denied it and traveled the country practically chanting, “No collusion!” This time, he is saying, in effect, so what if I did?",
+      "publication_date": "2019-09-23T23:59:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/23/us/politics/trump-ukraine-collusion.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "When Mac & Cheese and Ketchup Don’t Mix: The Kraft Heinz Merger Falters",
+      "snippet": "The company behind brands like a famous ketchup and Oscar Mayer meats is dealing with slumping sales, shareholder lawsuits, layoffs and questions about its accounting practices.",
+      "abstract": "The company behind brands like a famous ketchup and Oscar Mayer meats is dealing with slumping sales, shareholder lawsuits, layoffs and questions about its accounting practices.",
+      "lead_paragraph": "The 2015 merger between Kraft and Heinz created one of the largest food companies in the world. It had $28 billion in combined annual revenues and controlled dozens of food and beverage brands that for generations were staples of American households, including Heinz ketchup, Kraft cheese, Oscar Mayer meats and Planters nuts.",
+      "publication_date": "2019-09-24T07:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/24/business/kraft-heinz-food-3g-capital-management.html",
+      "byline": "By Julie Creswell and David Yaffe-Bellany"
+    },
+    {
+      "headline": "‘Right to Be Forgotten’ Privacy Rule Is Limited by Europe’s Top Court",
+      "snippet": "The European Court of Justice said the landmark privacy law cannot be enforced beyond the European Union.",
+      "abstract": "The European Court of Justice said the landmark privacy law cannot be enforced beyond the European Union.",
+      "lead_paragraph": "LONDON — Europe’s highest court limited the reach of the landmark online privacy law known as “right to be forgotten” on Tuesday, restricting people’s ability to control what information is available about them on the internet.",
+      "publication_date": "2019-09-24T08:47:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/24/technology/europe-google-right-to-be-forgotten.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Sleep Therapy for the Masses May Be Coming to You Soon",
+      "snippet": "CVS Health is encouraging employers to provide a sleep app that could help push digital therapeutics into the mainstream.",
+      "abstract": "CVS Health is encouraging employers to provide a sleep app that could help push digital therapeutics into the mainstream.",
+      "lead_paragraph": "CVS Health wants to help millions of American workers improve their sleep. So for the first time, the big pharmacy benefits manager is offering a purely digital therapy as a possible employee benefit.",
+      "publication_date": "2019-09-24T09:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/24/technology/cvs-health-insomnia-app.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Brexit Turmoil Intensifies as Court Rebukes Boris Johnson",
+      "snippet": "In a major blow to the prime minister, the court ruled unanimously that Parliament is still in session, whatever Mr. Johnson might think.",
+      "abstract": "In a major blow to the prime minister, the court ruled unanimously that Parliament is still in session, whatever Mr. Johnson might think.",
+      "lead_paragraph": "LONDON — Britain’s highest court, in an extraordinary rebuke that deepened the country’s convulsive debate over Brexit, ruled on Tuesday that Prime Minister Boris Johnson had acted unlawfully when he suspended Parliament in his unyielding drive to pull Britain out of the European Union.",
+      "publication_date": "2019-09-24T09:46:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/24/world/europe/uk-supreme-court-brexit.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "VW Executives and Ex-C.E.O. Are Charged With Market Manipulation",
+      "snippet": "Volkswagen’s top two leaders were charged by German prosecutors with failing to inform investors of the U.S. investigation into emissions cheating.",
+      "abstract": "Volkswagen’s top two leaders were charged by German prosecutors with failing to inform investors of the U.S. investigation into emissions cheating.",
+      "lead_paragraph": "FRANKFURT — Volkswagen was supposed to turn the corner this year from the shadow of a costly diesel emissions scandal, with a new emphasis on electric vehicles, a new logo and a new commitment to ethical behavior.",
+      "publication_date": "2019-09-24T11:30:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/24/business/volkswagen-executives-market-manipulation.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Trump Makes Clear He’s Ready for a Fight He Has Long Anticipated",
+      "snippet": "Impeachment, he insists, will be “a positive for me.”",
+      "abstract": "Impeachment, he insists, will be “a positive for me.”",
+      "lead_paragraph": "He knew it was coming. It almost felt inevitable. No other president in American history has been seriously threatened with impeachment even before his inauguration. So when the announcement came on Tuesday that the House would consider charging him with high crimes and misdemeanors, President Trump made clear he was ready for a fight.",
+      "publication_date": "2019-09-24T14:20:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/24/us/politics/trump-un.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Nancy Pelosi Announces Formal Impeachment Inquiry of Trump",
+      "snippet": "Faced with new allegations against President Trump and administration stonewalling, Democrats have ended months of caution.",
+      "abstract": "Faced with new allegations against President Trump and administration stonewalling, Democrats have ended months of caution.",
+      "lead_paragraph": "WASHINGTON — Speaker Nancy Pelosi announced on Tuesday that the House would initiate a formal impeachment inquiry against President Trump, charging him with betraying his oath of office and the nation’s security by seeking to enlist a foreign power to tarnish a rival for his own political gain.",
+      "publication_date": "2019-09-24T14:56:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/24/us/politics/democrats-impeachment-trump.html",
+      "byline": "By Nicholas Fandos"
+    }
+  ]
+}

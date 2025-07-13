@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2015-02-17",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "2016 Ambitions Seen in Walker’s Push for University Cuts in Wisconsin",
+      "snippet": "Critics of Gov. Scott Walker say he is capitalizing on a view that is popular among conservatives like those in the Iowa caucuses: that state universities are elite bastions of liberal academics.",
+      "abstract": "Critics of Gov. Scott Walker say he is capitalizing on a view that is popular among conservatives like those in the Iowa caucuses: that state universities are elite bastions of liberal academics.",
+      "lead_paragraph": "MADISON, Wis. — Atop a steep hill on the University of Wisconsin campus is a granite boulder affixed with a bronze plaque honoring the university system’s lofty mission: to benefit the entire state by promoting public service and a search for truth.",
+      "publication_date": "2015-02-16T16:36:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/17/us/politics/scott-walker-university-wisconsin.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "U.S. Embedded Spyware Overseas, Report Claims",
+      "snippet": "A Russian firm said that the United States had found a way to permanently embed surveillance and sabotage tools in computers in nations like Iran, Russia, Pakistan and China.",
+      "abstract": "A Russian firm said that the United States had found a way to permanently embed surveillance and sabotage tools in computers in nations like Iran, Russia, Pakistan and China.",
+      "lead_paragraph": "SAN FRANCISCO — The United States has found a way to permanently embed surveillance and sabotage tools in computers and networks it has targeted in Iran, Russia, Pakistan, China, Afghanistan and other countries closely watched by American intelligence agencies, according to a Russian cybersecurity firm.",
+      "publication_date": "2015-02-16T21:50:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/17/technology/spyware-embedded-by-us-in-foreign-networks-security-firm-says.html",
+      "byline": "By Nicole Perlroth and David E. Sanger"
+    },
+    {
+      "headline": "Preet Bharara’s Wall St. Task Force Has a Shifting Roster of Lawyers",
+      "snippet": "Lawyers who have helped bring down big Wall Street targets are leaving public service for private law firms, but prosecutors say hungry talent is filling the gap.",
+      "abstract": "Lawyers who have helped bring down big Wall Street targets are leaving public service for private law firms, but prosecutors say hungry talent is filling the gap.",
+      "lead_paragraph": "They indicted the powerful hedge fund SAC Capital Advisors, cracked down on insider trading and sent Bernard L. Madoff’s accomplices to prison.",
+      "publication_date": "2015-02-16T23:42:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2015/02/16/preet-bhararas-wall-st-task-force-has-a-shifting-roster-of-lawyers/",
+      "byline": "By Ben Protess and Matthew Goldstein"
+    },
+    {
+      "headline": "Liberty Global, Becoming a Big Fish, Risks Attracting the Eye of a Shark",
+      "snippet": "After several acquisitions, the international cable and wireless operator is reported to be a takeover target.",
+      "abstract": "After several acquisitions, the international cable and wireless operator is reported to be a takeover target.",
+      "lead_paragraph": "With operations in more than a dozen countries and a market value topping $40 billion, Liberty Global, the international cable and wireless operator, is hardly a start-up. Assembled by the media mogul John C. Malone, its chairman, the company quietly exerts its influence across a vast portion of the European media business.",
+      "publication_date": "2015-02-17T00:00:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2015/02/16/liberty-global-becoming-a-big-fish-risks-attracting-the-eye-of-a-shark/",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Killing in Washington State Offers ‘Ferguson’ Moment for Hispanics",
+      "snippet": "The shooting of a man who threw rocks at the police in Pasco, Wash., has led to comparisons to Ferguson, Mo., and drawn condemnation from the Mexican president and multiple investigations.",
+      "abstract": "The shooting of a man who threw rocks at the police in Pasco, Wash., has led to comparisons to Ferguson, Mo., and drawn condemnation from the Mexican president and multiple investigations.",
+      "lead_paragraph": "PASCO, Wash. — Members of the Zambrano family began arriving here three decades ago, picking apples in nearby orchards. Over time they have become part of the fabric of this harvesting town, growing to more than 50 and settling in tiny candy-colored homes, some ringed by white picket fences.",
+      "publication_date": "2015-02-17T01:32:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/17/us/killing-in-washington-state-offers-ferguson-moment-for-hispanics.html",
+      "byline": "By Julie Turkewitz and Richard A. Oppel Jr"
+    },
+    {
+      "headline": "U.S. Intensifies Effort to Blunt ISIS’ Message",
+      "snippet": "A tiny State Department agency will be revamped and expanded to coordinate existing attempts to counter the Islamic State’s propaganda machine.",
+      "abstract": "A tiny State Department agency will be revamped and expanded to coordinate existing attempts to counter the Islamic State’s propaganda machine.",
+      "lead_paragraph": "WASHINGTON — The Obama administration is revamping its effort to counter the Islamic State’s propaganda machine, acknowledging that the terrorist group has been far more effective in attracting new recruits, financing and global notoriety than the United States and its allies have been in thwarting it.",
+      "publication_date": "2015-02-17T02:40:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/17/world/middleeast/us-intensifies-effort-to-blunt-isis-message.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Dealt Setback, Obama Puts Off Immigrant Plan",
+      "snippet": "President Obama vowed to appeal a federal judge’s decision to block his administration’s sweeping immigration plan.",
+      "abstract": "President Obama vowed to appeal a federal judge’s decision to block his administration’s sweeping immigration plan.",
+      "lead_paragraph": "WASHINGTON — One day before hundreds of thousands of undocumented immigrants were to begin applying for work permits and legal protection, administration officials on Tuesday postponed President Obama’s sweeping executive actions on immigration indefinitely, saying they had no choice but to comply with a federal judge’s last-minute order halting the programs.",
+      "publication_date": "2015-02-17T05:40:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/18/us/obama-immigration-policy-halted-by-federal-judge-in-texas.html",
+      "byline": "By Michael D. Shear and Julia Preston"
+    }
+  ]
+}

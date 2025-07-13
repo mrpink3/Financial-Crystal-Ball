@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-12-29",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Did You Miss Out on Vacation This Year? You’re Not Alone",
+      "snippet": "Employers are struggling to deal with the unused days that have piled up during the pandemic.",
+      "abstract": "Employers are struggling to deal with the unused days that have piled up during the pandemic.",
+      "lead_paragraph": "In a typical year, New York employees of the magazine publisher Condé Nast must use their vacation days before late December or lose them — a common policy across corporate America.",
+      "publication_date": "2020-12-28T20:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/28/business/economy/vacation-days.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Outside Trump’s Inner Circle, Odds Are Long for Getting Clemency",
+      "snippet": "President Trump has doled out pardons to friends and fellow Republicans. Thousands of others without connections have largely been left out.",
+      "abstract": "President Trump has doled out pardons to friends and fellow Republicans. Thousands of others without connections have largely been left out.",
+      "lead_paragraph": "Nichole M. Forde, a federal inmate serving 27 years in prison for trafficking crack cocaine from Chicago to Cedar Rapids, Iowa, saw the list of politicians and presidential pals who were granted clemency last week and lamented: What about people like me?",
+      "publication_date": "2020-12-28T20:37:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/us/pardons-trump.html",
+      "byline": "By Frances Robles"
+    },
+    {
+      "headline": "For Covid-19 Vaccines, Some Are Too Rich — and Too Poor",
+      "snippet": "Global inequality is shaping which countries get vaccines first. In South Africa, people’s best chance for vaccines anytime soon is to join an experimental trial.",
+      "abstract": "Global inequality is shaping which countries get vaccines first. In South Africa, people’s best chance for vaccines anytime soon is to join an experimental trial.",
+      "lead_paragraph": "",
+      "publication_date": "2020-12-28T20:56:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/world/africa/covid-19-vaccines-south-africa.html",
+      "byline": "By Matt Apuzzo, Selam Gebrekidan and Joao Silva"
+    },
+    {
+      "headline": "Trump’s Veto Threat Did Little to Alter Stimulus Package",
+      "snippet": "The president’s threat to scuttle a $900 billion relief package held workers in limbo, but did little to change the bill’s outcome.",
+      "abstract": "The president’s threat to scuttle a $900 billion relief package held workers in limbo, but did little to change the bill’s outcome.",
+      "lead_paragraph": "WASHINGTON — As an exercise in raw presidential power, it was a flop. As a political tactic, it backfired. And as a coda to his final weeks in office, President Trump’s threat to veto a $900 billion Covid relief and government funding bill merely underscored his tumultuous tenure in the Oval Office.",
+      "publication_date": "2020-12-28T23:16:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/us/politics/trump-veto-threat-stimulus-package.html",
+      "byline": "By Michael D. Shear and Catie Edmondson"
+    },
+    {
+      "headline": "A Tornado, a Pandemic and Now a Bombing: ‘Nashville Strong’ Is Tested",
+      "snippet": "In 2020, the city has weathered a tornado’s devastation and the rippling consequences of the coronavirus pandemic. Then, a bewildering and unsettling attack made a tough year tougher.",
+      "abstract": "In 2020, the city has weathered a tornado’s devastation and the rippling consequences of the coronavirus pandemic. Then, a bewildering and unsettling attack made a tough year tougher.",
+      "lead_paragraph": "NASHVILLE — Nashville did not need another test of its grit. Over the years, the city was strong after the Cumberland River surged beyond its banks, and it clawed its way back from tornadoes.",
+      "publication_date": "2020-12-29T00:34:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/us/nashville-bombing-tornado-pandemic.html",
+      "byline": "By Rick Rojas, Steve Cavendish and Jamie McGee"
+    },
+    {
+      "headline": "A Far-Right Terrorism Suspect With a Refugee Disguise: The Tale of Franco A.",
+      "snippet": "A German officer is facing trial on terrorism charges. At a volatile time for Western democracy, his story mirrors the story of Germany itself.",
+      "abstract": "A German officer is facing trial on terrorism charges. At a volatile time for Western democracy, his story mirrors the story of Germany itself.",
+      "lead_paragraph": "OFFENBACH, Germany — At the height of Europe’s migrant crisis, a bearded man in sweatpants walked into a police station. His pockets were empty except for an old cellphone and a few foreign coins.",
+      "publication_date": "2020-12-29T05:12:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/29/world/europe/germany-far-right-terrorism-refugee.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "What 2020 Was Like for People in the Retail Industry",
+      "snippet": "The industry employs millions, and the upheaval it experienced played out in the lives of many Americans.",
+      "abstract": "The industry employs millions, and the upheaval it experienced played out in the lives of many Americans.",
+      "lead_paragraph": "The retail industry was in the midst of a transformation before 2020. But the onset of the pandemic accelerated that change, fundamentally reordering how and where people shop, and rippling across the broader economy.",
+      "publication_date": "2020-12-29T10:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/29/business/retail-industry-2020-pandemic.html",
+      "byline": "By Sapna Maheshwari and Michael Corkery"
+    }
+  ]
+}

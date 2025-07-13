@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-02-03",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In Congo, a Pope and a Nation Revitalize Each Other",
+      "snippet": "Francis has been slowed by age. But his enthusiastic welcome in Africa has proved a shot in the arm and provided a reminder of the papacy’s global reach.",
+      "abstract": "Francis has been slowed by age. But his enthusiastic welcome in Africa has proved a shot in the arm and provided a reminder of the papacy’s global reach.",
+      "lead_paragraph": "KINSHASA, Democratic Republic of Congo — Pope Francis put down his prepared remarks and instructed the stadium packed with young Catholics in Congo to make clear their opposition to the corruption that had hobbled their country with a single, rousing voice.",
+      "publication_date": "2023-02-02T17:48:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/02/world/europe/pope-francis-congo.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Tech’s Biggest Companies Discover Austerity, to the Relief of Investors",
+      "snippet": "After years of expansion and billions in profits, Big Tech is pulling back from its famously lavish spending as a long boom finally ends.",
+      "abstract": "After years of expansion and billions in profits, Big Tech is pulling back from its famously lavish spending as a long boom finally ends.",
+      "lead_paragraph": "For much of last year, tech companies stumbled. Digital ad sales plunged. E-commerce sputtered. IPhone production stalled. And investors lost faith.",
+      "publication_date": "2023-02-03T00:07:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/02/technology/big-tech-earnings-austerity.html",
+      "byline": "By Tripp Mickle, Karen Weise and Nico Grant"
+    },
+    {
+      "headline": "Biden Aims to Deter China With Greater U.S. Military Presence in Philippines",
+      "snippet": "U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.",
+      "abstract": "U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.",
+      "lead_paragraph": "WASHINGTON — President Biden and his aides have tried to reassure Chinese leaders that they do not seek to contain China in the same way the Americans did with the Soviet Union during the Cold War.",
+      "publication_date": "2023-02-03T00:26:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/02/us/politics/us-china-philippines.html",
+      "byline": "By Edward Wong and Eric Schmitt"
+    },
+    {
+      "headline": "As Russia Strikes Ukrainian Civilians, Putin Tells His People the War Is Just",
+      "snippet": "Invoking World War II on the 80th anniversary of victory at Stalingrad, Mr. Putin repeated his false justifications for an invasion that has taken a staggering toll.",
+      "abstract": "Invoking World War II on the 80th anniversary of victory at Stalingrad, Mr. Putin repeated his false justifications for an invasion that has taken a staggering toll.",
+      "lead_paragraph": "KRAMATORSK, Ukraine — While Ukrainian rescue workers searched a bombed-out apartment building for survivors of a Russian attack, President Vladimir V. Putin sought to assure his citizens on Thursday, in a speech invoking his nation’s victory over Nazi Germany, that this was another virtuous war.",
+      "publication_date": "2023-02-03T00:32:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/02/world/europe/russia-ukraine-putin-stalingrad.html",
+      "byline": "By Michael Schwirtz and Anton Troianovski"
+    },
+    {
+      "headline": "How ChatGPT Kicked Off an A.I. Arms Race",
+      "snippet": "Even inside the company, the chatbot’s popularity has come as something of a shock.",
+      "abstract": "Even inside the company, the chatbot’s popularity has come as something of a shock.",
+      "lead_paragraph": "One day in mid-November, workers at OpenAI got an unexpected assignment: Release a chatbot, fast.",
+      "publication_date": "2023-02-03T10:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Why Chinese Companies Are Investing Billions in Mexico",
+      "snippet": "Alarmed by shipping chaos and geopolitical fractures, exporters from China are setting up factories in Mexico to preserve their sales to the United States.",
+      "abstract": "Alarmed by shipping chaos and geopolitical fractures, exporters from China are setting up factories in Mexico to preserve their sales to the United States.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2023-02-03T10:00:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/03/business/china-mexico-trade.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "The Powerful Lobbyist Behind Kevin McCarthy",
+      "snippet": "Jeff Miller is the new House speaker’s top fund-raiser and closest confidant. He is also one of Washington’s most prominent corporate lobbyists, an arrangement that is drawing scrutiny.",
+      "abstract": "Jeff Miller is the new House speaker’s top fund-raiser and closest confidant. He is also one of Washington’s most prominent corporate lobbyists, an arrangement that is drawing scrutiny.",
+      "lead_paragraph": "WASHINGTON — As he waged his messy campaign to become House speaker, Representative Kevin McCarthy turned to a longtime friend, Jeff Miller, to serve as a kind of field general.",
+      "publication_date": "2023-02-03T10:00:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/03/us/politics/jeff-miller-lobbyist-kevin-mccarthy.html",
+      "byline": "By Kenneth P. Vogel"
+    },
+    {
+      "headline": "January Jobs Report Contained Hopeful and Worrying News for the Fed",
+      "snippet": "The Federal Reserve is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.",
+      "abstract": "The Federal Reserve is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.",
+      "lead_paragraph": "WASHINGTON — Federal Reserve officials have said they are looking for the labor market to cool as they assess how much more they need to do to slow the economy, and the job report on Friday underscored that policymakers may still have a ways to go.",
+      "publication_date": "2023-02-03T10:01:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/03/business/economy/federal-reserve-jobs-jerome-powell.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "U.S. Hiring Surges With January Gain of 517,000 Jobs",
+      "snippet": "The report defied expectations and underscored the challenges for the Federal Reserve, which is trying to cool the labor market to fight inflation.",
+      "abstract": "The report defied expectations and underscored the challenges for the Federal Reserve, which is trying to cool the labor market to fight inflation.",
+      "lead_paragraph": "Soft landing? The American labor market is still soaring.",
+      "publication_date": "2023-02-03T10:04:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/03/business/economy/jobs-report-january-2023.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Furor Over Chinese Spy Balloon Leads to a Diplomatic Crisis",
+      "snippet": "The Pentagon called the object, which has flown from Montana to Kansas, an “intelligence gathering” balloon. Beijing said it was used mainly for weather research and had strayed off course.",
+      "abstract": "The Pentagon called the object, which has flown from Montana to Kansas, an “intelligence gathering” balloon. Beijing said it was used mainly for weather research and had strayed off course.",
+      "lead_paragraph": "Live updates: The U.S. has shot down the Chinese spy balloon.",
+      "publication_date": "2023-02-03T13:19:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/03/world/asia/china-spy-balloon.html",
+      "byline": "By Edward Wong, Helene Cooper and Chris Buckley"
+    }
+  ]
+}

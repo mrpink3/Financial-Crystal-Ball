@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-11-10",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Trump Fires Mark Esper, Defense Secretary Who Opposed Use of Troops on U.S. Streets",
+      "snippet": "Mr. Esper’s removal was quickly followed by speculation that the president was not finished: The F.B.I. director and the C.I.A. director could be next, according to administration officials.",
+      "abstract": "Mr. Esper’s removal was quickly followed by speculation that the president was not finished: The F.B.I. director and the C.I.A. director could be next, according to administration officials.",
+      "lead_paragraph": "WASHINGTON — President Trump fired Defense Secretary Mark T. Esper on Monday, upending the military’s leadership at a time when Mr. Trump’s refusal to concede the election has created a rocky and potentially precarious transition.",
+      "publication_date": "2020-11-09T18:00:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/09/us/politics/esper-defense-secretary.html",
+      "byline": "By Helene Cooper, Eric Schmitt and Maggie Haberman"
+    },
+    {
+      "headline": "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits",
+      "snippet": "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system.",
+      "abstract": "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system.",
+      "lead_paragraph": "Like many big law firms, Jones Day, whose roots go back to Cleveland in the late 1800s, has prided itself on representing controversial clients.",
+      "publication_date": "2020-11-09T22:48:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.html",
+      "byline": "By Jessica Silver-Greenberg, Rachel Abrams and David Enrich"
+    },
+    {
+      "headline": "A Collective Sigh of Relief Pushes the Stock Market Up",
+      "snippet": "News of Pfizer’s Covid-19 vaccine progress, and Joseph R. Biden Jr.’s victory, gave investors reason to cheer.",
+      "abstract": "News of Pfizer’s Covid-19 vaccine progress, and Joseph R. Biden Jr.’s victory, gave investors reason to cheer.",
+      "lead_paragraph": "Nothing drags down a market like uncertainty. So on Monday, as clarity emerged around two of the year’s most pressing concerns — the presidential election and the coronavirus — investors let out the equivalent of a street cheer and rushed to buy stocks, placing bullish bets on a return to normalcy.",
+      "publication_date": "2020-11-09T23:02:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/09/business/stock-market-vaccine-election.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Federal Reserve’s Emergency Loan Programs at Center of Political Fight",
+      "snippet": "Democrats are eyeing the programs as a backup option if they can’t strike a deal to aid states and localities, and believe they may be needed to backstop markets. Republicans want them off the table.",
+      "abstract": "Democrats are eyeing the programs as a backup option if they can’t strike a deal to aid states and localities, and believe they may be needed to backstop markets. Republicans want them off the table.",
+      "lead_paragraph": "WASHINGTON — A political fight is brewing over whether to extend critical programs that the Federal Reserve rolled out to help keep credit flowing to companies and municipalities amid the pandemic-induced recession.",
+      "publication_date": "2020-11-09T23:24:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/09/business/economy/federal-reserve-emergency-loans.html",
+      "byline": "By Jeanna Smialek and Alan Rappeport"
+    },
+    {
+      "headline": "Pandemic Reaches Grim Milestone as Biden Moves to Take Charge",
+      "snippet": "With average new infections totaling 111,000 per day, President-elect Joseph R. Biden Jr. is confronting a coronavirus pandemic that is surging out of control.",
+      "abstract": "With average new infections totaling 111,000 per day, President-elect Joseph R. Biden Jr. is confronting a coronavirus pandemic that is surging out of control.",
+      "lead_paragraph": "WILMINGTON, Del. — Coronavirus cases surged to a new record on Monday, with the United States now averaging 111,000 cases each day for the past week, a grim milestone amid rising hospitalizations and deaths that cast a shadow on positive news about the effectiveness of a potential vaccine.",
+      "publication_date": "2020-11-10T00:31:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/09/us/politics/coronavirus-pandemic-biden.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Republicans Back Trump’s Refusal to Concede, Declining to Recognize Biden",
+      "snippet": "Senator Mitch McConnell, the majority leader, slammed Democrats for expecting the president to quickly concede and said he had every right to pursue legal challenges.",
+      "abstract": "Senator Mitch McConnell, the majority leader, slammed Democrats for expecting the president to quickly concede and said he had every right to pursue legal challenges.",
+      "lead_paragraph": "Leading Republicans rallied on Monday around President Trump’s refusal to concede the election, declining to challenge the false narrative that it was stolen from him or to recognize President-elect Joseph R. Biden Jr.’s victory even as party divisions burst into public view.",
+      "publication_date": "2020-11-10T01:09:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/09/us/politics/republicans-trump-concede-2020-election.html",
+      "byline": "By Nicholas Fandos and Emily Cochrane"
+    },
+    {
+      "headline": "Biden Is Expected to Keep Scrutiny of Tech Front and Center",
+      "snippet": "Issues like antitrust and privacy would remain on the agenda as his administration pursued policies to limit the power of the industry’s giants.",
+      "abstract": "Issues like antitrust and privacy would remain on the agenda as his administration pursued policies to limit the power of the industry’s giants.",
+      "lead_paragraph": "WASHINGTON — The tech industry had it easy under President Barack Obama. Regulators brought no major charges, executives rotated in and out of the administration, and efforts to strengthen privacy laws fizzled out.",
+      "publication_date": "2020-11-10T10:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/10/technology/biden-tech-antitrust-privacy.html",
+      "byline": "By Cecilia Kang, David McCabe and Jack Nicas"
+    },
+    {
+      "headline": "Key Justices Signal Support for Affordable Care Act",
+      "snippet": "At a Supreme Court argument on Tuesday, Chief Justice Roberts and Justice Kavanaugh suggested that striking down one provision would not doom the balance of the law.",
+      "abstract": "At a Supreme Court argument on Tuesday, Chief Justice Roberts and Justice Kavanaugh suggested that striking down one provision would not doom the balance of the law.",
+      "lead_paragraph": "WASHINGTON — At least five Supreme Court justices, including two members of its conservative majority, indicated on Tuesday that they would reject attempts by Republicans and the Trump administration to kill the Affordable Care Act.",
+      "publication_date": "2020-11-10T10:00:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/10/us/supreme-court-obamacare-aca.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Vatican Report Places Blame for McCarrick’s Ascent on John Paul II",
+      "snippet": "In elevating Theodore E. McCarrick to the position of cardinal, the former pope disregarded warnings and believed the prelate’s denials about sexual abuse, an inquiry found.",
+      "abstract": "In elevating Theodore E. McCarrick to the position of cardinal, the former pope disregarded warnings and believed the prelate’s denials about sexual abuse, an inquiry found.",
+      "lead_paragraph": "VATICAN CITY — A highly anticipated Vatican report found on Tuesday that Pope John Paul II had rejected explicit warnings about sexual abuse by Theodore E. McCarrick, now a disgraced former cardinal, choosing to believe the American prelate’s denials and misleading accounts by bishops as he elevated him to the highest ranks of the church hierarchy.",
+      "publication_date": "2020-11-10T13:05:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/10/world/europe/theodore-mccarrick-vatican.html",
+      "byline": "By Jason Horowitz"
+    }
+  ]
+}

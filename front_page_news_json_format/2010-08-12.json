@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2010-08-12",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "U.S. Plans More Aid for Jobless Homeowners",
+      "snippet": "The aid, about $3 billion, comes against the backdrop of a weakening economy, high unemployment and a housing market destabilized by foreclosures.",
+      "abstract": "The aid, about $3 billion, comes against the backdrop of a weakening economy, high unemployment and a housing market destabilized by foreclosures.",
+      "lead_paragraph": "In an acknowledgment that the foreclosure crisis is far from over, the Obama administration on Wednesday pumped $3 billion into programs intended to stop the unemployed from losing their homes.",
+      "publication_date": "2010-08-11T17:01:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/12/business/12treasury.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "D.I.Y. Tool for Apps Needs Work",
+      "snippet": "The Android App Inventor from Google is intended to help nontechnical types create their own apps. An intrepid explorer plunges into do-it-yourself territory.",
+      "abstract": "The Android App Inventor from Google is intended to help nontechnical types create their own apps. An intrepid explorer plunges into do-it-yourself territory.",
+      "lead_paragraph": "The founding of the iPhone App Store set off an earthquake in the tech world. Suddenly, the humble cellphone could be just about anything  a game, a store, a musical instrument, a strobe, a pet, a database, a medical tool. A new portable-computing era was born, along with a thriving tech economy. ",
+      "publication_date": "2010-08-11T19:54:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/12/technology/personaltech/12pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Quick Change in Strategy for a Bookseller",
+      "snippet": "The strong growth of electronic books has altered the way consumers browse and buy books, forcing big bookstore chains to find new ways to attract shoppers.",
+      "abstract": "The strong growth of electronic books has altered the way consumers browse and buy books, forcing big bookstore chains to find new ways to attract shoppers.",
+      "lead_paragraph": "In the movie “You’ve Got Mail,” Tom Hanks played the aggressive big-box retailer Joe Fox driving the little bookshop owner played by Meg Ryan out of business. ",
+      "publication_date": "2010-08-11T22:56:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/12/business/media/12bookstore.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "Chinese Hospitals Are Battlegrounds of Discontent",
+      "snippet": "In 2006, patients or their relatives attacked more than 5,500 medical workers, reflecting wide discontent with China’s public health care system.",
+      "abstract": "In 2006, patients or their relatives attacked more than 5,500 medical workers, reflecting wide discontent with China’s public health care system.",
+      "lead_paragraph": "SHENYANG, China  Forget the calls by many Chinese patients for more honest, better-qualified doctors. What this city’s 27 public hospitals really needed, officials decided last month, was police officers.",
+      "publication_date": "2010-08-12T00:00:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/12/world/asia/12hospital.html",
+      "byline": "By Sharon LaFraniere"
+    },
+    {
+      "headline": "For Fed, the Choices Get Harder",
+      "snippet": "The decision to buy up debt was a fairly easy one. But even Ben S. Bernanke has expressed uncertainty about whether the strategy will work.",
+      "abstract": "The decision to buy up debt was a fairly easy one. But even Ben S. Bernanke has expressed uncertainty about whether the strategy will work.",
+      "lead_paragraph": "WASHINGTON",
+      "publication_date": "2010-08-12T00:31:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/12/business/economy/12fed.html",
+      "byline": "By Sewell Chan"
+    },
+    {
+      "headline": "Debts Rise, and Go Unpaid, as Bust Erodes Home Equity",
+      "snippet": "Lenders wrote off as uncollectible $11.1 billion in home equity loans and $19.9 billion in lines of credit in 2009.",
+      "abstract": "Lenders wrote off as uncollectible $11.1 billion in home equity loans and $19.9 billion in lines of credit in 2009.",
+      "lead_paragraph": "PHOENIX  During the great housing boom, homeowners nationwide borrowed a trillion dollars from banks, using the soaring value of their houses as security. Now the money has been spent and struggling borrowers are unable or unwilling to pay it back.",
+      "publication_date": "2010-08-12T00:41:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/12/business/12debt.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Tour of Guantánamo Offers a Look, but Little Else",
+      "snippet": "The military aims to counter “misrepresentations” about treatment of detainees, but much remains off limits.",
+      "abstract": "The military aims to counter “misrepresentations” about treatment of detainees, but much remains off limits.",
+      "lead_paragraph": "GUANTÁNAMO BAY, Cuba  Welcome to Guantánamo Bay, where your tour guide will never leave your side but may not be able to answer any of your questions. ",
+      "publication_date": "2010-08-12T00:59:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/12/us/12gitmo.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "Web Plan Is Dividing Companies",
+      "snippet": "Facebook said it would not support a proposal by Google and Verizon to regulate Internet access, while an AT&T executive called the plan a “reasonable framework.”",
+      "abstract": "Facebook said it would not support a proposal by Google and Verizon to regulate Internet access, while an AT&T executive called the plan a “reasonable framework.”",
+      "lead_paragraph": "In an emerging battle over regulating Internet access, companies are taking sides.",
+      "publication_date": "2010-08-12T01:01:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/12/technology/12net.html",
+      "byline": "By Claire Cain Miller and Brian Stelter"
+    },
+    {
+      "headline": "Unrest Is Undermining Hopes for Afghan Vote",
+      "snippet": "President Hamid Karzai’s ability to deliver a credible parliamentary election in September is in doubt.",
+      "abstract": "President Hamid Karzai’s ability to deliver a credible parliamentary election in September is in doubt.",
+      "lead_paragraph": "KABUL, Afghanistan  Worsening insurgent violence in many parts of the country is raising concern about Afghanistan’s ability to hold a fair parliamentary election in little more than a month, a crucial test of President Hamid Karzai’s ability to deliver security and a legitimate government. ",
+      "publication_date": "2010-08-12T01:13:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/12/world/asia/12karzai.html",
+      "byline": "By Alissa J. Rubin"
+    },
+    {
+      "headline": "Rubin to Join Centerview, a Young Firm",
+      "snippet": "The former Treasury secretary’s decision to work at a boutique bank will bring attention to the firm but could also rekindle questions about his Citigroup role.",
+      "abstract": "The former Treasury secretary’s decision to work at a boutique bank will bring attention to the firm but could also rekindle questions about his Citigroup role.",
+      "lead_paragraph": "Robert E. Rubin is returning to Wall Street.",
+      "publication_date": "2010-08-12T02:01:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/12/business/12rubin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Profit Strong, G.M. Names a New Chief",
+      "snippet": "A transition at the top, for a successor chosen by General Motors’ board, was taken as a sign of the government’s shrinking role in the automaker.",
+      "abstract": "A transition at the top, for a successor chosen by General Motors’ board, was taken as a sign of the government’s shrinking role in the automaker.",
+      "lead_paragraph": "DETROIT  General Motors reached two significant milestones on the road to its corporate turnaround on Thursday, reporting its best quarterly earnings in six years and announcing that its chief executive, picked by the Obama administration last year to lead it after bankruptcy, would step down next month.",
+      "publication_date": "2010-08-12T11:50:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/13/business/13auto.html",
+      "byline": "By Bill Vlasic"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-02-12",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Prosecutors Quit Roger Stone Case After Justice Dept. Intervenes on Sentencing",
+      "snippet": "President Trump had complained that the recommendation of seven to nine years in prison for his former adviser and longtime friend was a “miscarriage of justice.”",
+      "abstract": "President Trump had complained that the recommendation of seven to nine years in prison for his former adviser and longtime friend was a “miscarriage of justice.”",
+      "lead_paragraph": "WASHINGTON — Four prosecutors abruptly withdrew on Tuesday from the case of President Trump’s longtime friend Roger J. Stone Jr. after senior Justice Department officials intervened to recommend a more lenient sentence for crimes he committed in a bid to protect the president.",
+      "publication_date": "2020-02-11T17:44:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/us/politics/roger-stone-sentencing.html",
+      "byline": "By Katie Benner, Sharon LaFraniere and Adam Goldman"
+    },
+    {
+      "headline": "Coronavirus Shock Could Push Europe Into a Downturn",
+      "snippet": "Germany and other countries were already vulnerable. The longer the Chinese economy remains crippled, the bigger the risk to the rest of the world.",
+      "abstract": "Germany and other countries were already vulnerable. The longer the Chinese economy remains crippled, the bigger the risk to the rest of the world.",
+      "lead_paragraph": "FRANKFURT — So far, only scattered cases of the coronavirus have appeared in Europe, but the economic effects are proving harder to quarantine. The shock may be severe enough to push the vulnerable German economy, and perhaps the entire eurozone, into a recession.",
+      "publication_date": "2020-02-11T18:55:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/11/business/coronavirus-europe-economy-daimler.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "F.T.C. Broadens Review of Tech Giants, Homing In on Their Deals",
+      "snippet": "The agency ordered Amazon, Apple, Facebook, Alphabet and Microsoft to turn over a decade’s worth of information on small acquisitions.",
+      "abstract": "The agency ordered Amazon, Apple, Facebook, Alphabet and Microsoft to turn over a decade’s worth of information on small acquisitions.",
+      "lead_paragraph": "WASHINGTON — The Federal Trade Commission said on Tuesday that it had ordered Amazon, Apple, Facebook, Google’s parent company and Microsoft to turn over information about past acquisitions, broadening its review of the power of big tech companies.",
+      "publication_date": "2020-02-11T19:38:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/11/technology/ftc-tech-giants-acquisitions.html",
+      "byline": "By Cecilia Kang and David McCabe"
+    },
+    {
+      "headline": "Foldable Phones Are Here. Do We Really Want Them?",
+      "snippet": "The jury is out on whether bendable screens are a lasting trend or a passing fad.",
+      "abstract": "The jury is out on whether bendable screens are a lasting trend or a passing fad.",
+      "lead_paragraph": "Your next smartphone may flip open to reveal its screen and fold up when you are ready to put it away — just like the old-school clamshell phones from the 1990s.",
+      "publication_date": "2020-02-11T21:16:51+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/11/technology/personaltech/foldable-phones-samsung.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "A Store, a Chalet, an Unsealed Pipe: Coronavirus Hot Spots Flare Far From Wuhan",
+      "snippet": "A handful of buildings around the world have been linked to multiple cases of the new virus, raising fears of rapid transmission.",
+      "abstract": "A handful of buildings around the world have been linked to multiple cases of the new virus, raising fears of rapid transmission.",
+      "lead_paragraph": "Read the latest updates in the coronavirus outbreak here. ",
+      "publication_date": "2020-02-11T22:41:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/world/asia/china-coronavirus-clusters.html",
+      "byline": "By Vivian Wang, Austin Ramzy and Megan Specia"
+    },
+    {
+      "headline": "Trump’s War Against ‘the Deep State’ Enters a New Stage",
+      "snippet": "The suggestion that Lt. Col. Alexander S. Vindman should now face punishment by the Pentagon was one sign of how determined the president is to even the scales after his impeachment.",
+      "abstract": "The suggestion that Lt. Col. Alexander S. Vindman should now face punishment by the Pentagon was one sign of how determined the president is to even the scales after his impeachment.",
+      "lead_paragraph": "WASHINGTON — As far as President Trump is concerned, banishing Lt. Col. Alexander S. Vindman from the White House and exiling him back to the Pentagon was not enough. If he had his way, the commander in chief made clear on Tuesday, the Defense Department would now take action against the colonel, too.",
+      "publication_date": "2020-02-12T01:58:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/us/politics/trump-vindman.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Bernie Sanders Scores Narrow Victory in New Hampshire Primary",
+      "snippet": "The Vermont senator tightened his grip on the Democratic Party’s liberal wing, benefiting from a field that has divided moderate voters.",
+      "abstract": "The Vermont senator tightened his grip on the Democratic Party’s liberal wing, benefiting from a field that has divided moderate voters.",
+      "lead_paragraph": "MANCHESTER, N.H. — Senator Bernie Sanders narrowly won the New Hampshire primary on Tuesday, consolidating support on the left and fending off a late charge by two moderate rivals to claim his second strong showing in two weeks and establish himself as a formidable contender for the Democratic nomination.",
+      "publication_date": "2020-02-12T04:36:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/us/politics/bernie-sanders-new-hampshire-primary.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Who Won in New Hampshire? Not the Establishment",
+      "snippet": "Bernie Sanders and Pete Buttigieg emerge at the top of the field as two former front-runners fade.",
+      "abstract": "Bernie Sanders and Pete Buttigieg emerge at the top of the field as two former front-runners fade.",
+      "lead_paragraph": "MANCHESTER, N.H. — The revolution has not come. Bernie Sanders is looking like the front-runner anyway.",
+      "publication_date": "2020-02-12T04:52:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/11/us/politics/new-hampshire-sanders-buttigieg.html",
+      "byline": "By Matt Flegenheimer and Katie Glueck"
+    },
+    {
+      "headline": "How Amy Klobuchar Pulled Off the Big Surprise of the New Hampshire Primary",
+      "snippet": "After a disappointing fifth-place finish in the Iowa caucuses, the Minnesota senator made a series of bets in the Granite State.",
+      "abstract": "After a disappointing fifth-place finish in the Iowa caucuses, the Minnesota senator made a series of bets in the Granite State.",
+      "lead_paragraph": "CONCORD, N.H. — Senator Amy Klobuchar knew she might have an opportunity in New Hampshire’s presidential primary.",
+      "publication_date": "2020-02-12T10:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/12/us/politics/amy-klobuchar-new-hampshire.html",
+      "byline": "By Nick Corasaniti"
+    },
+    {
+      "headline": "Pope Francis Sets Aside Proposal on Married Priests",
+      "snippet": "The decision, in a letter on Catholic life in remote Amazon areas, is a victory for conservative forces who had warned that change there would put the church on a slippery slope.",
+      "abstract": "The decision, in a letter on Catholic life in remote Amazon areas, is a victory for conservative forces who had warned that change there would put the church on a slippery slope.",
+      "lead_paragraph": "VATICAN CITY — Pope Francis has for now rejected a landmark proposal by bishops to allow the ordination of married men in remote areas underserved by priests, a potentially momentous change that conservatives had warned could set the Roman Catholic Church on a path toward lifting priestly celibacy and weakening church traditions.",
+      "publication_date": "2020-02-12T11:00:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/12/world/europe/pope-married-priests.html",
+      "byline": "By Jason Horowitz and Elisabetta Povoledo"
+    }
+  ]
+}

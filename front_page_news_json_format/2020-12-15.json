@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2020-12-15",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "With Americans Stuck at Home, Trade With China Roars Back",
+      "snippet": "Reducing trade with China was supposed to happen in 2020. But demand for Chinese goods has soared amid pandemic lockdowns.",
+      "abstract": "Reducing trade with China was supposed to happen in 2020. But demand for Chinese goods has soared amid pandemic lockdowns.",
+      "lead_paragraph": "WASHINGTON — American imports from China are surging as the year draws to a close, fueled by stay-at-home shoppers who are snapping up Chinese-made furniture and appliances, along with Barbie Dream Houses and bicycles for the holidays.",
+      "publication_date": "2020-12-14T18:54:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/14/business/economy/us-china-trade-covid.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "CNN and MSNBC Fret Over Post-Trump Future",
+      "snippet": "Ratings have hit new highs, but executives and journalists at both networks are uneasy about the year ahead.",
+      "abstract": "Ratings have hit new highs, but executives and journalists at both networks are uneasy about the year ahead.",
+      "lead_paragraph": "CNN and MSNBC thrived during the Trump years, reaching new heights in ratings and revenue while devoting countless prime-time hours to criticizing a White House antagonist their viewers just could not quit.",
+      "publication_date": "2020-12-14T19:33:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/14/business/media/cnn-msnbc-cable-news-trump.html",
+      "byline": "By John Koblin and Michael M. Grynbaum"
+    },
+    {
+      "headline": "What Happens to the Unemployed When the Checks Run Out",
+      "snippet": "Millions face a steep and immediate drop in spending power when federal jobless benefits end this month, with a sharp rise in the poverty rate.",
+      "abstract": "Millions face a steep and immediate drop in spending power when federal jobless benefits end this month, with a sharp rise in the poverty rate.",
+      "lead_paragraph": "When jobless workers get their last unemployment check, the effect on spending is sharp and swift.",
+      "publication_date": "2020-12-14T22:05:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/14/business/economy/unemployment-benefits-economy.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Electoral College Vote Officially Affirms Biden’s Victory",
+      "snippet": "The vote made official Joe Biden’s victory, despite President Trump’s attempt to subvert the nation’s democratic process, and it put pressure on Republicans to acknowledge the outcome.",
+      "abstract": "The vote made official Joe Biden’s victory, despite President Trump’s attempt to subvert the nation’s democratic process, and it put pressure on Republicans to acknowledge the outcome.",
+      "lead_paragraph": "It began at 10 a.m. in New Hampshire, where electors met in a statehouse chamber festooned with holiday decorations and gave their four votes to Joseph R. Biden Jr. By noon on Monday, the battleground states of Arizona, Georgia and Pennsylvania, ground zero for many of President Trump’s fruitless lawsuits, had backed Mr. Biden too. In New York, Bill and Hillary Clinton voted for Mr. Biden along with 27 other electors.",
+      "publication_date": "2020-12-15T00:23:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/14/us/politics/biden-electoral-college.html",
+      "byline": "By Nick Corasaniti and Jim Rutenberg"
+    },
+    {
+      "headline": "Scope of Russian Hacking Becomes Clear: Multiple U.S. Agencies Were Hit",
+      "snippet": "The Pentagon, intelligence agencies, nuclear labs and Fortune 500 companies use software that was found to have been compromised by Russian hackers. The sweep of stolen data is still being assessed.",
+      "abstract": "The Pentagon, intelligence agencies, nuclear labs and Fortune 500 companies use software that was found to have been compromised by Russian hackers. The sweep of stolen data is still being assessed.",
+      "lead_paragraph": "WASHINGTON — The scope of a hacking engineered by one of Russia’s premier intelligence agencies became clearer on Monday, when some Trump administration officials acknowledged that other federal agencies — the State Department, the Department of Homeland Security and parts of the Pentagon — had been compromised. Investigators were struggling to determine the extent to which the military, intelligence community and nuclear laboratories were affected by the highly sophisticated attack.",
+      "publication_date": "2020-12-15T01:09:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/14/us/politics/russia-hack-nsa-homeland-security-pentagon.html",
+      "byline": "By David E. Sanger, Nicole Perlroth and Eric Schmitt"
+    },
+    {
+      "headline": "First Coronavirus Vaccines Bring Americans Hope in Small Doses",
+      "snippet": "The vaccine campaign began on the same day that the nation surpassed 300,000 deaths, more than any other country.",
+      "abstract": "The vaccine campaign began on the same day that the nation surpassed 300,000 deaths, more than any other country.",
+      "lead_paragraph": "PITTSBURGH — Some of the very medical centers that have endured the worst of the coronavirus outbreak in the United States found the gloom that has long filled their corridors replaced by elation and hope on Monday as health care workers became the first to take part in a mass vaccination campaign aimed at ending the pandemic.",
+      "publication_date": "2020-12-15T01:20:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/14/us/covid-vaccines-first-shots.html",
+      "byline": "By Campbell Robertson, Amy Harmon and Mitch Smith"
+    },
+    {
+      "headline": "‘A Shot of Hope’: What the Vaccine Is Like for Frontline Doctors and Nurses",
+      "snippet": "Even as medical workers lined up for America’s first shots, many of them recalled nightmarish moments from the pandemic.",
+      "abstract": "Even as medical workers lined up for America’s first shots, many of them recalled nightmarish moments from the pandemic.",
+      "lead_paragraph": "FARGO, N.D. — As Dr. Rishi Seth rolled up his left sleeve on Monday to receive one of the United States’ first Covid-19 vaccines, he thought of his patients back in the Special Care Unit.",
+      "publication_date": "2020-12-15T01:59:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/14/us/coronavirus-vaccine-doctors-nurses.html",
+      "byline": "By Jack Healy, Lucy Tompkins and Audra D. S. Burch"
+    },
+    {
+      "headline": "Tech Companies Shift Their Posture on a Legal Shield, Wary of Being Left Behind",
+      "snippet": "Some of the industry’s critics are skeptical, however, about a new flexibility to changes to Section 230 of the Communications Decency Act.",
+      "abstract": "Some of the industry’s critics are skeptical, however, about a new flexibility to changes to Section 230 of the Communications Decency Act.",
+      "lead_paragraph": "WASHINGTON — For more than two decades, the tech industry had a cohesive message to Congress about a law that shields internet platforms from lawsuits: Don’t touch it.",
+      "publication_date": "2020-12-15T10:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/15/technology/tech-section-230-congress.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "Inside Biden’s Struggle to Manage Factions in the Democratic Party",
+      "snippet": "The competition for senior offices has strained valuable political alliances, vexing some of Joe Biden’s key supporters from the Democratic primary contest.",
+      "abstract": "The competition for senior offices has strained valuable political alliances, vexing some of Joe Biden’s key supporters from the Democratic primary contest.",
+      "lead_paragraph": "President-elect Joseph R. Biden Jr. is confronting factionalism and fierce impatience within his own party, as the groups that make up the Democratic coalition see President Trump crumbling as an adversary and turn toward the battle to define the personnel and policies of a new administration.",
+      "publication_date": "2020-12-15T10:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/15/us/politics/biden-democrats.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "How Biden Can Move His Economic Agenda Without Congress",
+      "snippet": "Union leaders and policy experts say the next administration could do plenty on behalf of workers through regulation and other powers.",
+      "abstract": "Union leaders and policy experts say the next administration could do plenty on behalf of workers through regulation and other powers.",
+      "lead_paragraph": "President-elect Joseph R. Biden Jr.’s ability to reshape the economy through legislation hinges in large part on the outcome of the two Georgia runoffs in January that will decide control of the Senate. But even without a cooperative Congress, his administration will be able to act on its agenda of raising workers’ standard of living and creating good jobs by taking a series of unilateral actions under existing law.",
+      "publication_date": "2020-12-15T14:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/15/business/economy/biden-labor-economy.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Big Fines and Strict Rules Unveiled Against ‘Big Tech’ in Europe",
+      "snippet": "European Union and British authorities released draft laws to halt the spread of harmful content and improve competition.",
+      "abstract": "European Union and British authorities released draft laws to halt the spread of harmful content and improve competition.",
+      "lead_paragraph": "LONDON — Authorities in the European Union and Britain built momentum on Tuesday for tougher oversight of the technology industry, as they introduced new regulations to pressure the world’s biggest tech companies to take down harmful content and open themselves up to more competition.",
+      "publication_date": "2020-12-15T15:35:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/15/technology/big-tech-regulation-europe.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Use It or Lose It: Tenant Aid Effort Nears a Federal Cutoff",
+      "snippet": "Emergency pandemic funding to help renters must be distributed by Dec. 30. But getting the money to those who need it is no small task.",
+      "abstract": "Emergency pandemic funding to help renters must be distributed by Dec. 30. But getting the money to those who need it is no small task.",
+      "lead_paragraph": "For several months, Gregory Heller, an official with a Philadelphia nonprofit group, has grappled with an unusual problem. He had $60 million in rental aid to help low-income tenants weather the pandemic — and a whole lot of trouble spending it.",
+      "publication_date": "2020-12-15T15:40:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/15/business/economy/rental-aid.html",
+      "byline": "By Conor Dougherty"
+    }
+  ]
+}

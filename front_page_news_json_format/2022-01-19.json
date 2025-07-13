@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-01-19",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "AT&T and Verizon Delay 5G Service Near Some Airports",
+      "snippet": "Whether the change would end the long conflict between the telecom and aviation industries wasn’t clear.",
+      "abstract": "Whether the change would end the long conflict between the telecom and aviation industries wasn’t clear.",
+      "lead_paragraph": "Verizon and AT&T said on Tuesday that they would delay the expansion of new 5G cellular service near some airports, a pause that President Biden said would avert potentially devastating disruptions that airlines had been warning about for months.",
+      "publication_date": "2022-01-18T17:42:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/18/business/att-verizon-5g-airlines.html",
+      "byline": "By Niraj Chokshi and David McCabe"
+    },
+    {
+      "headline": "Jan. 6 Panel Subpoenas Giuliani, Digging Into False Vote Fraud Claims",
+      "snippet": "The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team.",
+      "abstract": "The House committee investigating the Capitol riot called for documents and testimony from Rudolph W. Giuliani and other members of President Donald J. Trump’s legal team.",
+      "lead_paragraph": "WASHINGTON — The House committee investigating the Jan. 6 attack on the Capitol on Tuesday subpoenaed Rudolph W. Giuliani and other members of the legal team that pursued a set of conspiracy-filled lawsuits on behalf of former President Donald J. Trump in which they made unsubstantiated claims of fraud in the 2020 presidential election.",
+      "publication_date": "2022-01-18T22:25:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/18/us/politics/jan-6-inquiry-subpoenas-giuliani.html",
+      "byline": "By Luke Broadwater and Maggie Haberman"
+    },
+    {
+      "headline": "‘New Eyes’: Gamers Greet Microsoft’s Activision Deal With Guarded Optimism",
+      "snippet": "Some players, unhappy with Activision in recent years, said the Microsoft deal could reverse a decline in quality.",
+      "abstract": "Some players, unhappy with Activision in recent years, said the Microsoft deal could reverse a decline in quality.",
+      "lead_paragraph": "When Drew Bienusa began playing Call of Duty, a first-person shooter game published by Activision Blizzard, he was immediately smitten. He loved how immersive having a digital avatar was, and the game was a favorite among his friends.",
+      "publication_date": "2022-01-19T00:27:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/18/technology/video-games-activision-microsoft.html",
+      "byline": "By Erin Woo and Kellen Browning"
+    },
+    {
+      "headline": "‘We Are Taiwanese’: China’s Growing Menace Hardens Island’s Identity",
+      "snippet": "More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness.",
+      "abstract": "More than ever, Taiwan defines itself by its democratic values. Beijing’s military and diplomatic threats only reinforce the island’s separateness.",
+      "lead_paragraph": "CHIAYI, Taiwan — When Li Yuan-hsin, a 36-year-old high school teacher, travels abroad, people often assume she is Chinese.",
+      "publication_date": "2022-01-19T08:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/19/world/asia/taiwan-china-identity.html",
+      "byline": "By Amy Qin and Amy Chang Chien"
+    },
+    {
+      "headline": "Everyone Is Quitting. Here’s the Right Way to Do It.",
+      "snippet": "From understanding why you want to leave to tackling health insurance and retirement plans, here’s your guide to a graceful exit — without leaving money on the table.",
+      "abstract": "From understanding why you want to leave to tackling health insurance and retirement plans, here’s your guide to a graceful exit — without leaving money on the table.",
+      "lead_paragraph": "Everyone, sometime or another, dreams of quitting. For millions, the fantasy is real.",
+      "publication_date": "2022-01-19T10:00:18+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/19/your-money/quitting-your-job-guide.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "‘It’s All Just Wild’: Tech Start-Ups Reach a New Peak of Froth",
+      "snippet": "There’s more money and more bubbly behavior. Investors insist it’s rational.",
+      "abstract": "There’s more money and more bubbly behavior. Investors insist it’s rational.",
+      "lead_paragraph": "How crazy is the money sloshing around in start-up land right now?",
+      "publication_date": "2022-01-19T10:00:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/19/technology/tech-startup-funding.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "When My Mom Got Covid, I Went Searching for Pfizer’s Pills",
+      "snippet": "The experience showed how hard it is for many people to get potentially lifesaving treatments.",
+      "abstract": "The experience showed how hard it is for many people to get potentially lifesaving treatments.",
+      "lead_paragraph": "Just after 1 p.m. on Tuesday last week, my phone buzzed with a text message from my mother: “Well, came down with cold, aches, cough etc over wknd.” She had taken an at-home coronavirus test. It was positive.",
+      "publication_date": "2022-01-19T14:15:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/01/19/business/covid-pill-treatment-pfizer.html",
+      "byline": "By Rebecca Robbins"
+    }
+  ]
+}

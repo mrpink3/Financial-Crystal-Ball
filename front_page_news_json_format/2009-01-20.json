@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2009-01-20",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Cisco Plans Big Push Into Server Market",
+      "snippet": "The move puts Cisco on a collision course with traditional partners like Hewlett-Packard and I.B.M.",
+      "abstract": "The move puts Cisco on a collision course with traditional partners like Hewlett-Packard and I.B.M.",
+      "lead_paragraph": "SAN JOSE, Calif.  Within the next few months, Cisco Systems, the largest maker of networking equipment, plans to release a product that threatens to shake up the technology industry and put the company on a collision course with traditional partners like Hewlett-Packard and I.B.M. ",
+      "publication_date": "2009-01-19T20:24:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/20/technology/companies/20cisco.html",
+      "byline": "By Ashlee Vance"
+    },
+    {
+      "headline": "Banks Foreclose on Builders With Perfect Records",
+      "snippet": "Lines of credit for home developers is no longer a matter of payment history, but of risk analysis and management in a shrinking real estate market.",
+      "abstract": "Lines of credit for home developers is no longer a matter of payment history, but of risk analysis and management in a shrinking real estate market.",
+      "lead_paragraph": "TEMPE, Ariz.  Dave Brown, one of this city’s best-known home builders, had kept his head above water through the housing downturn, not missing a single interest payment on his loans. ",
+      "publication_date": "2009-01-19T22:22:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/20/business/economy/20builders.html",
+      "byline": "By John Collins Rudolf"
+    },
+    {
+      "headline": "In Europe, New Efforts to Bolster Lending",
+      "snippet": "Governments in Europe and the U.S. are moving to assure that bailed-out banks lend more money to offset the recession that has engulfed both continents.",
+      "abstract": "Governments in Europe and the U.S. are moving to assure that bailed-out banks lend more money to offset the recession that has engulfed both continents.",
+      "lead_paragraph": "PARIS  After a first round of costly bank bailouts and stimulus programs came up short, governments in Europe and the United States are moving more forcefully to assure that bailed-out banks lend more money to offset the recession that has engulfed both continents.",
+      "publication_date": "2009-01-20T01:56:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/20/business/worldbusiness/20bank.html",
+      "byline": "By David Jolly"
+    },
+    {
+      "headline": "Tribal Rivalries Persist as Iraqis Seek Local Posts",
+      "snippet": "As Sunni groups in Anbar Province jockey for power in the run-up to elections, there is fear that disputes could turn lethal.",
+      "abstract": "As Sunni groups in Anbar Province jockey for power in the run-up to elections, there is fear that disputes could turn lethal.",
+      "lead_paragraph": "RAMADI, Iraq  Here in barren Anbar Province, the tribes that were once the main source of support for killing American soldiers are now running in provincial elections that, in the best case, could fulfill American promises to create stability in Iraq by the ballot box. ",
+      "publication_date": "2009-01-20T02:23:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/20/world/middleeast/20anbar.html",
+      "byline": "By Sam Dagher"
+    },
+    {
+      "headline": "For the Jobless, Hope and Fear for a New Day",
+      "snippet": "The employment office in Columbia, S.C., offers a snapshot of the economic challenges facing Barack Obama.",
+      "abstract": "The employment office in Columbia, S.C., offers a snapshot of the economic challenges facing Barack Obama.",
+      "lead_paragraph": "COLUMBIA, S.C. — Joe Lewis came to the local employment office on Friday in the hope of buying a little more time.",
+      "publication_date": "2009-01-20T02:35:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/20/business/economy/20columbia.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "On Facebook, Sicilian Mafia Is a Hot Topic",
+      "snippet": "Authorities are investigating groups devoted to Mafiosi.",
+      "abstract": "Authorities are investigating groups devoted to Mafiosi.",
+      "lead_paragraph": "ROME  Your college roommate is on Facebook. So are your cousins and colleagues and friends. But guess who else may find Facebook a great way to stay in touch?",
+      "publication_date": "2009-01-20T02:43:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/20/world/europe/20italy.html",
+      "byline": "By Rachel Donadio"
+    },
+    {
+      "headline": "Past Graft Is Tainting New India",
+      "snippet": "The billion-dollar scandal at Satyam Computer Services has some Indians questioning the notion of a new India and raised fears that corruption remains endemic.",
+      "abstract": "The billion-dollar scandal at Satyam Computer Services has some Indians questioning the notion of a new India and raised fears that corruption remains endemic.",
+      "lead_paragraph": "NEW DELHI  India’s world-class technology sector was the epitome of “New India,” a nation that had left behind its feudal past to embrace modernity and the market. ",
+      "publication_date": "2009-01-20T02:50:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/20/business/worldbusiness/20corrupt.html",
+      "byline": "By Heather Timmons and Jeremy Kahn"
+    },
+    {
+      "headline": "After Sure-Bet Investment Fails, a Bank Contends It Was Duped",
+      "snippet": "A court battle between M&T and Deutsche Bank demonstrates the arguments over who should pay for the collapse of collateralized debt obligations.",
+      "abstract": "A court battle between M&T and Deutsche Bank demonstrates the arguments over who should pay for the collapse of collateralized debt obligations.",
+      "lead_paragraph": "Nearly two years ago, on a Tuesday in February 2007, a Wall Street salesman pitched an investment that sounded almost magical. It was called Gemstone VII. A shiny amalgam of financial instruments, it promised attractive returns  with virtually no risk. ",
+      "publication_date": "2009-01-20T02:58:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/20/business/20gem.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "Obama’s Bailout Challenge",
+      "snippet": "Britain on Monday set the stage for a full takeover of its banking system. Now, Barack Obama is trying to figure out how to shore up this nation’s banking industry as its crisis snowballs.",
+      "abstract": "Britain on Monday set the stage for a full takeover of its banking system. Now, Barack Obama is trying to figure out how to shore up this nation’s banking industry as its crisis snowballs.",
+      "lead_paragraph": "Another week, another bailout.",
+      "publication_date": "2009-01-20T03:06:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/20/business/economy/20sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Hints of Agenda and Tone for New First Lady",
+      "snippet": "As Michelle Obama prepares to become first lady, outlines of her style and agenda have begun to emerge.",
+      "abstract": "As Michelle Obama prepares to become first lady, outlines of her style and agenda have begun to emerge.",
+      "lead_paragraph": "WASHINGTON — She celebrated her 45th birthday in a vintage train car, amid balloons and crepe-paper streamers, and cheering crowds serenaded her by name.",
+      "publication_date": "2009-01-20T03:20:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/20/us/politics/20michelle.html",
+      "byline": "By Rachel L. Swarns"
+    },
+    {
+      "headline": "Transition Holds Clues to How Obama Will Govern",
+      "snippet": "Barack Obama has not been shy about making decisions, but he has also sought to tap into the nation’s dialogue.",
+      "abstract": "Barack Obama has not been shy about making decisions, but he has also sought to tap into the nation’s dialogue.",
+      "lead_paragraph": "WASHINGTON — On the day before moving into the nation’s most storied house, Barack Obama visited a shelter for teenagers with no home. With sleeves rolled up, he spent a few minutes painting for the benefit of the cameras that trail him everywhere now.",
+      "publication_date": "2009-01-20T03:36:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/20/us/politics/20transition.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Optimism in Washington, but Pessimism on Wall St.",
+      "snippet": "Despite widespread optimism about President Obama, the major indexes plunged more than 4 percent on Tuesday.",
+      "abstract": "Despite widespread optimism about President Obama, the major indexes plunged more than 4 percent on Tuesday.",
+      "lead_paragraph": "President Obama took office Tuesday urging Americans to choose hope over fear, but on Wall Street, fear was making a comeback.",
+      "publication_date": "2009-01-20T14:02:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/21/business/21markets.html",
+      "byline": "By Jack Healy and Zachery Kouwe"
+    }
+  ]
+}

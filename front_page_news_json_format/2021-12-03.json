@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-12-03",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "A Car a Minute Used to Flow Through Here, but Chaos Now Reigns",
+      "snippet": "A shipping terminal in Kansas reveals the fundamental problem — no one can plan, and no one is sure what will happen next.",
+      "abstract": "A shipping terminal in Kansas reveals the fundamental problem — no one can plan, and no one is sure what will happen next.",
+      "lead_paragraph": "KANSAS CITY, Kan. — Just after 5:30 on a chilly November morning, David Heide arrives at the shipping terminal on the industrial fringes of Kansas City, wondering what fresh torment the day has in store.",
+      "publication_date": "2021-12-02T17:29:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/02/business/supply-chain-car-shipping.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "With No Resources, Authority or Country, Afghan Ambassador Presses On",
+      "snippet": "Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority.",
+      "abstract": "Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority.",
+      "lead_paragraph": "WASHINGTON — The striped flag still flies in front of the Embassy of Afghanistan here, though the Taliban have used a white one since they reclaimed the country this summer. The embassy staff, loyal to a government that no longer exists, is skeletal and largely unpaid, and it isn’t even clear that the lights will remain on next month.",
+      "publication_date": "2021-12-02T18:04:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "F.T.C. Sues to Stop Blockbuster Chip Deal Between Nvidia and Arm",
+      "snippet": "The proposed deal would give Nvidia control over computing technology and designs that rival firms rely on.",
+      "abstract": "The proposed deal would give Nvidia control over computing technology and designs that rival firms rely on.",
+      "lead_paragraph": "WASHINGTON — The Federal Trade Commission on Thursday sued to block Nvidia’s $40 billion acquisition of a fellow chip company, Arm, halting what would be the biggest semiconductor industry deal in history, as federal regulators push to rein in corporate consolidation.",
+      "publication_date": "2021-12-02T20:39:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/02/technology/ftc-nvidia-arm-deal.html",
+      "byline": "By Cecilia Kang and Don Clark"
+    },
+    {
+      "headline": "How the Politics of Abortion Are Poised to Intensify",
+      "snippet": "The anti-abortion and abortion rights movements are already beginning to mobilize for a new, deeply unsettled post-Roe political reality.",
+      "abstract": "The anti-abortion and abortion rights movements are already beginning to mobilize for a new, deeply unsettled post-Roe political reality.",
+      "lead_paragraph": "With the Supreme Court now looking likely to weaken or overturn the landmark Roe v. Wade decision on abortion, activists and both political parties are bracing for a new battle over one of the country’s longest-running cultural divides.",
+      "publication_date": "2021-12-02T22:40:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/02/us/politics/abortion-arguments-post-roe.html",
+      "byline": "By Lisa Lerer and Jeremy W. Peters"
+    },
+    {
+      "headline": "Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’",
+      "snippet": "The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States.",
+      "abstract": "The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States.",
+      "lead_paragraph": "WASHINGTON — President Biden, confronting a worrisome new coronavirus variant and a potential winter surge, laid out a pandemic strategy on Thursday that includes hundreds of vaccination sites, boosters for all adults, new testing requirements for international travelers and free at-home tests.",
+      "publication_date": "2021-12-03T00:31:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "A Slow-Motion Climate Disaster: The Spread of Barren Land",
+      "snippet": "Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected.",
+      "abstract": "Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected.",
+      "lead_paragraph": "CARNAÚBA DOS DANTAS, Brazil — The land has sustained the Dantas family for more than 150 years, bearing fields of cotton, beanstalks up to a grown man’s hip and, when it rained enough, a river that led to a waterfall.",
+      "publication_date": "2021-12-03T08:00:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html",
+      "byline": "By Jack Nicas and Victor Moriyama"
+    },
+    {
+      "headline": "November Jobs Report Shows Weak Hiring but a Surge in the Labor Force",
+      "snippet": "Employers reported adding 210,000 jobs, the year’s weakest showing, but there were also bright spots. The mixed picture complicated policy prospects.",
+      "abstract": "Employers reported adding 210,000 jobs, the year’s weakest showing, but there were also bright spots. The mixed picture complicated policy prospects.",
+      "lead_paragraph": "Employers recorded the year’s weakest hiring in November, adding only 210,000 jobs on a seasonally adjusted basis, the Labor Department said Friday.",
+      "publication_date": "2021-12-03T10:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/03/business/economy/november-2021-jobs-report.html",
+      "byline": "By Nelson D. Schwartz and Talmon Joseph Smith"
+    },
+    {
+      "headline": "What Happened to Amazon’s Bookstore?",
+      "snippet": "A 2011 thriller was supposed to cost $15. One merchant listed it at $987, with a 17th-century publication date. That’s what happens in a marketplace where third-party sellers run wild.",
+      "abstract": "A 2011 thriller was supposed to cost $15. One merchant listed it at $987, with a 17th-century publication date. That’s what happens in a marketplace where third-party sellers run wild.",
+      "lead_paragraph": "John C. Boland was poking around the Amazon bookstore when he saw the science thriller “Hominid” for sale at dizzying prices. It was $907 from Sandy Dunes Surplus, $930 from Rocky Mountain Books and $987 from Open Range Media.",
+      "publication_date": "2021-12-03T10:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/12/03/technology/amazon-bookstore.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Thefts, Always an Issue for Retailers, Become More Brazen",
+      "snippet": "In recent months, robberies have been more visible, with several involving large groups rushing into stores and coming out with armloads of goods.",
+      "abstract": "In recent months, robberies have been more visible, with several involving large groups rushing into stores and coming out with armloads of goods.",
+      "lead_paragraph": "“Flash mobs” swarm through a Nordstrom in Northern California and two Best Buy stores in Minnesota, running out with armfuls of merchandise. Five thieves steal $20,000 in products from an Ulta Beauty store in Pennsylvania in just 40 seconds. A security guard is fatally shot in Oakland, Calif., while working with a local television news crew reporting about a recent retail robbery by a group of thieves.",
+      "publication_date": "2021-12-03T10:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/03/business/retailers-robberies-theft.html",
+      "byline": "By Michael Corkery and Sapna Maheshwari"
+    }
+  ]
+}

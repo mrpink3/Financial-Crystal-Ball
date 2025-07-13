@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-12-18",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Diatribe Belittles Impeachment as ‘Attempted Coup’ on Eve of Votes",
+      "snippet": "In an irate, six-page letter to Speaker Nancy Pelosi, President Trump denounced the impeachment inquiry in scathing terms, asserting that he had done nothing wrong and that Democrats would pay a political price in 2020.",
+      "abstract": "In an irate, six-page letter to Speaker Nancy Pelosi, President Trump denounced the impeachment inquiry in scathing terms, asserting that he had done nothing wrong and that Democrats would pay a political price in 2020.",
+      "lead_paragraph": "WASHINGTON — President Trump on Tuesday angrily denounced the looming House votes to impeach him as a “Star Chamber of partisan persecution” by Democrats, describing the effort to remove him from office as an “attempted coup” that would come back to haunt them at the ballot box next year.",
+      "publication_date": "2019-12-17T16:01:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/17/us/politics/trump-impeachment.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Congressional Negotiators Agree to Extend Some Tax Credits and Add to Debt",
+      "snippet": "The end-of-year deal is the product of months of negotiations that fell short of both parties’ hopes.",
+      "abstract": "The end-of-year deal is the product of months of negotiations that fell short of both parties’ hopes.",
+      "lead_paragraph": "WASHINGTON — Brewers, distillers, racehorse owners, churches with parking lots and some wind energy producers won federal tax breaks in a last-hour congressional agreement on taxes and spending that was unveiled Tuesday morning.",
+      "publication_date": "2019-12-17T16:41:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/17/business/congress-tax-breaks-debt.html",
+      "byline": "By Jim Tankersley and Emily Cochrane"
+    },
+    {
+      "headline": "Court Orders F.B.I. to Fix National Security Wiretaps After Damning Report",
+      "snippet": "In a rare public order, the secretive Foreign Intelligence Surveillance Court responded to problems with the eavesdropping on a former Trump campaign aide uncovered by an inspector general.",
+      "abstract": "In a rare public order, the secretive Foreign Intelligence Surveillance Court responded to problems with the eavesdropping on a former Trump campaign aide uncovered by an inspector general.",
+      "lead_paragraph": "WASHINGTON — A secretive federal court accused the F.B.I. on Tuesday of misleading judges about the rationale for wiretapping a former Trump campaign adviser and ordered the bureau to propose changes in how investigators seek their permission for national security surveillance targeting Americans.",
+      "publication_date": "2019-12-17T20:21:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/17/us/politics/fisa-court-order-fbi-surveillance.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Trump’s Trade Deals Raise, Rather Than Remove, Economic Barriers",
+      "snippet": "The president’s China and North American trade pacts reverse a trend of opening markets that was decades in the making.",
+      "abstract": "The president’s China and North American trade pacts reverse a trend of opening markets that was decades in the making.",
+      "lead_paragraph": "WASHINGTON — For years, America’s trade agreements have tried to break down economic barriers between nations by removing tariffs and other impediments to cross-border commerce. President Trump’s trade deals have turned that approach on its head.",
+      "publication_date": "2019-12-17T21:42:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/17/business/trump-trade-deals-free-markets.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Republicans Attack House Democrats on Impeachment, and Democrats Change the Subject",
+      "snippet": "One party is running ads about what’s happening in Congress. The other is happy to stick to health care.",
+      "abstract": "One party is running ads about what’s happening in Congress. The other is happy to stick to health care.",
+      "lead_paragraph": "For the past two months, television ads across central Virginia have sounded a lot like President Trump’s Twitter feed. ",
+      "publication_date": "2019-12-17T21:43:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/17/us/politics/impeachment-ads-Democrats-2020.html",
+      "byline": "By Nick Corasaniti"
+    },
+    {
+      "headline": "A Surveillance Net Blankets China’s Cities, Giving Police Vast Powers",
+      "snippet": "The authorities can scan your phones, track your face and find out when you leave your home. One of the world’s biggest spying networks is aimed at regular people, and nobody can stop it.",
+      "abstract": "The authorities can scan your phones, track your face and find out when you leave your home. One of the world’s biggest spying networks is aimed at regular people, and nobody can stop it.",
+      "lead_paragraph": "ZHENGZHOU, China — China is ramping up its ability to spy on its nearly 1.4 billion people to new and disturbing levels, giving the world a blueprint for how to build a digital totalitarian state.",
+      "publication_date": "2019-12-18T02:57:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/17/technology/china-surveillance.html",
+      "byline": "By Paul Mozur and Aaron Krolik"
+    },
+    {
+      "headline": "Twitter and Facebook Want to Shift Power to Users. Or Do They?",
+      "snippet": "A decentralized internet was hailed as a way to dethrone Twitter and Facebook. But to the tech giants, the idea could unload some of their burdens.",
+      "abstract": "A decentralized internet was hailed as a way to dethrone Twitter and Facebook. But to the tech giants, the idea could unload some of their burdens.",
+      "lead_paragraph": "SAN FRANCISCO — Not so long ago, the technology behind Bitcoin was seen in Silicon Valley as the best hope for challenging the enormous, centralized power of companies like Twitter and Facebook. ",
+      "publication_date": "2019-12-18T10:00:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/18/technology/facebook-twitter-bitcoin-blockchain.html",
+      "byline": "By Nathaniel Popper"
+    }
+  ]
+}

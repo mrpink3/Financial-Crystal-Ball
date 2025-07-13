@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-05-28",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Hong Kong Has Lost Autonomy, Pompeo Says, Opening Door to U.S. Action",
+      "snippet": "The State Department announcement comes as President Trump weighs hard measures against China, which is expected to approve a national security law on Hong Kong on Thursday.",
+      "abstract": "The State Department announcement comes as President Trump weighs hard measures against China, which is expected to approve a national security law on Hong Kong on Thursday.",
+      "lead_paragraph": "WASHINGTON — Secretary of State Mike Pompeo announced on Wednesday that the State Department no longer considered Hong Kong to have significant autonomy under Chinese rule, a move that indicated the Trump administration was likely to end some or all of the United States government’s special trade and economic relations with the territory in southern China.",
+      "publication_date": "2020-05-27T16:30:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/27/us/politics/china-hong-kong-pompeo-trade.html",
+      "byline": "By Edward Wong"
+    },
+    {
+      "headline": "‘Ugly Even for Him’: Trump’s Usual Allies Recoil at His Smear of MSNBC Host",
+      "snippet": "The Wall Street Journal and Washington Examiner chastised the president as a top House Republican, Liz Cheney, urged him to “stop” his attacks on Joe Scarborough.",
+      "abstract": "The Wall Street Journal and Washington Examiner chastised the president as a top House Republican, Liz Cheney, urged him to “stop” his attacks on Joe Scarborough.",
+      "lead_paragraph": "Some of President Trump’s most stalwart media defenders broke ranks with him on Wednesday, aghast at his baseless smears against the MSNBC host Joe Scarborough, whom Mr. Trump has all but accused of killing a former staff member two decades ago despite a total lack of evidence.",
+      "publication_date": "2020-05-27T17:06:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/27/business/media/trump-joe-scarborough-conservative-media.html",
+      "byline": "By Michael M. Grynbaum, Marc Tracy and Emily Cochrane"
+    },
+    {
+      "headline": "Disney World Is Reopening, but You Won’t Be Able to Hug Mickey",
+      "snippet": "The Florida resort is one of the largest tourist sites in the world, but capacity will be limited, face masks will be mandatory, and it won’t be possible to get up close and personal with characters.",
+      "abstract": "The Florida resort is one of the largest tourist sites in the world, but capacity will be limited, face masks will be mandatory, and it won’t be possible to get up close and personal with characters.",
+      "lead_paragraph": "Walt Disney World, one of the largest tourist sites on the planet, has a plan to reopen in mid-July. But the necessary safety protocols — limiting the number of visitors, making face masks mandatory, deploying roaming squads to enforce social distancing, no longer allowing people to get up close and personal with Mickey Mouse — shows how difficult it will be to operate once-booming attractions as the country prepares for a broader reopening.",
+      "publication_date": "2020-05-27T17:56:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/27/business/coronavirus-disney-world-reopening.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "A €750 Billion Virus Recovery Plan Thrusts Europe Into a New Frontier",
+      "snippet": "Adopting the proposal would make history for the bloc, vesting authority in Brussels in ways that more closely resembled a central government.",
+      "abstract": "Adopting the proposal would make history for the bloc, vesting authority in Brussels in ways that more closely resembled a central government.",
+      "lead_paragraph": "BRUSSELS — For decades, even when the 2008 financial crisis threatened to blow the bloc apart, the European Union’s wealthier nations resisted the notion of collective debt. But the coronavirus has so fundamentally damaged the bloc’s economy that it is now forcing European leaders to consider the sort of unified and sweeping response once thought unworkable.",
+      "publication_date": "2020-05-27T20:23:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/27/world/europe/coronavirus-europe-bailout.html",
+      "byline": "By Matina Stevis-Gridneff"
+    },
+    {
+      "headline": "Twitter Comes Under Attack From Trump’s Supporters",
+      "snippet": "After the social media company labeled two of the president’s tweets as inaccurate on Tuesday, his adherents pounced.",
+      "abstract": "After the social media company labeled two of the president’s tweets as inaccurate on Tuesday, his adherents pounced.",
+      "lead_paragraph": "OAKLAND, Calif. — Not long after Twitter added a warning label to two of President Trump’s tweets on Tuesday, his supporters swung into action.",
+      "publication_date": "2020-05-27T21:55:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/27/technology/trump-twitter.html",
+      "byline": "By Kate Conger and Davey Alba"
+    },
+    {
+      "headline": "Minneapolis Police, Long Accused of Racism, Face Wrath of Wounded City",
+      "snippet": "Protesters returned to the streets on Wednesday, a day after George Floyd’s death. The city’s Police Department has received many excessive force complaints, especially by black residents.",
+      "abstract": "Protesters returned to the streets on Wednesday, a day after George Floyd’s death. The city’s Police Department has received many excessive force complaints, especially by black residents.",
+      "lead_paragraph": "[Follow our live coverage of the protests in Minneapolis over George Floyd’s death.]",
+      "publication_date": "2020-05-27T23:48:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/27/us/minneapolis-police.html",
+      "byline": "By Matt Furber, John Eligon and Audra D. S. Burch"
+    },
+    {
+      "headline": "Biden’s Testing Strategy Sets Up a Clear Contrast With Trump on the Coronavirus",
+      "snippet": "While the president has left testing responsibilities to the states, his Democratic rival would harness the power of the federal government to drive testing down to the workplace.",
+      "abstract": "While the president has left testing responsibilities to the states, his Democratic rival would harness the power of the federal government to drive testing down to the workplace.",
+      "lead_paragraph": "WASHINGTON — Joseph R. Biden Jr. has proposed harnessing the broad powers of the federal government to step up coronavirus testing, with a public-private board overseeing test manufacturing and distribution, federal safety regulators enforcing testing at work and at least 100,000 contact tracers tracking down people exposed to the virus.",
+      "publication_date": "2020-05-28T09:00:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/28/us/politics/biden-trump-coronavirus-testing.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "How Automated Background Checks Freeze Out Renters",
+      "snippet": "Algorithms that scan everything from terror watch lists to eviction records spit out flawed tenant screening reports. And almost nobody is watching.",
+      "abstract": "Algorithms that scan everything from terror watch lists to eviction records spit out flawed tenant screening reports. And almost nobody is watching.",
+      "lead_paragraph": "This article was reported and written in collaboration with The Markup, a nonprofit newsroom investigating technology’s effects on society.",
+      "publication_date": "2020-05-28T09:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/05/28/business/renters-background-checks.html",
+      "byline": "By Lauren Kirchner and Matthew Goldstein"
+    },
+    {
+      "headline": "‘Still Catching Up’: Jobless Numbers May Not Tell Full Story",
+      "snippet": "Unemployment claims exceed 40 million since the start of the pandemic, with 2.1 million added last week, but a backlog may be leaving many uncounted.",
+      "abstract": "Unemployment claims exceed 40 million since the start of the pandemic, with 2.1 million added last week, but a backlog may be leaving many uncounted.",
+      "lead_paragraph": "More than 40 million people — the equivalent of one out of every four American workers — have filed for unemployment benefits since the coronavirus pandemic grabbed hold in mid-March, the government reported on Thursday, an astounding tally that rivals the bleakest years of the Great Depression.",
+      "publication_date": "2020-05-28T12:46:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/28/business/economy/coronavirus-unemployment-claims.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Beijing Hardens Resolve to Defy U.S., Even While Calling for Cooperation",
+      "snippet": "From China’s perspective, the punitive American measures on trade, technology and Hong Kong have revealed a core American hostility. But China does not want to incinerate the relationship.",
+      "abstract": "From China’s perspective, the punitive American measures on trade, technology and Hong Kong have revealed a core American hostility. But China does not want to incinerate the relationship.",
+      "lead_paragraph": "BEIJING —  Ignoring threats from Washington, China stripped another layer of autonomy from Hong Kong on Thursday, plowing ahead with a plan that would ban any form of dissent deemed subversive in the territory reclaimed from Britain more than two decades ago.",
+      "publication_date": "2020-05-28T13:50:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/28/world/asia/china-united-states.html",
+      "byline": "By Keith Bradsher and Steven Lee Myers"
+    },
+    {
+      "headline": "Defying Trump, Twitter Doubles Down on Labeling Tweets",
+      "snippet": "Twitter continued fact-checking posts even as President Trump threatened to limit protections for social media companies.",
+      "abstract": "Twitter continued fact-checking posts even as President Trump threatened to limit protections for social media companies.",
+      "lead_paragraph": "OAKLAND, Calif. — Twitter continued to add new fact-checking labels to hundreds of tweets, even as the Trump administration issued an executive order to curtail the legal protections that shield social media companies from liability for the content posted on their platforms.",
+      "publication_date": "2020-05-28T15:51:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/28/technology/trump-twitter-fact-check.html",
+      "byline": "By Kate Conger and Mike Isaac"
+    }
+  ]
+}

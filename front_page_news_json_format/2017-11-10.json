@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2017-11-10",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "TIAA Receives New York Subpoena on Sales Practices",
+      "snippet": "The move by Attorney General Eric T. Schneiderman followed whistle-blower complaints of pressure to push products more lucrative to the firm.",
+      "abstract": "The move by Attorney General Eric T. Schneiderman followed whistle-blower complaints of pressure to push products more lucrative to the firm.",
+      "lead_paragraph": "New York’s attorney general has subpoenaed TIAA, the giant insurance company and investment firm, seeking documents and information relating to its sales practices, according to people briefed on the inquiry.",
+      "publication_date": "2017-11-09T16:09:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/09/business/tiaa-subpoena.html",
+      "byline": "By Gretchen Morgenson"
+    },
+    {
+      "headline": "Senate Tax Plan Diverges From House Version, Highlighting Political Pressures",
+      "snippet": "The Senate Finance Committee unveiled its sweeping tax plan, which would delay the corporate rate cut to 2019 but preserve prized tax breaks like the mortgage interest deduction.",
+      "abstract": "The Senate Finance Committee unveiled its sweeping tax plan, which would delay the corporate rate cut to 2019 but preserve prized tax breaks like the mortgage interest deduction.",
+      "lead_paragraph": "WASHINGTON — Senate Republicans outlined their vision on Thursday for overhauling the tax code, proposing a one-year delay in President Trump’s top priority of cutting the corporate tax rate while reinstating some prized tax breaks used by middle-class families.",
+      "publication_date": "2017-11-09T16:48:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/09/us/politics/facing-math-trouble-house-panel-races-to-adjust-tax-bill.html",
+      "byline": "By Jim Tankersley, Alan Rappeport and Thomas Kaplan"
+    },
+    {
+      "headline": "Sex Allegations Against Roy Moore Send Republicans Reeling",
+      "snippet": "Mr. Moore, the Republican nominee for the Senate seat in Alabama, was accused of making advances toward teenage girls.",
+      "abstract": "Mr. Moore, the Republican nominee for the Senate seat in Alabama, was accused of making advances toward teenage girls.",
+      "lead_paragraph": "ATLANTA — Republicans in Washington seemed near panic Thursday in the light of a news report in which four women said Roy S. Moore, the Republican nominee for a United States Senate seat in Alabama and an evangelical Christian, had made sexual or romantic overtures to them when they were teenagers and he was in his 30s. Senator Mitch McConnell of Kentucky, the Republican majority leader, said Mr. Moore should step aside ahead of the Dec. 12 special election if the allegations were true.",
+      "publication_date": "2017-11-09T20:50:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/09/us/politics/mcconnell-roy-moore-sex-teenagers.html",
+      "byline": "By Richard Fausset, Jonathan Martin and Campbell Robertson"
+    },
+    {
+      "headline": "A Tax Loophole for the Rich That Just Won’t Die",
+      "snippet": "Despite President Trump’s campaign promises and populist fury, carried interest survives in the House Republican plan for a tax overhaul.",
+      "abstract": "Despite President Trump’s campaign promises and populist fury, carried interest survives in the House Republican plan for a tax overhaul.",
+      "lead_paragraph": "After the billionaire investor Warren Buffett exposed the unfairness of a federal tax code that assessed his secretary at a higher rate than him, it was hard to imagine a tax reform plan that would be even less fair.",
+      "publication_date": "2017-11-09T22:53:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/09/business/carried-interest-tax-loophole.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "AT&T Deal Puts Trump’s Antitrust Cop at Center of a Political Storm",
+      "snippet": "Makan Delrahim, who leads the antitrust division at the Justice Department, has thrown a surprising twist into a blockbuster bid for Time Warner.",
+      "abstract": "Makan Delrahim, who leads the antitrust division at the Justice Department, has thrown a surprising twist into a blockbuster bid for Time Warner.",
+      "lead_paragraph": "WASHINGTON — A year ago, Makan Delrahim predicted that AT&T’s $85.4 billion purchase of Time Warner would be approved by regulators. “I don’t see this as a major antitrust problem,” Mr. Delrahim, then a law professor, said to a Canadian television network.",
+      "publication_date": "2017-11-10T01:08:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/09/technology/justice-department-antitrust.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "A Middle-Class Tax Cut? It Depends Who and Where You Are",
+      "snippet": "With details evolving, uncertainty remains, but House and Senate Republican proposals are unfavorable to those in high-cost states that are Democratic bastions.",
+      "abstract": "With details evolving, uncertainty remains, but House and Senate Republican proposals are unfavorable to those in high-cost states that are Democratic bastions.",
+      "lead_paragraph": "Republicans promised a middle-class tax cut. So far, they have created mostly middle-class confusion.",
+      "publication_date": "2017-11-10T01:10:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/09/business/economy/middle-class-tax.html",
+      "byline": "By Ben Casselman and Tara Siegel Bernard"
+    },
+    {
+      "headline": "Texas Church Shooting Video Raises an Unsettling Question: Who Should See It?",
+      "snippet": "Texas officials have not said whether they will release a video of the church massacre that left 26 people dead. Whether they should is a different question.",
+      "abstract": "Texas officials have not said whether they will release a video of the church massacre that left 26 people dead. Whether they should is a different question.",
+      "lead_paragraph": "SUTHERLAND SPRINGS, Tex. — The scene captured by video is almost too terrible to imagine, much less contemplate watching: seven minutes of gunfire as a black-clad gunman executes his victims — many of them small children — inside the First Baptist Church here.",
+      "publication_date": "2017-11-10T01:26:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/09/us/texas-shooting-video-devin-kelley.html",
+      "byline": "By Alan Blinder, David Montgomery and Jack Healy"
+    },
+    {
+      "headline": "In Brexit-Era London, a Mosque Sits Between Two Types of Hate",
+      "snippet": "Terrorism and shifting politics have left mainstream Muslims feeling wary in one of the Western cities that has been most open to them.",
+      "abstract": "Terrorism and shifting politics have left mainstream Muslims feeling wary in one of the Western cities that has been most open to them.",
+      "lead_paragraph": "LONDON — Behind a glass door inside Al Madina Mosque, Ashfaq Siddique stands at ramrod attention, his eyes darting. He is the mosque’s guiding spirit. He is also a former policeman with Scotland Yard. He is scanning live feeds from 36 closed-circuit cameras that monitor everything from the prayer hall to the ablutions room. He is searching for trouble.",
+      "publication_date": "2017-11-10T04:45:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/09/world/europe/uk-brexit-london-muslims.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "Trump Pitches ‘America First’ Trade Policy at Asia-Pacific Gathering",
+      "snippet": "The president’s remarks reflected the degree to which the United States, under Mr. Trump, has ceded its dominant role in guiding trade at international meetings.",
+      "abstract": "The president’s remarks reflected the degree to which the United States, under Mr. Trump, has ceded its dominant role in guiding trade at international meetings.",
+      "lead_paragraph": "DANANG, Vietnam — President Trump on Friday vowed to protect American interests against foreign exploitation, preaching a starkly unilateralist approach to a group of leaders who once pinned their economic hopes on a regional trade pact led by the United States.",
+      "publication_date": "2017-11-10T09:13:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/10/world/asia/trump-apec-asia-trade.html",
+      "byline": "By Julie Hirschfeld Davis and Mark Landler"
+    },
+    {
+      "headline": "Uber Hit With New Blow in London as Panel Says Drivers Aren’t Self-Employed",
+      "snippet": "The decision, affirming a ruling made last year, creates problems not just for the ride-hailing company, but for a hiring model in the so-called gig economy.",
+      "abstract": "The decision, affirming a ruling made last year, creates problems not just for the ride-hailing company, but for a hiring model in the so-called gig economy.",
+      "lead_paragraph": "LONDON — Uber suffered another setback in its biggest market outside the United States after a British employment tribunal rejected the ride-hailing company’s argument that its drivers are self-employed.",
+      "publication_date": "2017-11-10T10:51:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/10/business/uk-uber-london.html",
+      "byline": "By Prashant S. Rao"
+    },
+    {
+      "headline": "Case of Missing Lebanese Prime Minister Stirs Middle East Tensions",
+      "snippet": "A series of odd events in the Middle East have analysts and diplomats wondering if they are connected, and whether they are a prelude to war.",
+      "abstract": "A series of odd events in the Middle East have analysts and diplomats wondering if they are connected, and whether they are a prelude to war.",
+      "lead_paragraph": "BEIRUT, Lebanon — When the Lebanese prime minister Saad Hariri made a sudden trip abroad last week, it was taken at first to be a routine visit with his political patron, Saudi Arabia. But the next day, he unexpectedly announced his resignation by video from Riyadh, the Saudi capital.",
+      "publication_date": "2017-11-10T13:16:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/10/world/middleeast/saudi-arabia-lebanon-france-macron.html",
+      "byline": "By Anne Barnard and David M. Halbfinger"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2009-06-25",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Decoding Battery Life for Laptops",
+      "snippet": "Why doesn’t someone invent a standard for worst-case/best-case duration? Actually, they have. It’s called MobileMark, but there are a few problems.",
+      "abstract": "Why doesn’t someone invent a standard for worst-case/best-case duration? Actually, they have. It’s called MobileMark, but there are a few problems.",
+      "lead_paragraph": "This is a story of truth, greed and the American Way. ",
+      "publication_date": "2009-06-24T21:29:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/25/technology/personaltech/25pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Target-Date Mutual Funds May Miss Their Mark",
+      "snippet": "Once promoted as a safe way for unsophisticated investors to glide to a safe landing in retirement, target-date mutual funds are being criticized for heavy losses.",
+      "abstract": "Once promoted as a safe way for unsophisticated investors to glide to a safe landing in retirement, target-date mutual funds are being criticized for heavy losses.",
+      "lead_paragraph": "Washington blessed them as a way to put your 401(k) on automatic pilot and glide safely toward retirement. ",
+      "publication_date": "2009-06-24T22:19:29+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/25/your-money/mutual-funds-and-etfs/25target.html",
+      "byline": "By Leslie Wayne"
+    },
+    {
+      "headline": "Afghan Leader Outmaneuvers Election Rivals",
+      "snippet": "President Hamid Karzai is at once deeply unpopular and likely to be re-elected, casting a pall over the campaign.",
+      "abstract": "President Hamid Karzai is at once deeply unpopular and likely to be re-elected, casting a pall over the campaign.",
+      "lead_paragraph": "KABUL, Afghanistan  With a nationwide election only weeks away, the paradox of President Hamid Karzai has never seemed more apparent: he is at once deeply unpopular and likely to win.",
+      "publication_date": "2009-06-24T23:25:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/25/world/asia/25karzai.html",
+      "byline": "By Dexter Filkins"
+    },
+    {
+      "headline": "Developing World Seen as Engine for Recovery",
+      "snippet": "The Organization for Economic Cooperation and Development says emerging giants like China, India and Brazil are set to rebound strongly next year, while Europe, the United States and Japan lag.",
+      "abstract": "The Organization for Economic Cooperation and Development says emerging giants like China, India and Brazil are set to rebound strongly next year, while Europe, the United States and Japan lag.",
+      "lead_paragraph": "PARIS  After bruising global downturns, the American economy has usually led the world back to growth, but developing countries could be the engine that powers the next recovery.",
+      "publication_date": "2009-06-24T23:37:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/25/business/global/25oecd.html",
+      "byline": "By Nelson D. Schwartz and Matthew Saltmarsh"
+    },
+    {
+      "headline": "G.O.P. to Paint Bernanke as Big Government Ally",
+      "snippet": "Republican lawmakers have been sharply critical of the Fed chairman’s role in the takeover of Merrill Lynch.",
+      "abstract": "Republican lawmakers have been sharply critical of the Fed chairman’s role in the takeover of Merrill Lynch.",
+      "lead_paragraph": "WASHINGTON  In a peculiar role reversal, Republican lawmakers are mounting a ferocious attack on the Republican chairman of the Federal Reserve, while Democrats are coming to his defense.",
+      "publication_date": "2009-06-25T01:18:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/25/business/25bank.html",
+      "byline": "By Edmund L. Andrews and Louise Story"
+    },
+    {
+      "headline": "Fragile Tanzanian Orphans Get Help After Mothers Die",
+      "snippet": "An innovative program in Africa protects motherless infants through their risky early years.",
+      "abstract": "An innovative program in Africa protects motherless infants through their risky early years.",
+      "lead_paragraph": "BEREGA, Tanzania  The Berega Orphanage, a cluster of neat stucco cottages in this village of red dirt roads and maize plots, is a far cry from what the name suggests. The 20 infants and toddlers here are not put up for adoption, nor kept on indefinitely without hope of ever living with a family. ",
+      "publication_date": "2009-06-25T01:20:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/25/world/africa/25orphan.html",
+      "byline": "By Denise Grady"
+    },
+    {
+      "headline": "Rewriting Rules to Protect Money Funds",
+      "snippet": "The S.E.C. proposed more stringent rules for money market funds to avert runs when they “break the buck.”",
+      "abstract": "The S.E.C. proposed more stringent rules for money market funds to avert runs when they “break the buck.”",
+      "lead_paragraph": "The Securities and Exchange Commission proposed more stringent rules for money market funds on Wednesday in an attempt to avert runs like the one that erupted last fall.",
+      "publication_date": "2009-06-25T01:22:19+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/25/your-money/mutual-funds-and-etfs/25fund.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "In ’98, Hints From Sotomayor on Death Penalty",
+      "snippet": "A Manhattan case provides a revealing look at Judge Sonia Sotomayor’s views on racial bias in capital trials.",
+      "abstract": "A Manhattan case provides a revealing look at Judge Sonia Sotomayor’s views on racial bias in capital trials.",
+      "lead_paragraph": "As a drug kingpin and his bodyguard, both black, faced the first federal death penalty trial in Manhattan since the days of the Rosenbergs, their lawyers argued that the practice of capital punishment was racist.",
+      "publication_date": "2009-06-25T01:53:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/25/us/politics/25death.html",
+      "byline": "By Benjamin Weiser"
+    },
+    {
+      "headline": "Options Shrink for Opposition as Iran Tightens Grip",
+      "snippet": "Step by step, Iran’s leaders are successfully pushing back threats to their authority, crushing protests and restricting the main opposition leader.",
+      "abstract": "Step by step, Iran’s leaders are successfully pushing back threats to their authority, crushing protests and restricting the main opposition leader.",
+      "lead_paragraph": "TEHRAN  Step by step, Iran’s leaders are successfully pushing back threats to their authority, crushing street protests, pressing challengers to withdraw or to limit their objections to the disputed presidential election and restricting the main opposition leader’s ability to do much more than issue statements of outrage. ",
+      "publication_date": "2009-06-25T09:10:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/26/world/middleeast/26iran.html",
+      "byline": "By Nazila Fathi and Michael Slackman"
+    },
+    {
+      "headline": "Bernanke Defends Role on Merrill",
+      "snippet": "In testimony before a House committee, the Federal Reserve chief said he did not pressure bank management to complete the deal.",
+      "abstract": "In testimony before a House committee, the Federal Reserve chief said he did not pressure bank management to complete the deal.",
+      "lead_paragraph": "WASHINGTON  Ben S. Bernanke, the chairman of the Federal Reserve, staunchly denied on Thursday that he or anyone else at the Fed did anything improper in prodding Bank of America to complete its ill-starred takeover of Merrill Lynch last year.",
+      "publication_date": "2009-06-25T14:34:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/06/26/business/26fed.html",
+      "byline": "By Edmund L. Andrews"
+    },
+    {
+      "headline": "Governor Used State’s Money to Visit Lover",
+      "snippet": "Gov. Mark Sanford of South Carolina said he saw his mistress while on a government-funded trip, raising new ethics concerns. He vowed to reimburse its costs.",
+      "abstract": "Gov. Mark Sanford of South Carolina said he saw his mistress while on a government-funded trip, raising new ethics concerns. He vowed to reimburse its costs.",
+      "lead_paragraph": "COLUMBIA, S.C.  Gov. Mark Sanford of South Carolina acknowledged Thursday that he visited his mistress in Argentina on a taxpayer-financed trade mission to South America early last summer, an admission adding another layer to a scandal that produced increasing calls for his resignation. ",
+      "publication_date": "2009-06-25T15:50:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/06/26/us/26sanford.html",
+      "byline": "By Jim Rutenberg and Robbie Brown"
+    }
+  ]
+}

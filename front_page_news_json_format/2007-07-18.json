@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2007-07-18",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Dow Jones Board Reaches Deal With Murdoch",
+      "snippet": "A final decision will be made by the company’s controlling family, the Bancrofts, which could seek to scuttle the sale.",
+      "abstract": "A final decision will be made by the company’s controlling family, the Bancrofts, which could seek to scuttle the sale.",
+      "lead_paragraph": "It’s now down to the Bancrofts.",
+      "publication_date": "2007-07-18T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/07/18/business/media/18dow.html",
+      "byline": "By Andrew Ross Sorkin and Richard Siklos"
+    },
+    {
+      "headline": "Where Campaign Money Goes",
+      "snippet": "Candidates are already building up operations in states whose early primaries have forced a burst of spending.",
+      "abstract": "Candidates are already building up operations in states whose early primaries have forced a burst of spending.",
+      "lead_paragraph": "What does it take to run a national presidential campaign more than half a year before the Iowa caucuses? New finance reports show that the candidates are already building up their operations in several states whose early primaries have forced a burst of spending that is severely taxing the campaigns.",
+      "publication_date": "2007-07-18T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/07/18/us/politics/18spending.html",
+      "byline": "By Michael Cooper and Michael Luo"
+    },
+    {
+      "headline": "Some Records Aren’t Worth the Hoopla",
+      "snippet": "The attention that’s being showered on “Dow 14,000” goes a long way toward explaining why our economy has become so susceptible to speculative bubbles.",
+      "abstract": "The attention that’s being showered on “Dow 14,000” goes a long way toward explaining why our economy has become so susceptible to speculative bubbles.",
+      "lead_paragraph": " So have you heard the one about the stock market’s new record high?",
+      "publication_date": "2007-07-18T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/07/18/business/18leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "I.B.M. Showing That Giants Can Be Nimble",
+      "snippet": "I.B.M. has been reorganized from a classic multinational company to a more seamless global enterprise.",
+      "abstract": "I.B.M. has been reorganized from a classic multinational company to a more seamless global enterprise.",
+      "lead_paragraph": "Two years ago, I.B.M. was stumbling. Its financial performance in the first quarter of 2005 was well below expectations and the culprit was its big technology services unit, a business under increasing pressure from lower-cost Indian outsourcing companies. ",
+      "publication_date": "2007-07-18T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/07/18/technology/18blue.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Limiting Ads of Junk Food to Children",
+      "snippet": "Eleven big food companies have agreed to stop advertising products that do not meet certain nutritional standards to children under 12.",
+      "abstract": "Eleven big food companies have agreed to stop advertising products that do not meet certain nutritional standards to children under 12.",
+      "lead_paragraph": "Trix are no longer for kids — at least not on children’s television shows. But Cocoa Puffs are another matter.",
+      "publication_date": "2007-07-18T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/07/18/business/18food.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Silent Hands Behind the iPhone",
+      "snippet": "With little fanfare, Taiwan companies are playing a big role not only in the production of Apple’s latest device but in a wide array of other communications equipment.",
+      "abstract": "With little fanfare, Taiwan companies are playing a big role not only in the production of Apple’s latest device but in a wide array of other communications equipment.",
+      "lead_paragraph": "TAIPEI, Taiwan — Etched into the back of every iPhone are the words “Designed by Apple in California. Assembled in China.” Apple might as well have added “Made in Taiwan.”",
+      "publication_date": "2007-07-18T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/07/18/technology/18taiwan.html",
+      "byline": "By Ken Belson"
+    }
+  ]
+}

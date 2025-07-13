@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2013-10-11",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Suit Revives Goldman Conflict Issue",
+      "snippet": "In a lawsuit, a former Federal Reserve Bank of New York worker raises questions about the success of Goldman Sachs in policing potential conflicts.",
+      "abstract": "In a lawsuit, a former Federal Reserve Bank of New York worker raises questions about the success of Goldman Sachs in policing potential conflicts.",
+      "lead_paragraph": "At a March 2012 meeting, a group of examiners at the Federal Reserve Bank of New York agreed that Goldman Sachs had inadequate procedures to guard against conflicts of interest — guidelines aimed at stopping firms from putting their pursuit of profit ahead of their clients’ best interests.",
+      "publication_date": "2013-10-10T18:43:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/10/10/bank-examiner-was-told-to-back-off-goldman-suit-says/",
+      "byline": "By Susanne Craig and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Suit Filed Against Warner Bros. in Screenplay Theft",
+      "snippet": "A lawsuit accuses Warner Brothers of stealing the screenplay of its 2012 movie “Trouble With the Curve” and of manufacturing evidence in their defense.",
+      "abstract": "A lawsuit accuses Warner Brothers of stealing the screenplay of its 2012 movie “Trouble With the Curve” and of manufacturing evidence in their defense.",
+      "lead_paragraph": "LOS ANGELES — Warner Brothers responded harshly on Thursday to a legal complaint over the authorship of its Clint Eastwood baseball movie, “Trouble With the Curve.” But its opponents did not back down.",
+      "publication_date": "2013-10-11T00:41:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/11/business/media/suit-filed-against-warner-bros-in-screenplay-theft.html",
+      "byline": "By Michael Cieply"
+    },
+    {
+      "headline": "VW Plant Opens Door to Union and Dispute",
+      "snippet": "Every VW plant in the world has a works council that gives labor a voice at the management table. But selling the idea at its plant in Tennessee has been tough.",
+      "abstract": "Every VW plant in the world has a works council that gives labor a voice at the management table. But selling the idea at its plant in Tennessee has been tough.",
+      "lead_paragraph": "FRANKFURT — The face-off between Volkswagen and the United Automobile Workers over organizing the company’s new plant in Tennessee is rapidly becoming a global clash of cultures.",
+      "publication_date": "2013-10-11T00:42:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/11/business/vw-plant-opens-door-to-union-and-dispute.html",
+      "byline": "By Jack Ewing and Bill Vlasic"
+    },
+    {
+      "headline": "Stocks Rally, Talks Stall, Then Skepticism Returns",
+      "snippet": "Stock prices surged as signs of a compromise emerged in Washington, but the air quickly went out of Wall Street’s balloon after it remained clear that a deal was not yet at hand.",
+      "abstract": "Stock prices surged as signs of a compromise emerged in Washington, but the air quickly went out of Wall Street’s balloon after it remained clear that a deal was not yet at hand.",
+      "lead_paragraph": "Investors embraced signs of a political compromise that could avert a default on government debt, sending stocks surging on Thursday.",
+      "publication_date": "2013-10-11T00:47:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/10/10/stocks-rally-talks-stall-then-skepticism-returns/",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Blue Cross Plans Jump to an Early Lead",
+      "snippet": "In the exchanges created by the Affordable Care Act, Blue Cross and Blue Shield plans offer name recognition and price advantages.",
+      "abstract": "In the exchanges created by the Affordable Care Act, Blue Cross and Blue Shield plans offer name recognition and price advantages.",
+      "lead_paragraph": "Color the new online insurance marketplaces Blue.",
+      "publication_date": "2013-10-11T00:56:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/11/business/blue-cross-plans-jump-to-an-early-lead.html",
+      "byline": "By Reed Abelson"
+    },
+    {
+      "headline": "C.I.A. Warning on Snowden in ’09 Said to Slip Through the Cracks",
+      "snippet": "When Edward J. Snowden worked as a C.I.A. technician in 2009, he was suspected of trying to break into classified files, but a report was never forwarded when he left to become an N.S.A. contractor, officials said.",
+      "abstract": "When Edward J. Snowden worked as a C.I.A. technician in 2009, he was suspected of trying to break into classified files, but a report was never forwarded when he left to become an N.S.A. contractor, officials said.",
+      "lead_paragraph": "WASHINGTON — Just as Edward J. Snowden was preparing to leave Geneva and a job as a C.I.A. technician in 2009, his supervisor wrote a derogatory report in his personnel file, noting a distinct change in the young man’s behavior and work habits, as well as a troubling suspicion.",
+      "publication_date": "2013-10-11T01:24:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/11/us/cia-warning-on-snowden-in-09-said-to-slip-through-the-cracks.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Ryan Is Again in the Forefront for the G.O.P.",
+      "snippet": "Representative Paul D. Ryan, the defeated 2012 vice-presidential nominee, drafted a debt ceiling proposal that fellow Republicans embraced, though it doesn’t mention President Obama’s health care law.",
+      "abstract": "Representative Paul D. Ryan, the defeated 2012 vice-presidential nominee, drafted a debt ceiling proposal that fellow Republicans embraced, though it doesn’t mention President Obama’s health care law.",
+      "lead_paragraph": "WASHINGTON — Representative Paul D. Ryan may have temporarily receded into the Capitol shadows after his stinging vice-presidential defeat in November, but he remains a powerful presence among House Republicans, earning the respect of hard-line conservatives for his budget blueprint and the trust of anxious moderates for his pragmatism.",
+      "publication_date": "2013-10-11T01:30:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/11/us/politics/ryan-is-again-in-the-forefront-for-the-gop.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "JPMorgan’s Loss Is Corporate Law Firms’ Gain",
+      "snippet": "JPMorgan’s numerous regulatory problems are proving to be a boon for the country’s most sophisticated law firms.",
+      "abstract": "JPMorgan’s numerous regulatory problems are proving to be a boon for the country’s most sophisticated law firms.",
+      "lead_paragraph": "Updated, 8:38 p.m. | The calls started flooding into JPMorgan Chase last month.",
+      "publication_date": "2013-10-11T11:20:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2013/10/11/jpmorgan-reported-third-quarter-loss-on-legal-costs/",
+      "byline": "By Peter Lattman and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Divide Narrows as Talks to Resolve Fiscal Crisis Go On",
+      "snippet": "President Obama and Congressional Republicans on Friday showed greater flexibility but headed into the weekend without a deal to reopen the government and raise the debt ceiling.",
+      "abstract": "President Obama and Congressional Republicans on Friday showed greater flexibility but headed into the weekend without a deal to reopen the government and raise the debt ceiling.",
+      "lead_paragraph": "WASHINGTON — Political divisions over the nation’s finances appeared to narrow on Friday as President Obama and Congressional Republicans showed greater flexibility in their negotiations. But officials headed into the weekend without a deal to end the shutdown and avert what could be a devastating default after the government reaches the current borrowing limit on Thursday.",
+      "publication_date": "2013-10-11T12:30:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/10/12/us/politics/budget-and-debt-limit-debate.html",
+      "byline": "By Jeremy W. Peters, Ashley Parker and Peter Baker"
+    },
+    {
+      "headline": "Google to Sell Users’ Endorsements",
+      "snippet": "A change in its terms of service would let Google include users’ names, photos and comments in ads across the Web.",
+      "abstract": "A change in its terms of service would let Google include users’ names, photos and comments in ads across the Web.",
+      "lead_paragraph": "SAN FRANCISCO — Those long-forgotten posts on social networks, from the pasta someone photographed to the rant about her dentist, are forgotten no more. Social networks want to make them easier to find, and in some cases, to show them in ads. ",
+      "publication_date": "2013-10-11T12:58:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/10/12/technology/google-sets-plan-to-sell-users-endorsements.html",
+      "byline": "By Claire Cain Miller and Vindu Goel"
+    }
+  ]
+}

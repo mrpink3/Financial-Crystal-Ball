@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2010-12-24",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "New Interest in Turning Gas to Diesel",
+      "snippet": "With natural gas getting cheaper, a bit of alchemy may be the cheapest way to create a gallon of diesel fuel.",
+      "abstract": "With natural gas getting cheaper, a bit of alchemy may be the cheapest way to create a gallon of diesel fuel.",
+      "lead_paragraph": "WASHINGTON  Diesel and jet fuel are usually made from crude oil. But with oil prices rising even as a glut of natural gas keeps prices for that fuel extraordinarily cheap, a bit of expensive alchemy is suddenly starting to look financially appealing: turning natural gas into liquid fuels.",
+      "publication_date": "2010-12-23T17:06:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/24/business/energy-environment/24fuel.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "Sitting Out the China Trade Battles",
+      "snippet": "Western companies, eager for access to China, are loath to cry foul even amid evidence that Beijing may be flouting international trade laws.",
+      "abstract": "Western companies, eager for access to China, are loath to cry foul even amid evidence that Beijing may be flouting international trade laws.",
+      "lead_paragraph": "HONG KONG",
+      "publication_date": "2010-12-23T20:36:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/24/business/global/24trade.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "The Upside? Things Could Be Worse",
+      "snippet": "Prices have leaped for securities backed by commercial mortgages, not because things are great but because they are not nearly as bad was once expected.",
+      "abstract": "Prices have leaped for securities backed by commercial mortgages, not because things are great but because they are not nearly as bad was once expected.",
+      "lead_paragraph": " The year now ending has been a sobering one for the commercial real estate industry, as mortgage defaults have multiplied. Two years ago, barely 1 percent of such loans were delinquent. A year ago that was up to 6 percent, and late this year the figure hit 9 percent.",
+      "publication_date": "2010-12-23T21:33:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/24/business/24norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "U.S. Approved Business With Blacklisted Nations",
+      "snippet": "An office of the Treasury Department has permitted American companies to do billions of dollars in business with Iran and other blacklisted countries.",
+      "abstract": "An office of the Treasury Department has permitted American companies to do billions of dollars in business with Iran and other blacklisted countries.",
+      "lead_paragraph": "Despite sanctions and trade embargoes, over the past decade the United States government has allowed American companies to do billions of dollars in business with Iran and other countries blacklisted as state sponsors of terrorism, an examination by The New York Times has found.",
+      "publication_date": "2010-12-23T22:16:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/24/world/24sanctions.html",
+      "byline": "By Jo Becker"
+    },
+    {
+      "headline": "Experts Citing Rising Hopes for Recovery",
+      "snippet": "The tax-cut compromise and rising corporate profits and consumer spending are some of the reasons for optimism.",
+      "abstract": "The tax-cut compromise and rising corporate profits and consumer spending are some of the reasons for optimism.",
+      "lead_paragraph": "WASHINGTON  Eighteen months after the recession officially ended, the government’s latest measures to bolster the economy have led many forecasters and policy makers to express new optimism that the recovery will gain substantial momentum in 2011. ",
+      "publication_date": "2010-12-23T22:54:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/24/business/economy/24forecast.html",
+      "byline": "By Sewell Chan"
+    },
+    {
+      "headline": "Tax Inquiry Shifts to Small Swiss Banks",
+      "snippet": "Under investigation are regional banks suspected of helping Americans evade taxes despite a crackdown.",
+      "abstract": "Under investigation are regional banks suspected of helping Americans evade taxes despite a crackdown.",
+      "lead_paragraph": "The Justice Department has opened a criminal investigation into Swiss regional banks that it suspects may have helped scores of wealthy Americans evade taxes despite a broad crackdown on Swiss secrecy, two people briefed on the investigation said on Thursday.",
+      "publication_date": "2010-12-24T00:45:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/24/business/24tax.html",
+      "byline": "By Lynnley Browning"
+    },
+    {
+      "headline": "Jewelry Sellers Thrive on Last-Minute Men",
+      "snippet": "Spending on jewelry accounts for a sales spike during what retailers call “desperation week.”",
+      "abstract": "Spending on jewelry accounts for a sales spike during what retailers call “desperation week.”",
+      "lead_paragraph": "SEATTLE  At this time of year, jewelers rely on last-minute men.",
+      "publication_date": "2010-12-24T00:54:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/24/business/24jewelry.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Wisconsin on the Map to Pray With Mary",
+      "snippet": "A rural chapel is the first site in the United States that church leaders deem to have been visited by Mary.",
+      "abstract": "A rural chapel is the first site in the United States that church leaders deem to have been visited by Mary.",
+      "lead_paragraph": "CHAMPION, Wis.  In France, the shrine at Lourdes is surrounded by hundreds of hotels and has received as many as 45,000 pilgrims in a single day. Our Lady of Guadalupe, in Mexico, draws millions of fervent worshipers a year.",
+      "publication_date": "2010-12-24T01:16:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/24/us/24mary.html",
+      "byline": "By Erik Eckholm"
+    },
+    {
+      "headline": "Putting That Tax Holiday to Work",
+      "snippet": "A little planning will help you get the most out of a yearlong discount on your payroll taxes in 2011.",
+      "abstract": "A little planning will help you get the most out of a yearlong discount on your payroll taxes in 2011.",
+      "lead_paragraph": "The biggest Christmas present that many people will get this year comes from the federal government. And most will probably fritter it away.",
+      "publication_date": "2010-12-24T14:21:30+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/25/your-money/25money.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

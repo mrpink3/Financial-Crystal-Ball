@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-04-06",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trump Removes Stephen Bannon From National Security Council Post",
+      "snippet": "The shift, orchestrated by Lt. Gen. H. R. McMaster, will also restore the positions of senior military and intelligence officials who had been downgraded.",
+      "abstract": "The shift, orchestrated by Lt. Gen. H. R. McMaster, will also restore the positions of senior military and intelligence officials who had been downgraded.",
+      "lead_paragraph": "WASHINGTON — For the first 10 weeks of President Trump’s administration, no adviser loomed larger in the public imagination than Stephen K. Bannon, the raw and rumpled former chairman of Breitbart News who considers himself a “virulently anti-establishment” revolutionary out to destroy the “administrative state.”",
+      "publication_date": "2017-04-05T16:11:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/05/us/politics/national-security-council-stephen-bannon.html",
+      "byline": "By Peter Baker, Maggie Haberman and Glenn Thrush"
+    },
+    {
+      "headline": "Trump’s View of Syria and Assad Altered After ‘Unacceptable’ Chemical Attack",
+      "snippet": "Mr. Trump declined to elaborate what he would do to respond to the attacks during a joint news conference with King Abdullah of Jordan in the Rose Garden.",
+      "abstract": "Mr. Trump declined to elaborate what he would do to respond to the attacks during a joint news conference with King Abdullah of Jordan in the Rose Garden.",
+      "lead_paragraph": "WASHINGTON — President Trump warned on Wednesday that he would not tolerate the “heinous” chemical weapons attack in Syria, opening the door to a greater American role in protecting the population in a vicious civil war that he has always said the United States should avoid.",
+      "publication_date": "2017-04-05T17:51:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/05/world/middleeast/king-abdullah-jordan-trump.html",
+      "byline": "By Mark Landler, David E. Sanger and Michael D. Shear"
+    },
+    {
+      "headline": "Trump, Asked About Accusations Against Bill O’Reilly, Calls Him a ‘Good Person’",
+      "snippet": "The president praised the embattled Fox News host in an interview with The New York Times and said, “I don’t think Bill did anything wrong.”",
+      "abstract": "The president praised the embattled Fox News host in an interview with The New York Times and said, “I don’t think Bill did anything wrong.”",
+      "lead_paragraph": "Bill O’Reilly, the embattled Fox News host, received a powerful show of support on Wednesday from a longtime friend, interview subject, ideological sympathizer and fellow scandal-survivor: the president of the United States.",
+      "publication_date": "2017-04-05T18:13:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/05/business/media/trump-oreilly-fox-murdochs.html",
+      "byline": "By Michael M. Grynbaum and Jim Rutenberg"
+    },
+    {
+      "headline": "Fed Is Expected to Pare Investment Holdings, Officials Signal",
+      "snippet": "Officials discussed the change at the Fed’s most recent meeting in March, according to an official account of the talks. No decision was reached about the timing or the details of the move.",
+      "abstract": "Officials discussed the change at the Fed’s most recent meeting in March, according to an official account of the talks. No decision was reached about the timing or the details of the move.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve expects to start reducing its huge investment holdings later this year, unwinding a giant program undertaken in the wake of the financial crisis to revive the economy.",
+      "publication_date": "2017-04-05T18:28:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/05/business/economy/fed-minutes-interest-rates.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Wall Street and Washington: A New Love Affair",
+      "snippet": "Why is Wall Street bullish on Trump? Regulations (or rather, the promise to abolish them).",
+      "abstract": "Why is Wall Street bullish on Trump? Regulations (or rather, the promise to abolish them).",
+      "lead_paragraph": "Repealing Obamacare. Reforming the tax system. Spending big on infrastructure.",
+      "publication_date": "2017-04-05T20:06:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2017/04/05/business/dealbook/wall-street-and-washington-a-new-love-affair.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "In Canada, Where Muslims Are Few, Group Stirs Fear of Islamists",
+      "snippet": "La Meute started a year and a half ago in Quebec to oppose what it calls “invasive political Islam.” Now, its social media campaign has more than 50,000 followers.",
+      "abstract": "La Meute started a year and a half ago in Quebec to oppose what it calls “invasive political Islam.” Now, its social media campaign has more than 50,000 followers.",
+      "lead_paragraph": "STONEHAM-ET-TEWKESBURY, Quebec — Patrick Beaudry, bejeweled, tattooed and bearded, lives on a remote wooded hillside in rural Quebec, worrying about living under Shariah law.",
+      "publication_date": "2017-04-06T00:53:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/05/world/canada/la-meute-muslims-quebec.html",
+      "byline": "By Craig S. Smith"
+    },
+    {
+      "headline": "Telling Trump’s Story to Children: For Book Publishers, It’s Tricky",
+      "snippet": "Presidential biographies aimed at young readers hit bookshelves every four years. But the latest round has posed a unique set of challenges.",
+      "abstract": "Presidential biographies aimed at young readers hit bookshelves every four years. But the latest round has posed a unique set of challenges.",
+      "lead_paragraph": "On Nov. 10, Beth Sutinis sat at her desk in Brooklyn with a big task looming. As the executive editor for the children’s division of Time Inc. Books, she and her colleagues had worked through the fall to update their book “Presidents of the United States.” They added a spread about Barack Obama, another about the 2016 election and a third about Hillary Clinton, who polls had indicated would be elected the 45th president.",
+      "publication_date": "2017-04-06T00:57:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/05/us/politics/donald-trump-childrens-books.html",
+      "byline": "By Katherine Rosman"
+    },
+    {
+      "headline": "Trump Weighs Infrastructure Bill but Keeps New York Up in the Air",
+      "snippet": "Describing the plan as a legislative sweetener, the president refused to say whether it would include two New York City projects that his budget for next year would defund.",
+      "abstract": "Describing the plan as a legislative sweetener, the president refused to say whether it would include two New York City projects that his budget for next year would defund.",
+      "lead_paragraph": "WASHINGTON — President Trump said he was considering “accelerating” the introduction of his $1 trillion infrastructure bill — but he pointedly refused to say whether he planned to include two major New York City transportation projects that his budget for next year would defund.",
+      "publication_date": "2017-04-06T01:19:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/05/us/politics/donald-trump-infrastructure-bill.html",
+      "byline": "By Glenn Thrush and Maggie Haberman"
+    },
+    {
+      "headline": "Senate Republicans Deploy ‘Nuclear Option’ to Clear Path for Gorsuch",
+      "snippet": "In bypassing a filibuster, Republicans abandoned long-held practices and will be able to confirm President Trump’s nominee for the Supreme Court, Neil M. Gorsuch, with a simple majority vote.",
+      "abstract": "In bypassing a filibuster, Republicans abandoned long-held practices and will be able to confirm President Trump’s nominee for the Supreme Court, Neil M. Gorsuch, with a simple majority vote.",
+      "lead_paragraph": "WASHINGTON — Senate Republicans on Thursday engineered a dramatic change in how the chamber confirms Supreme Court nominations, bypassing a Democratic blockade of Judge Neil M. Gorsuch in a move that will most likely reshape both the Senate and the court.",
+      "publication_date": "2017-04-06T09:00:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/06/us/politics/neil-gorsuch-supreme-court-senate.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "Trump Administration to Take Harder Tack on Trade With China",
+      "snippet": "President Trump planned to sign an executive order targeting steel dumping, a measure aimed at China and a potential victory for his hard-line advisers.",
+      "abstract": "President Trump planned to sign an executive order targeting steel dumping, a measure aimed at China and a potential victory for his hard-line advisers.",
+      "lead_paragraph": "PALM BEACH, Fla. — The Trump administration is planning to roll out its first concrete measures against China on trade, administration officials said on Thursday, hardening its position toward America’s largest trading partner just as President Trump welcomed President Xi Jinping of China to his seaside club here for their first face-to-face meeting.",
+      "publication_date": "2017-04-06T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/06/us/politics/trump-xi-jinping-china-summit-mar-a-lago.html",
+      "byline": "By Mark Landler and Michael D. Shear"
+    }
+  ]
+}

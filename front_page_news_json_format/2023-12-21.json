@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-12-21",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Americans May Be Taking On Too Much Pay-Later ‘Phantom Debt’",
+      "snippet": "Buying mattresses, clothes and other goods on installment plans has propped up spending, but economists worry that such loans could put some people at risk.",
+      "abstract": "Buying mattresses, clothes and other goods on installment plans has propped up spending, but economists worry that such loans could put some people at risk.",
+      "lead_paragraph": "“Buy now, pay later” loans are helping to fuel a record-setting holiday shopping season. Economists worry they could also be masking and exacerbating cracks in Americans’ financial well-being.",
+      "publication_date": "2023-12-20T17:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/20/business/economy/pay-later-credit-debt.html",
+      "byline": "By Ben Casselman and Jordyn Holman"
+    },
+    {
+      "headline": "U.S. Regulators Propose New Online Privacy Safeguards for Children",
+      "snippet": "The F.T.C. called for sweeping changes that could curb how social media, game and learning apps use and monetize youngsters’ data.",
+      "abstract": "The F.T.C. called for sweeping changes that could curb how social media, game and learning apps use and monetize youngsters’ data.",
+      "lead_paragraph": "The Federal Trade Commission on Wednesday proposed sweeping changes to bolster the key federal rule that has protected children’s privacy online, in one of the most significant attempts by the U.S. government to strengthen consumer privacy in more than a decade.",
+      "publication_date": "2023-12-20T17:03:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/20/technology/ftc-regulation-children-online-privacy.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Trump Cases Crashing Into Supreme Court Could Reshape 2024 Election",
+      "snippet": "The ruling that Donald Trump is not eligible for the ballot in Colorado is the latest election-related issue likely to land before the justices. The implications for 2024 could be profound.",
+      "abstract": "The ruling that Donald Trump is not eligible for the ballot in Colorado is the latest election-related issue likely to land before the justices. The implications for 2024 could be profound.",
+      "lead_paragraph": "It has been obvious for months that politics and the law were going to bump into one another in the 2024 campaign, given the double role that former President Donald J. Trump has been playing as a criminal defendant and leading Republican candidate.",
+      "publication_date": "2023-12-20T20:23:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/20/us/politics/trump-supreme-court-election.html",
+      "byline": "By Alan Feuer"
+    },
+    {
+      "headline": "Gaza Truce Talks Bog Down Over Disputes on Aid Inspections",
+      "snippet": "In Cairo and at the U.N., negotiators struggled to come up with plans for pausing the fighting, freeing hostages and speeding up help for Gazans.",
+      "abstract": "In Cairo and at the U.N., negotiators struggled to come up with plans for pausing the fighting, freeing hostages and speeding up help for Gazans.",
+      "lead_paragraph": "The top political leader of Hamas was holding talks with Egyptian officials on Wednesday about a possible truce in its war with Israel in the Gaza Strip, as the United Nations Security Council separately worked frantically to craft a resolution to suspend the fighting that would not draw a veto from Israel’s staunchest ally, the United States.",
+      "publication_date": "2023-12-21T01:00:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/20/world/middleeast/israel-gaza-un.html",
+      "byline": "By Farnaz Fassihi, Patrick Kingsley, Aaron Boxerman and Michael Levenson"
+    },
+    {
+      "headline": "Key Hamas Plotters of Oct. 7 Elude Israel’s Grip on Gaza",
+      "snippet": "Israel has battered Gaza in its quest to destroy Hamas, without finding the commanders it has named as its most important targets.",
+      "abstract": "Israel has battered Gaza in its quest to destroy Hamas, without finding the commanders it has named as its most important targets.",
+      "lead_paragraph": "Fluttering down from the skies over Gaza on a recent day were clouds of fliers dropped by the Israeli military asking for tips on the whereabouts of top Hamas leaders.",
+      "publication_date": "2023-12-21T05:01:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/21/world/middleeast/hamas-leaders-sinwar-israel-gaza.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Hotel Owners Push Back on Merger of National Brands",
+      "snippet": "Franchisees are fighting Choice Hotels’ attempted takeover of its biggest rival, which would create a dominant player in the budget hotel sector.",
+      "abstract": "Franchisees are fighting Choice Hotels’ attempted takeover of its biggest rival, which would create a dominant player in the budget hotel sector.",
+      "lead_paragraph": "When Patrick Pacious, the chief executive of a large portfolio of hotel brands, promoted a blockbuster attempt to acquire a competitor in October, he said the proposed merger would lower costs and attract more customers for the families and small businesses that own most of the company’s locations.",
+      "publication_date": "2023-12-21T10:02:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/21/business/economy/choice-hotels-wyndham-merger-franchises.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Democrats Keep Hoping It’s Curtains for Trump. He’s Still Center Stage.",
+      "snippet": "As Donald Trump faces a new threat to his political future, this time over the question of ballot eligibility, Democrats again find themselves looking toward American institutions to stop him.",
+      "abstract": "As Donald Trump faces a new threat to his political future, this time over the question of ballot eligibility, Democrats again find themselves looking toward American institutions to stop him.",
+      "lead_paragraph": "For as long as Donald J. Trump has dominated Republican politics, many Democrats have pined for a magical cure-all to rid them of his presence.",
+      "publication_date": "2023-12-21T10:02:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/21/us/politics/democrats-trump-ballot.html",
+      "byline": "By Reid J. Epstein"
+    },
+    {
+      "headline": "The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.",
+      "snippet": "Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.",
+      "abstract": "Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.",
+      "lead_paragraph": "Christian Beyer worked around the ground-shaking blasts of one of the Army’s most powerful weapons — the M1 Abrams tank — for 23 years. And for nearly all that time, he was a model soldier, given awards for meritorious service and promoted all the way up to master sergeant in charge of training young tank crews.",
+      "publication_date": "2023-12-21T14:35:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/21/us/army-blast-safety-brain-injuries.html",
+      "byline": "By Dave Philipps"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "date": "2020-08-31",
+    "total_articles": 17
+  },
+  "articles": [
+    {
+      "headline": "Movies Are Returning to Theaters. Will Audiences Follow?",
+      "snippet": "Big-budget films are being released for the first time since March, but the willingness of people to sit inside a closed room with strangers for several hours is still uncertain.",
+      "abstract": "Big-budget films are being released for the first time since March, but the willingness of people to sit inside a closed room with strangers for several hours is still uncertain.",
+      "lead_paragraph": "HENDERSON, Nev. — The Regal Sunset Station multiplex in suburban Las Vegas reopened on Thursday night after sitting empty for five months in eerie pandemic-forced exile. One of the first people to take a center seat, popcorn and orange soda in hand, was Brian Truitt, who bought tickets to “The New Mutants,” a Marvel superhero movie, a week in advance.",
+      "publication_date": "2020-08-28T21:39:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/28/business/media/coronavirus-movie-theaters-new-mutants.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Jacob Blake Was Shackled in Hospital Bed After Police Shot Him",
+      "snippet": "The authorities said an earlier sexual assault charge was the reason for the restraints, which were removed on Friday.",
+      "abstract": "The authorities said an earlier sexual assault charge was the reason for the restraints, which were removed on Friday.",
+      "lead_paragraph": "[Here’s what we know about the Jacob Blake shooting in Kenosha, Wisconsin.]",
+      "publication_date": "2020-08-29T00:01:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/28/us/jacob-blake-shackles-assault.html",
+      "byline": "By John Eligon, Sarah Mervosh and Richard A. Oppel Jr"
+    },
+    {
+      "headline": "Rival Themes Emerge as Race Enters Final Weeks: Covid vs. Law and Order",
+      "snippet": "The national political conventions over the last two weeks set the battle lines for the election’s remaining weeks. Joe Biden is focusing on President Trump’s virus management, while the president is hammering a law-and-order message.",
+      "abstract": "The national political conventions over the last two weeks set the battle lines for the election’s remaining weeks. Joe Biden is focusing on President Trump’s virus management, while the president is hammering a law-and-order message.",
+      "lead_paragraph": "As a weeklong Republican offensive against Joseph R. Biden Jr. ends, the Democratic nominee plans to resume campaigning in swing states and has released a multimillion dollar barrage of ads attacking President Trump’s handling of the coronavirus.",
+      "publication_date": "2020-08-29T00:18:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/28/us/politics/joe-biden-trump-conventions.html",
+      "byline": "By Katie Glueck, Annie Karni and Alexander Burns"
+    },
+    {
+      "headline": "How the G.O.P. Stretched Hard to Defend Trump on Race and Gender",
+      "snippet": "Never before has a convention by a major party felt compelled to call such a diverse array of speakers to defend the character of a sitting president.",
+      "abstract": "Never before has a convention by a major party felt compelled to call such a diverse array of speakers to defend the character of a sitting president.",
+      "lead_paragraph": "The Republican convention this week marked an extraordinary effort to recast President Trump’s image on issues of race and gender, with the party stretching to find African-Americans who would testify that Mr. Trump is not racist, and lining up women to describe him as sensitive and empathetic — qualities he rarely displays in public.",
+      "publication_date": "2020-08-29T13:33:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/29/us/politics/rnc-trump-race-gender.html",
+      "byline": "By Adam Nagourney and Sydney Ember"
+    },
+    {
+      "headline": "With a Wary Eye on China, Taiwan Moves to Revamp Its Military",
+      "snippet": "The self-governing democracy is taking steps to bolster its armed forces in order to deter or defeat an invasion from China — with or without American help.",
+      "abstract": "The self-governing democracy is taking steps to bolster its armed forces in order to deter or defeat an invasion from China — with or without American help.",
+      "lead_paragraph": "On a cloudy day last month, thousands of soldiers massed on a beach in central Taiwan for the culmination of five days of exercises intended to demonstrate how the island’s military would repel an invasion from China.",
+      "publication_date": "2020-08-30T04:03:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/30/world/asia/taiwan-china-military.html",
+      "byline": "By Steven Lee Myers and Javier C. Hernández"
+    },
+    {
+      "headline": "Looking to Reopen, Colleges Become Labs for Coronavirus Tests and Tracking Apps",
+      "snippet": "Universities are pioneering technology that could help society combat the pandemic.",
+      "abstract": "Universities are pioneering technology that could help society combat the pandemic.",
+      "lead_paragraph": "Thousands of students returning to the Rochester Institute of Technology in New York this month are being asked to wear masks in public, register their health status online each day and electronically log classroom visits for contact tracing if a coronavirus outbreak occurs. But the most novel effort at the school to measure and limit virus spread will require little effort and come quite naturally.",
+      "publication_date": "2020-08-30T07:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/30/us/colleges-coronavirus-research.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "Breonna Taylor’s Life Was Changing. Then the Police Came to Her Door.",
+      "snippet": "An ex-boyfriend’s run-ins with the law entangled her even as she tried to move on. Interviews, documents and jailhouse recordings help explain how she landed in the middle of a deadly drug raid.",
+      "abstract": "An ex-boyfriend’s run-ins with the law entangled her even as she tried to move on. Interviews, documents and jailhouse recordings help explain how she landed in the middle of a deadly drug raid.",
+      "lead_paragraph": "",
+      "publication_date": "2020-08-30T07:00:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/30/us/breonna-taylor-police-killing.html",
+      "byline": ""
+    },
+    {
+      "headline": "Preaching Equality, Start-Up Didn’t Practice It With Employees",
+      "snippet": "Current and former workers at Carta, a hot Silicon Valley fintech company, said they were belittled, excluded and punished if they spoke up.",
+      "abstract": "Current and former workers at Carta, a hot Silicon Valley fintech company, said they were belittled, excluded and punished if they spoke up.",
+      "lead_paragraph": "SAN FRANCISCO — Onstage at an industry conference last year, Henry Ward, chief executive of the financial technology start-up Carta, described his vision for transforming the way that workers get paid.",
+      "publication_date": "2020-08-30T09:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/30/business/carta-workers-inequality.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Steven Mnuchin Tried to Save the Economy. Not Even His Family Is Happy.",
+      "snippet": "The coronavirus was an opportunity for the Treasury secretary to redefine his legacy, for better or worse.",
+      "abstract": "The coronavirus was an opportunity for the Treasury secretary to redefine his legacy, for better or worse.",
+      "lead_paragraph": "One spring day, not long after President Trump signed the largest economic stimulus package in American history in March, a group of his top aides and cabinet officers gathered in the Oval Office.",
+      "publication_date": "2020-08-30T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/30/business/steven-mnuchin-trump-economy.html",
+      "byline": "By James B. Stewart and Alan Rappeport"
+    },
+    {
+      "headline": "Stories of 2020: Five Lives Caught in a Year of Upheaval and Pain",
+      "snippet": "In a year that has filled morgues, emptied schools, shuttered workplaces, swelled unemployment lines and polarized the electorate, these are a few of the Americans struggling to respond.",
+      "abstract": "In a year that has filled morgues, emptied schools, shuttered workplaces, swelled unemployment lines and polarized the electorate, these are a few of the Americans struggling to respond.",
+      "lead_paragraph": "WASHINGTON — And then Chadwick Boseman died. On a Friday night, a way-too-young Hollywood star who had inspired fans around the world suddenly was gone without warning. After everything else, it was just too much for many. “I HATE 2020” began trending on Twitter. Not for the first time and probably not for the last.",
+      "publication_date": "2020-08-30T23:31:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/30/us/politics/2020-year.html",
+      "byline": "By Peter Baker, John Branch, John Eligon, Reid J. Epstein, Dan Levin and Marc Stein"
+    },
+    {
+      "headline": "Portland Shooting Amplifies Tensions in Presidential Race",
+      "snippet": "A fatal shooting after clashes in Portland came on the heels of the shooting deaths of two people during confrontations in Kenosha, Wis., earlier in the week.",
+      "abstract": "A fatal shooting after clashes in Portland came on the heels of the shooting deaths of two people during confrontations in Kenosha, Wis., earlier in the week.",
+      "lead_paragraph": "PORTLAND, Ore. — A fatal shooting in Portland, Ore., over the weekend led President Trump to unleash a torrent of tweets and attacks on Sunday, capping a volatile week of street violence that is becoming a major theme in the final weeks of the 2020 campaign.",
+      "publication_date": "2020-08-31T00:51:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/30/us/portland-shooting-protests.html",
+      "byline": "By Mike Baker, Thomas Kaplan and Shane Goldmacher"
+    },
+    {
+      "headline": "I’m Still Reading Andrew Sullivan. But I Can’t Defend Him.",
+      "snippet": "He’s one of the most influential journalists of the last three decades, but he’s shadowed by a 1994 magazine cover story that claimed to show a link between race and I.Q.",
+      "abstract": "He’s one of the most influential journalists of the last three decades, but he’s shadowed by a 1994 magazine cover story that claimed to show a link between race and I.Q.",
+      "lead_paragraph": "PROVINCETOWN, Mass. — The only restaurant open late on this sandy tip of Cape Cod is Spiritus Pizza, and men have long gathered on the mottled bricks in front to hang out, gossip and cruise. One night last week, some were blasting disco onto Commercial Street when a slightly stoned Englishman with a salt-and-pepper beard approached them and demanded politely but forcefully that they turn it down.",
+      "publication_date": "2020-08-31T01:30:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/30/business/media/im-still-reading-andrew-sullivan-but-i-cant-defend-him.html",
+      "byline": "By Ben Smith"
+    },
+    {
+      "headline": "As Japan’s Abe Leaves, ‘Abenomics’ Will Remain, for Good or Ill",
+      "snippet": "The departing prime minister’s policies helped shake Japan out of decades of stagnation. But long-term restructuring efforts are needed to keep its economy charging forward.",
+      "abstract": "The departing prime minister’s policies helped shake Japan out of decades of stagnation. But long-term restructuring efforts are needed to keep its economy charging forward.",
+      "lead_paragraph": "TOKYO — Komaki Fujii opened her central Tokyo vegetarian restaurant in 2013, when the future looked bright. Shinzo Abe, Japan’s prime minister, had just taken office promising a bold package of reforms that would supercharge the country’s stagnant economy and transform the way it did business.",
+      "publication_date": "2020-08-31T04:01:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/31/business/japan-shinzo-abe-economy.html",
+      "byline": "By Ben Dooley and Hikari Hida"
+    },
+    {
+      "headline": "The Few, the Proud, the White: The Marine Corps Balks at Promoting Generals of Color",
+      "snippet": "A respected, combat-tested Black colonel has been passed over three times for promotion to brigadier general. What does his fate say about the Corps?",
+      "abstract": "A respected, combat-tested Black colonel has been passed over three times for promotion to brigadier general. What does his fate say about the Corps?",
+      "lead_paragraph": "WASHINGTON — All things being equal, Col. Anthony Henderson has the military background that the Marine Corps says it prizes in a general: multiple combat tours, leadership experience and the respect of those he commanded and most who commanded him.",
+      "publication_date": "2020-08-31T09:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/31/us/politics/marines-race-general.html",
+      "byline": "By Helene Cooper"
+    },
+    {
+      "headline": "In Massachusetts, Markey Outflanks Kennedy by Running as Bold Insurgent",
+      "snippet": "Edward Markey, 74, entered Congress before Joseph Kennedy III was born. But in their Senate race he has harnessed the energy of Alexandria Ocasio-Cortez and the ascendant left, much to Mr. Kennedy’s frustration.",
+      "abstract": "Edward Markey, 74, entered Congress before Joseph Kennedy III was born. But in their Senate race he has harnessed the energy of Alexandria Ocasio-Cortez and the ascendant left, much to Mr. Kennedy’s frustration.",
+      "lead_paragraph": "BOSTON — Stepping out of the rain on a dreary Saturday morning, Representative Joseph P. Kennedy III made no attempt to hide his frustration as he raced from neighborhood to neighborhood in a city as synonymous with his family as it is with the Green Monster.",
+      "publication_date": "2020-08-31T09:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/31/us/markey-kennedy-massachusetts-senate.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "A Vow of Silence, a Cabin in the Woods, a Terrible Wildfire",
+      "snippet": "If anyone could outsmart a wildfire, it would seem to be Tad Jones, who lived for decades in a California forest, more a friend of nature than of man.",
+      "abstract": "If anyone could outsmart a wildfire, it would seem to be Tad Jones, who lived for decades in a California forest, more a friend of nature than of man.",
+      "lead_paragraph": "LAST CHANCE, Calif. — Even for Last Chance, a rugged community in the forests above the Pacific Ocean where residents mill their own lumber and grow their own food, Tad Jones was particularly ascetic. He shunned electricity and plumbing. He once spent a year living in the hollow base of a redwood tree. For decades he took a vow of silence, scrawling in notebooks or on a tiny chalkboard when he had something to say.",
+      "publication_date": "2020-08-31T09:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/31/us/fires-california-monk-tad-jones-last-chance-santa-cruz.html",
+      "byline": "By Thomas Fuller and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "Trump’s Tariffs? Coronavirus? China’s Exports Are Surging Anyway",
+      "snippet": "Chinese companies account for a greater share of goods sold abroad, showing their tremendous strength despite mounting challenges.",
+      "abstract": "Chinese companies account for a greater share of goods sold abroad, showing their tremendous strength despite mounting challenges.",
+      "lead_paragraph": "ZHONGSHAN, China — This was supposed to be the year that China’s export machine began to stall. President Trump had imposed broad tariffs on Chinese goods. Countries like Japan and France pushed companies to shift production from China. The pandemic had crippled China’s factories by the end of January.",
+      "publication_date": "2020-08-31T14:31:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/31/business/trumps-tariffs-coronavirus-china-exports.html",
+      "byline": "By Keith Bradsher"
+    }
+  ]
+}

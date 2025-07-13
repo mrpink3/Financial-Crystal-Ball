@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2022-11-10",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "On Twitter, Elon Musk Details His Plans for Twitter’s Business",
+      "snippet": "Mr. Musk, the social media service’s new owner, has been looking for ways to generate more revenue at the company.",
+      "abstract": "Mr. Musk, the social media service’s new owner, has been looking for ways to generate more revenue at the company.",
+      "lead_paragraph": "SAN FRANCISCO — With little warning, in front of hordes of listeners, Elon Musk on Wednesday laid out his most comprehensive overview for Twitter’s business since he took control of the company less than two weeks ago.",
+      "publication_date": "2022-11-09T16:19:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/09/technology/twitter-payments-business.html",
+      "byline": "By Tiffany Hsu and Kate Conger"
+    },
+    {
+      "headline": "Biden Celebrates Beating the Odds, but He Faces a New Challenge",
+      "snippet": "President Biden appeared to have the best midterms of any president in 20 years, avoiding the “shellacking” his predecessors endured. But even a narrow Republican majority could transform his presidency.",
+      "abstract": "President Biden appeared to have the best midterms of any president in 20 years, avoiding the “shellacking” his predecessors endured. But even a narrow Republican majority could transform his presidency.",
+      "lead_paragraph": "WASHINGTON — President Biden on Wednesday celebrated avoiding the “giant red wave” that many had anticipated in this week’s midterm elections and reaffirmed that he intends to run again in 2024, even as he vowed to work across the aisle with ascendant congressional Republicans.",
+      "publication_date": "2022-11-09T18:47:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/09/us/politics/biden-midterms-republicans.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Election Denial Didn’t Play as Well as Republicans Hoped",
+      "snippet": "Democrats won races for top election posts in several political battlegrounds where their Republican rivals had cast doubt on the 2020 contest and signaled their desire to overhaul voting systems.",
+      "abstract": "Democrats won races for top election posts in several political battlegrounds where their Republican rivals had cast doubt on the 2020 contest and signaled their desire to overhaul voting systems.",
+      "lead_paragraph": "Voters in a series of critical battleground states rejected Republican candidates for governor, attorney general and secretary of state who have spread doubts about the 2020 election, blocking an effort to install allies of former President Donald J. Trump in positions with sweeping authority over voting.",
+      "publication_date": "2022-11-09T18:58:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/09/us/politics/trump-election-candidates-voting.html",
+      "byline": "By Nick Corasaniti, Reid J. Epstein and Jonathan Weisman"
+    },
+    {
+      "headline": "Binance Pulls Out of Deal to Acquire Rival Crypto Exchange FTX",
+      "snippet": "The rapid collapse of FTX, built by the billionaire Sam Bankman-Fried, suggests that no company in the freewheeling, loosely regulated crypto industry is safe.",
+      "abstract": "The rapid collapse of FTX, built by the billionaire Sam Bankman-Fried, suggests that no company in the freewheeling, loosely regulated crypto industry is safe.",
+      "lead_paragraph": "It was a stunning fall for a celebrated executive who was leading the crypto industry’s charge into the mainstream of finance.",
+      "publication_date": "2022-11-09T19:44:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/09/technology/ftx-binance-crypto.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Is This Crypto’s Lehman Moment?",
+      "snippet": "Here’s how to make sense of the industry-shaking collapse of FTX.",
+      "abstract": "Here’s how to make sense of the industry-shaking collapse of FTX.",
+      "lead_paragraph": "The crypto industry is known for dramatic twists, roller-coaster prices and fortunes that appear and disappear overnight.",
+      "publication_date": "2022-11-09T19:58:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/09/technology/cryptocurrency-binance-ftx.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Russia Orders Retreat From Kherson, a Serious Reversal in the Ukraine War",
+      "snippet": "Russia’s position had grown perilous in Kherson, a strategic city and one of the biggest prizes seized in its Ukraine invasion, but Russian hawks reacted angrily to the withdrawal.",
+      "abstract": "Russia’s position had grown perilous in Kherson, a strategic city and one of the biggest prizes seized in its Ukraine invasion, but Russian hawks reacted angrily to the withdrawal.",
+      "lead_paragraph": "KYIV, Ukraine — The Kremlin on Wednesday announced a retreat of Russian forces from the strategically important city of Kherson in southern Ukraine, a concession to military reality eight months after capturing the area, and one of the most significant reversals of President Vladimir V. Putin’s war effort.",
+      "publication_date": "2022-11-09T23:22:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/09/world/europe/ukraine-russia-kherson-retreat.html",
+      "byline": "By Marc Santora, Andrew E. Kramer, Dan Bilefsky, Ivan Nechepurenko and Anton Troianovski"
+    },
+    {
+      "headline": "How Democrats Used the Abortion Debate to Hold Off a Red Wave",
+      "snippet": "In the first major election post-Roe, Democrats tied abortion rights to everyday economics and tapped into fears about the rise of right-wing Republicans.",
+      "abstract": "In the first major election post-Roe, Democrats tied abortion rights to everyday economics and tapped into fears about the rise of right-wing Republicans.",
+      "lead_paragraph": "For months, the midterm elections appeared to be a clash over rising prices, public safety worries and fears of a looming recession.",
+      "publication_date": "2022-11-10T08:00:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/10/us/politics/abortion-midterm-elections-democrats-republicans.html",
+      "byline": "By Lisa Lerer and Elizabeth Dias"
+    },
+    {
+      "headline": "Tech’s Talent Wars Have Come Back to Bite It",
+      "snippet": "Hiring the best, the brightest and the highest number of employees was a badge of honor at tech companies. Not anymore as layoffs surge.",
+      "abstract": "Hiring the best, the brightest and the highest number of employees was a badge of honor at tech companies. Not anymore as layoffs surge.",
+      "lead_paragraph": "When Stripe, a payments start-up valued at $74 billion, laid off more than 1,000 employees this month, its co-founders blamed themselves. “We overhired for the world we’re in,” they wrote. “We were much too optimistic.”",
+      "publication_date": "2022-11-10T10:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/10/technology/big-tech-layoffs.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "As the Fed Raises Rates, Worries Grow About Corporate Bonds",
+      "snippet": "Executives, analysts and bond traders are all wondering if corporate finance is about to unravel as interest rates rise.",
+      "abstract": "Executives, analysts and bond traders are all wondering if corporate finance is about to unravel as interest rates rise.",
+      "lead_paragraph": "As the Federal Reserve raises interest rates in an effort to tame inflation, the corporate bond market, which lends money to many companies, has been hammered particularly hard.",
+      "publication_date": "2022-11-10T10:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/10/business/economy/corporate-bonds-fed-interest-rates.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "Markets Soar on Signs of Slower Inflation",
+      "snippet": "Stocks rallied and bond yields tumbled as investors reset their expectations for the pace of interest rate increases by the Federal Reserve.",
+      "abstract": "Stocks rallied and bond yields tumbled as investors reset their expectations for the pace of interest rate increases by the Federal Reserve.",
+      "lead_paragraph": "Stocks jolted higher on Thursday, after fresh data showed a moderation in inflation, bolstering investors’ expectations that the Federal Reserve will soon slow the pace of interest rate increases that have weighed on the market.",
+      "publication_date": "2022-11-10T10:05:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/10/business/stock-market-inflation.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "After Months of Stubborn Inflation, Glimmers of Hope Emerge",
+      "snippet": "The Consumer Price Index showed that prices climbed 7.7 percent in the year through October, a quick pace but a notable moderation.",
+      "abstract": "The Consumer Price Index showed that prices climbed 7.7 percent in the year through October, a quick pace but a notable moderation.",
+      "lead_paragraph": "Fresh economic data released Thursday showed that inflation cooled more than expected in October, a hopeful development for American consumers and welcome news for the Federal Reserve and White House after months of stubbornly persistent price increases.",
+      "publication_date": "2022-11-10T10:05:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/10/business/economy/october-inflation-data.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "FTX Crypto Exchange Boss Says He Is Trying to Raise More Money",
+      "snippet": "Sam Bankman-Fried told employees that he wanted to reinforce his company’s finances after a collapse that is drawing scrutiny from regulators.",
+      "abstract": "Sam Bankman-Fried told employees that he wanted to reinforce his company’s finances after a collapse that is drawing scrutiny from regulators.",
+      "lead_paragraph": "The embattled cryptocurrency executive Sam Bankman-Fried struggled on Thursday to find a lifeline for his collapsed exchange, FTX, with crypto markets still rattled and his company facing mounting legal and regulatory threats.",
+      "publication_date": "2022-11-10T15:52:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/10/technology/ftx-crypto-exchange.html",
+      "byline": "By David Yaffe-Bellany, Matthew Goldstein, Lauren Hirsch and Erin Griffith"
+    }
+  ]
+}

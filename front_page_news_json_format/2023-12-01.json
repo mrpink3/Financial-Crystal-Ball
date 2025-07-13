@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-12-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Israel Knew Hamas’s Attack Plan More Than a Year Ago",
+      "snippet": "A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.",
+      "abstract": "A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.",
+      "lead_paragraph": "Israeli officials obtained Hamas’s battle plan for the Oct. 7 terrorist attack more than a year before it happened, documents, emails and interviews show. But Israeli military and intelligence officials dismissed the plan as aspirational, considering it too difficult for Hamas to carry out.",
+      "publication_date": "2023-12-01T00:16:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html",
+      "byline": "By Ronen Bergman and Adam Goldman"
+    },
+    {
+      "headline": "Climate Protesters Get in Fed’s Face as Policy Clash Grows Louder",
+      "snippet": "Jerome H. Powell, the central bank’s chair, has been interrupted recently by a climate group that thinks disruption will win the day.",
+      "abstract": "Jerome H. Powell, the central bank’s chair, has been interrupted recently by a climate group that thinks disruption will win the day.",
+      "lead_paragraph": "A video of security officers wrestling a protester to the floor in the lobby of the Jackson Lake Lodge in Wyoming, outside the Federal Reserve’s most closely watched annual conference, clocked more than a million views.",
+      "publication_date": "2023-12-01T10:03:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/01/business/economy/federal-reserve-climate-protesters.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "TikTok’s C.E.O. Uses Personal Touch to Address Antisemitism Concerns",
+      "snippet": "The company in recent weeks organized several in-person meetings between its top executive and Jewish groups and business leaders.",
+      "abstract": "The company in recent weeks organized several in-person meetings between its top executive and Jewish groups and business leaders.",
+      "lead_paragraph": "Shou Chew, TikTok’s chief executive, has been getting personally involved in efforts to address concerns that the app has fueled anti-Israel and antisemitic rhetoric since the start of the Israel-Hamas war, in a sign of how seriously the company is taking the criticism.",
+      "publication_date": "2023-12-01T10:03:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/01/business/shou-chew-tiktok-antisemitism.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "U.S. Limits China’s Ability to Benefit From Electric Vehicle Subsidies",
+      "snippet": "The Biden administration issued new rules to prevent Chinese firms from supplying parts for electric cars set to receive billions of dollars in tax credits.",
+      "abstract": "The Biden administration issued new rules to prevent Chinese firms from supplying parts for electric cars set to receive billions of dollars in tax credits.",
+      "lead_paragraph": "The Biden administration proposed new rules on Friday aimed at shifting more production of electric vehicle batteries and the materials that power them to the United States, in an attempt to build up a strategic industry now dominated by China.",
+      "publication_date": "2023-12-01T13:45:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/01/business/economy/china-electric-vehicles-rules.html",
+      "byline": "By Ana Swanson, Jack Ewing and Alan Rappeport"
+    },
+    {
+      "headline": "Surging U.S. Oil Production Brings Down Prices and Raises Climate Fears",
+      "snippet": "American oil production is hitting record levels, delivering economic and foreign policy benefits but putting environmental goals further out of reach.",
+      "abstract": "American oil production is hitting record levels, delivering economic and foreign policy benefits but putting environmental goals further out of reach.",
+      "lead_paragraph": "American oil fields are gushing again, helping to drive down fuel prices but also threatening to undercut efforts to reduce greenhouse gas emissions.",
+      "publication_date": "2023-12-01T14:38:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/01/business/energy-environment/us-oil-production-record-climate.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93",
+      "snippet": "During a crucial period in American law — when abortion, affirmative action, sex discrimination and voting rights were on the docket — she was the most powerful woman in the country.",
+      "abstract": "During a crucial period in American law — when abortion, affirmative action, sex discrimination and voting rights were on the docket — she was the most powerful woman in the country.",
+      "lead_paragraph": "Sandra Day O’Connor, the first woman on the United States Supreme Court, a rancher’s daughter who wielded great power over American law from her seat at the center of the court’s ideological spectrum, died on Friday in Phoenix. She was 93.",
+      "publication_date": "2023-12-01T15:06:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/01/us/sandra-day-oconnor-dead.html",
+      "byline": "By Linda Greenhouse"
+    }
+  ]
+}

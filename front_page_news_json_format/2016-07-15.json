@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2016-07-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Donald Trump Postpones Naming Running Mate",
+      "snippet": "The presumptive Republican nominee cited the events in Nice, France, though Gov. Mike Pence is widely considered his likely choice.",
+      "abstract": "The presumptive Republican nominee cited the events in Nice, France, though Gov. Mike Pence is widely considered his likely choice.",
+      "lead_paragraph": "Donald J. Trump’s presidential campaign signaled strongly on Thursday that he would name Gov. Mike Pence of Indiana as his running mate, but abruptly postponed a long-planned unveiling of the Republican ticket after an  attack that left dozens dead in France.",
+      "publication_date": "2016-07-14T16:26:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/15/us/politics/mike-pence-donald-trump-vice-president.html",
+      "byline": "By Alexander Burns, Maggie Haberman and Ashley Parker"
+    },
+    {
+      "headline": "For Trump, Business Leaders Are More Elites to Resist",
+      "snippet": "Donald Trump’s embrace of economic policies that are anathema to members of the Business Roundtable is seen as a betrayal of bedrock Republican principles.",
+      "abstract": "Donald Trump’s embrace of economic policies that are anathema to members of the Business Roundtable is seen as a betrayal of bedrock Republican principles.",
+      "lead_paragraph": "Of all the groups promoting pro-business, pro-growth economic policies, none is more prominent and influential than the Business Roundtable. An elite group of chief executives of major American corporations, Roundtable members collectively have more than $7 trillion in annual revenue and employ nearly 16 million workers.",
+      "publication_date": "2016-07-14T16:30:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/15/business/for-trump-business-leaders-are-more-elites-to-resist.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Microsoft Wins Appeal on Overseas Data Searches",
+      "snippet": "The United States Court of Appeals for the Second Circuit reversed a ruling that Microsoft must turn over email stored in a data center in Dublin.",
+      "abstract": "The United States Court of Appeals for the Second Circuit reversed a ruling that Microsoft must turn over email stored in a data center in Dublin.",
+      "lead_paragraph": "For the last few years, American technology giants have been embroiled in a power struggle with the United States government over when authorities get to see and use the digital data that the companies collect.",
+      "publication_date": "2016-07-14T17:20:02+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/15/technology/microsoft-wins-appeal-on-overseas-data-searches.html",
+      "byline": "By Nick Wingfield and Cecilia Kang"
+    },
+    {
+      "headline": "Paying Farmers to Go Organic, Even Before the Crops Come In",
+      "snippet": "Demand for organic crops so outstrips the supply that some food brands are underwriting farmers’ arduous and costly transition to organic production.",
+      "abstract": "Demand for organic crops so outstrips the supply that some food brands are underwriting farmers’ arduous and costly transition to organic production.",
+      "lead_paragraph": "DENAIR, Calif. — The last time Wendell Naraghi tried to make money from organic nuts, in the 1980s, he failed miserably.",
+      "publication_date": "2016-07-14T20:48:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/15/business/paying-farmers-to-go-organic-even-before-the-crops-come-in.html",
+      "byline": "By Stephanie Strom"
+    },
+    {
+      "headline": "Scores Die in Nice, France, as Truck Plows Into Bastille Day Crowd",
+      "snippet": "Graphic images showed the vehicle tearing through the crowd. The driver was shot to death by the police, and France’s president called the assault “a monstrosity.”",
+      "abstract": "Graphic images showed the vehicle tearing through the crowd. The driver was shot to death by the police, and France’s president called the assault “a monstrosity.”",
+      "lead_paragraph": "PARIS — A Bastille Day fireworks celebration was shattered by death and mayhem Thursday night in the southern French city of Nice when a large truck barreled for more than a mile through an enormous crowd of spectators, crushing and maiming dozens in what France’s president called a terrorist assault. It came eight months after the Paris attacks that traumatized the nation and all of Europe.",
+      "publication_date": "2016-07-14T21:47:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/15/world/europe/nice-france-truck-bastille-day.html",
+      "byline": "By Alissa J. Rubin, Adam Nossiter and Christopher Mele"
+    },
+    {
+      "headline": "In Nice, a Vibrant Celebration Gives Way to a Trail of Death",
+      "snippet": "A speeding truck that barreled into a crowd on Bastille Day left a trail of bodies, shock and despair.",
+      "abstract": "A speeding truck that barreled into a crowd on Bastille Day left a trail of bodies, shock and despair.",
+      "lead_paragraph": "NICE, France — A red ambulance, its lights flashing, sped down the road and jerked to a stop. The driver jumped out, asking, “Where are the wounded?”",
+      "publication_date": "2016-07-15T02:15:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/15/world/europe/nice-bastille-day.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "As China’s Economy Slows, Beijing’s Growth Push Loses Punch",
+      "snippet": "High debt and a glut of unneeded factories are hindering the government’s usual method of using spending and lending to create more activity.",
+      "abstract": "High debt and a glut of unneeded factories are hindering the government’s usual method of using spending and lending to create more activity.",
+      "lead_paragraph": "LEIZHOU, China — Mo Ping for years made his living by tending the mango and jujube trees that he grew on less than an acre on this tip of land in the far south of China.",
+      "publication_date": "2016-07-15T07:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/16/business/international/china-gdp-growth-stimulus.html",
+      "byline": "By Neil Gough and Owen Guo"
+    },
+    {
+      "headline": "France Says Truck Attacker Was Tunisia Native With Record of Petty Crime",
+      "snippet": "The man, 31, had no known links to the militant extremists who have targeted and traumatized France.",
+      "abstract": "The man, 31, had no known links to the militant extremists who have targeted and traumatized France.",
+      "lead_paragraph": "NICE, France — French officials on Friday identified the man who used a 19-ton truck to massacre dozens of people on the French Riviera as a 31-year-old native of Tunisia with a history of petty crime and marriage problems — but no links with the militant extremists who have targeted and traumatized France.",
+      "publication_date": "2016-07-15T11:36:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/16/world/europe/attack-nice-bastille-day.html",
+      "byline": "By Alissa J. Rubin, Lilia Blaise, Adam Nossiter and Aurelien Breeden"
+    },
+    {
+      "headline": "Herbalife Settlement With F.T.C. Ends Billionaires’ Battle",
+      "snippet": "Regulators fined the company but didn’t shut it down, handing a victory to the investor Carl C. Icahn over the hedge fund manager William A. Ackman.",
+      "abstract": "Regulators fined the company but didn’t shut it down, handing a victory to the investor Carl C. Icahn over the hedge fund manager William A. Ackman.",
+      "lead_paragraph": "In the Wall Street dogfight between two billionaire investors, William A. Ackman won a moral victory but Carl C. Icahn won the war over the future of Herbalife, the nutritional supplements company.",
+      "publication_date": "2016-07-15T13:37:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/16/business/dealbook/herbalife-ftc-inquiry-settlement-william-ackman.html",
+      "byline": "By Matthew Goldstein and Alexandra Stevenson"
+    },
+    {
+      "headline": "Mike Pence: A Conservative Proudly Out of Sync With His Times",
+      "snippet": "With his deep social conservatism, public religiosity and aversion to negative campaigning, Gov. Mike Pence of Indiana is a throwback to an earlier era.",
+      "abstract": "With his deep social conservatism, public religiosity and aversion to negative campaigning, Gov. Mike Pence of Indiana is a throwback to an earlier era.",
+      "lead_paragraph": "Long after government regulators had confirmed the lethal consequences of cigarette smoking, Mike Pence mocked their warnings as “hysteria” in 1998.",
+      "publication_date": "2016-07-15T15:09:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/16/us/politics/mike-pence-history.html",
+      "byline": "By Michael Barbaro and Monica Davey"
+    }
+  ]
+}

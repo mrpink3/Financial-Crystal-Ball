@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2024-04-30",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "8 Officers Are Shot, 4 Fatally, While Serving Warrant in Charlotte",
+      "snippet": "Three of the four were part of a U.S. Marshals task force. The felon whom they sought was also killed.",
+      "abstract": "Three of the four were part of a U.S. Marshals task force. The felon whom they sought was also killed.",
+      "lead_paragraph": "Eight law officers were shot on Monday, four fatally, as a U.S. Marshals fugitive task force tried to serve a warrant in Charlotte, N.C., the police said, in one of the deadliest days for law enforcement in recent years.",
+      "publication_date": "2024-04-29T19:21:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/29/us/charlotte-police-shooting-north-carolina.html",
+      "byline": "By Sopan Deb, Livia Albeck-Ripka, Eduardo Medina and Remy Tumin"
+    },
+    {
+      "headline": "With Paramount in Chaos and Its Future Uncertain, Its Chief Steps Down",
+      "snippet": "Bob Bakish was once a staunch ally of Shari Redstone, Paramount’s controlling shareholder. His departure comes as the company considers a major merger.",
+      "abstract": "Bob Bakish was once a staunch ally of Shari Redstone, Paramount’s controlling shareholder. His departure comes as the company considers a major merger.",
+      "lead_paragraph": "Shari Redstone, the controlling shareholder of Paramount, has tried to resist the erosion of her media empire over the last decade as she confronted the death of cable TV, the rise of streaming and even a failed boardroom coup from a longtime ally.",
+      "publication_date": "2024-04-29T20:04:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/04/29/business/media/paramount-bob-bakish-steps-down.html",
+      "byline": "By Benjamin Mullin and Lauren Hirsch"
+    },
+    {
+      "headline": "Hope Rises for New Talks on Gaza Cease-fire as Israel Scales Back Demands",
+      "snippet": "Israel reduced the initial number of hostages it wants released to 33. If Hamas agrees to attend, negotiations on a cease-fire could resume in Cairo this week.",
+      "abstract": "Israel reduced the initial number of hostages it wants released to 33. If Hamas agrees to attend, negotiations on a cease-fire could resume in Cairo this week.",
+      "lead_paragraph": "Israeli negotiators, offering a hint of hope for negotiations over a cease-fire in the Gaza Strip, have reduced the number of hostages they want Hamas to release during the first phase of a truce, three Israeli officials said on Monday.",
+      "publication_date": "2024-04-29T22:55:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/04/29/world/middleeast/israel-gaza-cease-fire-hostages.html",
+      "byline": "By Patrick Kingsley, Edward Wong, Adam Rasgon and Eric Nagourney"
+    }
+  ]
+}

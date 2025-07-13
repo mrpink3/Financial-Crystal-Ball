@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-12-01",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Omicron Variant, in at Least 20 Nations, Spread Earlier Than Was Known",
+      "snippet": "With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel.",
+      "abstract": "With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel.",
+      "lead_paragraph": "The heavily mutated new coronavirus variant was in Europe several days earlier than previously known, health officials said Tuesday, and the number of countries where it has been found increased to at least 20, raising questions about whether the pandemic is about to surge once again.",
+      "publication_date": "2021-12-01T00:43:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html",
+      "byline": "By Richard Pérez-Peña"
+    },
+    {
+      "headline": "3 Students Are Killed in Michigan School Shooting",
+      "snippet": "A 15-year-old sophomore was taken into custody with a semiautomatic handgun that was bought by his father four days before the fatal shooting.",
+      "abstract": "A 15-year-old sophomore was taken into custody with a semiautomatic handgun that was bought by his father four days before the fatal shooting.",
+      "lead_paragraph": "OXFORD CHARTER TOWNSHIP, Mich. — Students at Oxford High School in suburban Detroit rushed for cover and barricaded classroom doors with chairs when they heard the first gunshots on Tuesday afternoon. Within five minutes, the authorities said, a 15-year-old sophomore at the school had shot 11 people, killing three of his fellow students and leaving others with critical injuries.",
+      "publication_date": "2021-12-01T06:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/01/us/oxford-oakland-county-shooting.html",
+      "byline": "By Scott Atkinson, Mitch Smith and Neal E. Boudette"
+    },
+    {
+      "headline": "How to Carry Your Covid Health Data on a Smartphone",
+      "snippet": "To plan for safe travels and gatherings this holiday season, here are some simple ways to take your Covid-related health data with you.",
+      "abstract": "To plan for safe travels and gatherings this holiday season, here are some simple ways to take your Covid-related health data with you.",
+      "lead_paragraph": "The state of the digital Covid vaccine card — the bar code that we store on our phones and present to businesses and venues as proof of inoculation — is chaotic.",
+      "publication_date": "2021-12-01T10:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/01/technology/personaltech/covid-vaccination-card-phone.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "A Game Designer in Beijing Bought Toy Guns. China Imprisoned Him.",
+      "snippet": "San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws.",
+      "abstract": "San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws.",
+      "lead_paragraph": "When the police swarmed into San Cheng’s apartment in Beijing late at night and accused him of illegally buying guns, he was sure it was a mix-up.",
+      "publication_date": "2021-12-01T10:00:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html",
+      "byline": "By Chris Buckley and Raymond Zhong"
+    },
+    {
+      "headline": "Lawmakers Target Big Tech ‘Amplification.’ What Does That Mean?",
+      "snippet": "Some lawmakers from both parties argue that when social media sites boost the performance of hateful or violent posts, the sites become accomplices.",
+      "abstract": "Some lawmakers from both parties argue that when social media sites boost the performance of hateful or violent posts, the sites become accomplices.",
+      "lead_paragraph": "Lawmakers have spent years investigating how hate speech, misinformation and bullying on social media sites can lead to real-world harm. Increasingly, they have pointed a finger at the algorithms powering sites like Facebook and Twitter, the software that decides what content users will see and when they see it.",
+      "publication_date": "2021-12-01T10:00:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/01/technology/big-tech-amplification.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "While Politics Consume School Board Meetings, a Very Different Crisis Festers",
+      "snippet": "In a wealthy suburban Philadelphia district, schools are struggling with shortages of all sorts. Behavioral problems have mushroomed. “We are in triage mode,” one teacher said.",
+      "abstract": "In a wealthy suburban Philadelphia district, schools are struggling with shortages of all sorts. Behavioral problems have mushroomed. “We are in triage mode,” one teacher said.",
+      "lead_paragraph": "DOYLESTOWN, Pa. — Early in the November school board meeting, a few of the departing members made farewell remarks, talking of things that they believed still need addressing: more special education programs, mental health initiatives, a program for high school students to take college classes. There was a long list, but over the past two years other things had gotten in the way.",
+      "publication_date": "2021-12-01T10:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/01/us/central-bucks-school-board-politics-pennsylvania.html",
+      "byline": "By Campbell Robertson"
+    },
+    {
+      "headline": "Those Cute Cats Online? They Help Spread Misinformation.",
+      "snippet": "A mainstay of the internet is regularly used to build audiences for people and organizations pushing false and misleading information.",
+      "abstract": "A mainstay of the internet is regularly used to build audiences for people and organizations pushing false and misleading information.",
+      "lead_paragraph": "On Oct. 2, New Tang Dynasty Television, a station linked to the Chinese spiritual movement Falun Gong, posted a Facebook video of a woman saving a baby shark stranded on a shore. Next to the video was a link to subscribe to The Epoch Times, a newspaper that is tied to Falun Gong and that spreads anti-China and right-wing conspiracies. The post collected 33,000 likes, comments and shares.",
+      "publication_date": "2021-12-01T10:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/01/technology/misinformation-cute-cats-online.html",
+      "byline": "By Davey Alba"
+    },
+    {
+      "headline": "Democrats’ Bill Would Go Far Toward ‘Patching the Holes’ in Health Coverage",
+      "snippet": "Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act.",
+      "abstract": "Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act.",
+      "lead_paragraph": "WASHINGTON — Of all the “bitter disappointments” he had as president, Harry Truman once wrote, the “one that has troubled me most, in a personal way,” was the failure to enact a national program that would assure all Americans “a full measure of opportunity to achieve and enjoy good health.”",
+      "publication_date": "2021-12-01T10:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html",
+      "byline": "By Reed Abelson, Sarah Kliff, Margot Sanger-Katz and Sheryl Gay Stolberg"
+    }
+  ]
+}

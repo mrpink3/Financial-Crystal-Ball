@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-02-13",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Is ‘Not Happy’ With Border Deal, but Doesn’t Say if He Will Sign It",
+      "snippet": "The president, who said he would have to study the deal, all but ruled out another government shutdown and emphasized that he would find “other methods” to finance a border wall.",
+      "abstract": "The president, who said he would have to study the deal, all but ruled out another government shutdown and emphasized that he would find “other methods” to finance a border wall.",
+      "lead_paragraph": "WASHINGTON — President Trump appeared poised on Tuesday to end two months of scorched-earth confrontation without the money he demanded for a border wall as Republicans pressured him to accept a bipartisan spending deal rather than close the government again on Friday.",
+      "publication_date": "2019-02-12T16:30:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/12/us/politics/border-wall-deal.html",
+      "byline": "By Peter Baker and Glenn Thrush"
+    },
+    {
+      "headline": "U.S.-China Trade Talks Face Big Obstacle: Ensuring That Promises Are Kept",
+      "snippet": "American negotiators, worried that Beijing will drag its feet on sticking to the provisions of a deal, want a way to punish failures to comply. Their Chinese counterparts may not go along.",
+      "abstract": "American negotiators, worried that Beijing will drag its feet on sticking to the provisions of a deal, want a way to punish failures to comply. Their Chinese counterparts may not go along.",
+      "lead_paragraph": "BEIJING — When China joined the World Trade Organization, the global fraternity of cross-border commerce, it promised to open itself up to foreigners in lucrative businesses like banking, telecommunications and electronic-payment processing.",
+      "publication_date": "2019-02-12T16:56:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/12/business/us-china-trade-talks.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Huawei Was a Czech Favorite. Now? It’s a National Security Threat.",
+      "snippet": "The Czech Republic has taken aggressive steps to limit the use of Huawei in 5G technology, setting off a fight being closely watched across Europe.",
+      "abstract": "The Czech Republic has taken aggressive steps to limit the use of Huawei in 5G technology, setting off a fight being closely watched across Europe.",
+      "lead_paragraph": "PRAGUE — For more than 1,000 years, the sprawling castle complex perched high above Prague has been the seat of power for Holy Roman emperors, the kings of Bohemia and, now, the Czech president, Milos Zeman. And for the last four years, the Chinese technology giant Huawei has had a contract to fulfill the communication needs of the president and his staff.",
+      "publication_date": "2019-02-12T20:06:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/12/world/europe/czech-republic-huawei.html",
+      "byline": "By Marc Santora and Hana de Goeij"
+    },
+    {
+      "headline": "Congress Poised to Help Veterans Exposed to ‘Burn Pits’ Over Decades of War",
+      "snippet": "One of the least understood ailments endured by the newest generation of veterans is related to exposure to toxic substances in Iraq and Afghanistan, especially from open-air trash fires.",
+      "abstract": "One of the least understood ailments endured by the newest generation of veterans is related to exposure to toxic substances in Iraq and Afghanistan, especially from open-air trash fires.",
+      "lead_paragraph": "WASHINGTON — Everywhere he went in Iraq during his yearlong deployment, Ryne Robinson saw the burning trash pits. Sometimes, like in Ramadi, they were as large as a municipal dump, filled with abandoned or destroyed military vehicles, synthetic piping and discarded combat meals. Sometimes he tossed garbage on them himself.",
+      "publication_date": "2019-02-12T21:57:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/12/us/politics/veterans-burn-pits-congress.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "T-Mobile-Sprint Deal Gets New Scrutiny From the Left",
+      "snippet": "Democratic lawmakers, empowered by their new House majority, have amplified their criticism of the deal, and two hearings are set this week.",
+      "abstract": "Democratic lawmakers, empowered by their new House majority, have amplified their criticism of the deal, and two hearings are set this week.",
+      "lead_paragraph": "WASHINGTON — When T-Mobile announced its intention to buy Sprint last April, the prospects for the $26 billion deal winning regulatory approval appeared strong. Although a similar deal had been effectively blocked a few years earlier, Trump administration officials voiced far less concern.",
+      "publication_date": "2019-02-12T23:58:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/12/technology/t-mobile-sprint-merger-democrats.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Trump’s Trade War Leaves American Whiskey on the Rocks",
+      "snippet": "Squeezed by retaliatory tariffs, the spirits industry is joining a growing chorus of businesses pressuring the president to back off his trade fights.",
+      "abstract": "Squeezed by retaliatory tariffs, the spirits industry is joining a growing chorus of businesses pressuring the president to back off his trade fights.",
+      "lead_paragraph": "As President Trump’s global trade war approaches a pivotal moment, American industry is trying to use Mr. Trump’s love of big economic numbers to get him to stand down.",
+      "publication_date": "2019-02-13T00:22:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/12/us/politics/china-tariffs-american-spirits.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Smaller Tax Refunds Surprise Those Expecting More Relief",
+      "snippet": "Many early filers under President Trump’s tax plan are surprised that their refunds are smaller or that they owe the I.R.S., even as their tax burdens have declined.",
+      "abstract": "Many early filers under President Trump’s tax plan are surprised that their refunds are smaller or that they owe the I.R.S., even as their tax burdens have declined.",
+      "lead_paragraph": "The tax preparers at H&R Block had to take a new class before their busy season started this year: empathy training.",
+      "publication_date": "2019-02-13T00:50:54+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/12/your-money/tax-refund-decrease.html",
+      "byline": "By Tara Siegel Bernard"
+    }
+  ]
+}

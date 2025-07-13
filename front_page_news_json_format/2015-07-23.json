@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2015-07-23",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Stock Downturn Hits Chinese Investors in the Heart, Not Just the Wallet",
+      "snippet": "The decline of a bull market, seen by some investors as their ticket to riches, has led to broken dreams, strained relationships and a sense of insecurity.",
+      "abstract": "The decline of a bull market, seen by some investors as their ticket to riches, has led to broken dreams, strained relationships and a sense of insecurity.",
+      "lead_paragraph": "HONG KONG — Farmers turned village community centers into makeshift trading floors. Young workers quit low-paying jobs to play the market full time. Retirees started investment clubs, counseling one another on stock picks.",
+      "publication_date": "2015-07-22T20:56:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/23/business/international/stock-downturn-hits-chinese-investors-in-the-heart-not-just-the-wallet.html",
+      "byline": "By Javier C. Hernández"
+    },
+    {
+      "headline": "Dispute Over Sandra Bland’s Mental State Follows Death in a Texas Jail",
+      "snippet": "Sandra Bland, who was found hanging in a jail cell, told officials that she tried last year to kill herself, a sheriff said. But her family said they had seen no signs of depression.",
+      "abstract": "Sandra Bland, who was found hanging in a jail cell, told officials that she tried last year to kill herself, a sheriff said. But her family said they had seen no signs of depression.",
+      "lead_paragraph": "HEMPSTEAD, Tex. — A 28-year-old woman whose arrest this month during a traffic stop ended with her hanging death in a county jail cell told officials that she tried last year to kill herself, the Texas sheriff who oversees the jail said on Wednesday. But the jailers did not put her on suicide watch, and her family’s lawyer said that relatives had no evidence that she had ever tried to commit suicide or struggled with depression.",
+      "publication_date": "2015-07-22T22:33:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/07/23/us/sandra-blands-family-says-video-sheds-no-light-on-reason-for-her-arrest.html",
+      "byline": "By David Montgomery and Michael Wines"
+    },
+    {
+      "headline": "Bank of America Replaces Its Chief Financial Officer as Part of a Shake-Up",
+      "snippet": "The company’s C.F.O., Bruce Thompson, who was once considered a candidate to replace the bank’s chief, is stepping down by the end of the month.",
+      "abstract": "The company’s C.F.O., Bruce Thompson, who was once considered a candidate to replace the bank’s chief, is stepping down by the end of the month.",
+      "lead_paragraph": "Bank of America, which has struggled to generate consistent profits even as other banks have begun to prosper, is broadly overhauling its top leadership, including the abrupt replacement of its chief financial officer, Bruce Thompson. ",
+      "publication_date": "2015-07-23T01:40:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/23/business/dealbook/bank-of-america-replaces-its-finance-officer-as-part-of-a-shake-up.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "Drug Prices Soar, Prompting Calls for Justification",
+      "snippet": "Pharmaceutical cost transparency bills have been introduced in at least six states in the last year, aiming to make drug makers explain their prices.",
+      "abstract": "Pharmaceutical cost transparency bills have been introduced in at least six states in the last year, aiming to make drug makers explain their prices.",
+      "lead_paragraph": "As complaints grow about exorbitant drug prices, pharmaceutical companies are coming under pressure to disclose the development costs and profits of those medicines and the rationale for charging what they do.",
+      "publication_date": "2015-07-23T04:01:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/23/business/drug-companies-pushed-from-far-and-wide-to-explain-high-prices.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Netmarble Takes Stake in SGN, Extending Asia’s Reach Into U.S. Mobile Games",
+      "snippet": "In the last year, large Chinese and Japanese companies, including Tencent and Sega, have pumped tens of millions of dollars into American mobile gaming firms.",
+      "abstract": "In the last year, large Chinese and Japanese companies, including Tencent and Sega, have pumped tens of millions of dollars into American mobile gaming firms.",
+      "lead_paragraph": "Nowhere are mobile video games more popular — or lucrative — than in Asia. And now Asian companies are making big bets that they can spread some of their expertise in mobile gaming to the United States.",
+      "publication_date": "2015-07-23T04:01:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/23/technology/netmarble-takes-stake-in-sgn-extending-asias-reach-into-us-mobile-games.html",
+      "byline": "By Eilene Zimmerman"
+    },
+    {
+      "headline": "A Bangladeshi Town in Human Trafficking’s Grip",
+      "snippet": "Fishermen, shopkeepers and policemen were all drawn in, as participants or observers, to a multimillion-dollar people smuggling business.",
+      "abstract": "Fishermen, shopkeepers and policemen were all drawn in, as participants or observers, to a multimillion-dollar people smuggling business.",
+      "lead_paragraph": "SHAH PORIR DWIP, Bangladesh — From his shop overlooking a pier on this island near the border with Myanmar, Mohammad Hossain watched the human smuggling business swell.",
+      "publication_date": "2015-07-23T09:00:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/07/24/world/asia/bangladesh-human-trafficking.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Nikkei to Buy Financial Times From Pearson for $1.3 Billion",
+      "snippet": "The sale of the FT Group to the Japanese media company comes after the financial newspaper’s British owner, Pearson, decided to focus on its growing education business.",
+      "abstract": "The sale of the FT Group to the Japanese media company comes after the financial newspaper’s British owner, Pearson, decided to focus on its growing education business.",
+      "lead_paragraph": "For about a year, senior executives at The Financial Times and its parent company, Pearson, had quietly discussed selling the respected, salmon-colored newspaper. ",
+      "publication_date": "2015-07-23T10:51:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/24/business/dealbook/pearson-financial-times-sale.html",
+      "byline": "By Ravi Somaiya, Jonathan Soble and David Jolly"
+    }
+  ]
+}

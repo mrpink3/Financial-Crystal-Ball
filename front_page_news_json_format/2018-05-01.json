@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2018-05-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "White House Delays Tariffs on E.U., Canada and Mexico for 30 Days",
+      "snippet": "President Trump will give Canada, Mexico and the European Union another 30-day reprieve from steel and aluminum tariffs, delaying punishing levies on key allies.",
+      "abstract": "President Trump will give Canada, Mexico and the European Union another 30-day reprieve from steel and aluminum tariffs, delaying punishing levies on key allies.",
+      "lead_paragraph": "WASHINGTON — The Trump administration said on Monday that it would delay a decision to impose steel and aluminum tariffs on the European Union, Canada and Mexico for another 30 days, giving key allies a reprieve as the White House tries to extract concessions from trading partners who have resisted those demands.",
+      "publication_date": "2018-05-01T00:02:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/30/us/politics/white-house-delays-tariffs-eu-canada-mexico.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "White House Considers Restricting Chinese Researchers Over Espionage Fears",
+      "snippet": "The administration, fearing Chinese technological dominance, is considering tighter restrictions on Chinese researchers in the United States as a trade fight escalates.",
+      "abstract": "The administration, fearing Chinese technological dominance, is considering tighter restrictions on Chinese researchers in the United States as a trade fight escalates.",
+      "lead_paragraph": "WASHINGTON — It sounds like something out of a science fiction movie: In April, China is said to have tested an invisibility cloak that would allow ordinary fighter jets to suddenly vanish from radar screens.",
+      "publication_date": "2018-05-01T00:03:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/30/us/politics/trump-china-researchers-espionage.html",
+      "byline": "By Ana Swanson and Keith Bradsher"
+    },
+    {
+      "headline": "Mueller Has Dozens of Inquiries for Trump in Broad Quest on Russia Ties and Obstruction",
+      "snippet": "The questions provide the most detailed look yet at the special counsel investigation and show an effort to learn about the president’s thinking.",
+      "abstract": "The questions provide the most detailed look yet at the special counsel investigation and show an effort to learn about the president’s thinking.",
+      "lead_paragraph": "WASHINGTON — Robert S. Mueller III, the special counsel investigating Russia’s election interference, has at least four dozen questions on an exhaustive array of subjects he wants to ask President Trump to learn more about his ties to Russia and determine whether he obstructed the inquiry itself, according to a list of the questions obtained by The New York Times.",
+      "publication_date": "2018-05-01T00:46:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/30/us/politics/robert-mueller-questions-trump.html",
+      "byline": "By Michael S. Schmidt"
+    },
+    {
+      "headline": "‘He’s a Pit Bull’: T-Mobile C.E.O. Is the Colorful Outlier of Wireless",
+      "snippet": "John Legere was once a conventional numbers guy, but now his brash approach has resulted in a proposed mega-merger for T-Mobile and Sprint.",
+      "abstract": "John Legere was once a conventional numbers guy, but now his brash approach has resulted in a proposed mega-merger for T-Mobile and Sprint.",
+      "lead_paragraph": "At the 2014 Consumer Electronics Show in Las Vegas, T-Mobile’s chief executive, John Legere, crashed the AT&T party at the Venetian hotel. Wearing a black leather jacket and his customary pink T-Mobile T-shirt, Mr. Legere said he was just hoping to see the rapper Macklemore perform.",
+      "publication_date": "2018-05-01T09:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/01/business/t-mobile-sprint-john-legere.html",
+      "byline": "By David Gelles"
+    }
+  ]
+}

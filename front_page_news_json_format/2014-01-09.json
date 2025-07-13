@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2014-01-09",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Support at Fed for Slow Stimulus Cuts",
+      "snippet": "Federal Reserve officials say they believe the monthly purchases of Treasury and mortgage-backed securities are effective in stimulating job growth.",
+      "abstract": "Federal Reserve officials say they believe the monthly purchases of Treasury and mortgage-backed securities are effective in stimulating job growth.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve’s decision in December to taper its bond-buying campaign reflected increased confidence in the economy and continued uneasiness about the stimulus effort, according to an official account of the December meeting.",
+      "publication_date": "2014-01-08T19:04:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/09/business/fed-decided-bond-buying-program-served-purpose-account-says.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Carriers Step Up Battle for Wireless Customers",
+      "snippet": "As competition grows among major wireless carriers, T-Mobile said it would pay the termination fees of new customers, and give them trade-in credit of up to $300 for their old cellphones.",
+      "abstract": "As competition grows among major wireless carriers, T-Mobile said it would pay the termination fees of new customers, and give them trade-in credit of up to $300 for their old cellphones.",
+      "lead_paragraph": "LAS VEGAS — A tug of war has broken out among the major wireless carriers.",
+      "publication_date": "2014-01-08T20:50:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/09/technology/personaltech/t-mobile-offers-to-cover-termination-fees-for-switchers.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "A Rugged Camera, Despite Design Flaws",
+      "snippet": "The Nikon AW1 is sturdy enough to take under water and carry on the ski slopes. But first you have to get past the confusing menu and design.",
+      "abstract": "The Nikon AW1 is sturdy enough to take under water and carry on the ski slopes. But first you have to get past the confusing menu and design.",
+      "lead_paragraph": "Nikon’s new AW1 is a tough little camera. You can bash it on rocks, take it under water and use it in the worst ski conditions. It is solid, workmanlike and it fills a niche between pocket cameras and expensive, professional rigs.",
+      "publication_date": "2014-01-08T22:42:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/09/technology/personaltech/a-rugged-camera-despite-design-flaws.html",
+      "byline": "By Kit Eaton"
+    },
+    {
+      "headline": "As Winter Takes Hold, Plunging Temperatures Test Utilities",
+      "snippet": "Several utility companies have recently announced increases in their retail electricity rate as they struggle to meet peak periods of demand.",
+      "abstract": "Several utility companies have recently announced increases in their retail electricity rate as they struggle to meet peak periods of demand.",
+      "lead_paragraph": "The short-term price of natural gas in the Northeast eased on Wednesday after surging during the cold snap this week, but many consumers face the prospect of higher bills as utilities seek to pass along the added costs. ",
+      "publication_date": "2014-01-09T01:14:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/09/business/energy-environment/as-winter-takes-hold-plunging-temperatures-test-utilities.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Grim Sequel to Iraq’s War",
+      "snippet": "Contrary to President Obama’s statement “I ended the war in Iraq,” a resurgence by Islamic militants has been a reminder that the war is anything but over.",
+      "abstract": "Contrary to President Obama’s statement “I ended the war in Iraq,” a resurgence by Islamic militants has been a reminder that the war is anything but over.",
+      "lead_paragraph": "WASHINGTON — For two years, President Obama has boasted that he accomplished what his predecessor had not. “I ended the war in Iraq,” he has told audience after audience. But a resurgence by Islamic militants in western Iraq has reminded the world that the war is anything but over.",
+      "publication_date": "2014-01-09T02:26:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/09/world/middleeast/grim-sequel-to-iraqs-war.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Tech Attire, More Beta Than Chic",
+      "snippet": "Internet-connected watches and glasses, many of them less than fashionable, face hurdles to winning over consumers.",
+      "abstract": "Internet-connected watches and glasses, many of them less than fashionable, face hurdles to winning over consumers.",
+      "lead_paragraph": "LAS VEGAS — The next computer consumers buy will fit on a wrist or sit atop a nose. At least that is what many tech companies are hoping.",
+      "publication_date": "2014-01-09T02:40:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/09/technology/tech-attire-more-beta-than-chic.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "BlackRock Agrees to End Wall Street Analysis Previews",
+      "snippet": "The asset management company agreed to no longer ask analysts for their opinions of companies before that information is made public.",
+      "abstract": "The asset management company agreed to no longer ask analysts for their opinions of companies before that information is made public.",
+      "lead_paragraph": "BlackRock, the world’s largest asset management company, has agreed to end its practice of surveying Wall Street analysts to glean clues about their views on companies before those opinions are publicly issued.",
+      "publication_date": "2014-01-09T03:01:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/09/business/blackrock-agrees-to-stop-pursuing-nonpublic-views.html",
+      "byline": "By Gretchen Morgenson"
+    }
+  ]
+}

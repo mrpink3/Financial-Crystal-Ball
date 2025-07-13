@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2016-10-07",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "In Fight for Aleppo, Tangled Alliances in Syria Add to Chaos",
+      "snippet": "The Syrian war is often cast as a contest between competing rebel groups and the government of President Bashar al-Assad. The truth is even messier.",
+      "abstract": "The Syrian war is often cast as a contest between competing rebel groups and the government of President Bashar al-Assad. The truth is even messier.",
+      "lead_paragraph": "BEIRUT, Lebanon — The Syrian civil war, and the intense new ground battle in the divided city of Aleppo, is often seen as a contest between a chaotic array of rebel groups and the Russian-backed government of President Bashar al-Assad. But the reality is that Mr. Assad’s side is increasingly just as fragmented as its opponents, a panoply of forces aligned partly along sectarian lines but with often-competing approaches and interests.",
+      "publication_date": "2016-10-06T17:19:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/10/07/world/middleeast/aleppo-syria.html",
+      "byline": "By Anne Barnard"
+    },
+    {
+      "headline": "Over 190 Countries Adopt Plan to Offset Air Travel Emissions",
+      "snippet": "The measure takes effect in 2021 and will reduce the climate impact of international jet travel. The first six years will be voluntary.",
+      "abstract": "The measure takes effect in 2021 and will reduce the climate impact of international jet travel. The first six years will be voluntary.",
+      "lead_paragraph": "Governments from more than 190 countries on Thursday adopted a measure that for the first time will reduce the climate impact of international jet travel.",
+      "publication_date": "2016-10-06T17:33:10+0000",
+      "section_name": "Science",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/10/07/science/190-countries-adopt-plan-to-offset-jet-emissions.html",
+      "byline": "By Henry Fountain"
+    },
+    {
+      "headline": "Hurricane Matthew Makes Old Problems Worse for Haitians",
+      "snippet": "The storm’s devastation reflects the very nature of the many challenges faced by Haiti, where infrastructure had already been in decline for decades.",
+      "abstract": "The storm’s devastation reflects the very nature of the many challenges faced by Haiti, where infrastructure had already been in decline for decades.",
+      "lead_paragraph": "The first reports to arrive were of vast flooding and destruction, rivers of brown water pulsing through streets and homes shorn of tin roofs. Eventually, the talk turned to livestock lost, a veritable fortune for those living in the poorest country in the Western Hemisphere.",
+      "publication_date": "2016-10-06T18:20:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/10/07/world/americas/hurricane-matthew-haiti.html",
+      "byline": "By Azam Ahmed"
+    },
+    {
+      "headline": "5 Years Later, Jon Corzine May Avoid Trial With $5 Million Settlement",
+      "snippet": "The tentative deal would settle a suit by the Commodity Futures Trading Commission over the collapse of the brokerage firm MF Global.",
+      "abstract": "The tentative deal would settle a suit by the Commodity Futures Trading Commission over the collapse of the brokerage firm MF Global.",
+      "lead_paragraph": "WASHINGTON — Nearly five years after Jon S. Corzine presided over the collapse of the brokerage firm MF Global and became a target of federal investigations, his legal ordeal might be drawing to a close.",
+      "publication_date": "2016-10-06T22:23:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/10/07/business/dealbook/jon-corzine-mf-global-settlement.html",
+      "byline": "By Ben Protess"
+    },
+    {
+      "headline": "Millions Flee or Brace as Hurricane Matthew Barrels Toward Florida",
+      "snippet": "People fled inland or barricaded themselves in their homes on Thursday to escape what could be dangerous flooding, blackouts and 140-mile-per-hour winds.",
+      "abstract": "People fled inland or barricaded themselves in their homes on Thursday to escape what could be dangerous flooding, blackouts and 140-mile-per-hour winds.",
+      "lead_paragraph": "TITUSVILLE, Fla. — As Hurricane Matthew barreled toward Central Florida, the most powerful storm to hit the region in decades, millions of people fled inland or barricaded themselves inside their homes on Thursday to escape what could be dangerous flooding, widespread blackouts and 140-mile-per-hour wind capable of turning debris into deadly missiles.",
+      "publication_date": "2016-10-07T00:55:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/10/07/us/millions-flee-or-brace-as-hurricane-matthew-barrels-toward-florida.html",
+      "byline": "By Frances Robles, Richard Pérez-Peña and Lizette Alvarez"
+    },
+    {
+      "headline": "N.S.A. Suspect Is a Hoarder. But a Leaker? Investigators Aren’t Sure.",
+      "snippet": "Harold T. Martin III, described by his ex-wife as a hoarder, broke rules by taking home top-secret material, officials said, but they struggled to connect him to leaked documents.",
+      "abstract": "Harold T. Martin III, described by his ex-wife as a hoarder, broke rules by taking home top-secret material, officials said, but they struggled to connect him to leaked documents.",
+      "lead_paragraph": "WASHINGTON — On a half-dozen occasions in the last three years, top-secret information has leaked from the National Security Agency and appeared on the web. Government analysts concluded with alarm that the documents, including intercepted communications from Europe and Japan and the computer code for the N.S.A.’s hacking tools, had not come from the huge collection taken by Edward J. Snowden.",
+      "publication_date": "2016-10-07T01:02:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/10/07/us/politics/nsa-suspect-is-a-hoarder-but-a-leaker-investigators-arent-sure.html",
+      "byline": "By Scott Shane and David E. Sanger"
+    },
+    {
+      "headline": "Europe May Finally End Its Painful Embrace of Austerity",
+      "snippet": "After years of failing to generate economic growth by cutting government spending, Europe is reassessing austerity.",
+      "abstract": "After years of failing to generate economic growth by cutting government spending, Europe is reassessing austerity.",
+      "lead_paragraph": "LONDON — As Europe has grappled with the trauma of a devastating financial and economic crisis, policy makers have consistently relied on one approach to managing the damage — budget austerity.",
+      "publication_date": "2016-10-07T04:15:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/10/08/business/international/europe-economy-budget-austerity.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "U.S. Set to Open a Climactic Battle Against ISIS in Mosul, Iraq",
+      "snippet": "Some former officials and aid groups worry that President Obama will begin a ground campaign without a comprehensive plan for what happens afterward.",
+      "abstract": "Some former officials and aid groups worry that President Obama will begin a ground campaign without a comprehensive plan for what happens afterward.",
+      "lead_paragraph": "WASHINGTON — As Iraqi and American troops prepare to try to retake the city of Mosul from the Islamic State, the Obama administration is describing the battle as the last major hurdle before declaring victory against the extremist Sunni militancy — in Iraq, at least.",
+      "publication_date": "2016-10-07T09:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/10/08/us/politics/isis-mosul-iraq-us.html",
+      "byline": "By Helene Cooper, Eric Schmitt and Michael R. Gordon"
+    }
+  ]
+}

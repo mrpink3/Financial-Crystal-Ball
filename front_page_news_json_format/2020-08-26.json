@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-08-26",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Leverages Powers of Office as He Seeks to Broaden Appeal",
+      "snippet": "In an abrupt swerve from the dire tone of the convention’s first night, President Trump staged a grab-bag of gauzy events and personal testimonials aimed at female and minority voters. His program blurred the lines between campaigning and governin...",
+      "abstract": "In an abrupt swerve from the dire tone of the convention’s first night, President Trump staged a grab-bag of gauzy events and personal testimonials aimed at female and minority voters. His program blurred the lines between campaigning and governing.",
+      "lead_paragraph": "[Follow our daily updates on the latest presidential election polls.]",
+      "publication_date": "2020-08-26T04:07:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/politics/republican-convention-recap.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Justice Dept. to Open Investigation Into Kenosha Shooting",
+      "snippet": "Protesters have poured into the Wisconsin city’s streets after the shooting of Jacob Blake, a Black father who was partially paralyzed after a white officer fired at him in front of his children.",
+      "abstract": "Protesters have poured into the Wisconsin city’s streets after the shooting of Jacob Blake, a Black father who was partially paralyzed after a white officer fired at him in front of his children.",
+      "lead_paragraph": "KENOSHA, Wis. — The Justice Department on Wednesday announced a civil rights investigation into the police shooting of a Black man in Kenosha, Wis., as new details emerged in the case, a white teenager who confronted demonstrators was arrested in connection with two deaths, and protests spread to athletes in three pro sports leagues.",
+      "publication_date": "2020-08-26T06:18:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/kenosha-shooting-protests-jacob-blake.html",
+      "byline": "By Julie Bosman and Sarah Mervosh"
+    },
+    {
+      "headline": "How TikTok’s Talks With Microsoft Turned Into a Soap Opera",
+      "snippet": "Neither side wanted a big deal. But what began as talks about a small investment ballooned with interventions from President Trump.",
+      "abstract": "Neither side wanted a big deal. But what began as talks about a small investment ballooned with interventions from President Trump.",
+      "lead_paragraph": "SAN FRANCISCO — When Microsoft began talking this summer with the popular video app TikTok and its Chinese parent company, ByteDance, no one had any intentions of pursuing a blockbuster deal.",
+      "publication_date": "2020-08-26T07:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/26/technology/tiktoks-microsoft-deal-soap-opera-trump.html",
+      "byline": "By Mike Isaac and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "From Trump’s Shadow, Mike Pence Can See 2024",
+      "snippet": "The vice president has grown accustomed to performing certain acrobatics, maneuvering around in private what President Trump bellows in public. It’s one way he is tending to his future.",
+      "abstract": "The vice president has grown accustomed to performing certain acrobatics, maneuvering around in private what President Trump bellows in public. It’s one way he is tending to his future.",
+      "lead_paragraph": "Vice President Mike Pence, the head of the federal coronavirus task force, delivered a clear message to governors about reopening schools. Help us help you, Mr. Pence told the state executives during a virtual meeting in early July, stressing that the administration wanted to see children back in the classroom.",
+      "publication_date": "2020-08-26T07:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/26/us/politics/mike-pence-trump-vp.html",
+      "byline": "By Alexander Burns and Maggie Haberman"
+    },
+    {
+      "headline": "In Britain, an Idea to Reduce Racial Inequality Gains Momentum",
+      "snippet": "The government could revive an idea to make it mandatory for large companies to report their pay gaps by ethnicity.",
+      "abstract": "The government could revive an idea to make it mandatory for large companies to report their pay gaps by ethnicity.",
+      "lead_paragraph": "Nearly two years ago, the British government seemed to be on the verge of doing something truly novel about racial and ethnic inequality. Theresa May, the prime minister at the time, had adopted a plan to root out one of the causes of differences in incomes that would “create a fairer and more diverse work force,” she said.",
+      "publication_date": "2020-08-26T09:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/26/business/britain-pay-gaps-racial-inequality.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "What’s a Palantir? The Tech Industry’s Next Big I.P.O.",
+      "snippet": "A tech start-up named for objects in “The Lord of the Rings” has become a major government contractor. But what it does is not easy to understand.",
+      "abstract": "A tech start-up named for objects in “The Lord of the Rings” has become a major government contractor. But what it does is not easy to understand.",
+      "lead_paragraph": "About a month before he became president, Donald J. Trump met with the leaders of the country’s top technology companies at Trump Tower in Manhattan.",
+      "publication_date": "2020-08-26T09:00:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/26/technology/palantir-ipo.html",
+      "byline": "By Cade Metz, Erin Griffith and Kate Conger"
+    },
+    {
+      "headline": "The Lesson We’re Learning From TikTok? It’s All About Our Data",
+      "snippet": "We should minimize how much we share with all of our favorite and not-so-favorite apps. Here’s how.",
+      "abstract": "We should minimize how much we share with all of our favorite and not-so-favorite apps. Here’s how.",
+      "lead_paragraph": "Is TikTok, the Chinese-owned social network that is used mostly by teenagers to post dance videos, a national security threat?",
+      "publication_date": "2020-08-26T13:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/26/technology/personaltech/tiktok-data-apps.html",
+      "byline": "By Brian X. Chen"
+    }
+  ]
+}

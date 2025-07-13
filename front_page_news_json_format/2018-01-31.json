@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-01-31",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Dangerously Low on Water, Cape Town Now Faces ‘Day Zero’",
+      "snippet": "One of Africa’s richest cities is threatening to turn off the taps to its four million residents, cutting off homes and most businesses.",
+      "abstract": "One of Africa’s richest cities is threatening to turn off the taps to its four million residents, cutting off homes and most businesses.",
+      "lead_paragraph": "CAPE TOWN — It sounds like a Hollywood blockbuster. “Day Zero” is coming to Cape Town this April. Everyone, be warned.",
+      "publication_date": "2018-01-30T20:12:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/30/world/africa/cape-town-day-zero.html",
+      "byline": "By Norimitsu Onishi and Somini Sengupta"
+    },
+    {
+      "headline": "Secrets or Knowledge? Uber-Waymo Trial Tests Silicon Valley Culture",
+      "snippet": "Two of the tech industry’s heavyweights are heading to court over claims that the ride-hailing company stole driverless car technology.",
+      "abstract": "Two of the tech industry’s heavyweights are heading to court over claims that the ride-hailing company stole driverless car technology.",
+      "lead_paragraph": "SAN FRANCISCO — After nearly a year of legal wrangling, dramatic last-minute delays and uncooperative witnesses, a jury will soon hear arguments in Waymo’s high-profile lawsuit accusing Uber of stealing driverless car technology.",
+      "publication_date": "2018-01-30T23:25:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/30/technology/waymo-uber-lawsuit.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "The Real Aim of the Nunes Memo Is the Mueller Investigation",
+      "snippet": "The memo has emerged as the latest attempt by Republicans to portray the actions of the investigators in the Russia inquiry as the real scandal.",
+      "abstract": "The memo has emerged as the latest attempt by Republicans to portray the actions of the investigators in the Russia inquiry as the real scandal.",
+      "lead_paragraph": "WASHINGTON — When House Speaker Paul D. Ryan said on Tuesday that he wanted Americans to see a secret memo that portrays the early stages of the Trump-Russia investigation as scandalous, he also said he cautioned his Republican colleagues not to use it to impugn Robert S. Mueller III, the special counsel running the inquiry.",
+      "publication_date": "2018-01-31T01:38:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/30/us/politics/secret-memo-mueller-russia-investigation.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Trump Can Sell an Improved Economy, but Not Himself",
+      "snippet": "His success at passing tax cuts and the continued progress of the economy he inherited have not changed the dismal views that a sizable majority of Americans hold of their president.",
+      "abstract": "His success at passing tax cuts and the continued progress of the economy he inherited have not changed the dismal views that a sizable majority of Americans hold of their president.",
+      "lead_paragraph": "WASHINGTON — When he took office, President Trump painted a bleak picture of a country ravaged by economic turmoil, a landscape of “American carnage,” as he so memorably put it. A year later, he presented the nation on Tuesday night with a different narrative, one of a booming economy and a “new American moment.”",
+      "publication_date": "2018-01-31T02:13:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/30/us/politics/president-trump-sotu.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "A Paper Tears Apart in a City That Never Quite Came Together",
+      "snippet": "The turmoil at The Los Angeles Times is the latest setback for Los Angeles, a region that has long suffered from a lack of civic institutions.",
+      "abstract": "The turmoil at The Los Angeles Times is the latest setback for Los Angeles, a region that has long suffered from a lack of civic institutions.",
+      "lead_paragraph": "LOS ANGELES — When an ambitious Civil War colonel from Ohio seized control of a fledgling daily newspaper here in the late 19th century, Los Angeles was a rough-hewed frontier town with no paved streets and a population of a few thousand people. The newspaper was four pages and cost a penny.",
+      "publication_date": "2018-01-31T02:38:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/30/us/los-angeles-times.html",
+      "byline": "By Tim Arango and Adam Nagourney"
+    },
+    {
+      "headline": "First Trump State of the Union Address Makes Appeal for Unity",
+      "snippet": "President Trump asked Democrats to join him in overhauling immigration and rebuilding infrastructure as the Russia investigations are intensifying.",
+      "abstract": "President Trump asked Democrats to join him in overhauling immigration and rebuilding infrastructure as the Russia investigations are intensifying.",
+      "lead_paragraph": "WASHINGTON — President Trump challenged Democrats on Tuesday night to join him in overhauling immigration policies and in rebuilding the nation’s infrastructure in his first State of the Union address.",
+      "publication_date": "2018-01-31T03:13:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/30/us/politics/sotu-trump.html",
+      "byline": "By Julie Hirschfeld Davis and Michael D. Shear"
+    },
+    {
+      "headline": "Tackling the Internet’s Central Villain: The Advertising Business",
+      "snippet": "From Russian propaganda to tech addiction, the incentives and excesses of the digital ad business are the cause of much of what ails online discourse.",
+      "abstract": "From Russian propaganda to tech addiction, the incentives and excesses of the digital ad business are the cause of much of what ails online discourse.",
+      "lead_paragraph": "Pretend you are the lead detective on a hit new show, “CSI: Terrible Stuff on the Internet.” In the first episode, you set up one of those crazy walls plastered with headlines and headshots, looking for hidden connections between everything awful that’s been happening online recently.",
+      "publication_date": "2018-01-31T10:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/31/technology/internet-advertising-business.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "After Era That Made It a Verb, Xerox, in a Sale, Is Past Tense",
+      "snippet": "The American company pioneered office copy machines and the graphic interface used by today’s computers. It will combine operations with Fujifilm.",
+      "abstract": "The American company pioneered office copy machines and the graphic interface used by today’s computers. It will combine operations with Fujifilm.",
+      "lead_paragraph": "When Xerox introduced its popular copying machines in 1959, their wizardry was considered as high tech as the iPhone when Steve Jobs presented it to the world almost 50 years later.",
+      "publication_date": "2018-01-31T11:03:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/31/business/dealbook/xerox-fujifilm.html",
+      "byline": "By Steve Lohr and Carlos Tejada"
+    }
+  ]
+}

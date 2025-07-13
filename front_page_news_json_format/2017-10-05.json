@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-10-05",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Equifax Calls for Free Credit Locks. Experian’s Reply? Nope.",
+      "snippet": "At a congressional hearing on Tuesday, Equifax’s former chief executive called on competitors to offer free credit locks for life. Experian declined to do so.",
+      "abstract": "At a congressional hearing on Tuesday, Equifax’s former chief executive called on competitors to offer free credit locks for life. Experian declined to do so.",
+      "lead_paragraph": "When Equifax’s recently retired chief executive, Richard F. Smith, appeared before a panel of the House Energy and Commerce Committee Tuesday, he held himself out as a changed man.",
+      "publication_date": "2017-10-04T18:52:37+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/10/04/your-money/equifax-experian-credit-locks.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Fear of Federal Debt Has Faded, but Risks Remain",
+      "snippet": "The federal debt is already much larger than experts long considered safe. Some see a warrant for more borrowing; others urge caution.",
+      "abstract": "The federal debt is already much larger than experts long considered safe. Some see a warrant for more borrowing; others urge caution.",
+      "lead_paragraph": "WASHINGTON — The federal government learned over the last half-century that it could run up a much larger debt than experts had previously considered prudent or even possible.",
+      "publication_date": "2017-10-04T22:32:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/10/04/us/politics/federal-debt-deficits.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Republicans Open to Banning ‘Bump Stocks’ Used in Massacre",
+      "snippet": "After resisting any gun legislation for decades, Republican lawmakers say they will examine the kits used in Las Vegas to turn rifles into rapid-firing weapons.",
+      "abstract": "After resisting any gun legislation for decades, Republican lawmakers say they will examine the kits used in Las Vegas to turn rifles into rapid-firing weapons.",
+      "lead_paragraph": "WASHINGTON — Top congressional Republicans, who have for decades resisted any legislative limits on guns, signaled on Wednesday that they would be open to banning the firearm accessory that the Las Vegas gunman used to transform his rifles to mimic automatic weapon fire.",
+      "publication_date": "2017-10-04T23:31:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/10/04/us/politics/bump-stock-fire-legal-republicans-congress.html",
+      "byline": "By Sheryl Gay Stolberg and Tiffany Hsu"
+    },
+    {
+      "headline": "Stephen Paddock Chased Gambling’s Payouts and Perks",
+      "snippet": "Stephen Paddock was well known to casino hosts: He would sit at video poker machines for hours, often wagering more than $100 a hand, and sometimes winning tens of thousands.",
+      "abstract": "Stephen Paddock was well known to casino hosts: He would sit at video poker machines for hours, often wagering more than $100 a hand, and sometimes winning tens of thousands.",
+      "lead_paragraph": "Read the latest on the Las Vegas shooting with Thursday’s live updates.",
+      "publication_date": "2017-10-05T00:18:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/10/04/us/stephen-paddock-gambling.html",
+      "byline": "By John Branch, Serge F. Kovaleski and Sabrina Tavernise"
+    },
+    {
+      "headline": "Why Some Scars From the Recession May Never Vanish",
+      "snippet": "The downturn wiped out jobs that haven’t come back, a worrying sign for future recessions. But economists aren’t certain even a strong economy will solve the problem.",
+      "abstract": "The downturn wiped out jobs that haven’t come back, a worrying sign for future recessions. But economists aren’t certain even a strong economy will solve the problem.",
+      "lead_paragraph": "The American economy has created nearly 16 million new jobs in the eight years since the end of the Great Recession. The unemployment rate, which hit 10 percent in 2009, has fallen below 5 percent. And wages, at long last, are rising.",
+      "publication_date": "2017-10-05T13:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/10/05/business/economy/recession-recovery.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Tax Reform That Doesn’t Bust the Budget? I’ve Got a Few Ideas",
+      "snippet": "The White House has highlighted the benefits of its proposed tax cuts, while leaving it to Congress to find revenue to pay for them. Three basic moves could make the math work.",
+      "abstract": "The White House has highlighted the benefits of its proposed tax cuts, while leaving it to Congress to find revenue to pay for them. Three basic moves could make the math work.",
+      "lead_paragraph": "Can this tax plan be saved?",
+      "publication_date": "2017-10-05T14:15:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/10/05/business/tax-reform-deficit.html",
+      "byline": "By James B. Stewart"
+    }
+  ]
+}

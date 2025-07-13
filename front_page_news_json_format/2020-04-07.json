@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2020-04-07",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Boris Johnson Moved to Intensive Care; Foreign Minister Deputized",
+      "snippet": "The prime minister is in a debilitating battle after contracting a virus he initially viewed with characteristic nonchalance.",
+      "abstract": "The prime minister is in a debilitating battle after contracting a virus he initially viewed with characteristic nonchalance.",
+      "lead_paragraph": "LONDON — Prime Minister Boris Johnson was moved into intensive care on Monday, a worrisome turn in his 10-day battle with the coronavirus and the starkest evidence yet of how the virus has threatened the British political establishment and thrown its new government into upheaval.",
+      "publication_date": "2020-04-06T19:56:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html",
+      "byline": "By Stephen Castle and Mark Landler"
+    },
+    {
+      "headline": "Peter Navarro Has Antagonized Multinational Companies. Now He’s in Charge.",
+      "snippet": "As the United States races to secure supplies to fight the coronavirus, the president’s trade adviser has been handed expansive authority over the firms’ global supply chains.",
+      "abstract": "As the United States races to secure supplies to fight the coronavirus, the president’s trade adviser has been handed expansive authority over the firms’ global supply chains.",
+      "lead_paragraph": "WASHINGTON — For three years, Peter Navarro has been corporate America’s biggest nemesis, punishing multinational companies for moving jobs offshore by advocating tariffs and other trade barriers in pursuit of President Trump’s “America First” strategy.",
+      "publication_date": "2020-04-06T20:34:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/06/business/economy/peter-navarro-coronavirus-defense-production-act.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Some Insurers Offer a Break for Drivers Stuck at Home",
+      "snippet": "Allstate and American Family Insurance are pushing savings to customers automatically. Many others have not. We asked.",
+      "abstract": "Allstate and American Family Insurance are pushing savings to customers automatically. Many others have not. We asked.",
+      "lead_paragraph": "The best kind of financial help is the kind that you don’t have to ask for.",
+      "publication_date": "2020-04-06T21:33:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/06/business/coronavirus-car-insurance.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "PG&E Deal With Wildfire Victims Challenged Over Share Price",
+      "snippet": "The falling price of the utility’s stock, which is part of a $13.5 billion settlement, has complicated the company’s exit from bankruptcy by June 30.",
+      "abstract": "The falling price of the utility’s stock, which is part of a $13.5 billion settlement, has complicated the company’s exit from bankruptcy by June 30.",
+      "lead_paragraph": "Four months ago, Pacific Gas & Electric seemed poised to emerge from bankruptcy after reaching a $13.5 billion settlement with tens of thousands of people who lost homes in wildfires started by the utility’s equipment.",
+      "publication_date": "2020-04-06T22:21:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/06/business/energy-environment/pge-bankruptcy-wildfire-victims.html",
+      "byline": "By Ivan Penn and Peter Eavis"
+    },
+    {
+      "headline": "Wisconsin Election Fight Heralds a National Battle Over Virus-Era Voting",
+      "snippet": "The state stands as a first test case in what could potentially be the biggest voting rights clash since the passage of the Voting Rights Act of 1965.",
+      "abstract": "The state stands as a first test case in what could potentially be the biggest voting rights clash since the passage of the Voting Rights Act of 1965.",
+      "lead_paragraph": "MILWAUKEE — Wisconsin voters will face a choice between protecting their health and exercising their civic duty on Tuesday after state Republican leaders, backed up by a conservative majority on the state’s Supreme Court, rebuffed the Democratic governor’s attempt to postpone in-person voting in their presidential primary and local elections. The political and legal skirmishing throughout Monday was only the first round of an expected national fight over voting rights in the year of Covid-19.",
+      "publication_date": "2020-04-07T00:01:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-voting-coronavirus.html",
+      "byline": "By Astead W. Herndon and Jim Rutenberg"
+    },
+    {
+      "headline": "Trump’s Aggressive Advocacy of Malaria Drug for Treating Coronavirus Divides Medical Community",
+      "snippet": "While Dr. Anthony Fauci has urged caution in using hydroxychloroquine, some doctors are prescribing it to patients who have the virus despite the fact it has never been tested for it.",
+      "abstract": "While Dr. Anthony Fauci has urged caution in using hydroxychloroquine, some doctors are prescribing it to patients who have the virus despite the fact it has never been tested for it.",
+      "lead_paragraph": "WASHINGTON — President Trump made a rare appearance in the Situation Room on Sunday as his pandemic task force was meeting, determined to talk about the anti-malaria medicine that he has aggressively promoted lately as a treatment for the coronavirus.",
+      "publication_date": "2020-04-07T01:40:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html",
+      "byline": "By Peter Baker, Katie Rogers, David Enrich and Maggie Haberman"
+    },
+    {
+      "headline": "Trade Adviser Warned White House in January of Risks of a Pandemic",
+      "snippet": "A memo from Peter Navarro is the most direct warning known to have circulated at a key moment among top administration officials.",
+      "abstract": "A memo from Peter Navarro is the most direct warning known to have circulated at a key moment among top administration officials.",
+      "lead_paragraph": "A top White House adviser starkly warned Trump administration officials in late January that the coronavirus crisis could cost the United States trillions of dollars and put millions of Americans at risk of illness or death.",
+      "publication_date": "2020-04-07T02:53:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html",
+      "byline": "By Maggie Haberman"
+    },
+    {
+      "headline": "Cruise Industry, a Symbol of the Pandemic, Scrambles to Survive",
+      "snippet": "Carnival and the other big companies have no revenue and face questions over whether customers will return once the threat of the coronavirus passes.",
+      "abstract": "Carnival and the other big companies have no revenue and face questions over whether customers will return once the threat of the coronavirus passes.",
+      "lead_paragraph": "First, there was the Diamond Princess, stranded off the coast of Japan as the coronavirus infected hundreds of passengers. Then the Westerdam, circling in the sea for days with nowhere to dock. Then the Grand Princess, the Costa Luminosa and the Zaandam.",
+      "publication_date": "2020-04-07T07:03:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/07/business/coronavirus-cruise-industry-carnival.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Black Americans Face Alarming Rates of Coronavirus Infection in Some States",
+      "snippet": "Data on race and the coronavirus is too limited to draw sweeping conclusions, experts say, but disparate rates of sickness — and death — have emerged in some places.",
+      "abstract": "Data on race and the coronavirus is too limited to draw sweeping conclusions, experts say, but disparate rates of sickness — and death — have emerged in some places.",
+      "lead_paragraph": "The coronavirus is infecting and killing black people in the United States at disproportionately high rates, according to data released by several states and big cities, highlighting what public health researchers say are entrenched inequalities in resources, health and access to care.",
+      "publication_date": "2020-04-07T09:00:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/07/us/coronavirus-race.html",
+      "byline": "By John Eligon, Audra D. S. Burch, Dionne Searcey and Richard A. Oppel Jr"
+    },
+    {
+      "headline": "Oil Companies Are Collapsing, but Wind and Solar Energy Keep Growing",
+      "snippet": "The renewable-energy business is expected to keep growing, though more slowly, in contrast to fossil fuel companies, which have been hammered by low oil and gas prices.",
+      "abstract": "The renewable-energy business is expected to keep growing, though more slowly, in contrast to fossil fuel companies, which have been hammered by low oil and gas prices.",
+      "lead_paragraph": "A few years ago, the kind of double-digit drop in oil and gas prices the world is experiencing now because of the coronavirus pandemic might have increased the use of fossil fuels and hurt renewable energy sources like wind and solar farms.",
+      "publication_date": "2020-04-07T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/07/business/energy-environment/coronavirus-oil-wind-solar-energy.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "Is This the Most Virus-Proof Job in the World?",
+      "snippet": "Pro video game streamers are used to spending their days in isolation. And a huge new audience is at home to watch them play.",
+      "abstract": "Pro video game streamers are used to spending their days in isolation. And a huge new audience is at home to watch them play.",
+      "lead_paragraph": "Ben Lupo sat in his basement in Omaha one recent afternoon, trying to kill a brigade of heavily armed Russians before they killed him.",
+      "publication_date": "2020-04-07T14:54:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/article/coronavirus-video-game-streaming.html",
+      "byline": "By David Segal"
+    }
+  ]
+}

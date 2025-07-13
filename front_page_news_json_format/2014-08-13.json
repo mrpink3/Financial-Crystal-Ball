@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2014-08-13",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "On Twitter, Mourning Is Collective",
+      "snippet": "Within minutes of the news of Robin Williams’s death, his fans — regular people and celebrities, too — were creating an electronic scrapbook of his life in real time.",
+      "abstract": "Within minutes of the news of Robin Williams’s death, his fans — regular people and celebrities, too — were creating an electronic scrapbook of his life in real time.",
+      "lead_paragraph": "Within minutes of the news of Robin Williams’s death on Monday, his legions of fans — regular people and celebrities, too — were creating an electronic scrapbook of his life in real time.",
+      "publication_date": "2014-08-12T22:39:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2014/08/13/business/media/robin-williamss-death-reflected-in-social-media.html",
+      "byline": "By Jonathan Mahler"
+    },
+    {
+      "headline": "With Natural Gas Byproduct, Iran Sidesteps Sanctions",
+      "snippet": "The export of condensates is not fully covered by Western restrictions on Iran’s trade, and the country is making increasing use of the quirk.",
+      "abstract": "The export of condensates is not fully covered by Western restrictions on Iran’s trade, and the country is making increasing use of the quirk.",
+      "lead_paragraph": "Iran is finding a way around Western sanctions to export increasing amounts of an ultralight oil to China and other Asian markets, expanding the value of its trade by potentially billions of dollars a year.",
+      "publication_date": "2014-08-12T22:43:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/08/13/business/energy-environment/with-a-natural-gas-byproduct-iran-sidesteps-oil-sanctions.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Junk Bonds Gain Favor as Europe’s Banks Reduce Lending",
+      "snippet": "European companies rated below investment grade have turned to issuing junk bonds, following the lead of American businesses.",
+      "abstract": "European companies rated below investment grade have turned to issuing junk bonds, following the lead of American businesses.",
+      "lead_paragraph": "Bruce Mackenzie and Toby Ali were young bankers in the late 1990s, traversing Europe to pitch the merits of high-yield securities, otherwise known as junk bonds, to chief executives. The corporate chieftains mostly said no.",
+      "publication_date": "2014-08-12T22:47:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/08/12/as-european-banks-reduce-lending-junk-bonds-gain-favor/",
+      "byline": "By Jenny Anderson"
+    },
+    {
+      "headline": "As Data Overflows Online, Researchers Grapple With Ethics",
+      "snippet": "Scientists can now analyze the personal data on millions of people without their knowledge, and some want to bring ethical guidelines to such studies.",
+      "abstract": "Scientists can now analyze the personal data on millions of people without their knowledge, and some want to bring ethical guidelines to such studies.",
+      "lead_paragraph": "Scholars are exhilarated by the prospect of tapping into the vast troves of personal data collected by Facebook, Google, Amazon and a host of start-ups, which they say could transform social science research.",
+      "publication_date": "2014-08-13T00:22:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "Busy Working, Robin Williams Fought Demons",
+      "snippet": "Given his troubles with depression, addiction and a significant heart surgery in 2009, Mr. Williams should have had a résumé filled with mysterious gaps. Instead, he worked nonstop.",
+      "abstract": "Given his troubles with depression, addiction and a significant heart surgery in 2009, Mr. Williams should have had a résumé filled with mysterious gaps. Instead, he worked nonstop.",
+      "lead_paragraph": "LOS ANGELES — Peering through his camera at Robin Williams in 2012, the cinematographer John Bailey thought he glimpsed something not previously evident in the comedian’s work. They were shooting the independent film “The Angriest Man in Brooklyn,” and Mr. Williams was playing a New York lawyer who, facing death, goes on a rant against the injustice and banality of life.",
+      "publication_date": "2014-08-13T01:59:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/08/13/business/media/busy-working-robin-williams-fought-demons.html",
+      "byline": "By Michael Cieply and Brooks Barnes"
+    },
+    {
+      "headline": "Next Target for Amazon Is Credit Card Readers at Stores",
+      "snippet": "The online retailer is competing with competitors like VeriFone, PayPal and Square, but will offer a lower transaction rate to the small- and medium-size businesses it is targeting.",
+      "abstract": "The online retailer is competing with competitors like VeriFone, PayPal and Square, but will offer a lower transaction rate to the small- and medium-size businesses it is targeting.",
+      "lead_paragraph": "The king of online retail is flexing its muscle to win over Mom and Pop.",
+      "publication_date": "2014-08-13T13:23:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://bits.blogs.nytimes.com/2014/08/13/amazon-introduces-a-card-reader/",
+      "byline": "By Mike Isaac"
+    }
+  ]
+}

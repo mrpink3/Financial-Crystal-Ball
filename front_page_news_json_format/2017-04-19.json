@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-04-19",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Mark Zuckerberg Sees Augmented Reality Ecosystem in Facebook",
+      "snippet": "Facebook’s chief executive introduced an augmented reality platform that will allow people to digitally manipulate the world around them.",
+      "abstract": "Facebook’s chief executive introduced an augmented reality platform that will allow people to digitally manipulate the world around them.",
+      "lead_paragraph": "SAN JOSE, Calif. — Facebook’s chief executive, Mark Zuckerberg, has long rued the day that Apple and Google beat him to building smartphones, which now underpin many people’s digital lives. Ever since, he has searched for the next frontier of modern computing and how to be a part of it from the start.",
+      "publication_date": "2017-04-18T17:28:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/18/technology/mark-zuckerberg-sees-augmented-reality-ecosystem-in-facebook.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Aircraft Carrier Wasn’t Sailing to Deter North Korea, as U.S. Suggested",
+      "snippet": "The saga might never have come to light had the Navy not posted a photograph of the Carl Vinson sailing through the Sunda Strait, which separates two Indonesian islands.",
+      "abstract": "The saga might never have come to light had the Navy not posted a photograph of the Carl Vinson sailing through the Sunda Strait, which separates two Indonesian islands.",
+      "lead_paragraph": "WASHINGTON — Just over a week ago, the White House declared that ordering an American aircraft carrier into the Sea of Japan would send a powerful deterrent signal to North Korea and give President Trump more options in responding to the North’s provocative behavior. “We’re sending an armada,” Mr. Trump said to Fox News last Tuesday afternoon.",
+      "publication_date": "2017-04-18T17:57:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/18/world/asia/aircraft-carrier-north-korea-carl-vinson.html",
+      "byline": "By Mark Landler and Eric Schmitt"
+    },
+    {
+      "headline": "Ivanka Trump’s Global Reach, Undeterred by a White House Job",
+      "snippet": "The president’s daughter, now a White House adviser, has filed 173 foreign trademarks in 21 countries, as well as in Hong Kong and the European Union.",
+      "abstract": "The president’s daughter, now a White House adviser, has filed 173 foreign trademarks in 21 countries, as well as in Hong Kong and the European Union.",
+      "lead_paragraph": "LONDON — Ivanka Trump calls her father a homebody. “If it were up to him, he’d seldom leave New York,” she once wrote.",
+      "publication_date": "2017-04-18T18:45:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/18/business/ivanka-trump-trademark-brand.html",
+      "byline": "By Danny Hakim and Rachel Abrams"
+    },
+    {
+      "headline": "Trump Signs Order That Could Lead to Curbs on Foreign Workers",
+      "snippet": "The president said the executive order was a way to end the “theft of American prosperity,” which he said had been brought on by low-wage immigrant labor.",
+      "abstract": "The president said the executive order was a way to end the “theft of American prosperity,” which he said had been brought on by low-wage immigrant labor.",
+      "lead_paragraph": "KENOSHA, Wis. — President Trump, hammering his “America First” campaign theme, signed an order on Tuesday that he said would favor American companies for federal contracts and reform the visa program for foreign technical workers.",
+      "publication_date": "2017-04-18T19:28:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/18/us/politics/executive-order-hire-buy-american-h1b-visa-trump.html",
+      "byline": "By Glenn Thrush, Nick Wingfield and Vindu Goel"
+    },
+    {
+      "headline": "Goldman’s Dim Trading Results Raise Eyebrows on Wall St.",
+      "snippet": "What has been a core strength of the firm showed markedly weaker results in the first three months of the year, while rivals thrived.",
+      "abstract": "What has been a core strength of the firm showed markedly weaker results in the first three months of the year, while rivals thrived.",
+      "lead_paragraph": "The business of trading bonds, currencies and commodities has been booming this year, with banks like Bank of America and Citigroup reporting robust profits.",
+      "publication_date": "2017-04-19T00:55:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/18/business/dealbook/goldman-sachs-reports-weak-first-quarter-trading.html",
+      "byline": "By Kate Kelly"
+    },
+    {
+      "headline": "Bill O’Reilly’s Future at Fox Grows Dim as the Murdochs’ Support Erodes",
+      "snippet": "The position of the No. 1 host in cable news grew more tenuous as support from the Murdoch family showed signs of eroding, according to people briefed on discussions about his future.",
+      "abstract": "The position of the No. 1 host in cable news grew more tenuous as support from the Murdoch family showed signs of eroding, according to people briefed on discussions about his future.",
+      "lead_paragraph": "Bill O’Reilly’s position at Fox News grew increasingly tenuous on Tuesday as support from the Murdoch family showed signs of eroding, according to three people briefed on discussions about his future.",
+      "publication_date": "2017-04-19T01:29:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/18/business/media/fox-bill-oreilly.html",
+      "byline": "By Emily Steel, Michael S. Schmidt and Jim Rutenberg"
+    },
+    {
+      "headline": "As Zeal for China Dims, Global Companies Complain More Boldly",
+      "snippet": "International firms still fear retaliation but are escalating their behind-the-scenes rhetoric as China becomes a more difficult business environment.",
+      "abstract": "International firms still fear retaliation but are escalating their behind-the-scenes rhetoric as China becomes a more difficult business environment.",
+      "lead_paragraph": "BEIJING — When Amazon announced its entry into the Chinese cloud computing market last year, Chinese state media celebrated it as “a strong signal” that “there is tremendous room for foreign firms to expand in the Chinese market as long as they comply with local regulations.”",
+      "publication_date": "2017-04-19T04:01:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/19/business/china-companies-complain.html",
+      "byline": "By Sui-Lee Wee"
+    },
+    {
+      "headline": "Why Facebook Keeps Beating Every Rival: It’s the Network, of Course",
+      "snippet": "Facebook’s chief, Mark Zuckerberg, realized early that creating the best new features is not as important as owning the biggest and most engaged network.",
+      "abstract": "Facebook’s chief, Mark Zuckerberg, realized early that creating the best new features is not as important as owning the biggest and most engaged network.",
+      "lead_paragraph": "The tech world just witnessed a robbery. The heist was so brazen you kind of had to admire it, even if it was pulled off with all the grace of a gas station stickup.",
+      "publication_date": "2017-04-19T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/19/technology/facebook-snapchat-instagram-innovation.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Trump Inaugural Drew Big Dollars From Donors With Vested Interests",
+      "snippet": "Documents provide a glimpse of the multimillion-dollar frenzy of influence-seeking and peacemaking surrounding President Trump’s swearing-in.",
+      "abstract": "Documents provide a glimpse of the multimillion-dollar frenzy of influence-seeking and peacemaking surrounding President Trump’s swearing-in.",
+      "lead_paragraph": "The casino magnate and philanthropist Sheldon G. Adelson wants some big things from the Trump administration: banning the online poker sites that compete with his luxury casinos, for example, and moving the United States Embassy in Israel to Jerusalem.",
+      "publication_date": "2017-04-19T14:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/19/us/politics/trump-inauguration-sheldon-adelson-fundraising.html",
+      "byline": "By Nicholas Confessore, Nicholas Fandos and Rachel Shorey"
+    },
+    {
+      "headline": "Chinese Investment Scandal Highlights ‘Shadow Banking’ Risks",
+      "snippet": "The disappearance of more than $400 million of investors’ money from a branch of the bank China Minsheng illustrates what economists say is a growing risk.",
+      "abstract": "The disappearance of more than $400 million of investors’ money from a branch of the bank China Minsheng illustrates what economists say is a growing risk.",
+      "lead_paragraph": "BEIJING — When Lisa Wang sank her retirement money — all $730,000 of it — into a single investment, her fund manager repeatedly said the product was risk free.",
+      "publication_date": "2017-04-19T14:41:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/19/business/china-minsheng-shadow-banking.html",
+      "byline": "By Sui-Lee Wee and Owen Guo"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2009-12-24",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Recession Slows Population Rise Across Sun Belt",
+      "snippet": "The states that grew fast during the real estate boom are now experiencing declines, the Census Bureau reported.",
+      "abstract": "The states that grew fast during the real estate boom are now experiencing declines, the Census Bureau reported.",
+      "lead_paragraph": "MIAMI  States in the South and the West that grew by exceptional leaps and bounds during the real estate boom of just a few years ago are now experiencing sharply slower growth in population, the Census Bureau said Wednesday.",
+      "publication_date": "2009-12-23T16:57:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/12/24/us/24census.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "Loan Program May Stir Nuclear Industry",
+      "snippet": "The Energy Department is set to announce $18.5 billion in loan guarantees to build nuclear reactors.",
+      "abstract": "The Energy Department is set to announce $18.5 billion in loan guarantees to build nuclear reactors.",
+      "lead_paragraph": "WASHINGTON  When experts on power grid reliability asked themselves recently how a cleaner energy future would look, seven of eight regional councils imagined how their systems would work with 10 percent wind power. ",
+      "publication_date": "2009-12-23T22:55:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/12/24/business/energy-environment/24nuke.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "Chilly Climate for Oil Refiners",
+      "snippet": "Falling demand for gas has the nation’s oil refiners mired in a crisis, and analysts say worse times may be ahead.",
+      "abstract": "Falling demand for gas has the nation’s oil refiners mired in a crisis, and analysts say worse times may be ahead.",
+      "lead_paragraph": "Only a few years ago, a cry went up that the United States needed more oil refineries. The perceived shortage was so acute that George W. Bush, president at the time, even offered disused military bases as sites for building them.",
+      "publication_date": "2009-12-24T01:29:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/12/24/business/energy-environment/24refining.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "For American Workers in China, a Culture Clash",
+      "snippet": "To work in China, Americans find they must adjust to business practices built on deep relationships and communication that’s less direct.",
+      "abstract": "To work in China, Americans find they must adjust to business practices built on deep relationships and communication that’s less direct.",
+      "lead_paragraph": "As more Americans go to mainland China to take jobs, more Chinese and Americans are working side by side. These cross-cultural partnerships, while beneficial in many ways, are also highlighting tensions that expose differences in work experience, pay levels and communication.",
+      "publication_date": "2009-12-24T01:42:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/12/24/business/global/24chinawork.html",
+      "byline": "By Hannah Seligson"
+    },
+    {
+      "headline": "Taking Hold in Silicon Valley, a Ping-Pong Boom",
+      "snippet": "The India Community Center in Milpitas, Calif., is an influential hatchery for Olympic hopefuls.",
+      "abstract": "The India Community Center in Milpitas, Calif., is an influential hatchery for Olympic hopefuls.",
+      "lead_paragraph": "MILPITAS, Calif.  Young people who were serious about table tennis used to have to make the trip to Beijing, Stockholm or Moscow to train with world-class coaches. ",
+      "publication_date": "2009-12-24T01:47:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/12/24/us/24pingpong.html",
+      "byline": "By Patricia Leigh Brown"
+    },
+    {
+      "headline": "Banks Bundled Bad Debt, Bet Against It and Won",
+      "snippet": "Investigators are trying to determine whether banks like Goldman Sachs intentionally sold their clients especially risky mortgage-linked assets.",
+      "abstract": "Investigators are trying to determine whether banks like Goldman Sachs intentionally sold their clients especially risky mortgage-linked assets.",
+      "lead_paragraph": "In late October 2007, as the financial markets were starting to come unglued, a Goldman Sachs trader, Jonathan M. Egol, received very good news. At 37, he was named a managing director at the firm.",
+      "publication_date": "2009-12-24T01:53:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/12/24/business/24trading.html",
+      "byline": "By Gretchen Morgenson and Louise Story"
+    },
+    {
+      "headline": "In Senate Health Care Vote, New Partisan Vitriol",
+      "snippet": "The Senate’s final vote marks the culmination of more than a generation of polarization of the political system.",
+      "abstract": "The Senate’s final vote marks the culmination of more than a generation of polarization of the political system.",
+      "lead_paragraph": "WASHINGTON  The vote on Monday, in the dead of night, was 60 to 40. The vote on Tuesday, just after daybreak, was 60 to 39. And the vote on Wednesday afternoon, at a civil hour but after less-than-civil debate, was 60 to 39 again  an immutable tally that showed Democrats unwavering in the march to adopt a far-reaching overhaul of the health care system over united Republican opposition. ",
+      "publication_date": "2009-12-24T02:08:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/12/24/us/politics/24assess.html",
+      "byline": "By David M. Herszenhorn"
+    },
+    {
+      "headline": "Investors End Week on Upswing",
+      "snippet": "Shares on Wall Street rose, closing at their highest levels for the year, after two reports confirmed a steady, if sluggish, recovery.",
+      "abstract": "Shares on Wall Street rose, closing at their highest levels for the year, after two reports confirmed a steady, if sluggish, recovery.",
+      "lead_paragraph": "Shares on Wall Street rose on Thursday, closing at their highest levels for the year, after two government reports confirmed a steady, if sluggish, economic recovery. ",
+      "publication_date": "2009-12-24T12:59:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/12/25/business/25markets.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "New Aid for Fannie and Freddie",
+      "snippet": "The compensation for the two executives includes a $900,000 salary, $3.1 million in deferred payments and a possible bonus of $2 million.",
+      "abstract": "The compensation for the two executives includes a $900,000 salary, $3.1 million in deferred payments and a possible bonus of $2 million.",
+      "lead_paragraph": "Just as the nation’s biggest banks repay their taxpayer lifelines, the government said Thursday it would offer significant new financial support to Fannie Mae and Freddie Mac, the beleaguered mortgage giants, no matter how badly they perform in the next few years. ",
+      "publication_date": "2009-12-24T13:42:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/12/25/business/25fannie.html",
+      "byline": "By Louise Story"
+    }
+  ]
+}

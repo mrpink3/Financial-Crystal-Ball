@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-01-02",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "As China Talks Begin, Trump’s Trade Negotiator Tries to Keep President From Wavering",
+      "snippet": "Robert Lighthizer, the United States trade representative and a China skeptic, wants to prevent an anxious president from making a quick, empty deal in a rush to calm the markets.",
+      "abstract": "Robert Lighthizer, the United States trade representative and a China skeptic, wants to prevent an anxious president from making a quick, empty deal in a rush to calm the markets.",
+      "lead_paragraph": "WASHINGTON — In the middle of his crowded dinner in Buenos Aires with President Xi Jinping of China, President Trump leaned across the table, pointed to Robert Lighthizer, the United States trade representative whose skepticism of China runs deep, and declared, “That’s my negotiator!”",
+      "publication_date": "2019-01-01T18:06:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/01/us/politics/robert-lighthizer-president-trump.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "Curbs on A.I. Exports? Silicon Valley Fears Losing Its Edge",
+      "snippet": "The Commerce Department is considering national security restrictions on artificial intelligence. Some worry they could stunt the industry in the U.S.",
+      "abstract": "The Commerce Department is considering national security restrictions on artificial intelligence. Some worry they could stunt the industry in the U.S.",
+      "lead_paragraph": "SAN FRANCISCO — A common belief among tech industry insiders is that Silicon Valley has dominated the internet because much of the worldwide network was designed and built by Americans.",
+      "publication_date": "2019-01-01T18:37:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/01/technology/artificial-intelligence-export-restrictions.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "How Biden Has Paved the Way for a Possible Presidential Run",
+      "snippet": "A series of careful financial decisions, and the creation of nonprofits and academic centers staffed by close advisers, would help a campaign-in-waiting.",
+      "abstract": "A series of careful financial decisions, and the creation of nonprofits and academic centers staffed by close advisers, would help a campaign-in-waiting.",
+      "lead_paragraph": "When officials at the University of Utah invited Joseph R. Biden Jr. to speak there in December, Mr. Biden’s representatives listed a number of requirements for the appearance. His booking firm, Creative Artists Agency, said the school would need to fly Mr. Biden and his aides to Salt Lake City by private plane. It would buy 1,000 copies of his recent memoir from a designated vendor. There would be no insertion of the word “former” before “vice president” in social media promotions. And the speaking fee would be $100,000 — “a reduced rate,” it was explained, for colleges and universities.",
+      "publication_date": "2019-01-01T19:31:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/01/us/politics/joe-biden-presidential-campaign-2020.html",
+      "byline": "By Kevin Sack and Alexander Burns"
+    },
+    {
+      "headline": "Kim and Trump Back at Square 1: If U.S. Keeps Sanctions, North Will Keep Nuclear Program",
+      "snippet": "The North Korean leader’s New Year speech seemed to challenge President Trump to backtrack on the American goal of zero North Korean nuclear weapons.",
+      "abstract": "The North Korean leader’s New Year speech seemed to challenge President Trump to backtrack on the American goal of zero North Korean nuclear weapons.",
+      "lead_paragraph": "Nearly two years into his presidency and more than six months after his historic summit meeting with Kim Jong-un of North Korea, President Trump finds himself essentially back where he was at the beginning in achieving the ambitious goal of getting Mr. Kim to relinquish his nuclear arsenal.",
+      "publication_date": "2019-01-01T23:48:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/01/world/asia/kim-trump-nuclear.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "In Newly Divided Government, Who Will Control the Political Agenda?",
+      "snippet": "As Democrats take control of the House, they will push an anti-corruption agenda while President Trump tries to keep the focus on immigration controls.",
+      "abstract": "As Democrats take control of the House, they will push an anti-corruption agenda while President Trump tries to keep the focus on immigration controls.",
+      "lead_paragraph": "WASHINGTON — America will get its first taste of divided government under President Trump this week when a Democratic House tries to wrest control of the political agenda from Mr. Trump, who appears determined to keep the focus on border security, immigration and his “big, beautiful” wall.",
+      "publication_date": "2019-01-02T00:55:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/01/us/politics/house-democrats-trump-wall-immigration.html",
+      "byline": "By Sheryl Gay Stolberg and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "Learning China’s Forbidden History, So They Can Censor It",
+      "snippet": "Thousands of low-wage workers in “censorship factories” trawl the online world for forbidden content, where even a photo of an empty chair could cause big trouble. ",
+      "abstract": "Thousands of low-wage workers in “censorship factories” trawl the online world for forbidden content, where even a photo of an empty chair could cause big trouble. ",
+      "lead_paragraph": "Li Chengzhi had a lot to learn when he first got a job as a professional censor. ",
+      "publication_date": "2019-01-02T14:52:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/02/business/china-internet-censor.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Trump and Democrats Dig In After Talks to Reopen Government Go Nowhere",
+      "snippet": "During the contentious meeting, the president made his case for a border wall and rejected Democrats’ proposals for reopening the government while the two sides ironed out their differences.",
+      "abstract": "During the contentious meeting, the president made his case for a border wall and rejected Democrats’ proposals for reopening the government while the two sides ironed out their differences.",
+      "lead_paragraph": "WASHINGTON — President Trump and Democratic congressional leaders dug in Wednesday for a lengthy partial shutdown in a newly divided government after a White House meeting — the first in 22 days — could not break an impasse over Mr. Trump’s demands for billions of dollars for a border wall.",
+      "publication_date": "2019-01-02T15:29:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/02/us/politics/trump-congress-shutdown.html",
+      "byline": "By Julie Hirschfeld Davis and Michael Tackett"
+    }
+  ]
+}

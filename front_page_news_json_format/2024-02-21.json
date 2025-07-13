@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2024-02-21",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "A Nerve Center for the Right Wing Rises in Washington",
+      "snippet": "The Conservative Partnership Institute has become a breeding ground for the next generation of Trump loyalists and an incubator for policies he might pursue. Its fast growth is raising questions.",
+      "abstract": "The Conservative Partnership Institute has become a breeding ground for the next generation of Trump loyalists and an incubator for policies he might pursue. Its fast growth is raising questions.",
+      "lead_paragraph": "In the lobby of the grand Biltmore Hotel in Coral Gables, Fla., where a sprawling new force in Washington’s right-wing ecosystem, the Conservative Partnership Institute, was holding its winter conference, the former Trump legal adviser Cleta Mitchell was exultant.",
+      "publication_date": "2024-02-20T18:49:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/20/us/politics/trump-conservative-partnership-institute.html",
+      "byline": "By Robert Draper"
+    },
+    {
+      "headline": "Volkswagen Leans on Electric Vehicles and Nostalgia to Grow in U.S.",
+      "snippet": "It and other foreign automakers are trying to exploit upheaval caused by new technology to gain market share from their dominant rivals.",
+      "abstract": "It and other foreign automakers are trying to exploit upheaval caused by new technology to gain market share from their dominant rivals.",
+      "lead_paragraph": "Probably only Americans of a certain age remember when the Volkswagen Beetle was the best-selling imported car in the United States and the hippest ride to a Grateful Dead concert was a Volkswagen Microbus.",
+      "publication_date": "2024-02-20T21:15:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/20/business/vw-electric-vehicles-us.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "U.S. Vetoes Security Council Cease-Fire Resolution",
+      "snippet": "The United States said the resolution could have disrupted its negotiations to free hostages and secure a temporary cease-fire, but its vote drew outcry from many diplomats and aid workers.",
+      "abstract": "The United States said the resolution could have disrupted its negotiations to free hostages and secure a temporary cease-fire, but its vote drew outcry from many diplomats and aid workers.",
+      "lead_paragraph": "The United States on Tuesday cast the sole vote against a United Nations Security Council resolution that would have called for an immediate cease-fire in the Gaza Strip, saying it feared it could disrupt hostage negotiations.",
+      "publication_date": "2024-02-20T22:30:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/20/world/middleeast/us-vetoes-ceasefire-resolution.html",
+      "byline": "By Farnaz Fassihi, Cassandra Vinograd and Thomas Fuller"
+    },
+    {
+      "headline": "Where Hostage Families and Supporters Gather, for Solace and Protest",
+      "snippet": "A plaza in Tel Aviv has become a home away from home. “If I don’t know what to do, I come here,” one relative said.",
+      "abstract": "A plaza in Tel Aviv has become a home away from home. “If I don’t know what to do, I come here,” one relative said.",
+      "lead_paragraph": "A week after Hamas-led terrorists stormed his kibbutz and kidnapped his wife and three young children, Avihai Brodutch planted himself on the sidewalk in front of army headquarters in Tel Aviv holding a sign scrawled with the words “My family’s in Gaza,” and said he would not budge until they were brought home.",
+      "publication_date": "2024-02-21T05:01:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/21/world/europe/israel-gaza-war-hostages-plaza.html",
+      "byline": "By Roni Caryn Rabin"
+    },
+    {
+      "headline": "The Two-Decade Fight for Two Letters on the Internet",
+      "snippet": "The South Pacific island of Niue says it was cheated out of .nu, a domain that turned out to be very lucrative on the other side of the world.",
+      "abstract": "The South Pacific island of Niue says it was cheated out of .nu, a domain that turned out to be very lucrative on the other side of the world.",
+      "lead_paragraph": "The South Pacific island of Niue is one the most remote places in the world. Its closest neighbors, Tonga and American Samoa, are hundreds of miles away. The advent of the internet promised, in a small way, to make Niue and its 2,000 or so residents more connected to the rest of the world.",
+      "publication_date": "2024-02-21T05:12:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/21/world/asia/niue-nu-domain-sweden.html",
+      "byline": "By Jacob Judah"
+    },
+    {
+      "headline": "In Latin America, Guards Don’t Control Prisons, Gangs Do",
+      "snippet": "Intended to fight crime, Latin American prisons have instead become safe havens and recruitment centers for gangs, fueling a surge in violence.",
+      "abstract": "Intended to fight crime, Latin American prisons have instead become safe havens and recruitment centers for gangs, fueling a surge in violence.",
+      "lead_paragraph": "Ecuador’s military was sent in to seize control of the country’s prisons last month after two major gang leaders escaped and criminal groups quickly set off a nationwide revolt that paralyzed the country.",
+      "publication_date": "2024-02-21T10:02:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/21/world/americas/latin-america-prisons-gangs-violence.html",
+      "byline": "By Maria Abi-Habib, Annie Correal and Jack Nicas"
+    },
+    {
+      "headline": "Are We in a Productivity Boom? For Clues, Look to 1994.",
+      "snippet": "Thirty years ago, the U.S. entered an era of productivity gains that enabled healthy growth. Experts are asking if it could happen again.",
+      "abstract": "Thirty years ago, the U.S. entered an era of productivity gains that enabled healthy growth. Experts are asking if it could happen again.",
+      "lead_paragraph": "The last time the American economy was posting surprising economic growth numbers amid rapid wage gains and moderating inflation, Ace of Base and All-4-One topped the Billboard charts and denim overalls were in vogue.",
+      "publication_date": "2024-02-21T10:03:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/21/business/economy/economy-productivity-increase.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "China’s Rush to Dominate A.I. Comes With a Twist: It Depends on U.S. Technology",
+      "snippet": "China’s tech firms were caught off guard by breakthroughs in generative artificial intelligence. Beijing’s regulations and a sagging economy aren’t helping.",
+      "abstract": "China’s tech firms were caught off guard by breakthroughs in generative artificial intelligence. Beijing’s regulations and a sagging economy aren’t helping.",
+      "lead_paragraph": "In November, a year after ChatGPT’s release, a relatively unknown Chinese start-up leaped to the top of a leaderboard that judged the abilities of open-source artificial intelligence systems.",
+      "publication_date": "2024-02-21T15:43:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
+      "byline": "By Paul Mozur, John Liu and Cade Metz"
+    },
+    {
+      "headline": "Silicon Valley Venture Capitalists Are Breaking Up With China",
+      "snippet": "Under intensifying scrutiny from U.S. lawmakers, top firms have pulled back from investing in Chinese start-ups.",
+      "abstract": "Under intensifying scrutiny from U.S. lawmakers, top firms have pulled back from investing in Chinese start-ups.",
+      "lead_paragraph": "DCM Ventures, a Silicon Valley venture capital firm, began investing in China’s start-ups in 1999. The move reaped such blockbuster returns that in 2021, DCM said it planned to “double down” on its strategy of investing in China, the United States and Japan.",
+      "publication_date": "2024-02-21T15:44:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/21/technology/silicon-valley-vc-china.html",
+      "byline": "By Erin Griffith"
+    }
+  ]
+}

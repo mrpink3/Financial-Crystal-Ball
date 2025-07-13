@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-07-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "The ‘Rocket Ship’ Economic Recovery Is Crashing",
+      "snippet": "Real-time data suggest a quick resurgence of business activity is leveling off nationally — and reversing in states like Arizona and Texas.",
+      "abstract": "Real-time data suggest a quick resurgence of business activity is leveling off nationally — and reversing in states like Arizona and Texas.",
+      "lead_paragraph": "The nascent restart of America’s economy has begun to stall as a surge in new coronavirus cases dampens consumer and business activity across states like Florida, Texas and Arizona.",
+      "publication_date": "2020-07-01T16:02:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/01/business/economic-recovery-virus-surge.html",
+      "byline": "By Jim Tankersley and Ben Casselman"
+    },
+    {
+      "headline": "He Says a Union Fired Him Over His Push for Police Reform",
+      "snippet": "A clash at a Maryland local shows the tensions in a labor movement whose ranks include law enforcement officers along with many nonwhite, nonpolice members.",
+      "abstract": "A clash at a Maryland local shows the tensions in a labor movement whose ranks include law enforcement officers along with many nonwhite, nonpolice members.",
+      "lead_paragraph": "When Gabriel Acevero, a Maryland state legislator employed by a union local, introduced a bill last year to roll back protections for police accused of misconduct, he was stepping on a potential fault line. His union, Local 1994 of the United Food and Commercial Workers, represents thousands of Black and Latino workers in food services and at a variety of government agencies. It also includes a small portion of workers in law enforcement.",
+      "publication_date": "2020-07-01T21:07:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/01/business/economy/police-unions-labor.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Late Action on Virus Prompts Fears Over Safety of U.S. Diplomats in Saudi Arabia",
+      "snippet": "Surging outbreaks in the U.S. Embassy and the kingdom and quiet congressional pressure led the State Department belatedly to allow voluntary departures. Some demand more action.",
+      "abstract": "Surging outbreaks in the U.S. Embassy and the kingdom and quiet congressional pressure led the State Department belatedly to allow voluntary departures. Some demand more action.",
+      "lead_paragraph": "WASHINGTON — Inside the sprawling American Embassy compound in Riyadh, Saudi Arabia, a coronavirus outbreak was spreading. Dozens of embassy employees became sick last month, and more than 20 others were quarantined after a birthday barbecue became a potential vector for the spread of the disease.",
+      "publication_date": "2020-07-01T21:21:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/01/us/politics/coronavirus-us-embassy-saudi-arabia.html",
+      "byline": "By Mark Mazzetti and Edward Wong"
+    },
+    {
+      "headline": "How Berkshire Hathaway May Have Been Snookered in Germany",
+      "snippet": "A unit of Warren Buffett’s empire paid an inflated price for a pipe maker that used fake sales to look profitable, an arbitration panel concluded. The firm was close to bankruptcy.",
+      "abstract": "A unit of Warren Buffett’s empire paid an inflated price for a pipe maker that used fake sales to look profitable, an arbitration panel concluded. The firm was close to bankruptcy.",
+      "lead_paragraph": "FRANKFURT — Only a few weeks after Berkshire Hathaway bought what looked like an upstanding example of German engineering prowess, a manager in Warren Buffett’s widely admired corporate empire received an unsettling email.",
+      "publication_date": "2020-07-02T03:55:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/01/business/berkshire-hathaway-fraud-germany.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Fraudulent Jobless Claims Slow Relief to the Truly Desperate",
+      "snippet": "Hundreds of millions of dollars went to bogus applications, triggering long reviews for others as scammers hide in a torrent of benefit requests.",
+      "abstract": "Hundreds of millions of dollars went to bogus applications, triggering long reviews for others as scammers hide in a torrent of benefit requests.",
+      "lead_paragraph": "When Alexandria Preston had to leave her job as a medical assistant to care for her two children during the pandemic, she didn’t encounter endless delays like so many others trying to get unemployment benefits.",
+      "publication_date": "2020-07-02T07:00:12+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/02/your-money/coronavirus-unemployment-fraud.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "In the Covid-19 Economy, You Can Have a Kid or a Job. You Can’t Have Both.",
+      "snippet": "Our struggle is not an emotional concern. We are not burned out. We are being crushed by an economy that has bafflingly declared working parents inessential.",
+      "abstract": "Our struggle is not an emotional concern. We are not burned out. We are being crushed by an economy that has bafflingly declared working parents inessential.",
+      "lead_paragraph": "Last week, I received an email from my children’s principal, sharing some of the first details about plans to reopen New York City schools this fall. The message explained that the city’s Department of Education, following federal guidelines, will require each student to have 65 square feet of classroom space. Not everyone will be allowed in the building at once. The upshot is that my children will be able to physically attend school one out of every three weeks.",
+      "publication_date": "2020-07-02T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/07/02/business/covid-economy-parents-kids-career-homeschooling.html",
+      "byline": "By Deb Perelman"
+    },
+    {
+      "headline": "For This Fourth of July, Officials Say Celebrate Freedom by Staying Home",
+      "snippet": "As the nation staggers toward a holiday weekend during the coronavirus pandemic, health officials are pleading with residents to not make a bad situation worse.",
+      "abstract": "As the nation staggers toward a holiday weekend during the coronavirus pandemic, health officials are pleading with residents to not make a bad situation worse.",
+      "lead_paragraph": "ATLANTA — On the website for American Legion Post 410 in Lakehills, Texas, an image shows a bald eagle soaring in front of an American flag. But just below the patriotic picture is the bad news that the unrelenting spread of the coronavirus has mostly grounded the tiny community’s Fourth of July celebrations.",
+      "publication_date": "2020-07-02T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/02/us/coronavirus-fourth-of-july.html",
+      "byline": "By Richard Fausset, Mitch Smith and Sabrina Tavernise"
+    },
+    {
+      "headline": "Tesla Shines During the Pandemic as Other Automakers Struggle",
+      "snippet": "The electric carmaker’s deliveries fell only modestly as sales in China and other overseas markets nearly made up for lost sales in the United States.",
+      "abstract": "The electric carmaker’s deliveries fell only modestly as sales in China and other overseas markets nearly made up for lost sales in the United States.",
+      "lead_paragraph": "In early 2019, Tesla seemed to be stuck in a ditch.",
+      "publication_date": "2020-07-02T12:21:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/02/business/tesla-sales-second-quarter.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "After June Job Gains, Still a ‘Deep Hole,’ and New Worries",
+      "snippet": "Some 4.8 million positions were added last month, but renewed shutdowns could accelerate the continuing layoffs.",
+      "abstract": "Some 4.8 million positions were added last month, but renewed shutdowns could accelerate the continuing layoffs.",
+      "lead_paragraph": "Employers brought back millions more workers in June as businesses began to reopen across the country. But the recent surge in coronavirus cases is threatening to stall the economic recovery long before it has reached most of the people who lost their jobs.",
+      "publication_date": "2020-07-02T12:57:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/02/business/economy/jobs-unemployment-coronavirus.html",
+      "byline": "By Ben Casselman and Nelson D. Schwartz"
+    },
+    {
+      "headline": "Congress Eyes More Spending as Virus Cases Surge and Economy Struggles",
+      "snippet": "Republicans and Democrats are considering new aid for workers and businesses, but lobbyists and lawmakers say the Trump administration is not deeply engaged.",
+      "abstract": "Republicans and Democrats are considering new aid for workers and businesses, but lobbyists and lawmakers say the Trump administration is not deeply engaged.",
+      "lead_paragraph": "WASHINGTON — There is a growing recognition across party lines that Congress will need to spend more money, and soon, to continue to prop up the American economy during the coronavirus recession.",
+      "publication_date": "2020-07-02T14:41:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/02/business/economy/congress-economy-coronavirus.html",
+      "byline": "By Jim Tankersley and Emily Cochrane"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-08-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "The Baroness Fighting to Protect Children Online",
+      "snippet": "Beeban Kidron says tech giants exert too much leverage over young users and has pushed laws to change that. “It’s little Timmy in his bedroom versus Mark Zuckerberg in his Valley,” she said.",
+      "abstract": "Beeban Kidron says tech giants exert too much leverage over young users and has pushed laws to change that. “It’s little Timmy in his bedroom versus Mark Zuckerberg in his Valley,” she said.",
+      "lead_paragraph": "MENLO PARK, Calif. — Beeban Kidron, Silicon Valley’s latest antagonist, sat on the patio of a boutique hotel near Facebook’s headquarters recently, camouflaged in the local uniform of jeans and sneakers.",
+      "publication_date": "2019-08-27T16:25:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/27/technology/baroness-kidron-children-tech.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "How China Uses LinkedIn to Recruit Spies Abroad",
+      "snippet": "Western intelligence officials say Chinese agents are contacting thousands of foreign citizens using LinkedIn, including former government officials.",
+      "abstract": "Western intelligence officials say Chinese agents are contacting thousands of foreign citizens using LinkedIn, including former government officials.",
+      "lead_paragraph": "WASHINGTON — One former senior foreign policy official in the Obama administration received messages from someone on LinkedIn offering to fly him to China and connect him with “well paid” opportunities. ",
+      "publication_date": "2019-08-27T16:56:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/27/world/asia/china-linkedin-spies.html",
+      "byline": "By Edward Wong"
+    },
+    {
+      "headline": "Former Star Google and Uber Engineer Charged With Theft of Trade Secrets",
+      "snippet": "Anthony Levandowski, one of Silicon Valley’s foremost technologists on autonomous cars, was charged with theft and attempted theft of trade secrets from Google.",
+      "abstract": "Anthony Levandowski, one of Silicon Valley’s foremost technologists on autonomous cars, was charged with theft and attempted theft of trade secrets from Google.",
+      "lead_paragraph": "SAN JOSE, Calif. — Anthony Levandowski was once one of Silicon Valley’s most sought after technologists.",
+      "publication_date": "2019-08-27T17:29:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/27/technology/google-trade-secrets-levandowski.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Telegram Pushes Ahead With Plans for ‘Gram’ Cryptocurrency",
+      "snippet": "When Facebook announced plans for a similar effort this year, the regulatory pushback was fierce. But Telegram appears undeterred.",
+      "abstract": "When Facebook announced plans for a similar effort this year, the regulatory pushback was fierce. But Telegram appears undeterred.",
+      "lead_paragraph": "While Facebook’s big cryptocurrency plans have hit a wall with regulators, another big social network, Telegram, is charging ahead with its own digital currency.",
+      "publication_date": "2019-08-27T22:43:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/27/technology/telegram-cryptocurrency-gram.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Epstein’s Island, ‘Little St. Jeff’s’: A Hideaway Where Money Bought Influence",
+      "snippet": "Jeffrey Epstein used his islands as a personal and corporate haven, negotiating lucrative local tax breaks even as he faced inquiries for sexual misconduct.",
+      "abstract": "Jeffrey Epstein used his islands as a personal and corporate haven, negotiating lucrative local tax breaks even as he faced inquiries for sexual misconduct.",
+      "lead_paragraph": "ST. THOMAS, V.I. — Jeffrey Epstein once described the United States Virgin Islands as “my favorite place to be.”",
+      "publication_date": "2019-08-28T09:16:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/28/business/jeffrey-epstein-island.html",
+      "byline": "By Steve Eder"
+    },
+    {
+      "headline": "Boris Johnson’s ‘Explosive’ Move to Get His Way on Brexit: Suspend Parliament",
+      "snippet": "Britain’s prime minister asked the queen to suspend Parliament, a move intended to ensure that lawmakers have as little time as possible to challenge a no-deal Brexit. The opposition called it a “coup.”",
+      "abstract": "Britain’s prime minister asked the queen to suspend Parliament, a move intended to ensure that lawmakers have as little time as possible to challenge a no-deal Brexit. The opposition called it a “coup.”",
+      "lead_paragraph": "LONDON — Prime Minister Boris Johnson turned to Britain’s queen on Wednesday to limit Parliament’s ability to challenge his plan to take the country out of the European Union in nine weeks, with or without a deal.",
+      "publication_date": "2019-08-28T09:25:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/28/world/europe/boris-johnson-brexit-parliament.html",
+      "byline": "By Stephen Castle"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-12-27",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "The Covenant Parents Aren’t Going to Keep Quiet on Guns",
+      "snippet": "A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.",
+      "abstract": "A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.",
+      "lead_paragraph": "Mary Joyce told herself she would be kind, just as she always had been. Say enough, but not too much, she reminded herself.",
+      "publication_date": "2023-12-26T17:14:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/26/us/politics/nashville-school-shooting-covenant-parents.html",
+      "byline": "By Emily Cochrane and Jon Cherry"
+    },
+    {
+      "headline": "Ukraine’s Stolen Children",
+      "snippet": "Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.",
+      "abstract": "Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.",
+      "lead_paragraph": "Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.",
+      "publication_date": "2023-12-27T01:47:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "TW",
+      "web_url": "https://www.nytimes.com/interactive/2023/12/26/world/europe/ukraine-war-children-russia.html",
+      "byline": "By Carlotta Gall, Oleksandr Chubko, Cora Engelbrecht and Daniel Berehulak"
+    },
+    {
+      "headline": "Tesla Strike Is a Culture Clash: Swedish Labor vs. American Management",
+      "snippet": "Workers seeking a collective agreement from the automaker say they are pushing for their rights, but car owners see them as taking the fight too far.",
+      "abstract": "Workers seeking a collective agreement from the automaker say they are pushing for their rights, but car owners see them as taking the fight too far.",
+      "lead_paragraph": "The Tesla technicians who walked off their jobs in Sweden say they still support the mission of the American company and its headline-grabbing chief executive. But they also want Tesla to accept the Swedish way of doing business.",
+      "publication_date": "2023-12-27T05:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/27/business/tesla-sweden-strike-labor.html",
+      "byline": "By Melissa Eddy"
+    },
+    {
+      "headline": "Death by Doctor May Soon Be Available for the Mentally Ill in Canada",
+      "snippet": "The country is divided over a law that would allow patients suffering from mental health illnesses to apply for assisted death.",
+      "abstract": "The country is divided over a law that would allow patients suffering from mental health illnesses to apply for assisted death.",
+      "lead_paragraph": "Canada already has one of the most liberal assisted death laws in the world, offering the practice to terminally and chronically ill Canadians.",
+      "publication_date": "2023-12-27T10:02:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/27/world/canada/medical-assisted-death-mental-illness.html",
+      "byline": "By Vjosa Isai"
+    },
+    {
+      "headline": "Chinese Spy Agency Rising to Challenge the C.I.A.",
+      "snippet": "The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s scientific secrets.",
+      "abstract": "The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s scientific secrets.",
+      "lead_paragraph": "The Chinese spies wanted more. In meetings during the pandemic with Chinese technology contractors, they complained that surveillance cameras tracking foreign diplomats, military officers and intelligence operatives in Beijing’s embassy district fell short of their needs.",
+      "publication_date": "2023-12-27T10:03:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/27/us/politics/china-cia-spy-mss.html",
+      "byline": "By Edward Wong, Julian E. Barnes, Muyi Xiao and Chris Buckley"
+    },
+    {
+      "headline": "Blinken Meets With Mexico’s President About Surge in Migration at the Border",
+      "snippet": "Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers and as a migrant caravan heads toward the United States.",
+      "abstract": "Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers and as a migrant caravan heads toward the United States.",
+      "lead_paragraph": "Secretary of State Antony J. Blinken and other top American officials discussed the root causes of migration with Mexico’s president on Wednesday in hopes of figuring out a strategy to slow the surge in illegal crossings at the southern U.S. border.",
+      "publication_date": "2023-12-27T10:04:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/27/us/politics/blinken-mexico-migrant-caravan.html",
+      "byline": "By Hamed Aleaziz and Emiliano Rodríguez Mega"
+    },
+    {
+      "headline": "Skepticism Grows Over Israel’s Ability to Dismantle Hamas",
+      "snippet": "Israel has vowed time and again to eliminate the group responsible for the brutal Oct. 7 attack, but critics increasingly see that goal as unrealistic or even impossible.",
+      "abstract": "Israel has vowed time and again to eliminate the group responsible for the brutal Oct. 7 attack, but critics increasingly see that goal as unrealistic or even impossible.",
+      "lead_paragraph": "Standing before a gray backdrop decorated with Hamas logos and emblems of a gunman that commemorate the bloody Oct. 7 attack on Israel, Osama Hamdan, the organization’s representative in Lebanon, professed no concern about his Palestinian faction being dislodged from Gaza.",
+      "publication_date": "2023-12-27T10:05:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/27/world/middleeast/israel-hamas-war-military.html",
+      "byline": "By Neil MacFarquhar"
+    },
+    {
+      "headline": "The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work",
+      "snippet": "Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.",
+      "abstract": "Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.",
+      "lead_paragraph": "The New York Times sued OpenAI and Microsoft for copyright infringement on Wednesday, opening a new front in the increasingly intense legal battle over the unauthorized use of published work to train artificial intelligence technologies.",
+      "publication_date": "2023-12-27T13:11:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html",
+      "byline": "By Michael M. Grynbaum and Ryan Mac"
+    },
+    {
+      "headline": "Michigan Supreme Court Decides Trump Can Stay on Ballot",
+      "snippet": "After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.",
+      "abstract": "After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.",
+      "lead_paragraph": "The Michigan Supreme Court on Wednesday gave Donald J. Trump an important victory in the legal battle over his eligibility to return to the White House by allowing the former president to appear on the state’s primary ballot in February.",
+      "publication_date": "2023-12-27T14:17:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/27/us/michigan-trump-ballot.html",
+      "byline": "By Julie Bosman, Ernesto Londoño and Nicholas Bogel-Burroughs"
+    }
+  ]
+}

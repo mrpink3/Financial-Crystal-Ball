@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2019-01-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "In the Race for Content, Hollywood Is Buying Up Hit Podcasts",
+      "snippet": "“Homecoming,” “Dirty John” and “Lore” are just the first in a likely wave of headphone-to-screen adaptations.",
+      "abstract": "“Homecoming,” “Dirty John” and “Lore” are just the first in a likely wave of headphone-to-screen adaptations.",
+      "lead_paragraph": "The film mogul Darryl F. Zanuck was among the skeptics in the years before networks started broadcasting shows seven nights a week. “Television won’t be able to hold on to any market it captures after the first six months,” he infamously predicted. “People will soon get tired of staring at a plywood box every night.”",
+      "publication_date": "2019-01-01T10:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/01/business/media/podcasts-hollywood-tv-shows.html",
+      "byline": "By Jaclyn Peiser"
+    },
+    {
+      "headline": "Big Tech May Look Troubled, but It’s Just Getting Started",
+      "snippet": "Even as Facebook, Google and others confronted challenges in 2018, their ambitions were undimmed. After all, so much of life remains undisrupted.",
+      "abstract": "Even as Facebook, Google and others confronted challenges in 2018, their ambitions were undimmed. After all, so much of life remains undisrupted.",
+      "lead_paragraph": "SAN JOSE, Calif. — Silicon Valley ended 2018 somewhere it had never been: embattled.",
+      "publication_date": "2019-01-01T15:28:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/01/technology/big-tech-troubled-just-getting-started.html",
+      "byline": "By David Streitfeld"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2024-12-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "As Hollywood Struggles, the Region’s Economy Feels the Pain",
+      "snippet": "Film production has failed to bounce back after major strikes last year, and competition from other locales has gotten stiffer.",
+      "abstract": "Film production has failed to bounce back after major strikes last year, and competition from other locales has gotten stiffer.",
+      "lead_paragraph": "The struggles have become a painful, recurring story line in Hollywood.",
+      "publication_date": "2024-12-26T17:17:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/26/business/economy/hollywood-southern-california-economy.html",
+      "byline": "By Kurtis Lee"
+    },
+    {
+      "headline": "Richard Parsons, Serial Fixer of Media and Finance Giants, Dies at 76",
+      "snippet": "His résumé is a catalog of corporate emergencies at Time Warner, Citigroup and the Los Angeles Clippers.",
+      "abstract": "His résumé is a catalog of corporate emergencies at Time Warner, Citigroup and the Los Angeles Clippers.",
+      "lead_paragraph": "Richard D. Parsons, whose humane approach to business made him a serial troubleshooter at distressed companies including Time Warner, CBS and Citigroup and a sought-after adviser at the highest echelons of American industry, died on Thursday at his home in Manhattan. He was 76.",
+      "publication_date": "2024-12-26T20:47:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/26/business/media/richard-parsons-dead.html",
+      "byline": "By Benjamin Mullin"
+    },
+    {
+      "headline": "Dorthy Moxley, Who Pursued Justice in Her Daughter’s Murder, Dies at 92",
+      "snippet": "For decades after Martha Moxley’s gruesome death, Mrs. Moxley remained a compelling figure in a roller-coaster case that captured the world’s attention.",
+      "abstract": "For decades after Martha Moxley’s gruesome death, Mrs. Moxley remained a compelling figure in a roller-coaster case that captured the world’s attention.",
+      "lead_paragraph": "Dorthy Moxley, who crusaded for half her life for justice in the murder of her teenage daughter, Martha, in Greenwich, Conn., in 1975, but who was never fully vindicated in her belief that a young neighbor related to the Kennedy family had killed Martha with a golf club, died on Tuesday at her home in Summit, N.J. She was 92. ",
+      "publication_date": "2024-12-26T20:47:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/26/us/dorthy-moxley-dead.html",
+      "byline": "By Robert D. McFadden"
+    },
+    {
+      "headline": "10 Years Ago, a U.S. Thaw Fueled Cuban Dreams. Now Hope Is Lost.",
+      "snippet": "A decade since the United States and Cuba restored diplomatic relations — which many believed would transform the island — Cuba is in its worst crisis since Fidel Castro took power.",
+      "abstract": "A decade since the United States and Cuba restored diplomatic relations — which many believed would transform the island — Cuba is in its worst crisis since Fidel Castro took power.",
+      "lead_paragraph": "It wasn’t long ago that Havana’s Plaza of the Revolution was packed with American tourists knocking into each other with selfie sticks while taking photos of the iconic image of the revolutionary Che Guevara and trying to catch a ride in a candy-apple red 1952 Chevrolet Bel-Air.",
+      "publication_date": "2024-12-27T10:01:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/27/world/americas/obama-us-thaw-cuba-crisis.html",
+      "byline": "By Frances Robles, Ed Augustin and Hannah Berkeley Cohen"
+    },
+    {
+      "headline": "A Retirement Expert Is Giving Her Notice",
+      "snippet": "Alicia Munnell started the Boston College Center for Retirement Research in 1998. As she prepares to leave, she says fixing Social Security should be a priority now.",
+      "abstract": "Alicia Munnell started the Boston College Center for Retirement Research in 1998. As she prepares to leave, she says fixing Social Security should be a priority now.",
+      "lead_paragraph": "If there’s anyone ready for retirement, it’s Alicia Munnell. She founded and has been running the Center for Retirement Research at Boston College since 1998, making it one of the leading nonpartisan think tanks examining how American workers can thrive after they leave their jobs.",
+      "publication_date": "2024-12-27T10:01:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/27/business/retirement-alicia-munnell-boston-college.html",
+      "byline": "By Brian J. O'Connor"
+    },
+    {
+      "headline": "Tesla Investors Are Still Bullish. Can Elon Musk Deliver?",
+      "snippet": "Sales of the company’s cars are flagging, but investors are focusing on the potential of autonomous driving and Mr. Musk’s ties to President-elect Donald J. Trump.",
+      "abstract": "Sales of the company’s cars are flagging, but investors are focusing on the potential of autonomous driving and Mr. Musk’s ties to President-elect Donald J. Trump.",
+      "lead_paragraph": "Tesla’s sales of electric cars have stalled. But Wall Street doesn’t seem to be worried.",
+      "publication_date": "2024-12-27T15:02:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/27/business/tesla-sales-stock-elon-musk.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "NPR and PBS Stations Brace for Funding Battle Under Trump",
+      "snippet": "Republicans in Congress have tried to defund public media for decades. With the help of Elon Musk, could they finally make good on their threat?",
+      "abstract": "Republicans in Congress have tried to defund public media for decades. With the help of Elon Musk, could they finally make good on their threat?",
+      "lead_paragraph": "Elon Musk is gunning for public media.",
+      "publication_date": "2024-12-27T15:26:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/27/business/media/npr-pbs-funding-trump-musk.html",
+      "byline": "By Benjamin Mullin and Kate Conger"
+    }
+  ]
+}

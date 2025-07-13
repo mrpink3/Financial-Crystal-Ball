@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-06-08",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Theresa May Stumbles Awkwardly to Election Day",
+      "snippet": "Mrs. May, the prime minister of Britain who called an early general election when her future appeared bright, was under increasing criticism as the country prepared to vote.",
+      "abstract": "Mrs. May, the prime minister of Britain who called an early general election when her future appeared bright, was under increasing criticism as the country prepared to vote.",
+      "lead_paragraph": "BATH, England — The British prime minister’s blue battle bus had just arrived for a campaign stop at a factory when the booing started.",
+      "publication_date": "2017-06-07T16:05:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/07/world/europe/theresa-may-british-election.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Who is Christopher Wray? Trump’s F.B.I. Pick Is Said to Be Low-Key and Principled",
+      "snippet": "Mr. Wray’s ability to protect the F.B.I.’s independence will be examined because of President Trump’s repeated interjections into criminal justice matters.",
+      "abstract": "Mr. Wray’s ability to protect the F.B.I.’s independence will be examined because of President Trump’s repeated interjections into criminal justice matters.",
+      "lead_paragraph": "WASHINGTON — Christopher A. Wray was the government’s top criminal prosecutor in 2004 when the F.B.I. director, Robert S. Mueller III, and the deputy attorney general, James B. Comey, threatened to quit the Bush administration over a controversial surveillance program. He offered to join their protest.",
+      "publication_date": "2017-06-07T16:58:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/07/us/politics/christopher-wray-bio.html",
+      "byline": "By Adam Goldman and Matt Apuzzo"
+    },
+    {
+      "headline": "Five Big Tech Stocks Build Market Euphoria, and Jitters",
+      "snippet": "For investors in highflying shares like Amazon’s, there is an awareness that the conflicting sentiments of greed and fear must be balanced.",
+      "abstract": "For investors in highflying shares like Amazon’s, there is an awareness that the conflicting sentiments of greed and fear must be balanced.",
+      "lead_paragraph": "Facebook. Amazon. Apple. Netflix. Google.",
+      "publication_date": "2017-06-07T17:07:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/07/business/dealbook/stock-market-facebook-amazon-apple-google-netflix.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Comey Says Trump Pressured Him to ‘Lift the Cloud’ of Inquiry",
+      "snippet": "Planned testimony by the former F.B.I. director reveals, in dramatic detail, the back story to Mr. Comey’s firing last month.",
+      "abstract": "Planned testimony by the former F.B.I. director reveals, in dramatic detail, the back story to Mr. Comey’s firing last month.",
+      "lead_paragraph": "WASHINGTON — From his first days in office, President Trump repeatedly put pressure on his F.B.I. director, James B. Comey. He demanded loyalty. He asked that an investigation into an adviser be dropped. And he implored Mr. Comey to publicly clear his name.",
+      "publication_date": "2017-06-07T18:05:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/07/us/politics/james-comey-statement-testimony.html",
+      "byline": "By Matt Apuzzo and Michael S. Schmidt"
+    },
+    {
+      "headline": "Uber Fires Executive Over Handling of Rape Investigation in India",
+      "snippet": "The president of Uber’s Asia business was terminated after reporters questioned why he obtained medical records of a woman attacked by her Uber driver.",
+      "abstract": "The president of Uber’s Asia business was terminated after reporters questioned why he obtained medical records of a woman attacked by her Uber driver.",
+      "lead_paragraph": "SAN FRANCISCO — Uber has fired a senior executive who obtained the medical records of a woman who was raped by an Uber driver in India, the latest example of misconduct unearthed at the ride-hailing giant.",
+      "publication_date": "2017-06-07T19:05:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/07/technology/uber-fires-executive.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Trump Has Busy Day in Vortex of Middle East Relations",
+      "snippet": "The president’s bid to be a peacemaker between Qatar and neighbors, and a daylong effort to express sympathy to Iran, show the region’s complexities.",
+      "abstract": "The president’s bid to be a peacemaker between Qatar and neighbors, and a daylong effort to express sympathy to Iran, show the region’s complexities.",
+      "lead_paragraph": "WASHINGTON — Rarely has the Trump administration spoken of Iran other than to condemn it as the world’s chief sponsor of terrorism and an aspiring nuclear weapons state. So when the White House woke on Wednesday to images of a possible Islamic State attack on Tehran, it prompted a sharp quandary: How does President Trump condemn the violence without seeming to embrace the victims?",
+      "publication_date": "2017-06-08T01:24:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/07/world/middleeast/trump-qatar-saudi-arabia-middle-east.html",
+      "byline": "By David E. Sanger, Mark Landler and Eric Schmitt"
+    },
+    {
+      "headline": "Bill to Erase Some Dodd-Frank Banking Rules Passes in House",
+      "snippet": "Republicans have vowed to dismantle legislation enacted in the wake of the financial crisis, but their Choice Act faces a tougher fight in the Senate.",
+      "abstract": "Republicans have vowed to dismantle legislation enacted in the wake of the financial crisis, but their Choice Act faces a tougher fight in the Senate.",
+      "lead_paragraph": "WASHINGTON — The House approved legislation on Thursday to erase a number of core financial regulations put in place by the 2010 Dodd-Frank Act, as Republicans moved a step closer to delivering on their promises to eliminate rules that they claim have strangled small businesses and stagnated the economy.",
+      "publication_date": "2017-06-08T09:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/08/business/dealbook/house-financial-regulations-dodd-frank.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Digging the Graveyard of Oil’s Past",
+      "snippet": "As the energy industry evolves, production platforms in the North Sea, once a crucial source of crude oil, are being dismantled and sold for scrap.",
+      "abstract": "As the energy industry evolves, production platforms in the North Sea, once a crucial source of crude oil, are being dismantled and sold for scrap.",
+      "lead_paragraph": "Moored off the port of Rotterdam, Netherlands, Pioneering Spirit looms so large that it is difficult to recognize as a ship. The crew of 450 is dwarfed by the cranes and pipes that dominate the sprawling layers of decks.",
+      "publication_date": "2017-06-08T09:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/08/business/energy-environment/oil-north-sea-shell.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Broadway Tickets, for the Price of an Economics Lesson",
+      "snippet": "Dynamic pricing has come to air travel, hotel rooms and sports events, so why not a $1,450 theater seat? But (spoiler alert!) you can still come out ahead.",
+      "abstract": "Dynamic pricing has come to air travel, hotel rooms and sports events, so why not a $1,450 theater seat? But (spoiler alert!) you can still come out ahead.",
+      "lead_paragraph": "With the Tony Awards coming on Sunday night, I decided this week that I’d better bite the bullet and buy tickets to “Hello, Dolly!” in case Bette Midler wins best actress and tickets become even more scarce and expensive.",
+      "publication_date": "2017-06-08T13:28:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/08/business/broadway-theater-ticket-prices.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Nordstrom to Explore Deal to Go Private as Retail Sector Reels",
+      "snippet": "Members of the family that founded the department store chain more than a century ago said they were considering ways to shift the company to private ownership.",
+      "abstract": "Members of the family that founded the department store chain more than a century ago said they were considering ways to shift the company to private ownership.",
+      "lead_paragraph": "In an industry reeling from bankruptcies, vacant storefronts and plummeting sales, Nordstrom is one of the few department store chains to show promise.",
+      "publication_date": "2017-06-08T14:02:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/08/business/dealbook/nordstrom.html",
+      "byline": "By Michael Corkery and Michael J. de la Merced"
+    }
+  ]
+}

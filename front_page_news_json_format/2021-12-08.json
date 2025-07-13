@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-12-08",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Kellogg Workers Prolong Strike by Rejecting Contract Proposal",
+      "snippet": "About 1,400 have been on strike at four cereal plants since Oct. 5 over a dispute that has revolved around a two-tier compensation structure.",
+      "abstract": "About 1,400 have been on strike at four cereal plants since Oct. 5 over a dispute that has revolved around a two-tier compensation structure.",
+      "lead_paragraph": "About 1,400 striking workers at four Kellogg cereal plants in the United States have rejected a tentative agreement on a five-year contract negotiated by their union, the company said on Tuesday.",
+      "publication_date": "2021-12-07T16:04:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/07/business/kellogg-workers-strike.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver",
+      "snippet": "The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges.",
+      "abstract": "The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges.",
+      "lead_paragraph": "The Omicron variant of the coronavirus comes at a challenging moment for the Federal Reserve, as officials try to pivot from containing the pandemic’s economic fallout toward addressing worryingly persistent inflation.",
+      "publication_date": "2021-12-07T18:42:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Redistricting Makes California a Top House Battlefield for 2022",
+      "snippet": "As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties.",
+      "abstract": "As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties.",
+      "lead_paragraph": "FRESNO, Calif. — For nearly three years, Phil Arballo has been running for Congress against Representative Devin Nunes, the Republican that Democrats across the country have loved to loathe, raising money by the truckload and compiling an email outreach list that is all the more impressive considering his lack of political experience.",
+      "publication_date": "2021-12-07T20:44:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Amid Push to Vaccinate Children, Other Challenges Deluge Pediatricians",
+      "snippet": "At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots.",
+      "abstract": "At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots.",
+      "lead_paragraph": "CHARLOTTE, N.C. — Near the end of one of the first days that 5- to 11-year-olds could get a coronavirus shot last month, Dr. Anne Steptoe, a pediatrician, sat hunched in her cramped office between packages of diapers, onesies and children’s books, cataloging the week’s patients on her laptop.",
+      "publication_date": "2021-12-07T21:07:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html",
+      "byline": "By Noah Weiland"
+    },
+    {
+      "headline": "‘Greetings, Mr. President’: Biden and Putin Hold 2-Hour Virtual Summit",
+      "snippet": "President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting.",
+      "abstract": "President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting.",
+      "lead_paragraph": "WASHINGTON — President Biden warned President Vladimir V. Putin of Russia on Tuesday that an invasion of Ukraine would result in heavy economic penalties for him and lead NATO to reposition its troops in Europe, measures that he said would go well beyond the West’s response to Russia’s annexation of Crimea seven years ago.",
+      "publication_date": "2021-12-07T22:45:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html",
+      "byline": "By David E. Sanger and Michael Crowley"
+    },
+    {
+      "headline": "The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.",
+      "snippet": "Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment.",
+      "abstract": "Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment.",
+      "lead_paragraph": "For years, environmentalists have sought compromises with labor unions in industries reliant on fossil fuels, aware that one of the biggest obstacles to cutting carbon emissions is opposition from the unions’ members.",
+      "publication_date": "2021-12-08T10:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Lawmakers urge the head of Instagram to better protect children.",
+      "snippet": "Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers.",
+      "abstract": "Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers.",
+      "lead_paragraph": "WASHINGTON — Lawmakers of both parties came out swinging in a hearing on Wednesday with Adam Mosseri, the head of Instagram, expressing deep skepticism and anger toward the company for not doing enough to protect young users.",
+      "publication_date": "2021-12-08T12:40:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html",
+      "byline": "By Cecilia Kang"
+    }
+  ]
+}

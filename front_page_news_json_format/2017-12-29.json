@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-12-29",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Trump, the Insurgent, Breaks With 70 Years of American Foreign Policy",
+      "snippet": "President Trump has transformed the world’s view of the United States from an anchor of the international order into something more inward-looking and unpredictable.",
+      "abstract": "President Trump has transformed the world’s view of the United States from an anchor of the international order into something more inward-looking and unpredictable.",
+      "lead_paragraph": "WASHINGTON — President Trump was already revved up when he emerged from his limousine to visit NATO’s new headquarters in Brussels last May. He had just met France’s recently elected president, Emmanuel Macron, whom he greeted with a white-knuckle handshake and a complaint that Europeans do not pay their fair share of the alliance’s costs.",
+      "publication_date": "2017-12-28T20:12:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/28/us/politics/trump-world-diplomacy.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "That Game on Your Phone May Be Tracking What You’re Watching on TV",
+      "snippet": "The start-up Alphonso collects viewing data for advertisers through mobile gaming apps that can track users on the devices’ microphones, even when the apps aren’t in use.",
+      "abstract": "The start-up Alphonso collects viewing data for advertisers through mobile gaming apps that can track users on the devices’ microphones, even when the apps aren’t in use.",
+      "lead_paragraph": "At first glance, the gaming apps — with names like “Pool 3D,” “Beer Pong: Trickshot” and “Real Bowling Strike 10 Pin” — seem innocuous. One called “Honey Quest” features Jumbo, an animated bear.",
+      "publication_date": "2017-12-28T21:20:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/28/business/media/alphonso-app-tracking.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Bookstore Chains, Long in Decline, Are Undergoing a Final Shakeout",
+      "snippet": "Book World is closing its 45 stores amid the holiday shopping season, signaling the final gasps for large book sellers as e-commerce rises.",
+      "abstract": "Book World is closing its 45 stores amid the holiday shopping season, signaling the final gasps for large book sellers as e-commerce rises.",
+      "lead_paragraph": "APPLETON, Wis. — This fall, at a moment when retailers traditionally look forward to reaping holiday profits, the owner of the fourth-largest bookstore chain in the country surrendered to the forces of e-commerce.",
+      "publication_date": "2017-12-28T23:55:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/28/technology/bookstores-final-shakeout.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Last-Minute Rush to Prepay Taxes Gives Way to Confusion and Anger",
+      "snippet": "The I.R.S. called into question a strategy of prepaying property taxes before the new tax law goes into effect. That could be just the beginning of the confusion.",
+      "abstract": "The I.R.S. called into question a strategy of prepaying property taxes before the new tax law goes into effect. That could be just the beginning of the confusion.",
+      "lead_paragraph": "In Hempstead, a Long Island town where the typical property tax bill tops $10,000, residents have lined up all week to prepay those taxes for next year. They have been trying to save thousands of dollars before the new federal tax bill, which goes into effect on New Year’s Day, sharply limits deductions for state and local taxes.",
+      "publication_date": "2017-12-29T00:48:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/28/business/economy/irs-prepay-property-tax.html",
+      "byline": "By Ben Casselman and Jeffery C. Mays"
+    },
+    {
+      "headline": "Trump Says Russia Inquiry Makes U.S. ‘Look Very Bad’",
+      "snippet": "The president said in an interview on Thursday that the special counsel will treat him fairly, contradicting a campaign by some Republicans to discredit the investigation.",
+      "abstract": "The president said in an interview on Thursday that the special counsel will treat him fairly, contradicting a campaign by some Republicans to discredit the investigation.",
+      "lead_paragraph": "WEST PALM BEACH, Fla. — President Trump said Thursday that he believes Robert S. Mueller III, the special counsel in the Russia investigation, will treat him fairly, contradicting some members of his party who have waged a weekslong campaign to try to discredit Mr. Mueller and the continuing inquiry.",
+      "publication_date": "2017-12-29T01:42:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/28/us/politics/trump-interview-mueller-russia-china-north-korea.html",
+      "byline": "By Michael S. Schmidt and Michael D. Shear"
+    },
+    {
+      "headline": "Iran and Saudis’ Latest Power Struggle: Expanding Rights for Women",
+      "snippet": "The archrivals of the Middle East appear to be vying over who can be quicker to overhaul their repressive rules for women.",
+      "abstract": "The archrivals of the Middle East appear to be vying over who can be quicker to overhaul their repressive rules for women.",
+      "lead_paragraph": "BEIRUT, Lebanon — They call each other meddlers, warmongers, religious hypocrites, zealots and sponsors of terrorism. Now Iran and Saudi Arabia, the archrivals of the Middle East, are competing in a surprising new category: gender equality.",
+      "publication_date": "2017-12-29T05:01:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/29/world/middleeast/iran-saudi-women.html",
+      "byline": "By Anne Barnard and Thomas Erdbrink"
+    },
+    {
+      "headline": "San Francisco’s Skyline, Now Inescapably Transformed by Tech",
+      "snippet": "Salesforce Tower, which at 1,070 feet is the tallest office building west of the Mississippi, will be inhabited in January, signaling tech’s triumph in the city.",
+      "abstract": "Salesforce Tower, which at 1,070 feet is the tallest office building west of the Mississippi, will be inhabited in January, signaling tech’s triumph in the city.",
+      "lead_paragraph": "SAN FRANCISCO — The skyscraper came late to this city, a shipping and manufacturing hub for much of its existence. The wealthy roosted on the hills and the masses toiled on the flats and the docks. Everyone lived close to the ground in a setting renowned for its natural beauty.",
+      "publication_date": "2017-12-29T10:00:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/12/29/technology/salesforce-tower-san-francisco-skyline.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Expecting a Tax Cut Next Year? Spend It on Others",
+      "snippet": "Most people will pay less in taxes in the next few years. If you can, redirect that money toward hiring help, spending locally and supporting charities.",
+      "abstract": "Most people will pay less in taxes in the next few years. If you can, redirect that money toward hiring help, spending locally and supporting charities.",
+      "lead_paragraph": "If you are among the majority of Americans whose tax bill will decrease next year, there are some obvious ways to put the money to work.",
+      "publication_date": "2017-12-29T15:30:56+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/29/your-money/tax-break-giveitback.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

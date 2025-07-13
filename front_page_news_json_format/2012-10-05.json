@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2012-10-05",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A Factory’s Closing Focuses Attention on Tort Reform",
+      "snippet": "The closing of Blitz USA, a maker of gasoline cans, inspired commercials about abusive lawsuits, but the ads duck the complexities of product liability cases.",
+      "abstract": "The closing of Blitz USA, a maker of gasoline cans, inspired commercials about abusive lawsuits, but the ads duck the complexities of product liability cases.",
+      "lead_paragraph": "Crusading against what it considers frivolous lawsuits, the United States Chamber of Commerce has had no shortage of cases to highlight, like the man suing a cruise line after burning his feet on a sunny deck or the mother claiming hearing loss from the screaming at a Justin Bieber concert.",
+      "publication_date": "2012-10-04T16:18:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/05/business/in-a-shuttered-gasoline-can-factory-the-two-sides-of-product-liability.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "With Banks Skittish, Europe’s Private Equity Firms Look Elsewhere",
+      "snippet": "As banks have curbed their lending in response to the European sovereign debt crisis, private equity firms have had to get creative to finance buyouts.",
+      "abstract": "As banks have curbed their lending in response to the European sovereign debt crisis, private equity firms have had to get creative to finance buyouts.",
+      "lead_paragraph": "LONDON — As the sovereign debt crisis has slammed Europe, Cinven has had to get creative to finance buyouts.",
+      "publication_date": "2012-10-04T22:34:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/10/04/with-banks-skittish-europes-private-equity-firms-look-elsewhere/",
+      "byline": "By Mark Scott"
+    },
+    {
+      "headline": "Glut of Solar Panels Poses a New Threat to China",
+      "snippet": "Although global demand for solar panels and wind turbines has grown rapidly in recent years, China’s manufacturing capacity grew faster, creating an oversupply and a price war.",
+      "abstract": "Although global demand for solar panels and wind turbines has grown rapidly in recent years, China’s manufacturing capacity grew faster, creating an oversupply and a price war.",
+      "lead_paragraph": "BEIJING — China in recent years established global dominance in renewable energy, its solar panel and wind turbine factories forcing many foreign rivals out of business and its policy makers hailed by environmentalists around the world as visionaries.",
+      "publication_date": "2012-10-05T00:38:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/05/business/global/glut-of-solar-panels-is-a-new-test-for-china.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "U.S. Justice in Collision With Foreign Fraud",
+      "snippet": "A conviction of securities fraud, wire fraud and mail fraud could be overturned because it might not apply to foreign transactions.",
+      "abstract": "A conviction of securities fraud, wire fraud and mail fraud could be overturned because it might not apply to foreign transactions.",
+      "lead_paragraph": "Ross H. Mandell was accused of running what amounted to a boiler room in Florida, peddling stocks that were overvalued at best, and fraudulent at worst, to customers who were told lies. When some of them tried to sell the securities, he would not let them do so. They lost, and he made, more than $50 million from the scam, the government said.",
+      "publication_date": "2012-10-05T01:20:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/05/business/us-justice-vs-foreign-fraud.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Campaign Gains a New Intensity in Debate’s Wake",
+      "snippet": "President Obama and Mitt Romney confronted what one feared and the other hoped was an altered campaign after a debate in which Mr. Obama’s performance was widely panned.",
+      "abstract": "President Obama and Mitt Romney confronted what one feared and the other hoped was an altered campaign after a debate in which Mr. Obama’s performance was widely panned.",
+      "lead_paragraph": "DENVER — President Obama and Mitt Romney confronted what one feared and the other hoped was an altered campaign on Thursday, pounding new urgency into what was shaping up as a wide-open final sprint to Election Day.",
+      "publication_date": "2012-10-05T01:31:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/05/us/politics/for-obama-and-romney-campaign-gains-new-intensity-in-debates-wake.html",
+      "byline": "By Jim Rutenberg and Peter Baker"
+    },
+    {
+      "headline": "When Job-Creation Engines Stop at Just One",
+      "snippet": "Constrained by scarcer financing but aided by better technology, new businesses have fewer employees than they did a decade ago, posing a worrying trend for employment.",
+      "abstract": "Constrained by scarcer financing but aided by better technology, new businesses have fewer employees than they did a decade ago, posing a worrying trend for employment.",
+      "lead_paragraph": "KANSAS CITY, Kan. — When Mike Farmer started a digital search company in 2004, he had a staff of 10.",
+      "publication_date": "2012-10-05T02:06:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/05/business/entrepreneurs-starting-up-with-fewer-employees.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "As Iran’s Currency Keeps Tumbling, Anxiety Is Rising",
+      "snippet": "In the Iranian capital, all anyone can talk about is the rial, and how lives have been turned upside down during a week in which the currency’s value plunged by 40 percent.",
+      "abstract": "In the Iranian capital, all anyone can talk about is the rial, and how lives have been turned upside down during a week in which the currency’s value plunged by 40 percent.",
+      "lead_paragraph": "TEHRAN — For months, since the imposition of harsh, American-led sanctions over Iran’s nuclear program, the country’s leaders have sworn they would never succumb to Western pressures, and they scoffed at the idea that the measures were having any serious impact. But after a week in which the Iranian currency, the rial, fell by a shocking 40 percent and protests began to rumble through the capital, no one is making light of the mounting costs of confrontation.",
+      "publication_date": "2012-10-05T02:16:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/05/world/middleeast/as-irans-currency-keeps-tumbling-anxiety-is-rising.html",
+      "byline": "By Thomas Erdbrink"
+    },
+    {
+      "headline": "Private Army Formed to Fight Somali Pirates Leaves Troubled Legacy",
+      "snippet": "Hundreds of half-trained and well-armed members of an army for hire, now stranded in Somalia, offer a lesson in the risks of outsourced wars.",
+      "abstract": "Hundreds of half-trained and well-armed members of an army for hire, now stranded in Somalia, offer a lesson in the risks of outsourced wars.",
+      "lead_paragraph": "WASHINGTON — It seemed like a simple idea: In the chaos that is Somalia, create a sophisticated, highly trained fighting force that could finally defeat the pirates terrorizing the shipping lanes off the Somali coast.",
+      "publication_date": "2012-10-05T02:34:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/05/world/africa/private-army-leaves-troubled-legacy-in-somalia.html",
+      "byline": "By Mark Mazzetti and Eric Schmitt"
+    },
+    {
+      "headline": "Fears Persist Among Venezuelan Voters Ahead of Election",
+      "snippet": "Many Venezuelans are anxious about casting ballots against President Hugo Chávez because of a widespread belief that the government retaliates against dissenters.",
+      "abstract": "Many Venezuelans are anxious about casting ballots against President Hugo Chávez because of a widespread belief that the government retaliates against dissenters.",
+      "lead_paragraph": "CUMANÁ, Venezuela — Hugo Chávez, a polarizing president who has led Venezuela for nearly 14 years, has many advantages over the opposition candidate trying to unseat him on Sunday, from the airwaves he controls to the government largess he doles out with abandon. But one especially potent weapon in Mr. Chávez’s arsenal is what might be called the fear factor.",
+      "publication_date": "2012-10-05T12:00:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/06/world/americas/in-venezuela-fears-persist-among-voters-ahead-of-election.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "Drop in Jobless Figure Gives Jolt to Race for President",
+      "snippet": "Unemployment fell to 7.8 percent from 8.1 percent, reaching its lowest level since President Obama took office and crossing what had become a symbolic threshold in the campaign.",
+      "abstract": "Unemployment fell to 7.8 percent from 8.1 percent, reaching its lowest level since President Obama took office and crossing what had become a symbolic threshold in the campaign.",
+      "lead_paragraph": "The jobless rate abruptly dropped in September to its lowest level since the month President Obama took office, indicating a steadier recovery than previously thought and delivering another jolt to the presidential campaign. ",
+      "publication_date": "2012-10-05T12:42:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/06/business/economy/us-added-114000-jobs-in-september-rate-drops-to-7-8.html",
+      "byline": "By Shaila Dewan and Mark Landler"
+    }
+  ]
+}

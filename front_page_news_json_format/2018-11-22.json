@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2018-11-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Chief Justice Defends Judicial Independence After Trump Attacks ‘Obama Judge’",
+      "snippet": "The Supreme Court’s leader took offense at President Trump’s criticism of a federal judge, suggesting Mr. Trump had a profound misunderstanding of a judge’s role.",
+      "abstract": "The Supreme Court’s leader took offense at President Trump’s criticism of a federal judge, suggesting Mr. Trump had a profound misunderstanding of a judge’s role.",
+      "lead_paragraph": "WASHINGTON — Chief Justice John G. Roberts Jr. defended the independence and integrity of the federal judiciary on Wednesday, rebuking President Trump for calling a judge who had ruled against his administration’s asylum policy “an Obama judge.”",
+      "publication_date": "2018-11-21T18:38:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/21/us/politics/trump-chief-justice-roberts-rebuke.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "A Frantic Call, a Neighbor’s Knock, but Few Official Alerts as Wildfire Closed In",
+      "snippet": "In the frenzied first hours of the Camp Fire as it bore down on Paradise, Calif., only a fraction of residents received emergency alerts or evacuation orders from local authorities.",
+      "abstract": "In the frenzied first hours of the Camp Fire as it bore down on Paradise, Calif., only a fraction of residents received emergency alerts or evacuation orders from local authorities.",
+      "lead_paragraph": "CHICO, Calif. — Some learned about the looming wildfire from neighbors knocking on their doors. Or frantic cellphone calls from friends. Others just looked out their windows and saw the smoke and flames, or heard the chaos of neighbors hustling up children and pets and scrambling to get out.",
+      "publication_date": "2018-11-21T18:40:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/21/us/paradise-fires-emergency-alerts.html",
+      "byline": "By Simon Romero, Tim Arango and Thomas Fuller"
+    },
+    {
+      "headline": "U.S. Weighs Steel Quotas, Instead of Tariffs, on Canada and Mexico",
+      "snippet": "Canada and Mexico want the Trump metal tariffs lifted, but the administration is trying to limit the amount of foreign steel to prevent a flood of cheap metals into the United States.",
+      "abstract": "Canada and Mexico want the Trump metal tariffs lifted, but the administration is trying to limit the amount of foreign steel to prevent a flood of cheap metals into the United States.",
+      "lead_paragraph": "WASHINGTON — A potential deal to ease President Trump’s metal tariffs on Mexico and Canada is being complicated by the Trump administration’s push to place strict quotas on imported steel from the two trading partners.",
+      "publication_date": "2018-11-21T19:56:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/21/us/politics/us-canada-mexico-steel-tariffs.html",
+      "byline": "By Alan Rappeport and Glenn Thrush"
+    },
+    {
+      "headline": "Erdogan Didn’t Get All He Hoped For in Khashoggi Case, but His Stature Rises",
+      "snippet": "The Turkish president has successfully claimed the moral high ground vacated by President Trump, and he has kept up the pressure on Saudi Arabia.",
+      "abstract": "The Turkish president has successfully claimed the moral high ground vacated by President Trump, and he has kept up the pressure on Saudi Arabia.",
+      "lead_paragraph": "ISTANBUL — President Recep Tayyip Erdogan didn’t get everything he wanted.",
+      "publication_date": "2018-11-21T21:55:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/21/world/middleeast/erdogan-khashoggi-trump.html",
+      "byline": "By Carlotta Gall"
+    },
+    {
+      "headline": "In Race for Global Power, U.S. and China Push Nations to Pick a Side",
+      "snippet": "The competition has echoes of the Cold War, as Washington and Beijing each try to foster diplomatic alliances and economic deals to freeze out the other.",
+      "abstract": "The competition has echoes of the Cold War, as Washington and Beijing each try to foster diplomatic alliances and economic deals to freeze out the other.",
+      "lead_paragraph": "WASHINGTON — The escalating brinkmanship between the United States and China as they race to quash each other’s global influence is forcing other nations to pick sides between the two superpowers, putting at risk future cooperation on geopolitical threats and a resolution to the economic standoff.",
+      "publication_date": "2018-11-21T23:07:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/21/us/politics/usa-china-trade-war.html",
+      "byline": "By Edward Wong and Alan Rappeport"
+    },
+    {
+      "headline": "How Facebook’s P.R. Firm Brought Political Trickery to Tech",
+      "snippet": "Definers, an import from Washington to Silicon Valley, thrived with opposition research and a fishy campaign to push Apple’s C.E.O. for president.",
+      "abstract": "Definers, an import from Washington to Silicon Valley, thrived with opposition research and a fishy campaign to push Apple’s C.E.O. for president.",
+      "lead_paragraph": "SAN FRANCISCO — When Tim Miller, a longtime Republican political operative, moved to the Bay Area last year to set up a public relations shop, he brought with him tradecraft more typical of Washington than Silicon Valley.",
+      "publication_date": "2018-11-22T00:55:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/21/technology/definers-public-affairs-tim-miller.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "‘Spend the Minimum’: After Crash, Lion Air’s Safety Record Is Back in Spotlight",
+      "snippet": "Employees and officials say that long before the deadly crash of Lion Air Flight 610, the Indonesian carrier prioritized rapid growth and political clout over safety.",
+      "abstract": "Employees and officials say that long before the deadly crash of Lion Air Flight 610, the Indonesian carrier prioritized rapid growth and political clout over safety.",
+      "lead_paragraph": "JAKARTA, Indonesia — The government safety inspector had spent all night at the Makassar airport, in eastern Indonesia, several years ago, poring over a Lion Air jet that had suffered a hydraulic failure. Telling airline employees that the plane was to be grounded until the problem was fixed, the inspector went back to a hotel for a quick shower.",
+      "publication_date": "2018-11-22T08:00:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/22/world/asia/lion-air-crash-safety-failures.html",
+      "byline": "By Hannah Beech and Muktita Suhartono"
+    },
+    {
+      "headline": "Goldman Chairman Met Privately With Fugitive Accused in Malaysian Fraud",
+      "snippet": "Jho Low, the financier charged with looting billions from a Malaysian fund, had an audience in 2012 with Lloyd C. Blankfein, the chairman and chief executive of Goldman Sachs.",
+      "abstract": "Jho Low, the financier charged with looting billions from a Malaysian fund, had an audience in 2012 with Lloyd C. Blankfein, the chairman and chief executive of Goldman Sachs.",
+      "lead_paragraph": "One day in December 2012, a young Malaysian V.I.P. entered the gleaming headquarters of Goldman Sachs in Lower Manhattan. The man, Jho Low, a financier with close ties to Malaysia’s prime minister at the time, was there for a private meeting with one of the most powerful people on Wall Street: Goldman’s longtime chairman and chief executive, Lloyd C. Blankfein.",
+      "publication_date": "2018-11-22T10:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/22/business/goldman-blankfein-1mdb-malaysia.html",
+      "byline": "By Emily Flitter, Matthew Goldstein and Kate Kelly"
+    },
+    {
+      "headline": "A Brexit Compromise Nobody Likes: What Could Be More English?",
+      "snippet": "After the sputtering of a coup against Prime Minister Theresa May, Britain’s body politic seems to be moving, grudgingly, toward accepting her plan.",
+      "abstract": "After the sputtering of a coup against Prime Minister Theresa May, Britain’s body politic seems to be moving, grudgingly, toward accepting her plan.",
+      "lead_paragraph": "LONDON — With the sputtering of the hard-line Conservative coup against Prime Minister Theresa May over her Brexit plan this week, the British Parliament seemed to be turning, slowly and with a great grinding of gears, in the direction of something quintessentially English: a compromise that satisfies no one.",
+      "publication_date": "2018-11-22T15:46:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/22/world/europe/brexit-uk-theresa-may.html",
+      "byline": "By Ellen Barry"
+    }
+  ]
+}

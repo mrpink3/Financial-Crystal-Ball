@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-06-25",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Biden and Senators Reach Broad Infrastructure Deal",
+      "snippet": "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete.",
+      "abstract": "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete.",
+      "lead_paragraph": "WASHINGTON — President Biden and a bipartisan group of centrist senators reached a deal on Thursday for $1.2 trillion in investments to rebuild the nation’s infrastructure, a victory for the White House but only the first lurch in what promises to be an arduous attempt to reshape the nation’s economic and social programs.",
+      "publication_date": "2021-06-24T23:25:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.html",
+      "byline": "By Jonathan Weisman, Emily Cochrane and Jim Tankersley"
+    },
+    {
+      "headline": "Harrowing Condo Collapse Near Miami Prompts Frantic Search for Survivors",
+      "snippet": "One person was confirmed dead and 99 were unaccounted for after a condo building suddenly collapsed in the middle of the night.",
+      "abstract": "One person was confirmed dead and 99 were unaccounted for after a condo building suddenly collapsed in the middle of the night.",
+      "lead_paragraph": "SURFSIDE, Fla. — The rumble that awoke people inside the Champlain Towers condo complex just north of Miami Beach after midnight on Thursday sounded like thunder, another summer storm rolling in. It was, horrifyingly, the collapse of half the building, which proceeded to pancake into the ground as if struck by an earthquake.",
+      "publication_date": "2021-06-24T23:40:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/24/us/miami-building-collapse-survivors.html",
+      "byline": "By Patricia Mazzei and Richard Fausset"
+    },
+    {
+      "headline": "They Seemed Like Democratic Activists. They Were Secretly Conservative Spies.",
+      "snippet": "Operatives infiltrated progressive groups across the West to try to manipulate politics and reshape the national electoral map. They targeted moderate Republicans, too — anyone seen as threats to hard-line conservatives.",
+      "abstract": "Operatives infiltrated progressive groups across the West to try to manipulate politics and reshape the national electoral map. They targeted moderate Republicans, too — anyone seen as threats to hard-line conservatives.",
+      "lead_paragraph": "CHEYENNE, Wyo. — The young couple posing in front of the faux Eiffel Tower at the Paris hotel in Las Vegas fit right in, two people in a sea of idealistic Democrats who had arrived in the city in February 2020 for a Democratic primary debate.",
+      "publication_date": "2021-06-25T07:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/25/us/politics/spies-conservatives-left-political-enemies.html",
+      "byline": "By Mark Mazzetti and Adam Goldman"
+    },
+    {
+      "headline": "The Young Fall for Scams More Than Seniors Do. Time for a Warning.",
+      "snippet": "Stop it with the ageism and delusions of invincibility. Young adults often don’t recognize the bad checks coming at them, or fake job offers, either.",
+      "abstract": "Stop it with the ageism and delusions of invincibility. Young adults often don’t recognize the bad checks coming at them, or fake job offers, either.",
+      "lead_paragraph": "If you’re a digital native and consider yourself immune to all scams, the thieves have you right where they want you.",
+      "publication_date": "2021-06-25T09:00:12+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/25/your-money/young-seniors-scams-warning.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Why Washington Can’t Quit Listening to Larry Summers",
+      "snippet": "A longtime leading man of economics is no longer making America’s policies. He’s still driving a critical conversation around them.",
+      "abstract": "A longtime leading man of economics is no longer making America’s policies. He’s still driving a critical conversation around them.",
+      "lead_paragraph": "Larry Summers has split his pandemic time between houses in Massachusetts and Arizona. He also seems to live inside the collective mind of the Washington economic establishment.",
+      "publication_date": "2021-06-25T09:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/06/25/business/economy/larry-summers-washington.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "‘Red Tourism’ Flourishes in China Ahead of Party Centennial",
+      "snippet": "New and improved attractions dedicated to the Communist Party’s history, or a sanitized version of it, are drawing crowds.",
+      "abstract": "New and improved attractions dedicated to the Communist Party’s history, or a sanitized version of it, are drawing crowds.",
+      "lead_paragraph": "The group of tourists, dressed in replica Red Army costumes, stood in front of a red hammer-and-sickle billboard. With their right fists raised, they pledged their allegiance to the Chinese Communist Party.",
+      "publication_date": "2021-06-25T09:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/25/business/china-centennial-red-tourism.html",
+      "byline": "By Sui-Lee Wee, Elsie Chen and Gilles Sabrié"
+    }
+  ]
+}

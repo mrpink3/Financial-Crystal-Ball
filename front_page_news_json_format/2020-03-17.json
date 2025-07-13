@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2020-03-17",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Italy’s Coronavirus Victims Face Death Alone, With Funerals Postponed",
+      "snippet": "As morgues are inundated, coffins pile up and mourners grieve in isolation: ‘‘This is the bitterest part.’’",
+      "abstract": "As morgues are inundated, coffins pile up and mourners grieve in isolation: ‘‘This is the bitterest part.’’",
+      "lead_paragraph": "ROME — At around midnight on Wednesday, Renzo Carlo Testa, 85, died from the coronavirus in a hospital in the northern Italian town of Bergamo. Five days later, his body was still sitting in a coffin, one of scores lined head-to-toe in the church of the local cemetery, which is itself closed to the public.",
+      "publication_date": "2020-03-16T17:38:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/16/world/europe/italy-coronavirus-funerals.html",
+      "byline": "By Jason Horowitz and Emma Bubola"
+    },
+    {
+      "headline": "How Big Businesses Get a ‘Deep Clean’",
+      "snippet": "As other workplaces go online-only, traders continue to jostle on the floor of the New York Stock Exchange. The building has started to be regularly sanitized to help protect against coronavirus.",
+      "abstract": "As other workplaces go online-only, traders continue to jostle on the floor of the New York Stock Exchange. The building has started to be regularly sanitized to help protect against coronavirus.",
+      "lead_paragraph": "On a recent day on the floor of the New York Stock Exchange, traders were cheek-to-cheek as stock prices flashed above them. They stood in clusters shouting, sharing screens, sharing pizza, sharing pens. They shook hands, leaned over shoulders, patted each others’ backs, hugged. There were no windows open.",
+      "publication_date": "2020-03-16T18:39:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/16/business/coronavirus-cleaning-offices.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "‘People Need Immediate Relief,’ and Online Donors Make It Happen",
+      "snippet": "On social media, outpourings of generosity during the coronavirus pandemic are part of a shift toward direct giving.",
+      "abstract": "On social media, outpourings of generosity during the coronavirus pandemic are part of a shift toward direct giving.",
+      "lead_paragraph": "Shortly before midnight on Thursday, the author Shea Serrano was at his home in San Antonio, lying comfortably on his sofa watching television. He could not shake a bad feeling about all the low-wage and hourly workers losing desperately needed tips and shifts because of the coronavirus outbreak.",
+      "publication_date": "2020-03-16T22:17:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/16/business/coronavirus-bills-charity.html",
+      "byline": "By Nicholas Kulish"
+    },
+    {
+      "headline": "Markets Plunge as a Global Recession Appears Almost Inevitable",
+      "snippet": "The Federal Reserve committed hundreds of billions of dollars to steadying the financial markets. The S&P 500 plummeted nearly 12 percent anyway.",
+      "abstract": "The Federal Reserve committed hundreds of billions of dollars to steadying the financial markets. The S&P 500 plummeted nearly 12 percent anyway.",
+      "lead_paragraph": "Financial markets imploded again on Monday, as increasingly alarmed investors feared that the global economy could experience a downturn rivaling the cataclysmic recession after the financial crisis a decade ago.",
+      "publication_date": "2020-03-16T22:24:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/16/business/stock-market-coronavirus-federal-reserve.html",
+      "byline": "By Matt Phillips and Jeanna Smialek"
+    },
+    {
+      "headline": "Bernie Sanders Wants to Fight On. He Has His Reasons.",
+      "snippet": "Mr. Sanders and his aides are now struggling to reconcile a sense of resignation with a desire to press on, and some allies are urging the senator to stay in the race.",
+      "abstract": "Mr. Sanders and his aides are now struggling to reconcile a sense of resignation with a desire to press on, and some allies are urging the senator to stay in the race.",
+      "lead_paragraph": "Senator Bernie Sanders jabbed his finger in the air. He left Joseph R. Biden Jr. resorting to misstatements to defend his stance on bankruptcy legislation. He instructed viewers to “go to the YouTube” to check out the former vice president’s record themselves.",
+      "publication_date": "2020-03-16T23:04:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/16/us/politics/bernie-sanders-biden-2020.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "America’s Economy Begins to Shut Down as Pandemic Measures Take Hold",
+      "snippet": "The fast-spreading virus has put an end to movies, date nights and other economic activity, prompting some economists to call a U.S. recession.",
+      "abstract": "The fast-spreading virus has put an end to movies, date nights and other economic activity, prompting some economists to call a U.S. recession.",
+      "lead_paragraph": "In some places, public officials and private business owners moved with stunning speed. In others, paralyzing hesitancy, defiant bravado or blithe disregard dominated. But by Monday, it was clear everywhere that most of the American economy was grinding to an unparalleled halt and would remain that way for months.",
+      "publication_date": "2020-03-16T23:15:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/16/business/economy/coronavirus-us-economy-shutdown.html",
+      "byline": "By Patricia Cohen and Jim Tankersley"
+    },
+    {
+      "headline": "Trump Urges Limits Amid Pandemic, but Stops Short of National Mandates",
+      "snippet": "President Trump issued national guidelines that included closing schools and avoiding bars, restaurants and groups of more than 10 as he prepared for months of upheaval.",
+      "abstract": "President Trump issued national guidelines that included closing schools and avoiding bars, restaurants and groups of more than 10 as he prepared for months of upheaval.",
+      "lead_paragraph": "WASHINGTON — President Trump, under pressure to take more significant steps to slow the spreading coronavirus, recommended on Monday that Americans stop unnecessary travel and avoid bars, restaurants and groups of more than 10 people, as he warned that the outbreak could extend well into the summer.",
+      "publication_date": "2020-03-16T23:53:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/16/us/politics/trump-coronavirus-guidelines.html",
+      "byline": "By Katie Rogers and Emily Cochrane"
+    },
+    {
+      "headline": "The Coronavirus Exposes Education’s Digital Divide",
+      "snippet": "In China, many rural students lack the connections or hardware to learn remotely. More nations will confront the same reality as the outbreak spreads.",
+      "abstract": "In China, many rural students lack the connections or hardware to learn remotely. More nations will confront the same reality as the outbreak spreads.",
+      "lead_paragraph": "BEIJING — Like hundreds of millions of other children worldwide, Liu Chenxinhao and Liu Chenxinyuan were getting used to doing class work online. After their elementary school closed because of the coronavirus outbreak, the brothers received their homework through a smartphone app.",
+      "publication_date": "2020-03-17T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/17/technology/china-schools-coronavirus.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "Which Consumer Lenders Are (and Aren’t) Helping the Most",
+      "snippet": "Goldman Sachs, a punching bag during the last economic catastrophe, is leading the way as the coronavirus outbreak threatens consumers’ livelihoods. Ally Bank, a bailout beneficiary last time, hasn’t matched it.",
+      "abstract": "Goldman Sachs, a punching bag during the last economic catastrophe, is leading the way as the coronavirus outbreak threatens consumers’ livelihoods. Ally Bank, a bailout beneficiary last time, hasn’t matched it.",
+      "lead_paragraph": "On Sunday morning, Goldman Sachs, the financial partner on the new Apple credit card, said it would allow all cardholders who asked for help to skip their March credit card bill. The interest would disappear, never to be charged. And Goldman would foot the bill itself, as the financial backer of the partnership.",
+      "publication_date": "2020-03-17T09:00:25+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/17/your-money/loan-waivers-coronavirus.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "The Coronavirus Crisis Is Showing Us How to Live Online",
+      "snippet": "We’ve always hoped that our digital tools would create connections, not conflict. We have a chance to make it happen.",
+      "abstract": "We’ve always hoped that our digital tools would create connections, not conflict. We have a chance to make it happen.",
+      "lead_paragraph": "For someone who has barely left his house, I’ve had a shockingly busy few days.",
+      "publication_date": "2020-03-17T13:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/17/technology/coronavirus-how-to-live-online.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "‘Go Big’ on Coronavirus Stimulus, Trump Says, Pitching Checks for Americans",
+      "snippet": "Treasury Secretary Steven Mnuchin made the case to Republican senators on Tuesday for a $1 trillion plan, including $250 billion for direct checks to Americans by the end of April.",
+      "abstract": "Treasury Secretary Steven Mnuchin made the case to Republican senators on Tuesday for a $1 trillion plan, including $250 billion for direct checks to Americans by the end of April.",
+      "lead_paragraph": "WASHINGTON — The Trump administration called on Tuesday for urgent action to speed $1 trillion into the economy, including sending $250 billion worth of checks to millions of Americans, as the government prepared its most powerful tools to fight the coronavirus pandemic and an almost certain recession.",
+      "publication_date": "2020-03-17T13:40:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/17/us/politics/stimulus-package.html",
+      "byline": "By Alan Rappeport, Emily Cochrane and Nicholas Fandos"
+    },
+    {
+      "headline": "Fed Unveils Emergency Lending Programs as Companies Struggle to Raise Cash",
+      "snippet": "The central bank will buy short-term promissory notes, known as commercial paper, a move it made during the 2008 financial crisis.",
+      "abstract": "The central bank will buy short-term promissory notes, known as commercial paper, a move it made during the 2008 financial crisis.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve took a series of steps on Tuesday to prop up the American economy, saying first that it would begin buying up a type of debt that companies issue for short-term cash and then, later in the day, establishing a lending program meant to help the banks at the core of the financial system function smoothly.",
+      "publication_date": "2020-03-17T14:45:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/17/business/economy/federal-reserve-coronavirus.html",
+      "byline": "By Jeanna Smialek, Kate Kelly and Peter Eavis"
+    }
+  ]
+}

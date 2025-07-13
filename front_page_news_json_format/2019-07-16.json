@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-07-16",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A Feisty Google Adversary Tests How Much People Care About Privacy",
+      "snippet": "DuckDuckGo is trying to attract users with a privacy-focused search engine. But taking on an internet giant isn’t easy.",
+      "abstract": "DuckDuckGo is trying to attract users with a privacy-focused search engine. But taking on an internet giant isn’t easy.",
+      "lead_paragraph": "PAOLI, Pa. — Gabriel Weinberg is taking aim at Google from a small building 20 miles west of Philadelphia that looks like a fake castle. An optometrist has an office downstairs.",
+      "publication_date": "2019-07-15T16:04:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/15/technology/duckduckgo-private-search.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Nipsey Hussle Was Hailed as a Peacemaker by the LAPD. He Was Also Their Focus in an Investigation.",
+      "snippet": "After the rapper was gunned down in Los Angeles, city leaders embraced him as a peacemaker. But he was also under investigation.",
+      "abstract": "After the rapper was gunned down in Los Angeles, city leaders embraced him as a peacemaker. But he was also under investigation.",
+      "lead_paragraph": "LOS ANGELES — The memory of the rapper Nipsey Hussle still looms large over Los Angeles. On one mural, his spray-painted image is adorned with angel wings; on others it is surrounded by inspirational quotes. A city intersection has been named in his honor. And a strip mall he owned in South Los Angeles has become a memorial, with a steady flow of tourists and flowers.",
+      "publication_date": "2019-07-15T22:28:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/15/us/nipsey-hussle-investigation.html",
+      "byline": "By Tim Arango"
+    },
+    {
+      "headline": "Tariffs on China Don’t Cover the Costs of Trump’s Trade War",
+      "snippet": "The president’s payments to farmers hurt by Chinese retaliation have so far exceeded the revenue from tariffs on imports of Chinese goods.",
+      "abstract": "The president’s payments to farmers hurt by Chinese retaliation have so far exceeded the revenue from tariffs on imports of Chinese goods.",
+      "lead_paragraph": "WASHINGTON — President Trump on Monday portrayed America as being on the winning end of his trade war, saying tariffs are punishing China’s economy while generating billions of dollars for the United States, an economic victory that will allow him to continue his fight without domestic harm.",
+      "publication_date": "2019-07-15T23:10:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/15/business/trade-war-tariffs-revenue.html",
+      "byline": "By Ana Swanson and Jim Tankersley"
+    },
+    {
+      "headline": "Dissent in Ranks of Hollywood Writers Who Fired Their Agents",
+      "snippet": "As television and movie writers find themselves in a standoff with the four major talent agencies, some of them want to push their unions in a new direction.",
+      "abstract": "As television and movie writers find themselves in a standoff with the four major talent agencies, some of them want to push their unions in a new direction.",
+      "lead_paragraph": "The two unions representing television and movie writers took a firm stance in April, when they instructed their members to fire their agents and sued the four biggest talent agencies in Hollywood.",
+      "publication_date": "2019-07-15T23:12:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/15/business/media/writers-guild-hollywood-agents.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "A Blaring Message in Republicans’ Muted Criticism: It’s Trump’s Party",
+      "snippet": "The scant condemnation of the president’s remarks on four Democratic congresswomen reflected his tightening stranglehold on lawmakers of his party, and a collective eye on 2020.",
+      "abstract": "The scant condemnation of the president’s remarks on four Democratic congresswomen reflected his tightening stranglehold on lawmakers of his party, and a collective eye on 2020.",
+      "lead_paragraph": "WASHINGTON — The lack of widespread Republican condemnation of President Trump for his comments about four Democratic congresswomen of color illustrated both the tightening stranglehold Mr. Trump has on his party and the belief of many Republicans that an attack on progressivism should in fact be a central element of the 2020 campaign.",
+      "publication_date": "2019-07-16T01:08:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/15/us/politics/republicans-trump-tweet.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "The ‘Lady of the House’ Who Was Long Entangled With Jeffrey Epstein",
+      "snippet": "Ghislaine Maxwell’s yearslong involvement with Mr. Epstein, who faces charges of sex trafficking and abuse, has raised questions about what she may have known.",
+      "abstract": "Ghislaine Maxwell’s yearslong involvement with Mr. Epstein, who faces charges of sex trafficking and abuse, has raised questions about what she may have known.",
+      "lead_paragraph": "Shortly after Ghislaine Maxwell arrived in New York from England in the early 1990s, she was looking for a new start. She had just lost her father, a British media mogul, along with much of her family fortune and her social standing.",
+      "publication_date": "2019-07-16T02:00:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/15/us/ghislaine-maxwell-epstein.html",
+      "byline": "By Megan Twohey and Jacob Bernstein"
+    },
+    {
+      "headline": "Christine Lagarde Faces a New Challenge in Europe",
+      "snippet": "She’s run the I.M.F. She’s a lawyer. She’s not an economist. Does that matter as she prepares to lead the European Central Bank?",
+      "abstract": "She’s run the I.M.F. She’s a lawyer. She’s not an economist. Does that matter as she prepares to lead the European Central Bank?",
+      "lead_paragraph": "She doesn’t have the typical résumé — no doctorate in economics, no post as a central banker — for running the body that sets monetary policy for one-fifth of the global economy. But investors are betting that Christine Lagarde, the surprise nominee to be the next president of the European Central Bank, will act in much the same way as the bank’s last leader.",
+      "publication_date": "2019-07-16T04:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/16/business/christine-lagarde-european-central-bank.html",
+      "byline": "By Jack Ewing and Amie Tsang"
+    },
+    {
+      "headline": "Don’t Scoff at Influencers. They’re Taking Over the World.",
+      "snippet": "As social media expands its cultural dominance, the people who can steer the online conversation will have an upper hand.",
+      "abstract": "As social media expands its cultural dominance, the people who can steer the online conversation will have an upper hand.",
+      "lead_paragraph": "ANAHEIM, Calif. — When the first TikTok star is elected president, I hope she will save some room in her cabinet for older and more conventional bureaucrats, even if they don’t have millions of followers, great hair or amazing dance moves.",
+      "publication_date": "2019-07-16T09:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/16/technology/vidcon-social-media-influencers.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "How North Korea’s Leader Gets His Luxury Cars",
+      "snippet": "Kim Jong-un parades around in Mercedes-Benzes and a Rolls-Royce, despite sanctions intended to keep North Korea from importing luxury goods. We tracked how they get there.",
+      "abstract": "Kim Jong-un parades around in Mercedes-Benzes and a Rolls-Royce, despite sanctions intended to keep North Korea from importing luxury goods. We tracked how they get there.",
+      "lead_paragraph": "WASHINGTON — The armored black limousines appear everywhere with Kim Jong-un, sleek Western chariots for the young dictator of North Korea.",
+      "publication_date": "2019-07-16T09:42:50+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/16/world/asia/north-korea-luxury-goods-sanctions.html",
+      "byline": "By Edward Wong and Christoph Koettl"
+    },
+    {
+      "headline": "House Condemns Trump’s Attack on Four Congresswomen as Racist",
+      "snippet": "The House voted largely along party lines to formally condemn President Trump’s comments on four minority congresswomen as racist, after an hourslong brawl.",
+      "abstract": "The House voted largely along party lines to formally condemn President Trump’s comments on four minority congresswomen as racist, after an hourslong brawl.",
+      "lead_paragraph": "WASHINGTON — The House voted on Tuesday to condemn as racist President Trump’s attacks against four congresswomen of color, but only after the debate over the president’s language devolved into a bitterly partisan brawl that showcased deep rifts over race, ethnicity and political ideology in the age of Trump.",
+      "publication_date": "2019-07-16T15:19:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/16/us/politics/trump-tweet-house-vote.html",
+      "byline": "By Julie Hirschfeld Davis"
+    }
+  ]
+}

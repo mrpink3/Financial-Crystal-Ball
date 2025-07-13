@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2009-01-01",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Connecticut Bank Is Drawn Into Madoff Scandal",
+      "snippet": "Lawyers in Florida say they are investigating the role that a Connecticut bank may have played in steering money to Bernard L. Madoff.",
+      "abstract": "Lawyers in Florida say they are investigating the role that a Connecticut bank may have played in steering money to Bernard L. Madoff.",
+      "lead_paragraph": "Lawyers in Florida say they are investigating the role that a Connecticut bank may have played in steering money to Bernard L. Madoff, the Wall Street trader accused of operating a $50 billion Ponzi scheme.",
+      "publication_date": "2009-01-01T02:20:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/01/business/01madoff.html",
+      "byline": "By Diana B. Henriques"
+    },
+    {
+      "headline": "In Dense Gaza, Civilians Suffer",
+      "snippet": "Despite the precision of the strikes, Israel’s missiles have splintered families and shattered homes in one of the most densely populated areas on Earth.",
+      "abstract": "Despite the precision of the strikes, Israel’s missiles have splintered families and shattered homes in one of the most densely populated areas on Earth.",
+      "lead_paragraph": "GAZA  A dentist stood at the bed of a doctor, his good friend Ehab Madhoun, 32, who had just died, his shrapnel-pitted body wrapped in a white shroud. ",
+      "publication_date": "2009-01-01T03:37:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/01/01/world/middleeast/01gaza.html",
+      "byline": "By Taghreed El-Khodary"
+    },
+    {
+      "headline": "Citigroup’s Top Executives to Forgo ’08 Bonuses",
+      "snippet": "The decision from Vikram S. Pandit, Citigroup’s chief executive, and Winfried F. W. Bischoff, the bank’s chairman, stands as a test of whether high pay is necessary to retain talented executives.",
+      "abstract": "The decision from Vikram S. Pandit, Citigroup’s chief executive, and Winfried F. W. Bischoff, the bank’s chairman, stands as a test of whether high pay is necessary to retain talented executives.",
+      "lead_paragraph": "Wall Street is hitting its bankers where it hurts  in the wallet.",
+      "publication_date": "2009-01-01T04:01:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/01/01/business/01pay.html",
+      "byline": "By Eric Dash and Louise Story"
+    }
+  ]
+}

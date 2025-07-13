@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-02-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trump Says ‘Go Nuclear’ as Democrats Gird for Gorsuch Fight",
+      "snippet": "The president urged the Senate majority leader, Mitch McConnell, to abandon the 60-vote threshold for Supreme Court nominees.",
+      "abstract": "The president urged the Senate majority leader, Mitch McConnell, to abandon the 60-vote threshold for Supreme Court nominees.",
+      "lead_paragraph": "WASHINGTON — President Trump, seeming to relish a fight with Democrats over his nominee to the Supreme Court, encouraged the Senate majority leader, Mitch McConnell, on Wednesday to invoke the so-called nuclear option and abandon the 60-vote threshold for confirmation.",
+      "publication_date": "2017-02-01T16:02:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/01/us/politics/neil-gorsuch-supreme-court-trump.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "2 G.O.P. Senators to Vote Against Betsy DeVos as Education Secretary",
+      "snippet": "Senators Lisa Murkowski and Susan Collins rejected the nomination, meaning Vice President Mike Pence may have to break a tie in a confirmation vote.",
+      "abstract": "Senators Lisa Murkowski and Susan Collins rejected the nomination, meaning Vice President Mike Pence may have to break a tie in a confirmation vote.",
+      "lead_paragraph": "WASHINGTON — Two Republican senators on Wednesday said they would vote against President Trump’s nominee for education secretary, delivering a blow to the White House and raising the possibility that Vice President Mike Pence would have to break a tie to win her confirmation.",
+      "publication_date": "2017-02-01T19:41:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/01/us/politics/trump-cabinet-nominations-senate.html",
+      "byline": "By Yamiche Alcindor and Emmarie Huetteman"
+    },
+    {
+      "headline": "Facebook’s Loss in Court Doesn’t Dim Excitement Over Huge Growth",
+      "snippet": "Sales for the social media giant grew 51 percent in the most recent quarter, and a $500 million jury decision should do little to hurt its bottom line.",
+      "abstract": "Sales for the social media giant grew 51 percent in the most recent quarter, and a $500 million jury decision should do little to hurt its bottom line.",
+      "lead_paragraph": "SAN FRANCISCO — From the spread of fake news to a nasty court fight in Texas, it has been a rough few months for Facebook. But company executives can take heart in two things: Despite an audience nudging toward two billion users, more and more people are still flocking to the service, and more and more advertisers are spending money on it.",
+      "publication_date": "2017-02-02T01:33:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/01/technology/facebook-earnings-oculus-lawsuit.html",
+      "byline": "By Mike Isaac and Nick Wingfield"
+    },
+    {
+      "headline": "Trump Pushes Dark View of Islam to Center of U.S. Policy-Making",
+      "snippet": "A vision of Islam as inherently hostile has long flourished on the far right. Now President Trump has brought that view to the White House.",
+      "abstract": "A vision of Islam as inherently hostile has long flourished on the far right. Now President Trump has brought that view to the White House.",
+      "lead_paragraph": "WASHINGTON — It was at a campaign rally in August that President Trump most fully unveiled the dark vision of an America under siege by “radical Islam” that is now radically reshaping the policies of the United States.",
+      "publication_date": "2017-02-02T01:45:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/01/us/politics/donald-trump-islam.html",
+      "byline": "By Scott Shane, Matthew Rosenberg and Eric Lipton"
+    },
+    {
+      "headline": "Snap’s Chief Taps Into the ‘Right Now’",
+      "snippet": "As Snap, the parent company of Snapchat, takes steps to go public, its leader still relies on unconventional notions to upend social media.",
+      "abstract": "As Snap, the parent company of Snapchat, takes steps to go public, its leader still relies on unconventional notions to upend social media.",
+      "lead_paragraph": "LOS ANGELES — When Evan Spiegel and Bobby Murphy were undergraduates at Stanford University, they made an unconventional observation about what makes a social network valuable.",
+      "publication_date": "2017-02-02T01:56:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/01/technology/snapchat-snap-ceo-evan-spiegel.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "After Visa Ban, Hints of Hidden Tension on Mississippi Campus",
+      "snippet": "At Mississippi State, where roughly 80 students are affected by President Trump’s order, expressions of support for the ban have taken some by surprise.",
+      "abstract": "At Mississippi State, where roughly 80 students are affected by President Trump’s order, expressions of support for the ban have taken some by surprise.",
+      "lead_paragraph": "STARKVILLE, Miss. — Coming from an Iranian city of around 150,000 people, Amir Rezazadeh felt a little out of place when he arrived at Mississippi State University, more than 100 miles from any metropolitan area and deep in the heart of the Bible Belt.",
+      "publication_date": "2017-02-02T01:59:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/01/us/mississippi-state-trump-visa-ban.html",
+      "byline": "By Stephanie Saul and Anemona Hartocollis"
+    },
+    {
+      "headline": "Terror Raids in Germany Reap More Doubts Than Results",
+      "snippet": "The authorities raided more than 50 sites in a show of force, but the result just renewed questions over security.",
+      "abstract": "The authorities raided more than 50 sites in a show of force, but the result just renewed questions over security.",
+      "lead_paragraph": "BERLIN — Cloaked in body armor and bearing heavy weapons, more than 1,000 German police officers swooped down Wednesday on homes, offices and mosques in shock-and-awe raids centered on Germany’s financial capital, Frankfurt. Nationwide, more than 50 sites were targeted.",
+      "publication_date": "2017-02-02T02:00:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/01/world/europe/germany-terror-arrests-security-risks.html",
+      "byline": "By Alison Smale"
+    },
+    {
+      "headline": "Raid in Yemen: Risky From the Start and Costly in the End",
+      "snippet": "One commando was killed and civilian casualties were also likely, raising doubts about the planning of the counterterrorism operation, the first authorized by President Trump.",
+      "abstract": "One commando was killed and civilian casualties were also likely, raising doubts about the planning of the counterterrorism operation, the first authorized by President Trump.",
+      "lead_paragraph": "WASHINGTON — Just five days after taking office, over dinner with his newly installed secretary of defense and the chairman of the Joint Chiefs of Staff, President Trump was presented with the first of what will be many life-or-death decisions: whether to approve a commando raid that risked the lives of American Special Operations forces and foreign civilians alike.",
+      "publication_date": "2017-02-02T02:34:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/01/world/middleeast/donald-trump-yemen-commando-raid-questions.html",
+      "byline": "By Eric Schmitt and David E. Sanger"
+    },
+    {
+      "headline": "Case Study in Chaos: How Management Experts Grade a Trump White House",
+      "snippet": "Several experts on leadership principles say the nascent Trump administration is a textbook example of how not to run a complex organization.",
+      "abstract": "Several experts on leadership principles say the nascent Trump administration is a textbook example of how not to run a complex organization.",
+      "lead_paragraph": "For someone who promoted his management skills and campaigned as an “organizational genius,” as Anderson Cooper of CNN put it, it has been a rocky White House debut for Donald J. Trump, the first president to go directly from the executive suite to the Oval Office.",
+      "publication_date": "2017-02-02T14:58:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/02/business/donald-trump-management-style.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Trump Vows to ‘Destroy’ Law Banning Political Endorsements by Churches",
+      "snippet": "President Trump said he planned to repeal the Johnson Amendment, which prohibits churches from engaging in political activity at the risk of losing their tax-exempt status.",
+      "abstract": "President Trump said he planned to repeal the Johnson Amendment, which prohibits churches from engaging in political activity at the risk of losing their tax-exempt status.",
+      "lead_paragraph": "WASHINGTON — President Trump vowed on Thursday to overturn a law restricting political speech by tax-exempt churches, a potentially huge victory for the religious right and a gesture to evangelicals, a voting bloc he attracted to his campaign by promising to free up their pulpits.",
+      "publication_date": "2017-02-02T15:20:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/02/02/us/politics/trump-johnson-amendment-political-activity-churches.html",
+      "byline": "By Mark Landler and Laurie Goodstein"
+    }
+  ]
+}

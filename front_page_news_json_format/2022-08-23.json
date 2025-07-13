@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-08-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.N. Faces Record Humanitarian Aid Shortfall — but Not for Ukrainians",
+      "snippet": "Soaring needs and wealthy countries’ focus on Ukraine have left aid agencies with too little money to address the world’s other crises, forcing them to cut programs.",
+      "abstract": "Soaring needs and wealthy countries’ focus on Ukraine have left aid agencies with too little money to address the world’s other crises, forcing them to cut programs.",
+      "lead_paragraph": "Camps for Syrian refugees in northern Iraq have cut access to clean water, sanitation and electricity. In the Democratic Republic of Congo, many people forced from their homes face life without shelter or basic tools like fishing or farming gear. In South Sudan, there will be no secondary school this fall for some refugee children.",
+      "publication_date": "2022-08-22T19:49:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/22/world/middleeast/humanitarian-aid-gap-un.html",
+      "byline": "By Farnaz Fassihi"
+    },
+    {
+      "headline": "Russia Accuses Ukraine of a Murder, and Hawks Demand Vengeance",
+      "snippet": "The clamor over the assassination of Daria Dugina highlights the prominence of her fellow pro-war Russian ultranationalists.",
+      "abstract": "The clamor over the assassination of Daria Dugina highlights the prominence of her fellow pro-war Russian ultranationalists.",
+      "lead_paragraph": "Russian authorities accused Ukraine on Monday of assassinating an ultranationalist commentator as figures in Russia’s pro-war camp clamored for retaliation, highlighting the growing domestic political pressure that President Vladimir V. Putin is facing six months after he ordered the invasion of Ukraine.",
+      "publication_date": "2022-08-22T23:00:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/22/world/europe/russia-ukraine-daria-dugina.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "Trump Had More Than 300 Classified Documents at Mar-a-Lago",
+      "snippet": "The National Archives found more than 150 sensitive documents when it got a first batch of material from the former president in January, helping to explain the Justice Department’s urgent response.",
+      "abstract": "The National Archives found more than 150 sensitive documents when it got a first batch of material from the former president in January, helping to explain the Justice Department’s urgent response.",
+      "lead_paragraph": "The initial batch of documents retrieved by the National Archives from former President Donald J. Trump in January included more than 150 marked as classified, a number that ignited intense concern at the Justice Department and helped trigger the criminal investigation that led F.B.I. agents to swoop into Mar-a-Lago this month seeking to recover more, multiple people briefed on the matter said.",
+      "publication_date": "2022-08-23T00:05:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/22/us/politics/trump-mar-a-lago-documents.html",
+      "byline": "By Maggie Haberman, Jodi Kantor, Adam Goldman and Ben Protess"
+    },
+    {
+      "headline": "Preparing Financially, Before the Storm Hits",
+      "snippet": "With the cost and frequency of weather-driven disasters on the rise, taking steps to be ready is more crucial than ever.",
+      "abstract": "With the cost and frequency of weather-driven disasters on the rise, taking steps to be ready is more crucial than ever.",
+      "lead_paragraph": "As a lifelong resident of Lafourche Parish in southern Louisiana, Jeanne Gouaux knew the storms that cut through the region demanded preparation. She had wind and hail insurance, a solid savings account. But it wasn’t until Hurricane Ida’s 150-mile-per-hour winds peeled back part of her roof last August that she experienced the fury — and its aftermath — up close.",
+      "publication_date": "2022-08-23T07:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/23/business/storm-weather-home-insurance.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "To Fight Election Falsehoods, Social Media Companies Ready a Familiar Playbook",
+      "snippet": "Platforms like TikTok and Facebook are planning anti-misinformation strategies that resemble those used in 2020.",
+      "abstract": "Platforms like TikTok and Facebook are planning anti-misinformation strategies that resemble those used in 2020.",
+      "lead_paragraph": "The election dashboards are back online, the fact-checking teams have reassembled, and warnings about misleading content are cluttering news feeds once again.",
+      "publication_date": "2022-08-23T09:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/23/technology/midterms-misinformation-tiktok-facebook.html",
+      "byline": "By Stuart A. Thompson"
+    },
+    {
+      "headline": "Economic Aid, Once Plentiful, Falls Off at a Painful Moment",
+      "snippet": "Food insecurity is rising again as relief provided by President Biden’s $1.9 trillion stimulus package wanes.",
+      "abstract": "Food insecurity is rising again as relief provided by President Biden’s $1.9 trillion stimulus package wanes.",
+      "lead_paragraph": "PORTLAND, Ore. — For the better part of last year, the pandemic eased its grip on Oregon’s economy. Awash in federal assistance, including direct checks to individuals and parents, many of the state’s most vulnerable found it easier to afford food, housing and other daily staples.",
+      "publication_date": "2022-08-23T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/23/us/politics/food-insecurity-biden-stimulus.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "In Ukraine, a Nuclear Plant Held Hostage",
+      "snippet": "Five months after Russian forces took over the Zaporizhzhia plant, all that stands between the world and nuclear disaster are dedicated Ukrainian operators working at gunpoint.",
+      "abstract": "Five months after Russian forces took over the Zaporizhzhia plant, all that stands between the world and nuclear disaster are dedicated Ukrainian operators working at gunpoint.",
+      "lead_paragraph": "KYIV, Ukraine — In the winter darkness, tracer rounds from Russian armored vehicles streaked past nuclear reactors and high-tension electrical lines. A fire broke out. Shrapnel sprayed a reactor containment vessel.",
+      "publication_date": "2022-08-23T09:00:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/23/world/europe/ukraine-zaporizhzhia-nuclear-power-plant.html",
+      "byline": "By Marc Santora and Andrew E. Kramer"
+    },
+    {
+      "headline": "Twitter’s Former Security Chief Accuses It of ‘Misleading’ Public on Security Practices",
+      "snippet": "The whistle-blower also said Twitter had lied to Elon Musk, who is trying to back out of a $44 billion deal to buy the social media service.",
+      "abstract": "The whistle-blower also said Twitter had lied to Elon Musk, who is trying to back out of a $44 billion deal to buy the social media service.",
+      "lead_paragraph": "Twitter’s former head of security accused the company of making false and misleading statements about its security practices and lying to Elon Musk about fake accounts on its platform, potentially landing the social media service in new regulatory trouble as it tries to force Mr. Musk to complete a $44 billion deal to buy it.",
+      "publication_date": "2022-08-23T12:58:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/23/technology/twitter-whistleblower-security.html",
+      "byline": "By Lauren Hirsch and Kate Conger"
+    },
+    {
+      "headline": "Nicaragua Silences Its Last Outspoken Critics: Catholic Priests",
+      "snippet": "A wave of government attacks on church leaders has extinguished the last independent voice in the Central American nation.",
+      "abstract": "A wave of government attacks on church leaders has extinguished the last independent voice in the Central American nation.",
+      "lead_paragraph": "MATAGALPA, Nicaragua — He was the most prominent voice of protest in Nicaragua, using his pulpit to denounce the government’s detention of opponents and suppression of civic rights. Then, last week, the government came for him.",
+      "publication_date": "2022-08-23T13:57:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/23/world/americas/nicaragua-catholic-church-daniel-ortega.html",
+      "byline": "By Alfonso Flores Bermúdez, Anatoly Kurmanaev and Yubelka Mendoza"
+    },
+    {
+      "headline": "Britain’s Labor Shortage Is Helping Drive Its Inflation Problem",
+      "snippet": "Many of Britain’s employers, faced with a labor shortage, are raising wages to attract workers. That’s sowing the seeds of faster inflation.",
+      "abstract": "Many of Britain’s employers, faced with a labor shortage, are raising wages to attract workers. That’s sowing the seeds of faster inflation.",
+      "lead_paragraph": "For two and a half years, the upstairs room at Luc’s Brasserie, a French restaurant in the City of London, has sat idle, closed off through the ups and downs of the pandemic. Next month, it will finally reopen with freshly painted walls, new décor and a calendar filling up with reservations.",
+      "publication_date": "2022-08-23T15:18:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/23/business/britain-inflation-labor-shortage.html",
+      "byline": "By Eshe Nelson"
+    }
+  ]
+}

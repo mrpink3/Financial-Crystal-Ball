@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2016-03-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Testing for Joy and Grit? Schools Nationwide Push to Measure Students’ Emotional Skills",
+      "snippet": "In a closely watched experiment, students in California are being tested on their social-emotional skills; the results will be used to rate schools.",
+      "abstract": "In a closely watched experiment, students in California are being tested on their social-emotional skills; the results will be used to rate schools.",
+      "lead_paragraph": "SAN FRANCISCO — The fifth graders in Jade Cooney’s classroom compete against a kitchen timer during lessons to see how long they can sustain good behavior — raising hands, disagreeing respectfully and looking one another in the eye — without losing time to insults or side conversations.",
+      "publication_date": "2016-03-01T01:30:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/01/us/testing-for-joy-and-grit-schools-nationwide-push-to-measure-students-emotional-skills.html",
+      "byline": "By Kate Zernike"
+    },
+    {
+      "headline": "‘Brexit’ Vote and Donald Trump’s Surge Reflect Discontent",
+      "snippet": "The outcome of Britain’s June 23 referendum is murky, but moves toward more extreme solutions may reflect a global sense of helplessness seen elsewhere.",
+      "abstract": "The outcome of Britain’s June 23 referendum is murky, but moves toward more extreme solutions may reflect a global sense of helplessness seen elsewhere.",
+      "lead_paragraph": "Britain may be on the cusp of having its own Donald Trump moment.",
+      "publication_date": "2016-03-01T01:42:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/01/business/dealbook/brexit-vote-and-donald-trumps-surge-reflect-discontent.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Inside the Clinton Team’s Plan to Defeat Donald Trump",
+      "snippet": "Prominent Democrats supporting Hillary Clinton are starting to consider a question many had thought they would never ask: How do we defeat Mr. Trump in a general election?",
+      "abstract": "Prominent Democrats supporting Hillary Clinton are starting to consider a question many had thought they would never ask: How do we defeat Mr. Trump in a general election?",
+      "lead_paragraph": "In the days after Donald J. Trump vanquished his Republican rivals in South Carolina and Nevada, prominent Democrats supporting Hillary Clinton arranged a series of meetings and conference calls to tackle a question many never thought they would ask: How do we defeat Mr. Trump in a general election?",
+      "publication_date": "2016-03-01T02:34:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/01/us/politics/hillary-clinton-donald-trump-general-election.html",
+      "byline": "By Amy Chozick and Patrick Healy"
+    },
+    {
+      "headline": "Waste in Cancer Drugs Costs $3 Billion a Year, a Study Says",
+      "snippet": "Many drug makers exclusively sell one-size-fits-all vials, meaning patients pay thousands for medicine they are never given, researchers say.",
+      "abstract": "Many drug makers exclusively sell one-size-fits-all vials, meaning patients pay thousands for medicine they are never given, researchers say.",
+      "lead_paragraph": "WASHINGTON — The federal Medicare program and private health insurers waste nearly $3 billion every year buying cancer medicines that are thrown out because many drug makers distribute the drugs only in vials that hold too much for most patients, a group of cancer researchers has found.",
+      "publication_date": "2016-03-01T05:01:24+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/01/health/waste-in-cancer-drugs-costs-3-billion-a-year-a-study-says.html",
+      "byline": "By Gardiner Harris"
+    },
+    {
+      "headline": "Hamas Commander, Accused of Theft and Gay Sex, Is Killed by His Own",
+      "snippet": "The death of Mahmoud Ishtiwi, who was accused of homosexuality, had all the trappings of a soap opera: sex, torture and embezzlement, in the armed wing of Hamas.",
+      "abstract": "The death of Mahmoud Ishtiwi, who was accused of homosexuality, had all the trappings of a soap opera: sex, torture and embezzlement, in the armed wing of Hamas.",
+      "lead_paragraph": "GAZA CITY — The death of Mahmoud Ishtiwi had all the trappings of a telenovela: sex, torture and embezzlement in Gaza’s most venerated and secretive institution, the armed wing of Hamas.",
+      "publication_date": "2016-03-01T11:33:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/02/world/middleeast/hamas-commander-mahmoud-ishtiwi-killed-palestine.html",
+      "byline": "By Diaa Hadid and Majd Al Waheidi"
+    }
+  ]
+}

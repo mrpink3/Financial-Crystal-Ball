@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-03-31",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Biden Calls on Regulators to Increase Oversight of Certain Banks",
+      "snippet": "The proposals, which would not require congressional approval, are a response to Silicon Valley Bank’s failure this month, which sent shocks through the financial system.",
+      "abstract": "The proposals, which would not require congressional approval, are a response to Silicon Valley Bank’s failure this month, which sent shocks through the financial system.",
+      "lead_paragraph": "WASHINGTON — President Biden on Thursday called on financial regulators to toughen oversight of medium-size banks that faced reduced scrutiny after a regulatory rollback during the Trump administration, his most aggressive response yet to the failure of two banks this month that rattled the nation’s financial system.",
+      "publication_date": "2023-03-30T17:46:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/30/us/politics/biden-banks-crisis.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Elon Musk Tried to Meet With F.T.C. Chair About Twitter but Was Rebuffed",
+      "snippet": "Mr. Musk requested a meeting with Lina Khan, the chair of the F.T.C., which has been investigating Twitter’s privacy and data practices.",
+      "abstract": "Mr. Musk requested a meeting with Lina Khan, the chair of the F.T.C., which has been investigating Twitter’s privacy and data practices.",
+      "lead_paragraph": "Elon Musk tried engaging with the Federal Trade Commission as the agency intensified an investigation into Twitter’s privacy and data practices, according to documents reviewed by The New York Times, in a sign of the billionaire’s hands-on approach to the inquiry.",
+      "publication_date": "2023-03-30T19:31:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/30/technology/elon-musk-ftc-chair.html",
+      "byline": "By David McCabe and Kate Conger"
+    },
+    {
+      "headline": "In Arrest of American Reporter, Russia Doubles Down on Isolation From West",
+      "snippet": "The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.",
+      "abstract": "The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.",
+      "lead_paragraph": "With the arrest of a Wall Street Journal correspondent on Thursday, President Vladimir V. Putin signaled to the world that he was doubling down on Russia’s wartime isolation.",
+      "publication_date": "2023-03-30T20:41:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/31/world/europe/russia-putin-gershkovich-arrest.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "A President Faces Prosecution, and a Democracy Is Tested",
+      "snippet": "For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.",
+      "abstract": "For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.",
+      "lead_paragraph": "Follow our live updates on Donald Trump’s indictment.",
+      "publication_date": "2023-03-30T22:07:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/30/us/politics/trump-indictment-democracy.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Republicans Erupt in Outrage and Rush to Defend the Defendant",
+      "snippet": "Many in the party said Donald Trump could benefit from a wave of sympathy among Republicans, with his base of supporters likely to be energized by a belief in a weaponized justice system.",
+      "abstract": "Many in the party said Donald Trump could benefit from a wave of sympathy among Republicans, with his base of supporters likely to be energized by a belief in a weaponized justice system.",
+      "lead_paragraph": "Republican leaders in Congress lamented the moment as a sad day in the annals of United States history. Conservative news outlets issued a call to action for the party’s base. One prominent supporter of Donald J. Trump suggested that the former president’s mug shot should double as a 2024 campaign poster.",
+      "publication_date": "2023-03-31T02:11:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/30/us/politics/trump-indicted-republican-response.html",
+      "byline": "By Michael C. Bender and Maggie Haberman"
+    }
+  ]
+}

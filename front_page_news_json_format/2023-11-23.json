@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-11-23",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "U.S. Case Details Binance’s Knowledge About Criminal Users",
+      "snippet": "The crypto exchange treated them as essential customers, the government said. U.S. authorities want the industry to understand how bad that is for business.",
+      "abstract": "The crypto exchange treated them as essential customers, the government said. U.S. authorities want the industry to understand how bad that is for business.",
+      "lead_paragraph": "For years, the Binance founder Changpeng Zhao and other senior employees at the cryptocurrency exchange knew that some of its users were criminals. Yet, despite regular warnings from some of its own employees that some transactions on Binance.com were violating anti-money-laundering laws, the firm was reluctant to cut them off.",
+      "publication_date": "2023-11-22T19:39:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/22/business/binance-crypto-criminal-customers.html",
+      "byline": "By Emily Flitter"
+    },
+    {
+      "headline": "A.I. Belongs to the Capitalists Now",
+      "snippet": "The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.",
+      "abstract": "The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.",
+      "lead_paragraph": "What happened at OpenAI over the past five days could be described in many ways: A juicy boardroom drama, a tug of war over one of America’s biggest start-ups, a clash between those who want A.I. to progress faster and those who want to slow it down.",
+      "publication_date": "2023-11-22T21:29:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Israel-Hamas Cease-Fire May Start Friday, Followed by Hostage and Prisoner Release",
+      "snippet": "Both sides announced a four-day pause in the war between Israel and Hamas, but details were still being worked out.",
+      "abstract": "Both sides announced a four-day pause in the war between Israel and Hamas, but details were still being worked out.",
+      "lead_paragraph": "A four-day cease-fire between Israel and Hamas — the first extended break in almost seven weeks of war — will most likely not begin until Friday at the earliest, Israeli officials said on Wednesday night, as negotiators hammered out details of an agreement between Israel and Hamas that would pause the fighting to allow the release of hostages and Palestinian prisoners.",
+      "publication_date": "2023-11-22T22:33:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/22/world/middleeast/israel-hamas-gaza-ceasefire.html",
+      "byline": "By Patrick Kingsley, Ronen Bergman and Hiba Yazbek"
+    },
+    {
+      "headline": "Five Days of Chaos: How Sam Altman Returned to OpenAI",
+      "snippet": "On Friday, Mr. Altman was pushed out of the hot A.I. start-up he ran. But an intense pressure campaign and negotiations brought him back.",
+      "abstract": "On Friday, Mr. Altman was pushed out of the hot A.I. start-up he ran. But an intense pressure campaign and negotiations brought him back.",
+      "lead_paragraph": "One of the strangest episodes in the history of the tech industry ended as start-up events often do: with a party in San Francisco’s eclectic Mission District.",
+      "publication_date": "2023-11-22T23:33:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/22/technology/how-sam-altman-returned-openai.html",
+      "byline": "By Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose"
+    },
+    {
+      "headline": "In Biden’s Climate Law, a Boon for Green Energy, and Wall Street",
+      "snippet": "The law has effectively created a new marketplace that helps smaller companies gain access to funding, with banks taking a cut.",
+      "abstract": "The law has effectively created a new marketplace that helps smaller companies gain access to funding, with banks taking a cut.",
+      "lead_paragraph": "The 2022 climate law has accelerated investments in clean-energy projects across the United States. It has also delivered financial windfalls for big banks, lawyers, insurance companies and start-up financial firms by creating an expansive new market in green tax credits.",
+      "publication_date": "2023-11-23T10:02:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/23/business/economy/climate-law-biden-tax-credits.html",
+      "byline": "By Jim Tankersley and Lauren Hirsch"
+    },
+    {
+      "headline": "Long a Bastion of Liberalism, the Netherlands Takes a Sharp Right Turn",
+      "snippet": "In an election result that sent shock waves across Europe, Geert Wilders, a longtime far-right provocateur, is closer than ever to becoming prime minister.",
+      "abstract": "In an election result that sent shock waves across Europe, Geert Wilders, a longtime far-right provocateur, is closer than ever to becoming prime minister.",
+      "lead_paragraph": "The Netherlands, long regarded as one of Europe’s most socially liberal countries, woke up to a drastically changed political landscape on Thursday after a far-right party swept national elections in a result that has reverberated throughout Europe.",
+      "publication_date": "2023-11-23T15:10:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/23/world/europe/dutch-election-results-far-right-geert-wilders.html",
+      "byline": "By Claire Moses"
+    }
+  ]
+}

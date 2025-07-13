@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2011-12-08",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In Europe, Traders in Bonds Fear Layoff",
+      "snippet": "Worries about euro zone economies have caused a sharp drop-off in bond trading volume, causing European banks to question how much longer they will stick with bond divisions that are now overstaffed.",
+      "abstract": "Worries about euro zone economies have caused a sharp drop-off in bond trading volume, causing European banks to question how much longer they will stick with bond divisions that are now overstaffed.",
+      "lead_paragraph": "LONDON — Pity the European bond trader.",
+      "publication_date": "2011-12-07T19:06:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/08/business/global/as-europes-bond-market-dries-up-traders-fear-for-jobs.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Entrepreneur’s Rival in China: The State",
+      "snippet": "Private companies have been the prime engine of China’s economic miracle, and economists warn that the Chinese government’s eagerness to control more of that wealth could stifle innovation.",
+      "abstract": "Private companies have been the prime engine of China’s economic miracle, and economists warn that the Chinese government’s eagerness to control more of that wealth could stifle innovation.",
+      "lead_paragraph": "SHANGHAI — It was the kind of entrepreneurial breakthrough that China counts on to make it a global leader in innovation.",
+      "publication_date": "2011-12-07T22:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/08/business/an-entrepeneurs-rival-in-china-the-state.html",
+      "byline": "By David Barboza"
+    },
+    {
+      "headline": "Big Screen, Powered by iPhone",
+      "snippet": "There were iPhone apps for all devices, from bathroom scales to security cameras, but no home theater projectors. Until Epson introduced the Megaplex.",
+      "abstract": "There were iPhone apps for all devices, from bathroom scales to security cameras, but no home theater projectors. Until Epson introduced the Megaplex.",
+      "lead_paragraph": "Everything changed when people started writing their own apps for the iPhone. Suddenly its talents as a phone — which, at least at the outset, weren’t particularly impressive — paled in comparison to its abilities as a computer.",
+      "publication_date": "2011-12-07T23:30:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/08/technology/personaltech/epsons-megaplex-is-a-home-theater-powered-by-iphone-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "White House Pushes Vote on Consumer Agency Chief",
+      "snippet": "President Obama is trying to sway enough Republican Senators to allow a vote on the nomination of Richard Cordray to head the Consumer Financial Protection Bureau.",
+      "abstract": "President Obama is trying to sway enough Republican Senators to allow a vote on the nomination of Richard Cordray to head the Consumer Financial Protection Bureau.",
+      "lead_paragraph": "WASHINGTON — The White House has undertaken an extraordinary push this week to promote the confirmation of a director for the new Consumer Financial Protection Bureau, despite signs that Senate Republicans will not budge from their vow to block any nomination to the post unless Democrats agree to overhaul the agency’s structure.",
+      "publication_date": "2011-12-07T23:50:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/08/business/obama-fights-for-richard-cordray-as-new-consumer-agency-chief.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Developers Revive Closed Auto Plants",
+      "snippet": "Developers, drawn by lower property values, have been purchasing closed auto plants, which have helped communities regain considerable tax revenue.",
+      "abstract": "Developers, drawn by lower property values, have been purchasing closed auto plants, which have helped communities regain considerable tax revenue.",
+      "lead_paragraph": "DETROIT — Shuttered auto plants have been a surprising beneficiary of the gloomy economy, with developers buying as many closed plants over the last three years as during the previous 26, according to the first comprehensive study of plants closed by American automakers since 1979.",
+      "publication_date": "2011-12-08T01:20:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/08/business/developers-revive-closed-auto-plants.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "Democrats See a Two-Horse G.O.P. Race, Adding a Whip",
+      "snippet": "The White House and its allies hope to help stretch the Republican presidential nominating contest into a longer and bloodier battle between Mitt Romney and Newt Gingrich.",
+      "abstract": "The White House and its allies hope to help stretch the Republican presidential nominating contest into a longer and bloodier battle between Mitt Romney and Newt Gingrich.",
+      "lead_paragraph": "WASHINGTON — The White House and its allies are starting to turn their sights to Newt Gingrich, invoking his tumultuous history as House speaker to brand him as the “godfather of gridlock,” a testament to his new viability and the sudden realization that he could be President Obama’s Republican opponent.",
+      "publication_date": "2011-12-08T02:13:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/08/us/politics/campaign-2012-democrats-see-2-horse-race-between-romney-and-gingrich.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "Phones Get Game Power in the Cloud",
+      "snippet": "The Silicon Valley start-up OnLive is introducing software to bring the power of its game service to mobile devices via so-called cloud computing.",
+      "abstract": "The Silicon Valley start-up OnLive is introducing software to bring the power of its game service to mobile devices via so-called cloud computing.",
+      "lead_paragraph": "We can shop on our phones and read magazines on our tablets. But playing high-end video games on a mobile device has been out of the question. ",
+      "publication_date": "2011-12-08T02:56:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/08/technology/phones-and-tablets-getting-game-power-in-the-cloud.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "Britain Suffers as a Bystander to the Euro’s Crisis",
+      "snippet": "If the euro falls, Britain will sink, but if Europe forges a closer unity among the euro zone countries, then Britain faces being ever more marginalized.",
+      "abstract": "If the euro falls, Britain will sink, but if Europe forges a closer unity among the euro zone countries, then Britain faces being ever more marginalized.",
+      "lead_paragraph": "LONDON — No matter what happens at the European summit meeting on the euro in Brussels that begins Thursday, Britain is sure to lose.",
+      "publication_date": "2011-12-08T03:45:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/08/world/europe/britain-suffers-as-a-bystander-to-europes-crisis.html",
+      "byline": "By Sarah Lyall and Stephen Castle"
+    },
+    {
+      "headline": "Putin Contends Clinton Incited Unrest Over Vote",
+      "snippet": "Prime Minister Vladimir V. Putin of Russia said Secretary of State Hillary Rodham Clinton had sent “a signal” that spurred protesters to action.",
+      "abstract": "Prime Minister Vladimir V. Putin of Russia said Secretary of State Hillary Rodham Clinton had sent “a signal” that spurred protesters to action.",
+      "lead_paragraph": "MOSCOW — Prime Minister Vladimir V. Putin accused Secretary of State Hillary Rodham Clinton on Thursday of inciting unrest in Russia, as he grappled with the prospect of large-scale political protest for the first time in his more than decade-long rule. ",
+      "publication_date": "2011-12-08T11:34:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/09/world/europe/putin-accuses-clinton-of-instigating-russian-protests.html",
+      "byline": "By David M. Herszenhorn and Ellen Barry"
+    },
+    {
+      "headline": "Most European Leaders Agree to Work on Fiscal Treaty",
+      "snippet": "European Union members that use the euro agreed to sign a treaty that would require stricter financial and fiscal discipline, but two countries with their own currencies, Britain and Hungary, refused.",
+      "abstract": "European Union members that use the euro agreed to sign a treaty that would require stricter financial and fiscal discipline, but two countries with their own currencies, Britain and Hungary, refused.",
+      "lead_paragraph": "BRUSSELS — European leaders, meeting until the early hours of Friday, agreed to sign an intergovernmental treaty that would require them to enforce stricter fiscal and financial discipline in their future budgets. But efforts to get unanimity among the 27 members of the European Union, as desired by Germany, failed as Britain and Hungary refused to go along for now.",
+      "publication_date": "2011-12-08T12:59:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/09/business/global/ecb-cuts-rates-for-second-month-in-a-row.html",
+      "byline": "By Steven Erlanger and Stephen Castle"
+    }
+  ]
+}

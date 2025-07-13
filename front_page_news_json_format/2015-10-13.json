@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2015-10-13",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "WNYC to Open New Podcast Division",
+      "snippet": "The unit is to open this week with a plan to raise $15 million for new programming, including a “New Yorker Radio Hour.”",
+      "abstract": "The unit is to open this week with a plan to raise $15 million for new programming, including a “New Yorker Radio Hour.”",
+      "lead_paragraph": "WNYC, the public radio powerhouse in New York, is about to grow even bigger through a new division that will develop programs for the expanding podcast market.",
+      "publication_date": "2015-10-12T18:08:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/10/13/business/media/wnyc-to-open-new-podcast-division.html",
+      "byline": "By Ben Sisario"
+    },
+    {
+      "headline": "Oil Sands Boom Dries Up in Alberta, Taking Thousands of Jobs With It",
+      "snippet": "After extraordinary growth that attracted energy companies and billions in investments, the industry is in a state of financial strife, and navigating the decline has proved challenging.",
+      "abstract": "After extraordinary growth that attracted energy companies and billions in investments, the industry is in a state of financial strife, and navigating the decline has proved challenging.",
+      "lead_paragraph": "FORT McMURRAY, Alberta — At a camp for oil workers here, a collection of 16 three-story buildings that once housed 2,000 workers sits empty. A parking lot at a neighboring camp is now dotted with abandoned cars. With oil prices falling precipitously, capital-intensive projects rooted in the heavy crude mined from Alberta’s oil sands are losing money, contributing to the loss of about 35,000 energy industry jobs across the province.",
+      "publication_date": "2015-10-12T18:53:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/10/13/business/international/oil-sands-boom-dries-up-in-alberta-taking-thousands-of-jobs-with-it.html",
+      "byline": "By Ian Austen"
+    },
+    {
+      "headline": "For-Profit Colleges Accused of Fraud Still Receive U.S. Funds",
+      "snippet": "The industry has been excoriated for preying on the poor, veterans and minorities, charging exorbitant fees for degrees that mostly don’t deliver promised jobs and skills.",
+      "abstract": "The industry has been excoriated for preying on the poor, veterans and minorities, charging exorbitant fees for degrees that mostly don’t deliver promised jobs and skills.",
+      "lead_paragraph": "When the Obama administration agreed this summer to erase the federal loan debt of some former students at Corinthian Colleges, a for-profit school that filed for bankruptcy in the face of charges of widespread fraud, education officials promised to “protect students from abusive colleges and safeguard the interests of taxpayers.”",
+      "publication_date": "2015-10-12T19:53:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/13/business/for-profit-colleges-accused-of-fraud-still-receive-us-funds.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Latest Unease on Right: Ryan Is Too Far Left",
+      "snippet": "Some influential members of the conservative news media have turned on Representative Paul Ryan, whom Republicans are trying to draft for speaker of the House.",
+      "abstract": "Some influential members of the conservative news media have turned on Representative Paul Ryan, whom Republicans are trying to draft for speaker of the House.",
+      "lead_paragraph": "WASHINGTON — Far-right media figures, relatively small in number but potent in their influence, have embarked on a furious Internet expedition to cover Representative Paul D. Ryan in political silt.",
+      "publication_date": "2015-10-13T00:43:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/13/us/politics/latest-unease-on-right-ryan-is-too-far-left.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "Nudes Are Old News at Playboy",
+      "snippet": "With the digital cornucopia of pornography, Playboy’s raison d’être has vanished. Its website dropped nudity last year and soon its magazine will still feature women, but not fully nude.",
+      "abstract": "With the digital cornucopia of pornography, Playboy’s raison d’être has vanished. Its website dropped nudity last year and soon its magazine will still feature women, but not fully nude.",
+      "lead_paragraph": "Last month, Cory Jones, a top editor at Playboy, went to see its founder Hugh Hefner at the Playboy Mansion.",
+      "publication_date": "2015-10-13T01:04:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/13/business/media/nudes-are-old-news-at-playboy.html",
+      "byline": "By Ravi Somaiya"
+    },
+    {
+      "headline": "In a Flurry of Deals, the Beginning of the End?",
+      "snippet": "Mergers and acquisitions are on track for a record year, with nearly $3.5 trillion worth of transactions. And that may signal the beginning of the end of a bull market.",
+      "abstract": "Mergers and acquisitions are on track for a record year, with nearly $3.5 trillion worth of transactions. And that may signal the beginning of the end of a bull market.",
+      "lead_paragraph": "The first day of Wall Street’s workweek normally comes with the announcement of a corporate merger or two, hence the nickname “Merger Monday.” But these days, a more appropriate moniker might be “Manic Monday.”",
+      "publication_date": "2015-10-13T01:10:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/10/13/business/in-a-flurry-of-deals-the-beginning-of-the-end.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Anheuser-Busch InBev and SABMiller to Join",
+      "snippet": "The deal, if completed, would combine the world’s two largest brewers, creating a behemoth that has annual revenue of $64 billion that commands 30 percent of global beer sales.",
+      "abstract": "The deal, if completed, would combine the world’s two largest brewers, creating a behemoth that has annual revenue of $64 billion that commands 30 percent of global beer sales.",
+      "lead_paragraph": "The king of beers is sizing up an even bigger crown.",
+      "publication_date": "2015-10-13T07:18:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/10/14/business/dealbook/anheuser-busch-inbev-sabmiller-beer-merger.html",
+      "byline": "By Chad Bray and Michael J. de la Merced"
+    },
+    {
+      "headline": "Afghan ISIS Branch Makes Inroads in Battle Against Taliban",
+      "snippet": "Islamic State victories against the Taliban have not weakened the overall insurgency, but have mostly inflicted more chaos and misery upon Afghan civilians.",
+      "abstract": "Islamic State victories against the Taliban have not weakened the overall insurgency, but have mostly inflicted more chaos and misery upon Afghan civilians.",
+      "lead_paragraph": "SORKHROAD, Afghanistan — At least three times a week, Malaika hikes up the mountain, past mulberry and pine trees, to a clearing where she can get cellphone reception. She calls her family to reassure them that the Islamic State fighters have not come for her yet.",
+      "publication_date": "2015-10-13T09:00:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/10/14/world/asia/afghan-isis-branch-makes-inroads-in-battle-against-taliban.html",
+      "byline": "By Mujib Mashal"
+    }
+  ]
+}

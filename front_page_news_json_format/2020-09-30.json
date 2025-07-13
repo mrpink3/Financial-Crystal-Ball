@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2020-09-30",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Disney Lays Off 28,000, Mostly at Its 2 U.S. Theme Parks",
+      "snippet": "The company said it would eliminate thousands of jobs at its resorts in Florida and California, which have been hit hard by the pandemic.",
+      "abstract": "The company said it would eliminate thousands of jobs at its resorts in Florida and California, which have been hit hard by the pandemic.",
+      "lead_paragraph": "LOS ANGELES — For six months, Disney has kept tens of thousands of theme park workers on furlough with full health-care benefits in hopes that a light at the end of the pandemic tunnel would appear. On Tuesday, Disney conceded that none was coming.",
+      "publication_date": "2020-09-29T22:11:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/29/business/disney-theme-park-workers-layoffs.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "With Cross Talk, Lies and Mockery, Trump Tramples Decorum in Debate With Biden",
+      "snippet": "Interrupting Joe Biden nearly every time he spoke, President Trump made little attempt to reassure swing voters about his leadership. Mr. Biden hit back: “This is so unpresidential.”",
+      "abstract": "Interrupting Joe Biden nearly every time he spoke, President Trump made little attempt to reassure swing voters about his leadership. Mr. Biden hit back: “This is so unpresidential.”",
+      "lead_paragraph": "[Read our profile detailing Joe Biden’s road to the White House and presidency.]",
+      "publication_date": "2020-09-30T03:28:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/29/us/politics/trump-biden-debate.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Pandemic Convinces Airline Workers It’s Time for New Horizons",
+      "snippet": "Pilots, flight attendants and other staff are retiring early or taking buyouts and leaves of absence in anticipation of a slow recovery.",
+      "abstract": "Pilots, flight attendants and other staff are retiring early or taking buyouts and leaves of absence in anticipation of a slow recovery.",
+      "lead_paragraph": "This was supposed to be the year that Steven Ray Littles II put down roots in the Seattle area. Instead, he returned to his parents’ home in Bakersfield, Calif., after taking a buyout from Delta Air Lines, ending a six-year career as a flight attendant.",
+      "publication_date": "2020-09-30T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/30/business/airline-worker-furloughs-coronavirus.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
+      "snippet": "The World Health Organization said open borders would help fight disease. Experts, and a global treaty, emphatically agreed. But the scientific evidence was never behind them.",
+      "abstract": "The World Health Organization said open borders would help fight disease. Experts, and a global treaty, emphatically agreed. But the scientific evidence was never behind them.",
+      "lead_paragraph": "ISCHGL, Austria — They came from across the world to ski in the most famous resorts of the Austrian alps.",
+      "publication_date": "2020-09-30T14:25:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/30/world/europe/ski-party-pandemic-travel-coronavirus.html",
+      "byline": "By Selam Gebrekidan, Katrin Bennhold, Matt Apuzzo and David D. Kirkpatrick"
+    },
+    {
+      "headline": "As the Election Looms, Investors See Uncertainty. They Don’t Like It.",
+      "snippet": "The stock market has been on a tear for much of 2020, but there is now more volatility as investors worry about the outcome of the presidential vote.",
+      "abstract": "The stock market has been on a tear for much of 2020, but there is now more volatility as investors worry about the outcome of the presidential vote.",
+      "lead_paragraph": "Investors have spent recent months pushing the stock market to record highs, seemingly undeterred by the worst pandemic in a century and the enormous toll it has taken on the United States economy.",
+      "publication_date": "2020-09-30T15:18:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/30/business/wall-street-uncertainty-election.html",
+      "byline": "By Matt Phillips"
+    }
+  ]
+}

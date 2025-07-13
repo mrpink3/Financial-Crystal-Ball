@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2012-10-04",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Newly Enlightened E-Readers",
+      "snippet": "In the nonstop struggle to produce the perfect e-reader, Amazon responds to Barnes & Noble’s Nook with the Kindle Paperwhite.",
+      "abstract": "In the nonstop struggle to produce the perfect e-reader, Amazon responds to Barnes & Noble’s Nook with the Kindle Paperwhite.",
+      "lead_paragraph": "It must be great to be an architecture critic. You write about a building once, and your review remains basically fresh forever. ",
+      "publication_date": "2012-10-03T17:41:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/04/technology/personaltech/kindles-paperwhite-e-reader-lets-there-be-more-light-review.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "H.P. Shares Fall as Chief Sees Trouble",
+      "snippet": "Hewlett-Packard’s stock closed down 13 percent. The chief executive, Meg Whitman, is said to have wanted to get as much bad news as possible out at once, so the company could focus on rebuilding.",
+      "abstract": "Hewlett-Packard’s stock closed down 13 percent. The chief executive, Meg Whitman, is said to have wanted to get as much bad news as possible out at once, so the company could focus on rebuilding.",
+      "lead_paragraph": "7:45 p.m. | Updated ",
+      "publication_date": "2012-10-03T18:10:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://bits.blogs.nytimes.com/2012/10/03/h-p-stock-drops-as-meg-whitman-speaks/",
+      "byline": "By Quentin Hardy"
+    },
+    {
+      "headline": "Scardino, Chief of Pearson, to Step Down",
+      "snippet": "Marjorie Scardino will step down after nearly 16 years as head of the company, which owns The Financial Times, the Penguin Group and half of The Economist magazine.",
+      "abstract": "Marjorie Scardino will step down after nearly 16 years as head of the company, which owns The Financial Times, the Penguin Group and half of The Economist magazine.",
+      "lead_paragraph": "Marjorie Scardino, the chief executive of the global educational and media conglomerate Pearson and one of Britain’s highest-ranking female executives, will step down after nearly 16 years, the company said Wednesday. ",
+      "publication_date": "2012-10-03T19:11:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/10/04/business/media/scardino-ceo-of-pearson-to-step-down.html",
+      "byline": "By Amy Chozick"
+    },
+    {
+      "headline": "Obama and Romney, in First Debate, Spar Over Fixing the Economy",
+      "snippet": "Mitt Romney aggressively pressed President Obama on the economy, jobs and health care in a debate that avoided the one-liners that sometimes emerge from presidential face-offs.",
+      "abstract": "Mitt Romney aggressively pressed President Obama on the economy, jobs and health care in a debate that avoided the one-liners that sometimes emerge from presidential face-offs.",
+      "lead_paragraph": "DENVER — Mitt Romney on Wednesday accused President Obama of failing to lead the country out of the deepest economic downturn since the Great Depression, using the first presidential debate to invigorate his candidacy by presenting himself as an equal who can solve problems Mr. Obama has been unable to.",
+      "publication_date": "2012-10-04T02:54:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/04/us/politics/obama-and-romney-hold-first-debate.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "A Clash of Philosophies",
+      "snippet": "In the first presidential debate, President Obama argued that government plays an essential part in economic growth, while Mitt Romney contended it should get out of the way.",
+      "abstract": "In the first presidential debate, President Obama argued that government plays an essential part in economic growth, while Mitt Romney contended it should get out of the way.",
+      "lead_paragraph": "DENVER — Somewhere in the wonky blizzard of facts, statistics and studies thrown out on stage here on Wednesday night was a fundamental philosophical choice about the future of America, quite possibly the starkest in nearly three decades.",
+      "publication_date": "2012-10-04T04:16:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/10/04/us/politics/debate-a-clash-over-governments-role-news-analysis.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "A Billion Users Raise Stakes at Facebook for Revenue",
+      "snippet": "Facebook announced that it was the first social network to reach one billion active users on the site. Although a few companies can claim to have had more than a billion customers, Facebook is the first social network to hit that number.",
+      "abstract": "Facebook announced that it was the first social network to reach one billion active users on the site. Although a few companies can claim to have had more than a billion customers, Facebook is the first social network to hit that number.",
+      "lead_paragraph": " 8:41 p.m. | Updated ",
+      "publication_date": "2012-10-04T13:59:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://bits.blogs.nytimes.com/2012/10/04/facebook-passes-1-billion-active-users/",
+      "byline": "By Somini Sengupta and Nick Bilton"
+    }
+  ]
+}

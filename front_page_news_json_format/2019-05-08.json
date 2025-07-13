@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-05-08",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Are Trump’s Tariffs Bolstering the U.S. Economy? Nope",
+      "snippet": "President Trump says that his protectionist trade policies have accelerated economic growth, but little evidence supports that claim.",
+      "abstract": "President Trump says that his protectionist trade policies have accelerated economic growth, but little evidence supports that claim.",
+      "lead_paragraph": "President Trump threatened over the weekend to re-escalate his trade war with China by raising tariffs on nearly all Chinese imports. He implied that the move would not hurt the American economy and said that the tariffs he has already imposed “are partially responsible for our great economic results” in the United States.",
+      "publication_date": "2019-05-07T17:14:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/07/us/politics/trump-tariff-china-economy.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Fear of Intensifying Trade War Ricochets Through Economy",
+      "snippet": "Stocks fell for a second day after the Trump administration repeated its pledge to raise tariffs on Chinese imports this week. Business owners braced for fallout.",
+      "abstract": "Stocks fell for a second day after the Trump administration repeated its pledge to raise tariffs on Chinese imports this week. Business owners braced for fallout.",
+      "lead_paragraph": "Fears of an escalating trade war between the United States and China ricocheted through the American economy on Tuesday, sending stocks down sharply and prompting businesses large and small to brace for fallout.",
+      "publication_date": "2019-05-07T17:53:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/07/business/stock-market-china-trade.html",
+      "byline": "By Matt Phillips, Ana Swanson and Alan Rappeport"
+    },
+    {
+      "headline": "As Far Right Rises, a Battle Over Security Agencies Grows",
+      "snippet": "A struggle in Austria over control of sensitive institutions of the state, including its intelligence agency, threatens to redefine Europe’s postwar democracies.",
+      "abstract": "A struggle in Austria over control of sensitive institutions of the state, including its intelligence agency, threatens to redefine Europe’s postwar democracies.",
+      "lead_paragraph": "VIENNA — As well as anyone, Sybille Geissler knows the threats from Austria’s far-right extremists, who in recent weeks have likened migrants to rats and blithely defended campaign material that evokes Nazi propaganda.",
+      "publication_date": "2019-05-07T19:52:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/07/world/europe/austria-far-right-freedom-party.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Lyft’s First Results After I.P.O. Show $1.14 Billion Quarterly Loss",
+      "snippet": "The ride-hailing company’s revenue nearly doubled for the quarter, while its loss was driven by a hefty charge for its stock-based compensation plan.",
+      "abstract": "The ride-hailing company’s revenue nearly doubled for the quarter, while its loss was driven by a hefty charge for its stock-based compensation plan.",
+      "lead_paragraph": "SAN FRANCISCO — The ride-hailing company Lyft went public in March in a blaze of hype. But it stumbled quickly and its shares slid below their offering price amid questions about whether the company could make money.",
+      "publication_date": "2019-05-07T20:07:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/07/technology/lyft-ipo-financial-results-uber.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "School Shooting Leaves 1 Student Dead and 8 Injured",
+      "snippet": "Two students were in custody after the shooting at STEM School Highlands Ranch, near Denver.",
+      "abstract": "Two students were in custody after the shooting at STEM School Highlands Ranch, near Denver.",
+      "lead_paragraph": "[The authorities on Wednesday identified the suspects as an adult male and a juvenile female. Read the latest updates here.]",
+      "publication_date": "2019-05-07T21:34:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/07/us/colorado-school-shooting.html",
+      "byline": "By Jack Healy and Liam Stack"
+    },
+    {
+      "headline": "Decade in the Red: Trump Tax Figures Show Over $1 Billion in Business Losses",
+      "snippet": "Newly obtained tax information reveals that from 1985 to 1994, Donald J. Trump’s businesses were in far bleaker condition than was previously known.",
+      "abstract": "Newly obtained tax information reveals that from 1985 to 1994, Donald J. Trump’s businesses were in far bleaker condition than was previously known.",
+      "lead_paragraph": "Newly obtained tax information reveals that from 1985 to 1994, Donald J. Trump’s businesses were in far bleaker condition than was previously known.",
+      "publication_date": "2019-05-07T22:52:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2019/05/07/us/politics/donald-trump-taxes.html",
+      "byline": "By Russ Buettner and Susanne Craig"
+    },
+    {
+      "headline": "Clash Between Trump and House Democrats Poses Threat to Constitutional Order",
+      "snippet": "What were once isolated skirmishes over congressional inquiries are turning into an all-out war.",
+      "abstract": "What were once isolated skirmishes over congressional inquiries are turning into an all-out war.",
+      "lead_paragraph": "WASHINGTON — President Trump’s wholesale refusal to provide information to Congress threatens to upend the delicate balance that is the separation of powers outlined in the Constitution.",
+      "publication_date": "2019-05-07T23:17:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/07/us/politics/trump-democrats.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "U.S. Issues New Sanctions as Iran Warns It Will Step Back From Nuclear Deal",
+      "snippet": "The announcement by Iran’s president does not kill the 2015 deal, but it pushes the confrontation between Washington and Tehran into new and potentially dangerous territory.",
+      "abstract": "The announcement by Iran’s president does not kill the 2015 deal, but it pushes the confrontation between Washington and Tehran into new and potentially dangerous territory.",
+      "lead_paragraph": "WASHINGTON — Iran’s president declared on Wednesday that he would begin to walk away from the restrictions of a 2015 nuclear deal, and the Trump administration responded with a new round of sanctions against Tehran, reviving a crisis that had been contained for the past four years.",
+      "publication_date": "2019-05-08T06:02:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/08/us/politics/iran-nuclear-deal.html",
+      "byline": "By David E. Sanger, Edward Wong, Steven Erlanger and Eric Schmitt"
+    },
+    {
+      "headline": "With 737 Max, Boeing Wants to Win Back Trust. Many Are Skeptical.",
+      "snippet": "Airlines and pilots have been frustrated with the company’s handling of the crisis, including a bungled response to the two crashes.",
+      "abstract": "Airlines and pilots have been frustrated with the company’s handling of the crisis, including a bungled response to the two crashes.",
+      "lead_paragraph": "A charm offensive by Boeing to persuade airlines, crews and passengers to rally behind its 737 Max plane is already running into resistance.",
+      "publication_date": "2019-05-08T09:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/08/business/boeing-737-max.html",
+      "byline": "By Natalie Kitroeff and David Gelles"
+    },
+    {
+      "headline": "House Panel Approves Contempt for Barr After Trump Claims Privilege Over Full Mueller Report",
+      "snippet": "The House Judiciary Committee voted to hold Attorney General William P. Barr in contempt after President Trump asserted executive privilege over the full Mueller report.",
+      "abstract": "The House Judiciary Committee voted to hold Attorney General William P. Barr in contempt after President Trump asserted executive privilege over the full Mueller report.",
+      "lead_paragraph": "WASHINGTON — The House Judiciary Committee voted Wednesday to recommend that the House hold Attorney General William P. Barr in contempt of Congress for failing to turn over Robert S. Mueller III’s unredacted report, hours after President Trump asserted executive privilege to shield the full report and underlying evidence from Congress.",
+      "publication_date": "2019-05-08T12:55:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/08/us/politics/trump-executive-privilege-mueller-report.html",
+      "byline": "By Nicholas Fandos"
+    }
+  ]
+}

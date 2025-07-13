@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-04-29",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Fed Leaves Interest Rates Unchanged as Economy Begins to Heal",
+      "snippet": "The Federal Reserve said the economy had “strengthened” but opted to continue providing support while playing down a rise in inflation.",
+      "abstract": "The Federal Reserve said the economy had “strengthened” but opted to continue providing support while playing down a rise in inflation.",
+      "lead_paragraph": "Jerome H. Powell, the Federal Reserve chair, made it clear on Wednesday that his central bank wants to see further healing in the American economy before officials will consider pulling back their support by slowing government-backed bond purchases and lifting interest rates.",
+      "publication_date": "2021-04-28T18:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/28/business/economy/fed-leaves-interest-rates-unchanged-as-economy-begins-to-heal.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Did the 2020 Census Undercount the Hispanic Population?",
+      "snippet": "Officials from both parties say the census numbers released this week raise questions about the totals, with Democrats contending that the Hispanic population was undercounted.",
+      "abstract": "Officials from both parties say the census numbers released this week raise questions about the totals, with Democrats contending that the Hispanic population was undercounted.",
+      "lead_paragraph": "Minnesota started its 2020 census outreach in 2015, bringing together local governments, foundations and businesses to spur participation. California allocated $187 million beginning in 2019 to get its people counted. And New York City alone spent $40 million on census advertising, texts and events.",
+      "publication_date": "2021-04-28T23:05:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/28/us/politics/2020-census-hispanics-latinos.html",
+      "byline": "By Reid J. Epstein and Jennifer Medina"
+    },
+    {
+      "headline": "Biden, Calling for Big Government, Bets on a Nation Tested by Crisis",
+      "snippet": "The president’s speech laying out trillions of dollars in new economic proposals plays to voters’ warm feelings toward federal aid in the coronavirus pandemic.",
+      "abstract": "The president’s speech laying out trillions of dollars in new economic proposals plays to voters’ warm feelings toward federal aid in the coronavirus pandemic.",
+      "lead_paragraph": "WASHINGTON — President Biden’s $4 trillion economic agenda might have seemed unthinkable as the United States was emerging from its last recession, when austerity politics still ruled the Capitol and even a Democratic president was reluctant to push huge tax increases on corporations and the rich.",
+      "publication_date": "2021-04-28T23:25:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/28/business/economy/biden-spending-big-government.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Biden Seeks Shift in How the Nation Serves Its People",
+      "snippet": "The president’s costly proposals amount to a risky gamble that a country polarized along ideological and cultural lines is ready for a more activist government.",
+      "abstract": "The president’s costly proposals amount to a risky gamble that a country polarized along ideological and cultural lines is ready for a more activist government.",
+      "lead_paragraph": "President Biden laid out an ambitious agenda on Wednesday night to rewrite the American social compact by vastly expanding family leave, child care, health care, preschool and college education for millions of people to be financed with increased taxes on the wealthiest earners.",
+      "publication_date": "2021-04-29T00:01:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/28/us/politics/joe-biden-government-plans.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "U.S. Economy’s Strong Start Signals a Stellar Year",
+      "snippet": "Relief checks drove consumer spending on goods in the first quarter. Pent-up demand for services may be the key going forward.",
+      "abstract": "Relief checks drove consumer spending on goods in the first quarter. Pent-up demand for services may be the key going forward.",
+      "lead_paragraph": "Consumers shook off the pandemic blues as 2021 began, putting stimulus checks to work buying cars and other goods and helping set the stage for what could be the fastest economic growth in decades.",
+      "publication_date": "2021-04-29T08:41:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/29/business/economy/united-states-gdp.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Tesla’s Latest Solar Stumble: Big Price Increases",
+      "snippet": "The company is charging tens of thousands of dollars more to cover roofs with its much-anticipated solar shingles, angering some customers.",
+      "abstract": "The company is charging tens of thousands of dollars more to cover roofs with its much-anticipated solar shingles, angering some customers.",
+      "lead_paragraph": "On an October evening five years ago, Elon Musk used a former set for “Desperate Housewives” to show off Tesla’s latest innovation: roof shingles that can generate electricity from the sun without unsightly solar panels.",
+      "publication_date": "2021-04-29T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/29/business/energy-environment/tesla-solar-shingles.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "Diapers, Cereal and, Yes, Toilet Paper Are Going to Get More Expensive",
+      "snippet": "Retailers used to absorb much of the cost of goods when suppliers raised prices. Now, the difference is being passed on to shoppers.",
+      "abstract": "Retailers used to absorb much of the cost of goods when suppliers raised prices. Now, the difference is being passed on to shoppers.",
+      "lead_paragraph": "Procter & Gamble is raising prices on items like Pampers and Tampax in September. Kimberly-Clark said in March that it will raise prices on Scott toilet paper, Huggies and Pull-Ups in June, a move that is “necessary to help offset significant commodity cost inflation.”",
+      "publication_date": "2021-04-29T09:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/29/business/consumer-goods-prices.html",
+      "byline": "By Gillian Friedman"
+    },
+    {
+      "headline": "Navalny’s Network Crumbling Under Kremlin Pressure",
+      "snippet": "As the jailed opposition leader made his first public appearance since a hunger strike, his associates said government pressure caused them to shut down regional offices.",
+      "abstract": "As the jailed opposition leader made his first public appearance since a hunger strike, his associates said government pressure caused them to shut down regional offices.",
+      "lead_paragraph": "MOSCOW — Associates of Aleksei A. Navalny said they were shutting down their nationwide network of regional offices on Thursday even as the imprisoned Russian opposition leader vowed, in an online court appearance, to keep fighting the “emperor with no clothes” in the Kremlin.",
+      "publication_date": "2021-04-29T10:32:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/29/world/europe/navalny-group-putin-russia.html",
+      "byline": "By Anton Troianovski"
+    }
+  ]
+}

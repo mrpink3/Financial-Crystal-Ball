@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2011-06-03",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Moody’s Warns of Downgrade for U.S. Credit",
+      "snippet": "The unexpected report from Moody’s puts a spur to sputtering talks between party leaders and the White House to reach an agreement on a long-term deficit-reduction plan.",
+      "abstract": "The unexpected report from Moody’s puts a spur to sputtering talks between party leaders and the White House to reach an agreement on a long-term deficit-reduction plan.",
+      "lead_paragraph": "WASHINGTON — Moody’s Investors Service warned Thursday that it might downgrade the United States government’s sterling credit rating if Congress did not increase the nation’s debt limit “in coming weeks,” putting a spur to the sputtering talks between party leaders and the White House on a plan to restore fiscal stability.",
+      "publication_date": "2011-06-02T20:10:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/03/us/politics/03congress.html",
+      "byline": "By Jackie Calmes and Carl Hulse"
+    },
+    {
+      "headline": "Statements Skip Over REIT’s Woes",
+      "snippet": "Apple REIT Eight, a real estate investment trust that owns hotels, issues comforting account statements, but its latest quarterly report contains some unsettling red flags.",
+      "abstract": "Apple REIT Eight, a real estate investment trust that owns hotels, issues comforting account statements, but its latest quarterly report contains some unsettling red flags.",
+      "lead_paragraph": "Late 2007 was among the worst times ever to invest in real estate, and those who did so have losses to show for it.",
+      "publication_date": "2011-06-02T22:57:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/03/business/03norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Legal Outsourcing Firms Creating Jobs for American Lawyers",
+      "snippet": "Companies that added to the financial woes of the American legal profession by sending work to low-cost countries are now creating jobs for lawyers in the United States.",
+      "abstract": "Companies that added to the financial woes of the American legal profession by sending work to low-cost countries are now creating jobs for lawyers in the United States.",
+      "lead_paragraph": "Career prospects can look dim these days for young American lawyers.",
+      "publication_date": "2011-06-02T23:51:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/03/business/03reverse.html",
+      "byline": "By Heather Timmons"
+    },
+    {
+      "headline": "E-Mail Fraud Hides Behind Friendly Face",
+      "snippet": "The Gmail attacks Google disclosed used a rapidly proliferating form of e-mail fraud called spear phishing to steal passwords and monitor accounts.",
+      "abstract": "The Gmail attacks Google disclosed used a rapidly proliferating form of e-mail fraud called spear phishing to steal passwords and monitor accounts.",
+      "lead_paragraph": "SAN FRANCISCO — Most people know to ignore the e-mail overture from a Nigerian prince offering riches in exchange for a bank account number. That is a scam, plain to the eye. ",
+      "publication_date": "2011-06-03T01:03:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/03/technology/03hack.html",
+      "byline": "By Matt Richtel and Verne G. Kopytoff"
+    },
+    {
+      "headline": "Hiring in U.S. Slowed in May With 54,000 Jobs Added",
+      "snippet": "The unemployment rate rose to 9.1 percent, raising concerns once again about the underlying strength of the economic recovery.",
+      "abstract": "The unemployment rate rose to 9.1 percent, raising concerns once again about the underlying strength of the economic recovery.",
+      "lead_paragraph": "After several months of strong job growth, hiring in the United States slowed sharply in May, suggesting the economy may be running out of steam once again.",
+      "publication_date": "2011-06-03T12:40:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/04/business/economy/04jobs.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "Dr. Jack Kevorkian Dies at 83; A Doctor Who Helped End Lives",
+      "snippet": "A medical pathologist, Dr. Kevorkian challenged social taboos about disease and dying and helped dozens of terminally ill patients end their lives.",
+      "abstract": "A medical pathologist, Dr. Kevorkian challenged social taboos about disease and dying and helped dozens of terminally ill patients end their lives.",
+      "lead_paragraph": "Dr. Jack Kevorkian, the medical pathologist who willfully helped dozens of terminally ill people end their lives, becoming the central figure in a national drama surrounding assisted suicide, died on Friday in Royal Oak., Mich. He was 83. ",
+      "publication_date": "2011-06-03T13:13:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/04/us/04kevorkian.html",
+      "byline": "By Keith Schneider"
+    },
+    {
+      "headline": "Edwards Charged With Election Finance Fraud",
+      "snippet": "The former senator is accused of conspiring to cover up an affair by “secretly obtaining,” misreporting and misusing contributions.",
+      "abstract": "The former senator is accused of conspiring to cover up an affair by “secretly obtaining,” misreporting and misusing contributions.",
+      "lead_paragraph": "John Edwards, the former Democratic senator from North Carolina and nominee for vice president in 2004, was once one of his party’s most promising young stars. But on Friday he found himself in a stunning fall from grace — in a courtroom in North Carolina, being read his rights. ",
+      "publication_date": "2011-06-03T14:55:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/04/us/politics/04edwards.html",
+      "byline": "By Katharine Q. Seelye"
+    }
+  ]
+}

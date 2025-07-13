@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2017-04-11",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "United Airlines Passenger Is Dragged From an Overbooked Flight",
+      "snippet": "The airline said the man was one of four who had been selected to be bumped from the flight. When he refused to leave, security officers pulled him out of the cabin.",
+      "abstract": "The airline said the man was one of four who had been selected to be bumped from the flight. When he refused to leave, security officers pulled him out of the cabin.",
+      "lead_paragraph": "The disturbing scene captured on cellphone videos by United Airlines passengers on Sunday went beyond the typical nightmares of travelers on an overbooked flight.",
+      "publication_date": "2017-04-10T16:22:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/10/business/united-flight-passenger-dragged.html",
+      "byline": "By Daniel Victor and Matt Stevens"
+    },
+    {
+      "headline": "U.S. Accuses Russian Email Spammer of Vast Network of Fraud",
+      "snippet": "Peter Levashov, 36, arrested on vacation in Spain, is charged with wire fraud and unauthorized interception of electronic communications.",
+      "abstract": "Peter Levashov, 36, arrested on vacation in Spain, is charged with wire fraud and unauthorized interception of electronic communications.",
+      "lead_paragraph": "Several years ago, federal agents traveled to Moscow to enlist the help of their Russian counterparts in arresting one of the world’s most pernicious email spammers. They were rebuffed, a former American law enforcement official who was there said. The spammer, who used the pseudonym Peter Severa, was protected, probably by the Russian government, and could not be touched.",
+      "publication_date": "2017-04-10T23:52:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/10/technology/us-arrest-russian-email-spam-peter-levashov.html",
+      "byline": "By Michael Schwirtz"
+    },
+    {
+      "headline": "On Trump’s Syria Strategy, One Voice Is Missing: Trump’s",
+      "snippet": "Administration officials have described starkly different foreign policies since last week’s cruise missile strike, and President Trump has yet to clarify.",
+      "abstract": "Administration officials have described starkly different foreign policies since last week’s cruise missile strike, and President Trump has yet to clarify.",
+      "lead_paragraph": "WASHINGTON — In the days since President Trump ordered a cruise missile strike against Syria in retaliation for a chemical attack on civilians, his administration has spoken with multiple voices as it seeks to explain its evolving policy. But one voice has not been heard from: that of Mr. Trump himself.",
+      "publication_date": "2017-04-11T00:56:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/10/world/middleeast/syria-trump-assad.html",
+      "byline": "By Peter Baker and Gardiner Harris"
+    },
+    {
+      "headline": "G.M. Takes a Back Seat to Tesla as America’s Most Valued Carmaker",
+      "snippet": "General Motors has achieved steady profits in a booming domestic market and has tried to prove its innovative approach, but investors are unimpressed.",
+      "abstract": "General Motors has achieved steady profits in a booming domestic market and has tried to prove its innovative approach, but investors are unimpressed.",
+      "lead_paragraph": "DETROIT — By almost every measure, General Motors has been on a roll.",
+      "publication_date": "2017-04-11T00:57:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/10/business/general-motors-stock-valuation.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "Book Pins Corporate Greed on a Lust Bred at Harvard",
+      "snippet": "“The Golden Passport,” by the veteran journalist Duff McDonald, argues that Harvard Business School is a leading reason there’s so much disdain for corporate America.",
+      "abstract": "“The Golden Passport,” by the veteran journalist Duff McDonald, argues that Harvard Business School is a leading reason there’s so much disdain for corporate America.",
+      "lead_paragraph": "If you were to look for one ingredient that binds together the nation’s chief executives, top managers and boards of directors, you’d find a remarkably consistent commonality, now and in generations past: A disproportionate number of them are graduates of Harvard Business School.",
+      "publication_date": "2017-04-11T01:07:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/10/business/dealbook/11-andrew-sorkin-harvard-business-school.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "That Fingerprint Sensor on Your Phone Is Not as Safe as You Think",
+      "snippet": "New research suggests that the fingerprint security features on iPhones and Android devices can be easily fooled by so-called MasterPrint fakes.",
+      "abstract": "New research suggests that the fingerprint security features on iPhones and Android devices can be easily fooled by so-called MasterPrint fakes.",
+      "lead_paragraph": "SAN FRANCISCO — Fingerprint sensors have turned modern smartphones into miracles of convenience. A touch of a finger unlocks the phone — no password required. With services like Apple Pay or Android Pay, a fingerprint can buy a bag of groceries, a new laptop or even a $1 million vintage Aston Martin. And pressing a finger inside a banking app allows a user to pay bills or transfer thousands of dollars.",
+      "publication_date": "2017-04-11T03:45:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/10/technology/fingerprint-security-smartphones-apple-google-samsung.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "The Latest Test for the White House? Pulling Off Its Easter Egg Roll",
+      "snippet": "With key staff positions unfilled and no on-site first lady, the White House is trying to organize the most elaborate and heavily scrutinized public event of the year.",
+      "abstract": "With key staff positions unfilled and no on-site first lady, the White House is trying to organize the most elaborate and heavily scrutinized public event of the year.",
+      "lead_paragraph": "WASHINGTON — President Trump received an urgent warning in February, informing him of a crucial date he was about to miss.",
+      "publication_date": "2017-04-11T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/11/us/politics/white-house-easter-egg-roll-trump.html",
+      "byline": "By Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "Toshiba Casts Doubt on Its Ability to Stay in Business",
+      "snippet": "Struggling after a disastrous foray into nuclear power, the company hopes a sale of part of its microchip business, its crown jewel, could alleviate uncertainty.",
+      "abstract": "Struggling after a disastrous foray into nuclear power, the company hopes a sale of part of its microchip business, its crown jewel, could alleviate uncertainty.",
+      "lead_paragraph": "TOKYO — Toshiba, a pillar of the modern Japanese economy whose roots stretch back to the country’s industrial stirrings in the 19th century, warned on Tuesday that a disastrous foray into nuclear power may have crippled its business beyond repair.",
+      "publication_date": "2017-04-11T09:08:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/11/business/dealbook/toshiba-foxconn-chips-deal.html",
+      "byline": "By Jonathan Soble and Paul Mozur"
+    },
+    {
+      "headline": "Trump Says China Will Get Better Trade Deal if It Solves ‘North Korean Problem’",
+      "snippet": "President Trump’s Twitter posts capture his quandary in dealing with the nuclear threat from North Korea: Only China can realistically force a change in the behavior of Kim Jong-un.",
+      "abstract": "President Trump’s Twitter posts capture his quandary in dealing with the nuclear threat from North Korea: Only China can realistically force a change in the behavior of Kim Jong-un.",
+      "lead_paragraph": "WASHINGTON — President Trump, frustrated by China’s inaction on North Korea, opened the door on Tuesday to concessions on his trade agenda with Beijing in exchange for greater Chinese support in pressuring Pyongyang. In doing so, he lashed together two sharply different issues in an already complex relationship.",
+      "publication_date": "2017-04-11T13:24:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/11/world/asia/trump-china-trade-north-korea.html",
+      "byline": "By Mark Landler"
+    }
+  ]
+}

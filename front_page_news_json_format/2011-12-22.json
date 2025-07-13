@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2011-12-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Countrywide Will Settle a Bias Suit",
+      "snippet": "The Justice Department said Bank of America had agreed to a record fair-lending settlement over allegations of discriminatory practices by a mortgage subsidiary.",
+      "abstract": "The Justice Department said Bank of America had agreed to a record fair-lending settlement over allegations of discriminatory practices by a mortgage subsidiary.",
+      "lead_paragraph": "WASHINGTON — The Justice Department on Wednesday announced the largest residential fair-lending settlement in history, saying that Bank of America had agreed to pay $335 million to settle allegations that its Countrywide Financial unit discriminated against black and Hispanic borrowers during the housing boom.",
+      "publication_date": "2011-12-21T18:01:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/22/business/us-settlement-reported-on-countrywide-lending.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "A Bundle of Potential in a Ball",
+      "snippet": "The Sphero, produced by Orbotix, is a remote-controlled ball stuffed with miniature technology and five free apps.",
+      "abstract": "The Sphero, produced by Orbotix, is a remote-controlled ball stuffed with miniature technology and five free apps.",
+      "lead_paragraph": "You may remember that, in the movie “Field of Dreams,” a mysterious voice in Kevin Costner’s head kept intoning: “If you build it, they will come.” It took some time for him to realize that somewhat unspecific piece of guidance really meant: “If you build a baseball diamond in a cornfield, dead players will come back to life.” ",
+      "publication_date": "2011-12-21T21:13:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/22/technology/personaltech/remote-controlled-ball-holds-potential-delights-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "A Central Bank Doing What It Should",
+      "snippet": "The European Central Bank has loaned $639 billion to 523 banks to keep credit flowing. It turns out that may be enough to stem the European crisis for at least a few years.",
+      "abstract": "The European Central Bank has loaned $639 billion to 523 banks to keep credit flowing. It turns out that may be enough to stem the European crisis for at least a few years.",
+      "lead_paragraph": "“Talk tough, and open the vaults.”",
+      "publication_date": "2011-12-21T23:40:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/22/business/a-central-bank-doing-what-central-banks-do.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Tsunami Reveals Durability of Nissan’s Leaf",
+      "snippet": "The tsunami that Japan experienced this year tossed around some of Nissan’s electric cars. But the batteries remained intact.",
+      "abstract": "The tsunami that Japan experienced this year tossed around some of Nissan’s electric cars. But the batteries remained intact.",
+      "lead_paragraph": "DETROIT — Nissan inadvertently gained some valuable insight into the durability of its electric car, the Leaf, when about two dozen of them were destroyed in the tsunami that ravaged Japan in March.",
+      "publication_date": "2011-12-22T02:07:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/12/22/business/tsunami-reveals-durability-of-nissans-leaf.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "For Democrats in Hawaii, Unease in an Oasis",
+      "snippet": "Democrats, who usually have it easy in Hawaii, are in a rough patch — and Republicans may win a Senate seat that has long been out of their reach.",
+      "abstract": "Democrats, who usually have it easy in Hawaii, are in a rough patch — and Republicans may win a Senate seat that has long been out of their reach.",
+      "lead_paragraph": "HONOLULU — Hawaii should be a happy outpost for the Democratic Party. It has a Democratic governor. Democrats overwhelmingly control the Legislature. It has Barack Obama in the White House and all the prestige that brings, most recently an Asia-Pacific economic summit meeting with the president as its host, packing this city’s streets, restaurants and hotels with international leaders.",
+      "publication_date": "2011-12-22T02:30:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/22/us/politics/hawaii-democrats-are-struggling.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Signs Point to Economy’s Rise, but Experts See a False Dawn",
+      "snippet": "In recent weeks, a broad range of data have beaten analysts’ expectations, but forecasters say the uptick is likely temporary and that growth will slow in the first half of 2012.",
+      "abstract": "In recent weeks, a broad range of data have beaten analysts’ expectations, but forecasters say the uptick is likely temporary and that growth will slow in the first half of 2012.",
+      "lead_paragraph": "WASHINGTON — As the fourth quarter draws to a close, a spate of unexpectedly good economic data suggests that it will have some of the fastest and strongest economic growth since the recovery started in 2009, causing a surge in the stock market and cheering economists, investors and policy makers. ",
+      "publication_date": "2011-12-22T02:33:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/22/business/signs-point-to-economys-rise-but-experts-see-a-false-dawn.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Scaling Caste Walls With Capitalism’s Ladders in India",
+      "snippet": "India’s era of economic growth has created something unthinkable a generation ago: business opportunities for members of India’s untouchable caste, the Dalits.",
+      "abstract": "India’s era of economic growth has created something unthinkable a generation ago: business opportunities for members of India’s untouchable caste, the Dalits.",
+      "lead_paragraph": "PED, India — On his barefoot trudge to school decades ago, a young Ashok Khade passed inescapable reminders of what he was: the well from which he was not allowed to drink; the temple where he was not permitted to worship. At school, he took his place on the floor in a part of the classroom built a step lower than the rest. Untouchables like him, considered to be spiritually and physically unclean, could not be permitted to pollute their upper-caste neighbors and classmates. ",
+      "publication_date": "2011-12-22T02:55:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/22/world/asia/indias-boom-creates-openings-for-untouchables.html",
+      "byline": "By Lydia Polgreen"
+    },
+    {
+      "headline": "U.S. Report Faults Two Sides in Deadly Pakistan Strike",
+      "snippet": "A United States military inquiry concluded that mistakes by both American and Pakistani troops led to airstrikes against two Pakistani posts on the Afghanistan border.",
+      "abstract": "A United States military inquiry concluded that mistakes by both American and Pakistani troops led to airstrikes against two Pakistani posts on the Afghanistan border.",
+      "lead_paragraph": "WASHINGTON — A United States military investigation has concluded that checks and balances devised to prevent cross-border mishaps with Pakistan failed to avert a deadly NATO airstrike last month in part because American officials did not trust Pakistan enough to give it detailed information about American troop locations in Afghanistan. ",
+      "publication_date": "2011-12-22T09:01:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/23/world/asia/pakistan-and-us-share-blame-in-strike-on-border-posts.html",
+      "byline": "By Eric Schmitt and Matthew Rosenberg"
+    },
+    {
+      "headline": "Buzz Over Who’s Not in North Korea Picture(s)",
+      "snippet": "Identifying mourners and absentees in North Korean photographs is one of the few ways for outsiders to make sense of the unfolding succession.",
+      "abstract": "Identifying mourners and absentees in North Korean photographs is one of the few ways for outsiders to make sense of the unfolding succession.",
+      "lead_paragraph": "SEOUL, South Korea — Researchers scrutinizing North Korea’s official images and lists of mourners paying respects to Kim Jong-il have noticed two conspicuous absences: the elder brothers of Kim Jong-un, the appointed heir.",
+      "publication_date": "2011-12-22T15:26:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/12/23/world/asia/family-intrigue-shadows-north-koreas-secretive-dynasty.html",
+      "byline": "By Choe Sang-Hun"
+    }
+  ]
+}

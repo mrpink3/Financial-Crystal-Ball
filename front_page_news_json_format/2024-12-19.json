@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-12-19",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump Criticizes Spending Deal, Pushing Congress Toward a Shutdown",
+      "snippet": "The president-elect weighed in against the huge spending package after Elon Musk had spent the day warning Republicans not to support it. The blowup left the compromise on life support.",
+      "abstract": "The president-elect weighed in against the huge spending package after Elon Musk had spent the day warning Republicans not to support it. The blowup left the compromise on life support.",
+      "lead_paragraph": "A bipartisan spending deal to avert a shutdown was on life support on Wednesday after President-elect Donald J. Trump condemned it, leaving lawmakers without a strategy to fund the government past a Friday night deadline.",
+      "publication_date": "2024-12-18T22:12:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/18/us/politics/trump-musk-spending-bill.html",
+      "byline": "By Catie Edmondson and Carl Hulse"
+    },
+    {
+      "headline": "G.M. Led in China for Years. Here’s How It Ended Up 16th in Sales.",
+      "snippet": "General Motors has gone from market leader to also-ran in the world’s largest car market, stymied by its own missteps and Chinese policies that favored its local rivals.",
+      "abstract": "General Motors has gone from market leader to also-ran in the world’s largest car market, stymied by its own missteps and Chinese policies that favored its local rivals.",
+      "lead_paragraph": "General Motors was a pioneer in China, where for a quarter-century the company drew enormous profits and vied with Germany’s Volkswagen as the top seller of cars.",
+      "publication_date": "2024-12-19T05:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/business/gm-china.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "As China Seeks Influence, It Has a Cuddly Way Into City Hall: Pandas",
+      "snippet": "Records and interviews show that Beijing has used pandas as leverage to shape policy on Taiwan and to cultivate relationships with local U.S. politicians.",
+      "abstract": "Records and interviews show that Beijing has used pandas as leverage to shape policy on Taiwan and to cultivate relationships with local U.S. politicians.",
+      "lead_paragraph": "After joining the Chinese leader Xi Jinping for dinner last year, Mayor London Breed of San Francisco accompanied him to the airport to bid him farewell. There, on the tarmac, she made her request: pandas.",
+      "publication_date": "2024-12-19T10:00:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/19/world/asia/china-influence-city-local-government-pandas-intelligence.html",
+      "byline": "By Mara Hvistendahl, Heather Knight and Vik Jolly"
+    },
+    {
+      "headline": "Amazon Delivery Drivers at Seven Hubs Walk Out",
+      "snippet": "The retail giant said it expected its operations to be largely unaffected by the strike of some drivers at contracting firms Amazon uses to deliver packages.",
+      "abstract": "The retail giant said it expected its operations to be largely unaffected by the strike of some drivers at contracting firms Amazon uses to deliver packages.",
+      "lead_paragraph": "Workers who deliver packages from seven Amazon facilities across the country went on strike Thursday morning, according to the International Brotherhood of Teamsters, the union that represents them.",
+      "publication_date": "2024-12-19T14:10:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/business/economy/amazon-teamsters-strike.html",
+      "byline": "By Noam Scheiber and Santul Nerkar"
+    },
+    {
+      "headline": "Appeals Court Disqualifies Fani Willis From Prosecuting Georgia Trump Case",
+      "snippet": "The panel overruled the trial judge, who had allowed Fani T. Willis to keep the case despite a romantic relationship that defendants said created a conflict of interest.",
+      "abstract": "The panel overruled the trial judge, who had allowed Fani T. Willis to keep the case despite a romantic relationship that defendants said created a conflict of interest.",
+      "lead_paragraph": "Georgia’s Court of Appeals on Thursday disqualified the Atlanta prosecutor who brought an election interference case against President-elect Donald J. Trump and his allies, a surprise move that threw the entire case into disarray.",
+      "publication_date": "2024-12-19T15:13:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/19/us/fani-willis-georgia-trump-case.html",
+      "byline": "By Danny Hakim and Richard Fausset"
+    },
+    {
+      "headline": "Elon Musk Flexes His Political Strength as Government Shutdown Looms",
+      "snippet": "The world’s richest man led the charge to kill a bipartisan spending deal, in part by promoting false and misleading claims about it.",
+      "abstract": "The world’s richest man led the charge to kill a bipartisan spending deal, in part by promoting false and misleading claims about it.",
+      "lead_paragraph": "When President-elect Donald J. Trump picked “the Great Elon Musk,” the world’s richest man, to slash government spending and waste, he mused that the effort might be “the Manhattan Project of our time.”",
+      "publication_date": "2024-12-19T15:49:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/19/us/politics/elon-musk-politics.html",
+      "byline": "By Michael D. Shear, Annie Karni, Ryan Mac and Maggie Haberman"
+    }
+  ]
+}

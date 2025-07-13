@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-11-04",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "YouTube Cut Down Misinformation. Then It Boosted Fox News.",
+      "snippet": "To battle false information, YouTube cut its recommendations to fringe channels and instead promoted major networks, especially Fox News.",
+      "abstract": "To battle false information, YouTube cut its recommendations to fringe channels and instead promoted major networks, especially Fox News.",
+      "lead_paragraph": "After the 2016 election, engineers at YouTube went to work on changes to a YouTube algorithm that had become one of the world’s most influential lines of computer code.",
+      "publication_date": "2020-11-03T18:42:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/03/technology/youtube-misinformation-fox-news.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "Biden Says Trump Is ‘Not Who We Are.’ Do Voters Agree?",
+      "snippet": "Election Day came to a close with no clear winner, but it affirmed the persistence of deep national divisions.",
+      "abstract": "Election Day came to a close with no clear winner, but it affirmed the persistence of deep national divisions.",
+      "lead_paragraph": "From the start of his 2020 campaign, Joseph R. Biden Jr. insisted that President Trump was an aberration, his norm-breaking, race-baiting tenure anathema to the national character.",
+      "publication_date": "2020-11-03T23:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/03/us/politics/election-trump-biden-voters.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "The Coronavirus, Raging in Battleground States, Looms Over Election Day",
+      "snippet": "From Wisconsin to North Carolina, the latest surge of the coronavirus is spiraling, especially in battleground states.",
+      "abstract": "From Wisconsin to North Carolina, the latest surge of the coronavirus is spiraling, especially in battleground states.",
+      "lead_paragraph": "CLEVELAND — They voted from cars and at outdoor tables. They stood in lines spaced far apart. They strapped on masks and pumped sanitizer into their palms. All across America on Tuesday, voters cast ballots in a presidential election in which the uncontrolled coronavirus pandemic was both a top issue and a threat.",
+      "publication_date": "2020-11-04T00:49:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/03/us/coronavirus-cases-election-day.html",
+      "byline": "By Sarah Mervosh and Mitch Smith"
+    },
+    {
+      "headline": "At the End of a Chaotic Campaign, an Election Day That Defied the Worst Fears",
+      "snippet": "There were glitches and partisan skirmishes as voters went to the polls, but for the most part the system held up.",
+      "abstract": "There were glitches and partisan skirmishes as voters went to the polls, but for the most part the system held up.",
+      "lead_paragraph": "The worst fears about a chaotic end to a chaotic campaign failed to materialize on Tuesday as the final day of voting went off with little more than sporadic glitches and confrontations even as the tension over the outcome and aftermath remained undiminished.",
+      "publication_date": "2020-11-04T00:54:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/03/us/politics/the-end-of-a-chaotic-campaign-election-day.html",
+      "byline": "By Nick Corasaniti, Jim Rutenberg and Stephanie Saul"
+    },
+    {
+      "headline": "As America Awaits a Winner, Trump Falsely Claims He Prevailed",
+      "snippet": "The president made his unfounded claim even though no news organizations declared a winner between him and Joseph R. Biden Jr., and a number of closely contested states still had millions of mail-in ballots to count.",
+      "abstract": "The president made his unfounded claim even though no news organizations declared a winner between him and Joseph R. Biden Jr., and a number of closely contested states still had millions of mail-in ballots to count.",
+      "lead_paragraph": "With no winner declared in the 2020 presidential race, President Trump appeared in the White House just after 2 a.m. on Wednesday to brazenly claim he had already won the election — and to insist that votes stop being counted even though the ballots of millions of Americans had yet to be tallied. ",
+      "publication_date": "2020-11-04T06:17:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/04/us/politics/election-trump-biden-recap.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Uber and Lyft Drivers in California Will Remain Contractors",
+      "snippet": "The victory of Proposition 22, the most expensive initiative in the state’s history, could help gig companies remake labor laws throughout the country.",
+      "abstract": "The victory of Proposition 22, the most expensive initiative in the state’s history, could help gig companies remake labor laws throughout the country.",
+      "lead_paragraph": "[President-elect Joe Biden’s victory prompts spontaneous celebrations.]",
+      "publication_date": "2020-11-04T08:24:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/04/technology/california-uber-lyft-prop-22.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "How Biden’s Discipline on Rebuilding the ‘Blue Wall’ Moved Him Close to Victory",
+      "snippet": "From the beginning of his campaign until the end, Joseph R. Biden Jr. concentrated on winning back Pennsylvania, Michigan and Wisconsin, rather than becoming overly distracted by red states.",
+      "abstract": "From the beginning of his campaign until the end, Joseph R. Biden Jr. concentrated on winning back Pennsylvania, Michigan and Wisconsin, rather than becoming overly distracted by red states.",
+      "lead_paragraph": "[Read more on Joe Biden’s president-elect acceptance speech.]",
+      "publication_date": "2020-11-04T08:30:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/04/us/politics/biden-polls.html",
+      "byline": "By Lisa Lerer"
+    }
+  ]
+}

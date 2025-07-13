@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-05-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Egg Farms Hit Hard as Bird Flu Affects Millions of Hens",
+      "snippet": "Avian flu viruses have affected over 33 million turkeys, chickens and ducks in the United States, with Iowa’s farmers particularly hard hit.",
+      "abstract": "Avian flu viruses have affected over 33 million turkeys, chickens and ducks in the United States, with Iowa’s farmers particularly hard hit.",
+      "lead_paragraph": "SIOUX CENTER, Iowa — J.T. Dean is facing a gargantuan task.",
+      "publication_date": "2015-05-14T16:26:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/15/business/bird-flu-outbreak-chicken-farmers.html",
+      "byline": "By Stephanie Strom"
+    },
+    {
+      "headline": "Senate, in Reversal, Begins Debate on Trade Authority",
+      "snippet": "The move follows approval of a separate bill that would crack down on currency manipulation, an issue clouding prospects for a Pacific trade accord.",
+      "abstract": "The move follows approval of a separate bill that would crack down on currency manipulation, an issue clouding prospects for a Pacific trade accord.",
+      "lead_paragraph": "WASHINGTON — Two days after Democratic senators blocked it, the Senate voted on Thursday to take up legislation that would grant the president negotiating freedom to complete an expansive trade accord with 11 nations on the Pacific Rim, setting off a contentious congressional debate on one of President Obama’s top priorities for his remaining time in office.",
+      "publication_date": "2015-05-14T16:56:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/15/business/senate-vote-currency-manipulation-fast-track-trade.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "George Stephanopoulos’s Gifts to Clinton Foundation Reinforce G.O.P. Doubts",
+      "snippet": "The donations fueled accusations by conservatives that Mr. Stephanopoulos, the chief anchor at ABC News, is biased.",
+      "abstract": "The donations fueled accusations by conservatives that Mr. Stephanopoulos, the chief anchor at ABC News, is biased.",
+      "lead_paragraph": "WASHINGTON — Even after more than a decade as an analyst, anchor and public face for ABC News, George Stephanopoulos has never been able to shake the image that many Republicans have of him: Clinton hatchet man.",
+      "publication_date": "2015-05-14T18:10:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/15/us/politics/george-stephanopoulos-discloses-gifts-to-clinton-foundation.html",
+      "byline": "By Jeremy W. Peters and John Koblin"
+    },
+    {
+      "headline": "A Phantom Offer Sends Avon’s Shares Surging",
+      "snippet": "An S.E.C. filing that appears to have been a fake bid for the cosmetics company raises questions about the potential for market manipulation.",
+      "abstract": "An S.E.C. filing that appears to have been a fake bid for the cosmetics company raises questions about the potential for market manipulation.",
+      "lead_paragraph": "The federal government’s system for filing securities documents may not be as secure as many on Wall Street assume, considering what appears to have been a fake bid on Thursday for Avon Products.",
+      "publication_date": "2015-05-14T18:14:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/15/business/dealbook/a-phantom-offer-sends-avons-shares-surging.html",
+      "byline": "By Matthew Goldstein and David Gelles"
+    },
+    {
+      "headline": "Amtrak Says Shortfalls and Rules Delayed Its Safety System",
+      "snippet": "The railroad said technical and regulatory roadblocks had delayed operation of the system, which might have prevented this week’s train derailment.",
+      "abstract": "The railroad said technical and regulatory roadblocks had delayed operation of the system, which might have prevented this week’s train derailment.",
+      "lead_paragraph": "WASHINGTON — The Amtrak train that derailed in Philadelphia on Tuesday night was equipped with an automatic speed control system that officials say could have prevented the wreck, which killed eight passengers and injured hundreds. But the system, which was tantalizingly close to being operational, was delayed by budgetary shortfalls, technical hurdles and bureaucratic rules, officials said Thursday. ",
+      "publication_date": "2015-05-14T20:26:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/15/us/amtrak-says-it-was-just-months-away-from-installing-safety-system.html",
+      "byline": "By Michael D. Shear and Jad Mouawad"
+    },
+    {
+      "headline": "Changing Course, Russia Will Sell Rubles Instead of Buying",
+      "snippet": "The move is a result of the strength of the Russian currency, which is up 21 percent this year, and will limit its rise.",
+      "abstract": "The move is a result of the strength of the Russian currency, which is up 21 percent this year, and will limit its rise.",
+      "lead_paragraph": "MOSCOW — The Russian economy is sliding into a recession. Consumers are retreating. Corporate profits are suffering.",
+      "publication_date": "2015-05-14T22:08:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/15/business/international/changing-course-russia-will-sell-rubles-instead-of-buying.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "An Airline Investment in Uruguay Becomes a Catch-22",
+      "snippet": "The former chief of Leadgate, which invested in the failed Uruguayan airline Pluna, remains in jail while investigators try to make a case against the private equity firm’s executives.",
+      "abstract": "The former chief of Leadgate, which invested in the failed Uruguayan airline Pluna, remains in jail while investigators try to make a case against the private equity firm’s executives.",
+      "lead_paragraph": "It might have been the volcano.",
+      "publication_date": "2015-05-15T00:20:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/15/business/dealbook/risky-web-of-privatization-in-uruguay-where-charges-are-optional.html",
+      "byline": "By David Gelles and Charles Newbery"
+    },
+    {
+      "headline": "Defying U.S., Colombia Halts Aerial Spraying of Crops Used to Make Cocaine",
+      "snippet": "The government’s decision to end the long-running program, a tool in the war on drugs, was made because of a concern that the spray causes cancer.",
+      "abstract": "The government’s decision to end the long-running program, a tool in the war on drugs, was made because of a concern that the spray causes cancer.",
+      "lead_paragraph": "BOGOTÁ, Colombia — The government of Colombia on Thursday night rejected a major tool in the American-backed antidrug campaign — ordering a halt to the aerial spraying of the country’s vast illegal plantings of coca, the crop used to make cocaine, citing concerns that the spray causes cancer.",
+      "publication_date": "2015-05-15T00:48:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/05/15/world/americas/colombia-halts-us-backed-spraying-of-illegal-coca-crops.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "Matisse From Gurlitt Collection Is Returned to Jewish Art Dealer’s Heirs",
+      "snippet": "“Femme Assise,” which was looted by the Nazis and discovered in the Munich apartment of Cornelius Gurlitt in 2012, has been returned to the descendants of Paul Rosenberg.",
+      "abstract": "“Femme Assise,” which was looted by the Nazis and discovered in the Munich apartment of Cornelius Gurlitt in 2012, has been returned to the descendants of Paul Rosenberg.",
+      "lead_paragraph": "MUNICH — The slide made public in November 2013 showing a painting of a woman wearing a white blouse embroidered with blue, purple and red flowers, with a fan on her lap, was grainy, but its subject was immediately recognizable to Elaine Rosenberg. It showed a priceless Matisse. Her family’s Matisse.",
+      "publication_date": "2015-05-15T11:29:16+0000",
+      "section_name": "Arts",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2015/05/16/arts/international/matisse-gurlitt-collection-femme-assise-seated-woman.html",
+      "byline": "By Melissa Eddy"
+    },
+    {
+      "headline": "Republican Presidential Candidates Rally Around Flat Tax",
+      "snippet": "In an effort to get attention, some hopefuls have spoken of their support for a single tax rate for everyone, but that talk isn’t expected to last beyond the primaries.",
+      "abstract": "In an effort to get attention, some hopefuls have spoken of their support for a single tax rate for everyone, but that talk isn’t expected to last beyond the primaries.",
+      "lead_paragraph": "No matter how many Republicans end up squeezing onto a campaign stage for the 2016 presidential primary debates, one thing is just about certain: Every one of them will vow to cut taxes. So, with as many as 19 contenders all repeating the same message, standing out from the crowd will be a challenge.",
+      "publication_date": "2015-05-15T15:09:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/05/16/business/economy/republican-presidential-candidates-rally-around-flat-tax.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

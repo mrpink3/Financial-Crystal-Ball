@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-05-26",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Twitter’s Chief Tries Staying the Course as Elon Musk Upends Plans",
+      "snippet": "Parag Agrawal, Twitter’s chief executive, is grappling with a takeover where nobody “would want to be in those shoes.”",
+      "abstract": "Parag Agrawal, Twitter’s chief executive, is grappling with a takeover where nobody “would want to be in those shoes.”",
+      "lead_paragraph": "SAN FRANCISCO — At a virtual meeting for Twitter executives last week, Parag Agrawal admitted he was exhausted.",
+      "publication_date": "2022-05-25T16:42:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/25/technology/twitter-elon-musk-parag-agrawal.html",
+      "byline": "By Mike Isaac and Kate Conger"
+    },
+    {
+      "headline": "Intensifying Inquiry Into Alternate Electors Focuses on Trump Lawyers",
+      "snippet": "In recent subpoenas, federal prosecutors investigating alternate slates of pro-Trump electors sought information about Rudolph W. Giuliani, John Eastman and others.",
+      "abstract": "In recent subpoenas, federal prosecutors investigating alternate slates of pro-Trump electors sought information about Rudolph W. Giuliani, John Eastman and others.",
+      "lead_paragraph": "The Justice Department has stepped up its criminal investigation into the creation of alternate slates of pro-Trump electors seeking to overturn Joseph R. Biden Jr.’s victory in the 2020 election, with a particular focus on a team of lawyers that worked on behalf of President Donald J. Trump, according to people familiar with the matter.",
+      "publication_date": "2022-05-25T17:20:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/25/us/politics/pro-trump-lawyers-elector-scheme.html",
+      "byline": "By Alan Feuer, Katie Benner and Luke Broadwater"
+    },
+    {
+      "headline": "Fed officials expected to make at least three big rate increases over the next few months.",
+      "snippet": "Minutes of the Federal Reserve’s May meeting underscored the deep concern within the central bank about rapidly rising prices that have far exceeded the Fed’s target.",
+      "abstract": "Minutes of the Federal Reserve’s May meeting underscored the deep concern within the central bank about rapidly rising prices that have far exceeded the Fed’s target.",
+      "lead_paragraph": "Federal Reserve officials agreed at their last meeting that the central bank needed to move “expeditiously” to bring down the most rapid pace of inflation in 40 years, with most participants expecting as many as three half-a-percentage-point interest rate increases in the months ahead, minutes of the Fed’s May meeting showed.",
+      "publication_date": "2022-05-25T18:27:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/25/business/economy/fed-interest-rates-inflation.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "‘Why the Kids?’ In Close-Knit Uvalde, It’s Everyone’s Loss.",
+      "snippet": "In Uvalde, Texas, where 19 children and two teachers were killed, everyone, it seemed, had a connection to those lost.",
+      "abstract": "In Uvalde, Texas, where 19 children and two teachers were killed, everyone, it seemed, had a connection to those lost.",
+      "lead_paragraph": "UVALDE, Texas — Xavier Lopez, 10, made the honor roll on the day he was killed.",
+      "publication_date": "2022-05-26T00:25:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/25/us/texas-elementary-shooting-victims.html",
+      "byline": "By Jack Healy and Edgar Sandoval"
+    },
+    {
+      "headline": "South Korean Workers Turn the Tables on Their Bad Bosses",
+      "snippet": "“South Koreans live with an enormous tolerance for abuse” from the powerful, said one famously bullied advocate. A backlash has erupted.",
+      "abstract": "“South Koreans live with an enormous tolerance for abuse” from the powerful, said one famously bullied advocate. A backlash has erupted.",
+      "lead_paragraph": "SEOUL — A boss orders a worker to feed and clean up after his dog. An airline heiress makes a taxiing passenger plane return to the gate to remove a flight attendant who rubbed her the wrong way. The 10-year-old granddaughter of a newspaper tycoon hurls insults at her chauffeur, threatening to fire him for being spoiled.",
+      "publication_date": "2022-05-26T09:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "Police Response to Uvalde Shooting Infuriated Parents Clinging to Hope",
+      "snippet": "Law enforcement killed the gunman more than an hour after the first officers arrived at an elementary school in Texas. Nineteen students and two teachers died in the attack.",
+      "abstract": "Law enforcement killed the gunman more than an hour after the first officers arrived at an elementary school in Texas. Nineteen students and two teachers died in the attack.",
+      "lead_paragraph": "UVALDE, Texas — The grief of families in Uvalde, Texas, was compounded by anger and frustration on Thursday as police leaders struggled to answer questions about the horrific hour it took to halt a gunman who opened fire on students and teachers inside Robb Elementary School.",
+      "publication_date": "2022-05-26T09:00:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/26/us/uvalde-police-response-parents.html",
+      "byline": "By Natalie Kitroeff, Frances Robles, J. David Goodman and Serge F. Kovaleski"
+    },
+    {
+      "headline": "Broadcom to Acquire VMware in $61 Billion Enterprise Computing Deal",
+      "snippet": "The resulting combination of chip company and software maker would be one of the most important suppliers of technology to the cloud computing market.",
+      "abstract": "The resulting combination of chip company and software maker would be one of the most important suppliers of technology to the cloud computing market.",
+      "lead_paragraph": "Broadcom, the semiconductor giant, said on Thursday that it had agreed to buy the software company VMware in a transaction valued at $61 billion that would reshuffle the vast market for enterprise computing technology.",
+      "publication_date": "2022-05-26T11:12:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/26/technology/broadcom-vmware-deal.html",
+      "byline": "By Nico Grant and Lauren Hirsch"
+    },
+    {
+      "headline": "Britain Will Tax Oil and Gas Profits as Cost-of-Living Crisis Swells",
+      "snippet": "The tax on the “extraordinary” profits of oil and gas companies is expected to raise 5 billion pounds and help fund £15 billion in payments to households.",
+      "abstract": "The tax on the “extraordinary” profits of oil and gas companies is expected to raise 5 billion pounds and help fund £15 billion in payments to households.",
+      "lead_paragraph": "LONDON — The British government said it would use a windfall profits tax on oil and gas companies to help raise funds for direct payments to households, totaling about 15 billion pounds (about $19 billion), to ease the country’s cost-of-living crisis.",
+      "publication_date": "2022-05-26T13:23:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/26/business/uk-oil-company-profits-tax.html",
+      "byline": "By Eshe Nelson"
+    }
+  ]
+}

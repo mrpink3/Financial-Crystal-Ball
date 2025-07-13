@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-07-12",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Canadian Nursing Home Deal Spurs Questions About Chinese Money",
+      "snippet": "Anbang bought a retirement home chain despite United States questions about the Chinese company’s murky ownership. With its chairman detained, some officials are worried.",
+      "abstract": "Anbang bought a retirement home chain despite United States questions about the Chinese company’s murky ownership. With its chairman detained, some officials are worried.",
+      "lead_paragraph": "VANCOUVER, British Columbia — No nursing home wants to be known for uncertainty and intrigue.",
+      "publication_date": "2017-07-11T23:34:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/11/business/dealbook/canada-china-anbang-deals-retirement-concepts.html",
+      "byline": "By Kevin A. Wong"
+    },
+    {
+      "headline": "Natalia Veselnitskaya, Lawyer Who Met Trump Jr., Seen as Fearsome Moscow Insider",
+      "snippet": "Ms. Veselnitskaya has long been counted on to win high-profile cases that matter to the Kremlin and to one well-connected official in particular.",
+      "abstract": "Ms. Veselnitskaya has long been counted on to win high-profile cases that matter to the Kremlin and to one well-connected official in particular.",
+      "lead_paragraph": "MOSCOW — When American prosecutors accused a senior Russian official’s son of laundering $14 million by investing in Manhattan property and other assets, she was called to defend him. When Moscow regional officials battled Ikea over the Swedish retailer’s expansion, she took on their case.",
+      "publication_date": "2017-07-12T00:42:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/11/world/europe/natalia-veselnitskaya-donald-trump-jr-russian-lawyer.html",
+      "byline": "By Neil MacFarquhar and Andrew E. Kramer"
+    },
+    {
+      "headline": "Rancor at White House as Russia Story Refuses to Let the Page Turn",
+      "snippet": "Every time the president tries to put the furor behind him, more disclosures thrust it back to the fore, and people close to him are anonymously blaming one another.",
+      "abstract": "Every time the president tries to put the furor behind him, more disclosures thrust it back to the fore, and people close to him are anonymously blaming one another.",
+      "lead_paragraph": "WASHINGTON — If President Trump emerged from his meeting with President Vladimir V. Putin of Russia last week hoping he had begun to “move forward” from the controversy over the Kremlin’s election meddling, as advisers put it, his flight home the next day made clear just how overly optimistic that was.",
+      "publication_date": "2017-07-12T01:10:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/11/us/politics/russia-trump.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "U.A.W. Says Nissan Workers Seek a Union Vote in Mississippi",
+      "snippet": "A victory for the union, which has been trying to organize the plant for years, would be a reversal of fortune in a traditionally hostile region.",
+      "abstract": "A victory for the union, which has been trying to organize the plant for years, would be a reversal of fortune in a traditionally hostile region.",
+      "lead_paragraph": "The United Auto Workers union has waged a long and mostly futile campaign to organize factories in the South, where much of the nation’s auto production has shifted. Now the union sees a breakthrough in sight.",
+      "publication_date": "2017-07-12T01:18:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/11/business/nissan-uaw-mississippi-union.html",
+      "byline": "By Noam Scheiber and Bill Vlasic"
+    },
+    {
+      "headline": "What We Lose When the World Moves On From Email",
+      "snippet": "Donald Trump Jr.’s Russian email thread shows the historical value and irresistible allure of a technology that continues to betray us.",
+      "abstract": "Donald Trump Jr.’s Russian email thread shows the historical value and irresistible allure of a technology that continues to betray us.",
+      "lead_paragraph": "Though its political implications are yet unclear, the publication of an email chain in which Donald Trump Jr. arranged a June 2016 meeting with a lawyer peddling the Russian government’s help for his father’s presidential campaign ought to inspire some pretty obvious tech advice: Step away from the inbox, stupid!",
+      "publication_date": "2017-07-12T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/12/technology/what-we-lose-when-the-world-moves-on-from-email.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Apple Opening Data Center in China to Comply With Cybersecurity Law",
+      "snippet": "The law requires companies to store Chinese users’ information in China, and Apple’s move suggests other foreign technology companies may have to do the same.",
+      "abstract": "The law requires companies to store Chinese users’ information in China, and Apple’s move suggests other foreign technology companies may have to do the same.",
+      "lead_paragraph": "SHANGHAI — Apple said Wednesday that it would open its first data center in China, joining a parade of technology companies responding to growing global demands to build facilities that store online data closer to customers.",
+      "publication_date": "2017-07-12T10:11:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/12/business/apple-china-data-center-cybersecurity.html",
+      "byline": "By Paul Mozur, Daisuke Wakabayashi and Nick Wingfield"
+    },
+    {
+      "headline": "Yellen Says Economy Is Robust, but Adds That Fed Will Stay Flexible",
+      "snippet": "Addressing a House committee on Wednesday, Janet L. Yellen, the Federal Reserve chairwoman, emphasized the strength of job growth but said policy makers were watching the recent weakness of inflation.",
+      "abstract": "Addressing a House committee on Wednesday, Janet L. Yellen, the Federal Reserve chairwoman, emphasized the strength of job growth but said policy makers were watching the recent weakness of inflation.",
+      "lead_paragraph": "WASHINGTON — Janet L. Yellen, the Federal Reserve chairwoman, delivered an upbeat message on the state of the American economy to Congress on Wednesday, highlighting the strength of job growth and indicating that the Fed remained on course to begin reducing its bond holdings in the fall.",
+      "publication_date": "2017-07-12T12:31:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/12/business/yellen-federal-reserve-congress-economy.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Firebrand Hindu Cleric Ascends India’s Political Ladder",
+      "snippet": "Yogi Adityanath, the hard-line new chief minister of Uttar Pradesh, is seen as a potential contender to succeed Narendra Modi.",
+      "abstract": "Yogi Adityanath, the hard-line new chief minister of Uttar Pradesh, is seen as a potential contender to succeed Narendra Modi.",
+      "lead_paragraph": "LUCKNOW, India — A Hindu warrior-priest has been chosen to rule India’s most populous state, and the cable news channels cannot get enough of him. Yogi, as everyone calls him, is so ascetic and incorruptible that he doesn’t use air-conditioners, they say. Yogi sleeps on a hard mattress on the floor. Yogi sometimes eats only an apple for dinner.",
+      "publication_date": "2017-07-12T15:16:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/12/world/asia/india-yogi-adityanath-bjp-modi.html",
+      "byline": "By Ellen Barry and Suhasini Raj"
+    }
+  ]
+}

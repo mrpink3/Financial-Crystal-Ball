@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2024-12-20",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Government Lurches Toward Shutdown After House Tanks Trump’s Spending Plan",
+      "snippet": "Dozens of right-wing Republicans joined Democrats in opposing a bill ordered up by President-elect Donald J. Trump to tie a government funding extension to a two-year deferral of the debt limit.",
+      "abstract": "Dozens of right-wing Republicans joined Democrats in opposing a bill ordered up by President-elect Donald J. Trump to tie a government funding extension to a two-year deferral of the debt limit.",
+      "lead_paragraph": "The government lurched toward a shutdown after the House on Thursday rejected a hastily produced plan ordered up by President-elect Donald J. Trump to keep funding flowing, with dozens of Republicans defying his demand to pair the spending with a two-year suspension of the federal debt limit.",
+      "publication_date": "2024-12-19T16:16:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/19/us/politics/trump-johnson-spending-bill-shutdown.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Is the Tech Industry Already on the Cusp of an A.I. Slowdown?",
+      "snippet": "Companies like OpenAI and Google are running out of the data used to train artificial intelligence systems. Can new methods continue years of rapid progress?",
+      "abstract": "Companies like OpenAI and Google are running out of the data used to train artificial intelligence systems. Can new methods continue years of rapid progress?",
+      "lead_paragraph": "Demis Hassabis, one of the most influential artificial intelligence experts in the world, has a warning for the rest of the tech industry: Don’t expect chatbots to continue to improve as quickly as they have over the last few years.",
+      "publication_date": "2024-12-19T16:25:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/technology/artificial-intelligence-data-openai-google.html",
+      "byline": "By Cade Metz and Tripp Mickle"
+    },
+    {
+      "headline": "Nvidia’s Booming A.I. Business Collides With U.S.-Chinese Tensions",
+      "snippet": "The chipmaker expects more than $10 billion in foreign sales this year, but the Biden administration is advancing rules that could curb that growth.",
+      "abstract": "The chipmaker expects more than $10 billion in foreign sales this year, but the Biden administration is advancing rules that could curb that growth.",
+      "lead_paragraph": "In early August, the king of Bhutan, Jigme Khesar Namgyel Wangchuck, traveled from the mountains of his landlocked Asian country to the headquarters of Nvidia, a maker of artificial intelligence chips in the flatlands of Silicon Valley.",
+      "publication_date": "2024-12-19T16:25:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html",
+      "byline": "By Tripp Mickle and Paul Mozur"
+    },
+    {
+      "headline": "Kylie Kelce Doesn’t Want to Talk About Besting Joe Rogan",
+      "snippet": "But in her first interview since her podcast reached No. 1, she does share ideas about why the show has become a breakout hit.",
+      "abstract": "But in her first interview since her podcast reached No. 1, she does share ideas about why the show has become a breakout hit.",
+      "lead_paragraph": "When a podcast hosted by Kylie Kelce, a 32-year-old high school field hockey coach, unseated “The Joe Rogan Experience” as the top-ranked show in the United States this month, strong reactions followed.",
+      "publication_date": "2024-12-19T16:29:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2024/12/19/business/media/kylie-kelce-podcast.html",
+      "byline": "By Jessica Testa"
+    },
+    {
+      "headline": "With Guilty Verdicts, Rape Victim’s Ordeal in France Becomes a Message of Hope",
+      "snippet": "Dozens of men who abused Gisèle Pelicot were convicted, including the man who invited them to do so: her husband of 50 years. She wanted the public trial to show rape victims they were not alone.",
+      "abstract": "Dozens of men who abused Gisèle Pelicot were convicted, including the man who invited them to do so: her husband of 50 years. She wanted the public trial to show rape victims they were not alone.",
+      "lead_paragraph": "In a packed courtroom on Thursday in Avignon, France, the head judge asked each of the dozens of men accused of raping Gisèle Pelicot — while she was near-comatose and at the invitation of her husband of 50 years — to stand briefly. Then he pronounced their convictions swiftly, one after the other: all guilty.",
+      "publication_date": "2024-12-19T17:10:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/19/world/europe/pelicot-rape-trial-guilty-verdict.html",
+      "byline": "By Catherine Porter and Ségolène Le Stradic"
+    },
+    {
+      "headline": "Rupert Murdoch’s Appeal to Alter Family Trust Faces Uphill Battle",
+      "snippet": "Mr. Murdoch’s appeal over whether he can consolidate his son Lachlan’s power over his media empire is due just before Christmas.",
+      "abstract": "Mr. Murdoch’s appeal over whether he can consolidate his son Lachlan’s power over his media empire is due just before Christmas.",
+      "lead_paragraph": "Rupert Murdoch’s attempt to change his family trust to consolidate his son Lachlan’s leadership of his global media empire — and lock in its conservative editorial direction after his death — now depends on a long-shot move in the highly specialized Nevada probate court system.",
+      "publication_date": "2024-12-19T21:36:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/business/media/rupert-murdoch-lachlan-family-trust.html",
+      "byline": "By Jim Rutenberg and Jonathan Mahler"
+    },
+    {
+      "headline": "Macau Is the Casino Capital of the World. For China, That’s Not Enough.",
+      "snippet": "A quarter century after the former Portuguese colony was made a Chinese territory, Macau’s economic boundaries with the mainland are being blurred.",
+      "abstract": "A quarter century after the former Portuguese colony was made a Chinese territory, Macau’s economic boundaries with the mainland are being blurred.",
+      "lead_paragraph": "Macau, the world’s gambling capital, is becoming more intertwined with a Chinese neighbor — one person, train and building at a time.",
+      "publication_date": "2024-12-20T01:12:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/business/macau-china-xi-jinping.html",
+      "byline": "By Alexandra Stevenson and Zixu Wang"
+    },
+    {
+      "headline": "Starbucks Workers Begin a Strike in 3 Cities on Friday",
+      "snippet": "The walkouts in Los Angeles, Chicago and Seattle come after talks between the company and the workers’ union failed to produce an agreement on raises.",
+      "abstract": "The walkouts in Los Angeles, Chicago and Seattle come after talks between the company and the workers’ union failed to produce an agreement on raises.",
+      "lead_paragraph": "A union representing Starbucks workers said that baristas in Los Angeles, Chicago and Seattle walked off the job Friday morning and that the strikes would spread to hundreds of stores by Tuesday, Christmas Eve, unless the company improved its wage offer in contract negotiations.",
+      "publication_date": "2024-12-20T04:30:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/19/business/economy/starbucks-union-strike.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Ukrainians Mourn the Loss of a Young Journalist and Her Stories",
+      "snippet": "Viktoria Roshchyna died in September in Russian custody. The reporter had been well-known for her stories about life in parts of occupied Ukraine.",
+      "abstract": "Viktoria Roshchyna died in September in Russian custody. The reporter had been well-known for her stories about life in parts of occupied Ukraine.",
+      "lead_paragraph": "Viktoria Roshchyna reported from places most other Ukrainian journalists would not go. She was one of the last to report openly from the territory in Ukraine forcibly taken by Russian troops. And then she went further and entered Russia.",
+      "publication_date": "2024-12-20T05:01:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/20/world/europe/ukraine-journalist-viktoria-roshchyna-dead.html",
+      "byline": "By Maria Varenikova"
+    },
+    {
+      "headline": "Trump Is Threatening Europe With Tariffs. Is It Ready?",
+      "snippet": "The incoming president promised “tariffs all the way” unless Europe bought more U.S. oil and gas. European officials have no clear strategy for avoiding a trade war.",
+      "abstract": "The incoming president promised “tariffs all the way” unless Europe bought more U.S. oil and gas. European officials have no clear strategy for avoiding a trade war.",
+      "lead_paragraph": "President-elect Donald J. Trump’s threats of tariffs on allies and adversaries alike have unsettled companies and governments across Europe, setting off a scramble for what they fear could be a trans-Atlantic trade war.",
+      "publication_date": "2024-12-20T08:18:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/20/world/europe/europe-trump-tariffs.html",
+      "byline": "By Jim Tankersley, Jenny Gross, Liz Alderman and Melissa Eddy"
+    },
+    {
+      "headline": "How Your Car Might Be Making Roads Safer",
+      "snippet": "Researchers say data from long-haul trucks and General Motors cars is critical for addressing traffic congestion and road safety. Data privacy experts have their concerns.",
+      "abstract": "Researchers say data from long-haul trucks and General Motors cars is critical for addressing traffic congestion and road safety. Data privacy experts have their concerns.",
+      "lead_paragraph": "Darcy Bullock, a civil engineering professor at Purdue University, turns to his computer screen to get information about how fast cars are traveling on Interstate 65, which runs 887 miles from Lake Michigan to the Gulf of Mexico. It’s midafternoon on a Monday, and his screen is mostly filled with green dots indicating that traffic is moving along nicely. But near an exit on the outskirts of Indianapolis, an angry red streak shows that cars have stopped moving.",
+      "publication_date": "2024-12-20T10:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/20/technology/connected-cars-roads-data.html",
+      "byline": "By Kashmir Hill"
+    },
+    {
+      "headline": "They Entered Treatment. Drugs, Overdoses and Deaths Followed.",
+      "snippet": "Baltimore addiction programs draw patients with free housing while collecting millions. Some say one company offered little help.",
+      "abstract": "Baltimore addiction programs draw patients with free housing while collecting millions. Some say one company offered little help.",
+      "lead_paragraph": "Amanda Vlakos had been living for years in rat-infested abandoned buildings in Baltimore, fighting an addiction to opioids, when she learned of a possible escape: a drug-treatment program that offered patients free housing.",
+      "publication_date": "2024-12-20T10:01:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/20/us/baltimore-overdoses-drug-treatment.html",
+      "byline": "By Alissa Zhu, Jessica Gallagher and Meredith Cohn"
+    },
+    {
+      "headline": "Are Amazon’s Drones Finally Ready for Prime Time?",
+      "snippet": "A recent visit to the company’s overhauled drone delivery program in Arizona left me impressed by the drones, but skeptical that the public will welcome them.",
+      "abstract": "A recent visit to the company’s overhauled drone delivery program in Arizona left me impressed by the drones, but skeptical that the public will welcome them.",
+      "lead_paragraph": "Over the past few weeks, concerned New Jersey residents have craned their heads skyward to track the movements of what appeared to be mysterious drones overhead, formulate theories about their origins and strategize about how to get rid of them.",
+      "publication_date": "2024-12-20T10:02:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/20/technology/amazon-prime-air-drone-delivery.html",
+      "byline": "By Kevin Roose and Adriana Zehbrauskas"
+    }
+  ]
+}

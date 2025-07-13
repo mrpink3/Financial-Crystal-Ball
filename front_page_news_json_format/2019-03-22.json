@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2019-03-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Faster Tax Cuts Could Be Backfiring on Republicans",
+      "snippet": "Polling shows those getting smaller refunds are less likely to view the tax overhaul favorably, even if their take-home pay grew.",
+      "abstract": "Polling shows those getting smaller refunds are less likely to view the tax overhaul favorably, even if their take-home pay grew.",
+      "lead_paragraph": "When President Trump signed a large package of tax cuts into law in 2017, the Internal Revenue Service moved to make sure the savings showed up quickly in paychecks. Doing so probably lifted consumer spending last year, but it may have hurt Republicans politically, new polling suggests.",
+      "publication_date": "2019-03-21T16:29:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/21/business/economy/tax-refund-republicans.html",
+      "byline": "By Ben Casselman and Jim Tankersley"
+    },
+    {
+      "headline": "A New Age of Warfare: How Internet Mercenaries Do Battle for Authoritarian Governments",
+      "snippet": "Sophisticated surveillance, once the domain of world powers, is increasingly available on the private market. Smaller countries are seizing on the tools — sometimes for darker purposes.",
+      "abstract": "Sophisticated surveillance, once the domain of world powers, is increasingly available on the private market. Smaller countries are seizing on the tools — sometimes for darker purposes.",
+      "lead_paragraph": "The man in charge of Saudi Arabia’s ruthless campaign to stifle dissent went searching for ways to spy on people he saw as threats to the kingdom. He knew where to go: a secretive Israeli company offering technology developed by former intelligence operatives.",
+      "publication_date": "2019-03-21T17:25:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html",
+      "byline": "By Mark Mazzetti, Adam Goldman, Ronen Bergman and Nicole Perlroth"
+    },
+    {
+      "headline": "In Golan Heights, Trump Bolsters Israel’s Netanyahu but Risks Roiling Middle East",
+      "snippet": "Mr. Trump reversed decades of U.S. policy by declaring that Israel should have sovereignty over the Golan Heights — a move that has never been recognized internationally.",
+      "abstract": "Mr. Trump reversed decades of U.S. policy by declaring that Israel should have sovereignty over the Golan Heights — a move that has never been recognized internationally.",
+      "lead_paragraph": "President Trump declared on Thursday that the United States should recognize Israel’s authority over the long disputed Golan Heights, delivering a valuable election-eve gift to Prime Minister Benjamin Netanyahu but jettisoning decades of American policy in the Middle East.",
+      "publication_date": "2019-03-21T17:25:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/21/us/politics/golan-heights-trump.html",
+      "byline": "By Mark Landler and Edward Wong"
+    },
+    {
+      "headline": "Drug Company Protections Are Latest Stumbling Block for Nafta Rewrite",
+      "snippet": "Democrats say intellectual property provisions in the deal are a boon to the pharmaceutical industry and could undermine their push to make American health care more affordable.",
+      "abstract": "Democrats say intellectual property provisions in the deal are a boon to the pharmaceutical industry and could undermine their push to make American health care more affordable.",
+      "lead_paragraph": "WASHINGTON — President Trump’s ability to get his revised North American Free Trade Agreement through Congress may hinge on a little-noticed provision governing intellectual property protections for new pharmaceutical products.",
+      "publication_date": "2019-03-21T18:59:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/21/us/politics/nafta-drug-prices.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Spreading the Mosque Shooting Video Is a Crime in New Zealand",
+      "snippet": "The charges came as Prime Minister Jacinda Ardern vowed to investigate the role that social media companies played in mosque massacres last week.",
+      "abstract": "The charges came as Prime Minister Jacinda Ardern vowed to investigate the role that social media companies played in mosque massacres last week.",
+      "lead_paragraph": "CHRISTCHURCH, New Zealand — A lone white supremacist is the suspect in the Christchurch mosque killings. But under New Zealand law, many others could face charges for spreading or perhaps even possessing all or part of the 17-minute Facebook Live video streamed by the killer as he methodically shot the victims.",
+      "publication_date": "2019-03-21T21:12:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html",
+      "byline": "By Charlotte Graham-McLay"
+    },
+    {
+      "headline": "Rajat Gupta Is Unrepentant for His Crimes",
+      "snippet": "After a stint in federal prison, the former McKinsey chief and Goldman Sachs director maintains he is innocent — and is trying to repair his reputation.",
+      "abstract": "After a stint in federal prison, the former McKinsey chief and Goldman Sachs director maintains he is innocent — and is trying to repair his reputation.",
+      "lead_paragraph": "Rajat Gupta had been moved to a larger part of the prison when he came face to face with his nemesis, Raj Rajaratnam.",
+      "publication_date": "2019-03-22T07:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/22/business/dealbook/rajat-gupta-unrepentant.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Tesla Sales Slump as ’19 Starts Is Hinted At in State Data",
+      "snippet": "A compilation of state data indicates a big decline for the electric-car maker after a federal tax credit was reduced.",
+      "abstract": "A compilation of state data indicates a big decline for the electric-car maker after a federal tax credit was reduced.",
+      "lead_paragraph": "For weeks, analysts have speculated that Tesla has seen a marked drop in sales since the beginning of the year, and the electric-car maker’s recent gyrations on price cuts and cost-saving initiatives have only bolstered their suspicions.",
+      "publication_date": "2019-03-22T09:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/22/business/tesla-sales.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "The Great American Cardboard Comeback",
+      "snippet": "“No one is shocked when a paper mill closes anymore. The shocking thing is when one reopens.”",
+      "abstract": "“No one is shocked when a paper mill closes anymore. The shocking thing is when one reopens.”",
+      "lead_paragraph": "COMBINED LOCKS, Wis. — As he watched the No. 7 paper machine hiss and hum for what he thought was the last time, Rick Strick felt a lump well in his throat.",
+      "publication_date": "2019-03-22T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/03/22/business/cardboard.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "A College Investor Who Beats the Ivys",
+      "snippet": "Paula Volent started in art conservation. But at Bowdoin, she has become one of the nation’s most successful financial managers of a college endowment.",
+      "abstract": "Paula Volent started in art conservation. But at Bowdoin, she has become one of the nation’s most successful financial managers of a college endowment.",
+      "lead_paragraph": "In 2005, Paula Volent, the head of the Bowdoin College endowment, wanted to move some of the college’s money into a Sequoia Capital venture fund focused on China.",
+      "publication_date": "2019-03-22T10:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/03/22/business/college-investor-who-beats-the-ivys.html",
+      "byline": "By Geraldine Fabrikant"
+    }
+  ]
+}

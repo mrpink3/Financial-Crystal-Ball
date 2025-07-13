@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2018-01-01",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "At Veterans Hospital in Oregon, a Push for Better Ratings Puts Patients at Risk, Doctors Say",
+      "snippet": "At Roseburg Veterans Affairs Medical Center, doctors and nurses said, hospital administrators reject high-risk patients in pursuit of a higher score.",
+      "abstract": "At Roseburg Veterans Affairs Medical Center, doctors and nurses said, hospital administrators reject high-risk patients in pursuit of a higher score.",
+      "lead_paragraph": "ROSEBURG, Ore. — An 81-year-old veteran hobbled into the emergency room at the rural Veterans Affairs hospital here in December, malnourished and dehydrated, his skin flecked with ulcers and his ribs broken from a fall at home.",
+      "publication_date": "2018-01-01T08:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/01/us/at-veterans-hospital-in-oregon-a-push-for-better-ratings-puts-patients-at-risk-doctors-say.html",
+      "byline": "By Dave Philipps"
+    },
+    {
+      "headline": "China’s Ambitious New ‘Port’: Landlocked Kazakhstan",
+      "snippet": "In a wilderness of frozen desert, China and Kazakhstan are reviving a Silk Road land bridge between Asia and Europe, reshaping trade and geopolitics.",
+      "abstract": "In a wilderness of frozen desert, China and Kazakhstan are reviving a Silk Road land bridge between Asia and Europe, reshaping trade and geopolitics.",
+      "lead_paragraph": "KHORGOS, Kazakhstan — China’s largest shipping company has poured billions of dollars into buying seaports in Greece and other maritime nations around the world. But the location of its latest big foreign investment has given a curious twist to the expanding ambitions of the China Ocean Shipping Company: The nearest ocean is more than 1,600 miles away.",
+      "publication_date": "2018-01-01T10:00:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/01/world/asia/china-kazakhstan-silk-road.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Kim Jong-un’s Overture Could Drive a Wedge Between South Korea and the U.S.",
+      "snippet": "North Korea’s surprising call for dialogue with the South may undercut the Trump administration’s tough approach.",
+      "abstract": "North Korea’s surprising call for dialogue with the South may undercut the Trump administration’s tough approach.",
+      "lead_paragraph": "SEOUL, South Korea — Beyond a New Year’s declaration by North Korea’s leader, Kim Jong-un, that he would move to the mass production of nuclear weapons and intercontinental missiles in 2018 lies a canny new strategy to initiate direct talks with South Korea in the hope of driving a wedge into its seven-decade alliance with the United States.",
+      "publication_date": "2018-01-01T10:14:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/01/world/asia/kim-jong-un-offer-talks-south-korea-and-us.html",
+      "byline": "By Choe Sang-Hun and David E. Sanger"
+    }
+  ]
+}

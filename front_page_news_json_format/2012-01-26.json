@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2012-01-26",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "J.C. Penney to Revise Pricing Methods and Limit Promotions",
+      "snippet": "Ron Johnson, the company’s chief executive, said the company would adopt a three-tiered pricing structure and cut down on promotions.",
+      "abstract": "Ron Johnson, the company’s chief executive, said the company would adopt a three-tiered pricing structure and cut down on promotions.",
+      "lead_paragraph": "J. C. Penney’s new leader has a vision for tomorrow’s shopping experience. But the retailer is still stuck with yesterday’s stores.",
+      "publication_date": "2012-01-25T17:49:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/26/business/jc-penneys-chief-ron-johnson-announces-plans-to-revamp-stores.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Fed Signals That a Full Recovery Is Years Away",
+      "snippet": "The Federal Reserve said it was not likely to raise interest rates until the end of 2014, adding 18 months to the expected duration of its response to the slump.",
+      "abstract": "The Federal Reserve said it was not likely to raise interest rates until the end of 2014, adding 18 months to the expected duration of its response to the slump.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve, declaring that the economy would need help for years to come, said Wednesday it would extend by 18 months the period that it plans to hold down interest rates in an effort to spur growth.",
+      "publication_date": "2012-01-25T17:53:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/26/business/economy/fed-to-maintain-rates-near-zero-through-late-2014.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Embracing the Mothers of Invention",
+      "snippet": "Kickstarter is a site where creative people solicit start-up money for various projects. And people actually pledge money to help the projects in return for, maybe, a T-shirt or a CD.",
+      "abstract": "Kickstarter is a site where creative people solicit start-up money for various projects. And people actually pledge money to help the projects in return for, maybe, a T-shirt or a CD.",
+      "lead_paragraph": "I’ll admit it: I’m sometimes smugly entertained by the older generation’s reaction to the fads of the Web. “Facebook? Why on earth would I want other people to know about my private life?” “Twitter? Who’s got the time for that nonsense?”",
+      "publication_date": "2012-01-25T22:53:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/26/technology/personaltech/financing-the-stuff-of-dreams-through-kickstarter-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "In China, Human Costs Are Built Into an iPad",
+      "snippet": "A staggering manufacturing system in China has made it possible for Apple and other companies to make devices almost as quickly as they can be dreamed up, but for workers, it can be dangerous.",
+      "abstract": "A staggering manufacturing system in China has made it possible for Apple and other companies to make devices almost as quickly as they can be dreamed up, but for workers, it can be dangerous.",
+      "lead_paragraph": "The explosion ripped through Building A5 on a Friday evening last May, an eruption of fire and noise that twisted metal pipes as if they were discarded straws. ",
+      "publication_date": "2012-01-26T00:39:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html",
+      "byline": "By Charles Duhigg and David Barboza"
+    },
+    {
+      "headline": "Fewer Cows’ Hides May Bear the Mark of Home",
+      "snippet": "A federal plan to institute an identification system for cattle, one that emphasizes numbered ear tags rather than brands, is entering final revisions.",
+      "abstract": "A federal plan to institute an identification system for cattle, one that emphasizes numbered ear tags rather than brands, is entering final revisions.",
+      "lead_paragraph": "MORGAN HILL, Calif. — In the half-light of a winter evening here, a tawny calf skitters across the pasture after its mother, a Lazy T brand visible on its right hip. The brand, used by the Tilton Ranch since Janet Burback’s parents settled on this land in 1917, appears on the ranchers’ shirts, their trucks and their business cards. ",
+      "publication_date": "2012-01-26T02:01:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/26/us/ear-tagging-proposal-may-mean-fewer-branded-cattle.html",
+      "byline": "By Erica Goode"
+    },
+    {
+      "headline": "Freighter Oversupply Weighs on Shipowners and Banks",
+      "snippet": "Vessels bought during the global commodity boom are only now being delivered, putting pressure on the European banks that financed the purchases.",
+      "abstract": "Vessels bought during the global commodity boom are only now being delivered, putting pressure on the European banks that financed the purchases.",
+      "lead_paragraph": "SINGAPORE — The skyscrapers and immaculate beaches of this seaport look out on one of the world’s largest parking lots: mile after mile of empty cargo ships, as far as the eye can see.",
+      "publication_date": "2012-01-26T02:14:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/26/business/global/the-global-downturn-weighs-on-shipowners-and-european-banks.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "New Housing Task Force Will Zero In on Wall St.",
+      "snippet": "A new federal task force looking into fraud related to the housing crisis will begin by looking at big banks and investment firms on Wall Street.",
+      "abstract": "A new federal task force looking into fraud related to the housing crisis will begin by looking at big banks and investment firms on Wall Street.",
+      "lead_paragraph": "After failing to produce any major prosecutions stemming from the housing crisis, an expanded federal task force is planning a new tack, cracking down on financial firms suspected of improperly bundling home loans into securities for investors, officials said Wednesday.",
+      "publication_date": "2012-01-26T03:15:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/01/26/business/new-housing-task-force-takes-aim-at-wall-st.html",
+      "byline": "By Edward Wyatt and Shaila Dewan"
+    },
+    {
+      "headline": "As Tensions Rise, Egypt Bars Exit of Six Americans",
+      "snippet": "The Obama administration threatened to withhold aid as Egypt confirmed it had kept at least a half-dozen Americans from leaving.",
+      "abstract": "The Obama administration threatened to withhold aid as Egypt confirmed it had kept at least a half-dozen Americans from leaving.",
+      "lead_paragraph": "WASHINGTON — Building tensions between the United States and Egypt flashed into the open Thursday when Cairo confirmed that it had barred at least a half-dozen Americans from leaving the country and the Obama administration threatened explicitly to withhold its annual aid to the Egyptian military. ",
+      "publication_date": "2012-01-26T10:26:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/01/27/world/middleeast/egypt-bars-son-of-ray-lahood-from-leaving.html",
+      "byline": "By Steven Lee Myers and David D. Kirkpatrick"
+    }
+  ]
+}

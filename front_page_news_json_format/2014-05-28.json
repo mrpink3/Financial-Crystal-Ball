@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-05-28",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Court Extends Curbs on the Death Penalty in a Florida Ruling",
+      "snippet": "The Supreme Court said the state was being too rigid when it said anyone with an I.Q. of 71 or over is not eligible to be spared the death penalty on account of intellectual disabilities.",
+      "abstract": "The Supreme Court said the state was being too rigid when it said anyone with an I.Q. of 71 or over is not eligible to be spared the death penalty on account of intellectual disabilities.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Tuesday continued a trend to limit capital punishment, ruling that Florida’s I.Q. score cutoff was too rigid to decide which mentally disabled individuals must be spared the death penalty.",
+      "publication_date": "2014-05-27T16:13:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/05/28/us/court-rules-against-florida-iq-rule-in-death-cases.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Egypt Scrambles to Raise Turnout in Presidential Vote",
+      "snippet": "Fearing damage to the rule of Abdel Fattah el-Sisi, the government took the extraordinary step of extending the voting by an additional day.",
+      "abstract": "Fearing damage to the rule of Abdel Fattah el-Sisi, the government took the extraordinary step of extending the voting by an additional day.",
+      "lead_paragraph": "CAIRO — After Egypt’s revolution three years ago, so many voters eager for democracy turned out for elections that officials had to scramble to accommodate the throngs.",
+      "publication_date": "2014-05-27T16:40:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/05/28/world/egypt-presidential-election.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "New Curbs Sought on the Personal Data Industry",
+      "snippet": "The Federal Trade Commission said consumers should have access to information collected about them, along with the ability to suppress information.",
+      "abstract": "The Federal Trade Commission said consumers should have access to information collected about them, along with the ability to suppress information.",
+      "lead_paragraph": "The Federal Trade Commission on Tuesday called on Congress to protect consumers against the unchecked collection and sharing of their digital data — from websites visited to their marital status — by providing people with tools to view, suppress and fix their information.",
+      "publication_date": "2014-05-27T16:48:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/05/28/technology/ftc-urges-legislation-to-shed-more-light-on-data-collection.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Ukraine Faces Hurdles in Restoring Its Farming Legacy",
+      "snippet": "Once the breadbasket of the Soviet Union, the country is looking to agricultural production to help fix its economy and reduce its dependence on Russia.",
+      "abstract": "Once the breadbasket of the Soviet Union, the country is looking to agricultural production to help fix its economy and reduce its dependence on Russia.",
+      "lead_paragraph": "ZIBOLKY, Ukraine — Like many of her neighbors in this old Soviet collective farm, Maria Onysko prefers to be paid in grain instead of cash for the modest plot of land she rents out.",
+      "publication_date": "2014-05-27T19:15:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/05/28/business/ukraine-faces-hurdles-in-restoring-its-farming-legacy.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Detroit Urged to Tear Down 40,000 Buildings",
+      "snippet": "A task force recommended that the bankrupt city spend nearly $2 billion to stem the spread of blight.",
+      "abstract": "A task force recommended that the bankrupt city spend nearly $2 billion to stem the spread of blight.",
+      "lead_paragraph": "DETROIT — A task force convened by the Obama administration issued the most detailed study yet of blight in Detroit on Tuesday and recommended that the city spend at least $850 million to quickly tear down about 40,000 dilapidated buildings, demolish or restore tens of thousands more, and clear thousands of trash-packed lots. ",
+      "publication_date": "2014-05-27T19:35:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/05/28/us/detroit-task-force-says-blight-cleanup-will-cost-850-million.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "World Bank Revamping Is Rattling Employees",
+      "snippet": "Jim Yong Kim said his goal was to break down regional “silos” and squeeze out inefficiencies, but staff members describe the changes as a nightmare.",
+      "abstract": "Jim Yong Kim said his goal was to break down regional “silos” and squeeze out inefficiencies, but staff members describe the changes as a nightmare.",
+      "lead_paragraph": "WASHINGTON — The World Bank, a famously bureaucratic institution, is undergoing its first restructuring in nearly two decades. The overhaul is intended to keep it relevant at a time when even the poorest countries can easily tap the global capital markets, but with just weeks to go, the process has turned into what several staff members described as a nightmare, stalling their work and sapping morale.",
+      "publication_date": "2014-05-27T23:58:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/05/28/business/international/world-bank-revamping-is-rattling-employees.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Concentrated Markets Take Big Toll on Economy",
+      "snippet": "The excess profits companies can extract from their customers when they face little or no competition — known to economists as “rents” — may be deepening income inequality, experts argue.",
+      "abstract": "The excess profits companies can extract from their customers when they face little or no competition — known to economists as “rents” — may be deepening income inequality, experts argue.",
+      "lead_paragraph": "Nobody believes AT&T’s $48 billion shot at buying DirecTV will be the last attempt by the nation’s communications leviathans to get even bigger. Verizon will inevitably try to bulk up in response to Comcast’s $45 billion grab for Time Warner Cable. Sprint, the No. 3 wireless carrier, is lusting for No. 4 T-Mobile.",
+      "publication_date": "2014-05-28T00:47:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/05/28/business/economy/concentrated-markets-take-big-toll-on-economy.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Home Prices Start Easing, to the Relief of Experts",
+      "snippet": "Double-digit increases cannot go on forever, and many economists are using words like “sustainable” and “stable” to describe the slowdown, saying the market is becoming healthier.",
+      "abstract": "Double-digit increases cannot go on forever, and many economists are using words like “sustainable” and “stable” to describe the slowdown, saying the market is becoming healthier.",
+      "lead_paragraph": "A steep gain in home prices in many markets that helped lift millions of Americans out of the red on their mortgages is now markedly slowing, with new data from the Standard & Poor’s/Case-Shiller national home price index on Tuesday showing that the annual growth in prices had eased in March to 10.3 percent, from the previous year’s increase of 11.4 percent.",
+      "publication_date": "2014-05-28T00:58:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/05/28/business/economy/home-prices-start-easing-to-the-relief-of-experts.html",
+      "byline": "By Shaila Dewan"
+    },
+    {
+      "headline": "Google’s Next Phase in Driverless Cars: No Steering Wheel or Brake Pedals",
+      "snippet": "Google has begun building a fleet of 100 experimental electric-powered vehicles that will dispense with all the standard controls found in modern automobiles and take the driver out of driving.",
+      "abstract": "Google has begun building a fleet of 100 experimental electric-powered vehicles that will dispense with all the standard controls found in modern automobiles and take the driver out of driving.",
+      "lead_paragraph": "MOUNTAIN VIEW, Calif. — Humans might be the one problem Google can’t solve.",
+      "publication_date": "2014-05-28T02:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/05/28/technology/googles-next-phase-in-driverless-cars-no-brakes-or-steering-wheel.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Obama Warns U.S. Faces Diffuse Terrorism Threats",
+      "snippet": "President Obama said the United States could play a vital role in world affairs without resorting to unilateral force or retreating to isolationism.",
+      "abstract": "President Obama said the United States could play a vital role in world affairs without resorting to unilateral force or retreating to isolationism.",
+      "lead_paragraph": "WEST POINT, N.Y. — President Obama tried once more to articulate his vision of the American role in the world on Wednesday, telling graduating cadets here that the nation they were being called to serve would seek to avoid military misadventures abroad, even as it confronts a new set of terrorist threats from the Middle East to Africa.",
+      "publication_date": "2014-05-28T11:09:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/05/29/us/politics/obama-foreign-policy-west-point-speech.html",
+      "byline": "By Mark Landler"
+    }
+  ]
+}

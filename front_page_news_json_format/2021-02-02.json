@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-02-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Missing in School Reopening Plans: Black Families’ Trust",
+      "snippet": "Deep-seated mistrust among Black families toward their public school districts is holding back school reopening, even as Black children suffer inordinately from remote learning.",
+      "abstract": "Deep-seated mistrust among Black families toward their public school districts is holding back school reopening, even as Black children suffer inordinately from remote learning.",
+      "lead_paragraph": "For Farah Despeignes, the choice of whether to send her children back to New York City classrooms as the coronavirus pandemic raged on last fall was no choice at all.",
+      "publication_date": "2021-02-01T16:53:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/01/us/politics/school-reopening-black-families.html",
+      "byline": "By Eliza Shapiro, Erica L. Green and Juliana Kim"
+    },
+    {
+      "headline": "Democracy Hero? Military Foil? Myanmar’s Leader Ends Up as Neither",
+      "snippet": "The army’s detention of Daw Aung San Suu Kyi brought an abrupt end to the theory that she might strike a workable balance between civilian and military power.",
+      "abstract": "The army’s detention of Daw Aung San Suu Kyi brought an abrupt end to the theory that she might strike a workable balance between civilian and military power.",
+      "lead_paragraph": "In the years Myanmar was cowed by a military junta, people would tuck away secret photos of Daw Aung San Suu Kyi, talismans of the heroine of democracy who would save her country from a fearsome army even though she was under house arrest.",
+      "publication_date": "2021-02-01T19:07:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/01/world/asia/myanmar-coup-aung-san-suu-kyi.html",
+      "byline": "By Hannah Beech"
+    },
+    {
+      "headline": "What Is GameStop, the Company, Really Worth? Does It Matter?",
+      "snippet": "The frenzy for the troubled retailer’s stock has been a head-scratcher for the analysts who try to determine a company’s value.",
+      "abstract": "The frenzy for the troubled retailer’s stock has been a head-scratcher for the analysts who try to determine a company’s value.",
+      "lead_paragraph": "For many years, it didn’t matter that GameStop’s stores were a little grungy.",
+      "publication_date": "2021-02-01T20:32:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/01/business/gamestop-how-much-worth.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Republicans Pitch Biden on Smaller Aid Plan as Democrats Prepare to Act Alone",
+      "snippet": "The president met at the White House with Republican senators seeking a much smaller stimulus plan, but congressional Democrats pressed forward to force through his $1.9 trillion measure, if necessary.",
+      "abstract": "The president met at the White House with Republican senators seeking a much smaller stimulus plan, but congressional Democrats pressed forward to force through his $1.9 trillion measure, if necessary.",
+      "lead_paragraph": "WASHINGTON — A coalition of 10 Republican senators took a stimulus counterproposal to the White House on Monday evening, urging President Biden to scale back his ambitions for a sweeping $1.9 trillion pandemic aid package in favor of a plan less than one-third the size that they argued could garner the bipartisan consensus the new president has said he is seeking.",
+      "publication_date": "2021-02-01T22:58:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/01/us/politics/republicans-biden-coronavirus-stimulus.html",
+      "byline": "By Luke Broadwater and Jim Tankersley"
+    },
+    {
+      "headline": "Robinhood, Under the Gun, Raises $2.4 Billion",
+      "snippet": "The high volume of trading by its customers, many of them egged on by social media, has put a strain on the company’s balance sheet.",
+      "abstract": "The high volume of trading by its customers, many of them egged on by social media, has put a strain on the company’s balance sheet.",
+      "lead_paragraph": "Robinhood, the trading app at the center of a frenzy over GameStop and other stocks, raised $2.4 billion from its investors over the weekend, adding to the $1 billion cash infusion it took last week as it tries to steady its finances.",
+      "publication_date": "2021-02-01T23:51:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/01/business/robinhood-gamestop-trading.html",
+      "byline": "By Nathaniel Popper, Michael J. de la Merced and David McCabe"
+    },
+    {
+      "headline": "Why Are There So Few Black Economists at the Fed?",
+      "snippet": "Monroe Gamble became the San Francisco Fed’s first Black research assistant in 2018. His path shows why fixing a striking diversity shortfall will take commitment.",
+      "abstract": "Monroe Gamble became the San Francisco Fed’s first Black research assistant in 2018. His path shows why fixing a striking diversity shortfall will take commitment.",
+      "lead_paragraph": "WASHINGTON — J. Monroe Gamble IV was the first Black research assistant to work at the Federal Reserve Bank of San Francisco. He started in 2018.",
+      "publication_date": "2021-02-02T10:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/02/business/economy/federal-reserve-diversity.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "‘Don’t Kill Me’: Others Tell of Abuse by Officer Who Knelt on George Floyd",
+      "snippet": "New firsthand accounts accuse Derek Chauvin, the police officer who pressed his knee into George Floyd’s neck in Minneapolis, of using similar tactics on detainees over the years.",
+      "abstract": "New firsthand accounts accuse Derek Chauvin, the police officer who pressed his knee into George Floyd’s neck in Minneapolis, of using similar tactics on detainees over the years.",
+      "lead_paragraph": "Nearly three years before the Minneapolis police officer Derek Chauvin knelt on George Floyd as he cried out that he couldn’t breathe last May, Zoya Code found herself in a similar position: handcuffed facedown on the ground, with Mr. Chauvin’s knee on her.",
+      "publication_date": "2021-02-02T10:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/02/us/derek-chauvin-george-floyd-past-cases.html",
+      "byline": "By Jamiles Lartey and Abbie VanSickle"
+    },
+    {
+      "headline": "How the Biden Administration Can Help Solve Our Reality Crisis",
+      "snippet": "These steps, experts say, could prod more people to abandon the scourge of hoaxes and lies.",
+      "abstract": "These steps, experts say, could prod more people to abandon the scourge of hoaxes and lies.",
+      "lead_paragraph": "Last month, millions of Americans watched as President Biden took the oath of office and, in a high-minded Inaugural Address, called for a new era of American unity.",
+      "publication_date": "2021-02-02T10:00:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/02/technology/biden-reality-crisis-misinformation.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Anyone Can Manipulate the Market. Here’s How to Fix That.",
+      "snippet": "Six ideas for making the markets more fair and trustworthy.",
+      "abstract": "Six ideas for making the markets more fair and trustworthy.",
+      "lead_paragraph": "There will be academic case studies on the mania around GameStop’s stock. There will be philosophical debates about whether this was a genuine protest against hedge funds and inequality or a pump-and-dump scheme masquerading as a moral crusade. Eventually, we will learn whether this was a transformational moment powered by social media that will shift the investing landscape forever, or a short-term blip that soon fades away.",
+      "publication_date": "2021-02-02T11:52:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/02/02/business/dealbook/gamestop-markets-trust.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Russian Activist Navalny Sentenced to More Than 2 Years in Prison",
+      "snippet": "A Moscow court found that President Vladimir Putin’s loudest critic violated his parole. “You cannot lock up the whole country,” Aleksei A. Navalny told the court after large protests in support of him recently.",
+      "abstract": "A Moscow court found that President Vladimir Putin’s loudest critic violated his parole. “You cannot lock up the whole country,” Aleksei A. Navalny told the court after large protests in support of him recently.",
+      "lead_paragraph": "MOSCOW — A Russian court sentenced Aleksei A. Navalny, Russia’s most prominent opposition leader, to more than two years in prison on Tuesday, a decision likely to send him for a lengthy term in a far-flung penal colony for the first time.",
+      "publication_date": "2021-02-02T14:07:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/02/02/world/europe/russia-navalny-putin.html",
+      "byline": "By Anton Troianovski"
+    }
+  ]
+}

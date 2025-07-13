@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-07-06",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "The euro hits a 20-year low and U.S. bonds flash a warning sign as economic fears mount.",
+      "snippet": "Oil prices tumbled and other markets around the world reflected renewed recession worries.",
+      "abstract": "Oil prices tumbled and other markets around the world reflected renewed recession worries.",
+      "lead_paragraph": "The euro fell to a 20-year low against the U.S. dollar on Tuesday, as fears about the European economy weighed heavily on the currency. It was one of several signs of renewed economic worries around the world, which were also reflected in stocks wobbling, bonds flashing warning signals and oil prices falling sharply.",
+      "publication_date": "2022-07-05T16:11:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/05/business/euro-dollar-inflation-markets.html",
+      "byline": "By Isabella Simonetti"
+    },
+    {
+      "headline": "7 Trump Allies Subpoenaed in Georgia Criminal Investigation",
+      "snippet": "Rudy Giuliani, Lindsey Graham, John Eastman and several others in the former president’s orbit were subpoenaed in the election meddling inquiry.",
+      "abstract": "Rudy Giuliani, Lindsey Graham, John Eastman and several others in the former president’s orbit were subpoenaed in the election meddling inquiry.",
+      "lead_paragraph": "Seven advisers and allies of Donald J. Trump, including Rudolph W. Giuliani and Senator Lindsey Graham, were subpoenaed on Tuesday in the ongoing criminal investigation in Georgia of election interference by Mr. Trump and his associates. The move was the latest sign that the inquiry has entangled a number of prominent members of Mr. Trump’s orbit, and may cloud the future for the former president.",
+      "publication_date": "2022-07-05T19:50:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/05/us/giuliani-subpoena-trump-election-georgia.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "As Russia Moves on Another Province, Ukrainians Leave Ghost Towns Behind",
+      "snippet": "Vast stretches of eastern Ukraine are now largely devoid of people and industry. If Ukraine is ever to have a vibrant postwar future, it is unlikely to sprout from these ruins.",
+      "abstract": "Vast stretches of eastern Ukraine are now largely devoid of people and industry. If Ukraine is ever to have a vibrant postwar future, it is unlikely to sprout from these ruins.",
+      "lead_paragraph": "BAKHMUT, Ukraine — Nina Zakharenko cried when she boarded a minibus evacuating civilians as the Russian Army advanced toward the town where she went to college, met her husband and raised two daughters.",
+      "publication_date": "2022-07-05T19:59:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/05/world/europe/ukraine-war-donbas.html",
+      "byline": "By Andrew E. Kramer, Maria Varenikova and The New York Times"
+    },
+    {
+      "headline": "Next Front Line in the Abortion Wars: State Supreme Courts",
+      "snippet": "Court challenges to sweeping rollbacks of abortion rights must go through state supreme courts, many of which have been shaped by years of conservative activism.",
+      "abstract": "Court challenges to sweeping rollbacks of abortion rights must go through state supreme courts, many of which have been shaped by years of conservative activism.",
+      "lead_paragraph": "WASHINGTON — Fresh from the political thicket of the United States Supreme Court, the struggle over abortion is now moving to venues that are poised to become the next front line in the country’s partisan warfare: state supreme courts.",
+      "publication_date": "2022-07-06T07:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/06/us/abortion-state-supreme-courts.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "Disinformation Has Become Another Untouchable Problem in Washington",
+      "snippet": "Numerous federal agencies agree that widely promoted falsehoods threaten the nation’s security. Doing something about them is another matter.",
+      "abstract": "Numerous federal agencies agree that widely promoted falsehoods threaten the nation’s security. Doing something about them is another matter.",
+      "lead_paragraph": "WASHINGTON — The memo that reached the top of the Department of Homeland Security in September could not have been clearer about its plan to create a board to monitor national security threats caused by the spread of dangerous disinformation.",
+      "publication_date": "2022-07-06T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/06/business/disinformation-board-dc.html",
+      "byline": "By Steven Lee Myers and Eileen Sullivan"
+    },
+    {
+      "headline": "China Offers Women Perks for Having Babies. Single Moms Don’t Qualify.",
+      "snippet": "Beijing is giving incentives to stem a demographic crisis, but its control over childbirth and its suppression of women’s rights are making it difficult for some aspiring parents to start a family.",
+      "abstract": "Beijing is giving incentives to stem a demographic crisis, but its control over childbirth and its suppression of women’s rights are making it difficult for some aspiring parents to start a family.",
+      "lead_paragraph": "When Chan Zhang heard about the U.S. Supreme Court’s decision to overturn Roe v. Wade, she was baffled that Americans were still arguing over abortion rights.",
+      "publication_date": "2022-07-06T09:00:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/06/business/economy/china-reproductive-rights-women.html",
+      "byline": "By Alexandra Stevenson"
+    }
+  ]
+}

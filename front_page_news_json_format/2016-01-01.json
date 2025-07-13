@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2016-01-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Justice in Taxes, Most Likely Short-Lived",
+      "snippet": "The average tax rate for America’s top 400 income earners rose in 2013, but tax analysts said the tax structure still overwhelmingly favors the very well-off.",
+      "abstract": "The average tax rate for America’s top 400 income earners rose in 2013, but tax analysts said the tax structure still overwhelmingly favors the very well-off.",
+      "lead_paragraph": "WASHINGTON — Is the party over for America’s super-rich?",
+      "publication_date": "2016-01-01T00:45:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/01/business/economy/justice-in-taxes-most-likely-short-lived.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Experts Foresee Obstacles for Both Sides in Bill Cosby Case",
+      "snippet": "Legal experts said the road to conviction was filled with significant hurdles, including a lack of forensic evidence related to the decade-old allegation by the woman at the center of the case.",
+      "abstract": "Legal experts said the road to conviction was filled with significant hurdles, including a lack of forensic evidence related to the decade-old allegation by the woman at the center of the case.",
+      "lead_paragraph": "For years, as Bill Cosby and his lawyers aggressively rebutted accusations that he was a sexual predator, his defenders could point to one incontrovertible fact: He had never been charged with a crime.",
+      "publication_date": "2016-01-01T01:58:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/01/us/experts-foresee-obstacles-for-both-sides-in-bill-cosby-case.html",
+      "byline": "By Graham Bowley and Sydney Ember"
+    },
+    {
+      "headline": "China’s Homeless Find Shelter Under McDonald’s Golden Arches",
+      "snippet": "In major cities across East Asia, downtrodden people with no better place to sleep have made 24-hour McDonald’s restaurants their overnight home.",
+      "abstract": "In major cities across East Asia, downtrodden people with no better place to sleep have made 24-hour McDonald’s restaurants their overnight home.",
+      "lead_paragraph": "BEIJING — He woke to the cry of the morning janitor. “Put your shoes on!” she said. “Put your shoes on!” She rattled a chair. “This isn’t your house! Sit up!”",
+      "publication_date": "2016-01-01T04:42:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/02/world/asia/chinas-homeless-find-shelter-under-mcdonalds-golden-arches.html",
+      "byline": "By Javier C. Hernández"
+    },
+    {
+      "headline": "U.S. Doesn’t Know How Many Foreign Visitors Overstay Visas",
+      "snippet": "After two decades of failed attempts to track such visitors, some officials call the visa program a critical national security weakness.",
+      "abstract": "After two decades of failed attempts to track such visitors, some officials call the visa program a critical national security weakness.",
+      "lead_paragraph": "WASHINGTON — The question from the congressman to the Obama administration official was straightforward enough: How many foreign visitors overstay their visas every year?",
+      "publication_date": "2016-01-01T14:38:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/02/us/politics/us-doesnt-know-how-many-foreign-visitors-overstay-visas.html",
+      "byline": "By Ron Nixon"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2021-06-10",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Pipeline Investigation Upends Idea That Bitcoin Is Untraceable",
+      "snippet": "The F.B.I.’s recovery of Bitcoins paid in the Colonial Pipeline ransomware attack showed cryptocurrencies are not as hard to track as it might seem.",
+      "abstract": "The F.B.I.’s recovery of Bitcoins paid in the Colonial Pipeline ransomware attack showed cryptocurrencies are not as hard to track as it might seem.",
+      "lead_paragraph": "When Bitcoin burst onto the scene in 2009, fans heralded the cryptocurrency as a secure, decentralized and anonymous way to conduct transactions outside the traditional financial system.",
+      "publication_date": "2021-06-09T19:54:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/09/technology/bitcoin-untraceable-pipeline-ransomware.html",
+      "byline": "By Nicole Perlroth, Erin Griffith and Katie Benner"
+    },
+    {
+      "headline": "With a Ban on Navalny’s Group, Putin Sends Clear Message to Biden",
+      "snippet": "The move, just a week before their summit, will likely push the Russian opposition further underground and was a signal that the country’s domestic affairs are not up for discussion.",
+      "abstract": "The move, just a week before their summit, will likely push the Russian opposition further underground and was a signal that the country’s domestic affairs are not up for discussion.",
+      "lead_paragraph": "MOSCOW — A Russian court on Wednesday designated Aleksei A. Navalny’s political movement as an extremist network, a remarkable move that sent a message to President Biden ahead of his meeting next week with President Vladimir V. Putin: Russian domestic affairs are not up for discussion.",
+      "publication_date": "2021-06-09T19:56:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/09/world/europe/navalny-ban-putin-biden-summit.html",
+      "byline": "By Andrew E. Kramer and Anton Troianovski"
+    },
+    {
+      "headline": "Biden Revokes and Replaces Trump Order That Banned TikTok",
+      "snippet": "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data.",
+      "abstract": "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data.",
+      "lead_paragraph": "WASHINGTON — President Biden on Wednesday revoked a Trump-era executive order that sought to ban the popular apps TikTok and WeChat and replaced it with one that calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data.",
+      "publication_date": "2021-06-09T21:46:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html",
+      "byline": "By Katie Rogers and Cecilia Kang"
+    },
+    {
+      "headline": "Despite Ample Shots and Incentives, Vaccine Rates Lag Far Behind in the South",
+      "snippet": "Alabama, Louisiana and Mississippi have the lowest vaccination rates in the country, increasing the risk of virus surges there.",
+      "abstract": "Alabama, Louisiana and Mississippi have the lowest vaccination rates in the country, increasing the risk of virus surges there.",
+      "lead_paragraph": "NASHVILLE — Public health departments have held vaccine clinics at churches. They have organized rides to clinics. Gone door to door. Even offered a spin around a NASCAR track for anyone willing to get a shot.",
+      "publication_date": "2021-06-09T22:42:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/09/us/virus-vaccine-south.html",
+      "byline": "By Rick Rojas and Mitch Smith"
+    },
+    {
+      "headline": "CNN Lawyers Gagged in Fight With Justice Dept. Over Reporter’s Email Data",
+      "snippet": "The disclosure of the aggressive leak investigation tactic followed a similar revelation involving The New York Times.",
+      "abstract": "The disclosure of the aggressive leak investigation tactic followed a similar revelation involving The New York Times.",
+      "lead_paragraph": "WASHINGTON — CNN secretly fought an attempt by the Justice Department to seize tens of thousands of email logs of one of its reporters, the network disclosed on Wednesday, adding that the government imposed a gag order on CNN’s lawyers and its president, Jeff Zucker, as part of the legal battle.",
+      "publication_date": "2021-06-09T23:19:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/09/us/politics/cnn-reporter-emails-justice-department.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "U.S. Weighs Possibility of Airstrikes if Afghan Forces Face Crisis",
+      "snippet": "The Pentagon is considering whether to intervene with warplanes or drones in the event that Kabul is in danger of falling to the Taliban, though no decisions have been made.",
+      "abstract": "The Pentagon is considering whether to intervene with warplanes or drones in the event that Kabul is in danger of falling to the Taliban, though no decisions have been made.",
+      "lead_paragraph": "WASHINGTON — The Pentagon is considering seeking authorization to carry out airstrikes to support Afghan security forces if Kabul or another major city is in danger of falling to the Taliban, potentially introducing flexibility into President Biden’s plan to end the United States military presence in the conflict, senior officials said.",
+      "publication_date": "2021-06-09T23:21:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/09/us/politics/afghanistan-airstrikes-us-troop-withdrawal.html",
+      "byline": "By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "Biden to Send 500 Million Doses of Pfizer Vaccine to 100 Countries Over a Year",
+      "snippet": "The White House’s move is part of a nascent campaign to inoculate the world, and came as President Biden faced intense pressure to do more.",
+      "abstract": "The White House’s move is part of a nascent campaign to inoculate the world, and came as President Biden faced intense pressure to do more.",
+      "lead_paragraph": "WASHINGTON — President Biden, under pressure to aggressively address the global coronavirus vaccine shortage, will announce as early as Thursday that his administration will buy 500 million doses of the Pfizer-BioNTech vaccine and donate them among about 100 countries over the next year, according to people familiar with the plan.",
+      "publication_date": "2021-06-09T23:22:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/09/us/politics/biden-pfizer-vaccine-doses.html",
+      "byline": "By Sharon LaFraniere, Sheryl Gay Stolberg and Noah Weiland"
+    },
+    {
+      "headline": "Prices Jumped 5% in May From Year Earlier, Stoking Debate in Washington",
+      "snippet": "The Consumer Price Index showed the strongest year-over-year reading since 2008, and a core index popped the most since 1992.",
+      "abstract": "The Consumer Price Index showed the strongest year-over-year reading since 2008, and a core index popped the most since 1992.",
+      "lead_paragraph": "Consumer prices rose in May at the fastest rate since 2008, a bigger jump than economists had expected and one that is sure to keep inflation at the center of political and economic debate in Washington.",
+      "publication_date": "2021-06-10T08:59:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/10/business/consumer-price-index-may-2021.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "As Military Addresses Diversity, Republicans See Culture War Target",
+      "snippet": "The Pentagon’s leadership is taking steps to promote inclusion in the military, prompting a political backlash.",
+      "abstract": "The Pentagon’s leadership is taking steps to promote inclusion in the military, prompting a political backlash.",
+      "lead_paragraph": "WASHINGTON — At Fort Bragg, one of the nation’s largest military installations, plans are afoot for its first commemoration of Juneteenth, highlighting the role of the Union Army in emancipation.",
+      "publication_date": "2021-06-10T09:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/10/us/politics/military-diversity.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "Google Seeks to Break Vicious Cycle of Online Slander",
+      "snippet": "In response to Times articles, the search giant is changing its algorithm, part of a major shift in how Google polices harmful content.",
+      "abstract": "In response to Times articles, the search giant is changing its algorithm, part of a major shift in how Google polices harmful content.",
+      "lead_paragraph": "For many years, the vicious cycle has spun: Websites solicit lurid, unverified complaints about supposed cheaters, sexual predators, deadbeats and scammers. People slander their enemies. The anonymous posts appear high in Google results for the names of victims. Then the websites charge the victims thousands of dollars to take the posts down.",
+      "publication_date": "2021-06-10T09:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/10/technology/google-algorithm-known-victims.html",
+      "byline": "By Kashmir Hill and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "‘She Died Working for Us’: Sons of Atlanta Victim Struggle to Move Forward",
+      "snippet": "Randy and Eric Park’s mother was among eight people killed in the spa shootings. They have been largely left to navigate the world by themselves.",
+      "abstract": "Randy and Eric Park’s mother was among eight people killed in the spa shootings. They have been largely left to navigate the world by themselves.",
+      "lead_paragraph": "DULUTH, Ga. — It was already 1 p.m. when Randy Park tumbled out of bed one miserable March day. It had been another long night of TV and video games to distract himself from the emptiness swirling through the townhouse where his mother had once cooked meals between her shifts at a spa. He padded down the hallway, past her vacant bedroom, and nudged his younger brother, Eric, awake.",
+      "publication_date": "2021-06-10T09:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/10/us/atlanta-shooting-victims.html",
+      "byline": "By Juliana Kim"
+    },
+    {
+      "headline": "Starbucks, Flush With Customers, Is Running Low on Ingredients",
+      "snippet": "At locations across the country, there have been complaints about shortages of key ingredients for popular drinks, breakfast foods and even cups, lids and straws.",
+      "abstract": "At locations across the country, there have been complaints about shortages of key ingredients for popular drinks, breakfast foods and even cups, lids and straws.",
+      "lead_paragraph": "Tasha Leverette was in the mood for her favorite drink from Starbucks, an iced peach green-tea lemonade.",
+      "publication_date": "2021-06-10T13:34:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/10/business/starbucks-shortages.html",
+      "byline": "By Julie Creswell"
+    }
+  ]
+}

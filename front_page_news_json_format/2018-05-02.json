@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2018-05-02",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Europe Is Annoyed, Not Grateful, After Trump Delays Tariffs",
+      "snippet": "European officials expressed disappointment that an exemption to steel and aluminum tariffs was not permanent, leaving the global economy in limbo.",
+      "abstract": "European officials expressed disappointment that an exemption to steel and aluminum tariffs was not permanent, leaving the global economy in limbo.",
+      "lead_paragraph": "FRANKFURT — American allies did not bother to conceal their annoyance Tuesday with the Trump administration’s last-minute decision to delay punitive aluminum and steel tariffs by a month, in their view leaving a sword of Damocles hanging over the global economy.",
+      "publication_date": "2018-05-01T16:28:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/01/business/trade-tariffs-trump-europe.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Lessons From Rust-Belt Cities That Kept Their Sheen",
+      "snippet": "A look at industrial centers of the North and the East over decades of decline finds that investments, geography and sheer serendipity make a difference.",
+      "abstract": "A look at industrial centers of the North and the East over decades of decline finds that investments, geography and sheer serendipity make a difference.",
+      "lead_paragraph": "St. Cloud, Minn., might look at first blush like one of America’s all-too-familiar ailing industrial cities, struggling to hang on to jobs as its companies skip town.",
+      "publication_date": "2018-05-01T18:20:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/01/business/economy/rust-belt-cities.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Britain’s Wedding-Mad Tabloids Feel a Cold Royal Shoulder",
+      "snippet": "The wedding of Prince Harry and Meghan Markle may be the event of the year for the popular press, but only one reporter will be present for the ceremony.",
+      "abstract": "The wedding of Prince Harry and Meghan Markle may be the event of the year for the popular press, but only one reporter will be present for the ceremony.",
+      "lead_paragraph": "LONDON — Arthur Edwards, a photographer for The Sun, has spent four decades tagging along after members of Britain’s royal family. He sprinkles his conversations with recollections of kindnesses bestowed on him over the years: a jocular telegram from Prince Charles in 1981, a thoughtful phone call to his granddaughter from Princess Eugenie in 2013.",
+      "publication_date": "2018-05-01T19:15:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/01/world/europe/uk-royal-wedding-tabloids.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Snap to Tweak Snapchat’s Redesign After Users Complain",
+      "snippet": "Snapchat’s parent company said it would redesign parts of the app’s recent redesign after the overhaul dragged down its business.",
+      "abstract": "Snapchat’s parent company said it would redesign parts of the app’s recent redesign after the overhaul dragged down its business.",
+      "lead_paragraph": "SAN FRANCISCO — When Snapchat’s app was redesigned late last year, a viral rage gripped its passionate and young users.",
+      "publication_date": "2018-05-01T22:40:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/01/technology/snapchat-redesign-snap-earnings.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Why Answering Mueller’s Questions Could Be a Minefield for Trump",
+      "snippet": "President Trump’s lawyers have been trying to talk him out of agreeing to be interviewed by the special counsel. A list of questions shows why, legal experts said.",
+      "abstract": "President Trump’s lawyers have been trying to talk him out of agreeing to be interviewed by the special counsel. A list of questions shows why, legal experts said.",
+      "lead_paragraph": "WASHINGTON — President Trump has insisted he is eager to make the case to the special counsel, Robert S. Mueller III, that he has done nothing wrong. But the questions that Mr. Mueller wants to ask show why the president’s lawyers have countered that an interview would be a minefield for Mr. Trump.",
+      "publication_date": "2018-05-02T00:15:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/01/us/politics/trump-mueller-interview-questions.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "A Lobbyist Helped Scott Pruitt Plan a Morocco Trip. Then Morocco Hired the Lobbyist.",
+      "snippet": "The head of the E.P.A. allowed a lobbyist friend to play an unusually influential role in setting his agenda during a visit in December.",
+      "abstract": "The head of the E.P.A. allowed a lobbyist friend to play an unusually influential role in setting his agenda during a visit in December.",
+      "lead_paragraph": "WASHINGTON — Scott Pruitt, the head of the Environmental Protection Agency, allowed a lobbyist friend to play an unusually influential role in setting his agenda during a visit in December to Morocco, according to internal communications related to the scheduling of meetings reviewed by The New York Times.",
+      "publication_date": "2018-05-02T00:56:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/01/us/pruitt-epa-trips-lobbyists.html",
+      "byline": "By Eric Lipton, Lisa Friedman and Kenneth P. Vogel"
+    },
+    {
+      "headline": "Israel’s Claims on Iran Divide Europe and U.S. on Merits of Nuclear Deal",
+      "snippet": "The starkly divergent reactions suggested how the debate over the Iran deal was likely to play out should President Trump decide to reimpose sanctions on Tehran.",
+      "abstract": "The starkly divergent reactions suggested how the debate over the Iran deal was likely to play out should President Trump decide to reimpose sanctions on Tehran.",
+      "lead_paragraph": "WASHINGTON — The Trump administration on Tuesday embraced Israel’s claims that Iran entered a nuclear deal with the world’s major powers under false pretenses, a stark divergence from its European allies, who said the disclosures broke little new ground and reinforced, rather than weakened, the case for the 2015 deal.",
+      "publication_date": "2018-05-02T01:21:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/01/us/politics/israel-iran-deal-united-states.html",
+      "byline": "By Mark Landler, David M. Halbfinger and David E. Sanger"
+    },
+    {
+      "headline": "Teacher Pay Is So Low in Some U.S. School Districts That They’re Recruiting Overseas",
+      "snippet": "Citing a dearth of qualified local candidates, schools are increasingly turning to foreign educators in the Philippines to fill core teaching jobs.",
+      "abstract": "Citing a dearth of qualified local candidates, schools are increasingly turning to foreign educators in the Philippines to fill core teaching jobs.",
+      "lead_paragraph": "GLENDALE, Ariz. — The latest wave of foreign workers sweeping into American jobs brought Donato Soberano from the Philippines to Arizona two years ago. He had to pay thousands of dollars to a job broker and lived for a time in an apartment with five other Filipino workers. The lure is the pay — 10 times more than what he made doing the same work back home.",
+      "publication_date": "2018-05-02T09:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/02/us/arizona-teachers-philippines.html",
+      "byline": "By Dana Goldstein"
+    },
+    {
+      "headline": "Tech Giants Feel the Squeeze as Xi Jinping Tightens His Grip",
+      "snippet": "The government in China, long suspicious of internet companies, now sees ambitious titans like Tencent and Alibaba as useful partners.",
+      "abstract": "The government in China, long suspicious of internet companies, now sees ambitious titans like Tencent and Alibaba as useful partners.",
+      "lead_paragraph": "BEIJING — For the last decade or so, China has defied the truism that only free and open societies can innovate. Even as the Communist Party has kept an iron grip on politics and discourse, the country’s technology industry has grown to rival Silicon Valley’s in sophistication and ambition.",
+      "publication_date": "2018-05-02T09:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/02/technology/china-xi-jinping-technology-innovation.html",
+      "byline": "By Raymond Zhong and Paul Mozur"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-05-24",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "McCarthy, Bracing for Defections, Eyes a Fraught Path to a Debt Limit Deal",
+      "snippet": "With right-wing Republicans all but certain to oppose any bipartisan compromise, the speaker has a narrow path to push one through the closely divided House.",
+      "abstract": "With right-wing Republicans all but certain to oppose any bipartisan compromise, the speaker has a narrow path to push one through the closely divided House.",
+      "lead_paragraph": "Speaker Kevin McCarthy is attempting a difficult balancing act as he tries to extract spending concessions from President Biden in exchange for raising the debt ceiling: cobbling together a deal that can win the votes of a majority of Republicans without alienating the critical mass of Democrats he would need to push it through the House.",
+      "publication_date": "2023-05-23T23:09:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/23/us/politics/mccarthy-democrats-republicans-debt-limit-deal.html",
+      "byline": "By Catie Edmondson and Luke Broadwater"
+    },
+    {
+      "headline": "DeSantis Allies’ $200 Million Plan for Beating Trump",
+      "snippet": "As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.",
+      "abstract": "As the Florida governor prepares to enter the 2024 race, his allies are building an army of organizers to flood the states with the first nominating contests.",
+      "lead_paragraph": "A key political group supporting Ron DeSantis’s presidential run is preparing a $100 million voter-outreach push so big it plans to knock on the door of every possible DeSantis voter at least four times in New Hampshire, Nevada and South Carolina — and five times in the kickoff Iowa caucuses.",
+      "publication_date": "2023-05-24T07:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/24/us/politics/ron-desantis-2024-super-pac.html",
+      "byline": "By Shane Goldmacher, Jonathan Swan and Maggie Haberman"
+    },
+    {
+      "headline": "Default on U.S. Debt Risks ‘Permanently’ Denting Nation’s Credit Rating",
+      "snippet": "If the government misses an interest payment, even by a few hours, its creditworthiness will suffer, possibly for a long time.",
+      "abstract": "If the government misses an interest payment, even by a few hours, its creditworthiness will suffer, possibly for a long time.",
+      "lead_paragraph": "If the U.S. government defaults on its debt even for just a few hours next week, it could have long-lasting consequences for the nation’s future. Three major ratings companies — S&P Global Ratings, Moody’s and Fitch Ratings — play a big role in how damaging those consequences can be.",
+      "publication_date": "2023-05-24T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/24/business/debt-default-credit-ratings.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Cultural Crackdown in China Shuts Comedy and Music Shows",
+      "snippet": "Performances across the country were canceled last week after Beijing began investigating a stand-up comedian.",
+      "abstract": "Performances across the country were canceled last week after Beijing began investigating a stand-up comedian.",
+      "lead_paragraph": "The cancellations rippled across the country: A Japanese choral band touring China, stand-up comedy shows in several cities, jazz shows in Beijing. In the span of a few days, the performances were among more than a dozen that were abruptly called off — some just minutes before they were supposed to begin — with virtually no explanation.",
+      "publication_date": "2023-05-24T13:47:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/24/world/asia/china-comedy-music-crackdown.html",
+      "byline": "By Vivian Wang"
+    },
+    {
+      "headline": "Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data",
+      "snippet": "Employees of the Chinese-owned video app have regularly posted user information on a messaging and collaboration tool called Lark, according to internal documents.",
+      "abstract": "Employees of the Chinese-owned video app have regularly posted user information on a messaging and collaboration tool called Lark, according to internal documents.",
+      "lead_paragraph": "In August 2021, TikTok received a complaint from a British user, who flagged that a man had been “exposing himself and playing with himself” on a livestream she hosted on the video app. She also described past abuse she had experienced.",
+      "publication_date": "2023-05-24T14:36:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/24/technology/inside-how-tiktok-shares-user-data-lark.html",
+      "byline": "By Sapna Maheshwari and Ryan Mac"
+    }
+  ]
+}

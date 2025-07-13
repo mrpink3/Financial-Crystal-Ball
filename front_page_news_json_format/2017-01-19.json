@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2017-01-19",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "In Farewell, Obama Sets Red Lines That Would Pull Him Back Into Fray",
+      "snippet": "At his final news conference in the White House, the president was asked about his future and his decision to commute the sentence of Chelsea Manning.",
+      "abstract": "At his final news conference in the White House, the president was asked about his future and his decision to commute the sentence of Chelsea Manning.",
+      "lead_paragraph": "WASHINGTON — When President Obama arrived in office eight years ago, the departing President George W. Bush essentially withdrew from public life, declaring that his successor “deserves my silence.” It was an approach that Mr. Obama greatly appreciated but does not intend to follow.",
+      "publication_date": "2017-01-18T17:16:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/18/us/politics/obama-last-news-conference-as-president.html",
+      "byline": "By Michael D. Shear and Peter Baker"
+    },
+    {
+      "headline": "Netflix Goes Global and Its Profit Soars",
+      "snippet": "Netflix added a record 7.05 million streaming members in the three months that ended Dec. 31, beating its forecast of 5.2 million new members for the quarter.",
+      "abstract": "Netflix added a record 7.05 million streaming members in the three months that ended Dec. 31, beating its forecast of 5.2 million new members for the quarter.",
+      "lead_paragraph": "A year ago, Netflix boldly declared that it planned to conquer the global market for streaming television, adding more than 130 countries to its service map. It also promised to start delivering material profits in 2017 after operating at break-even profitability for several quarters.",
+      "publication_date": "2017-01-19T01:19:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/18/business/netflix-profit-rises-56-percent-to-67-million.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "Student Loan Collector Cheated Millions, Lawsuits Say",
+      "snippet": "Navient made serious mistakes at every step of the loan collection process, the Consumer Financial Protection Bureau said in a lawsuit.",
+      "abstract": "Navient made serious mistakes at every step of the loan collection process, the Consumer Financial Protection Bureau said in a lawsuit.",
+      "lead_paragraph": "Navient, the nation’s largest servicer of student loans, has for years misled borrowers and made serious mistakes at nearly every step of the collections process, illegally driving up loan repayment costs for millions of borrowers, according to lawsuits filed on Wednesday by a federal regulator and two state attorneys general.",
+      "publication_date": "2017-01-19T01:44:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/18/business/dealbook/student-loans-navient-lawsuit.html",
+      "byline": "By Stacy Cowley and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Persecuted Minority in Myanmar Is Escalating Its Armed Insurgency",
+      "snippet": "Some analysts fear that turning the Rohingya into a transnational Muslim cause may draw foreign jihadists to Myanmar.",
+      "abstract": "Some analysts fear that turning the Rohingya into a transnational Muslim cause may draw foreign jihadists to Myanmar.",
+      "lead_paragraph": "BANGKOK — The insurgent group announced its existence with a predawn attack on three Myanmar border guard posts. Hundreds of Rohingya militants, armed mainly with knives and slingshots, killed nine police officers and seized weapons and ammunition.",
+      "publication_date": "2017-01-19T08:00:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/19/world/asia/muslim-rohingya-myanmar.html",
+      "byline": "By Richard C. Paddock, Ellen Barry and Mike Ives"
+    },
+    {
+      "headline": "For Trump’s Nominees, a Billionaires’ Guide to Running the Government",
+      "snippet": "President-elect Donald J. Trump says the federal government can be managed like a business. We’re about to find out if he’s right.",
+      "abstract": "President-elect Donald J. Trump says the federal government can be managed like a business. We’re about to find out if he’s right.",
+      "lead_paragraph": "Pity the poor billionaires who are about to take the oath of office. For them, everything is going to change.",
+      "publication_date": "2017-01-19T08:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/19/business/donald-trump-billionaires-cabinet-nominees.html",
+      "byline": "By Charles Duhigg"
+    }
+  ]
+}

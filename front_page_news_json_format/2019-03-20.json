@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-03-20",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Facebook Halts Ad Targeting Cited in Bias Complaints",
+      "snippet": "The social media giant will stop allowing advertising of housing, jobs or credit to be aimed at those of a certain race, gender or age group.",
+      "abstract": "The social media giant will stop allowing advertising of housing, jobs or credit to be aimed at those of a certain race, gender or age group.",
+      "lead_paragraph": "After years of criticism, Facebook announced on Tuesday that it would stop allowing advertisers in key categories to show their messages only to people of a certain race, gender or age group.",
+      "publication_date": "2019-03-19T18:00:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/19/technology/facebook-discrimination-ads.html",
+      "byline": "By Noam Scheiber and Mike Isaac"
+    },
+    {
+      "headline": "F.A.A. Approval of Boeing Jet Involved in Two Crashes Comes Under Scrutiny",
+      "snippet": "A software system suspected of playing a role in two deadly crashes involving the same jet, the Boeing 737 Max, did not raise red flags during the approval process.",
+      "abstract": "A software system suspected of playing a role in two deadly crashes involving the same jet, the Boeing 737 Max, did not raise red flags during the approval process.",
+      "lead_paragraph": "As regulators at the Federal Aviation Administration reviewed designs for Boeing’s newest passenger jet, they paid extra attention to several features, including the lithium batteries, the pressure fueling system and the inflatable safety slides.",
+      "publication_date": "2019-03-19T19:27:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/19/business/boeing-elaine-chao.html",
+      "byline": "By David Gelles and Thomas Kaplan"
+    },
+    {
+      "headline": "Trump’s Tax Cut Won’t Power the Growth He Predicts, Officials Concede",
+      "snippet": "White House forecasters say the economy would need more tax cuts, fewer regulations and an infrastructure plan to produce long-term 3 percent annual growth.",
+      "abstract": "White House forecasters say the economy would need more tax cuts, fewer regulations and an infrastructure plan to produce long-term 3 percent annual growth.",
+      "lead_paragraph": "WASHINGTON — The Trump administration pushed a $1.5 trillion tax cut through Congress in 2017 on the promise that it would spark sustained economic growth. While the tax cuts have goosed the economy in the short term, officials now concede they will not be enough to deliver the 3 percent annual growth the president promised over the long term.",
+      "publication_date": "2019-03-19T21:37:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/19/us/politics/trump-tax-cut-economic-forecast.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "The New Social Network That Isn’t New at All",
+      "snippet": "When an inveterate tweeter and social media hound decided to change his ways, what did he turn to? An email newsletter.",
+      "abstract": "When an inveterate tweeter and social media hound decided to change his ways, what did he turn to? An email newsletter.",
+      "lead_paragraph": "SAN FRANCISCO — My favorite new social network doesn’t incessantly spam me with notifications. When I post, I’m not bombarded with @mentions from bots and trolls. And after I use it, I don’t worry about ads following me around the web.",
+      "publication_date": "2019-03-19T23:03:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/19/technology/new-social-network-email-newsletter.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "In Greece, an Economic Revival Fueled by ‘Golden Visas’ and Tourism",
+      "snippet": "Less than a year after the country ended a multibillion-euro international bailout, property buyers from China and Russia are helping to mend its economy.",
+      "abstract": "Less than a year after the country ended a multibillion-euro international bailout, property buyers from China and Russia are helping to mend its economy.",
+      "lead_paragraph": "ATHENS — Less than a year after Greece emerged from a multibillion-euro international bailout, Athens is witnessing an investor boom. Hip new hotels with Acropolis views are dotting the skyline. Construction workers are tearing into dwellings owned by Greeks needing cash and converting them swiftly to short-term rentals, Airbnbs or fancy new homes for foreigners.",
+      "publication_date": "2019-03-20T07:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/20/business/greece-economy-golden-visas-tourism.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Fed, Dimming Its Economic Outlook, Predicts No Rate Increases This Year",
+      "snippet": "The Federal Reserve lowered its growth forecast to 2.1 percent this year, far less rosy than White House projections, as it detected signs of a slowing economy.",
+      "abstract": "The Federal Reserve lowered its growth forecast to 2.1 percent this year, far less rosy than White House projections, as it detected signs of a slowing economy.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve said Wednesday that the United States economy was slowing more than it had previously thought and painted a far less rosy economic picture than the White House as it left interest rates unchanged and signaled little appetite for raising them again in the near future.",
+      "publication_date": "2019-03-20T09:00:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/20/us/politics/fed-rates.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Google Fined $1.7 Billion by E.U. for Unfair Advertising Rules",
+      "snippet": "The antitrust fine, the third imposed on Google by the European Union since 2017, reinforces Europe’s regulatory role as the world’s most aggressive tech watchdog.",
+      "abstract": "The antitrust fine, the third imposed on Google by the European Union since 2017, reinforces Europe’s regulatory role as the world’s most aggressive tech watchdog.",
+      "lead_paragraph": "LONDON — European authorities on Wednesday fined Google 1.5 billion euros for antitrust violations in the online advertising market, continuing its efforts to rein in the world’s biggest technology companies.",
+      "publication_date": "2019-03-20T11:08:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/20/business/google-fine-advertising.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Who Should Own Photos of Slaves? The Descendants, not Harvard, a Lawsuit Says",
+      "snippet": "A woman is suing the university for photographs taken 169 years ago of slaves she says are her ancestors. The images were taken as part of a racist study.",
+      "abstract": "A woman is suing the university for photographs taken 169 years ago of slaves she says are her ancestors. The images were taken as part of a racist study.",
+      "lead_paragraph": "NORWICH, Conn. — The two slaves, a father and daughter, were stripped to the waist and positioned for frontal and side views. Then, like subjects in contemporary mug shots, their pictures were taken, as part of a racist study arguing that black people were an inferior race.",
+      "publication_date": "2019-03-20T14:25:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/20/us/slave-photographs-harvard.html",
+      "byline": "By Anemona Hartocollis"
+    }
+  ]
+}

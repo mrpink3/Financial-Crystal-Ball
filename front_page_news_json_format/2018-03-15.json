@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-03-15",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Conor Lamb Wins Pennsylvania House Seat, Giving Democrats a Map for Trump Country",
+      "snippet": "Mr. Lamb’s performance in a southwestern Pennsylvania House race rattled Republicans and showed Democrats how to win back Trump voters.",
+      "abstract": "Mr. Lamb’s performance in a southwestern Pennsylvania House race rattled Republicans and showed Democrats how to win back Trump voters.",
+      "lead_paragraph": "Conor Lamb, a Democrat and former Marine, scored a razor-thin but extraordinary upset in a special House election in southwestern Pennsylvania after a few thousand absentee ballots cemented a Democratic victory in the heart of President Trump’s Rust Belt base.",
+      "publication_date": "2018-03-14T17:40:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/14/us/politics/democrats-republicans-pennsylvania-special-election.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Hard-Charging Chinese Energy Tycoon Falls From Xi Government’s Graces",
+      "snippet": "Ye Jianming cast himself as a new kind of private entrepreneur in China, but his company now faces legal challenges at home and in the United States.",
+      "abstract": "Ye Jianming cast himself as a new kind of private entrepreneur in China, but his company now faces legal challenges at home and in the United States.",
+      "lead_paragraph": "HONG KONG — A mysterious Chinese buyer surprised the financial world last year when it swooped in to buy a $9 billion chunk of Russia’s state oil company. Few outside China had ever heard of the firm, called CEFC China Energy, or could explain how it would complete — or even pay for — such an expensive and politically sensitive deal.",
+      "publication_date": "2018-03-14T18:31:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/14/business/china-cefc-investigation.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Theresa May Expels Russian Diplomats. But Now Comes the Hard Part.",
+      "snippet": "The prime minister retaliated for the use of a nerve agent against a former spy, but Britain’s weakened government may find it hard to inflict much pain.",
+      "abstract": "The prime minister retaliated for the use of a nerve agent against a former spy, but Britain’s weakened government may find it hard to inflict much pain.",
+      "lead_paragraph": "LONDON — Few world leaders have looked weaker than Theresa May, the British prime minister. Yet in Parliament on Wednesday, she vowed to stand tough in the escalating confrontation with Russia over the use of a nerve agent to poison one of its former spies on British soil.",
+      "publication_date": "2018-03-14T20:11:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/14/world/europe/russia-spy-britain-theresa-may.html",
+      "byline": "By Richard Pérez-Peña and Stephen Castle"
+    },
+    {
+      "headline": "U.S. Kept Silent About Its Role in Another Firefight in Niger",
+      "snippet": "Two months after four American soldiers were killed in the West African country, a group of Green Berets and local forces killed 11 ISIS militants in a previously undisclosed battle.",
+      "abstract": "Two months after four American soldiers were killed in the West African country, a group of Green Berets and local forces killed 11 ISIS militants in a previously undisclosed battle.",
+      "lead_paragraph": "WASHINGTON — Green Berets working with government forces in Niger killed 11 Islamic State militants in a firefight in December, the American military acknowledged for the first time on Wednesday. The battle occurred two months after four United States soldiers died in an ambush in another part of Niger — and after senior commanders had imposed stricter limits on military missions in the West African country.",
+      "publication_date": "2018-03-15T00:39:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/14/world/africa/niger-green-berets-isis-firefight-december.html",
+      "byline": "By Charlie Savage, Eric Schmitt and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "A Cyberattack in Saudi Arabia Had a Deadly Goal. Experts Fear Another Try.",
+      "snippet": "Petrochemical companies were hit by a series of cyberassaults last year. The worst of them, against a widely used safety system, could have set off an explosion.",
+      "abstract": "Petrochemical companies were hit by a series of cyberassaults last year. The worst of them, against a widely used safety system, could have set off an explosion.",
+      "lead_paragraph": "In August, a petrochemical company with a plant in Saudi Arabia was hit by a new kind of cyberassault. The attack was not designed to simply destroy data or shut down the plant, investigators believe. It was meant to sabotage the firm’s operations and trigger an explosion.",
+      "publication_date": "2018-03-15T09:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/15/technology/saudi-arabia-hacks-cyberattacks.html",
+      "byline": "By Nicole Perlroth and Clifford Krauss"
+    },
+    {
+      "headline": "White House Penalizes Russians Over Election Meddling and Cyberattacks",
+      "snippet": "The actions came at the same time the Trump administration joined a collective statement with Britain, France and Germany denouncing Russia for its apparent role in a nerve-gas attack.",
+      "abstract": "The actions came at the same time the Trump administration joined a collective statement with Britain, France and Germany denouncing Russia for its apparent role in a nerve-gas attack.",
+      "lead_paragraph": "WASHINGTON — The Trump administration imposed sanctions on a series of Russian organizations and individuals on Thursday in retaliation for interference in the 2016 presidential election and other “malicious cyberattacks,” its most significant action against Moscow since President Trump took office.",
+      "publication_date": "2018-03-15T14:29:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/15/us/politics/trump-russia-sanctions.html",
+      "byline": "By Peter Baker"
+    }
+  ]
+}

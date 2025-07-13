@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2015-09-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Los Angeles Puts $100 Million Into Helping Homeless",
+      "snippet": "The city’s plan will focus on housing and service programs to get an estimated 26,000 homeless people off the streets.",
+      "abstract": "The city’s plan will focus on housing and service programs to get an estimated 26,000 homeless people off the streets.",
+      "lead_paragraph": "LOS ANGELES — Flooded with homeless encampments from its freeway underpasses to the chic sidewalks of Venice Beach, municipal officials here declared a public emergency on Tuesday, making Los Angeles the first city in the nation to take such a drastic step in response to its mounting problem with street dwellers.",
+      "publication_date": "2015-09-22T18:43:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/23/us/los-angeles-plans-100-million-effort-to-end-homelessness.html",
+      "byline": "By Jennifer Medina"
+    },
+    {
+      "headline": "Education Gap Between Rich and Poor Is Growing Wider   ",
+      "snippet": "Racial disparities in education have narrowed significantly, but the achievement gap between more affluent and less privileged children is wider than ever.",
+      "abstract": "Racial disparities in education have narrowed significantly, but the achievement gap between more affluent and less privileged children is wider than ever.",
+      "lead_paragraph": "The wounds of segregation were still raw in the 1970s. With only rare exceptions, African-American children had nowhere near the same educational opportunities as whites.",
+      "publication_date": "2015-09-22T19:57:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/23/business/economy/education-gap-between-rich-and-poor-is-growing-wider.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Martin Shkreli, the Mercurial Man Behind the Drug Price Increase That Went Viral  ",
+      "snippet": "After raising the cost for a drug used to treat serious parasitic infections to $750 a tablet, from $13.50, Martin Shkreli of Turing Pharmaceuticals says he will sell it for less to ease public anger.",
+      "abstract": "After raising the cost for a drug used to treat serious parasitic infections to $750 a tablet, from $13.50, Martin Shkreli of Turing Pharmaceuticals says he will sell it for less to ease public anger.",
+      "lead_paragraph": "Martin Shkreli is either the boy genius or the bad boy of pharmaceuticals, depending on one’s point of view.",
+      "publication_date": "2015-09-22T23:27:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/23/business/big-price-increase-for-an-old-drug-will-be-rolled-back-turing-chief-says.html",
+      "byline": "By Andrew Pollack and Julie Creswell"
+    },
+    {
+      "headline": "Volkswagen’s Chief in the Vortex of the Storm",
+      "snippet": "Martin Winterkorn, Volkswagen’s chief executive, faces mounting scrutiny in the widening scandal over the carmaker’s faked diesel emissions testing.",
+      "abstract": "Martin Winterkorn, Volkswagen’s chief executive, faces mounting scrutiny in the widening scandal over the carmaker’s faked diesel emissions testing.",
+      "lead_paragraph": "Striding past a car show model, Martin Winterkorn, trailed by aides, examined a Hyundai i30.",
+      "publication_date": "2015-09-23T00:43:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/23/business/international/volkswagens-chief-in-the-vortex-of-the-storm.html",
+      "byline": "By Nicola Clark and Melissa Eddy"
+    },
+    {
+      "headline": "The Plot Twist: E-Book Sales Slip, and Print Is Far From Dead",
+      "snippet": "With readers on a reverse migration to print, the “e-book terror has kind of subsided” for bookstores and publishers.",
+      "abstract": "With readers on a reverse migration to print, the “e-book terror has kind of subsided” for bookstores and publishers.",
+      "lead_paragraph": "Five years ago, the book world was seized by collective panic over the uncertain future of print.",
+      "publication_date": "2015-09-23T01:05:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/23/business/media/the-plot-twist-e-book-sales-slip-and-print-is-far-from-dead.html",
+      "byline": "By Alexandra Alter"
+    },
+    {
+      "headline": "Starbucks Falls Short After Pledging Better Labor Practices",
+      "snippet": "Barista interviews and a nonprofit’s report find continuing issues with erratic and short-notice scheduling, suggesting the difficulty of taking the high road.",
+      "abstract": "Barista interviews and a nonprofit’s report find continuing issues with erratic and short-notice scheduling, suggesting the difficulty of taking the high road.",
+      "lead_paragraph": "Last year, Starbucks  vowed to provide store employees with more consistent schedules from week to week, and to post their schedules at least 10 days in advance. The company said it would stop asking workers to endure the sleep-depriving ritual known as a “clopening,” which requires them to shut down a store at night only to return early the next morning to help open it.",
+      "publication_date": "2015-09-23T09:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/24/business/starbucks-falls-short-after-pledging-better-labor-practices.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Pope Francis, in Washington, Addresses Poverty and Climate",
+      "snippet": "Francis, who met with President Obama and Catholic bishops, waded into two of America’s most charged debates, on immigration and the environment.",
+      "abstract": "Francis, who met with President Obama and Catholic bishops, waded into two of America’s most charged debates, on immigration and the environment.",
+      "lead_paragraph": "WASHINGTON — Welcomed with a fanfare of trumpets and a chorus of amens, Pope Francis introduced himself to the United States on Wednesday with a bracing message on climate change, immigration and poverty that ranged from the pastoral to the political.",
+      "publication_date": "2015-09-23T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/24/us/politics/pope-francis-obama-white-house.html",
+      "byline": "By Peter Baker and Michael D. Shear"
+    },
+    {
+      "headline": "Volkswagen Test Rigging Follows a Long Auto Industry Pattern",
+      "snippet": "Ever since governments began regulating cars, automakers have been finding ways to cheat to improve data on emissions, gas mileage and safety.",
+      "abstract": "Ever since governments began regulating cars, automakers have been finding ways to cheat to improve data on emissions, gas mileage and safety.",
+      "lead_paragraph": "Long before Volkswagen admitted to cheating on emissions tests for millions of cars worldwide, the automobile industry, Volkswagen included, had a well-known record of sidestepping regulation and even duping regulators.",
+      "publication_date": "2015-09-23T12:41:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/24/business/international/volkswagen-test-rigging-follows-a-long-auto-industry-pattern.html",
+      "byline": "By Danny Hakim and Hiroko Tabuchi"
+    },
+    {
+      "headline": "Volkswagen C.E.O. Martin Winterkorn Resigns Amid Emissions Scandal",
+      "snippet": "The move came less than a week after the company admitted that some diesel cars in the United States contained software designed to evade emissions tests.",
+      "abstract": "The move came less than a week after the company admitted that some diesel cars in the United States contained software designed to evade emissions tests.",
+      "lead_paragraph": "FRANKFURT — Martin Winterkorn resigned as chief executive of Volkswagen on Wednesday, taking responsibility for an emissions cheating scandal that has gravely damaged the carmaker’s reputation.",
+      "publication_date": "2015-09-23T15:13:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/24/business/international/volkswagen-chief-martin-winterkorn-resigns-amid-emissions-scandal.html",
+      "byline": "By Jack Ewing"
+    }
+  ]
+}

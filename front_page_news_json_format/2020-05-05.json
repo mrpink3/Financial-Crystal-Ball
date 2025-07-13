@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-05-05",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Andrew Lack Is Out as the Head of NBC News After a Stormy Tenure",
+      "snippet": "Rachel Maddow was among those at NBC who had put pressure on the news division’s leadership team.",
+      "abstract": "Rachel Maddow was among those at NBC who had put pressure on the news division’s leadership team.",
+      "lead_paragraph": "The chairman of NBC News, Andrew Lack, will depart his role at the end of May, NBC Universal said on Monday, an abrupt end to the tenure of an executive whose tenacity and ability to withstand turmoil made for a long career in the fickle television news business.",
+      "publication_date": "2020-05-04T19:53:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/04/business/media/andy-lack-nbc-steps-down.html",
+      "byline": "By John Koblin and Michael M. Grynbaum"
+    },
+    {
+      "headline": "Biden Camp Finds Selling Point in Ailing Economy: His Work on 2009 Recovery",
+      "snippet": "He oversaw the rollout of a $787 billion stimulus package. His campaign may leverage that as the coronavirus pandemic and economic collapse dominate the conversation.",
+      "abstract": "He oversaw the rollout of a $787 billion stimulus package. His campaign may leverage that as the coronavirus pandemic and economic collapse dominate the conversation.",
+      "lead_paragraph": "Joseph R. Biden Jr. had just been sworn in as vice president. All he needed now was a job.",
+      "publication_date": "2020-05-04T22:24:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/04/us/politics/biden-obama-stimulus.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "As Trump Pushes to Reopen, Government Sees Virus Toll Nearly Doubling",
+      "snippet": "An internal Trump administration model projects a near-doubling of daily coronavirus deaths by June 1 as the nation begins to reopen, as well as a rapid rise in daily infections.",
+      "abstract": "An internal Trump administration model projects a near-doubling of daily coronavirus deaths by June 1 as the nation begins to reopen, as well as a rapid rise in daily infections.",
+      "lead_paragraph": "WASHINGTON — As President Trump presses states to reopen their economies, his administration is privately projecting a steady rise in coronavirus infections and deaths over the next several weeks, reaching about 3,000 daily deaths on June 1 — nearly double the current level.",
+      "publication_date": "2020-05-04T23:15:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/04/us/politics/trump-coronavirus-death-toll.html",
+      "byline": "By Sheryl Gay Stolberg and Eileen Sullivan"
+    },
+    {
+      "headline": "Parking Lots Have Become a Digital Lifeline",
+      "snippet": "With cafes and libraries closed, Americans without internet access are sitting outside them to get free and fast connections.",
+      "abstract": "With cafes and libraries closed, Americans without internet access are sitting outside them to get free and fast connections.",
+      "lead_paragraph": "As the sun set on a recent evening in Rutherfordton, N.C., the author Beth Revis drove her green S.U.V. into the parking lot of a closed elementary school and connected to the building’s free Wi-Fi. Then, for the third time since the coronavirus pandemic had taken hold, she taught a two-hour writing class from her driver’s seat.",
+      "publication_date": "2020-05-05T06:15:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/05/technology/parking-lots-wifi-coronavirus.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Taiwan Says ‘Play Ball!’ (With Cardboard Fans and Robot Drummers)",
+      "snippet": "Players must submit to temperature checks several times a day, but professional baseball games go on amid the coronavirus pandemic, even if the stadium is empty.",
+      "abstract": "Players must submit to temperature checks several times a day, but professional baseball games go on amid the coronavirus pandemic, even if the stadium is empty.",
+      "lead_paragraph": "TAOYUAN, Taiwan — On a balmy Saturday evening inside one of Taiwan’s largest baseball stadiums, the floodlights flickered to life and the players took their positions.",
+      "publication_date": "2020-05-05T09:00:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/05/world/asia/taiwan-baseball-coronavirus.html",
+      "byline": "By Javier C. Hernández and Ashley Pon"
+    },
+    {
+      "headline": "For His Next Trick, This Magician Will Amaze an Anxious World",
+      "snippet": "Locked down in his New Delhi bedroom,  the “psychological illusionist” Karan Singh is performing free online for anyone who asks.",
+      "abstract": "Locked down in his New Delhi bedroom,  the “psychological illusionist” Karan Singh is performing free online for anyone who asks.",
+      "lead_paragraph": "Right before India went into lockdown, on March 24, a magician named Karan Singh canceled all of his public shows and issued an invitation to his 42,000 Instagram followers. He would perform for free, over Skype, for anyone who contacted him. It could be one person, two people, 50, whatever. Book a slot and he’d appear in your home, virtually, for a 15-minute set.",
+      "publication_date": "2020-05-05T09:00:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/05/05/business/karan-singh-magic.html",
+      "byline": "By David Segal"
+    },
+    {
+      "headline": "With New Hot Spots Emerging, No Sign of a Respite",
+      "snippet": "While cities like New York have seen a hopeful drop in cases, upticks in other major cities and smaller communities have offset those decreases.",
+      "abstract": "While cities like New York have seen a hopeful drop in cases, upticks in other major cities and smaller communities have offset those decreases.",
+      "lead_paragraph": "In New York City, the daily onslaught of death from the coronavirus has dropped to half of what it was. In Chicago, a makeshift hospital in a lakefront convention center is closing, deemed no longer needed. And in New Orleans, new cases have dwindled to a handful each day.",
+      "publication_date": "2020-05-05T09:00:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html",
+      "byline": "By Julie Bosman, Mitch Smith and Amy Harmon"
+    }
+  ]
+}

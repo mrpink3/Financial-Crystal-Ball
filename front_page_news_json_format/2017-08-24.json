@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2017-08-24",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Mastermind or Naïf? Samsung Heir’s Fate Hinges on the Question",
+      "snippet": "Jay Y. Lee, heir to the Samsung empire, faces a verdict in a bribery trial that has riveted South Korea and put a focus on his management style.",
+      "abstract": "Jay Y. Lee, heir to the Samsung empire, faces a verdict in a bribery trial that has riveted South Korea and put a focus on his management style.",
+      "lead_paragraph": "SEOUL, South Korea — The criminal trial of Lee Jae-yong, who controls Samsung, one of the world’s largest corporate empires, has riveted South Korea since it began last spring. Prosecutors have cast him as a mastermind bent on breaking the law to protect his family’s wealth and power. He says he is a detached leader with little knowledge of the inner workings of his own companies.",
+      "publication_date": "2017-08-23T18:15:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/23/business/samsung-jay-lee-trial-lee-jae-yong.html",
+      "byline": "By Jeyup S. Kwaak and Paul Mozur"
+    },
+    {
+      "headline": "Mathew Martoma’s Insider Trading Conviction Is Upheld",
+      "snippet": "But a dissenting opinion may set the stage for his lawyers to ask for the entire appellate court to consider the appeal.",
+      "abstract": "But a dissenting opinion may set the stage for his lawyers to ask for the entire appellate court to consider the appeal.",
+      "lead_paragraph": "A federal appeals panel upheld on Wednesday the insider trading conviction of Mathew Martoma, a former portfolio manager for Steven A. Cohen, in what prosecutors once called the most lucrative insider trading scheme of all time.",
+      "publication_date": "2017-08-23T19:16:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/23/business/dealbook/mathew-martoma-insider-trading-conviction-upheld.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Uber, Mired in Corporate Scandals, Sees Uptick in Bookings",
+      "snippet": "The privately held ride-hailing company on Wednesday disclosed that its business jumped and that its losses narrowed to $645 million in the second quarter.",
+      "abstract": "The privately held ride-hailing company on Wednesday disclosed that its business jumped and that its losses narrowed to $645 million in the second quarter.",
+      "lead_paragraph": "SAN FRANCISCO — Uber has spent the past eight months reeling from a series of corporate scandals. Yet those have done little to deter people from hailing an Uber for rides.",
+      "publication_date": "2017-08-23T22:20:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/23/technology/uber-mired-in-corporate-scandals-sees-uptick-in-bookings.html",
+      "byline": "By Mike Isaac and Tiffany Hsu"
+    },
+    {
+      "headline": "Rabbis Protest Trump’s Comments by Boycotting Conference Call",
+      "snippet": "Furious with President Trump’s reaction to the Charlottesville protests, four groups of rabbis denounced him in unusually pointed language",
+      "abstract": "Furious with President Trump’s reaction to the Charlottesville protests, four groups of rabbis denounced him in unusually pointed language",
+      "lead_paragraph": "For years, the presidential conference calls were a nonpartisan holiday tradition: President Barack Obama would speak by phone with hundreds of rabbis in advance of Rosh Hashana and Yom Kippur, in what participants described as a meeting of minds, largely free of raw politics.",
+      "publication_date": "2017-08-24T00:47:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/23/us/rabbis-president-trump-antisemitism.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "Trump Takes Aim at the Press, With a Flamethrower",
+      "snippet": "As the president’s attacks on the media become more strident, worries rise that reporters are being put at risk of violence.",
+      "abstract": "As the president’s attacks on the media become more strident, worries rise that reporters are being put at risk of violence.",
+      "lead_paragraph": "Every time you think President Trump’s anti-press rhetoric can’t get worse, he finds a way of surprising you and not surprising you all at the same time.",
+      "publication_date": "2017-08-24T01:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/23/business/media/trump-takes-aim-at-the-press-with-a-flamethrower.html",
+      "byline": "By Jim Rutenberg"
+    },
+    {
+      "headline": "Mounting Questions About Who Controls HNA, a Top Chinese Conglomerate",
+      "snippet": "Documents reviewed by The New York Times show a closer relationship than previously reported between the HNA Group and Pacific American Corporation.",
+      "abstract": "Documents reviewed by The New York Times show a closer relationship than previously reported between the HNA Group and Pacific American Corporation.",
+      "lead_paragraph": "Questions about the ownership and corporate structure of the HNA Group, one of China’s biggest — and most acquisitive — companies, are mounting, prompting scrutiny by regulators in the United States and Europe and leading at least one Wall Street bank to step away from it.",
+      "publication_date": "2017-08-24T09:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/24/business/dealbook/hna-ownership-disclosure.html",
+      "byline": "By David Barboza"
+    },
+    {
+      "headline": "Disney, Ditching Netflix, Grabs a New Key to the Kingdom",
+      "snippet": "With the disruption of cable and broadcast distribution, the company is betting that a direct-to-consumer model will be a new path to revenue growth.",
+      "abstract": "With the disruption of cable and broadcast distribution, the company is betting that a direct-to-consumer model will be a new path to revenue growth.",
+      "lead_paragraph": "Is content still king?",
+      "publication_date": "2017-08-24T14:19:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/24/business/disney-netflix-streaming.html",
+      "byline": "By James B. Stewart"
+    }
+  ]
+}

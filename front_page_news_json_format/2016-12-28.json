@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2016-12-28",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Clean Tech Rises Again, Retooling Nature for Industrial Use",
+      "snippet": "A California start-up that genetically engineers yeast to produce an acid for fragrances is at the forefront of efforts to reignite a market that fell short of earlier expectations.",
+      "abstract": "A California start-up that genetically engineers yeast to produce an acid for fragrances is at the forefront of efforts to reignite a market that fell short of earlier expectations.",
+      "lead_paragraph": "BERKELEY, Calif. — A decade ago, a group of biologists, venture capitalists and computer whizzes gathered under the name “clean tech.” They hoped to overturn polluting industries with microorganisms cheerily excreting industrial chemicals through the miracle of reprogramming nature’s genetic code.",
+      "publication_date": "2016-12-27T17:56:02+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/27/technology/clean-tech-rises-again-retooling-nature-for-industrial-use.html",
+      "byline": "By Quentin Hardy"
+    },
+    {
+      "headline": "National Biotechnology Panel Faces New Conflict of Interest Questions",
+      "snippet": "A committee is under fire for how its members were selected. Several have financial ties to biotech businesses, potentially giving short shrift to health and environmental worries.",
+      "abstract": "A committee is under fire for how its members were selected. Several have financial ties to biotech businesses, potentially giving short shrift to health and environmental worries.",
+      "lead_paragraph": "The National Academies of Sciences, Engineering and Medicine are assigned by Congress to provide policy guidance to the government. The group describes itself as “advisers to the nation.” The advice often comes through written reports from scientific committees organized by the group.",
+      "publication_date": "2016-12-27T22:37:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/27/business/national-academies-biotechnology-conflicts.html",
+      "byline": "By Stephanie Strom"
+    },
+    {
+      "headline": "3 Men Made Millions by Hacking Merger Lawyers, U.S. Says",
+      "snippet": "The authorities in New York charged the Chinese citizens with trading shares of companies they illicitly learned were about to be purchased.",
+      "abstract": "The authorities in New York charged the Chinese citizens with trading shares of companies they illicitly learned were about to be purchased.",
+      "lead_paragraph": "Law firms that advise on mergers once had to worry about a rogue employee trading on deal tips. Now, they have to worry about hackers doing the same.",
+      "publication_date": "2016-12-28T00:13:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/27/business/dealbook/new-york-hacking-law-firms-insider-trading.html",
+      "byline": "By Leslie Picker"
+    },
+    {
+      "headline": "For the Trumps, ‘Made in U.S.A.’ May Be a Tricky Label to Stitch",
+      "snippet": "If President-elect Donald J. Trump makes good on the promise of punishing overseas companies, he will take aim at his own brand, and his daughter’s as well.",
+      "abstract": "If President-elect Donald J. Trump makes good on the promise of punishing overseas companies, he will take aim at his own brand, and his daughter’s as well.",
+      "lead_paragraph": "At Saks Off Fifth recently, an Ivanka Trump white polyester and spandex blouse made in Indonesia was marked down to $34.99, from $69. A few racks over, her black and white jacket came from Vietnam, while several blocks away, at Macy’s, her leather bootee manufactured in China sold for more than $100.",
+      "publication_date": "2016-12-28T08:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/28/business/donald-trump-ivanka-clothes-global-trade-overseas-manufacturing.html",
+      "byline": "By Laura M. Holson and Rachel Abrams"
+    }
+  ]
+}

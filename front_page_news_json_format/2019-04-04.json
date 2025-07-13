@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-04-04",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Joe Biden, in Video, Says He Will Be ‘More Mindful’ of Personal Space",
+      "snippet": "The former vice president, trying to stem the damage from complaints about unwanted touching, said he realized “social norms have begun to change.”",
+      "abstract": "The former vice president, trying to stem the damage from complaints about unwanted touching, said he realized “social norms have begun to change.”",
+      "lead_paragraph": "For five days, Joseph R. Biden Jr. remained in the background as four women came forward saying they had been uncomfortable with the ways he had touched them. He put out three statements through a spokesman, but none of them was his own account or an acknowledgment of the discomfort he had caused.",
+      "publication_date": "2019-04-03T19:35:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/03/us/politics/joe-biden-women-video.html",
+      "byline": "By Sydney Ember and Jonathan Martin"
+    },
+    {
+      "headline": "A.I. and Privacy Concerns Get White House to Embrace Global Cooperation",
+      "snippet": "In technology, the Trump administration has departed from its anti-regulatory, nationalist approach.",
+      "abstract": "In technology, the Trump administration has departed from its anti-regulatory, nationalist approach.",
+      "lead_paragraph": "Two hallmarks of American economic policy under President Trump are a reflexive aversion for regulation and go-it-alone nationalism.",
+      "publication_date": "2019-04-03T22:31:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/04/03/technology/artificial-intelligence-privacy-oecd.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Some on Mueller’s Team Say Report Was More Damaging Than Barr Revealed",
+      "snippet": "Members of the special counsel’s team have told associates that their findings are more troubling for President Trump than the attorney general indicated.",
+      "abstract": "Members of the special counsel’s team have told associates that their findings are more troubling for President Trump than the attorney general indicated.",
+      "lead_paragraph": "WASHINGTON — Some of Robert S. Mueller III’s investigators have told associates that Attorney General William P. Barr failed to adequately portray the findings of their inquiry and that they were more troubling for President Trump than Mr. Barr indicated, according to government officials and others familiar with their simmering frustrations.",
+      "publication_date": "2019-04-03T23:21:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/03/us/politics/william-barr-mueller-report.html",
+      "byline": "By Nicholas Fandos, Michael S. Schmidt and Mark Mazzetti"
+    },
+    {
+      "headline": "Malware Arrest Exposes Security Gaps at Trump’s Mar-a-Lago Club",
+      "snippet": "The arrest of a woman with a malware-laced device revealed the challenge of protecting a president who prefers a resort over Camp David.",
+      "abstract": "The arrest of a woman with a malware-laced device revealed the challenge of protecting a president who prefers a resort over Camp David.",
+      "lead_paragraph": "WASHINGTON — The arrest of a Chinese woman who carried a malware-laced device into Mar-a-Lago, President Trump’s Florida resort, has exposed porous security at the private club and escalating tensions between Secret Service agents and the resort’s staff members, who vet guest lists and allow people onto the sprawling grounds.",
+      "publication_date": "2019-04-04T00:23:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/04/03/us/politics/mar-a-lago-chinese-malware.html",
+      "byline": "By Zolan Kanno-Youngs, Katie Rogers and Alexandra Stevenson"
+    },
+    {
+      "headline": "Why Soft Power Is in Style in Qatar",
+      "snippet": "Hundreds of influential faces in global politics, art, fashion and design descended on this tiny desert kingdom last week.",
+      "abstract": "Hundreds of influential faces in global politics, art, fashion and design descended on this tiny desert kingdom last week.",
+      "lead_paragraph": "DOHA, Qatar — Victoria Beckham came from London. Diane von Furstenberg and Alexander Wang from New York. Pierpaolo Piccioli of Valentino flew in from Rome, while Olivier Rousteing of Balmain and Giambattista Valli came from Paris. So did Carla Bruni, with her husband, former President Nicolas Sarkozy of France, firmly in tow.",
+      "publication_date": "2019-04-04T05:00:01+0000",
+      "section_name": "Fashion & Style",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/04/04/fashion/qatar-luxury-fashion-national-museum-blockade.html",
+      "byline": "By Elizabeth Paton"
+    },
+    {
+      "headline": "Manufacturing Surge, a Boon for Trump, May Be Fading",
+      "snippet": "American manufacturers have added jobs for 19 straight months, a streak that could extend to 20 on Friday. But there are signs the growth is slowing.",
+      "abstract": "American manufacturers have added jobs for 19 straight months, a streak that could extend to 20 on Friday. But there are signs the growth is slowing.",
+      "lead_paragraph": "For President Trump’s first two years in office, an unexpected rebound in manufacturing jobs helped bolster his claims that he was restoring the United States’ battered industrial sector. Now, that surge may be nearing its end — in part because of his own trade policies.",
+      "publication_date": "2019-04-04T09:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/04/04/business/economy-manufacturing-jobs-trump.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "For Carlos Ghosn, an Early Morning Knock Increases the Pressure, Again",
+      "snippet": "In an interview, his wife, Carole Ghosn, described aggressive tactics and a thorough home search. Experts called his latest arrest in Japan an unusually forceful move.",
+      "abstract": "In an interview, his wife, Carole Ghosn, described aggressive tactics and a thorough home search. Experts called his latest arrest in Japan an unusually forceful move.",
+      "lead_paragraph": "TOKYO — The authorities knocked on Carlos Ghosn’s door just before 6 a.m. He and his wife, Carole Ghosn, were still in their pajamas.",
+      "publication_date": "2019-04-04T11:47:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/04/04/business/carlos-ghosn-carole-wife-japan-nissan-arrest.html",
+      "byline": "By Ben Dooley and Motoko Rich"
+    }
+  ]
+}

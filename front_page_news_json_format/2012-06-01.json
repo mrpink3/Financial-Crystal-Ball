@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2012-06-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "On Facebook, ‘Likes’ Become Ads",
+      "snippet": "Many companies pay Facebook to generate ads when users click to “like” their brands or reference them in some other way.",
+      "abstract": "Many companies pay Facebook to generate ads when users click to “like” their brands or reference them in some other way.",
+      "lead_paragraph": "SAN FRANCISCO — On Valentine’s Day, Nick Bergus came across a link to an odd product on Amazon.com: a 55-gallon barrel of ... personal lubricant. ",
+      "publication_date": "2012-06-01T02:43:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/06/01/technology/so-much-for-sharing-his-like.html",
+      "byline": "By Somini Sengupta"
+    },
+    {
+      "headline": "Recall Election Could Foretell November Vote",
+      "snippet": "The Wisconsin vote pitting Gov. Scott Walker against Tom Barrett will send a message about Americans’ attitudes toward candidates who cut collective bargaining rights.",
+      "abstract": "The Wisconsin vote pitting Gov. Scott Walker against Tom Barrett will send a message about Americans’ attitudes toward candidates who cut collective bargaining rights.",
+      "lead_paragraph": "WAUKESHA, Wis. — If this was ever an election just about Wisconsin, it is far more than that now.",
+      "publication_date": "2012-06-01T03:49:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/06/01/us/politics/wisconsin-recall-vote-could-foretell-november-election.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "Obama Order Sped Up Wave of Cyberattacks Against Iran",
+      "snippet": "Even after the Stuxnet computer worm became public, President Obama accelerated cyberattacks against Iran that had begun in the Bush administration, temporarily disabling 1,000 centrifuges.",
+      "abstract": "Even after the Stuxnet computer worm became public, President Obama accelerated cyberattacks against Iran that had begun in the Bush administration, temporarily disabling 1,000 centrifuges.",
+      "lead_paragraph": "WASHINGTON — From his first months in office, President Obama secretly ordered increasingly sophisticated attacks on the computer systems that run Iran’s main nuclear enrichment facilities, significantly expanding America’s first sustained use of cyberweapons, according to participants in the program. ",
+      "publication_date": "2012-06-01T06:30:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "BP to Exit Its Venture in Russia",
+      "snippet": "The British oil company said it had been approached by potential buyers for the venture, which has provided steady income but also been a source of conflict with its Russian partners.",
+      "abstract": "The British oil company said it had been approached by potential buyers for the venture, which has provided steady income but also been a source of conflict with its Russian partners.",
+      "lead_paragraph": "LONDON — After a decade of a profitable but contentious marriage, BP and its billionaire Russian partners are headed for a divorce.",
+      "publication_date": "2012-06-01T07:46:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/02/business/global/bp-to-seek-sale-of-russian-venture-tnk-bp.html",
+      "byline": "By Julia Werdigier and Andrew E. Kramer"
+    },
+    {
+      "headline": "Feeble U.S. Job Growth Stokes Fears of Global Slowdown",
+      "snippet": "A report that showed rising American unemployment in May added to the global pall that has deepened with Europe’s escalating debt crisis and slowing growth in China and India.",
+      "abstract": "A report that showed rising American unemployment in May added to the global pall that has deepened with Europe’s escalating debt crisis and slowing growth in China and India.",
+      "lead_paragraph": "For a third year, the economic recovery in the United States is floundering, stoking fears of a global slowdown as the European crisis escalates. ",
+      "publication_date": "2012-06-01T12:37:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/06/02/business/economy/us-added-69000-jobs-in-may-jobless-rate-at-8-2.html",
+      "byline": "By Shaila Dewan"
+    },
+    {
+      "headline": "Wall Street Tumbles 2% on Jobs Data",
+      "snippet": "Stocks on Wall Street closed sharply lower and benchmark bond prices marched higher as the latest jobs data in the United States provided evidence that the economy was still struggling.",
+      "abstract": "Stocks on Wall Street closed sharply lower and benchmark bond prices marched higher as the latest jobs data in the United States provided evidence that the economy was still struggling.",
+      "lead_paragraph": "In their worst daily performance this year, stocks dropped more than 2 percent on Wall Street Friday, and United States government bond yields fell to record lows as investors sought refuge amid new signs of trouble in the global economy.",
+      "publication_date": "2012-06-01T14:16:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/06/02/business/daily-stock-market-activity.html",
+      "byline": "By Christine Hauser"
+    }
+  ]
+}

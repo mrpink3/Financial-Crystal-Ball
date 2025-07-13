@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-03-17",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.",
+      "snippet": "Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.",
+      "abstract": "Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.",
+      "lead_paragraph": "WASHINGTON — If a number defined the 2010s, it was 2 percent. Inflation, annual economic growth, and interest rates at their highest all hovered around that level — so persistently that economists, the Federal Reserve and Wall Street began to bet that the era of low-everything would last.",
+      "publication_date": "2023-03-16T16:31:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/16/business/economy/interest-rates-silicon-valley-bank.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Public Health vs. Economic Growth: Toxic Chemical Rules Pose Test for Biden",
+      "snippet": "Key industries — including some that the White House is backing through other policies — are lobbying to water down the first major new rules in a generation on chemicals that pose risks to humans.",
+      "abstract": "Key industries — including some that the White House is backing through other policies — are lobbying to water down the first major new rules in a generation on chemicals that pose risks to humans.",
+      "lead_paragraph": "WASHINGTON — The Biden administration is preparing to impose some of the first new rules in a generation to restrict or ban an array of toxic chemicals that are widely used in manufacturing, presenting the White House with tough choices between its economic agenda and public health.",
+      "publication_date": "2023-03-16T17:07:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/16/us/politics/toxic-chemicals-biden-epa.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "Macron, Risking Backlash, Pushes Through Law Raising Retirement Age",
+      "snippet": "Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.",
+      "abstract": "Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.",
+      "lead_paragraph": "President Emmanuel Macron, worried that France’s Parliament would not approve a fiercely contested bill raising the retirement age to 64 from 62, opted to ram the legislation through on Thursday without a full parliamentary vote, a decision certain to inflame an already tense confrontation over the measure.",
+      "publication_date": "2023-03-16T20:46:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/16/world/europe/macron-france-pension.html",
+      "byline": "By Roger Cohen"
+    },
+    {
+      "headline": "Finding a Buyer for TikTok May Not Be So Easy",
+      "snippet": "The Biden administration is pushing TikTok’s Chinese owners to sell the app or face a possible ban. But there are many complications to finding a suitor.",
+      "abstract": "The Biden administration is pushing TikTok’s Chinese owners to sell the app or face a possible ban. But there are many complications to finding a suitor.",
+      "lead_paragraph": "TikTok has what many Silicon Valley companies lust after: A culture-making machine beloved by 100 million Americans and deep-pocketed advertisers.",
+      "publication_date": "2023-03-16T22:12:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/16/business/media/tiktok-buyer-biden.html",
+      "byline": "By Sapna Maheshwari and David McCabe"
+    },
+    {
+      "headline": "Mortgages, Wine and Renovations: Silicon Valley Bank’s Deep Tech Ties",
+      "snippet": "More than many other banks, SVB catered to how risky tech start-ups and their backers do not adhere to normal business practices.",
+      "abstract": "More than many other banks, SVB catered to how risky tech start-ups and their backers do not adhere to normal business practices.",
+      "lead_paragraph": "When Kleiner Perkins, one of Silicon Valley’s highest-profile venture capital firms, wanted to build a bridge between two of its office buildings around 2005, it decided to take out a loan. It turned to Silicon Valley Bank, just 43 feet away on Sand Hill Road in the heart of the venture industry in Menlo Park, Calif.",
+      "publication_date": "2023-03-17T09:00:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/17/technology/svb-tech-start-ups.html",
+      "byline": "By Erin Griffith, Mike Isaac and Sheera Frenkel"
+    },
+    {
+      "headline": "Bank Stocks Resume Slide as Relief Over Rescue Fades",
+      "snippet": "Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders, dragging the market lower.",
+      "abstract": "Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders, dragging the market lower.",
+      "lead_paragraph": "Stocks dropped on Friday, signaling that investors had little confidence that the banking crisis had run its course despite moves to shore up flailing lenders with injections of tens of billions of dollars.",
+      "publication_date": "2023-03-17T10:48:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/17/business/banks-crisis-first-republic-credit-suisse.html",
+      "byline": "By Joe Rennison, Jason Karaian and Rich Barbieri"
+    }
+  ]
+}

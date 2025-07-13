@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-11-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Corporate America Has a Message for the Fed About Inflation",
+      "snippet": "If the Federal Reserve’s chair, Jerome H. Powell, and his colleagues look at company earnings reports, these themes might catch their eye.",
+      "abstract": "If the Federal Reserve’s chair, Jerome H. Powell, and his colleagues look at company earnings reports, these themes might catch their eye.",
+      "lead_paragraph": "Federal Reserve officials are battling the fastest inflation in four decades, and as they do they are parsing a wide variety of data sources to see what might happen next. If they check in on how executives are describing their companies’ latest financial results, they might have reasons to worry.",
+      "publication_date": "2022-11-01T16:51:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/01/business/economy/fed-rates-company-earnings.html",
+      "byline": "By Jeanna Smialek and Isabella Simonetti"
+    },
+    {
+      "headline": "Once a G.O.P. Stalwart, Liz Cheney Hits the Trail for Democrats",
+      "snippet": "Stumping for Elissa Slotkin in Michigan, Ms. Cheney had an urgent message for voters: “We all must stand and defend the republic.”",
+      "abstract": "Stumping for Elissa Slotkin in Michigan, Ms. Cheney had an urgent message for voters: “We all must stand and defend the republic.”",
+      "lead_paragraph": "EAST LANSING, Mich. — As political speeches go, Representative Liz Cheney’s address to a packed gym here on Tuesday evening was hardly a barn burner. But her message was deeply serious, and the aim of her visit was extraordinary, for a Wyoming Republican: to re-elect a Michigan Democrat, Representative Elissa Slotkin.",
+      "publication_date": "2022-11-01T17:24:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/01/us/politics/cheney-kinzinger-democrats-independents.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Elon Musk’s Twitter Faces Exodus of Advertisers and Executives",
+      "snippet": "At least five Twitter executives have left in recent days, as one of the world’s largest ad companies said clients should pause spending on the social media platform.",
+      "abstract": "At least five Twitter executives have left in recent days, as one of the world’s largest ad companies said clients should pause spending on the social media platform.",
+      "lead_paragraph": "SAN FRANCISCO — Twitter is facing an exodus of executives and skittish advertisers as Elon Musk and his advisers take control of the social media company, prepare to lay off employees and make changes to the product.",
+      "publication_date": "2022-11-01T18:06:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-advertisers.html",
+      "byline": "By Kate Conger, Tiffany Hsu and Ryan Mac"
+    },
+    {
+      "headline": "Top Democrats Question Their Party’s Strategy as Midterm Worries Grow",
+      "snippet": "Leading lawmakers and strategists are openly doubting the party’s kitchen-sink approach, saying Democrats have failed to unite around one central message.",
+      "abstract": "Leading lawmakers and strategists are openly doubting the party’s kitchen-sink approach, saying Democrats have failed to unite around one central message.",
+      "lead_paragraph": "Top Democratic officials, lawmakers and strategists are openly second-guessing their party’s campaign pitch and tactics, reflecting a growing sense that Democrats have failed to coalesce around one effective message with enough time to stave off major losses in the House and possibly decisive defeats in the tightly contested Senate.",
+      "publication_date": "2022-11-01T19:25:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/01/us/politics/midterm-elections-worrying-democrats-strategy.html",
+      "byline": "By Lisa Lerer, Katie Glueck and Reid J. Epstein"
+    },
+    {
+      "headline": "Security Cameras Make Us Feel Safe, but Are They Worth the Invasion?",
+      "snippet": "Internet cameras like Amazon’s Ring come at a high cost to our privacy.",
+      "abstract": "Internet cameras like Amazon’s Ring come at a high cost to our privacy.",
+      "lead_paragraph": "I have always been fascinated by webcams that watch for anything that moves. When I lived in a no-frills neighborhood in San Francisco a few years ago, my camera witnessed all flavors of urban crime, from amateur fireworks shows to street fights. After I moved to the suburbs, my camera became a nature documentarian of the local fauna, like the deer that devour my rosebushes the instant they bloom.",
+      "publication_date": "2022-11-02T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/02/technology/personaltech/security-cameras-surveillance-privacy.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Russian Military Leaders Discussed Use of Nuclear Weapons, U.S. Officials Say",
+      "snippet": "The conversations alarmed the Biden administration because they showed how frustrated Moscow had become over its battlefield setbacks in Ukraine.",
+      "abstract": "The conversations alarmed the Biden administration because they showed how frustrated Moscow had become over its battlefield setbacks in Ukraine.",
+      "lead_paragraph": "WASHINGTON — Senior Russian military leaders recently had conversations to discuss when and how Moscow might use a tactical nuclear weapon in Ukraine, contributing to heightened concern in Washington and allied capitals, according to multiple senior American officials.",
+      "publication_date": "2022-11-02T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/02/us/politics/russia-ukraine-nuclear-weapons.html",
+      "byline": "By Helene Cooper, Julian E. Barnes and Eric Schmitt"
+    },
+    {
+      "headline": "Republicans, Eyeing Majority, Float Changes to Social Security and Medicare",
+      "snippet": "Democrats have seized on Republican proposals to limit retirement benefits to galvanize voters ahead of the midterm elections.",
+      "abstract": "Democrats have seized on Republican proposals to limit retirement benefits to galvanize voters ahead of the midterm elections.",
+      "lead_paragraph": "WASHINGTON — Congressional Republicans, eyeing a midterm election victory that could hand them control of the House and the Senate, have embraced plans to reduce federal spending on Social Security and Medicare, including cutting benefits for some retirees and raising the retirement age for both safety net programs.",
+      "publication_date": "2022-11-02T09:00:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/02/us/politics/republicans-social-security-medicare.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "As Stakes Rise, State Supreme Courts Become Crucial Election Battlegrounds",
+      "snippet": "Pivotal issues like abortion, gerrymandering and voting have been tossed into state justices’ laps. Politicians, ideological PACs and big money are following.",
+      "abstract": "Pivotal issues like abortion, gerrymandering and voting have been tossed into state justices’ laps. Politicians, ideological PACs and big money are following.",
+      "lead_paragraph": "WASHINGTON — State supreme court races, traditionally Election Day afterthoughts, have emerged this year as crucial battlefields in the struggle over the course of American democracy, attracting a torrent of last-minute money and partisan advertising.",
+      "publication_date": "2022-11-02T09:00:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/02/us/state-supreme-court-races-campaigns.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "5 Unfounded Claims About Voting in the Midterm Elections",
+      "snippet": "Here are some of the main falsehoods and rumors that have spread on social media in the lead-up to Election Day.",
+      "abstract": "Here are some of the main falsehoods and rumors that have spread on social media in the lead-up to Election Day.",
+      "lead_paragraph": "Voting-related falsehoods and rumors are flourishing across social media in the final stretch before Election Day on Tuesday.",
+      "publication_date": "2022-11-02T13:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/02/technology/midterm-elections-misinformation.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Fed Makes Fourth Jumbo Rate Increase and Signals More to Come",
+      "snippet": "The Federal Reserve has now raised interest rates six times this year as it tries to quash the fastest inflation in four decades.",
+      "abstract": "The Federal Reserve has now raised interest rates six times this year as it tries to quash the fastest inflation in four decades.",
+      "lead_paragraph": "Federal Reserve officials made their fourth supersize interest rate increase in a row on Wednesday and signaled that they planned to lift rates higher than they had previously anticipated as inflation proves surprisingly rapid and stubborn.",
+      "publication_date": "2022-11-02T15:01:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/02/business/federal-reserve-interest-rates-inflation.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

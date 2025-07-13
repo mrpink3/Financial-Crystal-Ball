@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-10-13",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Democrats in Trump Country: They’re Not Shy Anymore About Liking Biden",
+      "snippet": "As the campaign enters the final stretch, some Democrats in Trump country are less hesitant than before to express their preference. The surge in enthusiasm reflects an urgency for Democrats desperate to oust the president.",
+      "abstract": "As the campaign enters the final stretch, some Democrats in Trump country are less hesitant than before to express their preference. The surge in enthusiasm reflects an urgency for Democrats desperate to oust the president.",
+      "lead_paragraph": "",
+      "publication_date": "2020-10-12T17:42:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/12/us/politics/biden-trump-pennsylvania.html",
+      "byline": "By Katie Glueck"
+    },
+    {
+      "headline": "Trump Funnels Record Subsidies to Farmers Ahead of Election Day",
+      "snippet": "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure.",
+      "abstract": "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure.",
+      "lead_paragraph": "WASHINGTON — For the American farmers President Trump counts on for support, the government money is flowing faster than ever.",
+      "publication_date": "2020-10-12T19:55:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Two Parties Offer Dueling Views of Barrett as Confirmation Fight Begins",
+      "snippet": "On the first day of the election-season confirmation hearings, Democrats portrayed Judge Amy Coney Barrett as a threat to Americans’ health care coverage as Republicans charged anti-Catholic bias.",
+      "abstract": "On the first day of the election-season confirmation hearings, Democrats portrayed Judge Amy Coney Barrett as a threat to Americans’ health care coverage as Republicans charged anti-Catholic bias.",
+      "lead_paragraph": "Republicans and Democrats offered sharply divergent arguments on Monday in a Supreme Court confirmation fight whose outcome is likely to steer the court to the right for years, vying to define Judge Amy Coney Barrett and frame the political stakes of President Trump’s rush to install her before he faces voters.",
+      "publication_date": "2020-10-12T22:40:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/12/us/politics/barrett-confirmation-hearing-supreme-court.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Covid-19 Vaccines Are Chance at Salvation, Financial and Beyond, for Drug Makers",
+      "snippet": "Big profits beckon for pharmaceutical companies, which are already using their work on vaccines to fight efforts in Washington to curb drug prices.",
+      "abstract": "Big profits beckon for pharmaceutical companies, which are already using their work on vaccines to fight efforts in Washington to curb drug prices.",
+      "lead_paragraph": "For a long time, drug makers have been the most hated industry in America. Companies are blamed for gouging prices on lifesaving drugs and enriching themselves through the opioid crisis, among other sins.",
+      "publication_date": "2020-10-13T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/13/business/drug-companies-covid-19-vaccines.html",
+      "byline": "By Jesse Drucker, David Gelles and Katie Thomas"
+    },
+    {
+      "headline": "July Is the New January: More Companies Delay Return to the Office",
+      "snippet": "From Ford to Microsoft, white-collar companies are increasingly extending working from home through next summer.",
+      "abstract": "From Ford to Microsoft, white-collar companies are increasingly extending working from home through next summer.",
+      "lead_paragraph": "When the coronavirus pandemic shuttered offices around the United States in March, many companies told their employees that it would be only a short hiatus away from headquarters.",
+      "publication_date": "2020-10-13T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/13/technology/offices-reopening-delay-coronavirus.html",
+      "byline": "By Gillian Friedman and Kellen Browning"
+    },
+    {
+      "headline": "Europe Can Impose Tariffs on U.S. in Long-Running Aircraft Battle",
+      "snippet": "The World Trade Organization gave the European Union permission to tax up to $4 billion of American products annually in return for subsidies given to Boeing.",
+      "abstract": "The World Trade Organization gave the European Union permission to tax up to $4 billion of American products annually in return for subsidies given to Boeing.",
+      "lead_paragraph": "WASHINGTON — The World Trade Organization on Tuesday gave the European Union permission to impose tariffs on $4 billion worth of American products annually in retaliation for illegal subsidies given to the U.S. plane maker Boeing, a move that could result in levies on American airplanes, agricultural products and other goods.",
+      "publication_date": "2020-10-13T14:02:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/13/business/economy/boeing-europe-tariffs-trade.html",
+      "byline": "By Ana Swanson and Niraj Chokshi"
+    }
+  ]
+}

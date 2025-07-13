@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-05-03",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trump Won’t Nominate Stephen Moore for Fed Board",
+      "snippet": "Mr. Moore, a conservative commentator, appeared unlikely to win Senate confirmation after several Republican lawmakers raised concerns about his past writings denigrating women.",
+      "abstract": "Mr. Moore, a conservative commentator, appeared unlikely to win Senate confirmation after several Republican lawmakers raised concerns about his past writings denigrating women.",
+      "lead_paragraph": "WASHINGTON — President Trump said on Thursday that he would not nominate Stephen Moore for a seat on the Federal Reserve board, the second time in a month that concerns over a potential nominee’s treatment of women have torpedoed Mr. Trump’s attempt to place a loyalist at the Fed.",
+      "publication_date": "2019-05-02T16:32:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/02/business/stephen-moore-fed.html",
+      "byline": "By Jim Tankersley, Maggie Haberman and Emily Cochrane"
+    },
+    {
+      "headline": "F.B.I. Sent Investigator Posing as Assistant to Meet With Trump Aide in 2016",
+      "snippet": "The use of the investigator in an operation aimed at a campaign shows the alarm in the F.B.I. as officials uncovered the scope of Russia’s 2016 election interference.",
+      "abstract": "The use of the investigator in an operation aimed at a campaign shows the alarm in the F.B.I. as officials uncovered the scope of Russia’s 2016 election interference.",
+      "lead_paragraph": "WASHINGTON — The conversation at a London bar in September 2016 took a strange turn when the woman sitting across from George Papadopoulos, a Trump campaign adviser, asked a direct question: Was the Trump campaign working with Russia?",
+      "publication_date": "2019-05-02T17:06:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/02/us/politics/fbi-government-investigator-trump.html",
+      "byline": "By Adam Goldman, Michael S. Schmidt and Mark Mazzetti"
+    },
+    {
+      "headline": "Facebook Bars Alex Jones, Louis Farrakhan and Others From Its Services",
+      "snippet": "The move, which critics said was a long time coming, is an escalation of the social media company’s enforcement of its content policies.",
+      "abstract": "The move, which critics said was a long time coming, is an escalation of the social media company’s enforcement of its content policies.",
+      "lead_paragraph": "SAN FRANCISCO — After years of wavering about how to handle the extreme voices populating its platform, Facebook on Thursday evicted seven of its most controversial users — many of whom are conservatives — immediately inflaming the debate about the power and accountability of large technology companies.",
+      "publication_date": "2019-05-02T19:29:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/02/technology/facebook-alex-jones-louis-farrakhan-ban.html",
+      "byline": "By Mike Isaac and Kevin Roose"
+    },
+    {
+      "headline": "Why Wages Are Finally Rising, 10 Years After the Recession",
+      "snippet": "Lagging pay in a lengthy recovery defied the usual logic. Economists now have a better idea of the reasons and patterns behind the belated bounce.",
+      "abstract": "Lagging pay in a lengthy recovery defied the usual logic. Economists now have a better idea of the reasons and patterns behind the belated bounce.",
+      "lead_paragraph": "For years it was the central question in an otherwise impressive recovery by the American job market: Why aren’t wages rising faster?",
+      "publication_date": "2019-05-02T20:17:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/02/business/economy/wage-growth-economy.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Admissions Scandal: When ‘Hard Work’ (Plus $6.5 Million) Helps Get You Into Stanford",
+      "snippet": "The news that a Chinese family paid $6.5 million to help secure a spot at Stanford illuminated the global reach of the college admissions scheme.",
+      "abstract": "The news that a Chinese family paid $6.5 million to help secure a spot at Stanford illuminated the global reach of the college admissions scheme.",
+      "lead_paragraph": "Sitting in a plush chair and wearing a white blouse buttoned up to the neck, the young woman looks into the camera, smiles and offers advice about getting into a top American university.",
+      "publication_date": "2019-05-02T23:06:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/02/us/yusi-molly-zhao-china-stanford.html",
+      "byline": "By Kate Taylor, Jennifer Medina, Chris Buckley and Alexandra Stevenson"
+    },
+    {
+      "headline": "How a Lone Norwegian Trader Shook the World’s Financial System",
+      "snippet": "A futures bet gone spectacularly wrong provoked a daylong crisis at one of the clearinghouses that are supposed to be global safeguards.",
+      "abstract": "A futures bet gone spectacularly wrong provoked a daylong crisis at one of the clearinghouses that are supposed to be global safeguards.",
+      "lead_paragraph": "On a breezy day in September, an ominous text message appeared on Fredrik Ekstrom’s phone: Go immediately to the war room.",
+      "publication_date": "2019-05-03T07:49:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/05/03/business/central-counterparties-financial-meltdown.html",
+      "byline": "By Jack Ewing and Milan Schreuer"
+    },
+    {
+      "headline": "Job Growth Underscores Economy’s Vigor; Unemployment at Half-Century Low",
+      "snippet": "With 263,000 added to payrolls in April and the jobless rate at 3.6 percent, the recovery shows no sign of losing steam.",
+      "abstract": "With 263,000 added to payrolls in April and the jobless rate at 3.6 percent, the recovery shows no sign of losing steam.",
+      "lead_paragraph": "The unemployment rate fell to its lowest level in half a century last month, capping the longest streak of job creation in modern times and dispelling recession fears that haunted Wall Street at the start of the year.",
+      "publication_date": "2019-05-03T09:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/03/business/economy/jobs-report-april.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Hungary’s Nationalist Policies Have Created a Labor Shortage. The Fix Isn’t Helping.",
+      "snippet": "Businesses are scrambling for workers in Hungary, where Prime Minister Viktor Orban limits work permits for foreigners and rails against immigrants.",
+      "abstract": "Businesses are scrambling for workers in Hungary, where Prime Minister Viktor Orban limits work permits for foreigners and rails against immigrants.",
+      "lead_paragraph": "BUDAPEST — When Balazs Katona couldn’t hire enough Hungarians at his power-tool factory on the outskirts of Hungary’s capital, he tried to recruit skilled workers from other countries. But in a nation with one of the toughest immigration policies in Europe, there were few takers.",
+      "publication_date": "2019-05-03T09:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/03/business/hungary-slave-law.html",
+      "byline": "By Liz Alderman and Marc Santora"
+    },
+    {
+      "headline": "Hunt for Operators of Illicit Marketplace Leads to Arrests in Germany",
+      "snippet": "A team of international investigators arrested three people accused of running an online site for selling drugs and other illegal goods.",
+      "abstract": "A team of international investigators arrested three people accused of running an online site for selling drugs and other illegal goods.",
+      "lead_paragraph": "WIESBADEN, Germany — A team of international investigators said Friday that they had shut down an online marketplace for illegal drugs, weapons, stolen data and other contraband with more than one million customer accounts, illustrating how crime fighting has increasingly become a battle in cyberspace.",
+      "publication_date": "2019-05-03T10:02:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/03/business/germany-wall-street-market-drugs.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Bullets, Tear Gas and Love: Romance Blooms in the Midst of Sudan Protests",
+      "snippet": "After decades of rule under a dictator, a wave of exuberance has rippled across Sudan’s capital as the young revel in newfound freedoms — to speak, party and find love.",
+      "abstract": "After decades of rule under a dictator, a wave of exuberance has rippled across Sudan’s capital as the young revel in newfound freedoms — to speak, party and find love.",
+      "lead_paragraph": "KHARTOUM, Sudan — The minivan sped along the Nile, weaving through the evening traffic. The bride sat up front in a pink dress, a sparkling purse on her lap and her feet swaddled in bandages.",
+      "publication_date": "2019-05-03T11:37:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/03/world/africa/sudan-protests-khartoum.html",
+      "byline": "By Declan Walsh and Bryan Denton"
+    }
+  ]
+}

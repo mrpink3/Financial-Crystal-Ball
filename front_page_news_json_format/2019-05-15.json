@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-05-15",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump’s Tariffs, Once Seen as Leverage, May Be Here to Stay",
+      "snippet": "The president’s latest trade measures have left the United States with the highest tariff rate among the most developed countries, outranking Canada, Germany, Russia and even China.",
+      "abstract": "The president’s latest trade measures have left the United States with the highest tariff rate among the most developed countries, outranking Canada, Germany, Russia and even China.",
+      "lead_paragraph": "WASHINGTON — President Trump’s tariffs were initially seen as a cudgel to force other countries to drop their trade barriers. But they increasingly look like a more permanent tool to shelter American industry, block imports and banish an undesirable trade deficit.",
+      "publication_date": "2019-05-14T20:49:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/14/us/politics/trump-tariffs-china.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Before Ethiopian Crash, Boeing Resisted Pilots’ Calls for Aggressive Steps on 737 Max",
+      "snippet": "In a tense meeting with American Airlines pilots shortly after the first deadly crash of Boeing’s new jet, executives insisted that the plane was safe to fly.",
+      "abstract": "In a tense meeting with American Airlines pilots shortly after the first deadly crash of Boeing’s new jet, executives insisted that the plane was safe to fly.",
+      "lead_paragraph": "Weeks after the first fatal crash of the 737 Max, pilots from American Airlines pressed Boeing executives to work urgently on a fix. In a closed-door meeting, they even argued that Boeing should push authorities to take an emergency measure that would likely result in the grounding of the Max.",
+      "publication_date": "2019-05-14T21:11:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/14/business/boeing-737-max-ethiopian-plane-crash.html",
+      "byline": "By David Gelles and Natalie Kitroeff"
+    },
+    {
+      "headline": "San Francisco Bans Facial Recognition Technology",
+      "snippet": "It is the first ban by a major city on the use of facial recognition technology by the police and all other municipal agencies.",
+      "abstract": "It is the first ban by a major city on the use of facial recognition technology by the police and all other municipal agencies.",
+      "lead_paragraph": "SAN FRANCISCO — San Francisco, long at the heart of the technology revolution, took a stand against potential abuse on Tuesday by banning the use of facial recognition software by the police and other agencies.",
+      "publication_date": "2019-05-14T22:02:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html",
+      "byline": "By Kate Conger, Richard Fausset and Serge F. Kovaleski"
+    },
+    {
+      "headline": "At the N.R.A., a Cash Machine Sputtering",
+      "snippet": "As the gun rights group lavished pay and perks on its leaders and partners, fueling infighting, it increasingly relied on its own charity for funds. Tax experts have questions.",
+      "abstract": "As the gun rights group lavished pay and perks on its leaders and partners, fueling infighting, it increasingly relied on its own charity for funds. Tax experts have questions.",
+      "lead_paragraph": "The tantalizing leaks have spilled out in the weeks since the National Rifle Association’s annual convention in Indianapolis devolved into civil war.",
+      "publication_date": "2019-05-14T23:51:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/14/us/nra-finances-executives-board-members.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Skeptical U.S. Allies Resist Trump’s New Claims of Threats From Iran",
+      "snippet": "The Trump administration is laying the groundwork for major military action against Iran, but it may have a hard time rallying domestic and international support.",
+      "abstract": "The Trump administration is laying the groundwork for major military action against Iran, but it may have a hard time rallying domestic and international support.",
+      "lead_paragraph": "WASHINGTON — As the Trump administration draws up war plans against Iran over what it says are threats to American troops and interests, a senior British military official told reporters at the Pentagon on Tuesday that he saw no increased risk from Iran or allied militias in Iraq or Syria.",
+      "publication_date": "2019-05-15T01:00:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/14/world/middleeast/trump-iran-threats.html",
+      "byline": "By Helene Cooper and Edward Wong"
+    },
+    {
+      "headline": "Facebook Restricts Live Streaming After New Zealand Shooting",
+      "snippet": "When 51 people were killed in New Zealand, the suspect broadcast it live on Facebook. The massacre led to a global call to combat the spread of violent content.",
+      "abstract": "When 51 people were killed in New Zealand, the suspect broadcast it live on Facebook. The massacre led to a global call to combat the spread of violent content.",
+      "lead_paragraph": "SAN FRANCISCO — When 51 people were killed in Christchurch, New Zealand, in March, the suspect, an Australian man, broadcast the attack live on Facebook. The video spread across the internet.",
+      "publication_date": "2019-05-15T03:00:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/14/technology/facebook-live-violent-content.html",
+      "byline": "By Cade Metz and Adam Satariano"
+    },
+    {
+      "headline": "The Global Economy Was Improving. Then the Fighting Resumed.",
+      "snippet": "The escalating trade war between the United States and China is threatening the global economy.",
+      "abstract": "The escalating trade war between the United States and China is threatening the global economy.",
+      "lead_paragraph": "LONDON — In ordinary times, worries about the health of the global economy tend to prompt leaders of the largest countries to join forces in pursuit of safety.",
+      "publication_date": "2019-05-15T09:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/15/business/us-china-trade-war-economy.html",
+      "byline": "By Peter S. Goodman"
+    }
+  ]
+}

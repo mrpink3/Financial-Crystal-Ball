@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-11-21",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future",
+      "snippet": "A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.",
+      "abstract": "A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.",
+      "lead_paragraph": "The future of OpenAI is in jeopardy after more than 700 of its 770 employees signed a letter on Monday saying they may leave the company for Microsoft if the ousted chief executive, Sam Altman, is not reinstalled at the high-profile artificial intelligence start-up.",
+      "publication_date": "2023-11-20T19:16:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/20/business/openai-staff-exodus-turmoil.html",
+      "byline": "By Cade Metz, Tripp Mickle and Mike Isaac"
+    },
+    {
+      "headline": "Trump’s Dire Words Raise New Fears About His Authoritarian Bent",
+      "snippet": "The former president is focusing his most vicious attacks on domestic political opponents, setting off fresh worries among autocracy experts.",
+      "abstract": "The former president is focusing his most vicious attacks on domestic political opponents, setting off fresh worries among autocracy experts.",
+      "lead_paragraph": "Donald J. Trump rose to power with political campaigns that largely attacked external targets, including immigration from predominantly Muslim countries and from south of the United States-Mexico border.",
+      "publication_date": "2023-11-20T19:57:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/20/us/politics/trump-rhetoric-fascism.html",
+      "byline": "By Michael C. Bender and Michael Gold"
+    },
+    {
+      "headline": "Argentina Braces Itself for Its New ‘Anarcho-Capitalist’ President",
+      "snippet": "Javier Milei has said that society is better without government. Now he is about to run Argentina’s.",
+      "abstract": "Javier Milei has said that society is better without government. Now he is about to run Argentina’s.",
+      "lead_paragraph": "Javier Milei was first introduced to the Argentine public as a combative television personality with an unruly hairdo and a tendency to insult his critics. So when he entered Argentina’s presidential race last year, he was viewed by many as a sideshow.",
+      "publication_date": "2023-11-20T21:27:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/20/world/americas/javier-milei-argentina-trump.html",
+      "byline": "By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera"
+    },
+    {
+      "headline": "How Microsoft’s Satya Nadella Kept the ‘Best Bromance in Tech’ Alive",
+      "snippet": "Mr. Nadella moved fast to hire Sam Altman, who was pushed out of OpenAI on Friday, and asserted his company’s role in its partnership with the A.I. start-up.",
+      "abstract": "Mr. Nadella moved fast to hire Sam Altman, who was pushed out of OpenAI on Friday, and asserted his company’s role in its partnership with the A.I. start-up.",
+      "lead_paragraph": "Just two weeks ago, Microsoft’s Satya Nadella stood onstage next to OpenAI’s Sam Altman at the start-up’s conference in a former concert hall in San Francisco. Both wore black jeans, Mr. Altman in an army-green shirt and Mr. Nadella in navy casual.",
+      "publication_date": "2023-11-20T21:44:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/20/technology/openai-microsoft-altman-nadella.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI",
+      "snippet": "Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.",
+      "abstract": "Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.",
+      "lead_paragraph": "Steve Jobs, driven by his genius and his gut, invented the iPhone and built Apple into the world’s most valuable company. He was uncompromising, larger than life and irreplaceable. His life was creating the future, which would be filled with devices controlled by their users.",
+      "publication_date": "2023-11-21T08:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/21/technology/sam-altman-steve-jobs.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits",
+      "snippet": "Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.",
+      "abstract": "Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.",
+      "lead_paragraph": "It seems like something out of science fiction: swarms of killer robots that hunt down targets on their own and are capable of flying in for the kill without any human signing off.",
+      "publication_date": "2023-11-21T10:00:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/21/us/politics/ai-drones-war-law.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "Families Fear for the Health of Ailing, Frail Israelis Held Hostage",
+      "snippet": "Many of the more than 200 people seized by Hamas when it raided Israel had serious medical conditions. Some were badly injured in the attack. Doctors say they need medical care urgently.",
+      "abstract": "Many of the more than 200 people seized by Hamas when it raided Israel had serious medical conditions. Some were badly injured in the attack. Doctors say they need medical care urgently.",
+      "lead_paragraph": "When armed Hamas terrorists invaded her home on Oct. 7, Karina Engelbert was still recovering from a double mastectomy and breast reconstruction surgery that had gone terribly awry. She was weak and easily fatigued, and a buildup of painful scar tissue on her chest caused tightness, limiting her mobility.",
+      "publication_date": "2023-11-21T10:05:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/21/world/middleeast/hamas-hostages-health.html",
+      "byline": "By Roni Caryn Rabin"
+    }
+  ]
+}

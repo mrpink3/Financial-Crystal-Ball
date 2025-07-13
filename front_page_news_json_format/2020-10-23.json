@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-10-23",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Iowa Never Locked Down. Its Economy Is Struggling Anyway.",
+      "snippet": "President Trump has blamed Democratic officials’ rules for impeding the recovery. But even where restrictions are few, business is far from normal.",
+      "abstract": "President Trump has blamed Democratic officials’ rules for impeding the recovery. But even where restrictions are few, business is far from normal.",
+      "lead_paragraph": "As far as the law is concerned, there is no reason that Amedeo Rossi can’t reopen his martini bar in downtown Des Moines, or resume shows at his concert venue two doors down. Yet Mr. Rossi’s businesses remain dark, and one has closed for good.",
+      "publication_date": "2020-10-22T19:20:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/22/business/economy/economy-coronavirus-lockdown-iowa.html",
+      "byline": "By Ben Casselman and Jim Tankersley"
+    },
+    {
+      "headline": "Russia Poses Greater Election Threat Than Iran, Many U.S. Officials Say",
+      "snippet": "Russia’s hackers appeared to be preparing to sow chaos amid any uncertainty around election results, officials said.",
+      "abstract": "Russia’s hackers appeared to be preparing to sow chaos amid any uncertainty around election results, officials said.",
+      "lead_paragraph": "WASHINGTON — While senior Trump administration officials said this week that Iran has been actively interfering in the presidential election, many intelligence officials said they remained far more concerned about Russia, which in recent days has hacked into state and local computer networks in breaches that could allow Moscow broader access to American voting infrastructure.",
+      "publication_date": "2020-10-22T19:26:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/22/us/politics/russia-election-interference-hacks.html",
+      "byline": "By Julian E. Barnes, Nicole Perlroth and David E. Sanger"
+    },
+    {
+      "headline": "Unemployment Claims Are Down, but Many Workers Lower Expectations",
+      "snippet": "With temporary layoffs turning permanent and career paths derailed, economists say a new coronavirus wave could derail the recovery.",
+      "abstract": "With temporary layoffs turning permanent and career paths derailed, economists say a new coronavirus wave could derail the recovery.",
+      "lead_paragraph": "The number of workers filing new unemployment claims fell last week, the government reported on Thursday, but the levels remain achingly high as the incipient economic recovery struggles to maintain a foothold.",
+      "publication_date": "2020-10-22T19:59:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/22/business/economy/unemployment-claims.html",
+      "byline": "By Patricia Cohen and Ben Casselman"
+    },
+    {
+      "headline": "A #MeToo Awakening Stirs in Iran",
+      "snippet": "The #MeToo movement has hit a nerve among Iran’s women. Now accusations against a politically connected celebrity artist are testing the movement in a sexually conservative society dominated by men.",
+      "abstract": "The #MeToo movement has hit a nerve among Iran’s women. Now accusations against a politically connected celebrity artist are testing the movement in a sexually conservative society dominated by men.",
+      "lead_paragraph": "Three years into the global #MeToo movement, women who say they have been sexually assaulted are improbably going public in the Islamic Republic of Iran.",
+      "publication_date": "2020-10-22T20:10:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/22/world/middleeast/iran-metoo-aydin-aghdashloo.html",
+      "byline": "By Farnaz Fassihi"
+    },
+    {
+      "headline": "In Calmer Debate, Biden and Trump Offer Sharply Different Visions for Nation",
+      "snippet": "In a more restrained appearance, President Trump depicted Joseph R. Biden Jr. as an ineffectual Washington insider.  Mr. Biden accused the president of heartlessness for separating migrant families and inflaming racial tensions.",
+      "abstract": "In a more restrained appearance, President Trump depicted Joseph R. Biden Jr. as an ineffectual Washington insider.  Mr. Biden accused the president of heartlessness for separating migrant families and inflaming racial tensions.",
+      "lead_paragraph": "President Trump and Joseph R. Biden Jr. delivered starkly divergent closing arguments to the country in the final presidential debate on Thursday, offering opposite prognoses for the coronavirus pandemic and airing irreconcilable differences on subjects from rescuing the economy and bolstering the health care system to fighting climate change and reshaping the immigration policy.",
+      "publication_date": "2020-10-23T02:54:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/22/us/politics/debate-presidential-recap.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Susan Collins Hasn’t Changed Much, but Maine Has",
+      "snippet": "Democrats are angry with her. Republicans see her as disloyal to the president. Her old-fashioned politics? “I don’t know if people respond as well to that anymore,” said her G.O.P. predecessor in the Senate.",
+      "abstract": "Democrats are angry with her. Republicans see her as disloyal to the president. Her old-fashioned politics? “I don’t know if people respond as well to that anymore,” said her G.O.P. predecessor in the Senate.",
+      "lead_paragraph": "BANGOR, Maine — Senator Susan Collins of Maine seemed to have a challenge on her hands.",
+      "publication_date": "2020-10-23T09:00:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/23/us/politics/susan-collins-maine-senate.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "It’s a Ballot Fight for Survival for Gig Companies Like Uber",
+      "snippet": "A group that also includes Lyft and DoorDash has spent nearly $200 million to support a California proposition that could save them from a new labor law.",
+      "abstract": "A group that also includes Lyft and DoorDash has spent nearly $200 million to support a California proposition that could save them from a new labor law.",
+      "lead_paragraph": "OAKLAND, Calif. — By late August, the urgency was becoming clear. Top executives of Uber, Lyft and the delivery service DoorDash met to discuss a California ballot measure that would exempt them from a new state labor law and save their companies hundreds of millions of dollars.",
+      "publication_date": "2020-10-23T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/23/technology/uber-lyft-california-prop-22.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Labor Department Curbs Announcements of Company Violations",
+      "snippet": "A memo tells officials to hold back on news releases about enforcement decisions, saying they can linger unfairly online if citations are overturned.",
+      "abstract": "A memo tells officials to hold back on news releases about enforcement decisions, saying they can linger unfairly online if citations are overturned.",
+      "lead_paragraph": "For years, the Labor Department has made a practice of issuing sternly worded news releases calling out companies deemed by its enforcement staff to have violated the law, including rules governing discrimination, worker safety, the minimum wage and overtime.",
+      "publication_date": "2020-10-23T13:50:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/23/business/economy/labor-department-memo.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

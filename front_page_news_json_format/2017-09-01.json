@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2017-09-01",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Storm’s Impact on Oil Industry Is Felt at Gasoline Pumps",
+      "snippet": "Fuel prices are up sharply nationwide in Hurricane Harvey’s aftermath, and may be so for months, given the blows to refining, production and shipping.",
+      "abstract": "Fuel prices are up sharply nationwide in Hurricane Harvey’s aftermath, and may be so for months, given the blows to refining, production and shipping.",
+      "lead_paragraph": "HOUSTON — Ports along the Gulf of Mexico are closed to fuel barges. Part of the biggest pipeline between Texas and New York has stopped flowing. Refineries and gas stations are flooded. Drilling rigs in the biggest shale field in Texas are running low on diesel supplies.",
+      "publication_date": "2017-09-01T00:13:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/31/business/energy-environment/storm-oil-industry.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Manufacturing Is a Bright Spot in a Subdued Jobs Report",
+      "snippet": "Employers added 156,000 jobs in August, fewer than expected. But Mack Trucks’ turn from layoffs to hiring typifies a revival at factories this year.",
+      "abstract": "Employers added 156,000 jobs in August, fewer than expected. But Mack Trucks’ turn from layoffs to hiring typifies a revival at factories this year.",
+      "lead_paragraph": "MACUNGIE, Pa. — At the sprawling Mack Trucks factory here, the last of the workers laid off in 2016 after sales slowed down are back on the line, and for the first time in years, the company is hiring new employees.",
+      "publication_date": "2017-09-01T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/01/business/economy/jobs-report-unemployment.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Floodwaters Inundate Beaumont as Houston Assesses Damage",
+      "snippet": "Across coastal Texas, millions of residents grappled with the devastating effects of storm Harvey while millions of others returned home to take in the damage.",
+      "abstract": "Across coastal Texas, millions of residents grappled with the devastating effects of storm Harvey while millions of others returned home to take in the damage.",
+      "lead_paragraph": "HOUSTON — As Southeast Texas residents emerged by the thousands from shelters, motels and friends’ houses to return to flood-damaged homes, others remained in the grip of the crisis on Friday, cut off by still-rising floodwaters and living without running water for a second day.",
+      "publication_date": "2017-09-01T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/01/us/houston-evacuees-hurricane-home.html",
+      "byline": "By Audra D. S. Burch, Richard Pérez-Peña and Julie Turkewitz"
+    },
+    {
+      "headline": "Kenya Supreme Court Nullifies Presidential Election",
+      "snippet": "The justices threw out last month’s re-election of President Uhuru Kenyatta, calling the result “null and void” and ordering a new vote.",
+      "abstract": "The justices threw out last month’s re-election of President Uhuru Kenyatta, calling the result “null and void” and ordering a new vote.",
+      "lead_paragraph": "NAIROBI, Kenya — In a historic ruling and a first in Africa, Kenya’s Supreme Court nullified on Friday the re-election of a sitting president, ordering a new vote to be held within 60 days after finding that the outcome last month had been tainted by irregularities.",
+      "publication_date": "2017-09-01T09:07:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/01/world/africa/kenya-election-kenyatta-odinga.html",
+      "byline": "By Kimiko de Freytas-Tamura"
+    },
+    {
+      "headline": "Russian Election Hacking Efforts, Wider Than Previously Known, Draw Little Scrutiny",
+      "snippet": "A Times investigation has found that infiltration efforts were broader than previously disclosed and that state and federal agencies have conducted few forensic inquiries.",
+      "abstract": "A Times investigation has found that infiltration efforts were broader than previously disclosed and that state and federal agencies have conducted few forensic inquiries.",
+      "lead_paragraph": "The calls started flooding in from hundreds of irate North Carolina voters just after 7 a.m. on Election Day last November.",
+      "publication_date": "2017-09-01T14:14:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/01/us/politics/russia-election-hacking.html",
+      "byline": "By Nicole Perlroth, Michael Wines and Matthew Rosenberg"
+    },
+    {
+      "headline": "Why a 24-Year-Old Chipmaker Is One of Tech’s Hot Prospects",
+      "snippet": "Nvidia, a maker of graphics processing units, is riding an artificial intelligence boom to put its chips in drones, robots and self-driving cars.",
+      "abstract": "Nvidia, a maker of graphics processing units, is riding an artificial intelligence boom to put its chips in drones, robots and self-driving cars.",
+      "lead_paragraph": "SANTA CLARA, Calif. — Engineers at CTA.ai, an imaging-technology start-up in Poland, are trying to popularize a more comfortable alternative to the colonoscopy. To do so, they are using computer chips that are best known to video game fans.",
+      "publication_date": "2017-09-01T15:43:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/01/technology/nvidia-chipmaker.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "How Low-Cost Airlines Alter the Economics of Flying",
+      "snippet": "Even as mergers have significantly reduced competition, airlines like Spirit and Frontier continue to play a role in moderating ticket costs.",
+      "abstract": "Even as mergers have significantly reduced competition, airlines like Spirit and Frontier continue to play a role in moderating ticket costs.",
+      "lead_paragraph": "For more than three years, the average one-way fare between Detroit and Philadelphia never dipped below $308, and sometimes moved higher, topping $385 at one point.",
+      "publication_date": "2017-09-01T15:52:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/01/business/budget-airlines-ticket-prices.html",
+      "byline": "By Micah Maidenberg"
+    }
+  ]
+}

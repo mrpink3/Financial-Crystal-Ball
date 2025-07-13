@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-11-08",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Los Angeles Voters Are in a Foul Mood. Will a New Mayor Change Anything?",
+      "snippet": "Residents are frustrated over homelessness, crime and rising costs. Two candidates for mayor, Karen Bass and Rick Caruso, say they can turn the tide.",
+      "abstract": "Residents are frustrated over homelessness, crime and rising costs. Two candidates for mayor, Karen Bass and Rick Caruso, say they can turn the tide.",
+      "lead_paragraph": "LOS ANGELES — It was Saturday and sunny in the nation’s second most populous city, but the Rev. James McKnight’s mood was grim.",
+      "publication_date": "2022-11-07T20:25:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/07/us/la-mayor-karen-bass-rick-caruso.html",
+      "byline": "By Shawn Hubler"
+    },
+    {
+      "headline": "When Does Collaboration Become Collusion?",
+      "snippet": "Adhering to antitrust regulation while negotiating collective sustainability targets is proving tougher to navigate for some in the fashion industry.",
+      "abstract": "Adhering to antitrust regulation while negotiating collective sustainability targets is proving tougher to navigate for some in the fashion industry.",
+      "lead_paragraph": "In the spring of 2020, during the earliest and darkest months of the coronavirus pandemic, a group of clothing executives and designers began talking — tentatively — about upending some of the global fashion industry’s hidebound practices.",
+      "publication_date": "2022-11-07T20:34:17+0000",
+      "section_name": "Fashion & Style",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/07/fashion/fashion-industry-antitrust-sustainability.html",
+      "byline": "By Elizabeth Paton, Ephrat Livni and Jenny Gross"
+    },
+    {
+      "headline": "Facing a Tide of Criticism, Elon Musk Is Tweeting Through It",
+      "snippet": "The new owner of Twitter has embarked on a tweeting spree to push back, spar and justify his actions.",
+      "abstract": "The new owner of Twitter has embarked on a tweeting spree to push back, spar and justify his actions.",
+      "lead_paragraph": "Under pressure and facing a wave of criticism, Elon Musk has increasingly turned to his favorite release valve: Twitter.",
+      "publication_date": "2022-11-07T22:34:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/11/07/technology/elon-musk-twitter-spree.html",
+      "byline": "By Ryan Mac"
+    },
+    {
+      "headline": "Apple Built Its Empire With China. Now Its Foundation Is Showing Cracks.",
+      "snippet": "Lawmakers’ objections to an obscure Chinese semiconductor company and tough Covid-19 restrictions are hurting Apple’s ability to make new iPhones in China.",
+      "abstract": "Lawmakers’ objections to an obscure Chinese semiconductor company and tough Covid-19 restrictions are hurting Apple’s ability to make new iPhones in China.",
+      "lead_paragraph": "Every September, Apple unveils its latest phones at its futuristic Silicon Valley campus. A few weeks later, tens of millions of its newest handsets, assembled by legions of seasonal workers hired by its suppliers, are shipped from Chinese factories to customers around the world.",
+      "publication_date": "2022-11-07T23:23:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/07/business/apple-china-ymtc.html",
+      "byline": "By Tripp Mickle, Chang Che and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Fueled by Falsehoods, a Michigan Group Is Ready to Challenge the Vote",
+      "snippet": "In private meetings, activists, lawyers and G.O.P. officials laid out their strategy. “If there is a close election, it’s going to be up to us to fix it,” one said.",
+      "abstract": "In private meetings, activists, lawyers and G.O.P. officials laid out their strategy. “If there is a close election, it’s going to be up to us to fix it,” one said.",
+      "lead_paragraph": "DETROIT — The invitation went out in early July.",
+      "publication_date": "2022-11-08T01:22:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/07/us/politics/michigan-elections-group.html",
+      "byline": "By Alexandra Berzon and Ken Bensinger"
+    },
+    {
+      "headline": "The World’s Democracies Ask: Why Can’t America Fix Itself?",
+      "snippet": "Conversations across continents reveal alarm over the United States’ direction, as it slides away from ideals it once pressed other nations to adopt.",
+      "abstract": "Conversations across continents reveal alarm over the United States’ direction, as it slides away from ideals it once pressed other nations to adopt.",
+      "lead_paragraph": "Lin Wei-hsuan was just a child when he observed his first Taiwanese election almost two decades ago. His parents took him to watch the vote-counting, where volunteers held up each paper ballot, shouting out the choice and marking it on a board for all to see — the huge crowd of citizens inside, and many more watching live on television.",
+      "publication_date": "2022-11-08T12:10:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/11/08/world/us-international-democracy.html",
+      "byline": "By Damien Cave"
+    }
+  ]
+}

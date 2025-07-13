@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-06-24",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Lawmakers at Impasse on Trading",
+      "snippet": "House negotiators working on an overhaul of the financial system agreed to leave out a $150 billion fund that would have been used to liquidate large institutions.",
+      "abstract": "House negotiators working on an overhaul of the financial system agreed to leave out a $150 billion fund that would have been used to liquidate large institutions.",
+      "lead_paragraph": "WASHINGTON  Derivatives trading, a business long prized by Wall Street but little noticed by anyone else, is rapidly gaining prominence as the rare part of the nation’s vast financial infrastructure that Democrats cannot agree how to regulate.",
+      "publication_date": "2010-06-23T16:18:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/24/business/24regulate.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Is Apple a Victim of Sour Grapes?",
+      "snippet": "Once dismissed by larger companies, Apple is now viewed by some as an anticompetitive industry bully.",
+      "abstract": "Once dismissed by larger companies, Apple is now viewed by some as an anticompetitive industry bully.",
+      "lead_paragraph": "SAN FRANCISCO  As Apple fans line up at stores on Thursday morning for the release of the fourth iteration of the iPhone, the company is riding high. ",
+      "publication_date": "2010-06-23T18:27:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/24/technology/24apple.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "Judge Sides With Google in Viacom Video Suit",
+      "snippet": "A $1 billion copyright lawsuit claimed copyright infringement by the video-sharing site YouTube, owned by Google. Viacom said it would appeal.",
+      "abstract": "A $1 billion copyright lawsuit claimed copyright infringement by the video-sharing site YouTube, owned by Google. Viacom said it would appeal.",
+      "lead_paragraph": "SAN FRANCISCO  In a major victory for Google in its battle with media companies, a federal judge in New York on Wednesday threw out Viacom’s $1 billion copyright infringement lawsuit against Google’s YouTube, the No. 1 Internet video-sharing site.",
+      "publication_date": "2010-06-23T21:06:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/24/technology/24google.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "On CNN, a Prime-Time Return for Spitzer",
+      "snippet": "The disgraced former governor of New York will host a talk show with the columnist Kathleen Parker. Their opinion show replaces Campbell Brown’s news program.",
+      "abstract": "The disgraced former governor of New York will host a talk show with the columnist Kathleen Parker. Their opinion show replaces Campbell Brown’s news program.",
+      "lead_paragraph": "Eliot Spitzer, the disgraced former governor of New York, will formally re-emerge in the fall as a television personality, hosting a new prime-time discussion program on CNN.",
+      "publication_date": "2010-06-24T00:18:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/24/business/media/24cnn.html",
+      "byline": "By Bill Carter and Brian Stelter"
+    },
+    {
+      "headline": "On Wall Street, So Much Cash, So Little Time",
+      "snippet": "Private equity firms sit atop an estimated $500 Billion and are desperate to find deals worth doing.",
+      "abstract": "Private equity firms sit atop an estimated $500 Billion and are desperate to find deals worth doing.",
+      "lead_paragraph": "Only on Wall Street, in the rarefied realm of buyout moguls, could you actually have too much money. ",
+      "publication_date": "2010-06-24T00:41:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/24/business/24private.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "BP Is Pursuing Alaska Drilling Some Call Risky",
+      "snippet": "BP is moving ahead with an Alaska project considered “onshore” because it sits on an artificial island built by the company.",
+      "abstract": "BP is moving ahead with an Alaska project considered “onshore” because it sits on an artificial island built by the company.",
+      "lead_paragraph": "The future of BP’s offshore oil operations in the Gulf of Mexico has been thrown into doubt by the recent drilling disaster and court wrangling over a moratorium.",
+      "publication_date": "2010-06-24T00:44:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/24/us/24rig.html",
+      "byline": "By Ian Urbina"
+    },
+    {
+      "headline": "Debate Over Industry Role in Educating Doctors",
+      "snippet": "Scrutiny of corporate financing for continuing medical education is growing because of the potential for promoting products over patient interests.",
+      "abstract": "Scrutiny of corporate financing for continuing medical education is growing because of the potential for promoting products over patient interests.",
+      "lead_paragraph": "In the latest effort to break up the often cozy relationship between doctors and the medical industry, the University of Michigan Medical School has become the first to decide that it will no longer take any money from drug and device makers to pay for coursework doctors need to renew their medical licenses.",
+      "publication_date": "2010-06-24T01:24:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/06/24/business/24meded.html",
+      "byline": "By Natasha Singer and Duff Wilson"
+    },
+    {
+      "headline": "Sexual Assaults Add to Miseries of Haiti’s Ruins",
+      "snippet": "Violence against women escalated following the Jan. 12 earthquake, say officials and women’s groups.",
+      "abstract": "Violence against women escalated following the Jan. 12 earthquake, say officials and women’s groups.",
+      "lead_paragraph": "PORT-AU-PRINCE, Haiti  The 22-year-old woman, wearing a gauzy blue dress that she had changed into after her release, spoke in a whispery voice.",
+      "publication_date": "2010-06-24T01:58:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/06/24/world/americas/24haiti.html",
+      "byline": "By Deborah Sontag"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-10-29",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Facebook Renames Itself Meta",
+      "snippet": "The social network, under fire for spreading misinformation and other issues, said the change was part of its bet on a next digital frontier called the metaverse.",
+      "abstract": "The social network, under fire for spreading misinformation and other issues, said the change was part of its bet on a next digital frontier called the metaverse.",
+      "lead_paragraph": "SAN FRANCISCO — Facebook rose to prominence over the past two decades with some of the world’s most recognizable branding: a big blue-and-white letter F.",
+      "publication_date": "2021-10-28T18:22:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/28/technology/facebook-meta-name-change.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Who Are America’s Billionaires, Anyway?",
+      "snippet": "They are tech titans, entertainment moguls and heirs to great fortunes. Their ranks grew during the pandemic, changing the political conversation around taxing the wealthy.",
+      "abstract": "They are tech titans, entertainment moguls and heirs to great fortunes. Their ranks grew during the pandemic, changing the political conversation around taxing the wealthy.",
+      "lead_paragraph": "It’s the other inflation problem.",
+      "publication_date": "2021-10-28T19:42:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/28/business/america-billionaires.html",
+      "byline": "By Nicholas Kulish, Ephrat Livni and Emma Goldberg"
+    },
+    {
+      "headline": "A Social Policy ‘Framework’ Fails to Secure a Biden Victory",
+      "snippet": "President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure.",
+      "abstract": "President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure.",
+      "lead_paragraph": "WASHINGTON — President Biden on Thursday unveiled his outline for a $1.85 trillion social safety net and environmental bill, imploring Democrats to put aside their differences and embrace a plan to provide universal prekindergarten, generous support for child care costs and the largest investment ever to combat climate change.",
+      "publication_date": "2021-10-28T23:31:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html",
+      "byline": "By Jonathan Weisman and Emily Cochrane"
+    },
+    {
+      "headline": "Biden Implores Democrats to Support His Transformative Agenda",
+      "snippet": "“The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday.",
+      "abstract": "“The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday.",
+      "lead_paragraph": "WASHINGTON — President Biden was blunt. Democrats had to rally behind his $1.85 trillion economic and environmental spending bill, he told them on Thursday, because nothing less than his presidency was at stake.",
+      "publication_date": "2021-10-28T23:44:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html",
+      "byline": "By Michael D. Shear and Jim Tankersley"
+    },
+    {
+      "headline": "Keep or Replace? The Fate of the Minneapolis Police Is in Voters’ Hands.",
+      "snippet": "In the city where the “defund the police” movement took off, voters will decide next week whether to replace their Police Department with a new public safety agency.",
+      "abstract": "In the city where the “defund the police” movement took off, voters will decide next week whether to replace their Police Department with a new public safety agency.",
+      "lead_paragraph": "MINNEAPOLIS — Days after a police officer murdered George Floyd, protesters gathered outside Mayor Jacob Frey’s home demanding that the Minneapolis Police Department be abolished. The mayor said no. The crowd responded with jeers of “Shame!”",
+      "publication_date": "2021-10-29T07:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/29/us/minneapolis-police-ballot-measure.html",
+      "byline": "By Mitch Smith and Tim Arango"
+    },
+    {
+      "headline": "Apple’s Most Back-Ordered New Product Is Not What You Expect",
+      "snippet": "It’s a $19 cloth.",
+      "abstract": "It’s a $19 cloth.",
+      "lead_paragraph": "OAKLAND, Calif — Apple this month unveiled an array of new gadgets: more powerful MacBook laptop computers, AirPod wireless headphones with longer battery life and HomePod Mini speakers in three more colors.",
+      "publication_date": "2021-10-29T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/29/technology/apple-polishing-cloth.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "The Metaverse Is Mark Zuckerberg’s Escape Hatch",
+      "snippet": "If his new strategy works — a big if — it could help address several of Facebook’s biggest problems.",
+      "abstract": "If his new strategy works — a big if — it could help address several of Facebook’s biggest problems.",
+      "lead_paragraph": "When Mark Zuckerberg appeared onscreen at Facebook’s virtual Connect conference on Thursday, smiling as he wandered through sterile rooms filled with midcentury modern furniture, he looked like a man unburdened.",
+      "publication_date": "2021-10-29T09:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/29/technology/meta-facebook-zuckerberg.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Greece Is Getting Rewired for the Future",
+      "snippet": "As climate change bears down, Greece is upending its sources of energy and trying to reshape its economic destiny.",
+      "abstract": "As climate change bears down, Greece is upending its sources of energy and trying to reshape its economic destiny.",
+      "lead_paragraph": "NAXOS, Greece — On the windswept western tip of one of Greece’s largest islands, an unassuming stone building above the Aegean Sea has become an unlikely outpost in this country’s fight against climate change.",
+      "publication_date": "2021-10-29T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/29/business/greece-green-energy-climate-eu.html",
+      "byline": "By Liz Alderman and Eirini Vourloumis"
+    },
+    {
+      "headline": "Women May Be Better Investors Than Men. Let Me Mansplain Why.",
+      "snippet": "Overconfidence is bad, and women are less likely to fall victim to it.",
+      "abstract": "Overconfidence is bad, and women are less likely to fall victim to it.",
+      "lead_paragraph": "Merrill was a guy, and so was Lynch. Goldman? A dude, and Sachs as well. Charles Schwab is a man, and so was E.F. Hutton. Gordon Gekko was an alpha male. And Jordan Belfort, the Wolf of Wall Street? Total bro.",
+      "publication_date": "2021-10-29T13:49:55+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/29/your-money/women-investing-stocks.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

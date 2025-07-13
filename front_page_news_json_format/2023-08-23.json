@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-08-23",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Ukraine’s Forces and Firepower Are Misallocated, U.S. Officials Say",
+      "snippet": "American strategists say Ukraine’s troops are too spread out and need to concentrate along the counteroffensive’s main front in the south.",
+      "abstract": "American strategists say Ukraine’s troops are too spread out and need to concentrate along the counteroffensive’s main front in the south.",
+      "lead_paragraph": "Ukraine’s grinding counteroffensive is struggling to break through entrenched Russian defenses in large part because it has too many troops, including some of its best combat units, in the wrong places, American and other Western officials say.",
+      "publication_date": "2023-08-22T17:43:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/22/us/politics/ukraine-counteroffensive-russia-war.html",
+      "byline": "By Eric Schmitt, Julian E. Barnes, Helene Cooper and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "Biden’s New Student Loan Repayment Plan Is Open. Here’s How to Enroll.",
+      "snippet": "The income-driven plan, SAVE, will reduce payments for millions of borrowers, and more will qualify for $0 payments.",
+      "abstract": "The income-driven plan, SAVE, will reduce payments for millions of borrowers, and more will qualify for $0 payments.",
+      "lead_paragraph": "Borrowers who are buckling under the pressure of their federal student loans have a new option to significantly cut their payments, eventually by as much as half.",
+      "publication_date": "2023-08-22T17:47:11+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/22/your-money/student-loans-income-driven-repayment-save.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "In a Hot Job Market, the Minimum Wage Becomes an Afterthought",
+      "snippet": "The federal wage floor of $7.25 is increasingly irrelevant when even most teenagers are earning twice that. But what happens when the economy cools?",
+      "abstract": "The federal wage floor of $7.25 is increasingly irrelevant when even most teenagers are earning twice that. But what happens when the economy cools?",
+      "lead_paragraph": "Under New Hampshire law, Janette Desmond can pay the employees who scoop ice cream and cut fudge at her Portsmouth sweet shop as little as $7.25 an hour.",
+      "publication_date": "2023-08-23T07:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/23/business/economy/minimum-wage.html",
+      "byline": "By Ben Casselman and Lydia DePillis"
+    },
+    {
+      "headline": "Lahaina Inferno Began After Firefighters Departed a ‘Contained’ Scene",
+      "snippet": "Some residents said they were alarmed when fire crews left the site of an early-morning fire: “Someone should have stayed.”",
+      "abstract": "Some residents said they were alarmed when fire crews left the site of an early-morning fire: “Someone should have stayed.”",
+      "lead_paragraph": "More than eight hours before a deadly fire swept through the Hawaiian town of Lahaina on Aug. 8, a small brush fire broke out on the edge of a residential neighborhood located a little more than a mile away from the town’s historic waterfront.",
+      "publication_date": "2023-08-23T09:00:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/23/us/hawaii-maui-lahaina-fire-contained.html",
+      "byline": "By Serge F. Kovaleski and Mike Baker"
+    },
+    {
+      "headline": "Over 3,100 Charged With Pandemic Relief Fraud, Justice Dept. Says",
+      "snippet": "The department outlined several cases, including one in which the defendants were accused of using fraudulently obtained funds to solicit a murder.",
+      "abstract": "The department outlined several cases, including one in which the defendants were accused of using fraudulently obtained funds to solicit a murder.",
+      "lead_paragraph": "For more than two years, Leon Haynes, a New Jersey tax preparer, told some of his clients that the federal government was giving out “free money” in the form of pandemic relief to people who owned businesses. According to federal prosecutors, Mr. Haynes filed more than 1,000 false tax forms, fraudulently claiming more than $124 million in Covid-19 employment tax credits for businesses that he and others owned.",
+      "publication_date": "2023-08-23T14:30:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/23/business/pandemic-relief-fraud-justice-department.html",
+      "byline": "By Madeleine Ngo"
+    },
+    {
+      "headline": "Greece Battles Its Most Widespread Wildfires on Record",
+      "snippet": "Extreme heat has turned much of the country into a tinderbox. More than 350 fires have broken out in the past five days, the government said.",
+      "abstract": "Extreme heat has turned much of the country into a tinderbox. More than 350 fires have broken out in the past five days, the government said.",
+      "lead_paragraph": "Wildfires ravaged northern Greece for a fifth consecutive day on Wednesday and forced the evacuation of settlements on the outskirts of the capital, Athens. The authorities said they were battling scores of blazes around the country after weeks of searing heat turned many areas into tinderboxes.",
+      "publication_date": "2023-08-23T14:33:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/23/world/europe/greece-wildfires-athens.html",
+      "byline": "By Matina Stevis-Gridneff and Niki Kitsantonis"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-11-21",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "On the California Wildfire Missing List, Name After Name After Name",
+      "snippet": "An estimated 870 people are listed as missing, a shocking and fluctuating figure that reveals the anguish across Northern California.",
+      "abstract": "An estimated 870 people are listed as missing, a shocking and fluctuating figure that reveals the anguish across Northern California.",
+      "lead_paragraph": "CHICO, Calif. — There’s a desperate plea on the message board for Sheila Santos, who went missing after wildfires ripped through her home: “Call your kids.”",
+      "publication_date": "2018-11-20T17:09:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/20/us/missing-in-california.html",
+      "byline": "By Simon Romero, Jose A. Del Real and Thomas Fuller"
+    },
+    {
+      "headline": "In Extraordinary Statement, Trump Stands With Saudis Despite Khashoggi Killing",
+      "snippet": "“It could very well be that the crown prince had knowledge of this tragic event — maybe he did and maybe he didn’t!” President Trump said.",
+      "abstract": "“It could very well be that the crown prince had knowledge of this tragic event — maybe he did and maybe he didn’t!” President Trump said.",
+      "lead_paragraph": "WASHINGTON — President Trump defied the nation’s intelligence agencies and a growing body of evidence on Tuesday to declare his unswerving loyalty to Saudi Arabia, asserting that Crown Prince Mohammed bin Salman’s culpability for the killing of Jamal Khashoggi might never be known.",
+      "publication_date": "2018-11-20T17:50:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/20/world/middleeast/trump-saudi-khashoggi.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "The ‘Neo-Banks’ Are Finally Having Their Moment",
+      "snippet": "High fees and low interest rates have provided an opening for a new generation of finance start-ups to compete with the big banks.",
+      "abstract": "High fees and low interest rates have provided an opening for a new generation of finance start-ups to compete with the big banks.",
+      "lead_paragraph": "SAN FRANCISCO — After the financial crisis 10 years ago, unhappy customers were expected to flee the megabanks for smaller competitors.",
+      "publication_date": "2018-11-20T19:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/20/technology/finance-start-ups-neo-banks.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Somali Workers in Minnesota Force Amazon to Negotiate",
+      "snippet": "Labor organizers and researchers said they had not heard of Amazon previously coming to the table after worker pressure, even for private discussions.",
+      "abstract": "Labor organizers and researchers said they had not heard of Amazon previously coming to the table after worker pressure, even for private discussions.",
+      "lead_paragraph": "Soon after Hibaq Mohamed immigrated to Minneapolis from Kenya, where she had been living as a refugee, in 2016 she got a job at a new Amazon warehouse near the city. At first, she enjoyed packing boxes for delivery to consumers. ",
+      "publication_date": "2018-11-20T20:11:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/20/technology/amazon-somali-workers-minnesota.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "Turbulent Stock Market Is Flashing a Warning About the Economy",
+      "snippet": "Stocks often pick up subtle changes before they appear in the economic data. Other markets have also been signaling worry.",
+      "abstract": "Stocks often pick up subtle changes before they appear in the economic data. Other markets have also been signaling worry.",
+      "lead_paragraph": "Unemployment is near lows not seen in half a century. The American economy is set for its best year since 2005. Large corporations are producing giant profits. Even wages are starting to rise.",
+      "publication_date": "2018-11-20T21:03:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/20/business/stock-market-drop-economy.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Trump Wanted to Order Justice Dept. to Prosecute Comey and Clinton",
+      "snippet": "The encounter was one of the most blatant examples yet of how President Trump views the typically independent Justice Department as a tool to be wielded against his political enemies.",
+      "abstract": "The encounter was one of the most blatant examples yet of how President Trump views the typically independent Justice Department as a tool to be wielded against his political enemies.",
+      "lead_paragraph": "WASHINGTON — President Trump told the White House counsel in the spring that he wanted to order the Justice Department to prosecute two of his political adversaries: his 2016 challenger, Hillary Clinton, and the former F.B.I. director James B. Comey, according to two people familiar with the conversation.",
+      "publication_date": "2018-11-20T21:51:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/20/us/politics/president-trump-justice-department.html",
+      "byline": "By Michael S. Schmidt and Maggie Haberman"
+    },
+    {
+      "headline": "Carlos Ghosn Felt Stars Deserved Big Pay. His Accusers Say He Took That Too Far.",
+      "snippet": "As the C.E.O. of Nissan and Renault, Mr. Ghosn was celebrated in the business community and popular culture. His arrest is a jarring fall from grace.",
+      "abstract": "As the C.E.O. of Nissan and Renault, Mr. Ghosn was celebrated in the business community and popular culture. His arrest is a jarring fall from grace.",
+      "lead_paragraph": "Shortly after Carlos Ghosn took over in 1999 as chief operating officer of an ailing Nissan Motor, he overhauled the way the company paid senior employees.",
+      "publication_date": "2018-11-20T23:50:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/20/business/carlos-ghosn-arrested-nissan.html",
+      "byline": "By David Gelles and Motoko Rich"
+    },
+    {
+      "headline": "In Pardoning Saudi Arabia, Trump Gives Guidance to Autocrats",
+      "snippet": "The president laid out a foreign policy where alliances are transactional, jobs outweigh values and friends are excused for abhorrent acts.",
+      "abstract": "The president laid out a foreign policy where alliances are transactional, jobs outweigh values and friends are excused for abhorrent acts.",
+      "lead_paragraph": "WASHINGTON — President Trump has long viewed foreign policy as a series of business deals, stripped of values and idealism. But his 633-word statement on Tuesday about the brutal killing of the Saudi dissident Jamal Khashoggi showed the extent to which he believes that raw, mercantilist calculations should guide the United States’ decisions about the Middle East and the wider world.",
+      "publication_date": "2018-11-21T01:43:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/20/us/politics/trump-khashoggi-statement.html",
+      "byline": "By Mark Mazzetti and Ben Hubbard"
+    },
+    {
+      "headline": "Sweden’s Push to Get Rid of Cash Has Some Saying, ‘Not So Fast’",
+      "snippet": "Cash is disappearing in the country faster than anyone thought it would. Now, officials are trying to slow its demise as they determine the societal costs.",
+      "abstract": "Cash is disappearing in the country faster than anyone thought it would. Now, officials are trying to slow its demise as they determine the societal costs.",
+      "lead_paragraph": "Few countries have been moving toward a cashless society as fast as Sweden. But cash is being squeezed out so quickly — with half the nation’s retailers predicting they will stop accepting bills before 2025 — that the government is recalculating the societal costs of a cash-free future.",
+      "publication_date": "2018-11-21T10:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/21/business/sweden-cashless-society.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "‘We Don’t Do the Black Friday Madness’",
+      "snippet": "In rural Pennsylvania, the family-owned department store Dunham’s caters to those who feel left behind by e-commerce or simply prefer to do their shopping at a slower pace. ",
+      "abstract": "In rural Pennsylvania, the family-owned department store Dunham’s caters to those who feel left behind by e-commerce or simply prefer to do their shopping at a slower pace. ",
+      "lead_paragraph": "The “33 hour” sale at Dunham’s begins the morning after Thanksgiving and lasts through Monday, when the local schools are closed for deer-hunting season. ",
+      "publication_date": "2018-11-21T15:06:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/21/business/retail-shopping-dunhams.html",
+      "byline": "By Michael Corkery"
+    }
+  ]
+}

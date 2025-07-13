@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2021-09-17",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "As Russians Vote, Resignation, Anger and Fear of a Post-Putin Unknown",
+      "snippet": "Many in Russia say they are fed up with corruption, stagnant wages and rising prices. But they worry, as one man said, that “if things start to change, there will be blood.”",
+      "abstract": "Many in Russia say they are fed up with corruption, stagnant wages and rising prices. But they worry, as one man said, that “if things start to change, there will be blood.”",
+      "lead_paragraph": "She walked into the cafe wearing a face mask that read, “I’m not afraid, and don’t you be afraid.” A man in a leather jacket followed her in, looked at her as she sat down next to me, then disappeared. Another man, in a vest and gray cap, waited outside.",
+      "publication_date": "2021-09-16T19:19:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/16/world/europe/russia-election-vote-putin.html",
+      "byline": ""
+    },
+    {
+      "headline": "Thousands of Migrants Huddle in Squalid Conditions Under Texas Bridge",
+      "snippet": "The temporary camp in Del Rio has grown with staggering speed in recent days during a massive surge in migration that has overwhelmed the authorities.",
+      "abstract": "The temporary camp in Del Rio has grown with staggering speed in recent days during a massive surge in migration that has overwhelmed the authorities.",
+      "lead_paragraph": "DEL RIO, Texas — Thousands of migrants were crowded under a bridge outside the border community of Del Rio on Thursday, part of a massive surge in migration across the Rio Grande this week that has overwhelmed the authorities and caused significant delays in processing the arrivals.",
+      "publication_date": "2021-09-17T00:07:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html",
+      "byline": "By James Dobbins, Eileen Sullivan and Edgar Sandoval"
+    },
+    {
+      "headline": "Retailers Rethink Pandemic-Battered Manhattan",
+      "snippet": "Starbucks has closed more than 40 stores, while adding mobile-order pickup counters in others. Other chains like Sonic are taking advantage of vacancies to establish themselves in New York.",
+      "abstract": "Starbucks has closed more than 40 stores, while adding mobile-order pickup counters in others. Other chains like Sonic are taking advantage of vacancies to establish themselves in New York.",
+      "lead_paragraph": "In the heart of Manhattan’s garment district, a once-busy Starbucks on a corner of Eighth Avenue and 39th Street sits empty. Just down the block, a Dos Toros Taqueria that opened just three years ago is now closed. And Wok to Walk, which once served steaming containers of noodles mixed with chicken and vegetables to a bustling lunch crowd, is also shuttered.",
+      "publication_date": "2021-09-17T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/17/business/retail-vacancies-midtown-manhattan.html",
+      "byline": "By Julie Creswell"
+    }
+  ]
+}

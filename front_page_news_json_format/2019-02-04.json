@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "date": "2019-02-04",
+    "total_articles": 16
+  },
+  "articles": [
+    {
+      "headline": "Undocumented Workers Lose Their Jobs at Yet Another Trump Property",
+      "snippet": "As President Trump has railed against illegal immigrants, his company has employed them for many years. Now in the limelight, they are being let go.",
+      "abstract": "As President Trump has railed against illegal immigrants, his company has employed them for many years. Now in the limelight, they are being let go.",
+      "lead_paragraph": "President Trump’s family business has employed undocumented workers more broadly than it was previously believed, with multiple workers losing their jobs last month at a Trump golf club in southern New Jersey.",
+      "publication_date": "2019-02-02T01:06:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/01/us/trump-workers-fired.html",
+      "byline": "By Miriam Jordan and Ben Protess"
+    },
+    {
+      "headline": "He Committed Murder. Then He Graduated From an Elite Law School. Would You Hire Him as Your Attorney?",
+      "snippet": "A bipartisan consensus has taken hold: After prison, nonviolent offenders should get a second chance at normal lives. But what about someone whose criminal history — and ambitions — are more extreme?",
+      "abstract": "A bipartisan consensus has taken hold: After prison, nonviolent offenders should get a second chance at normal lives. But what about someone whose criminal history — and ambitions — are more extreme?",
+      "lead_paragraph": "Last September, a group of academics and activists gathered at Princeton University to discuss the limits of artificial intelligence in public policy.",
+      "publication_date": "2019-02-02T10:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/02/02/business/bruce-reilly-murder-conviction-lawyer.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Japan’s Working Mothers: Record Responsibilities, Little Help From Dads",
+      "snippet": "Men in Japan do fewer hours of housework and child care than in any of the world’s richest nations. That keeps women from getting better jobs and holds back the economy.",
+      "abstract": "Men in Japan do fewer hours of housework and child care than in any of the world’s richest nations. That keeps women from getting better jobs and holds back the economy.",
+      "lead_paragraph": "TOKYO — The paperwork never ends for Yoshiko Nishimasa.",
+      "publication_date": "2019-02-02T10:00:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/02/world/asia/japan-working-mothers.html",
+      "byline": "By Motoko Rich"
+    },
+    {
+      "headline": "Virginia Governor, Ralph Northam, Defies Calls to Resign Over Racist Photo",
+      "snippet": "Mr. Northam denied that he appeared in Ku Klux Klan robes or in blackface in a yearbook photo, but revealed that he darkened his face for a costume on another occasion in the 1980s.",
+      "abstract": "Mr. Northam denied that he appeared in Ku Klux Klan robes or in blackface in a yearbook photo, but revealed that he darkened his face for a costume on another occasion in the 1980s.",
+      "lead_paragraph": "RICHMOND, Va. — Gov. Ralph Northam of Virginia, defying pleas from his own party to resign, said on Saturday that he would remain in office, and flatly denied that he had worn Ku Klux Klan robes or appeared in blackface in an image from his medical school yearbook that has upended his governorship and embarrassed his fellow Democrats.",
+      "publication_date": "2019-02-02T15:05:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/02/us/politics/ralph-northam-virginia-governor.html",
+      "byline": "By Jonathan Martin, Trip Gabriel and Alan Blinder"
+    },
+    {
+      "headline": "Trump Sought a Loan During the 2016 Campaign. Deutsche Bank Said No.",
+      "snippet": "Donald Trump turned to the German bank, one of the few lenders willing to do business with him, to borrow millions of dollars that would go to his golf resort in Scotland.",
+      "abstract": "Donald Trump turned to the German bank, one of the few lenders willing to do business with him, to borrow millions of dollars that would go to his golf resort in Scotland.",
+      "lead_paragraph": "Donald J. Trump was burning through cash.",
+      "publication_date": "2019-02-02T15:50:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/02/business/trump-deutsche-bank.html",
+      "byline": "By David Enrich, Jesse Drucker and Ben Protess"
+    },
+    {
+      "headline": "Medicare for All Emerges as Early Policy Test for 2020 Democrats",
+      "snippet": "Many liberals who are influential in the presidential primaries want a single-payer system, but some voters are uneasy about losing private insurance. Most candidates are now walking fine lines.",
+      "abstract": "Many liberals who are influential in the presidential primaries want a single-payer system, but some voters are uneasy about losing private insurance. Most candidates are now walking fine lines.",
+      "lead_paragraph": "WASHINGTON — Senator Elizabeth Warren spoke at length this week about her vision for improving the American health care system, like strengthening the Affordable Care Act and making prescription drugs more affordable. Twice, though, she ignored a question posed to her: Would she support eliminating private health insurance in favor of a single-payer system?",
+      "publication_date": "2019-02-02T17:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/02/us/politics/medicare-for-all-2020.html",
+      "byline": "By Jonathan Martin and Abby Goodnough"
+    },
+    {
+      "headline": "After a Lion Air 737 Max Crashed in October, Questions About the Plane Arose",
+      "snippet": "The story of a modification to the Boeing 737’s flight control system shows how competitive pressures and technological complexity can affect airliner safety.",
+      "abstract": "The story of a modification to the Boeing 737’s flight control system shows how competitive pressures and technological complexity can affect airliner safety.",
+      "lead_paragraph": "In the brutally competitive jetliner business, the announcement in late 2010 that Airbus would introduce a more fuel-efficient version of its best-selling A320 amounted to a frontal assault on its archrival Boeing’s workhorse 737.",
+      "publication_date": "2019-02-03T08:00:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/world/asia/lion-air-plane-crash-pilots.html",
+      "byline": "By James Glanz, Julie Creswell, Thomas Kaplan and Zach Wichter"
+    },
+    {
+      "headline": "Impose a Speed Limit on the Autobahn? Not So Fast, Many Germans Say",
+      "snippet": "Highway speed limits could save lives and significantly lower carbon emissions. But even suggesting a cap on how fast a car can go is political poison in Germany.",
+      "abstract": "Highway speed limits could save lives and significantly lower carbon emissions. But even suggesting a cap on how fast a car can go is political poison in Germany.",
+      "lead_paragraph": "BERLIN — It seemed like a no-brainer: Lower Germany’s embarrassingly high carbon emissions at no cost, and save some lives in the process.",
+      "publication_date": "2019-02-03T16:28:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/world/europe/germany-autobahn-speed-limit.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "HBO Made Sunday Night a Showcase. It Wants the Same on Monday.",
+      "snippet": "Beginning with the limited series “Chernobyl” in May, the premium cable network will begin showing new episodes of some of its scripted series on Monday nights.",
+      "abstract": "Beginning with the limited series “Chernobyl” in May, the premium cable network will begin showing new episodes of some of its scripted series on Monday nights.",
+      "lead_paragraph": "PASADENA, Calif. — From “The Sopranos” and “Sex and the City” to “Big Little Lies” and “Game of Thrones,” one thing has been true at HBO: Original scripted programming airs on Sunday nights. There was even once a marketing slogan, “Sunday is … HBO.”",
+      "publication_date": "2019-02-03T20:00:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/03/business/media/hbo-monday-night.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Behind Tech’s Shine, Some Warnings Signs Appear",
+      "snippet": "From Apple to Nvidia, tech companies say business is slowing. Among the reasons: China and a Bitcoin slump. It may be just a bump — until it’s not.",
+      "abstract": "From Apple to Nvidia, tech companies say business is slowing. Among the reasons: China and a Bitcoin slump. It may be just a bump — until it’s not.",
+      "lead_paragraph": "SAN FRANCISCO — Don’t look now: Storm clouds are gathering over tech.",
+      "publication_date": "2019-02-03T20:06:37+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/03/technology/tech-warning-signs.html",
+      "byline": "By David Streitfeld and Don Clark"
+    },
+    {
+      "headline": "Super Bowl Commercials 2019: Brands Play It Safe and Look to the Future",
+      "snippet": "Brands are paying millions of dollars for the opportunity to make consumers laugh, cry and reach for their wallets.",
+      "abstract": "Brands are paying millions of dollars for the opportunity to make consumers laugh, cry and reach for their wallets.",
+      "lead_paragraph": "Super Bowl Sunday is the day when the advertising industry is not only tolerated but celebrated. And as in years past, brands paid millions of dollars this year for the opportunity to make consumers laugh, cry and reach for their wallets.",
+      "publication_date": "2019-02-03T22:30:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/03/business/media/super-bowl-commercials-live-updates.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "The ‘Monster’ Texas Oil Field That Made the U.S. a Star in the World Market",
+      "snippet": "Innovation, investment and inviting geology have given new life to an oil patch that once seemed spent. The oil field is now the world’s second most productive.",
+      "abstract": "Innovation, investment and inviting geology have given new life to an oil patch that once seemed spent. The oil field is now the world’s second most productive.",
+      "lead_paragraph": "MIDLAND, Tex. — In a global collapse of oil prices five years ago, scores of American oil companies went bankrupt. But one field withstood the onslaught, and even thrived: the Permian Basin, straddling Texas and New Mexico.",
+      "publication_date": "2019-02-03T23:17:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/business/energy-environment/texas-permian-field-oil.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Guaidó Steers Venezuela to a Perilous Crossroads",
+      "snippet": "The young lawmaker Juan Guaidó, in perpetual motion as he fields calls from world leaders and visits ordinary Venezuelans, sees a clear, if daunting, path to ousting Nicolás Maduro.",
+      "abstract": "The young lawmaker Juan Guaidó, in perpetual motion as he fields calls from world leaders and visits ordinary Venezuelans, sees a clear, if daunting, path to ousting Nicolás Maduro.",
+      "lead_paragraph": "CARACAS, Venezuela — Calls from world leaders were piling up. The prime minister of Denmark was trying to reach him. So, too, was Justin Trudeau.",
+      "publication_date": "2019-02-04T00:25:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/world/americas/guaido-venezuela-maduro.html",
+      "byline": "By Ernesto Londoño"
+    },
+    {
+      "headline": "Trump Behaves One Way on Race. Democrats Demand Better From Their Own.",
+      "snippet": "President Trump’s divisive behavior on race has pushed Democrats to try to set an example by confronting misconduct in their ranks and elevating the importance of identity and equality in politics.",
+      "abstract": "President Trump’s divisive behavior on race has pushed Democrats to try to set an example by confronting misconduct in their ranks and elevating the importance of identity and equality in politics.",
+      "lead_paragraph": "WASHINGTON — The irony was difficult to miss: on the same day that racist images surfaced from Gov. Ralph Northam’s medical school yearbook page, Senator Cory Booker announced his bid to become the nation’s second black president and entered what is the most diverse campaign field in history.",
+      "publication_date": "2019-02-04T01:02:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/us/politics/democrats-race-virginia.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "As Calls Mount for Ralph Northam to Resign, Some Virginians Mull a Second Chance",
+      "snippet": "For many in Mr. Northam’s state, grappling with the fallout over the picture is as complicated as Virginia’s tragic racial history.",
+      "abstract": "For many in Mr. Northam’s state, grappling with the fallout over the picture is as complicated as Virginia’s tragic racial history.",
+      "lead_paragraph": "NORFOLK, Va. — When Steve Peacock first saw the decades-old racist photograph that has Gov. Ralph Northam of Virginia in hot water, it took him back to the days when he was getting chased home every day by angry white classmates.",
+      "publication_date": "2019-02-04T01:35:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/us/northam-virginia-liberals-race.html",
+      "byline": "By John Eligon"
+    },
+    {
+      "headline": "Trump Calls for Keeping Troops in Iraq to Watch Iran, Possibly Upending ISIS Fight",
+      "snippet": "The president’s remarks could inflame fears among the Iraqis that a shift of troops there from Syria would be a guise to check Iran, undercutting delicate negotiations.",
+      "abstract": "The president’s remarks could inflame fears among the Iraqis that a shift of troops there from Syria would be a guise to check Iran, undercutting delicate negotiations.",
+      "lead_paragraph": "WASHINGTON — President Trump plans to keep United States troops in Iraq to monitor and maintain pressure on neighboring Iran, committing to an American military presence in the region’s war zones even as he moves to withdraw forces from Syria and Afghanistan.",
+      "publication_date": "2019-02-04T02:37:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/03/us/politics/trump-iraq-troops-syria-iran.html",
+      "byline": "By Eric Schmitt and Alissa J. Rubin"
+    }
+  ]
+}

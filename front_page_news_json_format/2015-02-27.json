@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2015-02-27",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Out of Prison, and Staying Out, After 3rd Strike in California ",
+      "snippet": "Convicts released after the state eased its three-strikes law in 2012 have returned to crime at a remarkably low rate.",
+      "abstract": "Convicts released after the state eased its three-strikes law in 2012 have returned to crime at a remarkably low rate.",
+      "lead_paragraph": "LOS ANGELES — William Taylor III, once a lifer in state prison for two robbery convictions and the intent to sell a small packet of heroin, was savoring a moment he had scarcely dared to imagine: his first day alone, in a place of his own.",
+      "publication_date": "2015-02-26T17:20:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/27/us/california-convicts-are-out-of-prison-after-third-strike-and-staying-out.html",
+      "byline": "By Erik Eckholm"
+    },
+    {
+      "headline": "F.C.C. Approves Net Neutrality Rules, Classifying Broadband Internet Service as a Utility",
+      "snippet": "The agency’s 3-2 vote is intended to ensure a level playing field for Internet content providers, with no so-called pay-to-play fast lanes.",
+      "abstract": "The agency’s 3-2 vote is intended to ensure a level playing field for Internet content providers, with no so-called pay-to-play fast lanes.",
+      "lead_paragraph": "WASHINGTON — The Federal Communications Commission voted on Thursday to regulate broadband Internet service as a public utility, a milestone in regulating high-speed Internet service into American homes.",
+      "publication_date": "2015-02-26T18:01:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/27/technology/net-neutrality-fcc-vote-internet-utility.html",
+      "byline": "By Rebecca R. Ruiz and Steve Lohr"
+    },
+    {
+      "headline": "Targeted by U.S. Prosecutor, Hedge Fund Fights Back",
+      "snippet": "The suit may be a long shot, but it comes as Preet Bharara’s image as an invincible prosecutor — racking up convictions on Wall Street — is beginning to fray.",
+      "abstract": "The suit may be a long shot, but it comes as Preet Bharara’s image as an invincible prosecutor — racking up convictions on Wall Street — is beginning to fray.",
+      "lead_paragraph": "On a crisp fall morning, F.B.I. agents staged a surprise raid of three hedge funds, feeding the growing national reputation of the prosecutor Preet Bharara as the new sheriff of Wall Street.",
+      "publication_date": "2015-02-26T18:31:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/27/business/dealbook/fbi-warrant-in-insider-trading-cases-is-unsealed.html",
+      "byline": "By Matthew Goldstein, Ben Protess and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "In Greece, Bailout May Hinge on Pursuing Tycoons",
+      "snippet": "Athens promised to go after wealthy tax evaders, but that’s the easy part. What’s harder is reshaping tycoons’ domination of parts of the economy.",
+      "abstract": "Athens promised to go after wealthy tax evaders, but that’s the easy part. What’s harder is reshaping tycoons’ domination of parts of the economy.",
+      "lead_paragraph": "ATHENS — As he sifted recently through a sheaf of Greek bank accounts held by executives, politicians and other members of the Greek elite, Panagiotis Nikoloudis, the nation’s new anti-corruption czar, was struck by some troubling numbers.",
+      "publication_date": "2015-02-26T20:53:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/27/business/international/in-greece-bailout-may-hinge-on-pursuing-tycoons.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "As Hedge Fund Returns Falter, Money Continues to Flow In",
+      "snippet": "Despite their performance record, the promise of higher returns with lower risk — or even zero risk — beckons.",
+      "abstract": "Despite their performance record, the promise of higher returns with lower risk — or even zero risk — beckons.",
+      "lead_paragraph": "Another year, and another mediocre performance by hedge funds, to put it kindly. The Barclay Hedge Fund Index gained a meager 2.89 percent in 2014, while the Standard & Poor’s 500-stock index gained over 13 percent and the Barclays United States Aggregate Bond Index rose over 5 percent.",
+      "publication_date": "2015-02-26T21:13:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/27/business/hedge-fund-returns-falter-yet-money-continues-to-flow-in.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "‘Jihadi John’ From ISIS Execution Videos Was Under Watch by British Intelligence",
+      "snippet": "The man, identified as Mohammed Emwazi, came to the attention of the authorities in 2009, when they thought he was going to fight with Al Shabab.",
+      "abstract": "The man, identified as Mohammed Emwazi, came to the attention of the authorities in 2009, when they thought he was going to fight with Al Shabab.",
+      "lead_paragraph": "LONDON — Mohammed Emwazi was 6 when his parents moved to West London from his birthplace in Kuwait, and he seems to have lived a normal life, studying hard and graduating in computer sciences from the University of Westminster in 2009.",
+      "publication_date": "2015-02-26T21:38:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/27/world/europe/british-intelligence-services-had-early-encounter-with-man-identified-as-isis-fighter.html",
+      "byline": "By Steven Erlanger"
+    },
+    {
+      "headline": "Dutch Offer Preview of Net Neutrality ",
+      "snippet": "As with the rules adopted by the F.C.C., the Netherlands demands that wireless and fixed-line broadband providers treat all Internet traffic equally.",
+      "abstract": "As with the rules adopted by the F.C.C., the Netherlands demands that wireless and fixed-line broadband providers treat all Internet traffic equally.",
+      "lead_paragraph": "THE HAGUE — When Bruno Leenders takes the 50-minute train ride to Amsterdam, he likes to stream blues and funk music through his smartphone. At home, Mr. Leenders, a Dutch technology consultant, watches Steven Seagal action movies on Netflix. Between meetings, he dashes off a few emails.",
+      "publication_date": "2015-02-27T01:28:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/27/business/dutch-offer-preview-of-net-neutrality.html",
+      "byline": "By Mark Scott"
+    },
+    {
+      "headline": "Move to Ban a Bullet Adds to Its Appeal",
+      "snippet": "The Obama administration has proposed banning the manufacture and sale of a popular bullet used in AR-15 semiautomatic rifles, a move that has enraged gun rights advocates.",
+      "abstract": "The Obama administration has proposed banning the manufacture and sale of a popular bullet used in AR-15 semiautomatic rifles, a move that has enraged gun rights advocates.",
+      "lead_paragraph": "WASHINGTON — President Obama’s administration has proposed banning the manufacture and sale of one of the most popular bullets used in AR-15 semiautomatic rifles, a move that has enraged gun-rights advocates and caused a run on the ammunition at gun shops across the country.",
+      "publication_date": "2015-02-27T02:42:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/02/27/us/move-to-ban-a-bullet-adds-to-its-appeal.html",
+      "byline": "By Michael D. Shear and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "The White and Gold (No, Blue and Black!) Dress That Melted the Internet",
+      "snippet": "White and gold, or blue and black? The debate over the colors of a dress set off a social media conflagration that few were able to resist.",
+      "abstract": "White and gold, or blue and black? The debate over the colors of a dress set off a social media conflagration that few were able to resist.",
+      "lead_paragraph": "The mother of the bride wore white and gold. Or was it blue and black?",
+      "publication_date": "2015-02-27T15:11:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/28/business/a-simple-question-about-a-dress-and-the-world-weighs-in.html",
+      "byline": "By Jonathan Mahler"
+    },
+    {
+      "headline": "Making Money Decisions When You Lose Your Job",
+      "snippet": "About 1.7 million people lose their jobs every month, creating a hugely stressful situation and requiring potentially life-altering choices.",
+      "abstract": "About 1.7 million people lose their jobs every month, creating a hugely stressful situation and requiring potentially life-altering choices.",
+      "lead_paragraph": "The numbers are striking: About 1.7 million people, on average, lose their jobs every month.",
+      "publication_date": "2015-02-27T15:57:34+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/28/your-money/making-financial-decisions-when-you-lose-your-job.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Mutual Suspicion Mars Tech Trade With China",
+      "snippet": "With China and the United States wary of the other’s digital espionage, American tech companies are caught in the middle.",
+      "abstract": "With China and the United States wary of the other’s digital espionage, American tech companies are caught in the middle.",
+      "lead_paragraph": "BEIJING — At an elegant guesthouse here recently, China’s top Internet regulator entertained ambassadors and diplomats with platters of tempura and roast on a spit, unusual lavishness in an era of official austerity in China, to celebrate the Chinese New Year.",
+      "publication_date": "2015-02-27T16:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/02/28/technology/in-china-suspicions-cloud-trade-dispute-involving-tech-companies.html",
+      "byline": "By Jane Perlez and Paul Mozur"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-06-14",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Sees End to North Korea Nuclear Threat Despite Unclear Path",
+      "snippet": "“Sleep well tonight!” President Trump reassured Americans after returning from the summit meeting. “What planet is the president on?” replied Senator Chuck Schumer.",
+      "abstract": "“Sleep well tonight!” President Trump reassured Americans after returning from the summit meeting. “What planet is the president on?” replied Senator Chuck Schumer.",
+      "lead_paragraph": "WASHINGTON — President Trump declared Wednesday that North Korea is “no longer a nuclear threat” to the United States even though the two sides had yet to forge a concrete disarmament plan and offered incomplete accounts of what they agreed to during this week’s summit meeting in Singapore.",
+      "publication_date": "2018-06-13T19:34:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/13/us/politics/trump-north-korea-denuclearization.html",
+      "byline": "By Peter Baker and Choe Sang-Hun"
+    },
+    {
+      "headline": "Comcast Offers $65 Billion for 21st Century Fox, Challenging Disney",
+      "snippet": "The cable giant’s bid for the bulk of Fox’s businesses sets up a fight with Disney, which has already struck a $52.4 billion deal for Rupert Murdoch’s empire.",
+      "abstract": "The cable giant’s bid for the bulk of Fox’s businesses sets up a fight with Disney, which has already struck a $52.4 billion deal for Rupert Murdoch’s empire.",
+      "lead_paragraph": "Comcast announced an offer worth $65 billion for the bulk of 21st Century Fox’s businesses on Wednesday, setting up a showdown with the Walt Disney Company for Rupert Murdoch’s media empire.",
+      "publication_date": "2018-06-13T20:05:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/13/business/media/comcast-fox-disney-bidding-war.html",
+      "byline": "By Edmund Lee and Brooks Barnes"
+    },
+    {
+      "headline": "Apple to Close iPhone Security Hole That Law Enforcement Uses to Crack Devices",
+      "snippet": "Apple is closing a technological loophole that let authorities hack into locked iPhones, infuriating law enforcement officials and reigniting a debate over security versus privacy.",
+      "abstract": "Apple is closing a technological loophole that let authorities hack into locked iPhones, infuriating law enforcement officials and reigniting a debate over security versus privacy.",
+      "lead_paragraph": "SAN FRANCISCO — Apple has long positioned the iPhone as a secure device that only its owner can open. That has led to battles with law enforcement officials who want to get information off them, including a well-publicized showdown with the F.B.I. in 2016 after Apple refused to help open the locked iPhone of a mass killer.",
+      "publication_date": "2018-06-13T21:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/06/13/technology/apple-iphone-police.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "United States, Saudi Arabia and Russia Find Agreement on Oil Policy",
+      "snippet": "The United States, Saudi Arabia and Russia see common cause in tamping down oil prices and boosting production — at least for now.",
+      "abstract": "The United States, Saudi Arabia and Russia see common cause in tamping down oil prices and boosting production — at least for now.",
+      "lead_paragraph": "HOUSTON — It is unusual for the United States, Saudi Arabia and Russia to see eye-to-eye, much less try to achieve common energy policy goals, even indirectly.",
+      "publication_date": "2018-06-13T23:25:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/06/13/business/energy-environment/russia-saudi-arabia-oil-prices.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Republicans in Primaries Absorb Lesson: Cross Trump at Their Peril",
+      "snippet": "After a series of contests in which loyalty to President Trump was a clear litmus test to voters, Republicans are reckoning with his transformation of the party.",
+      "abstract": "After a series of contests in which loyalty to President Trump was a clear litmus test to voters, Republicans are reckoning with his transformation of the party.",
+      "lead_paragraph": "WASHINGTON — President Trump wasn’t on the ballot or even stateside for Tuesday’s primary elections in Virginia and South Carolina. But he loomed over both states, just as he has in nearly every nominating contest this year, underscoring how the Republican Party has become the party of Trump and that its politicians cross him at their peril.",
+      "publication_date": "2018-06-14T00:21:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/13/us/politics/republicans-trump-midterms.html",
+      "byline": "By Jonathan Martin and Michael Tackett"
+    },
+    {
+      "headline": "Stephen Bannon Buys Into Bitcoin",
+      "snippet": "He was pushed out of the White House and then Breitbart News. Now he is focused on cryptocurrencies, which he thinks can disrupt the financial world.",
+      "abstract": "He was pushed out of the White House and then Breitbart News. Now he is focused on cryptocurrencies, which he thinks can disrupt the financial world.",
+      "lead_paragraph": "WASHINGTON — Stephen K. Bannon, 10 months removed from the job of chief strategist to President Trump and five months after his ouster from the arch-conservative news site Breitbart News, is betting that Bitcoin and other cryptocurrencies can disrupt banking the way Mr. Trump disrupted American politics.",
+      "publication_date": "2018-06-14T09:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/06/14/technology/steve-bannon-bitcoin.html",
+      "byline": "By Jeremy W. Peters and Nathaniel Popper"
+    },
+    {
+      "headline": "Inside the Former Walmart That Is Now a Shelter for Almost 1,500 Migrant Children",
+      "snippet": "The converted store in Texas has become the largest migrant children’s shelter in the country — a warehouse for boys who were caught illegally crossing the border.",
+      "abstract": "The converted store in Texas has become the largest migrant children’s shelter in the country — a warehouse for boys who were caught illegally crossing the border.",
+      "lead_paragraph": "BROWNSVILLE, Tex. — In the loading docks, children sat in a darkened auditorium watching the animated movie “Moana.”",
+      "publication_date": "2018-06-14T12:39:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/14/us/family-separation-migrant-children-detention.html",
+      "byline": "By Manny Fernandez"
+    }
+  ]
+}

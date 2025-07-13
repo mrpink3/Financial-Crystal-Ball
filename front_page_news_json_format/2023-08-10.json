@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2023-08-10",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Special Counsel Obtained Search Warrant for Trump’s Twitter Account",
+      "snippet": "The warrant, obtained in January, is the first known example of prosecutors directly searching Donald J. Trump’s communications in the federal inquiry into the events of Jan. 6, 2021.",
+      "abstract": "The warrant, obtained in January, is the first known example of prosecutors directly searching Donald J. Trump’s communications in the federal inquiry into the events of Jan. 6, 2021.",
+      "lead_paragraph": "Prosecutors working for Jack Smith, the special counsel who has twice brought indictments against former President Donald J. Trump, obtained a search warrant early this year for Mr. Trump’s long-dormant Twitter account as part of their inquiry into his attempt to overturn the 2020 election, according to court papers unsealed on Wednesday.",
+      "publication_date": "2023-08-09T17:29:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/09/us/politics/trump-twitter-account-search-warrant.html",
+      "byline": "By Alan Feuer"
+    },
+    {
+      "headline": "San Francisco Balks at Expanding Driverless Car Services on City’s Roads",
+      "snippet": "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services.",
+      "abstract": "Local officials are worried that state regulators are too eager about a plan by the companies Cruise and Waymo to offer round-the-clock driverless taxi services.",
+      "lead_paragraph": "Over the past year or so, a jarring sight has become common in San Francisco: driverless cars buzzing around the city’s streets with no one at the wheel and an expensive array of electronic sensors guiding the way.",
+      "publication_date": "2023-08-09T17:52:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/09/technology/san-francisco-driverless-cars.html",
+      "byline": "By Yiwen Lu"
+    },
+    {
+      "headline": "Biden Orders Ban on New Investments in China’s Sensitive High-Tech Industries",
+      "snippet": "The new limits, aimed at preventing American help to Beijing as it modernizes its military, escalate a conflict between the world’s two largest economies.",
+      "abstract": "The new limits, aimed at preventing American help to Beijing as it modernizes its military, escalate a conflict between the world’s two largest economies.",
+      "lead_paragraph": "President Biden escalated his confrontation with China on Wednesday by signing an executive order banning new American investment in key technology industries that could be used to enhance Beijing’s military capabilities, the latest in a series of moves putting more distance between the world’s two largest economies.",
+      "publication_date": "2023-08-09T20:04:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/09/us/politics/biden-ban-china-investment.html",
+      "byline": "By Peter Baker and David E. Sanger"
+    },
+    {
+      "headline": "For Disney, Streaming Losses and TV’s Decline Are a One-Two Punch",
+      "snippet": "The company experienced a sharp decline in its traditional TV business for the second straight quarter and will raise subscription prices for its streaming services.",
+      "abstract": "The company experienced a sharp decline in its traditional TV business for the second straight quarter and will raise subscription prices for its streaming services.",
+      "lead_paragraph": "Robert A. Iger’s urgent need to overhaul Disney — to turn its streaming division into a profitable enterprise and pull back on its troubled traditional television business — came into sharp relief on Wednesday.",
+      "publication_date": "2023-08-09T20:05:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/09/business/media/disney-earnings.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Heat, War and Trade Protections Raise Uncertainty for Food Prices",
+      "snippet": "Experts are warning of a new normal in which food supplies — and prices — could be rocked more regularly.",
+      "abstract": "Experts are warning of a new normal in which food supplies — and prices — could be rocked more regularly.",
+      "lead_paragraph": "As the rate of food price inflation eases in the United States and Europe, analysts are warning of a new era of volatility in global food prices, ushered in by a series of threats coming together in unprecedented ways.",
+      "publication_date": "2023-08-10T04:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/10/business/global-food-prices-volatility.html",
+      "byline": "By Eshe Nelson, Ana Swanson and Jeanna Smialek"
+    },
+    {
+      "headline": "Israel’s Supreme Court Prepares to Rule on Its Own Fate",
+      "snippet": "The justices will be scrutinized as never before at a hearing in September on the first part of a judicial overhaul that the government pushed through Parliament, angering many Israelis.",
+      "abstract": "The justices will be scrutinized as never before at a hearing in September on the first part of a judicial overhaul that the government pushed through Parliament, angering many Israelis.",
+      "lead_paragraph": "For the first time in Israel’s history, all 15 of its Supreme Court justices will crowd onto the bench on Sept. 12 to hear a case together. The reason: This one is so momentous that it could not only decide the powers of the court itself but also kindle a constitutional crisis.",
+      "publication_date": "2023-08-10T08:32:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/10/world/middleeast/israel-judicial-overhaul-supreme-court.html",
+      "byline": "By Isabel Kershner"
+    },
+    {
+      "headline": "Amid Sextortion’s Rise, Computer Scientists Tap A.I. to Identify Risky Apps",
+      "snippet": "Researchers who found that a fifth of social networking apps have received multiple user complaints about sexual exploitation have launched a website to help parents vet apps.",
+      "abstract": "Researchers who found that a fifth of social networking apps have received multiple user complaints about sexual exploitation have launched a website to help parents vet apps.",
+      "lead_paragraph": "Almost weekly, Brian Levine, a computer scientist at the University of Massachusetts Amherst, is asked the same question by his 14-year-old daughter: Can I download this app?",
+      "publication_date": "2023-08-10T09:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/10/business/sextortion-ai-app-danger-project-safety-reviews.html",
+      "byline": "By Tripp Mickle"
+    },
+    {
+      "headline": "Inflation Picks Up, but Details Under the Surface Are Encouraging",
+      "snippet": "Economists looked past the first acceleration in overall inflation in more than a year and saw signs that price pressures continued to moderate in July.",
+      "abstract": "Economists looked past the first acceleration in overall inflation in more than a year and saw signs that price pressures continued to moderate in July.",
+      "lead_paragraph": "Fresh inflation data offered the latest evidence that price increases were meaningfully cooling, good news for consumers and policymakers alike more than a year into the Federal Reserve’s campaign to slow the economy and wrestle cost increases back under control.",
+      "publication_date": "2023-08-10T09:01:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/10/business/economy/cpi-inflation-july-fed.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Dozens of Children Die Every Year in Hot Cars. Could Technology Save Them?",
+      "snippet": "A moment of forgetfulness by a distracted or sleep-deprived parent can be devastating. Experts and child-safety advocates have called for interior motion sensors in all vehicles.",
+      "abstract": "A moment of forgetfulness by a distracted or sleep-deprived parent can be devastating. Experts and child-safety advocates have called for interior motion sensors in all vehicles.",
+      "lead_paragraph": "Ever since Tyler Cestia left his son Thomas in his truck on a hot morning in June two years ago, he has felt, he said, like a cork bobbing in the ocean.",
+      "publication_date": "2023-08-10T09:30:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/10/us/hot-car-deaths-sensors.html",
+      "byline": "By Michael Levenson"
+    },
+    {
+      "headline": "Coach Owner to Buy Parent of Versace and Michael Kors in Luxury Merger",
+      "snippet": "The two fashion conglomerates, Tapestry and Capri Holdings, generate about $12 billion in combined revenue.",
+      "abstract": "The two fashion conglomerates, Tapestry and Capri Holdings, generate about $12 billion in combined revenue.",
+      "lead_paragraph": "Tapestry, the fashion company that owns Coach and Kate Spade, said on Thursday that it had acquired Capri Holdings, the parent of Versace and Michael Kors, for about $8.5 billion in cash, as consolidation in the luxury market gathers pace.",
+      "publication_date": "2023-08-10T12:13:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/10/business/tapestry-capri-merger-luxury-fashion.html",
+      "byline": "By Jordyn Holman and Elizabeth Paton"
+    },
+    {
+      "headline": "Sweden Is Not Staying Neutral in Russia’s Information War",
+      "snippet": "The country has empowered a government agency to openly combat online disinformation coming from foreign adversaries, and especially the Kremlin.",
+      "abstract": "The country has empowered a government agency to openly combat online disinformation coming from foreign adversaries, and especially the Kremlin.",
+      "lead_paragraph": "Facing a tsunami of disinformation about the treatment of Muslims that has in recent months fueled protests from Stockholm to Baghdad, Sweden decided it needed to fight back.",
+      "publication_date": "2023-08-10T16:00:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/10/technology/sweden-combat-disinformation.html",
+      "byline": "By Steven Lee Myers"
+    }
+  ]
+}

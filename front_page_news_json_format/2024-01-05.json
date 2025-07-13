@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-01-05",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Major French Retailer Drops PepsiCo Products Over High Prices",
+      "snippet": "Carrefour, a supermarket chain, said the maker of Pepsi, Lay’s and 7-Up was keeping its food “unacceptably” expensive despite falling inflation.",
+      "abstract": "Carrefour, a supermarket chain, said the maker of Pepsi, Lay’s and 7-Up was keeping its food “unacceptably” expensive despite falling inflation.",
+      "lead_paragraph": "The economic headlines in Europe have been glowing recently: Inflation, according to official statistics, is finally coming down. But tell that to consumers still facing runaway prices when they head to the supermarket.",
+      "publication_date": "2024-01-04T16:22:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/04/business/france-carrefour-pepsi-prices.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "How Trump Has Used Fear and Favor to Win Republican Endorsements",
+      "snippet": "The former president keeps careful watch over his endorsements from elected Republicans, aided by a disciplined and methodical behind-the-scenes operation.",
+      "abstract": "The former president keeps careful watch over his endorsements from elected Republicans, aided by a disciplined and methodical behind-the-scenes operation.",
+      "lead_paragraph": "On his last day as president on Jan. 20, 2021, Donald J. Trump stood in a snapping wind and waved goodbye to relatives and supporters before he took his final flight on Air Force One back to Mar-a-Lago. No elected Republican of any stature showed up at Joint Base Andrews for the bleak farewell.",
+      "publication_date": "2024-01-04T17:36:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/04/us/politics/trump-endorsements.html",
+      "byline": "By Jonathan Swan, Shane Goldmacher and Maggie Haberman"
+    },
+    {
+      "headline": "Biden Faces Pressure on Immigration, and Not Just From Republicans",
+      "snippet": "Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.",
+      "abstract": "Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.",
+      "lead_paragraph": "President Biden is under growing pressure to curb record numbers of migrants crossing into the United States — not just from the usual Republican critics, but also from Democratic mayors and governors in cities thousands of miles from the border.",
+      "publication_date": "2024-01-04T23:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/04/us/politics/biden-immigration-republicans-democrats.html",
+      "byline": "By Michael D. Shear and Miriam Jordan"
+    },
+    {
+      "headline": "Red Sea Attacks Leave Tankers With Choice: Accept the Risks or Lose Money",
+      "snippet": "Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.",
+      "abstract": "Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.",
+      "lead_paragraph": "Attacks on commercial vessels in the Red Sea by the Houthi rebels in Yemen have left oil tanker operators facing an unwelcome calculation: accept the risks of steaming through the danger zone, or lose business.",
+      "publication_date": "2024-01-05T05:01:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/05/business/red-sea-oil-houthis.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Starbucks Faces New Pressure Over Union Campaign",
+      "snippet": "Amid a dissident bid for board seats and boycotts by activists, the company has sent mixed signals about its willingness to engage with labor groups.",
+      "abstract": "Amid a dissident bid for board seats and boycotts by activists, the company has sent mixed signals about its willingness to engage with labor groups.",
+      "lead_paragraph": "More than two years into a campaign that has unionized more than 350 Starbucks stores, the company is facing mounting pressure from union officials and activists who say it has illegally retaliated against workers and resisted contract negotiations.",
+      "publication_date": "2024-01-05T10:01:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/05/business/starbucks-union-workers-boycott.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Wall Street Sobers Up After December’s Rally",
+      "snippet": "The S&P 500 logged its first weekly decline since October, ending Wall Street’s longest winning streak in nearly 20 years.",
+      "abstract": "The S&P 500 logged its first weekly decline since October, ending Wall Street’s longest winning streak in nearly 20 years.",
+      "lead_paragraph": "Wall Street’s longest weekly winning streak in almost 20 years came to an end on Friday, as stock investors’ celebrations over slowing inflation and the potential for cuts to interest rates were replaced with caution over the lingering risks to the economy.",
+      "publication_date": "2024-01-05T14:57:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/05/business/wall-street-sobers-up-after-decembers-rally.html",
+      "byline": "By Joe Rennison and J. Edward Moreno"
+    }
+  ]
+}

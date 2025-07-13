@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2020-09-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Facebook Could Block Sharing of News Stories in Australia",
+      "snippet": "The move, a response to pressure to pay publishers when their stories are posted on the social network, could add to internet silos springing up around the world.",
+      "abstract": "The move, a response to pressure to pay publishers when their stories are posted on the social network, could add to internet silos springing up around the world.",
+      "lead_paragraph": "With each passing day, the World Wide Web is becoming an outdated name.",
+      "publication_date": "2020-09-01T00:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/31/technology/facebook-block-news-stories-australia.html",
+      "byline": "By Daisuke Wakabayashi and Mike Isaac"
+    },
+    {
+      "headline": "Small-Business Failures Loom as Federal Aid Dries Up",
+      "snippet": "Many owners face tough choices after a federal loan program and other government moves to bolster the economy have run their course.",
+      "abstract": "Many owners face tough choices after a federal loan program and other government moves to bolster the economy have run their course.",
+      "lead_paragraph": "The United States faces a wave of small-business failures this fall if the federal government does not provide a new round of financial assistance — a prospect that economists warn would prolong the recession, slow the recovery and perhaps enduringly reshape the American business landscape.",
+      "publication_date": "2020-09-01T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/01/business/economy/small-businesses-coronavirus.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Trump Administration Promise to Focus on Extremism Remains Unfulfilled",
+      "snippet": "A year after the Department of Homeland Security promised to focus more on violent extremism, the plan to carry out that shift remains hidden while the atmosphere worsens.",
+      "abstract": "A year after the Department of Homeland Security promised to focus more on violent extremism, the plan to carry out that shift remains hidden while the atmosphere worsens.",
+      "lead_paragraph": "WASHINGTON — The Department of Homeland Security started an effort a year ago this month to address domestic terrorism, white nationalist threats and other acts of homegrown violence, a major shift for an agency created after the Sept. 11, 2001, attacks to protect the country from foreign terrorism.",
+      "publication_date": "2020-09-01T14:49:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/01/us/politics/trump-homeland-security-extremism.html",
+      "byline": "By Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "Trump Visits Kenosha, Offering Support for Police With Little Mention of Shooting",
+      "snippet": "The president, touring the city that is the latest focal point of anger over police shootings of Black Americans, called attention instead to the street violence that he blamed on liberal politicians.",
+      "abstract": "The president, touring the city that is the latest focal point of anger over police shootings of Black Americans, called attention instead to the street violence that he blamed on liberal politicians.",
+      "lead_paragraph": "[Follow our daily updates on the latest presidential election polls.]",
+      "publication_date": "2020-09-01T15:52:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/01/us/politics/trump-conspiracy-theory-thugs-plane.html",
+      "byline": "By John Eligon, Julie Bosman and Peter Baker"
+    }
+  ]
+}

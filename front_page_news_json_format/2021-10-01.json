@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-10-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "House Delays Vote on Infrastructure Bill as Democrats Feud",
+      "snippet": "A liberal revolt left Democrats short of votes, but leaders insisted they would bring up the measure again on Friday, giving them more time to reach a deal on a separate climate and safety net bill.",
+      "abstract": "A liberal revolt left Democrats short of votes, but leaders insisted they would bring up the measure again on Friday, giving them more time to reach a deal on a separate climate and safety net bill.",
+      "lead_paragraph": "WASHINGTON — President Biden’s trillion-dollar bipartisan infrastructure plan suffered a significant setback late Thursday night when House Democratic leaders, short of support amid a liberal revolt, put off a planned vote on a crucial plank of their domestic agenda.",
+      "publication_date": "2021-10-01T00:05:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/30/us/politics/infrastructure-democrats-pelosi.html",
+      "byline": "By Jonathan Weisman and Emily Cochrane"
+    },
+    {
+      "headline": "‘Everything Going the Wrong Way’: Dollar Stores Hit a Pandemic Downturn",
+      "snippet": "Their business model is being tested by worker burnout, pressure to raise wages, supply chain problems and growing local opposition.",
+      "abstract": "Their business model is being tested by worker burnout, pressure to raise wages, supply chain problems and growing local opposition.",
+      "lead_paragraph": "Sandra Beadling was fed up with the 70-hour workweeks, the delivery trucks running days behind schedule, and the wear and tear on her knees from all the stooping to restock the bottom shelves.",
+      "publication_date": "2021-10-01T00:58:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/30/business/dollar-stores-struggling-pandemic.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "The World Wants Greenland’s Minerals, but Greenlanders Are Wary",
+      "snippet": "The island has rare elements needed for electric cars and wind turbines. But protesters are blocking one project, signaling that mining companies must tread carefully.",
+      "abstract": "The island has rare elements needed for electric cars and wind turbines. But protesters are blocking one project, signaling that mining companies must tread carefully.",
+      "lead_paragraph": "NARSAQ, Greenland — This huge, remote and barely habited island is known for frozen landscapes, remote fjords and glaciers that heave giant sheets of ice into the sea.",
+      "publication_date": "2021-10-01T09:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/01/business/greenland-minerals-mining.html",
+      "byline": ""
+    },
+    {
+      "headline": "Inflation Warning Signs Flash Red, Posing Challenge for Washington",
+      "snippet": "Inflation, once expected to fade quickly, is proving more stubborn. That ramps up tension among officials as they wait for pressures to fade.",
+      "abstract": "Inflation, once expected to fade quickly, is proving more stubborn. That ramps up tension among officials as they wait for pressures to fade.",
+      "lead_paragraph": "The Federal Reserve’s preferred gauge of inflation climbed in August at the quickest pace in 30 years, data released on Friday showed, keeping policymakers on edge as evidence mounts that rapidly rising prices are poised to last longer than practically any of them had expected earlier this year.",
+      "publication_date": "2021-10-01T12:43:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/01/business/economy/inflation-supply-chain.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "U.S. Coronavirus Death Toll Surpasses 700,000 Despite Wide Availability of Vaccines",
+      "snippet": "The latest Covid-19 deaths were concentrated in the South, and included more younger people than before. Every age group under 55 saw its highest death toll of the pandemic this August.",
+      "abstract": "The latest Covid-19 deaths were concentrated in the South, and included more younger people than before. Every age group under 55 saw its highest death toll of the pandemic this August.",
+      "lead_paragraph": "The United States surpassed 700,000 deaths from the coronavirus on Friday, a milestone that few experts had anticipated months ago when vaccines became widely available to the American public.",
+      "publication_date": "2021-10-01T14:08:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/01/us/us-covid-deaths-700k.html",
+      "byline": "By Julie Bosman and Lauren Leatherby"
+    },
+    {
+      "headline": "Chip Shortage Makes Big Dent in Automakers’ U.S. Sales",
+      "snippet": "General Motors, Toyota, Honda, Stellantis and Nissan reported recent declines as problems in the global supply chain held down output and inventories.",
+      "abstract": "General Motors, Toyota, Honda, Stellantis and Nissan reported recent declines as problems in the global supply chain held down output and inventories.",
+      "lead_paragraph": "Four of the biggest sellers of cars and trucks in the United States said Friday that their sales had plunged recently, reflecting the intense squeeze that a global semiconductor shortage has put on auto production.",
+      "publication_date": "2021-10-01T15:07:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/01/business/auto-sales-gm-honda-toyota.html",
+      "byline": "By Neal E. Boudette"
+    }
+  ]
+}

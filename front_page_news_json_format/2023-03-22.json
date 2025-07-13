@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-03-22",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "A Big Question for the Fed: What Went Wrong With Bank Oversight?",
+      "snippet": "As the Federal Reserve reviews the failure of Silicon Valley Bank, and Congress prepares for hearings, bank oversight is getting a closer look.",
+      "abstract": "As the Federal Reserve reviews the failure of Silicon Valley Bank, and Congress prepares for hearings, bank oversight is getting a closer look.",
+      "lead_paragraph": "WASHINGTON — Jerome H. Powell is likely to face more than the typical questions about the Federal Reserve’s latest interest rate decision on Wednesday. The central bank chair will almost certainly be grilled about how and why his institution failed to stop problems at Silicon Valley Bank before it was too late.",
+      "publication_date": "2023-03-21T20:52:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/21/business/economy/silicon-valley-bank-fed-oversight.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Xi and Putin Bind China and Russia’s Economies Further, Despite War in Ukraine",
+      "snippet": "On the second day of the Chinese leader’s state visit in Moscow, Xi Jinping and Vladimir V. Putin declared an enduring economic partnership, in an effort to insulate their countries from punitive Western measures.",
+      "abstract": "On the second day of the Chinese leader’s state visit in Moscow, Xi Jinping and Vladimir V. Putin declared an enduring economic partnership, in an effort to insulate their countries from punitive Western measures.",
+      "lead_paragraph": "MOSCOW — President Vladimir V. Putin of Russia and China’s top leader, Xi Jinping, declared an enduring economic partnership on Tuesday, promising to bring more Russian energy to China and more Chinese companies to Russia as the two leaders sought to insulate their countries from Western sanctions and other consequences of the war in Ukraine.",
+      "publication_date": "2023-03-21T23:00:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/21/world/europe/xi-putin-russia-china-ukraine.html",
+      "byline": "By Valerie Hopkins and Chris Buckley"
+    },
+    {
+      "headline": "Regional Banks and Regulators Try to Soothe Depositors’ Fears",
+      "snippet": "While some executives said money wasn’t being pulled from their small and midsize banks, the “too big to fail” giants attracted business customers.",
+      "abstract": "While some executives said money wasn’t being pulled from their small and midsize banks, the “too big to fail” giants attracted business customers.",
+      "lead_paragraph": "In the panic after Silicon Valley Bank collapsed in early March, some small and medium-size businesses yanked their money from regional banks and deposited it with the biggest ones, seeking the security of their gigantic balance sheets and the government’s implicit backstop of lenders deemed too big to fail.",
+      "publication_date": "2023-03-21T23:57:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/21/business/regional-banks-depositors-fears.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "The Fed, Still Inflation-Focused, Raised Rates Amid Bank Uncertainty",
+      "snippet": "Federal Reserve officials raised interest rates by a quarter-point while they noted that bank turmoil could help slow the economy.",
+      "abstract": "Federal Reserve officials raised interest rates by a quarter-point while they noted that bank turmoil could help slow the economy.",
+      "lead_paragraph": "WASHINGTON — Federal Reserve officials raised interest rates by a quarter-point on Wednesday as they tried to balance two conflicting problems: the risk that inflation could remain rapid and the threat that turmoil in the banking system could slow the economy drastically.",
+      "publication_date": "2023-03-22T09:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/22/business/federal-reserve-interest-rates-banks.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Bank Crisis Could Cast Pall Over Commercial Real Estate Market",
+      "snippet": "The market hadn’t fully rebounded from the pandemic. Some worry that another slowdown could add to fears of a recession.",
+      "abstract": "The market hadn’t fully rebounded from the pandemic. Some worry that another slowdown could add to fears of a recession.",
+      "lead_paragraph": "The fallout from the recent banking crisis spurred by the collapse of two banks — and concerns about the health of a third — is bubbling up in the market for commercial real estate lending, as borrowers fear that banks will pull back. That could slow down construction activity and increase the likelihood of a recession, analysts and real estate experts said.",
+      "publication_date": "2023-03-22T09:00:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/22/business/svb-signature-commercial-real-estate.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Conservatives Aim to Build a Chatbot of Their Own",
+      "snippet": "After criticizing A.I. companies for liberal bias, programmers started envisioning right-wing alternatives, making chatbots a new front in the culture wars.",
+      "abstract": "After criticizing A.I. companies for liberal bias, programmers started envisioning right-wing alternatives, making chatbots a new front in the culture wars.",
+      "lead_paragraph": "When ChatGPT exploded in popularity as a tool using artificial intelligence to draft complex texts, David Rozado decided to test its potential for bias. A data scientist in New Zealand, he subjected the chatbot to a series of quizzes, searching for signs of political orientation.",
+      "publication_date": "2023-03-22T09:00:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/22/business/media/ai-chatbots-right-wing-conservative.html",
+      "byline": "By Stuart A. Thompson, Tiffany Hsu and Steven Lee Myers"
+    },
+    {
+      "headline": "In a Brother Act With Putin, Xi Reveals China’s Fear of Containment",
+      "snippet": "Instead of focusing on a solution to the war in Ukraine, the Chinese leader’s visit to Moscow reinforced China and Russia’s shared opposition to American dominance.",
+      "abstract": "Instead of focusing on a solution to the war in Ukraine, the Chinese leader’s visit to Moscow reinforced China and Russia’s shared opposition to American dominance.",
+      "lead_paragraph": "China’s leader, Xi Jinping, flew into Moscow this week cast by Beijing as its emissary for peace in Ukraine. His summit with President Vladimir V. Putin of Russia, however, demonstrated that his priority remains shoring up ties with Moscow to gird against what he sees as a long campaign by the United States to hobble China’s ascent.",
+      "publication_date": "2023-03-22T12:01:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/22/world/asia/china-xi-putin-ukraine.html",
+      "byline": "By Chris Buckley"
+    },
+    {
+      "headline": "Los Angeles School Workers Are on Strike, and Parents Say They Get It",
+      "snippet": "Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.",
+      "abstract": "Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.",
+      "lead_paragraph": "LOS ANGELES — Since Tuesday, Diana Cruz has juggled her stay-at-home job as an executive assistant with the care of her children after the Los Angeles school strike forced their classes to be canceled for three days.",
+      "publication_date": "2023-03-22T12:15:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/22/us/la-schools-strike.html",
+      "byline": "By Kurtis Lee and Jill Cowan"
+    }
+  ]
+}

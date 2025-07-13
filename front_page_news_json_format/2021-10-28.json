@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-10-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Hunting for Money, Democrats Rush to Rewrite Tax Code",
+      "snippet": "Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days.",
+      "abstract": "Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days.",
+      "lead_paragraph": "WASHINGTON — As they hunt for revenue to pay for their sprawling spending bill and try to unite a fractured caucus, Democrats are attempting to rewrite the United States tax code in a matter of days, proposing the kind of sweeping changes to how America taxes businesses and individuals that would normally take months or years to enact.",
+      "publication_date": "2021-10-27T23:01:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html",
+      "byline": "By Alan Rappeport and Jim Tankersley"
+    },
+    {
+      "headline": "Michelle Wu Makes Her Play for Power in Boston",
+      "snippet": "A family crisis diverted Ms. Wu from the stable path her parents planned for her. Now she hopes to become mayor.",
+      "abstract": "A family crisis diverted Ms. Wu from the stable path her parents planned for her. Now she hopes to become mayor.",
+      "lead_paragraph": "BOSTON — Michelle Wu was weeks away from her first City Council election when she lost her voice.",
+      "publication_date": "2021-10-28T07:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/28/us/michelle-wu-boston-election.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Old Power Gear Is Slowing Use of Clean Energy and Electric Cars",
+      "snippet": "Some people and businesses seeking to use solar panels, batteries and electric vehicles find they can’t because utility equipment needs an upgrade.",
+      "abstract": "Some people and businesses seeking to use solar panels, batteries and electric vehicles find they can’t because utility equipment needs an upgrade.",
+      "lead_paragraph": "Seven months after workers finished installing solar panels atop the Garcia family home near Stanford University, the system is little more than a roof ornament. The problem: The local utility’s equipment is so overloaded that there is no place for the electricity produced by the panels to go.",
+      "publication_date": "2021-10-28T07:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/28/business/energy-environment/electric-grid-overload-solar-ev.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "China Hurries to Burn More Coal, Putting Climate Goals at Risk",
+      "snippet": "Faced with electricity shortages, the country is racing to expand mining despite risks to the environment, miner safety and the economy.",
+      "abstract": "Faced with electricity shortages, the country is racing to expand mining despite risks to the environment, miner safety and the economy.",
+      "lead_paragraph": "LINFEN, China — Desperate to meet its electricity needs, China is opening up new coal production exceeding what all of Western Europe mines in a year, at a tremendous cost to the global effort to fight climate change.",
+      "publication_date": "2021-10-28T09:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/28/business/energy-environment/china-coal-climate.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "U.S. Recovery Hurt by Virus Surge and Supply Chain Troubles",
+      "snippet": "New data shows how bottlenecks and the Delta variant slowed economic growth in the third quarter. Relief may be slow.",
+      "abstract": "New data shows how bottlenecks and the Delta variant slowed economic growth in the third quarter. Relief may be slow.",
+      "lead_paragraph": "Economic growth slowed sharply over the summer, the government reported Thursday, reflecting the resurgent pandemic’s impact in keeping consumers at home and the supply-chain bottlenecks that led to empty shelves and higher prices.",
+      "publication_date": "2021-10-28T09:01:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/28/business/economy/us-3q-gdp-report.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "The 37-Year-Olds Are Afraid of the 23-Year-Olds Who Work for Them",
+      "snippet": "Twenty-somethings rolling their eyes at the habits of their elders is a longstanding trend, but many employers said there’s a new boldness in the way Gen Z dictates taste.",
+      "abstract": "Twenty-somethings rolling their eyes at the habits of their elders is a longstanding trend, but many employers said there’s a new boldness in the way Gen Z dictates taste.",
+      "lead_paragraph": "As a millennial with a habit of lurking on TikTok, Jessica Fain understood that skinny jeans and side parts were on the steady march toward extinction. But when Ms. Fain, who works as a product manager at a large tech company, heard that some of her favorite emojis might also be confronting retirement — namely that laughing-sobbing face — she decided to seek the counsel of her junior colleagues.",
+      "publication_date": "2021-10-28T13:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
+      "byline": "By Emma Goldberg"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-02-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "The Depp Conundrum: Who Should Keep Tabs on the Money?",
+      "snippet": "New fiduciary rules are at the center of a battle in the federal government. Is Johnny Depp’s lawsuit against his financial advisers an argument for or against them?",
+      "abstract": "New fiduciary rules are at the center of a battle in the federal government. Is Johnny Depp’s lawsuit against his financial advisers an argument for or against them?",
+      "lead_paragraph": "The thing celebrity magazines never mention about Johnny Depp’s current problems — the foreclosures on his homes, how he was said to have cut off his fingertip in a marital dispute, the fact he may need to  sell a small French village to cover debts associated with the subsequent divorce — is how his challenges are relevant to the Trump administration.",
+      "publication_date": "2017-02-01T00:42:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/31/business/johnny-depp-management-group.html",
+      "byline": "By Charles Duhigg"
+    },
+    {
+      "headline": "In Judge Neil Gorsuch, an Echo of Scalia in Philosophy and Style",
+      "snippet": "Judge Gorsuch, 49, is an originalist, meaning he tries to interpret the Constitution consistently with the understanding of those who drafted and adopted it.",
+      "abstract": "Judge Gorsuch, 49, is an originalist, meaning he tries to interpret the Constitution consistently with the understanding of those who drafted and adopted it.",
+      "lead_paragraph": "WASHINGTON — A year ago, Judge Neil M. Gorsuch was midway down a ski slope when his cellphone rang. Justice Antonin Scalia, he was told, had died.",
+      "publication_date": "2017-02-01T01:04:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/31/us/politics/neil-gorsuch-supreme-court-nominee.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Wells Fargo Scandal Blocks Severance Pay for Laid-Off Workers",
+      "snippet": "Federal rules intended to restrict golden parachutes limit what payments the bank is permitted to make to fired employees without approval.",
+      "abstract": "Federal rules intended to restrict golden parachutes limit what payments the bank is permitted to make to fired employees without approval.",
+      "lead_paragraph": "For more than 400 employees recently laid off by Wells Fargo, the aftermath of the bank’s scandal over sham accounts has had an unexpected consequence: The bank is prohibited from paying the severance it owes them.",
+      "publication_date": "2017-02-01T01:47:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/01/31/business/wells-fargo-blocks-severance.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Picking One Justice, Trump Has Eye on Choosing a Second",
+      "snippet": "In nominating Judge Neil Gorsuch for the Supreme Court vacancy, Mr. Trump chose a candidate with the potential to reassure Justice Anthony M. Kennedy that it would be safe to retire.",
+      "abstract": "In nominating Judge Neil Gorsuch for the Supreme Court vacancy, Mr. Trump chose a candidate with the potential to reassure Justice Anthony M. Kennedy that it would be safe to retire.",
+      "lead_paragraph": "WASHINGTON — For the White House, President Trump’s first nomination to the Supreme Court is partly about getting the chance to make a second.",
+      "publication_date": "2017-02-01T02:11:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/31/us/politics/trump-supreme-court-neil-gorsuch.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Trump Aide’s Deal With Chinese Firm Raises Fear of Tangled Interests",
+      "snippet": "Anthony Scaramucci, who has been named the White House liaison to the business community, is selling his firm to a company with deep ties to China’s Communist Party.",
+      "abstract": "Anthony Scaramucci, who has been named the White House liaison to the business community, is selling his firm to a company with deep ties to China’s Communist Party.",
+      "lead_paragraph": "WASHINGTON — A secretive Chinese company with deep ties to the country’s Communist Party has become one of the biggest foreign investors in the United States over the past year, snapping up American firms in a string of multibillion-dollar deals. But it is one of its smaller deals that is apparently stalling the White House career of a top adviser to President Trump.",
+      "publication_date": "2017-02-01T02:23:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/01/31/us/anthony-scaramucci-business-white-house.html",
+      "byline": "By Sharon LaFraniere, Michael Forsythe and Alexandra Stevenson"
+    },
+    {
+      "headline": "Supplier’s Role Shows Breadth of VW’s Deceit",
+      "snippet": "The German company Bosch will pay $327.5 million to vehicle owners in the United States over claims that it helped devise software to cheat on tests.",
+      "abstract": "The German company Bosch will pay $327.5 million to vehicle owners in the United States over claims that it helped devise software to cheat on tests.",
+      "lead_paragraph": "FRANKFURT — When Volkswagen executives decided in 2006 to use software to evade emissions rules, they needed help. No one inside Volkswagen knew how to write the software.",
+      "publication_date": "2017-02-01T09:53:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/02/01/business/bosch-vw-diesel-settlement.html",
+      "byline": "By Jack Ewing"
+    }
+  ]
+}

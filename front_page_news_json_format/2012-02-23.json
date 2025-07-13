@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2012-02-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "In Germany, a Limp Domestic Economy Stifled by Regulation",
+      "snippet": "Alongside Germany’s export success is another, creakier economy that suffers from overregulation and holds back not only the country but the rest of Europe, some economists say.",
+      "abstract": "Alongside Germany’s export success is another, creakier economy that suffers from overregulation and holds back not only the country but the rest of Europe, some economists say.",
+      "lead_paragraph": "FRANKFURT — Torsten Emmel may have looked like an innocent florist, a gentle guy with a shaved head and an apron, clipping the stems of fresh freesia. In fact, he was on the verge of breaking the law.",
+      "publication_date": "2012-02-22T19:40:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/23/business/global/in-germany-a-limp-domestic-economy-stifled-by-regulation.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Shift in Virginia on Abortion Bill",
+      "snippet": "Gov. Bob McDonnell said he wanted an amendment stipulating that pre-abortion ultrasounds be limited to a non-invasive abdominal scan.",
+      "abstract": "Gov. Bob McDonnell said he wanted an amendment stipulating that pre-abortion ultrasounds be limited to a non-invasive abdominal scan.",
+      "lead_paragraph": "Gov. Bob McDonnell of Virginia backed down on Wednesday on a bill requiring women to have a vaginal ultrasound before undergoing an abortion. It was a sudden change of position for a conservative governor who is viewed as having political ambitions on the national stage. ",
+      "publication_date": "2012-02-22T21:27:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/23/us/governor-of-virginia-calls-for-changes-in-abortion-bill.html",
+      "byline": "By Sabrina Tavernise"
+    },
+    {
+      "headline": "Advisory Panel Favors Approval for Weight-Loss Drug",
+      "snippet": "A committee recommended that the Food and Drug Administration approve what could become the first new prescription drug to treat obesity in 13 years.",
+      "abstract": "A committee recommended that the Food and Drug Administration approve what could become the first new prescription drug to treat obesity in 13 years.",
+      "lead_paragraph": "A federal advisory panel on Wednesday overwhelmingly recommended approval of what could become the first new prescription drug to treat obesity in 13 years. ",
+      "publication_date": "2012-02-22T21:55:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/23/business/fda-advisory-panel-backs-diet-drug.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Windows on the iPad, and Speedy",
+      "snippet": "The fastest high-speed Internet service is courtesy of OnLive Desktop Plus. The “plus” is a 1-gigabit-a-second Net connection with the ability to view Flash videos on your iPad.",
+      "abstract": "The fastest high-speed Internet service is courtesy of OnLive Desktop Plus. The “plus” is a 1-gigabit-a-second Net connection with the ability to view Flash videos on your iPad.",
+      "lead_paragraph": "You’re probably paying something like $60 a month for high-speed Internet. I’m paying $5 a month more, and my connection is 1,000 times faster.",
+      "publication_date": "2012-02-22T22:49:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/23/technology/personaltech/onlive-desktop-plus-puts-windows-7-on-the-ipad-in-blazing-speed-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Behind the Google Goggles, Virtual Reality",
+      "snippet": "Google will start selling eyeglasses that will project information, entertainment and ads onto the lenses, but questions have been raised on how privacy will be regulated.",
+      "abstract": "Google will start selling eyeglasses that will project information, entertainment and ads onto the lenses, but questions have been raised on how privacy will be regulated.",
+      "lead_paragraph": "SAN FRANCISCO — It wasn’t so long ago that legions of people began walking the streets, talking to themselves. ",
+      "publication_date": "2012-02-23T01:30:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/23/technology/google-glasses-will-be-powered-by-android.html",
+      "byline": "By Nick Bilton"
+    },
+    {
+      "headline": "Ghastly Images Flow From Shattered Syrian City",
+      "snippet": "During the sustained Syrian Army assault on Homs, videos of the violence are offering a stunningly vivid picture, sometimes live or at least in real time, of life in the city.",
+      "abstract": "During the sustained Syrian Army assault on Homs, videos of the violence are offering a stunningly vivid picture, sometimes live or at least in real time, of life in the city.",
+      "lead_paragraph": "CAIRO — During a terrifying two minutes on Wednesday morning, 11 rockets slammed into a single apartment building in the Baba Amr neighborhood of Homs, the city in Syria that has been besieged by government forces for 19 days.",
+      "publication_date": "2012-02-23T02:15:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/23/world/middleeast/ghastly-images-flow-from-shattered-city-of-homs-syria.html",
+      "byline": "By Rod Nordland"
+    },
+    {
+      "headline": "Romney, Seeking Traction, Duels With Santorum",
+      "snippet": "Mitt Romney tried to regain his lead in the fight for the Republican presidential nomination, assailing the voting record of Rick Santorum in a fiercely combative exchange.",
+      "abstract": "Mitt Romney tried to regain his lead in the fight for the Republican presidential nomination, assailing the voting record of Rick Santorum in a fiercely combative exchange.",
+      "lead_paragraph": "MESA, Ariz. — Mitt Romney challenged Rick Santorum’s credentials as a fiscal conservative in a fiercely combative debate on Wednesday, trying to redefine Mr. Santorum as part of the problem in Washington and regain his footing in the fight for the Republican presidential nomination. ",
+      "publication_date": "2012-02-23T02:21:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/23/us/politics/cnn-arizona-republican-presidential-debate.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "Winners and Losers From a Tax Proposal",
+      "snippet": "The Obama administration’s proposal to extend tax breaks to manufacturers would result in other companies losing some lucrative tax benefits.",
+      "abstract": "The Obama administration’s proposal to extend tax breaks to manufacturers would result in other companies losing some lucrative tax benefits.",
+      "lead_paragraph": "WASHINGTON — The Obama administration, seeking to promote domestic manufacturing without increasing the federal deficit, proposed Wednesday to offset new tax breaks for manufacturers by raising taxes on a wide range of other companies.",
+      "publication_date": "2012-02-23T02:35:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/23/business/tax-break-for-manufacturers-offset-elsewhere.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "White House, Consumers in Mind, Offers Online Privacy Guidelines",
+      "snippet": "The Obama administration said its suggestions would empower consumers regarding use of their personal data gleaned from Internet searches.",
+      "abstract": "The Obama administration said its suggestions would empower consumers regarding use of their personal data gleaned from Internet searches.",
+      "lead_paragraph": "WASHINGTON — The Obama administration on Wednesday outlined a set of online privacy principles that officials said would help consumers control the use of their personal data gleaned from Internet searches.",
+      "publication_date": "2012-02-23T05:01:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/23/business/white-house-outlines-online-privacy-guidelines.html",
+      "byline": "By Edward Wyatt"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2016-01-21",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "As Water Problems Grew, Officials Belittled Complaints From Flint",
+      "snippet": "Residents’ complaints about their water’s foul odor and odd color were met with irritation from Michigan officials, according to emails released by the governor.",
+      "abstract": "Residents’ complaints about their water’s foul odor and odd color were met with irritation from Michigan officials, according to emails released by the governor.",
+      "lead_paragraph": "LANSING, Mich. — A top aide to Michigan’s governor referred to people raising questions about the quality of Flint’s water as an “anti-everything group.” Other critics were accused of turning complaints about water into a “political football.” And worrisome findings about lead by a concerned pediatrician were dismissed as “data,” in quotes.",
+      "publication_date": "2016-01-20T20:25:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/21/us/flint-michigan-lead-water-crisis.html",
+      "byline": "By Julie Bosman, Monica Davey and Mitch Smith"
+    },
+    {
+      "headline": "In Canada, the 8-Dollar Cauliflower Shows the Pain of Falling Oil Prices",
+      "snippet": "As prices for commodities have dropped, the value of the Canadian dollar has fallen, a direct link to an economy that is dependent on oil and other resources.",
+      "abstract": "As prices for commodities have dropped, the value of the Canadian dollar has fallen, a direct link to an economy that is dependent on oil and other resources.",
+      "lead_paragraph": "OTTAWA — Steamed, sautéed or stir-fried, cauliflower is standard fare on many dinner tables. In Canada, it is a luxury.",
+      "publication_date": "2016-01-20T21:51:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/21/business/dealbook/in-canada-5-cauliflowers-cost-more-than-a-barrel-of-oil.html",
+      "byline": "By Ian Austen"
+    },
+    {
+      "headline": "Crumbling, Destitute Schools Threaten Detroit’s Recovery",
+      "snippet": "Detroit’s public schools are failing academically and nearly insolvent, leaving residents to wonder how the city can recoup its lost population.",
+      "abstract": "Detroit’s public schools are failing academically and nearly insolvent, leaving residents to wonder how the city can recoup its lost population.",
+      "lead_paragraph": "DETROIT — In Kathy Aaron’s decrepit public school, the heat fills the air with a moldy, rancid odor. Cockroaches, some three inches long, scuttle about until they are squashed by a student who volunteers for the task. Water drips from a leaky roof onto the gymnasium floor.",
+      "publication_date": "2016-01-20T23:53:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/21/us/crumbling-destitute-schools-threaten-detroits-recovery.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "Jack Dorsey Juggles Twitter and Square, Both Caught in Downdraft",
+      "snippet": "The volatility of the companies’ shares have hit Jack Dorsey in the wallet. Twitter will report its earnings on Feb. 10, and Square will reveal its first public earnings in March.",
+      "abstract": "The volatility of the companies’ shares have hit Jack Dorsey in the wallet. Twitter will report its earnings on Feb. 10, and Square will reveal its first public earnings in March.",
+      "lead_paragraph": "It is not shaping up as a happy new year for Jack Dorsey and his two companies.",
+      "publication_date": "2016-01-21T01:28:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/21/technology/jack-dorsey-juggles-twitter-and-square-both-caught-in-downdraft.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Film Academy, Under Fire, Is Expected to Take Steps to Improve Oscar Diversity",
+      "snippet": "One change might be an immediate return to a 10-film field of best picture nominees, some people briefed on the matter said.",
+      "abstract": "One change might be an immediate return to a 10-film field of best picture nominees, some people briefed on the matter said.",
+      "lead_paragraph": "LOS ANGELES — The Academy of Motion Picture Arts and Sciences is expected to announce as early as next week measures aimed at making its Oscar choices more diverse, people briefed on the matter said Wednesday.",
+      "publication_date": "2016-01-21T01:52:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/21/business/media/film-academy-under-fire-is-expected-to-take-steps-to-improve-oscar-diversity.html",
+      "byline": "By Michael Cieply"
+    },
+    {
+      "headline": "Donald Trump Is Forcing Ted Cruz to Rewrite His Playbook",
+      "snippet": "On the campaign trail, Mr. Cruz has been testing several strategies to dent Mr. Trump’s popularity. But true to form, Mr. Trump has complicated his path.",
+      "abstract": "On the campaign trail, Mr. Cruz has been testing several strategies to dent Mr. Trump’s popularity. But true to form, Mr. Trump has complicated his path.",
+      "lead_paragraph": "WHITEFIELD, N.H. — Ted Cruz did not have to say a cross word about Scott Walker. Rick Perry and Bobby Jindal faded on their own. And when Ben Carson briefly rocketed to the top of the Iowa polls, Mr. Cruz and his team stayed cool, confident that the neurosurgeon’s support would wither.",
+      "publication_date": "2016-01-21T02:42:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/21/us/politics/donald-trump-is-forcing-ted-cruz-to-rewrite-his-playbook.html",
+      "byline": "By Matt Flegenheimer and Jonathan Martin"
+    },
+    {
+      "headline": "VW Admits Cheating in the U.S., but Not in Europe",
+      "snippet": "Volkswagen’s position sheds light on its view of the scandal. While it promises to fix the vehicles, it is prepared to admit wrongdoing only in the United States.",
+      "abstract": "Volkswagen’s position sheds light on its view of the scandal. While it promises to fix the vehicles, it is prepared to admit wrongdoing only in the United States.",
+      "lead_paragraph": "LONDON — Volkswagen is staking out an aggressive response to its emissions-testing crisis in Europe, where most of the affected vehicles were sold, by essentially saying: We didn’t cheat here.",
+      "publication_date": "2016-01-21T10:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/22/business/international/vw-admits-cheating-in-the-us-but-not-in-europe.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Hillary Clinton’s Paid Speeches to Wall Street Animate Her Opponents",
+      "snippet": "The speeches, often to financial firms, emerge as a central line of attack by both Senator Bernie Sanders and the Republican “super PAC” American Crossroads.",
+      "abstract": "The speeches, often to financial firms, emerge as a central line of attack by both Senator Bernie Sanders and the Republican “super PAC” American Crossroads.",
+      "lead_paragraph": "Nine months after leaving the Obama administration, Hillary Clinton sat on a stage under the life-size model of a blue whale that hangs in the American Museum of Natural History.",
+      "publication_date": "2016-01-21T10:00:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/22/us/politics/in-race-defined-by-income-gap-hillary-clintons-wall-street-ties-incite-rivals.html",
+      "byline": "By Nicholas Confessore and Jason Horowitz"
+    },
+    {
+      "headline": "Airbnb Takes Its Case to U.S. Mayors Conference",
+      "snippet": "Having tried to mobilize the public in its favor, Airbnb offers to collect $200 million in hotel taxes for cities.",
+      "abstract": "Having tried to mobilize the public in its favor, Airbnb offers to collect $200 million in hotel taxes for cities.",
+      "lead_paragraph": "WASHINGTON — Chris Lehane, Airbnb’s head of global policy, appeared on Thursday before hundreds of American mayors with an enticing pitch: Team up with us to collect millions of dollars in taxes for you.",
+      "publication_date": "2016-01-21T14:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/22/technology/airbnb-takes-its-case-to-us-mayors-conference.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Catholic Church’s Hold on Schools at Issue in Changing Ireland",
+      "snippet": "Almost all state-funded primary schools are under church control, and Irish law allows them to consider religion the main factor in admissions.",
+      "abstract": "Almost all state-funded primary schools are under church control, and Irish law allows them to consider religion the main factor in admissions.",
+      "lead_paragraph": "DUBLIN — The Roman Catholic Church has lost the battles over divorce, contraception and gay marriage in Ireland. But it still wields what some parents call the “baptism barrier”: influencing admission to public schools.",
+      "publication_date": "2016-01-21T14:21:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/22/world/europe/ireland-catholic-baptism-school.html",
+      "byline": "By Douglas Dalby"
+    }
+  ]
+}

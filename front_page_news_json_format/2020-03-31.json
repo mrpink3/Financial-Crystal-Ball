@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-03-31",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Days After a Funeral in a Georgia Town, Coronavirus ‘Hit Like a Bomb’",
+      "snippet": "A mourner came to Albany, Ga., to attend the funeral of a retired janitor. After a pause while the infections incubated, the virus swept through the community.",
+      "abstract": "A mourner came to Albany, Ga., to attend the funeral of a retired janitor. After a pause while the infections incubated, the virus swept through the community.",
+      "lead_paragraph": "It was an old-fashioned Southern funeral.",
+      "publication_date": "2020-03-30T21:59:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/30/us/coronavirus-funeral-albany-georgia.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "U.S. Retail Crisis Deepens as Hundreds of Thousands Lose Work",
+      "snippet": "Furloughs by Macy’s and Gap will affect the majority of their work forces, and show how the pandemic will devastate many retailers.",
+      "abstract": "Furloughs by Macy’s and Gap will affect the majority of their work forces, and show how the pandemic will devastate many retailers.",
+      "lead_paragraph": "Macy’s and Gap said on Monday that they planned to furlough much of their work forces, a stark sign of how devastating the coronavirus will be for major retailers and their workers who sell clothing, accessories and other discretionary goods.",
+      "publication_date": "2020-03-30T22:32:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/30/business/coronavirus-retail-furloughs-macys.html",
+      "byline": "By Sapna Maheshwari and Michael Corkery"
+    },
+    {
+      "headline": "Strikes at Instacart and Amazon Over Coronavirus Health Concerns",
+      "snippet": "The two companies are the latest targets of labor action by groups fearing virus exposure on the job.",
+      "abstract": "The two companies are the latest targets of labor action by groups fearing virus exposure on the job.",
+      "lead_paragraph": "Signaling both growing anxiety and growing solidarity brought on by the coronavirus pandemic, workers in a variety of occupations across the country are protesting what they see as inadequate safety measures and insufficient pay for the risks they are confronting.",
+      "publication_date": "2020-03-31T00:16:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/30/business/economy/coronavirus-instacart-amazon.html",
+      "byline": "By Noam Scheiber and Kate Conger"
+    },
+    {
+      "headline": "Behind Trump’s Reversal on Reopening the Country: 2 Sets of Numbers",
+      "snippet": "An estimate of the number of possible deaths and polling that showed a cautious public changed, for now, the president’s approach to the coronavirus pandemic.",
+      "abstract": "An estimate of the number of possible deaths and polling that showed a cautious public changed, for now, the president’s approach to the coronavirus pandemic.",
+      "lead_paragraph": "WASHINGTON — The numbers the health officials showed President Trump were overwhelming. With the peak of the coronavirus pandemic still weeks away, he was told, hundreds of thousands of Americans could face death if the country reopened too soon.",
+      "publication_date": "2020-03-31T00:51:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/30/us/politics/trump-coronavirus.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "Fracking Once Lifted Pennsylvania. Now It Could Be a Drag.",
+      "snippet": "Natural-gas companies operating in the state were looking shaky before the coronavirus hit. Local economies are now at risk.",
+      "abstract": "Natural-gas companies operating in the state were looking shaky before the coronavirus hit. Local economies are now at risk.",
+      "lead_paragraph": "CARMICHAELS, Pa. — The last time the global economy was in free fall, an economic savior showed up in southwestern Pennsylvania. Energy companies, which had discovered a way to get at the state’s vast natural-gas reserves, invested billions of dollars in the region, cushioning the blow of the Great Recession.",
+      "publication_date": "2020-03-31T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/31/business/energy-environment/pennsylvania-shale-gas-fracking.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Coronavirus Ended the Screen-Time Debate. Screens Won.",
+      "snippet": "We’ve tried all sorts of things to stop us from staring at our devices. Digital detoxes. Abstinence. Now? Bring on the Zoom cocktail hour.",
+      "abstract": "We’ve tried all sorts of things to stop us from staring at our devices. Digital detoxes. Abstinence. Now? Bring on the Zoom cocktail hour.",
+      "lead_paragraph": "Before the coronavirus, there was something I used to worry about. It was called screen time. Perhaps you remember it.",
+      "publication_date": "2020-03-31T11:25:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/31/technology/coronavirus-screen-time.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Why Asia’s New Wave of Virus Cases Should Worry the World",
+      "snippet": "After a surge in cases tied to international travelers, China, Hong Kong, Singapore and other places that seemed to have the epidemic under control have imposed stricter measures.",
+      "abstract": "After a surge in cases tied to international travelers, China, Hong Kong, Singapore and other places that seemed to have the epidemic under control have imposed stricter measures.",
+      "lead_paragraph": "In China, international flights have been cut back so severely that Chinese students abroad wonder when they will be able to get home. In Singapore, recently returned citizens must share their phones’ location data with the authorities each day to prove they are sticking to government-ordered quarantines.",
+      "publication_date": "2020-03-31T14:40:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/31/world/asia/coronavirus-china-hong-kong-singapore-south-korea.html",
+      "byline": "By Motoko Rich"
+    }
+  ]
+}

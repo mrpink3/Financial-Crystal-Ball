@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-04-26",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In China, Daydreaming Students Are Caught on Camera",
+      "snippet": "Students see live-streaming video of classrooms as an intrusion, prompting a debate in China about privacy, educational ethics and helicopter parenting.",
+      "abstract": "Students see live-streaming video of classrooms as an intrusion, prompting a debate in China about privacy, educational ethics and helicopter parenting.",
+      "lead_paragraph": "BEIJING — In the halls of Yuzhou No. 1 High School in central China, students refer to them simply as “the cameras.”",
+      "publication_date": "2017-04-25T17:05:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/25/world/asia/in-china-daydreaming-students-are-caught-on-camera.html",
+      "byline": "By Javier C. Hernández"
+    },
+    {
+      "headline": "Wells Fargo Shareholders Tepidly Re-elect Bank’s Directors",
+      "snippet": "All 15 board members won support from at least 53 percent of voting shareholders despite the sales scandal that emerged last year.",
+      "abstract": "All 15 board members won support from at least 53 percent of voting shareholders despite the sales scandal that emerged last year.",
+      "lead_paragraph": "PONTE VEDRA BEACH, Fla. — Despite the turmoil that has engulfed Wells Fargo in the past year, shareholders voted to re-elect all of the bank’s 15 directors during a raucous annual meeting on Tuesday. But some of the board members edged in just barely, signaling that many shareholders want further changes to the bank’s leadership.",
+      "publication_date": "2017-04-25T17:16:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/25/business/dealbook/wells-fargo-board.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Trump Rides a Market Wave, but Business Looks for Results",
+      "snippet": "Talk of a corporate tax cut helped fuel a stock rally, but executives say it is too soon to judge whether the president can deliver on his promises.",
+      "abstract": "Talk of a corporate tax cut helped fuel a stock rally, but executives say it is too soon to judge whether the president can deliver on his promises.",
+      "lead_paragraph": "The investor enthusiasm that began with President Trump’s unexpected victory in November has burst out anew on Wall Street, even as Washington remains gridlocked and evidence of any real pickup in the economy is scarce.",
+      "publication_date": "2017-04-25T19:25:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/25/business/economy/trump-business-tax-market-reaction.html",
+      "byline": "By Nelson D. Schwartz, Patricia Cohen and Landon Thomas Jr"
+    },
+    {
+      "headline": "Judge Blocks Trump Effort to Withhold Money From Sanctuary Cities",
+      "snippet": "A federal judge in California temporarily halted the administration’s efforts to withhold funding from cities that limit their cooperation with federal immigration enforcement.",
+      "abstract": "A federal judge in California temporarily halted the administration’s efforts to withhold funding from cities that limit their cooperation with federal immigration enforcement.",
+      "lead_paragraph": "A judge in San Francisco on Tuesday temporarily blocked President Trump’s efforts to starve localities of federal funds when they limit their cooperation with immigration enforcement, a stinging rejection of his threats to make so-called sanctuary cities fall in line.",
+      "publication_date": "2017-04-25T21:05:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/25/us/judge-blocks-trump-sanctuary-cities.html",
+      "byline": "By Vivian Yee"
+    },
+    {
+      "headline": "Marine Le Pen May Get a Lift From an Unlikely Source: The Far Left",
+      "snippet": "Jean-Luc Mélenchon, the far-left fourth-place finisher in France’s presidential vote, has refused to back Ms. Le Pen’s centrist opponent in the runoff, giving her an opportunity.",
+      "abstract": "Jean-Luc Mélenchon, the far-left fourth-place finisher in France’s presidential vote, has refused to back Ms. Le Pen’s centrist opponent in the runoff, giving her an opportunity.",
+      "lead_paragraph": "PARIS — The far-right leader Marine Le Pen faces an uphill battle in France’s presidential runoff, less than two weeks away. But she saw daylight through a small window on Tuesday, and from an unlikely source: her defeated counterpart on the far left.",
+      "publication_date": "2017-04-25T22:05:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/25/world/europe/france-melenchon-macron-le-pen.html",
+      "byline": "By Adam Nossiter"
+    },
+    {
+      "headline": "11 Sue Fox News, Citing ‘Intolerable’ Racial Bias",
+      "snippet": "The group of current and former employees filed a class-action suit accusing the network of “abhorrent, intolerable, unlawful and hostile racial discrimination.”",
+      "abstract": "The group of current and former employees filed a class-action suit accusing the network of “abhorrent, intolerable, unlawful and hostile racial discrimination.”",
+      "lead_paragraph": "Troubles at Fox News were compounded yet again on Tuesday, with the emergence of new allegations of racial discrimination at the company coming less than a week after the ouster of the network’s star Bill O’Reilly.",
+      "publication_date": "2017-04-25T22:52:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/25/business/media/fox-news-racial-discrimination-lawsuit.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Trump’s Tax Plan: Low Rate for Corporations, and for Companies Like His",
+      "snippet": "The blueprint, expected to be announced on Wednesday, jettisons a House Republican proposal to impose a tax on imports, which would help offset the cuts.",
+      "abstract": "The blueprint, expected to be announced on Wednesday, jettisons a House Republican proposal to impose a tax on imports, which would help offset the cuts.",
+      "lead_paragraph": "President Trump plans to unveil a tax cut blueprint on Wednesday that would apply a vastly reduced, 15 percent business tax rate not only to corporations but also to companies that now pay taxes through the personal income tax code — from mom-and-pop businesses to his own real estate empire, according to several people briefed on the proposal.",
+      "publication_date": "2017-04-26T01:03:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/25/us/politics/tax-plan-trump.html",
+      "byline": "By Julie Hirschfeld Davis, Alan Rappeport, Kate Kelly and Rachel Abrams"
+    },
+    {
+      "headline": "Huawei, Chinese Technology Giant, Is Focus of Widening U.S. Investigation",
+      "snippet": "American officials are looking at whether Huawei, a maker of smartphones and cellular equipment, broke trade controls on Cuba, Iran, Sudan and Syria.",
+      "abstract": "American officials are looking at whether Huawei, a maker of smartphones and cellular equipment, broke trade controls on Cuba, Iran, Sudan and Syria.",
+      "lead_paragraph": "HONG KONG — As one of the world’s biggest sellers of smartphones and the back-end equipment that makes cellular networks run, Huawei Technologies has become one of the major symbols of China’s global technology ambitions.",
+      "publication_date": "2017-04-26T11:28:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/26/business/huawei-investigation-sanctions-subpoena.html",
+      "byline": "By Paul Mozur"
+    },
+    {
+      "headline": "Why Instagram Is Becoming Facebook’s Next Facebook",
+      "snippet": "Instagram, now with 700 million users, resembles Facebook in 2009 to 2012, when it went from being something people used occasionally to something they use every day.",
+      "abstract": "Instagram, now with 700 million users, resembles Facebook in 2009 to 2012, when it went from being something people used occasionally to something they use every day.",
+      "lead_paragraph": "At a recent all-hands meeting with employees, Kevin Systrom, a founder and chief executive of Instagram, showed off one of his favorite charts: Days to Reach the Next 100 Million Users.",
+      "publication_date": "2017-04-26T13:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/26/technology/why-instagram-is-becoming-facebooks-next-facebook.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "White House Proposes Slashing Tax Rates, Significantly Aiding Wealthy",
+      "snippet": "President Trump on Wednesday proposed sharp reductions in both individual and corporate income tax rates, and also called for the elimination of most itemized tax deductions.",
+      "abstract": "President Trump on Wednesday proposed sharp reductions in both individual and corporate income tax rates, and also called for the elimination of most itemized tax deductions.",
+      "lead_paragraph": "WASHINGTON — President Trump on Wednesday proposed sharp reductions in individual and business income tax rates and a radical reordering of the tax code that would significantly benefit the wealthy, but he offered no explanation of how the plan would be financed as he rushed to show progress before the 100-day mark of his presidency.",
+      "publication_date": "2017-04-26T15:44:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/26/us/politics/trump-tax-cut-plan.html",
+      "byline": "By Julie Hirschfeld Davis and Alan Rappeport"
+    }
+  ]
+}

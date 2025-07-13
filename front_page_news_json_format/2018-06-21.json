@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-06-21",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Trump Retreats on Separating Families, but Thousands May Remain Apart",
+      "snippet": "“It is still very early, and we are awaiting further guidance on the matter,” Brian Marriott, the senior director of communications for the Administration for Children and Families.",
+      "abstract": "“It is still very early, and we are awaiting further guidance on the matter,” Brian Marriott, the senior director of communications for the Administration for Children and Families.",
+      "lead_paragraph": "WASHINGTON — President Trump caved to enormous political pressure on Wednesday and signed an executive order meant to end the separation of families at the border by detaining parents and children together for an indefinite period.",
+      "publication_date": "2018-06-20T16:18:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/20/us/politics/trump-immigration-children-executive-order.html",
+      "byline": "By Michael D. Shear, Abby Goodnough and Maggie Haberman"
+    },
+    {
+      "headline": "Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So",
+      "snippet": "A branch of A.I. called deep learning has transformed computer performance in tasks like vision and speech. But meaning, reasoning and common sense remain elusive.",
+      "abstract": "A branch of A.I. called deep learning has transformed computer performance in tasks like vision and speech. But meaning, reasoning and common sense remain elusive.",
+      "lead_paragraph": "For the past five years, the hottest thing in artificial intelligence has been a branch known as deep learning. The grandly named statistical technique, put simply, gives computers a way to learn by processing vast amounts of data. Thanks to deep learning, computers can easily identify faces and recognize spoken words, making other forms of humanlike intelligence suddenly seem within reach.",
+      "publication_date": "2018-06-20T20:27:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Trump’s Ace in the Hole in Trade War: A Strong Economy",
+      "snippet": "Accelerating growth has given the administration more leverage over trading partners. But economists warn of potential headwinds beyond this year.",
+      "abstract": "Accelerating growth has given the administration more leverage over trading partners. But economists warn of potential headwinds beyond this year.",
+      "lead_paragraph": "The American economy has picked up speed and is now on course to expand this year at the fastest rate in more than a decade. That acceleration gives President Trump a stronger hand as he contemplates more tariffs and takes an increasingly confrontational approach with China, Canada, Mexico and other trading partners.",
+      "publication_date": "2018-06-20T22:19:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/20/business/economy/trump-trade-economy.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "In Trump’s America, the Conversation Turns Ugly and Angry, Starting at the Top",
+      "snippet": "President Trump rails against undocumented immigrants as “murderers and thieves” who want to “infest our country.” Some of his opponents respond with rage.",
+      "abstract": "President Trump rails against undocumented immigrants as “murderers and thieves” who want to “infest our country.” Some of his opponents respond with rage.",
+      "lead_paragraph": "WASHINGTON — President Trump has railed against undocumented immigrants in recent days, branding many of them “murderers and thieves” who want to “infest our country.” Not long ago, he referred to them as “animals,” although he insisted he meant only those who join a violent gang.",
+      "publication_date": "2018-06-21T00:23:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/20/us/politics/trump-language-immigration.html",
+      "byline": "By Peter Baker and Katie Rogers"
+    },
+    {
+      "headline": "Republicans Dislike Separating Families. But They Like ‘Zero Tolerance’ More.",
+      "snippet": "In border states, Republican voters say that whatever sympathy they feel for children separated from parents is complicated by frustration over the flow of undocumented immigrants from Mexico.",
+      "abstract": "In border states, Republican voters say that whatever sympathy they feel for children separated from parents is complicated by frustration over the flow of undocumented immigrants from Mexico.",
+      "lead_paragraph": "CASTROVILLE, Tex. — In the three years since Donald J. Trump began his presidential bid by maligning Mexican immigrants, Representative Will Hurd, a Texas Republican in a Democratic-leaning district, has faced voters of all stripes who were angry about Mr. Trump’s divisive style.",
+      "publication_date": "2018-06-21T00:34:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/20/us/politics/republicans-family-separation.html",
+      "byline": "By Simon Romero and Jonathan Martin"
+    },
+    {
+      "headline": "Intel C.E.O. Brian Krzanich Resigns After Relationship With Employee",
+      "snippet": "Mr. Krzanich, who resigned after violating Intel’s “non-fraternization policy,” will be replaced on an interim basis by the company’s chief financial officer.",
+      "abstract": "Mr. Krzanich, who resigned after violating Intel’s “non-fraternization policy,” will be replaced on an interim basis by the company’s chief financial officer.",
+      "lead_paragraph": "SAN FRANCISCO — For decades, Intel was one of the most predictable players in the technology industry. On Thursday, the semiconductor maker blindsided Silicon Valley with the abrupt resignation of its chief executive over a relationship with a subordinate.",
+      "publication_date": "2018-06-21T13:22:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/06/21/technology/intel-ceo-resigns-consensual-relationship.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "Supreme Court Widens Reach of Sales Tax for Online Retailers",
+      "snippet": "Departing from a 1992 decision, the justices said that even without a physical presence in a state, businesses can be required to collect taxes there.",
+      "abstract": "Departing from a 1992 decision, the justices said that even without a physical presence in a state, businesses can be required to collect taxes there.",
+      "lead_paragraph": "WASHINGTON — Americans have done more and more of their shopping online in recent years, drawn by the promise of low prices, wide selection and buy-from-home convenience. But e-commerce has also had another edge: Many of those sales were, in effect, tax-free.",
+      "publication_date": "2018-06-21T14:32:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/21/us/politics/supreme-court-sales-taxes-internet-merchants.html",
+      "byline": "By Adam Liptak, Ben Casselman and Julie Creswell"
+    },
+    {
+      "headline": "U.S. Prepares to House Up to 20,000 Migrants on Military Bases",
+      "snippet": "The Pentagon has been assessing whether bases can be used to house both families and children detained at the border, as President Trump criticized what he called “extremist, open-border Democrats.”",
+      "abstract": "The Pentagon has been assessing whether bases can be used to house both families and children detained at the border, as President Trump criticized what he called “extremist, open-border Democrats.”",
+      "lead_paragraph": "WASHINGTON — The United States is preparing to shelter as many as 20,000 migrant children on four American military bases, a Pentagon spokesman said on Thursday, as federal officials struggled to carry out President Trump’s order to keep immigrant families together after they are apprehended at the border.",
+      "publication_date": "2018-06-21T15:08:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/06/21/us/politics/trump-immigration-border-family-separation.html",
+      "byline": "By Michael D. Shear, Helene Cooper and Katie Benner"
+    }
+  ]
+}

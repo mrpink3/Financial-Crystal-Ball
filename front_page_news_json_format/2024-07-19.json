@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2024-07-19",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "How Elon Musk Chose Trump",
+      "snippet": "The world’s richest man, once deeply skeptical of Donald J. Trump, has now endorsed him and has emerged as a central character in the presidential race.",
+      "abstract": "The world’s richest man, once deeply skeptical of Donald J. Trump, has now endorsed him and has emerged as a central character in the presidential race.",
+      "lead_paragraph": "A little over two months ago, Elon Musk found himself at Montsorrel, the palatial Palm Beach compound of Nelson Peltz, the famed activist investor. Mr. Musk knew the sprawling grounds well, having stayed in the guesthouse.",
+      "publication_date": "2024-07-18T17:32:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/18/us/politics/elon-musk-trump.html",
+      "byline": "By Theodore Schleifer and Ryan Mac"
+    },
+    {
+      "headline": "People Close to Biden Say He Appears to Accept He May Have to Leave the Race",
+      "snippet": "One person familiar with President Biden’s thinking cautioned that he had not yet made up his mind to leave the race, after three weeks of insisting that almost nothing would drive him out.",
+      "abstract": "One person familiar with President Biden’s thinking cautioned that he had not yet made up his mind to leave the race, after three weeks of insisting that almost nothing would drive him out.",
+      "lead_paragraph": "",
+      "publication_date": "2024-07-18T21:16:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/18/us/politics/biden-election-drop-out.html",
+      "byline": "By Michael D. Shear, Peter Baker and Katie Rogers"
+    },
+    {
+      "headline": "Lou Dobbs, Former Fox Business Host and Trump Booster, Dies at 78",
+      "snippet": "He used his platforms on CNN and Fox Business to share baseless conspiracy theories. His tenure at Fox ended after the network was sued for defamation over claims of voting machine fraud.",
+      "abstract": "He used his platforms on CNN and Fox Business to share baseless conspiracy theories. His tenure at Fox ended after the network was sued for defamation over claims of voting machine fraud.",
+      "lead_paragraph": "Lou Dobbs, the conservative television and radio host who loomed large over the cable news landscape for decades at CNN and Fox Business, and who later used his platform to promote baseless conspiracy theories and to lend unwavering support to former President Donald J. Trump, has died. He was 78.",
+      "publication_date": "2024-07-18T21:20:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/18/business/media/lou-dobbs-dead.html",
+      "byline": "By Alex Williams and Michael Levenson"
+    },
+    {
+      "headline": "The Push to Develop Generative A.I. Without All the Lawsuits",
+      "snippet": "Companies like Getty have begun developing A.I. models with their own data, part of a broader push to build artificial intelligence with licensed content.",
+      "abstract": "Companies like Getty have begun developing A.I. models with their own data, part of a broader push to build artificial intelligence with licensed content.",
+      "lead_paragraph": "Companies like Google and OpenAI built their artificial intelligence chatbots and image generators by gobbling content from the web, spurring legal fights over copyright claims.",
+      "publication_date": "2024-07-19T09:02:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/19/technology/generative-ai-getty-shutterstock.html",
+      "byline": "By Nico Grant and Cade Metz"
+    },
+    {
+      "headline": "The Data That Powers A.I. Is Disappearing Fast",
+      "snippet": "New research from the Data Provenance Initiative has found a dramatic drop in content made available to the collections used to build artificial intelligence.",
+      "abstract": "New research from the Data Provenance Initiative has found a dramatic drop in content made available to the collections used to build artificial intelligence.",
+      "lead_paragraph": "For years, the people building powerful artificial intelligence systems have used enormous troves of text, images and videos pulled from the internet to train their models.",
+      "publication_date": "2024-07-19T09:02:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "This Summer’s Sleeper TV Hit: ‘Your Honor’",
+      "snippet": "Once again, a show with little following has become hugely popular once it starts streaming on Netflix.",
+      "abstract": "Once again, a show with little following has become hugely popular once it starts streaming on Netflix.",
+      "lead_paragraph": "Over a decade ago, “Breaking Bad,” the crime drama starring Bryan Cranston, catapulted from a basic cable show with so-so ratings to a big hit after Netflix started streaming it.",
+      "publication_date": "2024-07-19T09:02:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/19/business/media/your-honor-netflix-success.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Airlines Restart Flights but Disruptions are Expected to Persist",
+      "snippet": "Planes began taking off again Friday morning after a big tech outage, but it will take airlines a while to get stranded passengers to their destinations.",
+      "abstract": "Planes began taking off again Friday morning after a big tech outage, but it will take airlines a while to get stranded passengers to their destinations.",
+      "lead_paragraph": "Airlines raced on Friday to contain the effects of a tech outage that severely disrupted travel around the world early in the day, delaying or stranding passengers and flight crews.",
+      "publication_date": "2024-07-19T09:27:24+0000",
+      "section_name": "Travel",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/19/travel/tech-outage-us-airlines-ground-stops.html",
+      "byline": "By Niraj Chokshi, Derrick Bryson Taylor and Corey Kilgannon"
+    },
+    {
+      "headline": "Evan Gershkovich Sentenced to 16 Years in Russian Prison on Fabricated Charges",
+      "snippet": "The Wall Street Journal reporter’s trial on espionage charges was widely viewed as a sham outside Russia. But the verdict could set the stage for a prisoner exchange.",
+      "abstract": "The Wall Street Journal reporter’s trial on espionage charges was widely viewed as a sham outside Russia. But the verdict could set the stage for a prisoner exchange.",
+      "lead_paragraph": "A court in Russia on Friday sentenced Evan Gershkovich, a reporter for The Wall Street Journal, to 16 years in a high-security penal colony, ending his espionage trial on what were widely viewed outside Russia as fabricated charges. The verdict opens the way for a potential prisoner swap between the United States and Russia.",
+      "publication_date": "2024-07-19T09:27:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/19/world/europe/russia-court-evan-gershkovich-verdict.html",
+      "byline": "By Ivan Nechepurenko"
+    },
+    {
+      "headline": "Chaos and Confusion: Tech Outage Causes Disruptions Worldwide",
+      "snippet": "Airlines, hospitals and people’s computers were affected after CrowdStrike, a cybersecurity company, sent out a flawed software update.",
+      "abstract": "Airlines, hospitals and people’s computers were affected after CrowdStrike, a cybersecurity company, sent out a flawed software update.",
+      "lead_paragraph": "Airlines grounded flights. Operators of 911 lines could not respond to emergencies. Hospitals canceled surgeries. Retailers closed for the day. And the actions all traced back to a batch of bad computer code.",
+      "publication_date": "2024-07-19T10:08:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html",
+      "byline": "By Adam Satariano, Paul Mozur, Kate Conger and Sheera Frenkel"
+    },
+    {
+      "headline": "11 Days in July: Inside the All-Out Push to Save the Biden Campaign",
+      "snippet": "President Biden has repeatedly tried to erase the concerns over his age and mental acuity. But nothing has changed the narrative.",
+      "abstract": "President Biden has repeatedly tried to erase the concerns over his age and mental acuity. But nothing has changed the narrative.",
+      "lead_paragraph": "Nothing President Biden did seemed to work.",
+      "publication_date": "2024-07-19T14:36:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/19/us/politics/biden-democrats-campaign.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "White House Plan to Limit Rent Increases Nationwide Reignites Debate",
+      "snippet": "A proposal to make landlords’ tax breaks contingent on rent limits has drawn industry pushback, progressive applause and some alternative approaches.",
+      "abstract": "A proposal to make landlords’ tax breaks contingent on rent limits has drawn industry pushback, progressive applause and some alternative approaches.",
+      "lead_paragraph": "When the Biden administration laid out a suite of plans this week to address housing affordability, it added a bold update to previous proposals — and sent the housing industry and the economics world buzzing.",
+      "publication_date": "2024-07-19T15:20:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/19/business/economy/biden-rent-cap-proposal.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "Landlords Used Software to Set Rents. Then Came the Lawsuits.",
+      "snippet": "Antitrust cases contend that use of RealPage’s algorithm, which lets property owners share private data, amounts to collusion.",
+      "abstract": "Antitrust cases contend that use of RealPage’s algorithm, which lets property owners share private data, amounts to collusion.",
+      "lead_paragraph": "Imagine a system that lets big landlords in your city work together to raise rents, using detailed, otherwise-private information about what their competitors are charging.",
+      "publication_date": "2024-07-19T15:39:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/19/business/economy/rent-prices-realpage-lawsuit.html",
+      "byline": "By Danielle Kaye"
+    }
+  ]
+}

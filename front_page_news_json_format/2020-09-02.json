@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-09-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Twitter Hack May Have Had Another Mastermind: A 16-Year-Old",
+      "snippet": "On Tuesday, federal agents served a Massachusetts teenager with a search warrant. He appears to have played a significant role in the July 15 Twitter attack, investigators and fellow hackers said.",
+      "abstract": "On Tuesday, federal agents served a Massachusetts teenager with a search warrant. He appears to have played a significant role in the July 15 Twitter attack, investigators and fellow hackers said.",
+      "lead_paragraph": "When authorities arrested Graham Ivan Clark, who they said was the “mastermind” of the recent Twitter hack that ensnared Kanye West, Bill Gates and others, one detail that stood out was his age: He was only 17.",
+      "publication_date": "2020-09-01T18:30:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/01/technology/twitter-hack.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Russians Again Targeting Americans With Disinformation, Facebook and Twitter Say",
+      "snippet": "The companies said the F.B.I. had warned them that the Kremlin-backed Internet Research Agency set up a network of fake user accounts and a website.",
+      "abstract": "The companies said the F.B.I. had warned them that the Kremlin-backed Internet Research Agency set up a network of fake user accounts and a website.",
+      "lead_paragraph": "The Russian group that interfered in the 2016 presidential election is at it again, using a network of fake accounts and a website set up to look like a left-wing news site, Facebook and Twitter said on Tuesday.",
+      "publication_date": "2020-09-01T19:18:53+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/01/technology/facebook-russia-disinformation-election.html",
+      "byline": "By Sheera Frenkel and Julian E. Barnes"
+    },
+    {
+      "headline": "In Hard Times, a Barrage of Ads Promises Peace of Mind",
+      "snippet": "Meditation apps, tinctures, stress-busting gummies — spending on commercials for all of them is rising amid the pandemic’s climbing death toll and economic strain.",
+      "abstract": "Meditation apps, tinctures, stress-busting gummies — spending on commercials for all of them is rising amid the pandemic’s climbing death toll and economic strain.",
+      "lead_paragraph": "A lethal pandemic and widespread unemployment have coincided with a tense presidential campaign and nationwide unrest.",
+      "publication_date": "2020-09-01T20:25:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/01/business/media/coronavirus-anxiety-depression-ads.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "Mnuchin Says Economy Is Recovering but ‘More Work’ Is Needed to Alleviate Pain",
+      "snippet": "The Treasury secretary’s House testimony, combined with renewed stimulus discussions among Republicans, highlighted divisions over how big an economic package should be.",
+      "abstract": "The Treasury secretary’s House testimony, combined with renewed stimulus discussions among Republicans, highlighted divisions over how big an economic package should be.",
+      "lead_paragraph": "WASHINGTON — Treasury Secretary Steven Mnuchin told lawmakers on Tuesday that the economy was recovering from the pandemic-induced recession but said “more work” was needed in certain areas, suggesting that the administration may be willing to agree on a stimulus package as large as $1.5 trillion.",
+      "publication_date": "2020-09-01T22:40:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/01/business/economy/mnuchin-coronavirus.html",
+      "byline": "By Jim Tankersley and Nicholas Fandos"
+    },
+    {
+      "headline": "A New Coronavirus Adviser Roils the White House With Unorthodox Ideas",
+      "snippet": "Dr. Scott Atlas arrived at the White House as a coronavirus contrarian, questioning controls like masks. He has angered top health officials while pushing a suite of disputed policy prescriptions.",
+      "abstract": "Dr. Scott Atlas arrived at the White House as a coronavirus contrarian, questioning controls like masks. He has angered top health officials while pushing a suite of disputed policy prescriptions.",
+      "lead_paragraph": "WASHINGTON — Dr. Scott W. Atlas has argued that the science of mask wearing is uncertain, that children cannot pass on the coronavirus and that the role of the government is not to stamp out the virus but to protect its most vulnerable citizens as Covid-19 takes its course.",
+      "publication_date": "2020-09-02T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/02/us/politics/trump-scott-atlas-coronavirus.html",
+      "byline": "By Noah Weiland, Sheryl Gay Stolberg, Michael D. Shear and Jim Tankersley"
+    },
+    {
+      "headline": "This Is Democrats’ Doomsday Scenario for Election Night",
+      "snippet": "What if early results in swing states on Nov. 3 show President Trump ahead, and he declares victory before heavily Democratic mail-in votes, which he has falsely linked with fraud, are fully counted?",
+      "abstract": "What if early results in swing states on Nov. 3 show President Trump ahead, and he declares victory before heavily Democratic mail-in votes, which he has falsely linked with fraud, are fully counted?",
+      "lead_paragraph": "As returns came in on election night in Florida in 2018, the Republicans running for governor and the Senate took narrow leads in races that were too close to call.",
+      "publication_date": "2020-09-02T09:00:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/02/us/politics/voting-election-day.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Aleksei Navalny Was Poisoned With Novichok, Germany Says",
+      "snippet": "The German government said that toxicology tests showed the Russian opposition leader was poisoned with a nerve agent from the same class used in a 2018 attack in Britain on an ex-Soviet spy.",
+      "abstract": "The German government said that toxicology tests showed the Russian opposition leader was poisoned with a nerve agent from the same class used in a 2018 attack in Britain on an ex-Soviet spy.",
+      "lead_paragraph": "Soon after a private plane carrying the poisoned Russian opposition leader, Aleksei A. Navalny, touched down in Berlin last month, doctors treating him at the prestigious Charité hospital there became so alarmed, they called in the Army.",
+      "publication_date": "2020-09-02T14:05:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/02/world/europe/navalny-poison-novichok.html",
+      "byline": "By Michael Schwirtz and Melissa Eddy"
+    },
+    {
+      "headline": "Prince Harry and Meghan Sign Megawatt Netflix Deal",
+      "snippet": "Six months after ceasing to be working members of the British royal family, the Duke and Duchess of Sussex are Hollywood producers.",
+      "abstract": "Six months after ceasing to be working members of the British royal family, the Duke and Duchess of Sussex are Hollywood producers.",
+      "lead_paragraph": "LOS ANGELES — Prince Harry and his wife, Meghan, having resettled in California, on Wednesday unveiled new Hollywood careers.",
+      "publication_date": "2020-09-02T15:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/02/business/media/harry-meghan-netflix.html",
+      "byline": "By Brooks Barnes"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2007-01-30",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Fed Has Yet to Set Target on Inflation",
+      "snippet": "As Ben S. Bernanke celebrates his first anniversary as Fed chief, the Fed is still far away from acting on his major proposal of setting an explicit target for inflation.",
+      "abstract": "As Ben S. Bernanke celebrates his first anniversary as Fed chief, the Fed is still far away from acting on his major proposal of setting an explicit target for inflation.",
+      "lead_paragraph": "WASHINGTON, Jan. 29 — When Ben S. Bernanke took over as chairman of the Federal Reserve Board one year ago this week, he brought with him a long-held conviction that the central bank should be more explicit about its goals and less personalized than it had been under Alan Greenspan.",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "Washington",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/30/washington/30fed.html",
+      "byline": "By Edmund L. Andrews"
+    },
+    {
+      "headline": "Chinese United by Common Goal: A Hot Stock Tip",
+      "snippet": "A record bull market is pulling in new investors but causing concern among the country’s senior officials.",
+      "abstract": "A record bull market is pulling in new investors but causing concern among the country’s senior officials.",
+      "lead_paragraph": " BEIJING, Jan. 29 — “Irrational exuberance” has no exact Chinese translation, but no explanation seemed necessary in the bustling lobby of GF Securities. Grungy-looking college students, office workers, retirees and even a pregnant woman in suede boots all jostled into the brokerage on a recent morning, eager to buy stocks and buy them now.",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/30/world/asia/30china.html",
+      "byline": "By Jim Yardley"
+    },
+    {
+      "headline": "First the Wait for Microsoft Vista; Now the Marketing Barrage",
+      "snippet": "Skeptics were drowned out by the marketing campaign for Microsoft’s operating system on the eve of its arrival.",
+      "abstract": "Skeptics were drowned out by the marketing campaign for Microsoft’s operating system on the eve of its arrival.",
+      "lead_paragraph": "Microsoft’s power in the technology industry, some analysts insist, is waning. It faces a host of rivals from a reinvigorated Apple on the desktop to Web-based challengers like Google, delivering services and software online.",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/30/technology/30soft.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "A Lively Market, Legal and Not, for Software Bugs",
+      "snippet": "Software vulnerabilities are bought and sold online, both by legitimate security companies and by thieves.",
+      "abstract": "Software vulnerabilities are bought and sold online, both by legitimate security companies and by thieves.",
+      "lead_paragraph": "Microsoft says its new operating system, Windows Vista, is the most secure in the company’s history. Now the bounty hunters will test just how secure it is.",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/30/technology/30bugs.html",
+      "byline": "By Brad Stone"
+    },
+    {
+      "headline": "Economist Wants Business and Social Aims to Be in Sync",
+      "snippet": "Dani Rodrik, a Harvard trade economist, has built a reputation for favoring eclectic solutions that mix government and the private sector in pragmatic ways.",
+      "abstract": "Dani Rodrik, a Harvard trade economist, has built a reputation for favoring eclectic solutions that mix government and the private sector in pragmatic ways.",
+      "lead_paragraph": "Dani Rodrik, a trade economist at the John F. Kennedy School of Government at Harvard, received his introduction to the idiosyncrasies of globalization while growing up in Turkey. ",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/30/business/worldbusiness/30trade.html",
+      "byline": "By Louis Uchitelle"
+    },
+    {
+      "headline": "Rumors Fly About Bristol, Lifting Stock",
+      "snippet": "Shares of both Bristol-Myers Squibb and Sanofi-Aventis traded heavily  on speculation that the companies might merge to form one of the world’s largest drug companies.",
+      "abstract": "Shares of both Bristol-Myers Squibb and Sanofi-Aventis traded heavily  on speculation that the companies might merge to form one of the world’s largest drug companies.",
+      "lead_paragraph": "Ever since Bristol-Myers Squibb named an interim chief executive last fall, the market has been primed for a takeover of the drug company. So yesterday, all it took was one rumor printed as fact to incite a buying frenzy. ",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/30/business/30place.html",
+      "byline": "By Stephanie Saul"
+    },
+    {
+      "headline": "As Airlines Surge, Pilots Want Share",
+      "snippet": "With most of the industry returning to profitability, pilots are demanding that they should recoup some of the pay and other benefits they gave up in recent years.",
+      "abstract": "With most of the industry returning to profitability, pilots are demanding that they should recoup some of the pay and other benefits they gave up in recent years.",
+      "lead_paragraph": "Now it’s the pilots’ turn. ",
+      "publication_date": "2007-01-30T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/30/business/30air.html",
+      "byline": "By Jeff Bailey"
+    }
+  ]
+}

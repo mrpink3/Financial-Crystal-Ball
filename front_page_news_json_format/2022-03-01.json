@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2022-03-01",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Within Days, Russia’s War on Ukraine Squeezes the Global Economy",
+      "snippet": "The price of energy has already shot higher, and the conflict imperils supply chains, factors that could exacerbate inflation and suppress growth.",
+      "abstract": "The price of energy has already shot higher, and the conflict imperils supply chains, factors that could exacerbate inflation and suppress growth.",
+      "lead_paragraph": "In the span of just a few days, the global economic outlook has darkened while troops battled in Ukraine and unexpectedly potent financial sanctions rocked Russia’s economy and threatened to further fuel worldwide inflation.",
+      "publication_date": "2022-03-01T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/01/business/economy/russia-ukraine-sanctions-economy.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Seeking Truth and Justice, Chinese See Themselves in a Chained Woman",
+      "snippet": "The woman became a symbol of injustice and authorities’ incompetence in fighting human trafficking, posing a credibility challenge to an omnipotent government.",
+      "abstract": "The woman became a symbol of injustice and authorities’ incompetence in fighting human trafficking, posing a credibility challenge to an omnipotent government.",
+      "lead_paragraph": "The Chinese government faces a quandary: how to convince its people that what it said about a chained woman is true.",
+      "publication_date": "2022-03-01T10:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/01/business/china-chained-woman-social-media.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Countries rush to release emergency reserves as oil prices soar.",
+      "snippet": "The announcement was aimed to assure markets that there would be “no shortfall” as a result of Russia’s invasion of Ukraine, but oil prices kept rising, closing above $100 a barrel.",
+      "abstract": "The announcement was aimed to assure markets that there would be “no shortfall” as a result of Russia’s invasion of Ukraine, but oil prices kept rising, closing above $100 a barrel.",
+      "lead_paragraph": "As oil prices soared in the sharpest one-day jump since Russia’s invasion of Ukraine last week, more than two dozen countries agreed on Tuesday to release 60 million barrels of oil from their emergency reserves, aiming to send a “strong message” that there will be “no shortfall as a result of Russia’s invasion of Ukraine.”",
+      "publication_date": "2022-03-01T13:08:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/03/01/business/ukraine-russia-oil.html",
+      "byline": "By Stanley Reed"
+    }
+  ]
+}

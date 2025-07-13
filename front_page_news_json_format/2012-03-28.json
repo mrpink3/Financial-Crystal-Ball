@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2012-03-28",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "In Court, Sharp Questions on Health Care Law’s Mandate",
+      "snippet": "Skeptical questions for an administration lawyer from four of the Supreme Court justices suggested that a 5-to-4 decision to strike down the Affordable Care Act was a live possibility.",
+      "abstract": "Skeptical questions for an administration lawyer from four of the Supreme Court justices suggested that a 5-to-4 decision to strike down the Affordable Care Act was a live possibility.",
+      "lead_paragraph": "WASHINGTON — With the fate of President Obama’s health care law hanging in the balance, a lawyer for the administration faced a barrage of skeptical questions on Tuesday from four of the Supreme Court’s more conservative justices, suggesting that a 5-to-4 decision to strike down the law was a live possibility. ",
+      "publication_date": "2012-03-27T16:26:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/28/us/hard-questions-from-conservative-justices-over-insurance-mandate.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "A Surge in Learning the Language of the Internet",
+      "snippet": "The market for Web sites, night classes and online lectures in computer programming is booming, as demand grows for knowing how the digital pieces of the Internet fit together.",
+      "abstract": "The market for Web sites, night classes and online lectures in computer programming is booming, as demand grows for knowing how the digital pieces of the Internet fit together.",
+      "lead_paragraph": "Parlez-vous Python? What about Rails or JavaScript? Foreign languages tend to wax and wane in popularity, but the language du jour is computer code. ",
+      "publication_date": "2012-03-27T17:57:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/28/technology/for-an-edge-on-the-internet-computer-code-gains-a-following.html",
+      "byline": "By Jenna Wortham"
+    },
+    {
+      "headline": "F.D.A. Approves New Anemia Drug",
+      "snippet": "The Food and Drug Administration approved a new anemia drug called Omontys for dialysis patients, which will end Amgen’s 24-year monopoly led by its Epogen drug.",
+      "abstract": "The Food and Drug Administration approved a new anemia drug called Omontys for dialysis patients, which will end Amgen’s 24-year monopoly led by its Epogen drug.",
+      "lead_paragraph": "It has been one of the most lucrative monopolies of all time, yielding the biotechnology company Amgen roughly $40 billion in sales over 23 years. ",
+      "publication_date": "2012-03-27T18:06:12+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/28/health/policy/fda-approves-new-anemia-drug.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "The Case for Raising Top Tax Rates",
+      "snippet": "Research suggests top tax rates could go much higher without having a detrimental effect on economic growth.",
+      "abstract": "Research suggests top tax rates could go much higher without having a detrimental effect on economic growth.",
+      "lead_paragraph": "The wealthy are feeling defensive about their taxes. Most Americans may think the rich pay too little but, not surprisingly, only 30 percent of the rich agree. More than two-thirds of families earning a quarter of a million dollars a year or more tell Gallup’s pollsters that their taxes are too high. ",
+      "publication_date": "2012-03-27T21:40:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/28/business/economy/the-case-for-raising-top-tax-rates.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Foreclosure Deal Credits Banks for Routine Efforts",
+      "snippet": "Critics and supporters sparred over whether a foreclosure deal helps banks even more than struggling homeowners.",
+      "abstract": "Critics and supporters sparred over whether a foreclosure deal helps banks even more than struggling homeowners.",
+      "lead_paragraph": "In February, JPMorgan Chase donated a home to an Iraq war veteran in Bucoda, Wash., and Bank of America waived the $140,000 debt that a Florida man still owed after the sale of his foreclosed home. Over the last year, Wells Fargo has demolished about a dozen houses in Cleveland.",
+      "publication_date": "2012-03-28T00:59:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/28/business/foreclosure-deal-gives-banks-credit-for-routine-activities.html",
+      "byline": "By Shaila Dewan and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Knowing Cost, the Customer Sets the Price",
+      "snippet": "As power shifts to consumers, propelled by the Internet and apps, many stores are scrambling to move beyond the time-worn cycle of markups and discounts — and still make money.",
+      "abstract": "As power shifts to consumers, propelled by the Internet and apps, many stores are scrambling to move beyond the time-worn cycle of markups and discounts — and still make money.",
+      "lead_paragraph": "P. T. Vineburgh has a sense of how much things should cost, and on a recent trip to the Boston jeweler Shreve, Crump & Low, he was not afraid to say so.",
+      "publication_date": "2012-03-28T01:10:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/28/business/retailers-rush-to-adjust-to-price-smart-shoppers.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "In Massachusetts, Insurance Mandate Stirs Some Dissent",
+      "snippet": "As the Supreme Court hears arguments on the requirement that most Americans be insured or pay a penalty, Massachusetts offers an example of how such a mandate might work.",
+      "abstract": "As the Supreme Court hears arguments on the requirement that most Americans be insured or pay a penalty, Massachusetts offers an example of how such a mandate might work.",
+      "lead_paragraph": "BOSTON — Wayde Lodor is part of the 2 percent: the roughly 120,000 residents of Massachusetts who lack health insurance despite the state’s landmark 2006 law requiring almost every adult in the state to have it. He is likely to face a penalty this year, having made enough money under the state’s guidelines to afford a health plan. But Mr. Lodor, an independent product development consultant from Leominster, remains defiant.",
+      "publication_date": "2012-03-28T01:20:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/28/us/massachusetts-health-insurance-mandate-stirs-dissent.html",
+      "byline": "By Abby Goodnough"
+    },
+    {
+      "headline": "2 Israeli Leaders Make the Iran Issue Their Own",
+      "snippet": "Prime Minister Benjamin Netanyahu and Defense Minister Ehud Barak have formed an unexpected bond on the matter of Iran’s threat and in considering what must be done about it.",
+      "abstract": "Prime Minister Benjamin Netanyahu and Defense Minister Ehud Barak have formed an unexpected bond on the matter of Iran’s threat and in considering what must be done about it.",
+      "lead_paragraph": "JERUSALEM — Prime Minister Benjamin Netanyahu and Defense Minister Ehud Barak have turned into the odd couple of Israeli politics in whose hands sits the prospect of an attack on Iran. From opposite political traditions with distinct experiences and worldviews, the two have forged a tight bond, often excluding the rest of the Israeli leadership.",
+      "publication_date": "2012-03-28T01:54:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/28/world/middleeast/netanyahu-and-barak-bond-over-israels-iran-crisis.html",
+      "byline": "By Ethan Bronner"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-09-18",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "A San Francisco Tech Mogul Buys a Fabled Slice of New York Media",
+      "snippet": "Something like this was tried 18 years ago, when AOL bought Time Warner. But Marc Benioff, long a prominent figure in his hometown, does things his own way.",
+      "abstract": "Something like this was tried 18 years ago, when AOL bought Time Warner. But Marc Benioff, long a prominent figure in his hometown, does things his own way.",
+      "lead_paragraph": "SAN FRANCISCO — Marc Benioff is like the Salesforce Tower: He looms over this city.",
+      "publication_date": "2018-09-17T22:56:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/17/technology/time-marc-benioff.html",
+      "byline": "By David Streitfeld, Don Clark and Natasha Singer"
+    },
+    {
+      "headline": "In Flood-Hit Public Housing, a Reminder That the Poor Bear Brunt of Storms’ Fury",
+      "snippet": "Residents of a North Carolina housing complex have found themselves at the center of a redevelopment drama, even as they wonder what will become of their Florence-hit homes.",
+      "abstract": "Residents of a North Carolina housing complex have found themselves at the center of a redevelopment drama, even as they wonder what will become of their Florence-hit homes.",
+      "lead_paragraph": "NEW BERN, N.C. — Before the river rose and the water trespassed into her little public housing unit, ruining her black sectional sofa and her children’s clothes, leaving her walls moist to the touch — indeed, before she even knew that the river could be her enemy — Keisha Monk thought she had found something better than basic shelter at Trent Court.",
+      "publication_date": "2018-09-17T23:29:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/17/us/hurricane-florence-new-bern-poor.html",
+      "byline": "By Richard Fausset"
+    },
+    {
+      "headline": "Echoes of Anita Hill, but in a Different Era for Women",
+      "snippet": "Now it is Judge Brett M. Kavanaugh who faces a hearing to address explosive accusations by Christine Blasey Ford that he sexually assaulted her when they were teenagers.",
+      "abstract": "Now it is Judge Brett M. Kavanaugh who faces a hearing to address explosive accusations by Christine Blasey Ford that he sexually assaulted her when they were teenagers.",
+      "lead_paragraph": "WASHINGTON — She went public just days before a critical vote and took a polygraph test to bolster her credibility. He unequivocally denied her years-old charges of sexual misconduct. Calls mounted to delay the vote and investigate. It was late September, and a Supreme Court seat hung in the balance.",
+      "publication_date": "2018-09-18T01:34:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/17/us/politics/anita-hill-clarence-thomas-brett-kavanaugh-christine-blasey-ford.html",
+      "byline": "By Peter Baker and Carl Hulse"
+    },
+    {
+      "headline": "Trump’s Growing Legal Team Has a Problem: It’s Operating Partly in the Dark",
+      "snippet": "The president’s lawyers are struggling to understand where the investigations surrounding him are going, and the extent of his legal exposure.",
+      "abstract": "The president’s lawyers are struggling to understand where the investigations surrounding him are going, and the extent of his legal exposure.",
+      "lead_paragraph": "WASHINGTON — Nearly a dozen lawyers now assist President Trump in contending with two federal investigations, one in Washington and one in New York, that could pose serious threats to his presidency and his businesses. But the expanding legal team is struggling to understand where the investigations could be headed and the extent of Mr. Trump’s legal exposure.",
+      "publication_date": "2018-09-18T09:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/18/us/politics/trump-legal-team-lawyers.html",
+      "byline": "By Maggie Haberman and Michael S. Schmidt"
+    },
+    {
+      "headline": "China Once Looked Tough on Trade. Now Its Options Are Dwindling.",
+      "snippet": "China said it would impose tariffs on an additional $60 billion of U.S. imports. But Beijing is running out of American goods to target as the trade war intensifies.",
+      "abstract": "China said it would impose tariffs on an additional $60 billion of U.S. imports. But Beijing is running out of American goods to target as the trade war intensifies.",
+      "lead_paragraph": "BEIJING — President Trump imposed tariffs in July on $34 billion in Chinese goods. China matched them dollar for dollar with its own.",
+      "publication_date": "2018-09-18T09:10:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/18/business/china-trade-war-retaliate.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Facebook Accused of Allowing Bias Against Women in Job Ads",
+      "snippet": "A case filed with federal regulators says the company’s targeting technology is used to screen out female candidates in violation of the law.",
+      "abstract": "A case filed with federal regulators says the company’s targeting technology is used to screen out female candidates in violation of the law.",
+      "lead_paragraph": "Facebook has been criticized in recent years over revelations that its technology allowed landlords to discriminate on the basis of race, and employers to discriminate on the basis of age. Now a group of job seekers is accusing Facebook of helping employers to exclude female candidates from recruiting campaigns.",
+      "publication_date": "2018-09-18T13:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/18/business/economy/facebook-job-ads.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

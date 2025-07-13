@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-10-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Despite Billions in Fees, Banks Predict Meager Profits on P.P.P. Loans",
+      "snippet": "Banks collected at least $13 billion in fees on Paycheck Protection Program loans, according to a New York Times analysis. But the largest lenders say costs wiped out most of what they took in.",
+      "abstract": "Banks collected at least $13 billion in fees on Paycheck Protection Program loans, according to a New York Times analysis. But the largest lenders say costs wiped out most of what they took in.",
+      "lead_paragraph": "Loath to be seen profiting from the economic disaster caused by the coronavirus, the nation’s biggest banks were quick to pledge that they would donate to charity any money earned from helping deliver the government’s signature small-business relief plan.",
+      "publication_date": "2020-10-01T18:10:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/01/business/ppp-loans-bank-profits.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Airlines, Facing a Painfully Slow Recovery, Begin Furloughing Thousands",
+      "snippet": "With few people traveling and lawmakers deadlocked on a stimulus package, American Airlines and United Airlines are cutting more than 30,000 jobs.",
+      "abstract": "With few people traveling and lawmakers deadlocked on a stimulus package, American Airlines and United Airlines are cutting more than 30,000 jobs.",
+      "lead_paragraph": "When Congress gave passenger airlines a $50 billion bailout in March, industry executives hoped the aid would tide them over until the fall, when more people might be traveling and a vaccine might be closer at hand. Several months later, that hopeful future remains extremely murky.",
+      "publication_date": "2020-10-01T20:56:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/01/business/airline-furloughs-coronavirus-united-american.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "New Layoffs Add to Worries Over U.S. Economic Slowdown",
+      "snippet": "A standoff over further federal aid and concern over the pandemic’s duration are pushing companies to eliminate jobs.",
+      "abstract": "A standoff over further federal aid and concern over the pandemic’s duration are pushing companies to eliminate jobs.",
+      "lead_paragraph": "The American economy is being buffeted by a fresh round of corporate layoffs, signaling new anxiety about the course of the coronavirus pandemic and uncertainty about further legislative relief.",
+      "publication_date": "2020-10-01T22:12:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/01/business/economy/layoffs-unemployment-claims.html",
+      "byline": "By Nelson D. Schwartz and Gillian Friedman"
+    },
+    {
+      "headline": "Wisconsin Is Frazzled by Surging Virus Cases and Growing Campaign Frenzy",
+      "snippet": "The state, up for grabs in the presidential election, has become a coronavirus hot spot. “It’s too late” to solve, one mayor says.",
+      "abstract": "The state, up for grabs in the presidential election, has become a coronavirus hot spot. “It’s too late” to solve, one mayor says.",
+      "lead_paragraph": "OSHKOSH, Wis. — Steve VanderLoop, 64, heard that several of his co-workers at a manufacturing plant in Wisconsin had fallen ill from Covid-19. Then there was his brother-in-law’s entire family in nearby Washington County. A good friend in Appleton, up the shore of Lake Winnebago. And last week, the gut punch: Mr. VanderLoop’s 96-year-old mother learned she had the virus.",
+      "publication_date": "2020-10-01T22:57:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/01/us/wisconsin-coronavirus-election.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "As Trump Sows Doubts on Mail, Some Democrats Push In-Person Voting",
+      "snippet": "In Philadelphia, officials are encouraging voting in person. In Wisconsin, there are ballot-return events in city parks. They reflect an unease over President Trump’s war on mail-in voting.",
+      "abstract": "In Philadelphia, officials are encouraging voting in person. In Wisconsin, there are ballot-return events in city parks. They reflect an unease over President Trump’s war on mail-in voting.",
+      "lead_paragraph": "[Watch live VP debate and analysis.]",
+      "publication_date": "2020-10-01T23:40:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/01/us/politics/democrats-in-person-voting.html",
+      "byline": "By Nick Corasaniti and Reid J. Epstein"
+    },
+    {
+      "headline": "Trump’s Coronavirus Is Another Jolt of Uncertainty for Investors",
+      "snippet": "The president’s disclosure meant extra worry. One expert said: “It’s just par for the course this year.”",
+      "abstract": "The president’s disclosure meant extra worry. One expert said: “It’s just par for the course this year.”",
+      "lead_paragraph": "There’s a pandemic, an economic recovery that’s losing steam, stalled stimulus talks in Congress and a deeply contentious election that has raised the specter of a constitutional crisis. As if that were not enough to make investors anxious, President Trump provided another reason to worry in the wee hours of Friday.",
+      "publication_date": "2020-10-02T06:25:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/02/business/trump-covid-stock-market.html",
+      "byline": "By Matt Phillips and Eshe Nelson"
+    },
+    {
+      "headline": "Colleges Learn How to Suppress Coronavirus: Extensive Testing",
+      "snippet": "While many campuses are struggling with major outbreaks, some schools have successfully contained the virus.",
+      "abstract": "While many campuses are struggling with major outbreaks, some schools have successfully contained the virus.",
+      "lead_paragraph": "In rural Iowa, just one of the 875 students on Cornell College’s campus has tested positive for the coronavirus this semester. At Amherst College in Massachusetts, the number of undergraduate virus cases has been a bit higher: three.",
+      "publication_date": "2020-10-02T07:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/02/us/colleges-coronavirus-success.html",
+      "byline": "By Shawn Hubler"
+    },
+    {
+      "headline": "Trump’s Positive Coronavirus Test Upends Campaign in Final Stretch",
+      "snippet": "The startling turn of events in the race for the White House left both sides confronting a wrenching series of strategic choices just one month before Election Day.",
+      "abstract": "The startling turn of events in the race for the White House left both sides confronting a wrenching series of strategic choices just one month before Election Day.",
+      "lead_paragraph": "[Watch live VP debate and analysis.]",
+      "publication_date": "2020-10-02T08:20:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/02/us/politics/trump-coronavirus-campaign.html",
+      "byline": "By Jonathan Martin and Maggie Haberman"
+    },
+    {
+      "headline": "Apps Will Get You Paid Early, for a Price",
+      "snippet": "Pay-advance apps have been downloaded millions of times, and more employers are offering them as benefits to workers who need cash.",
+      "abstract": "Pay-advance apps have been downloaded millions of times, and more employers are offering them as benefits to workers who need cash.",
+      "lead_paragraph": "Americans have become accustomed to summoning just about anything on demand, from groceries to car rides. Now it’s just as easy to get paid when you want.",
+      "publication_date": "2020-10-02T09:00:34+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/02/your-money/cash-advance-apps-paychecks.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Trump Cracks Down on Visas. Indian Firms May Benefit.",
+      "snippet": "As the president clashes with the courts, some companies and investors say tougher limits on temporary work visas will help push jobs overseas.",
+      "abstract": "As the president clashes with the courts, some companies and investors say tougher limits on temporary work visas will help push jobs overseas.",
+      "lead_paragraph": "When President Trump suspended a raft of visa programs in June, including temporary permits for highly technical foreign workers known as H-1B visas, he portrayed the order as a victory for the American work force. Further overhauls were in the works, he said weeks later, “so that no American worker is replaced ever again.”",
+      "publication_date": "2020-10-02T15:27:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/02/technology/trump-india-hib-visas.html",
+      "byline": "By Maria Abi-Habib and Karan Deep Singh"
+    }
+  ]
+}

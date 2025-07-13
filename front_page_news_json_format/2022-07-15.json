@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2022-07-15",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Democrats Face Deepening Peril as Republicans Seize on Inflation Fears",
+      "snippet": "Economists warn that a blitz of midterm election campaign ads could push consumer prices even higher.",
+      "abstract": "Economists warn that a blitz of midterm election campaign ads could push consumer prices even higher.",
+      "lead_paragraph": "WASHINGTON — Triple-digit gasoline bills. Bulging hamburger prices. A Fourth of July holiday that broke the bank.",
+      "publication_date": "2022-07-14T18:49:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/14/us/politics/democrats-republicans-inflation-midterms.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Facts Were Sparse on an Abortion Case. But That Didn’t Stop the Attacks.",
+      "snippet": "The story of a 10-year-old girl in Ohio became the focus of a heated political debate that played out in the news media.",
+      "abstract": "The story of a 10-year-old girl in Ohio became the focus of a heated political debate that played out in the news media.",
+      "lead_paragraph": "For nearly two weeks, the story of a 10-year-old Ohio girl who was raped and crossed state lines to get an abortion became a flash point in the national abortion debate. President Biden and other Democrats argued that it showed the harm resulting from the Supreme Court’s overturning of Roe v. Wade.",
+      "publication_date": "2022-07-14T23:19:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/14/business/media/10-year-old-girl-ohio-rape.html",
+      "byline": "By Katie Robertson"
+    },
+    {
+      "headline": "China’s Economy Hits a Slump as Covid Policy Takes a Toll",
+      "snippet": "High unemployment, a housing market in crisis and sluggish consumer spending during lockdowns are putting pressure on Beijing in a year when officials are focused on projecting stability.",
+      "abstract": "High unemployment, a housing market in crisis and sluggish consumer spending during lockdowns are putting pressure on Beijing in a year when officials are focused on projecting stability.",
+      "lead_paragraph": "When countries around the world have stumbled in the face of pandemic headwinds, China has often stood apart, seemingly impervious to financial pressures that undermined growth.",
+      "publication_date": "2022-07-15T02:18:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/14/business/economy/china-economy-slows.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Germany Hopes to Outrace a Russian Gas Cutoff and Bone Cold Winter",
+      "snippet": "Europe’s largest economy and key energy hub still depends on gas supplies now ensnared in conflict. Here’s how Germany is preparing and what is at stake.",
+      "abstract": "Europe’s largest economy and key energy hub still depends on gas supplies now ensnared in conflict. Here’s how Germany is preparing and what is at stake.",
+      "lead_paragraph": "Russian natural gas has fired the furnaces that create molten stainless steel at Clemens Schmees’s family foundry since 1961, when his father set up shop in a garage in the western part of Germany.",
+      "publication_date": "2022-07-15T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/15/business/economy/germany-russia-natural-gas.html",
+      "byline": "By Patricia Cohen and Melissa Eddy"
+    },
+    {
+      "headline": "Voters See a Bad Economy, Even if They’re Doing OK",
+      "snippet": "A New York Times/Siena poll shows remarkable pessimism despite the labor market’s resilience. That could be costly for the Democrats, and the economy.",
+      "abstract": "A New York Times/Siena poll shows remarkable pessimism despite the labor market’s resilience. That could be costly for the Democrats, and the economy.",
+      "lead_paragraph": "The fastest inflation in four decades has Americans feeling dour about the economy, even as their own finances have, so far, held up relatively well.",
+      "publication_date": "2022-07-15T14:11:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/15/business/economy/inflation-economy-polling.html",
+      "byline": "By Ben Casselman and Lydia DePillis"
+    }
+  ]
+}

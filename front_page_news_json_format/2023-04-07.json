@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-04-07",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Acknowledges Afghanistan Evacuation Should Have Started Sooner",
+      "snippet": "President Biden’s decision to end a 20-year war in August 2021 led to the swift collapse of the Afghan government and military. His administration has placed heavy blame on his predecessor.",
+      "abstract": "President Biden’s decision to end a 20-year war in August 2021 led to the swift collapse of the Afghan government and military. His administration has placed heavy blame on his predecessor.",
+      "lead_paragraph": "WASHINGTON — The Biden administration’s nearly two-year review of the calamitous American withdrawal from Afghanistan found that U.S. officials should have started the evacuation earlier, but placed extensive blame on President Biden’s predecessor, former President Donald J. Trump.",
+      "publication_date": "2023-04-06T17:45:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/06/us/politics/evacuations-afghanistan-war-biden.html",
+      "byline": "By Katie Rogers"
+    },
+    {
+      "headline": "I.R.S. Unveils $80 Billion Plan to Overhaul Tax Collection",
+      "snippet": "The 10-year strategy document outlines a focus on improving customer service and cracking down on tax evasion by corporations and the wealthy.",
+      "abstract": "The 10-year strategy document outlines a focus on improving customer service and cracking down on tax evasion by corporations and the wealthy.",
+      "lead_paragraph": "WASHINGTON — The Internal Revenue Service on Thursday unveiled an $80 billion plan to transform itself into a “digital first” tax collector focused on customer service and cracking down on wealthy tax evaders. The move lays the groundwork for an ambitious 10-year overhaul of one of the most scrutinized arms of the federal government.",
+      "publication_date": "2023-04-06T18:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/06/business/economy/irs-tax-treasury.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports",
+      "snippet": "It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.",
+      "abstract": "It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.",
+      "lead_paragraph": "The Biden administration proposed a rule change on Thursday that would allow schools to block some transgender athletes from competing on sports teams that match their gender identities. But the proposal would also prevent schools from enacting across-the-board bans.",
+      "publication_date": "2023-04-06T20:14:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/06/us/transgender-athletes-title-ix-biden-adminstration.html",
+      "byline": "By Sarah Mervosh, Remy Tumin and Ava Sasani"
+    },
+    {
+      "headline": "Wages May Not Be Inflation’s Cause, but They’re the Focus of the Cure",
+      "snippet": "While fear of a “wage-price spiral” has eased, the Federal Reserve’s course presumes job losses and risks a recession. Some see less painful remedies.",
+      "abstract": "While fear of a “wage-price spiral” has eased, the Federal Reserve’s course presumes job losses and risks a recession. Some see less painful remedies.",
+      "lead_paragraph": "As Covid-19 eased its debilitating grip on the U.S. economy two years ago, businesses scrambled to hire. That lifted the pay of the average worker. But as one economic challenge ended, another potential problem emerged.",
+      "publication_date": "2023-04-07T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/07/business/economy/wages-prices.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "How A.I. and DNA Are Unlocking the Mysteries of Global Supply Chains",
+      "snippet": "Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?",
+      "abstract": "Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?",
+      "lead_paragraph": "At a cotton gin in the San Joaquin Valley, in California, a boxy machine helps to spray a fine mist containing billions of molecules of DNA onto freshly cleaned Pima cotton.",
+      "publication_date": "2023-04-07T09:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/07/business/economy/ai-tech-dna-supply-chain.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "In A.I. Race, Microsoft and Google Choose Speed Over Caution",
+      "snippet": "Technology companies were once leery of what some artificial intelligence could do. Now the priority is winning control of the industry’s next big thing.",
+      "abstract": "Technology companies were once leery of what some artificial intelligence could do. Now the priority is winning control of the industry’s next big thing.",
+      "lead_paragraph": "In March, two Google employees, whose jobs are to review the company’s artificial intelligence products, tried to stop Google from launching an A.I. chatbot. They believed it generated inaccurate and dangerous statements.",
+      "publication_date": "2023-04-07T09:00:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/07/technology/ai-chatbots-google-microsoft.html",
+      "byline": "By Nico Grant and Karen Weise"
+    },
+    {
+      "headline": "How Elon Musk Is Changing the Twitter Experience",
+      "snippet": "Nearly six months after buying Twitter, Mr. Musk has made tweaks that have altered what people see on the platform and how they interact with it.",
+      "abstract": "Nearly six months after buying Twitter, Mr. Musk has made tweaks that have altered what people see on the platform and how they interact with it.",
+      "lead_paragraph": "Elon Musk has declared he wants to transform Twitter into an all-inclusive app that people can use for payments, news and food orders.",
+      "publication_date": "2023-04-07T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/07/technology/elon-musk-twitter-changes.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "U.S. Job Growth Eases, but Extends Its Streak",
+      "snippet": "Employers added 236,000 jobs as the Federal Reserve’s interest-rate increases appeared to take a toll. The unemployment rate fell to 3.5 percent.",
+      "abstract": "Employers added 236,000 jobs as the Federal Reserve’s interest-rate increases appeared to take a toll. The unemployment rate fell to 3.5 percent.",
+      "lead_paragraph": "The U.S. economy generated hearty job growth in March, but at a slowing rate that appeared to reflect the toll of steadily rising interest rates.",
+      "publication_date": "2023-04-07T09:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/07/business/economy/march-jobs-report-unemployment.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Hoping to Draw Moviegoers and Filmmakers, Amazon Heads to Theaters",
+      "snippet": "The streaming company released Ben Affleck’s “Air” on 3,500 movie screens this week, and it plans to open 10 to 12 films theatrically every year.",
+      "abstract": "The streaming company released Ben Affleck’s “Air” on 3,500 movie screens this week, and it plans to open 10 to 12 films theatrically every year.",
+      "lead_paragraph": "It was a full house at the AMC Town Square in Las Vegas in September when Ben Affleck slipped into the darkened theater. He wanted to see how his new film, “Air,” would play with a test audience, some members of which might have shown up just to escape the scorching heat outside.",
+      "publication_date": "2023-04-07T09:02:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/07/business/media/amazon-air-movies-theaters.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "In Dealing With China, U.S. and Europe Take Different Tacks",
+      "snippet": "The Biden administration says there is “convergence.” But trans-Atlantic leaders adopt different strategies on security and trade issues — including on Ukraine and Taiwan.",
+      "abstract": "The Biden administration says there is “convergence.” But trans-Atlantic leaders adopt different strategies on security and trade issues — including on Ukraine and Taiwan.",
+      "lead_paragraph": "WASHINGTON — In Southern California, House Speaker Kevin McCarthy promised President Tsai Ing-wen of Taiwan that the American government would support the de facto independent island against constant threats from China.",
+      "publication_date": "2023-04-07T14:20:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/07/us/politics/china-us-europe.html",
+      "byline": "By Edward Wong"
+    }
+  ]
+}

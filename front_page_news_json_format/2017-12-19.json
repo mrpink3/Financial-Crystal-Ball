@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-12-19",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Multiple Deaths in Amtrak Train Derailment in Washington",
+      "snippet": "Officials said the train was going more than twice the limit when it jumped the tracks south of Seattle, killing at least three people.",
+      "abstract": "Officials said the train was going more than twice the limit when it jumped the tracks south of Seattle, killing at least three people.",
+      "lead_paragraph": "DUPONT, Wash. — [Update: Here is the latest article on the Amtrak derailment.]",
+      "publication_date": "2017-12-18T17:29:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/18/us/amtrak-derailment-washington.html",
+      "byline": "By Kirk Johnson, Richard Pérez-Peña and Niraj Chokshi"
+    },
+    {
+      "headline": "What Needs to Happen Before Electric Cars Take Over the World",
+      "snippet": "Electric vehicles have only a tiny market share, but the auto industry is betting billions that they will soon be as cheap as conventional cars.",
+      "abstract": "Electric vehicles have only a tiny market share, but the auto industry is betting billions that they will soon be as cheap as conventional cars.",
+      "lead_paragraph": "On the slope of a thickly forested Czech mountain, three men in hard hats and mud-spattered fluorescent vests dig for the metal that could power a new industrial revolution.",
+      "publication_date": "2017-12-18T22:31:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/18/business/electric-car-adoption.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "A Mysterious Act of Mercy by the Subway Bombing Suspect",
+      "snippet": "The suspect in the attempted New York subway attack last week rode a bus across Bangladesh to help Rohingya refugees. Was he following Al Qaeda or his heart?",
+      "abstract": "The suspect in the attempted New York subway attack last week rode a bus across Bangladesh to help Rohingya refugees. Was he following Al Qaeda or his heart?",
+      "lead_paragraph": "DHAKA, Bangladesh — Before Akayed Ullah returned home to New York from his native Bangladesh, and tried to blow himself up with a pipe bomb in a crowded Manhattan subway station, he had one last thing to do — an all-night bus ride by himself to help Rohingya refugees.",
+      "publication_date": "2017-12-19T00:14:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/18/world/asia/bangladesh-akayed-ullah-subway-bomber.html",
+      "byline": "By Jeffrey Gettleman"
+    },
+    {
+      "headline": "Poor Vetting Sinks Trump’s Nominees for Federal Judge",
+      "snippet": "In recent days, three nominees have withdrawn from consideration, including one who failed to answer basic courtroom questions in his confirmation hearing.",
+      "abstract": "In recent days, three nominees have withdrawn from consideration, including one who failed to answer basic courtroom questions in his confirmation hearing.",
+      "lead_paragraph": "WASHINGTON — One of President Trump’s federal judge nominees has withdrawn after he was unable to answer basic questions during his confirmation hearing about the courtroom process, showed little familiarity with federal trial rules and acknowledged that he had never prosecuted or defended a case.",
+      "publication_date": "2017-12-19T01:13:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/18/us/politics/matthew-petersen-judge-nominee-withdraws-trump.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Tax Cuts Benefit the Ultra Rich, but Not the Merely Rich",
+      "snippet": "Many wealthy Americans are complaining bitterly that the new tax code will have them paying more, not less, in taxes.",
+      "abstract": "Many wealthy Americans are complaining bitterly that the new tax code will have them paying more, not less, in taxes.",
+      "lead_paragraph": "If you read the headlines, the spoils of the Republican tax plan will disproportionately benefit the wealthy. It’s been called a “tax cut for the rich,” “a Christmas gift for the wealthy” and more. And that’s true: Any back-of-the-envelope math shows that in both dollar terms and in percentage terms, the largest tax cuts clearly benefit the rich.",
+      "publication_date": "2017-12-19T02:22:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/18/business/dealbook/tax-bill-wealthy.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Microsoft Moves to End Secrecy in Sexual Harassment Claims",
+      "snippet": "Microsoft eliminated forced arbitration agreements with employees who make sexual harassment claims and is supporting a proposed federal law to ban such agreements.",
+      "abstract": "Microsoft eliminated forced arbitration agreements with employees who make sexual harassment claims and is supporting a proposed federal law to ban such agreements.",
+      "lead_paragraph": "SEATTLE — The wave of sexual harassment claims has toppled powerful men in entertainment, media and politics. Now, it is also creating permanent changes in workplace policy at one giant technology company.",
+      "publication_date": "2017-12-19T10:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/19/technology/microsoft-sexual-harassment-arbitration.html",
+      "byline": "By Nick Wingfield and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "How Care for Elders, Not Children, Denies Women a Paycheck",
+      "snippet": "The focus on child care may conceal a bigger barrier to female participation in the labor force: tending to the growing ranks of aging family members.",
+      "abstract": "The focus on child care may conceal a bigger barrier to female participation in the labor force: tending to the growing ranks of aging family members.",
+      "lead_paragraph": "Why did women’s rush into the work force stop? Policymakers have been vexed by the question for years. Social scientists have discussed the sudden stop for over a decade, in conferences and academic papers. Almost 12 years ago, I gave the topic a shot in the pages of The Times: why, after a five-decade rise, did the labor-force participation of women in the prime working years stall around the turn of the century?",
+      "publication_date": "2017-12-19T12:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/19/business/economy/women-work-elder-care.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Amtrak Inquiry Will Focus on Driver Distraction and Excessive Speed",
+      "snippet": "The revelation that a passenger train was speeding before a fatal crash in Washington State has once again focused attention on technology that can automatically slow trains.",
+      "abstract": "The revelation that a passenger train was speeding before a fatal crash in Washington State has once again focused attention on technology that can automatically slow trains.",
+      "lead_paragraph": "DUPONT, Wash. — The investigation into the fatal Amtrak crash near Tacoma, Wash., is focusing on the possibility that the engineer was distracted by a cellphone, another person in his cab or something else when the train barreled into a curve 50 miles per hour over the posted speed limit.",
+      "publication_date": "2017-12-19T15:33:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/19/us/amtrak-derailment-washington.html",
+      "byline": "By Kirk Johnson, Richard Pérez-Peña and Patrick McGeehan"
+    }
+  ]
+}

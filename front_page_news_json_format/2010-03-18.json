@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-03-18",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Fed Fights to Keep Oversight of Banks That Aren’t Big",
+      "snippet": "In a House hearing, Ben S. Bernanke, the Federal Reserve chairman, waged a fresh battle against efforts to scale back the Fed’s role in overseeing banks.",
+      "abstract": "In a House hearing, Ben S. Bernanke, the Federal Reserve chairman, waged a fresh battle against efforts to scale back the Fed’s role in overseeing banks.",
+      "lead_paragraph": "WASHINGTON — Officials at the Federal Reserve are trying to alter a Senate proposal that would focus the Fed’s regulatory attention on the nation’s biggest banks and strip away its powers over small and medium-size banks.",
+      "publication_date": "2010-03-17T19:25:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/18/business/18regulate.html",
+      "byline": "By Sewell Chan"
+    },
+    {
+      "headline": "Google and Partners Seek TV Foothold",
+      "snippet": "A platform called Google TV will bring the Web into the living room through televisions and set-top boxes.",
+      "abstract": "A platform called Google TV will bring the Web into the living room through televisions and set-top boxes.",
+      "lead_paragraph": "Google and Intel have teamed with Sony to develop a platform called Google TV to bring the Web into the living room through a new generation of televisions and set-top boxes.",
+      "publication_date": "2010-03-17T20:52:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/18/technology/18webtv.html",
+      "byline": "By Nick Bilton"
+    },
+    {
+      "headline": "Playing It Cool With a Jawbone in Your Ear",
+      "snippet": "A new phone earpiece strives to be smaller and more stylish than its predecessors. Does it succeed?",
+      "abstract": "A new phone earpiece strives to be smaller and more stylish than its predecessors. Does it succeed?",
+      "lead_paragraph": "The word “apps,” of course, is short for applications, which means programs. But until 2007, nobody used the term apps except the people who wrote them — programmers. It wasn’t until the iPhone came along that apps became shorthand used by normal people.",
+      "publication_date": "2010-03-17T22:40:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/18/technology/personaltech/18pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Change Comes to Myanmar, but Only on the Junta’s Terms",
+      "snippet": "Myanmar may be slowly moving away from years of authoritarianism and Soviet-style economic policies that have left most of its people in dire poverty.",
+      "abstract": "Myanmar may be slowly moving away from years of authoritarianism and Soviet-style economic policies that have left most of its people in dire poverty.",
+      "lead_paragraph": "PYAPON, Myanmar — In the dried mud of the Irrawaddy Delta, workers are welding together the final pieces of a natural-gas pipeline that the country’s ruling generals say will keep the lights on in Yangon, Myanmar’s main city, after years of debilitating blackouts.",
+      "publication_date": "2010-03-17T23:53:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/18/world/asia/18myanmar.html",
+      "byline": "By The New York Times"
+    },
+    {
+      "headline": "As Deflation Fears Persist, Japan Eases Monetary Policy",
+      "snippet": "The Japanese government has urged the monetary authorities to stimulate the economy further by flooding the banking sector with cash.",
+      "abstract": "The Japanese government has urged the monetary authorities to stimulate the economy further by flooding the banking sector with cash.",
+      "lead_paragraph": "TOKYO — In a bid to shore up a deflation-plagued economy, Japan’s central bank eased monetary policy further Wednesday by increasing a loan program for banks.",
+      "publication_date": "2010-03-18T00:33:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/18/business/global/18yen.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "Governments Turn to ‘Stealth’ Taxes to Fill Gaps",
+      "snippet": "For tax officials, indirect levies — or stealth taxes — are stable, less prone to be avoided and easy to collect.",
+      "abstract": "For tax officials, indirect levies — or stealth taxes — are stable, less prone to be avoided and easy to collect.",
+      "lead_paragraph": "France, promising to improve the environment, is planning to introduce a carbon tax. In Finland, where the government says it wants to improve diets, taxes are back on candy and soft drinks. Similarly, Denmark has added tobacco and some fatty foods to the list of taxed products.",
+      "publication_date": "2010-03-18T01:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/18/business/global/18tax.html",
+      "byline": "By Matthew Saltmarsh"
+    },
+    {
+      "headline": "China Drawing High-Tech Research From U.S.",
+      "snippet": "American companies with factories in China are now  building high-tech research labs there as well.    ",
+      "abstract": "American companies with factories in China are now  building high-tech research labs there as well.    ",
+      "lead_paragraph": "XI’AN, China — For years, many of China’s best and brightest left for the United States, where high-tech industry was more cutting-edge. But Mark R. Pinto is moving in the opposite direction. ",
+      "publication_date": "2010-03-18T01:11:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/03/18/business/global/18research.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Amazon Threatens Publishers as Apple Looms",
+      "snippet": "As Apple builds its electronic bookstore, Amazon is trying to use its clout to hold on to its early lead in the market.",
+      "abstract": "As Apple builds its electronic bookstore, Amazon is trying to use its clout to hold on to its early lead in the market.",
+      "lead_paragraph": "Amazon.com has threatened to stop directly selling the books of some publishers online unless they agree to a detailed list of concessions regarding the sale of electronic books, according to two industry executives with direct knowledge the discussions.",
+      "publication_date": "2010-03-18T02:27:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/03/18/technology/internet/18amazon.html",
+      "byline": "By Motoko Rich and Brad Stone"
+    }
+  ]
+}

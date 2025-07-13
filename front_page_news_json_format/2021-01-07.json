@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-01-07",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "A Mob and the Breach of Democracy: The Violent End of the Trump Era",
+      "snippet": "Those who warned of worst-case scenarios under President Trump — only to be dismissed as alarmists — found some of their darkest fears realized in the storming of the Capitol on Wednesday.",
+      "abstract": "Those who warned of worst-case scenarios under President Trump — only to be dismissed as alarmists — found some of their darkest fears realized in the storming of the Capitol on Wednesday.",
+      "lead_paragraph": "WASHINGTON — So this is how it ends. The presidency of Donald John Trump, rooted from the beginning in anger, division and conspiracy-mongering, comes to a close with a violent mob storming the Capitol at the instigation of a defeated leader trying to hang onto power as if America were just another authoritarian nation.",
+      "publication_date": "2021-01-06T18:55:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Business Leaders Condemn Violence on Capitol Hill: ‘This Is Sedition’",
+      "snippet": "Hours after supporters of President Trump stormed the Capitol, industry groups and C.E.O.s called for an end to the chaos.",
+      "abstract": "Hours after supporters of President Trump stormed the Capitol, industry groups and C.E.O.s called for an end to the chaos.",
+      "lead_paragraph": "Business groups and leaders of large corporations condemned the violence on Capitol Hill that disrupted efforts to certify the election of President-elect Joseph R. Biden Jr. on Wednesday.",
+      "publication_date": "2021-01-06T22:02:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/06/business/sedition.html",
+      "byline": "By Emily Flitter, Gillian Friedman, Kellen Browning and David Gelles"
+    },
+    {
+      "headline": "Twitter and Facebook Lock Trump’s Accounts After Violence on Capitol Hill",
+      "snippet": "The moves came after critics and even some allies of the social media companies said they had failed to prevent the misinformation that led to chaos on Wednesday.",
+      "abstract": "The moves came after critics and even some allies of the social media companies said they had failed to prevent the misinformation that led to chaos on Wednesday.",
+      "lead_paragraph": "Update: Facebook’s chief executive, Mark Zuckerberg, said on Thursday that President Trump would be blocked from its platforms “at least” through the end of his term.",
+      "publication_date": "2021-01-06T22:46:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/01/06/technology/capitol-twitter-facebook-trump.html",
+      "byline": "By Kate Conger, Mike Isaac and Sheera Frenkel"
+    },
+    {
+      "headline": "Biden Denounces Storming of Capitol as a ‘Dark Moment’ in Nation’s History",
+      "snippet": "The president-elect said the violence “borders on sedition” and made clear he viewed President Trump as responsible for inciting his supporters with baseless claims the election was stolen.",
+      "abstract": "The president-elect said the violence “borders on sedition” and made clear he viewed President Trump as responsible for inciting his supporters with baseless claims the election was stolen.",
+      "lead_paragraph": "WASHINGTON — President-elect Joseph R. Biden Jr. denounced the storming of the Capitol on Wednesday as the violent expression of President Trump’s refusal to accept his defeat, calling it “an assault on the citadel of liberty” and saying the president had stoked the mob with his brazen and false claims that the 2020 election had been stolen.",
+      "publication_date": "2021-01-07T01:21:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/06/us/politics/biden-capitol-congress.html",
+      "byline": "By Michael D. Shear and Jim Tankersley"
+    },
+    {
+      "headline": "As House Was Breached, a Fear ‘We’d Have to Fight’ to Get Out",
+      "snippet": "What unfolded on Wednesday was a tableau of violence and mayhem that shocked the nation, one of the most severe intrusions of the Capitol since the British burned down the building in 1814.",
+      "abstract": "What unfolded on Wednesday was a tableau of violence and mayhem that shocked the nation, one of the most severe intrusions of the Capitol since the British burned down the building in 1814.",
+      "lead_paragraph": "[Follow our live news coverage on the protests at the Capitol and across the country.]",
+      "publication_date": "2021-01-07T02:24:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/06/us/politics/capitol-breach-trump-protests.html",
+      "byline": "By Zolan Kanno-Youngs, Sabrina Tavernise and Emily Cochrane"
+    },
+    {
+      "headline": "A Democratic Triumph in Georgia, Overshadowed by Right-Wing Violence in Washington",
+      "snippet": "One January day encapsulated the politics of progress and grievance that have defined the presidency of Donald Trump.",
+      "abstract": "One January day encapsulated the politics of progress and grievance that have defined the presidency of Donald Trump.",
+      "lead_paragraph": "ATLANTA — Democrats gained control of the Senate on Wednesday by winning both of Georgia’s runoff races, an electoral repudiation of President Trump that will give the incoming Democratic administration broader policy latitude even as the victory was temporarily overshadowed by a violent mob storming the United States Capitol in the name of the ousted incumbent.",
+      "publication_date": "2021-01-07T02:33:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/06/us/politics/georgia-senate-trump-black-voters.html",
+      "byline": "By Astead W. Herndon and Rick Rojas"
+    },
+    {
+      "headline": "Police Failures Spur Resignations and Complaints of Double Standard",
+      "snippet": "The chief of the Capitol Police indicated he would resign after an angry mob of Trump supporters stormed past officers and into the legislative chambers.",
+      "abstract": "The chief of the Capitol Police indicated he would resign after an angry mob of Trump supporters stormed past officers and into the legislative chambers.",
+      "lead_paragraph": "[Follow our live news coverage on the protests at the Capitol and across the country.]",
+      "publication_date": "2021-01-07T05:38:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/01/07/us/Capitol-cops-police.html",
+      "byline": "By Shaila Dewan, Neil MacFarquhar, Zolan Kanno-Youngs, Ali Watkins, Christiaan Triebert, Haley Willis, Stella Cooper, Cora Engelbrecht, Evan Hill and Arielle Ray"
+    }
+  ]
+}

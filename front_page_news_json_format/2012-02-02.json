@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2012-02-02",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "American Airlines Seeks 13,000 Job Cuts",
+      "snippet": "The carrier, operating in bankruptcy court, also said it sought to terminate pension plans and to cut benefits.",
+      "abstract": "The carrier, operating in bankruptcy court, also said it sought to terminate pension plans and to cut benefits.",
+      "lead_paragraph": "American Airlines laid out for the first time on Wednesday what it will expect its employees to give up in its restructuring process — and the proposal was far worse than they feared.",
+      "publication_date": "2012-02-01T19:24:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/02/business/american-airlines-seeks-job-cuts.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Scanning on the Go, Wirelessly",
+      "snippet": "The Xerox Mobile Scanner can scan and transmit photos and PDF documents wirelessly. But there’s a small obstacle to overcome first.",
+      "abstract": "The Xerox Mobile Scanner can scan and transmit photos and PDF documents wirelessly. But there’s a small obstacle to overcome first.",
+      "lead_paragraph": "At this point, the first rule of technology should be clear to everyone: as progress marches forward, gadgets get smaller. Our phones. Our cameras. Our laptops. Our savings.",
+      "publication_date": "2012-02-02T00:44:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/02/technology/personaltech/a-truly-wireless-mobile-scanner-from-xerox-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "In Networks’ Race for Ratings, Chicanery Is on the Schedule",
+      "snippet": "Strategies include front-loading national commercials early in a show and extending hit shows a minute or two into the following hour.",
+      "abstract": "Strategies include front-loading national commercials early in a show and extending hit shows a minute or two into the following hour.",
+      "lead_paragraph": "Viewers who tuned into ABC’s “Good Morning America” during the last week of 2011 would have found the same mix of news, gossip and soft features at the usual time of the morning.",
+      "publication_date": "2012-02-02T01:26:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/02/business/media/networks-resort-to-trickery-in-an-attempt-to-lift-ratings.html",
+      "byline": "By Bill Carter"
+    },
+    {
+      "headline": "From Founders to Decorators, Facebook Riches",
+      "snippet": "Facebook’s public offering will make a lot of billionaires and millionaires, some of them prominent people and others not.",
+      "abstract": "Facebook’s public offering will make a lot of billionaires and millionaires, some of them prominent people and others not.",
+      "lead_paragraph": "SAN FRANCISCO — The graffiti artist who took Facebook stock instead of cash for painting the walls of the social network’s first headquarters made a smart bet. The shares owned by the artist, David Choe, are expected to be worth upward of $200 million when Facebook stock trades publicly later this year.",
+      "publication_date": "2012-02-02T02:18:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/02/technology/for-founders-to-decorators-facebook-riches.html",
+      "byline": "By Nick Bilton and Evelyn M. Rusli"
+    },
+    {
+      "headline": "Investors Get the Chance to Assess Facebook’s Potential",
+      "snippet": "If Facebook’s initial valuation pushes $100 billion, it would be far bigger than many established American companies, including Amazon, Caterpillar, Kraft Foods, Goldman Sachs and Ford Motor.",
+      "abstract": "If Facebook’s initial valuation pushes $100 billion, it would be far bigger than many established American companies, including Amazon, Caterpillar, Kraft Foods, Goldman Sachs and Ford Motor.",
+      "lead_paragraph": "With a huge initial public offering on the runway, Facebook has shown that it pays to have friends. New investors will now have to decide what they are willing to pay to be friends.",
+      "publication_date": "2012-02-02T02:20:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/02/01/investors-get-the-chance-to-assess-facebooks-potential/",
+      "byline": "By Peter Eavis and Evelyn M. Rusli"
+    },
+    {
+      "headline": "‘Social Mission’ Vision Meets Wall Street",
+      "snippet": "In a letter, Mark Zuckerberg proclaimed his company “was built to accomplish a social mission — to make the world more open and connected.”",
+      "abstract": "In a letter, Mark Zuckerberg proclaimed his company “was built to accomplish a social mission — to make the world more open and connected.”",
+      "lead_paragraph": "SAN FRANCISCO — It’s not about the money. Really. ",
+      "publication_date": "2012-02-02T02:26:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/02/02/technology/social-mission-vision-meets-wall-street.html",
+      "byline": "By Somini Sengupta and Claire Cain Miller"
+    },
+    {
+      "headline": "Secrecy Shrouds ‘Super PAC’ Funds in Latest Filings",
+      "snippet": "Newly disclosed details of the millions of dollars flowing into political groups highlight not just the scale of donations from corporation and unions but also the secrecy surrounding “super PACs.”",
+      "abstract": "Newly disclosed details of the millions of dollars flowing into political groups highlight not just the scale of donations from corporation and unions but also the secrecy surrounding “super PACs.”",
+      "lead_paragraph": "Newly disclosed details of the millions of dollars flowing into political groups are highlighting not just the scale of donations from corporation and unions but also the secrecy surrounding “super PACs” seeking to influence the presidential race.",
+      "publication_date": "2012-02-02T03:24:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/02/02/us/politics/super-pac-filings-show-power-and-secrecy.html",
+      "byline": "By Nicholas Confessore and Michael Luo"
+    }
+  ]
+}

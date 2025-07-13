@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2022-08-09",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Biden Is on a Roll That Any President Would Relish. Is It a Turning Point?",
+      "snippet": "White House aides say the string of victories compares favorably to the two-year legislative record of most any other modern president.",
+      "abstract": "White House aides say the string of victories compares favorably to the two-year legislative record of most any other modern president.",
+      "lead_paragraph": "WASHINGTON — President Biden arrived at Air Force One on Monday with a jaunty step, a playful manner and a huge grin. “Feeling great,” he declared. He meant physically, having finally ended his lengthy bout with Covid-19, but he could have been talking about his presidency writ large.",
+      "publication_date": "2022-08-08T16:11:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/08/us/politics/biden-climate-bill-agenda-covid.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Another Gaza Conflict, but With a Difference: Hamas Sat It Out.",
+      "snippet": "In the weekend battle with Israel, Hamas left the fighting to Islamic Jihad, another militant group, highlighting differences between them over how best to combat Israel.",
+      "abstract": "In the weekend battle with Israel, Hamas left the fighting to Islamic Jihad, another militant group, highlighting differences between them over how best to combat Israel.",
+      "lead_paragraph": "The brief weekend conflict over Gaza had a grimly familiar outcome: dozens of Palestinians killed, including militant leaders as well as children, and scores of homes damaged or destroyed, most by Israeli airstrikes but some from Palestinian misfires.",
+      "publication_date": "2022-08-08T18:04:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/08/world/middleeast/gaza-hamas-israel-islamic-jihad.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "How a Last-Minute Lobbying Blitz Watered Down a Climate Bill Tax",
+      "snippet": "The new corporate minimum tax is not law yet and is already rife with exceptions for the businesses that might have to pay it.",
+      "abstract": "The new corporate minimum tax is not law yet and is already rife with exceptions for the businesses that might have to pay it.",
+      "lead_paragraph": "WASHINGTON — An hour after Democrats released the text of their climate and tax legislation, Washington lobbyists for the private equity industry sprang into action.",
+      "publication_date": "2022-08-08T22:54:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/08/business/corporate-minimum-tax-private-equity.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "F.B.I. Searches Trump’s Florida Home, Signaling Escalation of Inquiries",
+      "snippet": "The focus appeared to be on material that the former president had brought to Mar-a-Lago when he left the White House.",
+      "abstract": "The focus appeared to be on material that the former president had brought to Mar-a-Lago when he left the White House.",
+      "lead_paragraph": "Former President Donald J. Trump said on Monday that the F.B.I. had searched his Palm Beach, Fla., home and had broken open a safe — an account signaling a major escalation in the various investigations into the final stages of his presidency.",
+      "publication_date": "2022-08-08T23:22:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/08/us/politics/trump-fbi-mar-a-lago.html",
+      "byline": "By Maggie Haberman, Ben Protess and Adam Goldman"
+    },
+    {
+      "headline": "How Russia Took Over Ukraine’s Internet in Occupied Territories",
+      "snippet": "Diverting traffic through Russian networks makes it easier to censor, surveil and digitally wall off the invaded population.",
+      "abstract": "Diverting traffic through Russian networks makes it easier to censor, surveil and digitally wall off the invaded population.",
+      "lead_paragraph": "Diverting traffic through Russian networks makes it easier to censor, surveil and digitally wall off the invaded population.",
+      "publication_date": "2022-08-09T09:00:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html",
+      "byline": "By Adam Satariano and Scott Reinhard"
+    },
+    {
+      "headline": "How Russian Propaganda Is Reaching Beyond English Speakers",
+      "snippet": "Social media companies have taken steps to restrict Russian state media accounts. But posts from those accounts still spread in Spanish, Arabic and other languages and in places outside the West.",
+      "abstract": "Social media companies have taken steps to restrict Russian state media accounts. But posts from those accounts still spread in Spanish, Arabic and other languages and in places outside the West.",
+      "lead_paragraph": "The day after a missile struck a shopping mall in central Ukraine in June, killing at least 18 people, the Spanish-language arm of Russia’s global television network, RT en Español, took to Facebook to challenge the facts of the attack.",
+      "publication_date": "2022-08-09T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/09/business/russia-propaganda-spanish-social-media.html",
+      "byline": "By Steven Lee Myers and Sheera Frenkel"
+    },
+    {
+      "headline": "Albuquerque Police Detain Suspect in Killings of Muslim Men",
+      "snippet": "The shootings of four Muslim men since November may be connected, the police have said, raising fears in a place where many immigrants and refugees had felt at home.",
+      "abstract": "The shootings of four Muslim men since November may be connected, the police have said, raising fears in a place where many immigrants and refugees had felt at home.",
+      "lead_paragraph": "ALBUQUERQUE — For days, the news that someone might be killing Muslim men in Albuquerque spread fear among the city’s Muslim residents, some of whom were so afraid of becoming the next target that they fled town or hunkered down in their homes.",
+      "publication_date": "2022-08-09T09:00:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/09/us/albuquerque-muslim-killings.html",
+      "byline": "By Simon Romero, Neelam Bohra, Nicholas Bogel-Burroughs and Ava Sasani"
+    },
+    {
+      "headline": "Why China’s Confidence Could Turn Out to Be a Weakness",
+      "snippet": "State propaganda about China’s rise is stoking extreme nationalism. That could blind China to its problems, and could lead to conflict — perhaps over Taiwan.",
+      "abstract": "State propaganda about China’s rise is stoking extreme nationalism. That could blind China to its problems, and could lead to conflict — perhaps over Taiwan.",
+      "lead_paragraph": "In his decade of ruling China, Xi Jinping has tried to imbue its people with confidence, telling them that the country is doing very well compared with the chaotic West.",
+      "publication_date": "2022-08-09T09:25:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/09/business/china-xi-jinping-united-states-taiwan.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "The Fed Is Cooling Down the Economy, but Stocks Are Hot. What Gives?",
+      "snippet": "Investors are pinning their hopes on a rosy outcome for inflation and growth, driving the S&P 500 up 12 percent in the past two months.",
+      "abstract": "Investors are pinning their hopes on a rosy outcome for inflation and growth, driving the S&P 500 up 12 percent in the past two months.",
+      "lead_paragraph": "Stocks have roared back from their low in June, as investors bet that inflation has peaked, even as the Federal Reserve signals that its campaign to cool the economy by raising interest rates isn’t over.",
+      "publication_date": "2022-08-09T15:54:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/09/business/stocks-rates-inflation.html",
+      "byline": "By Joe Rennison and Isabella Simonetti"
+    }
+  ]
+}

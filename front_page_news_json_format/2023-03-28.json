@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2023-03-28",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Heavily Armed Assailant Kills 6 at Christian School",
+      "snippet": "The shooter was also killed after police officers responded on Monday morning at the Covenant School, the authorities said.",
+      "abstract": "The shooter was also killed after police officers responded on Monday morning at the Covenant School, the authorities said.",
+      "lead_paragraph": "NASHVILLE — A 28-year-old from Nashville fatally shot three children and three adults on Monday at a private Christian elementary school, officials said, leaving behind writings and detailed maps of the school and its security protocols.",
+      "publication_date": "2023-03-27T16:28:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/27/us/nashville-shooting-covenant-school.html",
+      "byline": "By Emily Cochrane, Ben Shpigel, Michael Levenson and Jesus Jiménez"
+    },
+    {
+      "headline": "World Bank Warns of ‘Lost Decade’ for Global Economic Potential",
+      "snippet": "Adding to crises like the pandemic, recent stress in the banking system is a new threat to world growth, experts at the organization said.",
+      "abstract": "Adding to crises like the pandemic, recent stress in the banking system is a new threat to world growth, experts at the organization said.",
+      "lead_paragraph": "WASHINGTON — The World Bank warned on Monday that the coronavirus pandemic and Russia’s war in Ukraine had contributed to a decline in the global economy’s long-term growth potential, leading to what could be a “lost decade” that would mean more poverty and fewer resources to combat the impact of climate change.",
+      "publication_date": "2023-03-27T18:21:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/27/business/economy/world-bank-lost-decade-growth.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "After Doling Out Huge Loans, China Is Now Bailing Out Countries",
+      "snippet": "Beijing is emerging as a new heavyweight in providing emergency funds to debt-ridden countries, catching up to the I.M.F. as a lender of last resort.",
+      "abstract": "Beijing is emerging as a new heavyweight in providing emergency funds to debt-ridden countries, catching up to the I.M.F. as a lender of last resort.",
+      "lead_paragraph": "Since the end of World War II, the International Monetary Fund and the United States have been the world’s lenders of last resort, each wielding broad influence over the global economy. Now a new heavyweight has emerged in providing emergency loans to debt-ridden countries: China.",
+      "publication_date": "2023-03-27T22:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/27/business/china-loans-bailouts-debt.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Netanyahu Delays Bid to Overhaul Israel’s Judiciary as Protests Rage",
+      "snippet": "The Israeli prime minister called for dialogue as civil unrest and work stoppages reached a crisis point, grinding the country to a halt.",
+      "abstract": "The Israeli prime minister called for dialogue as civil unrest and work stoppages reached a crisis point, grinding the country to a halt.",
+      "lead_paragraph": "JERUSALEM — Prime Minister Benjamin Netanyahu said on Monday that he was delaying his government’s campaign to exert greater control over the judiciary, backing off in the face of furious public protest that has plunged Israel into one of the deepest crises of its history.",
+      "publication_date": "2023-03-27T22:24:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/27/world/middleeast/israel-judiciary-protests.html",
+      "byline": "By Patrick Kingsley, Isabel Kershner and Eric Nagourney"
+    },
+    {
+      "headline": "Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet",
+      "snippet": "Israel’s prime minister, who has long thrived by pitting one force against another, is caught between his far-right coalition and public anger over the government’s plan to weaken the judiciary.",
+      "abstract": "Israel’s prime minister, who has long thrived by pitting one force against another, is caught between his far-right coalition and public anger over the government’s plan to weaken the judiciary.",
+      "lead_paragraph": "Little more than a year ago, it seemed that the political career of Benjamin Netanyahu, Israel’s longest-serving leader, was all but over. Out of power, he was struggling to maintain relevance. State prosecutors had offered his lawyers a plea deal that would have let him avoid jail in his ongoing corruption trial, in exchange for leaving politics for seven years.",
+      "publication_date": "2023-03-27T23:37:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/27/world/middleeast/israel-netanyahu-courts.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "China’s Cities Are Buried in Debt, but They Keep Shoveling It On",
+      "snippet": "China has long pursued growth by public spending, even after the payoff has faded. Cities stuck with the bill are still spending — and cutting essential services.",
+      "abstract": "China has long pursued growth by public spending, even after the payoff has faded. Cities stuck with the bill are still spending — and cutting essential services.",
+      "lead_paragraph": "In 2015, when Shangqiu, a municipality in central China, laid out a plan for the next two decades, it positioned itself as a transportation hub with a sprawling network of railways, highways and river shipping routes.",
+      "publication_date": "2023-03-28T04:01:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/28/business/china-local-finances-debt.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "No Longer at Starbucks Helm, Howard Schultz Is the Focus at Labor Hearing",
+      "snippet": "After giving up the chief executive’s job (again), Mr. Schultz still casts a long shadow over Starbucks’ policy, not least in fighting unionization.",
+      "abstract": "After giving up the chief executive’s job (again), Mr. Schultz still casts a long shadow over Starbucks’ policy, not least in fighting unionization.",
+      "lead_paragraph": "When Howard Schultz of Starbucks testifies before a Senate committee on Wednesday about the company’s labor policies, he will no longer be its chief executive. But his presence will underscore his continuing sway over a company he has run on and off since the 1980s.",
+      "publication_date": "2023-03-28T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/28/business/starbucks-howard-schultz-senate.html",
+      "byline": "By Noam Scheiber and Julie Creswell"
+    },
+    {
+      "headline": "Tinkering With ChatGPT, Workers Wonder: Will This Take My Job?",
+      "snippet": "Artificial intelligence is confronting white-collar professionals more directly than ever. It could make them more productive — or obsolete.",
+      "abstract": "Artificial intelligence is confronting white-collar professionals more directly than ever. It could make them more productive — or obsolete.",
+      "lead_paragraph": "In December, the staff of the American Writers and Artists Institute — a 26-year-old membership organization for copywriters — realized that something big was happening.",
+      "publication_date": "2023-03-28T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/28/business/economy/jobs-ai-artificial-intelligence-chatgpt.html",
+      "byline": "By Lydia DePillis and Steve Lohr"
+    },
+    {
+      "headline": "Is Empowering Corporate Women Enough?",
+      "snippet": "Turmoil at Chief, a women’s networking organization, raises a long-simmering question: Is amassing power for corporate women a worthy goal in itself?",
+      "abstract": "Turmoil at Chief, a women’s networking organization, raises a long-simmering question: Is amassing power for corporate women a worthy goal in itself?",
+      "lead_paragraph": "For admission to Chief, a women’s leadership network, members pay up to $7,900. That gets them executive coaching, big-name speaker sessions, a Rolodex of female executives and, for an extra cost, access to five sleek clubhouses. Chief is essentially an “old boys’ club” — for the ladies. The venture capital-backed company has grown to over 20,000 members and over $1 billion in value since it started in 2019.",
+      "publication_date": "2023-03-28T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/28/business/chief-corporate-women-networking-club.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "Costly Court Race Points to a Politicized Future for Judicial Elections",
+      "snippet": "A crucial election for Wisconsin’s Supreme Court has drawn tens of millions of dollars in spending, turning an officially nonpartisan contest into a bare-knuckle political fight.",
+      "abstract": "A crucial election for Wisconsin’s Supreme Court has drawn tens of millions of dollars in spending, turning an officially nonpartisan contest into a bare-knuckle political fight.",
+      "lead_paragraph": "MADISON, Wis. — It is a judicial election like no other in American history.",
+      "publication_date": "2023-03-28T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/28/us/politics/wisconsin-supreme-court-race.html",
+      "byline": "By Reid J. Epstein"
+    },
+    {
+      "headline": "‘We’re Going Away’: A State’s Choice to Forgo Medicaid Funds Is Killing Hospitals",
+      "snippet": "Mississippi is one of 10 states, all with Republican-led legislatures, that continue to reject federal funding to expand health insurance for the poor, intensifying financial pressure on hospitals.",
+      "abstract": "Mississippi is one of 10 states, all with Republican-led legislatures, that continue to reject federal funding to expand health insurance for the poor, intensifying financial pressure on hospitals.",
+      "lead_paragraph": "GREENWOOD, Miss. — Since its opening in a converted wood-frame mansion 117 years ago, Greenwood Leflore Hospital had become a medical hub for this part of Mississippi’s fertile but impoverished Delta, with 208 beds, an intensive-care unit, a string of walk-in clinics and a modern brick-and-glass building.",
+      "publication_date": "2023-03-28T09:00:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/28/us/politics/mississippi-medicaid-hospitals.html",
+      "byline": "By Sharon LaFraniere"
+    },
+    {
+      "headline": "As King Charles Moves to Center Stage, So Do His Impersonators",
+      "snippet": "Long overshadowed by other royal look-alikes, Charles imitators are experiencing newfound popularity ahead of the king’s coronation in May.",
+      "abstract": "Long overshadowed by other royal look-alikes, Charles imitators are experiencing newfound popularity ahead of the king’s coronation in May.",
+      "lead_paragraph": "LONDON — In the days after Queen Elizabeth II’s death last year, Charles Haslett, 66, along with many other Britons, was overcome with sadness. But he didn’t have much time to linger on those feelings.",
+      "publication_date": "2023-03-28T09:30:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/28/world/europe/king-charles-look-alikes-impersonators.html",
+      "byline": "By Jenny Gross"
+    },
+    {
+      "headline": "As Migrants’ Desperation Mounts at the Border, a Fire Kills Dozens",
+      "snippet": "The fatal blaze comes as border cities across Mexico have been flooded with migrants turned back from the United States and more arriving from other countries.",
+      "abstract": "The fatal blaze comes as border cities across Mexico have been flooded with migrants turned back from the United States and more arriving from other countries.",
+      "lead_paragraph": "CIUDAD JUÁREZ, Mexico — Katiuska Márquez said she was begging for money on the streets of Ciudad Juárez on Monday afternoon when Mexican migration officers took her and her family to a migration detention facility just across the border from El Paso, Texas.",
+      "publication_date": "2023-03-28T11:09:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/28/world/americas/mexico-fire-ciudad-juarez.html",
+      "byline": "By Rocío Gallegos, Natalie Kitroeff, Emiliano Rodríguez Mega and Simon Romero"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-01-16",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "House Delivers Impeachment Charges to Senate, Paving the Way for a Trial",
+      "snippet": "The House impeachment managers walked the articles of impeachment across the Capitol after a long-anticipated vote to start what promises to be a partisan impeachment trial of President Trump.",
+      "abstract": "The House impeachment managers walked the articles of impeachment across the Capitol after a long-anticipated vote to start what promises to be a partisan impeachment trial of President Trump.",
+      "lead_paragraph": "WASHINGTON — The House of Representatives voted on Wednesday to transmit two articles of impeachment against President Trump to the Senate, sending the president and his party into uncharted territory in a deeply divisive trial fraught with history and political risk. ",
+      "publication_date": "2020-01-15T18:31:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/15/us/politics/impeachment-managers.html",
+      "byline": "By Nicholas Fandos and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Elizabeth Warren Confronts the Skeptics Who Fear Her Plans Go Too Far",
+      "snippet": "In the early fall, Ms. Warren seemed to be the Democratic candidate to beat in Iowa. But many voters have had second thoughts over how her sweeping agenda would sell against President Trump.",
+      "abstract": "In the early fall, Ms. Warren seemed to be the Democratic candidate to beat in Iowa. But many voters have had second thoughts over how her sweeping agenda would sell against President Trump.",
+      "lead_paragraph": "MASON CITY, Iowa — Kristen Marttila’s alarm went off at 6 a.m. on Saturday and soon she was filling up two thermoses — one with hot water, one with soup — to gird for the day ahead: a two-hour drive to Mason City to campaign for Senator Elizabeth Warren in the icy cold.",
+      "publication_date": "2020-01-15T19:12:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/15/us/politics/elizabeth-warren-iowa.html",
+      "byline": "By Shane Goldmacher and Sydney Ember"
+    },
+    {
+      "headline": "Its Reputation Tattered, Polarized Senate Faces a Steep Impeachment Test",
+      "snippet": "A partisan start to the trial stands in contrast to a consensus approach struck in 1999, the last time the Senate weighed the fate of a president.",
+      "abstract": "A partisan start to the trial stands in contrast to a consensus approach struck in 1999, the last time the Senate weighed the fate of a president.",
+      "lead_paragraph": "WASHINGTON — It is finally the Senate’s turn. And if recent history is any guide, President Trump’s impeachment trial will be an intensely partisan display that will make the polarization of the Clinton era look like a bygone period of political harmony.",
+      "publication_date": "2020-01-16T01:29:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/15/us/senate-impeachment.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Trump Hopes Trade Deals Will Boost Growth. Experts Are Skeptical.",
+      "snippet": "Trump administration officials say the “Phase 1” deal signed Wednesday will promote growth. Many economic forecasters are less optimistic.",
+      "abstract": "Trump administration officials say the “Phase 1” deal signed Wednesday will promote growth. Many economic forecasters are less optimistic.",
+      "lead_paragraph": "WASHINGTON — Cabinet secretaries and White House officials have predicted that President Trump’s initial trade agreement with China and his revised accord with Mexico and Canada — slated for final passage this week — will deliver twin jolts to the economy.",
+      "publication_date": "2020-01-16T08:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/16/business/trade-deals-economy.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "In Huawei Battle, China Threatens Germany ‘Where It Hurts’: Automakers",
+      "snippet": "VW, Daimler and BMW sell more cars in China than anywhere else and many already cooperate with Huawei — a dependency Beijing is not shy to exploit.",
+      "abstract": "VW, Daimler and BMW sell more cars in China than anywhere else and many already cooperate with Huawei — a dependency Beijing is not shy to exploit.",
+      "lead_paragraph": "BERLIN — Chancellor Angela Merkel of Germany and Premier Li Keqiang of China settled into the back seat of a driverless Volkswagen van, fastened their seatbelts and went for a spin around a disused airport landing strip in central Berlin.",
+      "publication_date": "2020-01-16T10:05:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/16/world/europe/huawei-germany-china-5g-automakers.html",
+      "byline": "By Katrin Bennhold and Jack Ewing"
+    },
+    {
+      "headline": "A Trade Deal Meant to Heal Rifts Could Actually Make Them Worse",
+      "snippet": "The new deal between the United States and China leaves untouched the thorniest issues driving the two economic giants apart. Solving them could take years.",
+      "abstract": "The new deal between the United States and China leaves untouched the thorniest issues driving the two economic giants apart. Solving them could take years.",
+      "lead_paragraph": "BEIJING — President Trump and China say their new trade pact is just the beginning of a fresh relationship between the world’s two biggest economies. Future deals will make China a better trading partner, the White House says. Beijing claims to foresee an end to American tariffs and the punishing trade war.",
+      "publication_date": "2020-01-16T13:35:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/01/16/business/us-china-trade.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "G.A.O. Report Says Trump Administration Broke Law in Withholding Ukraine Aid",
+      "snippet": "As the Senate prepared for the impeachment trial, the Government Accountability Office said the White House violated a law that limits a president’s power to withhold money allocated by Congress.",
+      "abstract": "As the Senate prepared for the impeachment trial, the Government Accountability Office said the White House violated a law that limits a president’s power to withhold money allocated by Congress.",
+      "lead_paragraph": "WASHINGTON — Hours before the Senate embarked on President Trump’s impeachment trial, a nonpartisan federal watchdog agency unexpectedly weighed in on an issue at the heart of the case: the president’s decision to withhold military assistance to Ukraine.",
+      "publication_date": "2020-01-16T15:34:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/01/16/us/politics/gao-trump-ukraine.html",
+      "byline": "By Emily Cochrane, Eric Lipton and Chris Cameron"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-07-27",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Foxconn Says It Plans to Build Factory in Wisconsin, Adding 3,000 Jobs",
+      "snippet": "White House officials highlighted President Trump’s negotiations with the world’s largest contract electronics maker, to secure the project, which they said would represent a $10 billion investment.",
+      "abstract": "White House officials highlighted President Trump’s negotiations with the world’s largest contract electronics maker, to secure the project, which they said would represent a $10 billion investment.",
+      "lead_paragraph": "Foxconn, the Taiwanese electronics supplier for Apple and other tech giants, said Wednesday it would open its first major American factory in Wisconsin, a boost both for the battleground state’s economy and the Trump administration’s efforts to bolster domestic manufacturing.",
+      "publication_date": "2017-07-26T21:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/26/business/foxconn-factory-wisconsin-jobs.html",
+      "byline": "By Nelson D. Schwartz and Vindu Goel"
+    },
+    {
+      "headline": "Lisa Murkowski, a Swing Vote on Health Care, Isn’t Swayed",
+      "snippet": "The president has chosen to pick on someone who is unlikely to be rattled by his attacks, or by accusations that she has deserted her fellow Republicans.",
+      "abstract": "The president has chosen to pick on someone who is unlikely to be rattled by his attacks, or by accusations that she has deserted her fellow Republicans.",
+      "lead_paragraph": "WASHINGTON — Lisa Murkowski had heard enough.",
+      "publication_date": "2017-07-27T00:32:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/26/us/politics/lisa-murkowski-health-care.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Behind an $18 Billion Donation to a New York Charity, a Shadowy Chinese Conglomerate",
+      "snippet": "A Chinese man has transferred more than 29 percent of HNA Group of China to a private foundation, adding to the questions about the firm’s structure and political connections.",
+      "abstract": "A Chinese man has transferred more than 29 percent of HNA Group of China to a private foundation, adding to the questions about the firm’s structure and political connections.",
+      "lead_paragraph": "At first glance, it appears to be one of the most generous donations in the history of philanthropic giving in America.",
+      "publication_date": "2017-07-27T00:37:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/26/business/hna-group-billion-donation-new-york-charity.html",
+      "byline": "By Michael Forsythe and Alexandra Stevenson"
+    },
+    {
+      "headline": "Senate Soundly Rejects Repeal-Only Health Plan",
+      "snippet": "Seven Republicans joined Democrats to vote down a measure that would have repealed the Affordable Care Act without a replacement.",
+      "abstract": "Seven Republicans joined Democrats to vote down a measure that would have repealed the Affordable Care Act without a replacement.",
+      "lead_paragraph": "WASHINGTON — The Senate on Wednesday soundly rejected a measure that would repeal major parts of the Affordable Care Act without providing a replacement, leaving Republicans still searching for a path forward to fulfill their promise of dismantling President Barack Obama’s signature health law.",
+      "publication_date": "2017-07-27T01:04:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/26/us/politics/senate-rejects-repealing-obamacare-without-replacement-trump.html",
+      "byline": "By Thomas Kaplan"
+    },
+    {
+      "headline": "Allies Warn Trump of Conservative Revolt Unless He Backs Off Sessions",
+      "snippet": "Among those urging Mr. Trump to spare the attorney general have been Reince Priebus, the chief of staff, and Stephen K. Bannon, the president’s chief strategist.",
+      "abstract": "Among those urging Mr. Trump to spare the attorney general have been Reince Priebus, the chief of staff, and Stephen K. Bannon, the president’s chief strategist.",
+      "lead_paragraph": "WASHINGTON — For a week, some of President Trump’s top aides have tried to talk him down from his public campaign against Attorney General Jeff Sessions. It was exposing tensions within the administration, stirring consternation with the conservative base and setting off a revolt among Senate Republicans incensed over the treatment of a former colleague.",
+      "publication_date": "2017-07-27T01:09:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/26/us/politics/white-house-aides-think-trump-will-let-sessions-stay-for-now.html",
+      "byline": "By Peter Baker and Jennifer Steinhauer"
+    },
+    {
+      "headline": "Freed From ISIS, Yazidi Women Return in ‘Severe Shock’",
+      "snippet": "In tents in northern Iraq, a grim scene of barely conscious women and girls hints at the cost of three years of sexual enslavement.",
+      "abstract": "In tents in northern Iraq, a grim scene of barely conscious women and girls hints at the cost of three years of sexual enslavement.",
+      "lead_paragraph": "SHARIYA CAMP, Iraq — The 16-year-old lies on her side on a mattress on the floor, unable to hold up her head. Her uncle props her up to drink water, but she can barely swallow. Her voice is so weak, he places his ear directly over her mouth to hear her.",
+      "publication_date": "2017-07-27T07:00:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/27/world/middleeast/isis-yazidi-women-rape-iraq-mosul-slavery.html",
+      "byline": "By Rukmini Callimachi"
+    },
+    {
+      "headline": "Anthony Scaramucci’s Uncensored Rant: Foul Words and Threats to Have Priebus Fired",
+      "snippet": "Using vulgar language in an interview with The New Yorker, Mr. Scaramucci, the White House communications director, disparaged his adversaries.",
+      "abstract": "Using vulgar language in an interview with The New Yorker, Mr. Scaramucci, the White House communications director, disparaged his adversaries.",
+      "lead_paragraph": "WASHINGTON — When Anthony Scaramucci, the new White House communications director, went on television on Thursday morning to compare himself and his adversary, Reince Priebus, the chief of staff, to Cain and Abel, it seemed to encapsulate the fratricidal nature of an administration riven by biblical rivalries. Cain, after all, killed Abel as they vied for God’s favor.",
+      "publication_date": "2017-07-27T12:37:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/07/27/us/politics/scaramucci-priebus-leaks.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "Wider U.S. Sanctions on Venezuela Risk Biting Both Countries",
+      "snippet": "President Trump has promised tougher measures against the oil-exporting country if it goes through with elections on Sunday. But that could raise gas prices in America.",
+      "abstract": "President Trump has promised tougher measures against the oil-exporting country if it goes through with elections on Sunday. But that could raise gas prices in America.",
+      "lead_paragraph": "HOUSTON — The United States and Venezuela are on a collision course as President Trump promises to inflict economic pain if President Nicolás Maduro goes through with an election intended to enhance his powers.",
+      "publication_date": "2017-07-27T12:56:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/07/27/business/venezuela-sanctions-oil-maduro-vote.html",
+      "byline": "By Clifford Krauss"
+    }
+  ]
+}

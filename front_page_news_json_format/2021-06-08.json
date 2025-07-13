@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-06-08",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "A House Divided: A Palestinian, a Settler and the Struggle for East Jerusalem",
+      "snippet": "Efforts to force Palestinians from Sheikh Jarrah set the stage for the recent Gaza war. A similar dynamic looms in a nearby district.",
+      "abstract": "Efforts to force Palestinians from Sheikh Jarrah set the stage for the recent Gaza war. A similar dynamic looms in a nearby district.",
+      "lead_paragraph": "JERUSALEM — Few places in East Jerusalem show the struggle over the city more intimately than a four-story house on a narrow alley in the Silwan district.",
+      "publication_date": "2021-06-07T18:55:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/07/world/middleeast/east-jerusalem-house-divided.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "U.S. Seizes Share of Ransom From Hackers in Colonial Pipeline Attack",
+      "snippet": "Investigators traced 75 Bitcoins worth more than $4 million through nearly two dozen cryptocurrency accounts.",
+      "abstract": "Investigators traced 75 Bitcoins worth more than $4 million through nearly two dozen cryptocurrency accounts.",
+      "lead_paragraph": "WASHINGTON — The Justice Department said on Monday that it had seized much of the ransom that a major U.S. pipeline operator had paid last month to a Russian hacking collective, turning the tables on the hackers by reaching into a digital wallet to snatch back millions of dollars in cryptocurrency.",
+      "publication_date": "2021-06-08T00:16:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/07/us/politics/pipeline-attack.html",
+      "byline": "By Katie Benner and Nicole Perlroth"
+    },
+    {
+      "headline": "Alzheimer’s Drug Is Bonanza for Biogen, Most Likely at Taxpayer Expense",
+      "snippet": "Despite scant evidence that it works, the drug, Aduhelm, is predicted to generate billions of dollars in revenue, much of it from Medicare.",
+      "abstract": "Despite scant evidence that it works, the drug, Aduhelm, is predicted to generate billions of dollars in revenue, much of it from Medicare.",
+      "lead_paragraph": "The Food and Drug Administration’s decision on Monday to approve a new Alzheimer’s medication over the fierce objections of its scientific advisers sets into motion one of the most controversial drug introductions in years.",
+      "publication_date": "2021-06-08T09:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/08/business/aducanumab-alzheimers-cost.html",
+      "byline": "By Rebecca Robbins and Pam Belluck"
+    },
+    {
+      "headline": "Farewell, Millennial Lifestyle Subsidy",
+      "snippet": "The price for Ubers, scooters and Airbnb rentals is going up as tech companies aim for profitability.",
+      "abstract": "The price for Ubers, scooters and Airbnb rentals is going up as tech companies aim for profitability.",
+      "lead_paragraph": "A few years ago, while on a work trip in Los Angeles, I hailed an Uber for a crosstown ride during rush hour. I knew it would be a long trip, and I steeled myself to fork over $60 or $70.",
+      "publication_date": "2021-06-08T09:00:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/08/technology/farewell-millennial-lifestyle-subsidy.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "China Is Trying to Tame Inflation. It Matters to Much of the Globe.",
+      "snippet": "Rising costs at its factories — an accelerating trend, new data showed — could trickle into the rest of the world economy.",
+      "abstract": "Rising costs at its factories — an accelerating trend, new data showed — could trickle into the rest of the world economy.",
+      "lead_paragraph": "SHANGHAI — Prices are jumping in the United States and around the world, prompting growing warnings that a wave of inflation could threaten the global economy if it persists.",
+      "publication_date": "2021-06-08T09:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/08/business/economy/china-inflation.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "The Criminals Thought the Devices Were Secure. But the Seller Was the F.B.I.",
+      "snippet": "Global law enforcement officials revealed a three-year operation in which they said they had intercepted over 20 million messages. Hundreds of arrests were made in more than a dozen countries.",
+      "abstract": "Global law enforcement officials revealed a three-year operation in which they said they had intercepted over 20 million messages. Hundreds of arrests were made in more than a dozen countries.",
+      "lead_paragraph": "MELBOURNE, Australia — The cellphones, procured on the black market, performed a single function hidden behind a calculator app: sending encrypted messages and photos.",
+      "publication_date": "2021-06-08T11:14:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/08/world/australia/operation-trojan-horse-anom.html",
+      "byline": "By Yan Zhuang, Elian Peltier and Alan Feuer"
+    },
+    {
+      "headline": "From Appetizers to Tuition, Incentives to Job Seekers Grow",
+      "snippet": "Employers are finding ways to get applicants in the door, and to retain employees once they’re hired.",
+      "abstract": "Employers are finding ways to get applicants in the door, and to retain employees once they’re hired.",
+      "lead_paragraph": "College subsidies for children and spouses. Free rooms for summer hotel employees and a set of knives for aspiring culinary workers. And appetizers on the house for anyone willing to sit down for a restaurant job interview.",
+      "publication_date": "2021-06-08T14:13:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/08/business/economy/jobs-hiring-incentives.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Wealthiest Executives Paid Little to Nothing in Federal Income Taxes, Report Says",
+      "snippet": "An analysis by ProPublica based on I.R.S. documents showed billionaires like Jeff Bezos and Elon Musk benefited from tax code loopholes and a focus on taxing income over wealth.",
+      "abstract": "An analysis by ProPublica based on I.R.S. documents showed billionaires like Jeff Bezos and Elon Musk benefited from tax code loopholes and a focus on taxing income over wealth.",
+      "lead_paragraph": "WASHINGTON — The 25 richest Americans, including Jeff Bezos, Michael Bloomberg and Elon Musk, paid relatively little — and sometimes nothing — in federal income taxes between 2014 and 2018, according to an analysis from the news organization ProPublica that was based on a trove of Internal Revenue Service tax data.",
+      "publication_date": "2021-06-08T15:34:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/08/us/politics/income-taxes-bezos-musk-buffett.html",
+      "byline": "By Alan Rappeport"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2010-11-16",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Facebook Offers New Messaging Tool",
+      "snippet": "Facebook Messages aims to handle users’ e-mail and other communications across different services, taking on popular e-mail platforms from Google and Yahoo.",
+      "abstract": "Facebook Messages aims to handle users’ e-mail and other communications across different services, taking on popular e-mail platforms from Google and Yahoo.",
+      "lead_paragraph": "SAN FRANCISCO  Since the heyday of AOL’s cheery “You’ve got mail” greeting, e-mail has been central to the online experience for millions of people. ",
+      "publication_date": "2010-11-15T18:55:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/16/technology/16facebook.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "Weaker Dollar Seen as Unlikely to Cure Joblessness",
+      "snippet": "With many American companies manufacturing abroad, the effect on exports of a weak dollar is diminished.",
+      "abstract": "With many American companies manufacturing abroad, the effect on exports of a weak dollar is diminished.",
+      "lead_paragraph": "A weakening currency traditionally helps a country raise its exports and create more jobs for its workers. But the declining value of the dollar may not help the United States increase economic growth as much as it might have in the past. ",
+      "publication_date": "2010-11-15T20:44:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/16/business/economy/16exports.html",
+      "byline": "By Motoko Rich and Jack Ewing"
+    },
+    {
+      "headline": "Europe Fears That Debt Crisis Is Ready to Spread",
+      "snippet": "European officials worry that a crisis like the one that hit Greece could spread to Ireland and Portugal.",
+      "abstract": "European officials worry that a crisis like the one that hit Greece could spread to Ireland and Portugal.",
+      "lead_paragraph": "LONDON  European officials, increasingly concerned that the Continent’s debt crisis will spread, are warning that any new rescue plans may need to cover Portugal as well as Ireland to contain the problem they tried to resolve six months ago. ",
+      "publication_date": "2010-11-16T00:40:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/11/16/business/global/16euro.html",
+      "byline": "By Landon Thomas Jr. and James Kanter"
+    },
+    {
+      "headline": "Working It Out, iTunes to Sell Beatles Titles",
+      "snippet": "Apple is expected to announce that it has struck a deal with the Beatles and their record company, EMI, to sell the band’s music on iTunes.",
+      "abstract": "Apple is expected to announce that it has struck a deal with the Beatles and their record company, EMI, to sell the band’s music on iTunes.",
+      "lead_paragraph": "For the next generation of Beatles fans, the wait could soon be over.",
+      "publication_date": "2010-11-16T01:48:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/11/16/business/media/16apple.html",
+      "byline": "By Ben Sisario and Miguel Helft"
+    },
+    {
+      "headline": "G.M. Raises Price Range for Stock Sale",
+      "snippet": "The automaker increased the offering price for its shares to $32 to $33 because of strong demand.",
+      "abstract": "The automaker increased the offering price for its shares to $32 to $33 because of strong demand.",
+      "lead_paragraph": "DETROIT  First it was the Ford Motor Company that convinced skeptical investors that the Detroit automakers could make big profits again.",
+      "publication_date": "2010-11-16T02:09:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/16/business/16ipo.html",
+      "byline": "By Bill Vlasic"
+    },
+    {
+      "headline": "In Russia, Jury Is Something to Work Around",
+      "snippet": "A system intended to put more power in the hands of citizens has been limited and circumvented by officials who can simply retry cases several times.",
+      "abstract": "A system intended to put more power in the hands of citizens has been limited and circumvented by officials who can simply retry cases several times.",
+      "lead_paragraph": " MOSCOW  Iosif L. Nagle was watching a final curtain at his small theater company when he saw two young men waiting for him in the audience. They didn’t look like patrons of the arts  something about their faces marked them as law enforcement  and Mr. Nagle bundled up and followed them out into the cold. ",
+      "publication_date": "2010-11-16T02:22:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/11/16/world/europe/16jury.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Despite Gains, Night Raids Split U.S. and Karzai",
+      "snippet": "The raids have put pressure on the Taliban, but they are a liability for President Hamid Karzai of Afghanistan.",
+      "abstract": "The raids have put pressure on the Taliban, but they are a liability for President Hamid Karzai of Afghanistan.",
+      "lead_paragraph": "",
+      "publication_date": "2010-11-16T02:36:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/11/16/world/asia/16night.html",
+      "byline": "By THOM SHANKER, ELIZABETH BUMILLER and ROD NORDLAND"
+    },
+    {
+      "headline": "Voices of Foreclosure Speak Daily About Desperation and Misery",
+      "snippet": "In California’s Simi Valley, 4,000 employees of Bank of America handle 50,000 calls a day about mortgages and homes in peril.",
+      "abstract": "In California’s Simi Valley, 4,000 employees of Bank of America handle 50,000 calls a day about mortgages and homes in peril.",
+      "lead_paragraph": "SIMI VALLEY, Calif.  If the mortgage mess had an address, it could be 450 American Way.",
+      "publication_date": "2010-11-16T05:01:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/16/business/economy/16foreclose.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Under Attack, Fed Officials Defend Buying of Bonds",
+      "snippet": "In a rare on-the-record interview, the president of the Federal Reserve Bank of New York said the Fed’s program was not intended to affect the dollar’s value.",
+      "abstract": "In a rare on-the-record interview, the president of the Federal Reserve Bank of New York said the Fed’s program was not intended to affect the dollar’s value.",
+      "lead_paragraph": "With the Federal Reserve under attack at home and abroad, it is making an unusual public bid to keep itself away from the political crossfire. ",
+      "publication_date": "2010-11-16T05:01:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/16/business/economy/16fed.html",
+      "byline": "By Sewell Chan"
+    }
+  ]
+}

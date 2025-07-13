@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2016-07-13",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "As U.S. Investigates Fatal Tesla Crash, Company Defends Autopilot System",
+      "snippet": "Even as regulators are asking new questions in the wake of a fatal crash involving Tesla’s Model S car, executives say their technology is safe if properly used.",
+      "abstract": "Even as regulators are asking new questions in the wake of a fatal crash involving Tesla’s Model S car, executives say their technology is safe if properly used.",
+      "lead_paragraph": "Even as federal safety officials step up their investigation of the fatal crash of a driver operating a Tesla car with its Autopilot system engaged, the company continues to defend the self-driving technology as safe when properly used.",
+      "publication_date": "2016-07-12T16:27:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/13/business/tesla-autopilot-fatal-crash-investigation.html",
+      "byline": "By Bill Vlasic and Neal E. Boudette"
+    },
+    {
+      "headline": "With Competition in Tatters, the Rip of Inequality Widens",
+      "snippet": "The decline in competition in many American industries costs more than just rising prices. It stunts entrepreneurship, hinders workers’ mobility and wages, and slows productivity.",
+      "abstract": "The decline in competition in many American industries costs more than just rising prices. It stunts entrepreneurship, hinders workers’ mobility and wages, and slows productivity.",
+      "lead_paragraph": "The Justice Department is expected to rule soon on the biggest beer merger ever: a $100 billion-plus combination of Anheuser-Busch InBev and SABMiller into a colossus that will reap some $3 out of every $10 spent on beer around the world.",
+      "publication_date": "2016-07-12T16:56:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/13/business/economy/antitrust-competition-inequality.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Have the Dallas Police Improved? Depends on Whom You Ask",
+      "snippet": "Though Chief David O. Brown has worked to steer his department away from a history of racism and abuse, black residents expressed a wide range of views of the police.",
+      "abstract": "Though Chief David O. Brown has worked to steer his department away from a history of racism and abuse, black residents expressed a wide range of views of the police.",
+      "lead_paragraph": "DALLAS — When Andre Stubblefield leaves his dilapidated apartment complex in southern Dallas, he always carries his work gloves, vest and hard hat, even when he is not going to work. The police have stopped him regularly over the years, asking for identification — about four times in the last four months alone. So he carries his work attire to show that he is a working man, not a criminal.",
+      "publication_date": "2016-07-12T18:01:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/13/us/dallas-police-black-residents.html",
+      "byline": "By John Eligon and Nikole Hannah-Jones"
+    },
+    {
+      "headline": "Taser International Dominates the Police Body Camera Market",
+      "snippet": "The company, best known for its stun guns, has drawn criticism for its relationships with the police and its sales tactics, which it says are common.",
+      "abstract": "The company, best known for its stun guns, has drawn criticism for its relationships with the police and its sales tactics, which it says are common.",
+      "lead_paragraph": "When Micah Johnson went on a deadly shooting rampage in Dallas last week, body cameras worn by police officers were rolling, capturing at least 170 hours of video of the mayhem.",
+      "publication_date": "2016-07-12T19:00:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/13/business/taser-international-dominates-the-police-body-camera-market.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "A Fight to Make ‘We Shall Overcome’ and ‘This Land Is Your Land’ Copyright Free",
+      "snippet": "A firm that put “Happy Birthday” into the public domain now wants to rescind copyright protection for “We Shall Overcome” and “This Land Is Your Land.”",
+      "abstract": "A firm that put “Happy Birthday” into the public domain now wants to rescind copyright protection for “We Shall Overcome” and “This Land Is Your Land.”",
+      "lead_paragraph": "The song has rung out at marches and vigils throughout the country over the last week: “We Shall Overcome.”",
+      "publication_date": "2016-07-12T23:55:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/13/business/media/happy-birthday-is-free-at-last-how-about-we-shall-overcome.html",
+      "byline": "By Ben Sisario"
+    },
+    {
+      "headline": "Gretchen Carlson, Former Fox Anchor, Speaks Publicly About Sexual Harassment Lawsuit",
+      "snippet": "Ms. Carlson repeated the allegations she made last week against Roger Ailes, her former boss at the news network.",
+      "abstract": "Ms. Carlson repeated the allegations she made last week against Roger Ailes, her former boss at the news network.",
+      "lead_paragraph": "MONTCLAIR, N.J. — When Gretchen Carlson was asked how her last week had been, she looked down at her wrist.",
+      "publication_date": "2016-07-13T00:48:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/13/business/media/gretchen-carlson-fox-news-interview.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Live Streaming Breaks Through, and Cable News Has Much to Fear",
+      "snippet": "The Philando Castile shooting and its aftermath have catapulted services like Facebook Live and Periscope into the center of the news, challenging cable to adapt.",
+      "abstract": "The Philando Castile shooting and its aftermath have catapulted services like Facebook Live and Periscope into the center of the news, challenging cable to adapt.",
+      "lead_paragraph": "Cable news has functioned as the harrowing background soundtrack to much of 2015 and 2016. In covering terrorist attacks, protests against the police and a presidential election whose daily antics seem tailor-made for the overheated ethos of cable, Fox News, CNN and MSNBC have all won huge increases in viewership.",
+      "publication_date": "2016-07-13T09:00:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/14/technology/live-streaming-breaks-through-and-cable-news-has-much-to-fear.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "For Whites Sensing Decline, Donald Trump Unleashes Words of Resistance",
+      "snippet": "Breaching boundaries on discussions of race, Mr. Trump has stoked antagonism among whites who feel disempowered and attracted college students tired of having to watch their words.",
+      "abstract": "Breaching boundaries on discussions of race, Mr. Trump has stoked antagonism among whites who feel disempowered and attracted college students tired of having to watch their words.",
+      "lead_paragraph": "The chant erupts in a college auditorium in Washington, as admirers of a conservative internet personality shout down a black protester. It echoes around the gym of a central Iowa high school, as white students taunt the Hispanic fans and players of a rival team. It is hollered by a lone motorcyclist, as he tears out of a Kansas gas station after an argument with a Hispanic man and his Muslim friend.",
+      "publication_date": "2016-07-13T09:00:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/14/us/politics/donald-trump-white-identity.html",
+      "byline": "By Nicholas Confessore"
+    },
+    {
+      "headline": "Time Inc. Reshuffles in a Digital Reinvention",
+      "snippet": "As part of a broad revamping of the company, Alan Murray will replace Norman Pearlstine, who will stay on as vice chairman.",
+      "abstract": "As part of a broad revamping of the company, Alan Murray will replace Norman Pearlstine, who will stay on as vice chairman.",
+      "lead_paragraph": "During a recent meeting at Time Inc.’s headquarters in downtown Manhattan, Jeff Karp extolled the virtues of Sports Illustrated Play, the company’s new digital division focused on youth sports.",
+      "publication_date": "2016-07-13T13:40:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/14/business/media/time-inc-names-alan-murray-as-chief-content-officer.html",
+      "byline": "By Sydney Ember"
+    }
+  ]
+}

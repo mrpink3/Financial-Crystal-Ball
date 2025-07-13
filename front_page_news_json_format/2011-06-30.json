@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2011-06-30",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Fed Halves Debit Card Bank Fees",
+      "snippet": "The new cap of 21 to 24 cents for a debit card transaction is higher than the Federal Reserve’s initial figure, but well below the 44 cents that banks now charge.",
+      "abstract": "The new cap of 21 to 24 cents for a debit card transaction is higher than the Federal Reserve’s initial figure, but well below the 44 cents that banks now charge.",
+      "lead_paragraph": "WASHINGTON — Fees paid by retailers to banks for debit card purchases, a $20 billion annual expense that has been the subject of a furious political battle over the last year, will be cut in half after the Federal Reserve voted Wednesday to cap the charges.",
+      "publication_date": "2011-06-29T19:48:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/30/business/30debit.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Pretty Tablet, Though Late for the Ball",
+      "snippet": "The new TouchPad from Hewlett-Packard looks beautiful, but its app collection is pitifully small.",
+      "abstract": "The new TouchPad from Hewlett-Packard looks beautiful, but its app collection is pitifully small.",
+      "lead_paragraph": "Have you been reading the headlines? There was a big earthquake in Haiti. Some men were rescued from a mine in Chile. Oh, and apparently there was a gigantic oil spill in the Gulf of Mexico.",
+      "publication_date": "2011-06-29T20:56:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/30/technology/personaltech/30pogueAA.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Despite Fears, Owning Home Retains Allure, Poll Shows",
+      "snippet": "About nine in 10 Americans see owning a home as part of the American dream, even as many doubt their home is a good investment, according to the latest New York Times/CBS News poll.",
+      "abstract": "About nine in 10 Americans see owning a home as part of the American dream, even as many doubt their home is a good investment, according to the latest New York Times/CBS News poll.",
+      "lead_paragraph": "Owning a house remains central to Americans’ sense of well-being, even as many doubt their home is a good investment after a punishing recession.",
+      "publication_date": "2011-06-29T22:39:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/30/business/30poll.html",
+      "byline": "By David Streitfeld and Megan Thee-Brenan"
+    },
+    {
+      "headline": "The Fear of a Toxic Rerun",
+      "snippet": "A company is being accused of cutting corners as it builds a refinery for rare earths in Malaysia, where the last such effort became one of Asia’s largest radioactive waste sites.",
+      "abstract": "A company is being accused of cutting corners as it builds a refinery for rare earths in Malaysia, where the last such effort became one of Asia’s largest radioactive waste sites.",
+      "lead_paragraph": "KUANTAN, Malaysia — A $230 million refinery being built here in an effort to break China’s global chokehold on rare earth metals is plagued by environmentally hazardous construction and design problems, according to internal memos and current and former engineers on the project.",
+      "publication_date": "2011-06-30T00:03:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/30/business/global/30rare.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "In Deficit Plan, Taxes Must Rise, President Warns",
+      "snippet": "Saying a deal would not be possible without painful steps on both sides, President Obama pressured Republicans to accept higher taxes to pare down the deficit.",
+      "abstract": "Saying a deal would not be possible without painful steps on both sides, President Obama pressured Republicans to accept higher taxes to pare down the deficit.",
+      "lead_paragraph": "WASHINGTON — President Obama pressured Republicans on Wednesday to accept higher taxes as part of any plan to pare down the federal deficit, bluntly telling lawmakers that they “need to do their job” and strike a deal before the United States risks defaulting on its debt.",
+      "publication_date": "2011-06-30T01:31:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/30/us/politics/30obama.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "German Banks Agree to Roll Over Greek Debt",
+      "snippet": "The financing plan is based on a similar agreement with France and its banks and is seen as crucial to securing more aid for Greece.",
+      "abstract": "The financing plan is based on a similar agreement with France and its banks and is seen as crucial to securing more aid for Greece.",
+      "lead_paragraph": "PARIS — The biggest financial institutions in Germany followed the lead of their French counterparts Thursday by agreeing to roll over some of their holdings of Greek debt — a crucial step toward obtaining international agreement on a second bailout for the crippled Greek economy.",
+      "publication_date": "2011-06-30T14:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/07/01/business/global/01iht-euro01.html",
+      "byline": "By Matthew Saltmarsh and Stephen Castle"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2019-08-06",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Shootings Renew Debate Over How to Combat Domestic Terrorism",
+      "snippet": "Federal authorities say they want to employ the same approach used in battling global extremism. But there are political and civil rights concerns.",
+      "abstract": "Federal authorities say they want to employ the same approach used in battling global extremism. But there are political and civil rights concerns.",
+      "lead_paragraph": "WASHINGTON — Law enforcement officials have sounded the alarm for months: Homegrown terrorism, including by white supremacists, is now as big a threat as terrorism from abroad. But the mass shooting in El Paso last weekend, the largest domestic terrorist attack against Hispanics in modern history, has made it glaringly clear how poorly prepared the country is to fight it.",
+      "publication_date": "2019-08-05T18:55:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/05/us/politics/domestic-terrorism-shootings.html",
+      "byline": "By Sabrina Tavernise, Katie Benner, Matt Apuzzo and Nicole Perlroth"
+    },
+    {
+      "headline": "Shootings Spur Debate on Extremism and Guns, With Trump on Defense",
+      "snippet": "Mr. Trump’s usual methods of deflection sputtered as he faced new criticism and scrutiny for the plain echoes of his own rhetoric in the El Paso gunman’s anti-immigrant manifesto.",
+      "abstract": "Mr. Trump’s usual methods of deflection sputtered as he faced new criticism and scrutiny for the plain echoes of his own rhetoric in the El Paso gunman’s anti-immigrant manifesto.",
+      "lead_paragraph": "The politics of American gun violence follow a predictable pattern in most cases: outraged calls for action from the left, somber gestures of sympathy from the right, a subdued presidential statement delivered from a prepared text — and then, in a matter of days or even hours, a national turning of the page to other matters.",
+      "publication_date": "2019-08-05T21:39:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/05/us/politics/trump-guns-white-supremacy.html",
+      "byline": "By Alexander Burns"
+    },
+    {
+      "headline": "Behind the Scenes, 8chan Scrambles to Get Back Online",
+      "snippet": "In a digital chain effect, tech providers pulled support for 8chan, illustrating a complex network of companies that are crucial to keeping websites up.",
+      "abstract": "In a digital chain effect, tech providers pulled support for 8chan, illustrating a complex network of companies that are crucial to keeping websites up.",
+      "lead_paragraph": "SAN FRANCISCO — Even before 8chan, the anonymous message board, went dark early on Monday morning, the scramble to keep the site online had begun.",
+      "publication_date": "2019-08-05T23:18:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/05/technology/8chan-website-online.html",
+      "byline": "By Kate Conger and Nathaniel Popper"
+    },
+    {
+      "headline": "Legal Shield for Websites Rattles Under Onslaught of Hate Speech",
+      "snippet": "Section 230, from a 1996 federal law, was meant to protect young internet companies from liability. Now lawmakers are threatening to change it.",
+      "abstract": "Section 230, from a 1996 federal law, was meant to protect young internet companies from liability. Now lawmakers are threatening to change it.",
+      "lead_paragraph": "When the most consequential law governing speech on the internet was created in 1996, Google.com didn’t exist and Mark Zuckerberg was 11 years old.",
+      "publication_date": "2019-08-06T07:00:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/06/technology/section-230-hate-speech.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Circulating in China’s Financial System: More Than $200 Billion in I.O.U.s",
+      "snippet": "As the trade war escalates, Beijing needs private companies to pull China’s economy out of its rut. But for some, ready money can be hard to find.",
+      "abstract": "As the trade war escalates, Beijing needs private companies to pull China’s economy out of its rut. But for some, ready money can be hard to find.",
+      "lead_paragraph": "SHENZHEN, China — China was on the cusp of the biggest building boom the world had ever seen when Zhang Zhiyang started his architecture firm. It was 2007, and the money rushed in for contracts to design residential complexes and an exhibition hall. ",
+      "publication_date": "2019-08-06T15:28:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/06/business/china-cash-commercial-acceptances.html",
+      "byline": "By Alexandra Stevenson and Cao Li"
+    }
+  ]
+}

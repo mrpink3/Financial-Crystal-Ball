@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-08-16",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Drastic Economic Moves Highlight Russia’s Wartime Bind",
+      "snippet": "With the third-largest interest rate increase in a decade to shore up the ruble, Moscow’s policymakers are pursuing the conflicting goals of paying for the war against Ukraine and taming inflation.",
+      "abstract": "With the third-largest interest rate increase in a decade to shore up the ruble, Moscow’s policymakers are pursuing the conflicting goals of paying for the war against Ukraine and taming inflation.",
+      "lead_paragraph": "For years, Russia’s central bank has skillfully shielded the country’s economy when crisis has loomed, drastically raising interest rates, restricting money movements or taking over ailing banks. The swift, sharp moves conveyed a clear message that, despite increasingly bitter economic conflicts with the West, economic stability would be maintained at any cost.",
+      "publication_date": "2023-08-15T22:44:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/15/world/europe/russia-ruble-economy-interest-rates.html",
+      "byline": "By Anatoly Kurmanaev"
+    },
+    {
+      "headline": "‘Biased.’ ‘Corrupt.’ ‘Deranged.’ Trump’s Taunts Test Limits of Release.",
+      "snippet": "Some lawyers have said that if the former president were an ordinary citizen issuing these attacks, he would be in jail by now. The question is whether he will face similar consequences.",
+      "abstract": "Some lawyers have said that if the former president were an ordinary citizen issuing these attacks, he would be in jail by now. The question is whether he will face similar consequences.",
+      "lead_paragraph": "Just days ago, the judge overseeing former President Donald J. Trump’s prosecution on charges of seeking to subvert the 2020 election admonished him against violating the conditions of his release put in place at his arraignment — including by making “inflammatory statements” that could be construed as possibly intimidating witnesses or other people involved in the case.",
+      "publication_date": "2023-08-16T07:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/16/us/politics/trump-chutkan-2020-election-truth-social.html",
+      "byline": "By Maggie Haberman, Jonathan Swan and Alan Feuer"
+    },
+    {
+      "headline": "Google Tests an A.I. Assistant That Offers Life Advice",
+      "snippet": "The tech giant is evaluating tools that would use artificial intelligence to perform tasks that some of its researchers have said should be avoided.",
+      "abstract": "The tech giant is evaluating tools that would use artificial intelligence to perform tasks that some of its researchers have said should be avoided.",
+      "lead_paragraph": "Earlier this year, Google, locked in an accelerating competition with rivals like Microsoft and OpenAI to develop A.I. technology, was looking for ways to put a charge into its artificial intelligence research.",
+      "publication_date": "2023-08-16T09:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/16/technology/google-ai-life-advice.html",
+      "byline": "By Nico Grant"
+    },
+    {
+      "headline": "The Desperate Hunt for the A.I. Boom’s Most Indispensable Prize",
+      "snippet": "To power artificial-intelligence products, start-ups and investors are taking extraordinary measures to obtain critical chips known as graphics processing units, or GPUs.",
+      "abstract": "To power artificial-intelligence products, start-ups and investors are taking extraordinary measures to obtain critical chips known as graphics processing units, or GPUs.",
+      "lead_paragraph": "For the past year, Jean Paoli, chief executive of the artificial intelligence start-up Docugami, has been scrounging for what has become the hottest commodity in tech: computer chips.",
+      "publication_date": "2023-08-16T09:00:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/16/technology/ai-gpu-chips-shortage.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "When Hackers Descended to Test A.I., They Found Flaws Aplenty",
+      "snippet": "The hackers had the blessing of the White House and leading A.I. companies, which want to learn about vulnerabilities before those with nefarious intentions do.",
+      "abstract": "The hackers had the blessing of the White House and leading A.I. companies, which want to learn about vulnerabilities before those with nefarious intentions do.",
+      "lead_paragraph": "Avijit Ghosh wanted the bot to do bad things.",
+      "publication_date": "2023-08-16T09:01:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/16/technology/ai-defcon-hackers.html",
+      "byline": "By Sarah Kessler and Tiffany Hsu"
+    },
+    {
+      "headline": "How a Small Group of Firms Changed the Math for Insuring Against Natural Disasters",
+      "snippet": "Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.",
+      "abstract": "Climate change, inflation and global instability have thrust companies that sell insurance to insurers into the spotlight.",
+      "lead_paragraph": "As disasters like the wildfires that devastated the Hawaiian town of Lahaina and the storms that tore apart roofs from Alabama to Massachusetts last week intensify, insurance companies have pulled back from offering coverage in certain areas or cut the kinds of damage they will pay to repair.",
+      "publication_date": "2023-08-16T15:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/16/business/reinsurance-global-crises.html",
+      "byline": "By Emily Flitter"
+    },
+    {
+      "headline": "From Detroit to Hollywood, New Union Leaders Take a Harder Line",
+      "snippet": "Pushed by angry members, unions representing actors, autoworkers and UPS employees are becoming increasingly assertive under new leadership.",
+      "abstract": "Pushed by angry members, unions representing actors, autoworkers and UPS employees are becoming increasingly assertive under new leadership.",
+      "lead_paragraph": "Shawn Fain is not a typical president of the United Automobile Workers union.",
+      "publication_date": "2023-08-16T15:59:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/16/business/economy/union-leaders-teamsters-uaw-hollywood.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

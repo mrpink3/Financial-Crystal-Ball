@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-06-11",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Justice Dept. Agrees to Turn Over Key Mueller Evidence to House",
+      "snippet": "The scope of the material wasn’t immediately clear, but the House Judiciary Committee chairman said it would include “interview notes, firsthand accounts of misconduct and other critical evidence.”",
+      "abstract": "The scope of the material wasn’t immediately clear, but the House Judiciary Committee chairman said it would include “interview notes, firsthand accounts of misconduct and other critical evidence.”",
+      "lead_paragraph": "WASHINGTON — The Justice Department, after weeks of tense negotiations, has agreed to provide Congress with key evidence collected by Robert S. Mueller III that Democrats believe could shed light on possible obstruction of justice and abuse of power by President Trump.",
+      "publication_date": "2019-06-10T16:01:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/10/us/politics/mueller-judiciary-committee.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Paralysis on America’s Rivers: There’s Too Much Water",
+      "snippet": "Fast currents and swollen channels have made many of the nation’s rivers unsafe for commercial traffic, spreading economic pain from a spring of severe flooding.",
+      "abstract": "Fast currents and swollen channels have made many of the nation’s rivers unsafe for commercial traffic, spreading economic pain from a spring of severe flooding.",
+      "lead_paragraph": "VAN BUREN, Ark. — Marty Shell just wanted the lights back on.",
+      "publication_date": "2019-06-10T16:59:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/10/us/flooding-river-shipping.html",
+      "byline": "By Mitch Smith"
+    },
+    {
+      "headline": "Elizabeth Warren Has Lots of Plans. Together, They Would Remake the Economy.",
+      "snippet": "Ms. Warren could face a difficult path to winning over moderates, but by pushing out so many proposals so early, she is forcing her Democratic rivals to play catch-up.",
+      "abstract": "Ms. Warren could face a difficult path to winning over moderates, but by pushing out so many proposals so early, she is forcing her Democratic rivals to play catch-up.",
+      "lead_paragraph": "WASHINGTON — As the 23 candidates seeking the Democratic nomination struggle to distinguish themselves, Senator Elizabeth Warren has set herself apart with a series of sweeping proposals that would significantly remake the American economy, covering everything from tax policy to student debt relief and offering a detailed portrait of what her presidency might look like.",
+      "publication_date": "2019-06-10T17:17:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/10/us/politics/elizabeth-warren-2020-policies-platform.html",
+      "byline": "By Thomas Kaplan and Jim Tankersley"
+    },
+    {
+      "headline": "Trump Says Mexico Tariffs Worked, Emboldening Trade Fight With China",
+      "snippet": "President Trump backed off his threat to impose tariffs on Mexico last week — but the encounter suggests more tariffs could be on the way",
+      "abstract": "President Trump backed off his threat to impose tariffs on Mexico last week — but the encounter suggests more tariffs could be on the way",
+      "lead_paragraph": "WASHINGTON — President Trump has concluded his tariff threat worked and forced Mexico to stop the flow of migrants. On Monday, he pivoted back to his trade fight with China and vowed to hit Beijing with more tariffs if it did not accede to America’s trade demands.",
+      "publication_date": "2019-06-10T23:13:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/10/us/politics/trump-mexico-tariffs-china.html",
+      "byline": "By Ana Swanson and Jeanna Smialek"
+    },
+    {
+      "headline": "Dark Web Drug Sellers Dodge Police Crackdowns",
+      "snippet": "The notorious Silk Road site was shut down in 2013. Others have followed. But the online trafficking of illegal narcotics hasn’t abated.",
+      "abstract": "The notorious Silk Road site was shut down in 2013. Others have followed. But the online trafficking of illegal narcotics hasn’t abated.",
+      "lead_paragraph": "SAN FRANCISCO — Authorities in the United States and Europe recently staged a wide-ranging crackdown on online drug markets, taking down Wall Street Market and Valhalla, two of the largest drug markets on the so-called dark web.",
+      "publication_date": "2019-06-11T07:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/11/technology/online-dark-web-drug-markets.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Brazil Fails to Replace Cuban Doctors, Hurting Health Care of 28 Million",
+      "snippet": "After Cuba recalled 8,517 doctors from Brazil, Jair Bolsonaro, the country’s new president, told Brazilians “we can solve this problem.” So far, he has failed, with millions paying the price.",
+      "abstract": "After Cuba recalled 8,517 doctors from Brazil, Jair Bolsonaro, the country’s new president, told Brazilians “we can solve this problem.” So far, he has failed, with millions paying the price.",
+      "lead_paragraph": "EMBU-GUAÇU, Brazil — The shiny plastic chairs all sat empty in a public health clinic, and the patients who staggered in were told to come back Thursday — the only day of the week now when a doctor is there.",
+      "publication_date": "2019-06-11T09:00:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/11/world/americas/brazil-cuba-doctors-jair-bolsonaro.html",
+      "byline": "By Shasta Darlington and Letícia Casado"
+    },
+    {
+      "headline": "Risky Borrowing Is Making a Comeback, but Banks Are on the Sideline",
+      "snippet": "New and untested players, some backed by Wall Street, have helped borrowers pile up billions in loans. What could go wrong?",
+      "abstract": "New and untested players, some backed by Wall Street, have helped borrowers pile up billions in loans. What could go wrong?",
+      "lead_paragraph": "A decade after reckless home lending nearly destroyed the financial system, the business of making risky loans is back. ",
+      "publication_date": "2019-06-11T09:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/11/business/risky-borrowing-shadow-banking.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Trump and Biden Get Personal in Iowa Skirmish",
+      "snippet": "President Trump and former Vice President Joseph R. Biden Jr., who increasingly see each other as political foils, traded attacks as they traveled to the battleground state.",
+      "abstract": "President Trump and former Vice President Joseph R. Biden Jr., who increasingly see each other as political foils, traded attacks as they traveled to the battleground state.",
+      "lead_paragraph": "DAVENPORT, Iowa — President Trump and former Vice President Joseph R. Biden Jr. repeatedly ripped into each other on Tuesday as unfit to lead the country as they both traveled to the battleground state of Iowa, giving voters a preview of what a general election matchup between the two men might look like.",
+      "publication_date": "2019-06-11T13:41:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/11/us/politics/iowa-trump-biden.html",
+      "byline": "By Katie Glueck and Annie Karni"
+    },
+    {
+      "headline": "China Moves to Close Gap in Trade Expertise as Clash With Trump Intensifies",
+      "snippet": "Beijing called in one of its most experienced negotiators on trade policy shortly before talks with the United States collapsed, adding a veteran voice at a critical moment.",
+      "abstract": "Beijing called in one of its most experienced negotiators on trade policy shortly before talks with the United States collapsed, adding a veteran voice at a critical moment.",
+      "lead_paragraph": "BEIJING — Two weeks before talks between the United States and China broke down, Beijing quietly called one of its most formidable trade negotiators out of a pre-retirement posting.",
+      "publication_date": "2019-06-11T15:39:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/11/business/china-trade-talks-expertise.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Birthright Trips, a Rite of Passage for Many Jews, Are Now a Target of Protests",
+      "snippet": "For nearly 20 years, Birthright has bolstered Jewish identity with free trips to Israel. But now some young Jewish activists are protesting the trips.",
+      "abstract": "For nearly 20 years, Birthright has bolstered Jewish identity with free trips to Israel. But now some young Jewish activists are protesting the trips.",
+      "lead_paragraph": "Halfway through a 10-day tour in Israel, Risa Nagel had a decision to make.",
+      "publication_date": "2019-06-11T15:55:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/11/us/israel-birthright-jews-protests.html",
+      "byline": "By Farah Stockman"
+    }
+  ]
+}

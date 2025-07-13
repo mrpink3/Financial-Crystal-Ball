@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-12-11",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "‘Is Exxon a Survivor?’ The Oil Giant Is at a Crossroads.",
+      "snippet": "Exxon Mobil is struggling to find its footing as demand for oil and gas falls and world leaders and businesses pledge to fight climate change.",
+      "abstract": "Exxon Mobil is struggling to find its footing as demand for oil and gas falls and world leaders and businesses pledge to fight climate change.",
+      "lead_paragraph": "HOUSTON — Over the last 135 years, Exxon Mobil has survived hostile governments, ill-fated investments and the catastrophic Exxon Valdez oil spill. Through it all, the oil company made bundles of money.",
+      "publication_date": "2020-12-10T16:52:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/10/business/energy-environment/exxon-mobil-pandemic-energy-transition.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Airlines Gear Up to Transport Vaccines That Could Revive Travel",
+      "snippet": "Planes are one part of an elaborate supply chain to move billions of doses of vaccines around the world.",
+      "abstract": "Planes are one part of an elaborate supply chain to move billions of doses of vaccines around the world.",
+      "lead_paragraph": "Months before anyone knew which of the coronavirus vaccine candidates would pull ahead or when they’d be available, airlines were trying to figure out how to transport doses around the world.",
+      "publication_date": "2020-12-10T17:59:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/10/business/airlines-vaccines-coronavirus.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Airbnb Tops $100 Billion on First Day of Trading, Reviving Talk of a Bubble",
+      "snippet": "The home-rental company’s blockbuster I.P.O. followed that of the delivery company DoorDash. Investors piled into both.",
+      "abstract": "The home-rental company’s blockbuster I.P.O. followed that of the delivery company DoorDash. Investors piled into both.",
+      "lead_paragraph": "SAN FRANCISCO — Over the last decade, Airbnb has upended the travel industry, riled regulators, frustrated local communities and created a mini-economy of short-term rental operators, all while spinning a warm narrative of belonging and connection.",
+      "publication_date": "2020-12-10T18:48:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/10/technology/airbnb-tops-100-billion-on-first-day-of-trading-reviving-talk-of-a-bubble.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Unemployment Claims Jump, Casting New Shadow Over U.S. Economy",
+      "snippet": "The recent coronavirus surge is taking a toll on jobs that one economist calls “a slow-moving disaster.”",
+      "abstract": "The recent coronavirus surge is taking a toll on jobs that one economist calls “a slow-moving disaster.”",
+      "lead_paragraph": "When coronavirus cases began rising across the country this fall, economists sounded a warning: Without government aid, layoffs were sure to follow.",
+      "publication_date": "2020-12-10T20:50:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/10/business/economy/unemployment-claims.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Student Loan Cancellation Sets Up Clash Between Biden and the Left",
+      "snippet": "Democratic leaders are pressing the president-elect to cancel $50,000 in debt per student borrower by fast executive action, but he wants Congress to pass more modest relief.",
+      "abstract": "Democratic leaders are pressing the president-elect to cancel $50,000 in debt per student borrower by fast executive action, but he wants Congress to pass more modest relief.",
+      "lead_paragraph": "WASHINGTON — President-elect Joseph R. Biden Jr. is facing pressure from congressional Democrats to cancel student loan debt on a vast scale, quickly and by executive action, a campaign that will be one of the first tests of his relationship with the liberal wing of his party.",
+      "publication_date": "2020-12-10T22:06:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/10/us/politics/biden-student-loans.html",
+      "byline": "By Erica L. Green, Luke Broadwater and Stacy Cowley"
+    },
+    {
+      "headline": "‘Numb’ and ‘Heartbroken,’ the U.S. Confronts Record Virus Deaths",
+      "snippet": "For the first time, the United States reported more than 3,000 coronavirus deaths in a day. But with cases still rising, experts warn “the worst is yet to come.”",
+      "abstract": "For the first time, the United States reported more than 3,000 coronavirus deaths in a day. But with cases still rising, experts warn “the worst is yet to come.”",
+      "lead_paragraph": "DALLAS — Lillian Blancas was a fighter, a proud daughter of immigrants, part of the first generation in her family to attend college and a lawyer in El Paso who was on the brink of fulfilling her dream of becoming a judge.",
+      "publication_date": "2020-12-11T00:09:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/10/us/coronavirus-death-record.html",
+      "byline": "By Sarah Mervosh, Giulia McDonnell Nieto del Rio and Neil MacFarquhar"
+    },
+    {
+      "headline": "Jobless Benefits Saved Them, Until States Wanted the Money Back",
+      "snippet": "A pandemic relief program allows no forgiveness of overpayments, even when recipients are not at fault and the funds are already spent.",
+      "abstract": "A pandemic relief program allows no forgiveness of overpayments, even when recipients are not at fault and the funds are already spent.",
+      "lead_paragraph": "Unemployment payments that looked like a lifeline may now, for many, become their ruin.",
+      "publication_date": "2020-12-11T10:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/11/business/economy/unemployment-benefit-payback.html",
+      "byline": "By Gillian Friedman"
+    }
+  ]
+}

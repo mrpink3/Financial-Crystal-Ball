@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2012-03-01",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Smartphones Have Led, and Desktops Will Follow",
+      "snippet": "In their new operating systems, Windows 8 and Mountain Lion, Microsoft and Apple are heading up the effort to make computers more like mobile devices.",
+      "abstract": "In their new operating systems, Windows 8 and Mountain Lion, Microsoft and Apple are heading up the effort to make computers more like mobile devices.",
+      "lead_paragraph": "BARCELONA, Spain — These days much of the action in the world of gadgets is happening in smartphones — like their sophisticated design and the apps that run on them. That has left desktop and laptop computers looking a little dull in comparison. ",
+      "publication_date": "2012-03-01T01:42:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/01/technology/apple-and-microsoft-make-computers-more-phonelike.html",
+      "byline": "By Jenna Wortham and Nick Wingfield"
+    },
+    {
+      "headline": "After Many Tough Choices, the Choice to Quit",
+      "snippet": "Senator Olympia J. Snowe’s decision to leave the Senate, announced as a divisive vote on health care coverage loomed, reflected growing unease among moderates.",
+      "abstract": "Senator Olympia J. Snowe’s decision to leave the Senate, announced as a divisive vote on health care coverage loomed, reflected growing unease among moderates.",
+      "lead_paragraph": "WASHINGTON — The looming Senate vote on a Republican plan to give employers the right to withdraw health care coverage based on religious and moral convictions put Senator Olympia J. Snowe in a tough but familiar position: weighing her own views as a Republican centrist against pressure from fellow Republicans to support the party position.",
+      "publication_date": "2012-03-01T02:12:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/01/us/after-many-tough-choices-the-choice-to-quit.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Black Eye for Ticket Reseller",
+      "snippet": "The arrest of Don Vaccaro, the head of TicketNetwork, has sent his political supporters scattering as the online ticket industry faces increasing scrutiny.",
+      "abstract": "The arrest of Don Vaccaro, the head of TicketNetwork, has sent his political supporters scattering as the online ticket industry faces increasing scrutiny.",
+      "lead_paragraph": "It was the kind of disturbance that could have happened anywhere alcohol flows free. But an outburst early Monday at an Oscars party in Connecticut has also cast a shadow over a fast-growing and controversial side of the entertainment business: the online market for scalped tickets.",
+      "publication_date": "2012-03-01T02:25:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/01/business/ticketnetwork-chiefs-arrest-clouds-industry.html",
+      "byline": "By Ben Sisario"
+    },
+    {
+      "headline": "For Impatient Web Users, an Eye Blink Is Just Too Long to Wait",
+      "snippet": "The tech industry is doubling down on efforts to speed up the Web as people refuse to wait even 250 milliseconds for a page to load.",
+      "abstract": "The tech industry is doubling down on efforts to speed up the Web as people refuse to wait even 250 milliseconds for a page to load.",
+      "lead_paragraph": "Wait a second.",
+      "publication_date": "2012-03-01T02:38:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/01/technology/impatient-web-users-flee-slow-loading-sites.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "President Offers Theme of Nation Seeing a Comeback",
+      "snippet": "While Republicans point to the country’s ills, President Obama is presenting a message of optimism, which some say could backfire if the economy declines.",
+      "abstract": "While Republicans point to the country’s ills, President Obama is presenting a message of optimism, which some say could backfire if the economy declines.",
+      "lead_paragraph": "WASHINGTON — President Obama has a new message: America has gotten its groove back. ",
+      "publication_date": "2012-03-01T02:53:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/01/us/politics/president-offers-theme-of-nation-seeing-comeback.html",
+      "byline": "By Helene Cooper"
+    },
+    {
+      "headline": "Turnaround King Tries to Convince Investors He Hasn’t Lost a Step",
+      "snippet": "Wilbur L. Ross Jr. provided some indication of the future of his firm, W. L. Ross, in a letter to investors, but, like many aging business titans, the line of succession has been a looming question.",
+      "abstract": "Wilbur L. Ross Jr. provided some indication of the future of his firm, W. L. Ross, in a letter to investors, but, like many aging business titans, the line of succession has been a looming question.",
+      "lead_paragraph": "Over the last decade on Wall Street, Wilbur L. Ross Jr. has been called many names, including a vulture, a turnaround king and Mr. Distress.",
+      "publication_date": "2012-03-01T03:34:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/01/business/wilbur-ross-with-succession-question-faces-challenge-in-raising-new-fund.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "Tensions Raise Specter of Gas at $5 a Gallon",
+      "snippet": "Prices typically rise about 20 cents in the summer, and a major disruption in oil supplies could add another 50 cents a gallon, analysts say.",
+      "abstract": "Prices typically rise about 20 cents in the summer, and a major disruption in oil supplies could add another 50 cents a gallon, analysts say.",
+      "lead_paragraph": "HOUSTON — Gasoline for $5 a gallon? The possibility is hardly far-fetched.",
+      "publication_date": "2012-03-01T03:41:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/01/business/energy-environment/tensions-raise-specter-of-gas-at-5-a-gallon.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Syrian Forces Overwhelm Stronghold of Rebels in Homs",
+      "snippet": "The defeat of insurgents in an embattled city set the stage for elite soldiers to turn to other redoubts of Syria’s uprising, as international demands for a cease-fire intensify.",
+      "abstract": "The defeat of insurgents in an embattled city set the stage for elite soldiers to turn to other redoubts of Syria’s uprising, as international demands for a cease-fire intensify.",
+      "lead_paragraph": "BEIRUT, Lebanon — The Syrian Army overwhelmed the main rebel stronghold in the embattled city of Homs on Thursday, setting the stage for its elite soldiers to turn their attention — and superior firepower — to other insurgent redoubts farther north, despite the increasing international pressure for a cease-fire and humanitarian access.",
+      "publication_date": "2012-03-01T09:14:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/02/world/middleeast/rebels-resisting-onslaught-in-syrian-city-activists-say.html",
+      "byline": "By Neil MacFarquhar"
+    },
+    {
+      "headline": "Illinois Town All Too Versed in Taking a Hit",
+      "snippet": "Even before a tornado tore through this small southern Illinois city, killing six people, Harrisburg had seen trouble. And they have had to rebuild, over and over.",
+      "abstract": "Even before a tornado tore through this small southern Illinois city, killing six people, Harrisburg had seen trouble. And they have had to rebuild, over and over.",
+      "lead_paragraph": "HARRISBURG, Ill. — Even before a tornado tore through this small southern Illinois city, leaving residents cowering inside closets as ceilings tore away, huddling under mattresses showered with glass and metal and wood, hiding inside bathtubs that had somehow lost their bathrooms, Harrisburg had seen trouble. ",
+      "publication_date": "2012-03-01T13:31:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/03/02/us/in-illinois-tornados-devastation-sinks-in.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "Auto Sales Pick Up Pace Despite Rising Gas Prices",
+      "snippet": "The pace of auto sales last month was the highest in four years, and all three Detroit carmakers reported sales gains.",
+      "abstract": "The pace of auto sales last month was the highest in four years, and all three Detroit carmakers reported sales gains.",
+      "lead_paragraph": "DETROIT — Auto sales jumped 16 percent last month to the highest level since before the recession, helped by declining unemployment and improving consumer confidence even as gasoline prices topped $4 a gallon in parts of the country.",
+      "publication_date": "2012-03-01T15:08:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/03/02/business/ford-and-chrysler-report-sales-gains-despite-gas-prices.html",
+      "byline": "By Nick Bunkley"
+    }
+  ]
+}

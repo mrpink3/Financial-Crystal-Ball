@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2020-05-15",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Amazon’s Showdown in France Tests Its Ability to Sidestep Labor",
+      "snippet": "The pandemic has intensified the push-pull between labor and the retail giant, which is required by European law to deal with unions — and has prospered anyway.",
+      "abstract": "The pandemic has intensified the push-pull between labor and the retail giant, which is required by European law to deal with unions — and has prospered anyway.",
+      "lead_paragraph": "PARIS — Workers at Amazon’s six mammoth French warehouses won some concessions from the company in late March: After hundreds of employees threatened to walk out unless the company better protected them from the coronavirus, the internet giant strengthened social distancing measures, provided masks and hand sanitizer and took employee temperatures.",
+      "publication_date": "2020-05-14T17:44:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
+      "byline": "By Liz Alderman and Adam Satariano"
+    },
+    {
+      "headline": "The Pandemic Helped Topple Two Retailers. So Did Private Equity.",
+      "snippet": "At a time when J. Crew and Neiman Marcus needed to be investing money to adjust to changing shopping habits, enormous sums were going to their owners.",
+      "abstract": "At a time when J. Crew and Neiman Marcus needed to be investing money to adjust to changing shopping habits, enormous sums were going to their owners.",
+      "lead_paragraph": "J. Crew and Neiman Marcus were each facing a host of issues before the coronavirus pandemic forced them to close their stores and eventually file for bankruptcy, including trouble adjusting to the rise of e-commerce and a lack of connection with a new generation of shoppers.",
+      "publication_date": "2020-05-14T20:03:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/14/business/coronavirus-retail-bankruptcies-private-equity.html",
+      "byline": "By Sapna Maheshwari and Vanessa Friedman"
+    },
+    {
+      "headline": "Changing Subject Amid a Pandemic, Trump Turns to an Old Ploy: Blame Obama",
+      "snippet": "After pressure from the president, Senator Lindsey Graham agreed to hold a hearing, but he rebuffed Mr. Trump’s suggestion that his predecessor be called to testify.",
+      "abstract": "After pressure from the president, Senator Lindsey Graham agreed to hold a hearing, but he rebuffed Mr. Trump’s suggestion that his predecessor be called to testify.",
+      "lead_paragraph": "WASHINGTON — President Trump has embarked on an aggressive new drive to rewrite the narrative of the Russia investigation by making dark and unsubstantiated accusations that former President Barack Obama masterminded a sinister plot to bring him down.",
+      "publication_date": "2020-05-15T00:39:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/14/us/politics/trump-obama.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Movie Theaters Are on the Brink. Can Wine and Cheese Save Them?",
+      "snippet": "The industry faces an existential threat from the coronavirus and streaming. Maybe it can innovate its way out of trouble.",
+      "abstract": "The industry faces an existential threat from the coronavirus and streaming. Maybe it can innovate its way out of trouble.",
+      "lead_paragraph": "When the Spanish-Revival-style Roxy opened on Broadway in 1927, the 5,900-seat movie theater boasted an enormous pipe organ with three keyboards and its own 110-member symphony orchestra. A mechanical orchestra pit rose and receded before screenings. The theater employed a male chorus, a ballet company and a chorus line called the Roxyettes.",
+      "publication_date": "2020-05-15T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/15/business/movie-theaters-coronavirus.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Coronavirus Seemingly Tamed, Chinese Economy Starts to Recover",
+      "snippet": "But weak sales at stores and a stall in export orders raise fears of a possible second downturn this summer.",
+      "abstract": "But weak sales at stores and a stall in export orders raise fears of a possible second downturn this summer.",
+      "lead_paragraph": "BEIJING — China has turned its factories back on after bringing the coronavirus outbreak largely under control within its borders. The question now is who will buy the goods those factories make.",
+      "publication_date": "2020-05-15T07:25:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/15/business/china-economy-coronavirus.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "DeVos Funnels Coronavirus Relief Funds to Favored Private and Religious Schools",
+      "snippet": "Education Secretary Betsy DeVos, using discretion written into the coronavirus stabilization law, is using millions of dollars to pursue long-sought policy goals that Congress has blocked.",
+      "abstract": "Education Secretary Betsy DeVos, using discretion written into the coronavirus stabilization law, is using millions of dollars to pursue long-sought policy goals that Congress has blocked.",
+      "lead_paragraph": "WASHINGTON — Education Secretary Betsy DeVos is using the $2 trillion coronavirus stabilization law to throw a lifeline to education sectors she has long championed, directing millions of federal dollars intended primarily for public schools and colleges to private and religious schools.",
+      "publication_date": "2020-05-15T09:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/15/us/politics/betsy-devos-coronavirus-religious-schools.html",
+      "byline": "By Erica L. Green"
+    },
+    {
+      "headline": "Young Adults Take Refuge in Parents’ Empty Nests",
+      "snippet": "Going home to ride out the pandemic can offer security, but with a downside: lost independence and “totally arrested development.”",
+      "abstract": "Going home to ride out the pandemic can offer security, but with a downside: lost independence and “totally arrested development.”",
+      "lead_paragraph": "Andrea Yoch loves her adult sons, but would also love to not live with them.",
+      "publication_date": "2020-05-15T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "ST",
+      "web_url": "https://www.nytimes.com/2020/05/15/business/economy/coronavirus-parents-home.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "A 92-Year-Old Piano Teacher Won’t Let Students Miss Bach in the Pandemic",
+      "snippet": "Cornelia Vertenstein, a Holocaust survivor, is still teaching piano lessons over FaceTime from her Denver home.",
+      "abstract": "Cornelia Vertenstein, a Holocaust survivor, is still teaching piano lessons over FaceTime from her Denver home.",
+      "lead_paragraph": "For more than 50 years, Cornelia Vertenstein, 92, has taught piano lessons from her home in Denver. Every week, through all those years, a parade of children came to her door, books in hand.",
+      "publication_date": "2020-05-15T09:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/15/us/virus-piano-lessons.html",
+      "byline": "By John Branch"
+    },
+    {
+      "headline": "Hospitals Knew How to Make Money. Then Coronavirus Happened.",
+      "snippet": "Surgeries are canceled. Business models are shifting. Some of the hardest-hit hospitals may close, leaving patients with fewer options for care.",
+      "abstract": "Surgeries are canceled. Business models are shifting. Some of the hardest-hit hospitals may close, leaving patients with fewer options for care.",
+      "lead_paragraph": "When the top-ranked Mayo Clinic stopped all nonemergency medical care in late March, it began to lose millions of dollars a day.",
+      "publication_date": "2020-05-15T09:00:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/15/us/hospitals-revenue-coronavirus.html",
+      "byline": "By Sarah Kliff"
+    },
+    {
+      "headline": "When Shoppers Venture Out, What Will Be Left?",
+      "snippet": "A 16.4 percent sales decline in April may signal the bottom for retailers, but the climb back will be hard, and some companies may not make it.",
+      "abstract": "A 16.4 percent sales decline in April may signal the bottom for retailers, but the climb back will be hard, and some companies may not make it.",
+      "lead_paragraph": "The coronavirus pandemic dealt another crushing blow to retailers in April. Now the question is what the sector will look like as the economy reopens — and how much permanent damage has been inflicted.",
+      "publication_date": "2020-05-15T12:35:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/15/business/economy/coronavirus-retail-reopening.html",
+      "byline": "By Ben Casselman and Sapna Maheshwari"
+    },
+    {
+      "headline": "How Wall Street Is Hampering Some Small Businesses Seeking Aid",
+      "snippet": "To get government help, some owners who borrowed money from credit funds and bond investors  had to fight their lenders first.",
+      "abstract": "To get government help, some owners who borrowed money from credit funds and bond investors  had to fight their lenders first.",
+      "lead_paragraph": "When Michael Sullivan borrowed $22 million from a specialist Wall Street lender in 2018 to buy and renovate two Florida hotels, he had no idea how costly that decision would prove to be.",
+      "publication_date": "2020-05-15T15:27:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/15/business/small-business-coronavirus-loans.html",
+      "byline": "By Emily Flitter"
+    },
+    {
+      "headline": "From ‘Respect’ to ‘Sick and Twisted’: How Coronavirus Hit U.S.-China Ties",
+      "snippet": "A sharp escalation of tensions over the handling of the pandemic has raised the specter of a new Cold War.",
+      "abstract": "A sharp escalation of tensions over the handling of the pandemic has raised the specter of a new Cold War.",
+      "lead_paragraph": "“Evil.” “Lunacy.” “Shameless.” “Sick and twisted.” China has hit back at American criticism over its handling of the coronavirus pandemic with an outpouring of vitriol as acrid as anything seen in decades.",
+      "publication_date": "2020-05-15T15:53:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/15/world/asia/coronavirus-china-united-states-cold-war.html",
+      "byline": "By Chris Buckley and Steven Lee Myers"
+    }
+  ]
+}

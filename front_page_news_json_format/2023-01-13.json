@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-01-13",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Don’t Ban ChatGPT in Schools. Teach With It.",
+      "snippet": "OpenAI’s new chatbot is raising fears of cheating on homework, but its potential as an educational tool outweighs its risks.",
+      "abstract": "OpenAI’s new chatbot is raising fears of cheating on homework, but its potential as an educational tool outweighs its risks.",
+      "lead_paragraph": "Recently, I gave a talk to a group of K-12 teachers and public school administrators in New York. The topic was artificial intelligence, and how schools would need to adapt to prepare students for a future filled with all kinds of capable A.I. tools.",
+      "publication_date": "2023-01-12T16:26:51+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.",
+      "snippet": "As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.",
+      "abstract": "As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.",
+      "lead_paragraph": "When a chatbot called ChatGPT hit the internet late last year, executives at a number of Silicon Valley companies worried they were suddenly dealing with new artificial intelligence technology that could disrupt their businesses.",
+      "publication_date": "2023-01-12T23:16:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/12/technology/microsoft-openai-chatgpt.html",
+      "byline": "By Cade Metz and Karen Weise"
+    },
+    {
+      "headline": "Western Tanks Appear Headed to Ukraine, Breaking Another Taboo",
+      "snippet": "The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.",
+      "abstract": "The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.",
+      "lead_paragraph": "Western officials increasingly fear that Ukraine has only a narrow window to prepare to repel an anticipated Russian springtime offensive, and are moving fast to give the Ukrainians sophisticated weapons they had earlier refused to send for fear of provoking Moscow.",
+      "publication_date": "2023-01-12T23:33:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/12/world/europe/ukraine-western-tanks.html",
+      "byline": "By Lara Jakes and Steven Erlanger"
+    },
+    {
+      "headline": "Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen",
+      "snippet": "Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.",
+      "abstract": "Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.",
+      "lead_paragraph": "MOSCOW, Idaho — A criminology Ph.D. student charged with stabbing four University of Idaho students to death had written years ago of having suicidal thoughts, not being able to feel emotions and observing his own life as if it were a video game, saying he could do “whatever I want with little remorse.”",
+      "publication_date": "2023-01-13T10:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/13/us/idaho-murders-bryan-kohberger.html",
+      "byline": "By Mike Baker and Nicholas Bogel-Burroughs"
+    },
+    {
+      "headline": "In a Drought, California Is Watching Water Wash Out to Sea",
+      "snippet": "Heavy storms have flooded parts of California, but the state has been unable to capture billions of gallons of water that are flowing unchecked into the ocean. Los Angeles is embarking on an ambitious new program to change that.",
+      "abstract": "Heavy storms have flooded parts of California, but the state has been unable to capture billions of gallons of water that are flowing unchecked into the ocean. Los Angeles is embarking on an ambitious new program to change that.",
+      "lead_paragraph": "LOS ANGELES — A century ago, Los Angeles built what is still widely considered one of the most sophisticated urban flood control systems in the world, designed to hold back waters from massive Pacific storms like the ones that have recently slammed the state.",
+      "publication_date": "2023-01-13T10:00:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/13/us/california-drought-storms-water-storage.html",
+      "byline": "By Ralph Vartabedian and Mette Lampcov"
+    },
+    {
+      "headline": "Tesla Cuts Prices Sharply as It Moves to Bolster Demand",
+      "snippet": "The price reductions in the United States will make more of the company’s electric vehicles eligible for a federal tax credit.",
+      "abstract": "The price reductions in the United States will make more of the company’s electric vehicles eligible for a federal tax credit.",
+      "lead_paragraph": "Tesla has cut prices on most of its electric cars in the United States and Europe by as much as 20 percent in a bid to spur slackening demand.",
+      "publication_date": "2023-01-13T13:44:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/13/business/tesla-price-cut.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Biden and Kishida Vow to Bolster U.S.-Japan Alliance as China’s Power Grows",
+      "snippet": "The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.",
+      "abstract": "The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.",
+      "lead_paragraph": "WASHINGTON — President Biden and Prime Minister Fumio Kishida of Japan vowed Friday to work together to transform Japan into a potent military power to help counterbalance China and to bolster the alliance between the two nations so that it becomes the linchpin for their security interests in Asia.",
+      "publication_date": "2023-01-13T15:19:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/13/us/politics/biden-kishida-japan.html",
+      "byline": "By Edward Wong"
+    }
+  ]
+}

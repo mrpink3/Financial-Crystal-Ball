@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-12-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Elon Musk’s $50 Billion Tesla Pay Can’t Be Reinstated, Delaware Judge Rules",
+      "snippet": "The judge said she would not reverse her decision to strike down the package after Tesla shareholders approved it a second time.",
+      "abstract": "The judge said she would not reverse her decision to strike down the package after Tesla shareholders approved it a second time.",
+      "lead_paragraph": "A Delaware judge on Monday affirmed an earlier ruling that rescinded a giant pay package that Tesla had awarded its chief executive, Elon Musk.",
+      "publication_date": "2024-12-02T22:20:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/02/business/elon-musk-tesla-pay-ruling.html",
+      "byline": "By Peter Eavis and Jack Ewing"
+    },
+    {
+      "headline": "Pardoning Hunter Complicates the Legacy That Biden Envisioned",
+      "snippet": "President Biden is facing criticism for absolving his son after insisting he would not and, according to some critics in his own party, paving the way for Donald Trump’s return to office.",
+      "abstract": "President Biden is facing criticism for absolving his son after insisting he would not and, according to some critics in his own party, paving the way for Donald Trump’s return to office.",
+      "lead_paragraph": "There was a time, not that long ago, when President Biden imagined he would etch his place in history as the leader who ended the chaotic reign of Donald J. Trump, passed a raft of “Build Back Better” laws to transform the country and reestablished America’s place in the world.",
+      "publication_date": "2024-12-03T01:18:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/02/us/politics/biden-pardon-criticized-democrats.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Google Worried Israeli Contract Could Enable Human Rights Violations",
+      "snippet": "The tech giant, which has defended the deal to employees who oppose supplying Israel’s military with technology, feared the project might damage its reputation.",
+      "abstract": "The tech giant, which has defended the deal to employees who oppose supplying Israel’s military with technology, feared the project might damage its reputation.",
+      "lead_paragraph": "In May 2021, Google announced it had agreed to participate in a $1.2 billion cloud computing contract with the Israeli government and military, saying it was “delighted to have been chosen to help digitally transform” the country.",
+      "publication_date": "2024-12-03T10:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/03/technology/google-israel-contract-project-nimbus.html",
+      "byline": "By Nico Grant"
+    },
+    {
+      "headline": "Inside the Supreme Court Ethics Debate: Who Judges the Justices?",
+      "snippet": "In private meetings and memos, the justices made new rules for themselves — then split on whether they could, or should, be enforced.",
+      "abstract": "In private meetings and memos, the justices made new rules for themselves — then split on whether they could, or should, be enforced.",
+      "lead_paragraph": "As the summer of 2023 ended, the justices of the U.S. Supreme Court began trading even-more-confidential-than-usual memos, avoiding their standard email list and instead passing paper documents in envelopes to each other’s chambers. Faced with ethics controversies and a plunge in public trust, they were debating rules for their own conduct, according to people familiar with the process.",
+      "publication_date": "2024-12-03T10:00:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/03/us/supreme-court-ethics-rules.html",
+      "byline": "By Jodi Kantor and Abbie VanSickle"
+    },
+    {
+      "headline": "Supreme Court Returns to a Culture War Battleground: Transgender Rights",
+      "snippet": "On Wednesday, the justices will hear the marquee case of the term, a challenge to a Tennessee law banning several forms of medical care for transgender youths.",
+      "abstract": "On Wednesday, the justices will hear the marquee case of the term, a challenge to a Tennessee law banning several forms of medical care for transgender youths.",
+      "lead_paragraph": "A little more than four years ago, the Supreme Court delivered a surprise victory to L.G.B.T.Q. communities. Rejecting the position of the Trump administration, the court ruled by a lopsided margin that a federal civil rights law protected transgender people from workplace discrimination.",
+      "publication_date": "2024-12-03T10:03:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/03/us/supreme-court-transgender-rights-hearing.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "U.S. Moves to End a Minimum Wage Waiver for Disabled Workers",
+      "snippet": "A plan by the Biden administration would phase out a provision that allows employers to pay workers with disabilities less than the federal minimum wage.",
+      "abstract": "A plan by the Biden administration would phase out a provision that allows employers to pay workers with disabilities less than the federal minimum wage.",
+      "lead_paragraph": "The Biden administration on Tuesday moved to end a program that has for decades allowed companies to pay workers with disabilities less than the minimum wage.",
+      "publication_date": "2024-12-03T15:56:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/03/business/economy/labor-disability-pay.html",
+      "byline": "By Danielle Kaye"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-12-09",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Hackers Attack Those Seen as WikiLeaks Enemies",
+      "snippet": "Activists attacked sites of companies like Mastercard that took action against WikiLeaks; a counterattack on hackers’ sites followed.",
+      "abstract": "Activists attacked sites of companies like Mastercard that took action against WikiLeaks; a counterattack on hackers’ sites followed.",
+      "lead_paragraph": "LONDON  In a campaign that had some declaring the start of a “cyberwar,” hundreds of Internet activists mounted retaliatory attacks on Wednesday on the Web sites of multinational companies and other organizations they deemed hostile to the WikiLeaks antisecrecy organization and its jailed founder, Julian Assange.",
+      "publication_date": "2010-12-08T16:36:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/09/world/09wiki.html",
+      "byline": "By John F. Burns and Ravi Somaiya"
+    },
+    {
+      "headline": "The Future, Touchable and in Color",
+      "snippet": "Forget those bland “black text on gray, no touch screen” e-book readers. Here’s Nook Color, a reader from Barnes & Noble with a color touch screen.",
+      "abstract": "Forget those bland “black text on gray, no touch screen” e-book readers. Here’s Nook Color, a reader from Barnes & Noble with a color touch screen.",
+      "lead_paragraph": "E-book readers like the Amazon Kindle may be all the rage this holiday season. But five years from now, they’ll seem as laughably primitive as the Commodore 64.",
+      "publication_date": "2010-12-08T22:01:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/09/technology/personaltech/09pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Smelling an Opportunity",
+      "snippet": "Tide Dry Cleaners is a new chain of franchises, and a way for Procter & Gamble to expand the Tide brand name.",
+      "abstract": "Tide Dry Cleaners is a new chain of franchises, and a way for Procter & Gamble to expand the Tide brand name.",
+      "lead_paragraph": "MASON, Ohio — For more than a decade, some of the nation’s shrewdest marketers have tried to muscle in on the neighborhood dry cleaner, only to give up after years of labor and millions of dollars in investments.",
+      "publication_date": "2010-12-08T22:06:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/09/business/09tide.html",
+      "byline": "By Andrew Martin"
+    },
+    {
+      "headline": "Hackers Give Web Companies a Test of Free Speech",
+      "snippet": "Facebook and Twitter face tough decisions around how they should handle situations as politically charged as the WikiLeaks developments.",
+      "abstract": "Facebook and Twitter face tough decisions around how they should handle situations as politically charged as the WikiLeaks developments.",
+      "lead_paragraph": " A hacking free-for-all has exploded on the Web, and Facebook and Twitter are stuck in the middle. ",
+      "publication_date": "2010-12-09T00:51:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/09/technology/09net.html",
+      "byline": "By Ashlee Vance and Miguel Helft"
+    },
+    {
+      "headline": "U.S. Union Backing Boosts Korea Trade Pact",
+      "snippet": "Two unions have broken with organized labor’s traditional opposition to free-trade agreements.",
+      "abstract": "Two unions have broken with organized labor’s traditional opposition to free-trade agreements.",
+      "lead_paragraph": "An unusual split in the labor movement has developed over President Obama’s proposed free-trade pact with South Korea, with two powerful unions backing the deal — a development that experts say will make Congressional ratification far more likely.",
+      "publication_date": "2010-12-09T01:40:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/09/business/global/09trade.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Bond Yields Continue Their Climb",
+      "snippet": "Extension of the Bush tax cuts has stoked concerns in the bond market over Washington’s ability to control its budget deficit.",
+      "abstract": "Extension of the Bush tax cuts has stoked concerns in the bond market over Washington’s ability to control its budget deficit.",
+      "lead_paragraph": "Investors sold Treasuries for a second consecutive day on Wednesday, sending interest rates higher in response to the tentative deal to extend Bush-era tax cuts even as the Federal Reserve was trying aggressively to keep borrowing costs low.",
+      "publication_date": "2010-12-09T01:45:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/09/business/economy/09place.html",
+      "byline": "By Christine Hauser"
+    },
+    {
+      "headline": "Web Attackers Find a Cause in WikiLeaks",
+      "snippet": "Loosely united Internet pranksters have evolved into a political movement for an unfettered Internet.",
+      "abstract": "Loosely united Internet pranksters have evolved into a political movement for an unfettered Internet.",
+      "lead_paragraph": "They got their start years ago as cyberpranksters, an online community of tech-savvy kids more interested in making mischief than political statements. ",
+      "publication_date": "2010-12-09T12:04:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/10/world/10wiki.html",
+      "byline": "By Noam Cohen"
+    },
+    {
+      "headline": "Day Trading Still Alive, Outsourced to China",
+      "snippet": "Trading firms based in the United States and Canada are recruiting inexpensive workers in China and teaching them to engage in speculative trading.",
+      "abstract": "Trading firms based in the United States and Canada are recruiting inexpensive workers in China and teaching them to engage in speculative trading.",
+      "lead_paragraph": "BEIJING  Before the opening bell sounded on the New York Stock Exchange on a recent Tuesday, a group of fresh college graduates clocked in at a small trading firm on the outskirts of this capital city. ",
+      "publication_date": "2010-12-09T15:27:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/10/business/global/10daytrade.html",
+      "byline": "By David Barboza"
+    }
+  ]
+}

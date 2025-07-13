@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2022-07-20",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Netflix Says It Lost Nearly 1 Million Subscribers, and Breathes a Sigh of Relief",
+      "snippet": "The streaming giant, facing significant headwinds, had said it expected to lose two million subscribers in the second quarter.",
+      "abstract": "The streaming giant, facing significant headwinds, had said it expected to lose two million subscribers in the second quarter.",
+      "lead_paragraph": "Disaster has been averted at Netflix.",
+      "publication_date": "2022-07-19T17:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/19/business/media/netflix-earnings.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Europe’s Heat Wave Shatters British Records and Drives Wildfires",
+      "snippet": "Europe is ill prepared for extreme heat fed by global warming. For the first time on record, parts of Britain hit 40 degrees Celsius — 104 Fahrenheit — as did Paris for only the third time.",
+      "abstract": "Europe is ill prepared for extreme heat fed by global warming. For the first time on record, parts of Britain hit 40 degrees Celsius — 104 Fahrenheit — as did Paris for only the third time.",
+      "lead_paragraph": "LONDON — For the first time on record, Britain suffered under temperatures above 40 degrees Celsius — 104 Fahrenheit — on Tuesday, as a ferocious heat wave moved northwest, leaving a trail of raging wildfires, lost lives and evacuated homes across a Europe frighteningly ill-equipped to cope with the new reality of extreme weather.",
+      "publication_date": "2022-07-19T21:13:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/19/world/europe/europe-uk-heat-record-wildfires.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "House Moves to Protect Same-Sex Marriage From Supreme Court Reversal",
+      "snippet": "The legislation, which garnered some Republican support, would recognize same-sex marriages at the federal level. It faces an uncertain path in the Senate.",
+      "abstract": "The legislation, which garnered some Republican support, would recognize same-sex marriages at the federal level. It faces an uncertain path in the Senate.",
+      "lead_paragraph": "WASHINGTON — The House on Tuesday passed a bill that would recognize same-sex marriages at the federal level, with a bipartisan coalition supporting a measure that addresses growing concerns that a conservative Supreme Court could nullify marriage equality.",
+      "publication_date": "2022-07-19T22:00:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/19/us/politics/house-gay-marriage-bill.html",
+      "byline": "By Stephanie Lai"
+    },
+    {
+      "headline": "Putin Finds a New Ally in Iran, a Fellow Outcast",
+      "snippet": "A three-way summit meeting in Tehran between the leaders of Russia, Iran and Turkey sent a clear signal that Vladimir Putin is pushing back against ostracism from the West.",
+      "abstract": "A three-way summit meeting in Tehran between the leaders of Russia, Iran and Turkey sent a clear signal that Vladimir Putin is pushing back against ostracism from the West.",
+      "lead_paragraph": "President Vladimir V. Putin left Russia for a rare international trip on Tuesday and received a handsome reward: a meeting with a prominent world leader who voiced a full-throated endorsement for Russia’s invasion of Ukraine.",
+      "publication_date": "2022-07-19T23:00:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/19/world/europe/putin-ayatollah-erdogan-summit.html",
+      "byline": "By Anton Troianovski and Farnaz Fassihi"
+    },
+    {
+      "headline": "Trump Electors Targeted in Georgia Criminal Inquiry",
+      "snippet": "A prosecutor in Atlanta is investigating interference in the 2020 presidential election, an inquiry that has engulfed Donald J. Trump and many of his allies.",
+      "abstract": "A prosecutor in Atlanta is investigating interference in the 2020 presidential election, an inquiry that has engulfed Donald J. Trump and many of his allies.",
+      "lead_paragraph": "Prosecutors in Atlanta have informed 16 Trump supporters who formed an alternate slate of 2020 presidential electors from Georgia that they could face charges in an ongoing criminal investigation into election interference, underscoring the risk of criminal charges that Donald J. Trump and many of his allies may be facing in the state.",
+      "publication_date": "2022-07-19T23:03:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/19/us/georgia-trump-electors.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "After Indiana Mall Shooting, One Hero but No Lasting Solution",
+      "snippet": "When a bystander fatally shot an assailant at an Indiana mall, the country again debated the wisdom of easier access to guns.",
+      "abstract": "When a bystander fatally shot an assailant at an Indiana mall, the country again debated the wisdom of easier access to guns.",
+      "lead_paragraph": "It was an act of pluck and composure worthy of a scene in the movies. But this was real life: A heavily armed man emerged from the bathroom in a Greenwood, Ind., shopping mall on Sunday evening and began shooting — until he was killed by an armed bystander.",
+      "publication_date": "2022-07-19T23:53:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/19/us/armed-bystander-indiana-mall-shooting.html",
+      "byline": "By Richard Fausset, Eliza Fawcett and Serge F. Kovaleski"
+    },
+    {
+      "headline": "Fighting a Brutal Regime With the Help of a Video Game",
+      "snippet": "Opponents of the coup in Myanmar have flocked to a new online game that lets players shoot virtual soldiers while raising money for the real-life resistance.",
+      "abstract": "Opponents of the coup in Myanmar have flocked to a new online game that lets players shoot virtual soldiers while raising money for the real-life resistance.",
+      "lead_paragraph": "U Sein Lin, a retired history teacher in Myanmar, had never played a video game in his life. But about a month ago, while scrolling through Facebook, he stumbled on War of Heroes — The PDF Game.",
+      "publication_date": "2022-07-20T09:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/20/business/myanmar-coup-video-game.html",
+      "byline": "By Richard C. Paddock"
+    },
+    {
+      "headline": "Loans Could Burn Start-Up Workers in Downturn",
+      "snippet": "Tech workers took out loans based on the value of their start-up stock in recent years. That may come back to haunt them.",
+      "abstract": "Tech workers took out loans based on the value of their start-up stock in recent years. That may come back to haunt them.",
+      "lead_paragraph": "SAN FRANCISCO — Last year, Bolt Financial, a payments start-up, began a new program for its employees. They owned stock options in the company, some worth millions of dollars on paper, but couldn’t touch that money until Bolt sold or went public. So Bolt began providing them with loans — some reaching hundreds of thousands of dollars — against the value of their stock.",
+      "publication_date": "2022-07-20T09:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/20/technology/loans-startup-employees.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Italy Is Haunted by the Pain of Past Economic Crises",
+      "snippet": "As the European Central Bank prepares to raise interest rates for the first time in more than a decade, the challenges for one of the bloc’s largest economies balloon again.",
+      "abstract": "As the European Central Bank prepares to raise interest rates for the first time in more than a decade, the challenges for one of the bloc’s largest economies balloon again.",
+      "lead_paragraph": "TREVISO, Italy — In the flat plains of Italy’s Veneto region, in a small town about 20 miles north of Venice, Antonio Carpenedo has been developing unusual methods of making cheese. At La Casearia Carpenedo, wheels of cheese are dunked and aged in wine — red, white and Prosecco — while others are covered in hay and aged in barrels.",
+      "publication_date": "2022-07-20T09:10:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/20/business/italy-economy.html",
+      "byline": "By Eshe Nelson, Emma Bubola and Camilla Ferrari"
+    },
+    {
+      "headline": "Seeking Leverage Over Europe, Putin Says Russian Gas Flow Will Resume",
+      "snippet": "President Vladimir Putin warned that the Nord Stream 1 pipeline to Germany would not operate at full capacity after maintenance work.",
+      "abstract": "President Vladimir Putin warned that the Nord Stream 1 pipeline to Germany would not operate at full capacity after maintenance work.",
+      "lead_paragraph": "BERLIN — When the main natural gas artery between Russia and Germany, the Nord Stream 1 pipeline, was taken off-line last week for 10 days of scheduled maintenance, European leaders began bracing for the possibility that President Vladimir V. Putin of Russia would not switch it back on as retaliation for opposing Moscow’s invasion of Ukraine.",
+      "publication_date": "2022-07-20T10:28:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/20/business/energy-environment/nordstream-vladimir-putin-russian-gas.html",
+      "byline": "By Melissa Eddy and Patricia Cohen"
+    },
+    {
+      "headline": "In Argentina, One of the World’s First Bans on Gender-Neutral Language",
+      "snippet": "The city of Buenos Aires blocked the use of gender-inclusive language in schools, reigniting a debate that is reverberating across the world.",
+      "abstract": "The city of Buenos Aires blocked the use of gender-inclusive language in schools, reigniting a debate that is reverberating across the world.",
+      "lead_paragraph": "BUENOS AIRES — Instead of “amigos,” the Spanish word for “friends,” some Spanish speakers use “amigues.” In place of “todos,” or “all,” some write “todxs.” And some signs that would say “bienvenidos,” or “welcome,” now say “bienvenid@s.”",
+      "publication_date": "2022-07-20T15:13:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/20/world/americas/argentina-gender-neutral-spanish.html",
+      "byline": "By Ana Lankes"
+    },
+    {
+      "headline": "Twitter Worker Accused of Spying for Saudi Arabia Heads to Trial",
+      "snippet": "The case showed the intensity of the kingdom’s interest in tracking dissidents, and the timing this week is fraught for U.S.-Saudi relations.",
+      "abstract": "The case showed the intensity of the kingdom’s interest in tracking dissidents, and the timing this week is fraught for U.S.-Saudi relations.",
+      "lead_paragraph": "SAN FRANCISCO — While working at Twitter from 2013 to 2015, Ahmad Abouammo was responsible for helping celebrities, journalists and other notable figures in the Middle East promote their Twitter accounts. He handled requests for Twitter’s coveted blue verification badges and arranged tours of the San Francisco headquarters.",
+      "publication_date": "2022-07-20T15:17:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/20/technology/twitter-saudi-trial-ahmad-abouammo.html",
+      "byline": "By Kate Conger"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2007-12-20",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Gems in the Back of a Closet",
+      "snippet": "Reviewing some unreviewed products before the dust on their boxes gets too thick.",
+      "abstract": "Reviewing some unreviewed products before the dust on their boxes gets too thick.",
+      "lead_paragraph": "To ordinary people, the end of the year brings holiday gatherings, gift-giving and New Year’s resolutions. To a technology critic, though, the year’s end also brings a sobering realization: no matter how hard you try, no matter how many columns and blog entries you write, you can’t review everything.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/12/20/technology/personaltech/20pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Bond Insurer Cut to Junk; Negative Outlook for 4 More",
+      "snippet": "Standard & Poor’s cut the rating of one troubled bond insurer on Wednesday and assigned a negative outlook to four other companies that guarantee debts linked to home loans.",
+      "abstract": "Standard & Poor’s cut the rating of one troubled bond insurer on Wednesday and assigned a negative outlook to four other companies that guarantee debts linked to home loans.",
+      "lead_paragraph": "Citing deepening problems in the mortgage market, Standard & Poor’s cut the rating of one troubled bond insurer on Wednesday and assigned a negative outlook to four other companies that guarantee debts linked to home loans.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/12/20/business/20bond.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "$9.4 Billion Write-Down at Morgan Stanley",
+      "snippet": "The company, battered by the subprime crisis, said it would sell a $5 billion stake to a Chinese investment fund. ",
+      "abstract": "The company, battered by the subprime crisis, said it would sell a $5 billion stake to a Chinese investment fund. ",
+      "lead_paragraph": "Morgan Stanley reported the first quarterly loss in its 72-year history Wednesday, heightening fears that the financial toll would keep mounting from the fast-spreading crisis in the subprime mortgage market.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/12/20/business/20wall.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Central Asia on Front Line in Energy Battle",
+      "snippet": "Russia is trouncing the West in the race to gain access to the enormous oil and gas reserves of its neighbors. ",
+      "abstract": "Russia is trouncing the West in the race to gain access to the enormous oil and gas reserves of its neighbors. ",
+      "lead_paragraph": "BUKHARA, Uzbekistan  In the scrub brush desert south of this ancient Silk Road town, the natural gas wellheads are built on modest concrete platforms about the size of basketball courts. Because the gas is naturally pressurized, pumps are not needed to bring it to the surface. Pipes simply kiss the ground and gas pours through them.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/12/20/business/worldbusiness/20gas.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "Refugees Risk Coming Home to an Unready Iraq",
+      "snippet": "The government’s inability to manage a reverse exodus has left the most vulnerable in an uneasy limbo.",
+      "abstract": "The government’s inability to manage a reverse exodus has left the most vulnerable in an uneasy limbo.",
+      "lead_paragraph": "BAGHDAD  The widow Hashim crossed the border into Iraq from Syria at dusk last month, heading homeward as the sun set behind her and the sky ahead grew dark.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/12/20/world/middleeast/20refugees.html",
+      "byline": "By Cara Buckley"
+    },
+    {
+      "headline": "In Charity and Politics, Clinton Donors Overlap",
+      "snippet": "An examination of the William J. Clinton Foundation shows how its fund-raising has fostered potential conflict.",
+      "abstract": "An examination of the William J. Clinton Foundation shows how its fund-raising has fostered potential conflict.",
+      "lead_paragraph": "This article is by Don Van Natta Jr., Jo Becker and Mike McIntire.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/12/20/us/politics/20clinton.html",
+      "byline": "By Don Van Natta Jr., Jo Becker and Mike McIntire"
+    },
+    {
+      "headline": "Silicon Valley Shaped by Technology and Traffic",
+      "snippet": "Silicon Valley is a collection of remarkably local clusters based on industry niches, skills, school ties, traffic patterns, ethnic groups and even weekend sports teams.",
+      "abstract": "Silicon Valley is a collection of remarkably local clusters based on industry niches, skills, school ties, traffic patterns, ethnic groups and even weekend sports teams.",
+      "lead_paragraph": "ALVISO, Calif.  Palo Alto Networks is a high-tech start-up with ample financing and ambitious plans. But despite its name, the company has no offices in Palo Alto, Silicon Valley’s unofficial capital.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/12/20/technology/20cluster.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "It’s Not Just ‘Ayes’ and ‘Nays’: Obama’s Votes in Illinois Echo",
+      "snippet": "In his votes as a state senator, Barack Obama sometimes sidestepped sensitive issues.",
+      "abstract": "In his votes as a state senator, Barack Obama sometimes sidestepped sensitive issues.",
+      "lead_paragraph": "In 1999, Barack Obama was faced with a difficult vote in the Illinois legislature  to support a bill that would let some juveniles be tried as adults, a position that risked drawing fire from African-Americans, or to oppose it, possibly undermining his image as a tough-on-crime moderate.",
+      "publication_date": "2007-12-20T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/12/20/us/politics/20obama.html",
+      "byline": "By Raymond Hernandez and Christopher Drew"
+    }
+  ]
+}

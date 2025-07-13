@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-02-06",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "What Went Wrong for Joe Biden in Iowa",
+      "snippet": "His placement behind his leading rivals in the caucuses on Monday dealt a damaging blow to his campaign. Some party officials say it was a long time in the works.",
+      "abstract": "His placement behind his leading rivals in the caucuses on Monday dealt a damaging blow to his campaign. Some party officials say it was a long time in the works.",
+      "lead_paragraph": "DES MOINES — Maybe it was the threat of bad weather. Maybe it was a seating assignment debacle. Maybe it was a struggling campaign organization that still hadn’t found its footing.",
+      "publication_date": "2020-02-05T19:06:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/05/us/politics/joe-biden-iowa-caucus.html",
+      "byline": "By Katie Glueck, Jonathan Martin and Thomas Kaplan"
+    },
+    {
+      "headline": "Romney, Defying the Party He Once Personified, Votes to Convict Trump",
+      "snippet": "Senator Mitt Romney grew emotional as he pronounced the president “guilty of an appalling abuse of public trust.” The recriminations from fellow Republicans were immediate.",
+      "abstract": "Senator Mitt Romney grew emotional as he pronounced the president “guilty of an appalling abuse of public trust.” The recriminations from fellow Republicans were immediate.",
+      "lead_paragraph": "WASHINGTON — Senator Mitt Romney of Utah never became president, but he earned a new distinction on Wednesday: He will be remembered as the first senator in American history to vote to remove a president of his own party from office. ",
+      "publication_date": "2020-02-05T19:51:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/05/us/politics/romney-trump-impeachment.html",
+      "byline": "By Mark Leibovich"
+    },
+    {
+      "headline": "Trump Acquitted of Two Impeachment Charges in Near Party-Line Vote",
+      "snippet": "As Republicans rallied behind President Trump, Senator Mitt Romney of Utah, the party’s 2012 presidential nominee, joined Democrats in voting to convict, the only senator to cross party lines.",
+      "abstract": "As Republicans rallied behind President Trump, Senator Mitt Romney of Utah, the party’s 2012 presidential nominee, joined Democrats in voting to convict, the only senator to cross party lines.",
+      "lead_paragraph": "WASHINGTON — After five months of hearings, investigations and revelations about President Trump’s dealings with Ukraine, a divided United States Senate acquitted him on Wednesday of charges that he abused his power and obstructed Congress to aid his own re-election, bringing an acrimonious impeachment trial to its expected end.",
+      "publication_date": "2020-02-05T21:32:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/05/us/politics/trump-acquitted-impeachment.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Child-Welfare Activists Attack Facebook Over Encryption Plans",
+      "snippet": "The social network is facing criticism for how encryption can allow child exploitation to flourish undetected on its services.",
+      "abstract": "The social network is facing criticism for how encryption can allow child exploitation to flourish undetected on its services.",
+      "lead_paragraph": "WASHINGTON — New opponents confronted Facebook on Wednesday as it moves forward with a plan to encrypt all of its messaging platforms: child welfare advocates who said that encryption would allow child predators to operate with impunity across the company’s apps.",
+      "publication_date": "2020-02-06T00:01:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/05/technology/facebook-encryption-child-exploitation.html",
+      "byline": "By Katie Benner and Mike Isaac"
+    },
+    {
+      "headline": "In Trump Country, the Resistance Meets the Steel Curtain",
+      "snippet": "Anti-Trump forces are still hard at work in deeply conservative areas, but the heady expectations of changing minds are getting harder to sustain.",
+      "abstract": "Anti-Trump forces are still hard at work in deeply conservative areas, but the heady expectations of changing minds are getting harder to sustain.",
+      "lead_paragraph": "WASHINGTON, Pa. — In the winter of 2018, Cindy Callaghan knocked on doors. Lots and lots of doors. A new soldier in the sprawling ranks of the anti-Trump resistance, she spent her weekends in the small towns of southwestern Pennsylvania, telling strangers about Conor Lamb, the Democrat who was running for Congress in a district that President Trump carried by nearly 20 percentage points.",
+      "publication_date": "2020-02-06T08:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/06/us/trump-resistance-democrats.html",
+      "byline": "By Campbell Robertson"
+    },
+    {
+      "headline": "Facial Recognition Moves Into a New Front: Schools",
+      "snippet": "A district in New York has adopted the technology in the name of safety. Opponents cite privacy and bias concerns.",
+      "abstract": "A district in New York has adopted the technology in the name of safety. Opponents cite privacy and bias concerns.",
+      "lead_paragraph": "LOCKPORT, N.Y. — Jim Shultz tried everything he could think of to stop facial recognition technology from entering the public schools in Lockport, a small city 20 miles east of Niagara Falls. He posted about the issue in a Facebook group called Lockportians. He wrote an Op-Ed in The New York Times. He filed a petition with the superintendent of the district, where his daughter is in high school.",
+      "publication_date": "2020-02-06T08:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/06/business/facial-recognition-schools.html",
+      "byline": "By Davey Alba"
+    },
+    {
+      "headline": "As Coronavirus Spreads, Face Mask Makers Go Into Overdrive",
+      "snippet": "A factory in western France has become an unlikely outpost to help overcome a severe shortage as supplies dry up in China.",
+      "abstract": "A factory in western France has become an unlikely outpost to help overcome a severe shortage as supplies dry up in China.",
+      "lead_paragraph": "ANGERS, France — The relentless whir of machines echoing across a cavernous French factory floor this week is an unexpected result of the deadly virus that has nearly paralyzed cities in China and other parts of Asia. The company, Kolmi Hopen, happens to make an item that is suddenly one of the world’s hottest commodities: the medical face mask.",
+      "publication_date": "2020-02-06T15:52:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/06/business/coronavirus-face-masks.html",
+      "byline": "By Liz Alderman"
+    }
+  ]
+}

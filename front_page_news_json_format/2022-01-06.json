@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-01-06",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A Long, Hard Year for Republicans Who Voted to Impeach After Jan. 6",
+      "snippet": "Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences.",
+      "abstract": "Ten House Republicans voted to charge President Donald J. Trump with inciting the Capitol attack. All of them are still struggling with the consequences.",
+      "lead_paragraph": "WASHINGTON — The 10 House Republicans who voted to impeach Donald J. Trump did so with the same conviction — that a president of their party deserved to be charged with inciting insurrection on Jan. 6, 2021 — and the same hope — that his role in doing so would finally persuade the G.O.P. to repudiate him.",
+      "publication_date": "2022-01-05T16:48:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/05/us/politics/republican-impeachment-votes-trump-jan-6.html",
+      "byline": "By Jonathan Weisman and Luke Broadwater"
+    },
+    {
+      "headline": "Fed officials discussed raising rates sooner and faster in 2022.",
+      "snippet": "Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates.",
+      "abstract": "Minutes from the Federal Reserve’s December meeting show that officials are contemplating when and how quickly to lift interest rates.",
+      "lead_paragraph": "Federal Reserve officials suggested that they might withdraw support for the economy more quickly than policymakers had previously expected, minutes from their December meeting showed, as a moment of uncomfortably high inflation forces them to reorient their policy path.",
+      "publication_date": "2022-01-05T19:34:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/business/economy/federal-reserve-minutes-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Right-Wing Calls to Celebrate Jan. 6 Anniversary Draw a Muted Response",
+      "snippet": "Online chatter about holding rallies has grown, but sizable real-world gatherings on Thursday are unlikely to materialize.",
+      "abstract": "Online chatter about holding rallies has grown, but sizable real-world gatherings on Thursday are unlikely to materialize.",
+      "lead_paragraph": "Follow our live updates on the Jan. 6 Capitol Attack Anniversary.",
+      "publication_date": "2022-01-05T22:43:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/05/technology/jan-6-anniversary-social-media.html",
+      "byline": "By Sheera Frenkel and Ryan Mac"
+    },
+    {
+      "headline": "A Year After Capitol Riot, Trump’s Hold on G.O.P. Is Unrivaled",
+      "snippet": "His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns.",
+      "abstract": "His continued grip on the party shows, once again, that the former president can outlast almost any outrage cycle, no matter how intensely it burns.",
+      "lead_paragraph": "​​One year ago, on the very same day when fevered supporters of Donald J. Trump breached the United States Capitol in a violent riot that defiled a symbol of American democracy, the leadership of the Republican National Committee happened to gather, almost 700 miles away at a Ritz-Carlton on Amelia Island, Fla.",
+      "publication_date": "2022-01-05T22:47:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/05/us/politics/trump-gop-jan-6.html",
+      "byline": "By Shane Goldmacher and Maggie Haberman"
+    },
+    {
+      "headline": "For C.D.C.’s Walensky, a Steep Learning Curve on Messaging",
+      "snippet": "Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions.",
+      "abstract": "Dr. Rochelle Walensky, the director of the Centers for Disease Control and Prevention, has stumbled in explaining her policy decisions.",
+      "lead_paragraph": "WASHINGTON — Two days before Christmas, with the Omicron variant driving a near-vertical rise in new coronavirus cases, the director of the Centers for Disease Control and Prevention alerted the White House that she planned to recommend that people infected with the virus isolate for five days instead of 10.",
+      "publication_date": "2022-01-05T23:58:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/05/us/politics/cdc-rochelle-walensky-covid-isolation-testing.html",
+      "byline": "By Sharon LaFraniere, Sheryl Gay Stolberg and Noah Weiland"
+    },
+    {
+      "headline": "Philadelphia House Fire Leaves 12 Dead, Including 8 Children",
+      "snippet": "It was among the deadliest residential fires in the country in recent years. The mayor called it “one of the most tragic days in our city’s history.”",
+      "abstract": "It was among the deadliest residential fires in the country in recent years. The mayor called it “one of the most tragic days in our city’s history.”",
+      "lead_paragraph": "PHILADELPHIA — Neighbors, awakened by screams, looked out their windows at the cold dark morning. Flames were pouring out of the second-story windows of a rowhouse on 23rd Street as people on the block watched in horror.",
+      "publication_date": "2022-01-06T00:24:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/05/us/philadelphia-rowhouse-fire.html",
+      "byline": "By Sophie Kasakove, Joel Wolfram and Campbell Robertson"
+    },
+    {
+      "headline": "‘An Untenable Situation’: Chicagoans in Limbo After Schools Abruptly Close",
+      "snippet": "Teachers voted to stop going to school amid a standoff between Mayor Lori Lightfoot and the Chicago Teachers Union, which called for more virus safeguards.",
+      "abstract": "Teachers voted to stop going to school amid a standoff between Mayor Lori Lightfoot and the Chicago Teachers Union, which called for more virus safeguards.",
+      "lead_paragraph": "CHICAGO — Parents across Chicago raced to find child care on Wednesday morning after jarring news: Classes in the nation’s third-largest public school district were canceled. The teachers’ union and Mayor Lori Lightfoot’s administration had failed to agree on how to keep schools open during an Omicron-fueled virus surge.",
+      "publication_date": "2022-01-06T01:36:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/05/us/chicago-schools-close-teachers-union-child-care.html",
+      "byline": "By Mitch Smith and Robert Chiarito"
+    },
+    {
+      "headline": "A Fed Official’s 2020 Trade Drew Outcry. It Went Further Than First Disclosed.",
+      "snippet": "Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement.",
+      "abstract": "Corrected disclosures show that Vice Chair Richard H. Clarida sold a stock fund, then swiftly repurchased it before a big Fed announcement.",
+      "lead_paragraph": "Update: Richard Clarida will resign from the Fed sooner than planned.",
+      "publication_date": "2022-01-06T10:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/06/business/economy/richard-clarida-fed-stock-fund.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Biden condemns Trump as Washington splits over legacy of Jan. 6 attack.",
+      "snippet": "President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office.",
+      "abstract": "President Biden used the anniversary of the Capitol siege to deliver his most sustained and scathing repudiation of Donald J. Trump since taking office.",
+      "lead_paragraph": "WASHINGTON — President Biden denounced former President Donald J. Trump and his allies on Thursday for holding “a dagger at the throat of America” by promoting lies and violence as the nation’s capital fractured into sparring camps a year after the Jan. 6 mob assault on Congress.",
+      "publication_date": "2022-01-06T10:30:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/06/us/politics/biden-jan-6-capitol-attack.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "China’s Latest Lockdown Shows Stubborn Resolve on Zero-Covid",
+      "snippet": "Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan.",
+      "abstract": "Xi’an, a city of 13 million people, has been on lockdown since Dec. 22, the longest in the country since the early days of the outbreak in Wuhan.",
+      "lead_paragraph": "Every two days at a university in Xi’an in China, cleaners dressed in white hazmat suits taped tight to their bodies disinfect the dormitory hallways. Zhang Shengzi, a 24-year-old student, said the smell is so pungent she has to wait some time after they’ve gone before she will open her door again.",
+      "publication_date": "2022-01-06T10:57:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/06/world/asia/china-xian-lockdown-covid.html",
+      "byline": "By Alexandra Stevenson"
+    }
+  ]
+}

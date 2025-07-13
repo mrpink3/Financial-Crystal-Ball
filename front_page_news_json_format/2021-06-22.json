@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-06-22",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Google Executives See Cracks in Their Company’s Success",
+      "snippet": "Despite record profits, a number of them are worried that the company is suffering from both its size and leadership from its C.E.O., Sundar Pichai.",
+      "abstract": "Despite record profits, a number of them are worried that the company is suffering from both its size and leadership from its C.E.O., Sundar Pichai.",
+      "lead_paragraph": "OAKLAND, Calif. — The seeds of a company’s downfall, it is often said in the business world, are sown when everything is going great.",
+      "publication_date": "2021-06-21T16:19:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/21/technology/sundar-pichai-google.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "When It Comes to Big City Elections, Republicans Are in the Wilderness",
+      "snippet": "The party’s growing irrelevance in urban and suburban areas comes at a considerable cost, sidelining conservatives in centers of innovation and economic might.",
+      "abstract": "The party’s growing irrelevance in urban and suburban areas comes at a considerable cost, sidelining conservatives in centers of innovation and economic might.",
+      "lead_paragraph": "When Jerry Sanders finished his second term as mayor of San Diego in 2012, he was the most prominent Republican city executive in the country. A former police chief close to the business community, Mr. Sanders appeared to be a political role model for other would-be Republican mayors, a moderate who worked with the Obama administration on urban policy and endorsed gay marriage at a pivotal moment.",
+      "publication_date": "2021-06-21T19:52:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/21/us/politics/republicans-cities-elections-new-york.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Many Parts of the U.S. Needed Persuading to Get Vaccinated. Not South Texas.",
+      "snippet": "In the Rio Grande Valley, it is people’s exposure to death and disease, not offers of free beer or million-dollar prizes, that is driving vaccine rates higher.",
+      "abstract": "In the Rio Grande Valley, it is people’s exposure to death and disease, not offers of free beer or million-dollar prizes, that is driving vaccine rates higher.",
+      "lead_paragraph": "BROWNSVILLE, Texas — Gabby Garcia did not expect to feel like crying when she sat down for her first dose of the coronavirus vaccine. But as the long needle pierced her skin, she thought back to the agonizing outbreak in her family that killed her sister, hospitalized her brother and also left her ill for days.",
+      "publication_date": "2021-06-21T23:06:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/21/us/coronavirus-vaccines-texas-border.html",
+      "byline": "By Edgar Sandoval"
+    },
+    {
+      "headline": "California Has a Plan to Pay the Back Rent for Low-Income Tenants. All of It.",
+      "snippet": "The state is poised to embark on an ambitious, complex effort to cover the unpaid rent of low-income renters who struggled during the pandemic.",
+      "abstract": "The state is poised to embark on an ambitious, complex effort to cover the unpaid rent of low-income renters who struggled during the pandemic.",
+      "lead_paragraph": "SAN FRANCISCO — Swimming in cash from an unexpected budget surplus and federal stimulus money, California is planning rent forgiveness on a scale never seen before in the United States.",
+      "publication_date": "2021-06-21T23:43:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/21/us/california-rent-forgiveness.html",
+      "byline": "By Thomas Fuller, Conor Dougherty and Giulia Heyward"
+    },
+    {
+      "headline": "Attacked and Vulnerable, Some Afghans Are Forming Their Own Armies",
+      "snippet": "With U.S. troops leaving, the Taliban advancing, and a steady collapse of security force bases and outposts, the Hazara and other ethnic groups in Afghanistan are raising militias.",
+      "abstract": "With U.S. troops leaving, the Taliban advancing, and a steady collapse of security force bases and outposts, the Hazara and other ethnic groups in Afghanistan are raising militias.",
+      "lead_paragraph": "KABUL, Afghanistan — The slaughter of students, mostly teenagers, at a tutoring center. The deaths of young athletes in a suicide bombing at a wrestling club. Mothers shot dead with newborns in their arms.",
+      "publication_date": "2021-06-22T07:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/22/world/asia/vulnerable-afghans-forming-militias.html",
+      "byline": "By David Zucchino and Fatima Faizi"
+    },
+    {
+      "headline": "Banks Slowly Offer Alternatives to Overdraft Fees, a Bane of Struggling Spenders",
+      "snippet": "Aggressive overdraft fees are worth tens of billions of dollars a year to the banking industry. Account holders are finally getting some better options.",
+      "abstract": "Aggressive overdraft fees are worth tens of billions of dollars a year to the banking industry. Account holders are finally getting some better options.",
+      "lead_paragraph": "In less than a week, Keri Fitzpatrick, a self-described lunch lady, was dinged for $175 she definitely didn’t have.",
+      "publication_date": "2021-06-22T07:00:10+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/22/your-money/overdraft-fees-banks.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Mobile Home Owners Fear Evictions as Pandemic Protections End",
+      "snippet": "Many who have struggled to keep up with mortgage payments are at the whims of a few financing firms that dominate lending in this market.",
+      "abstract": "Many who have struggled to keep up with mortgage payments are at the whims of a few financing firms that dominate lending in this market.",
+      "lead_paragraph": "For more than two decades, Kimberly Burnworth has lived in a mobile home in rural West Virginia on a tract her grandfather acquired in the 1960s. A single mother, Ms. Burnworth is paid by the government to be a caregiver to her 11-year-old son, David, who has muscular dystrophy.",
+      "publication_date": "2021-06-22T09:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/22/business/mobile-home-evictions.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Google’s Internet Ad Dominance Draws Fresh E.U. Antitrust Inquiry",
+      "snippet": "The bloc’s investigation, which takes aim at the heart of Google’s business model, is part of a push to regulate the world’s largest technology companies.",
+      "abstract": "The bloc’s investigation, which takes aim at the heart of Google’s business model, is part of a push to regulate the world’s largest technology companies.",
+      "lead_paragraph": "European Union regulators took aim at the heart of Google’s business model on Tuesday, announcing that the Silicon Valley giant is the subject of a new antitrust investigation for potentially abusing its dominance in the online advertising market to stifle competition.",
+      "publication_date": "2021-06-22T10:58:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/22/business/google-antitrust-european-union.html",
+      "byline": "By Adam Satariano"
+    }
+  ]
+}

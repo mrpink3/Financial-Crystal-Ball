@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-06-28",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Ryan Seacrest Named New ‘Wheel of Fortune’ Host",
+      "snippet": "The game show has demonstrated remarkable durability even as traditional television has declined in the wake of streaming entertainment.",
+      "abstract": "The game show has demonstrated remarkable durability even as traditional television has declined in the wake of streaming entertainment.",
+      "lead_paragraph": "Ryan Seacrest, the dexterous Hollywood master of ceremonies, was named the next host of “Wheel of Fortune” on Tuesday, succeeding the longtime host Pat Sajak in 2024.",
+      "publication_date": "2023-06-27T16:37:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/27/business/media/ryan-seacrest-wheel-of-fortune.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Facing Bankruptcy After a $700 Million Bailout",
+      "snippet": "Three years after receiving a pandemic relief loan, the trucking company Yellow has repaid little of the money and is warning that it could soon run out of cash.",
+      "abstract": "Three years after receiving a pandemic relief loan, the trucking company Yellow has repaid little of the money and is warning that it could soon run out of cash.",
+      "lead_paragraph": "A beleaguered trucking business that received a $700 million pandemic-era loan from the federal government may be forced to file for bankruptcy protection this summer amid a dispute with its union, a development that could leave American taxpayers stuck with a failed company.",
+      "publication_date": "2023-06-27T18:16:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/27/business/yellow-trucking-bailout-teamsters.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "A Mother Had Three Minutes to Address Her Son’s Killer",
+      "snippet": "Adriana Vance lost her son Raymond in a mass shooting seven months ago. The night before she would face the shooter in court, she still wasn’t sure what she would say.",
+      "abstract": "Adriana Vance lost her son Raymond in a mass shooting seven months ago. The night before she would face the shooter in court, she still wasn’t sure what she would say.",
+      "lead_paragraph": "The night before Adriana Vance addressed her son’s killer in a Colorado courtroom, she was still searching for the right words.",
+      "publication_date": "2023-06-27T20:10:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/27/us/mass-shootings-victim-impact-statements.html",
+      "byline": "By Jack Healy"
+    },
+    {
+      "headline": "Competing Accounts of Justice Dept.’s Handling of Hunter Biden Case",
+      "snippet": "An I.R.S. investigator’s testimony describing strains over the inquiry into President Biden’s son is at odds with the version laid out by Attorney General Merrick Garland.",
+      "abstract": "An I.R.S. investigator’s testimony describing strains over the inquiry into President Biden’s son is at odds with the version laid out by Attorney General Merrick Garland.",
+      "lead_paragraph": "At a Senate hearing in March, Senator Charles E. Grassley, Republican of Iowa, spent seven minutes grilling Attorney General Merrick B. Garland about the Hunter Biden investigation, reading a series of unusually specific queries from a paper in his hands.",
+      "publication_date": "2023-06-27T21:19:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/27/us/politics/irs-official-justice-dept-hunter-biden.html",
+      "byline": "By Glenn Thrush and Michael S. Schmidt"
+    },
+    {
+      "headline": "After Montana Banned TikTok, Users Sued. TikTok Is Footing Their Bill.",
+      "snippet": "The popular video service had deflected questions about its involvement in the creators’ lawsuit for more than a month.",
+      "abstract": "The popular video service had deflected questions about its involvement in the creators’ lawsuit for more than a month.",
+      "lead_paragraph": "When five TikTok creators in Montana filed a lawsuit last month, saying the state’s new ban of the app violated their First Amendment rights and far outstripped the government’s legal authority, it appeared to be a grass-roots effort.",
+      "publication_date": "2023-06-27T21:24:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/27/business/media/tiktok-ban-montana-lawsuit-funding.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Putin Casts Mutiny as Proof of Solidity, as Belarus Opens Doors to Rebels",
+      "snippet": "Belarus said it had taken in the mercenary boss Yevgeny V. Prigozhin and might welcome his Wagner troops, while Russia dropped a criminal investigation of him for the weekend uprising.",
+      "abstract": "Belarus said it had taken in the mercenary boss Yevgeny V. Prigozhin and might welcome his Wagner troops, while Russia dropped a criminal investigation of him for the weekend uprising.",
+      "lead_paragraph": "President Vladimir V. Putin of Russia on Tuesday tried to recast the weekend rebellion by the mercenary chief Yevgeny V. Prigozhin as a heroic episode for a rock-solid Russian state, while neighboring Belarus said Mr. Prigozhin had gone into exile there, and signaled that it would be open to taking in his battle-hardened troops, as well.",
+      "publication_date": "2023-06-28T00:36:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/27/world/europe/prigozhin-putin-lukashenko-wagner.html",
+      "byline": "By Anton Troianovski and Valerie Hopkins"
+    },
+    {
+      "headline": "Russian General Knew About Mercenary Chief’s Rebellion Plans, U.S. Officials Say",
+      "snippet": "Yevgeny Prigozhin, the head of Wagner, may have believed he had support in Russia’s military.",
+      "abstract": "Yevgeny Prigozhin, the head of Wagner, may have believed he had support in Russia’s military.",
+      "lead_paragraph": "After this article was published, the Kremlin’s spokesman, Dmitri S. Peskov, issued a curt response and insisted on Wednesday that Russia’s army and people had unified around Mr. Putin.",
+      "publication_date": "2023-06-28T01:20:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/27/us/politics/russian-general-prigozhin-rebellion.html",
+      "byline": "By Julian E. Barnes, Helene Cooper and Eric Schmitt"
+    },
+    {
+      "headline": "No Job, No Marriage, No Kid: China’s Workers and the Curse of 35",
+      "snippet": "It’s widely discussed in China: Employers don’t want you after 35. Some job listings say it plainly, leaving a generation of prime-age workers feeling defeated.",
+      "abstract": "It’s widely discussed in China: Employers don’t want you after 35. Some job listings say it plainly, leaving a generation of prime-age workers feeling defeated.",
+      "lead_paragraph": "When Sean Liang turned 30, he started thinking of the Curse of 35 — the widespread belief in China that white-collar workers like him confront unavoidable job insecurity after they hit that age. In the eyes of employers, the Curse goes, they’re more expensive than new graduates and not as willing to work overtime.",
+      "publication_date": "2023-06-28T07:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/28/business/china-jobs-age-discrimination-35.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Can China Export Its Way Out of Its Economic Slump?",
+      "snippet": "No country has had more export success than China. But Beijing faces risks in turning to the tested method of selling more abroad.",
+      "abstract": "No country has had more export success than China. But Beijing faces risks in turning to the tested method of selling more abroad.",
+      "lead_paragraph": "China dominates the global sale of solar panels and has caught up with Japan as the world’s largest car exporter. ‌It is even gaining in ‌the worldwide ‌sale of low-tech products like shoes.",
+      "publication_date": "2023-06-28T07:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/28/business/china-exports-economy.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Biden Says He Is ‘Turning Things Around’ on the Economy",
+      "snippet": "President Biden hopes to claim credit for what the White House describes as a record-breaking economic revival in America.",
+      "abstract": "President Biden hopes to claim credit for what the White House describes as a record-breaking economic revival in America.",
+      "lead_paragraph": "President Biden began a concerted campaign on Wednesday to claim credit for an economic revival in America, powered by policies that he said represent a fundamental break from the Republican approach “that has failed America’s middle class for decades.”",
+      "publication_date": "2023-06-28T09:00:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/28/us/politics/biden-speech-economy-chicago.html",
+      "byline": "By Michael D. Shear and Jim Tankersley"
+    }
+  ]
+}

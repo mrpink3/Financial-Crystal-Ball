@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2017-05-04",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Fed Holds Interest Rates Steady but Voices Confidence in Economy",
+      "snippet": "The central bank, still on track to raise rates at least two more times this year, said a first-quarter slowdown was “likely to be transitory.”",
+      "abstract": "The central bank, still on track to raise rates at least two more times this year, said a first-quarter slowdown was “likely to be transitory.”",
+      "lead_paragraph": "WASHINGTON — A few pieces of disappointing economic news in recent weeks have not shaken the Federal Reserve’s confidence that the economy is in good health.",
+      "publication_date": "2017-05-03T18:09:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/03/business/economy/federal-reserves-interest-rates.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Fox’s Unfamiliar but Powerful Television Rival: Sinclair",
+      "snippet": "The largest owner of local TV stations, Sinclair has a history of supporting Republican causes. But as Sinclair tries to grow, it is locking horns with Fox.",
+      "abstract": "The largest owner of local TV stations, Sinclair has a history of supporting Republican causes. But as Sinclair tries to grow, it is locking horns with Fox.",
+      "lead_paragraph": "The timing could not be more fortunate for Sinclair Broadcast Group: a Republican president is in the White House, his regulators have just eased rules on owning television stations and the dominant name in conservative media is reeling from a sexual harassment scandal.",
+      "publication_date": "2017-05-03T22:53:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/03/business/dealbook/sinclair-media-expansion-fox-conservative-media.html",
+      "byline": "By Michael J. de la Merced and Nicholas Fandos"
+    },
+    {
+      "headline": "Apple Announces $1 Billion Fund to Create U.S. Jobs in Manufacturing",
+      "snippet": "Apple, joining a growing list of companies that have said recently that they will promote jobs in the U.S., said it would announce the fund’s first investment this month.",
+      "abstract": "Apple, joining a growing list of companies that have said recently that they will promote jobs in the U.S., said it would announce the fund’s first investment this month.",
+      "lead_paragraph": "SAN FRANCISCO — While on the campaign trail last year, Donald J. Trump lamented the loss of manufacturing jobs in the United States and set his sights on companies like Apple to help rectify the situation. “I’m going to get Apple to start making their computers and their iPhones on our land, not in China,” he said.",
+      "publication_date": "2017-05-04T01:40:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/03/technology/apple-jobs.html",
+      "byline": "By Katie Benner and Nelson D. Schwartz"
+    },
+    {
+      "headline": "In S.E.C.’s Streamlined Court, Penalty Exerts a Lasting Grip",
+      "snippet": "A money manager settled his case with the S.E.C. thinking he could go back to work in a year. Nearly five years later, he is still waiting.",
+      "abstract": "A money manager settled his case with the S.E.C. thinking he could go back to work in a year. Nearly five years later, he is still waiting.",
+      "lead_paragraph": "On its face, it seemed like a simple case. Eric D. Wanger, according to regulators, had done things a money manager shouldn’t do.",
+      "publication_date": "2017-05-04T09:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/05/04/business/sec-internal-court.html",
+      "byline": "By Gretchen Morgenson"
+    }
+  ]
+}

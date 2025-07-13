@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2021-04-23",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "With Few New Clotting Cases, Johnson & Johnson Pause Could Be Lifted Soon",
+      "snippet": "Top federal health officials said in interviews this week that the number of rare blood clotting disorders in recipients of the Johnson & Johnson vaccine has remained small.",
+      "abstract": "Top federal health officials said in interviews this week that the number of rare blood clotting disorders in recipients of the Johnson & Johnson vaccine has remained small.",
+      "lead_paragraph": "WASHINGTON — Federal health officials are leaning toward lifting their recommended pause on the use of Johnson & Johnson’s coronavirus vaccine after finding only a limited number of additional cases of a rare blood clotting disorder among recipients.",
+      "publication_date": "2021-04-22T20:49:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/22/us/politics/johnson-and-johnson-vaccine.html",
+      "byline": "By Noah Weiland and Sharon LaFraniere"
+    },
+    {
+      "headline": "Ravaged by Covid, Brazil Faces a Hunger Epidemic",
+      "snippet": "Tens of millions of Brazilians are facing hunger or food insecurity as the country’s Covid-19 crisis drags on, killing thousands of people every day.",
+      "abstract": "Tens of millions of Brazilians are facing hunger or food insecurity as the country’s Covid-19 crisis drags on, killing thousands of people every day.",
+      "lead_paragraph": "RIO DE JANEIRO — Rail-thin teenagers hold placards at traffic stops with the word for hunger — fome — in large print. Children, many of whom have been out of school for over a year, beg for food outside supermarkets and restaurants. Entire families huddle in flimsy encampments on sidewalks, asking for baby formula, crackers, anything.",
+      "publication_date": "2021-04-23T09:00:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/23/world/americas/covid-brazil-hunger.html",
+      "byline": "By Ernesto Londoño, Flávia Milhorance and Victor Moriyama"
+    },
+    {
+      "headline": "U.K. Far Right, Lifted by Trump, Now Turns to Russia",
+      "snippet": "The anti-Islam agitator Tommy Robinson struck gold in America. Keeping it might require help from Moscow, where other British far-right activists are also finding friends.",
+      "abstract": "The anti-Islam agitator Tommy Robinson struck gold in America. Keeping it might require help from Moscow, where other British far-right activists are also finding friends.",
+      "lead_paragraph": "LONDON — Two days after supporters of former President Donald J. Trump stormed the U.S. Capitol, but failed to reverse his election defeat, a defiant shout sounded from across the ocean. Tommy Robinson, Britain’s loudest amplifier of anti-Islam, far-right anger, insisted the fight was not over.",
+      "publication_date": "2021-04-23T14:35:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/23/world/europe/uk-far-right-tommy-robinson-russia.html",
+      "byline": "By Jane Bradley and Michael Schwirtz"
+    },
+    {
+      "headline": "A Tiny Part’s Big Ripple: Global Chip Shortage Hobbles the Auto Industry",
+      "snippet": "Almost every carmaker has had to curtail production, hampering the economic recovery.",
+      "abstract": "Almost every carmaker has had to curtail production, hampering the economic recovery.",
+      "lead_paragraph": "Around the world, auto assembly lines are going quiet, workers are idle and dealership parking lots are looking bare.",
+      "publication_date": "2021-04-23T15:44:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/23/business/auto-semiconductors-general-motors-mercedes.html",
+      "byline": "By Jack Ewing and Neal E. Boudette"
+    }
+  ]
+}

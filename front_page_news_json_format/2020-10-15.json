@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-10-15",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "How to Deal With a Crisis of Misinformation",
+      "snippet": "False news is on the rise. We can fight the spread with a simple exercise: Slow down and be skeptical.",
+      "abstract": "False news is on the rise. We can fight the spread with a simple exercise: Slow down and be skeptical.",
+      "lead_paragraph": "There’s a disease that has been spreading for years now. Like any resilient virus, it evolves to find new ways to attack us. It’s not in our bodies, but on the web.",
+      "publication_date": "2020-10-14T18:27:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/14/technology/personaltech/how-to-deal-with-a-crisis-of-misinformation.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Europe, Which Thought It Had the Virus Tamed, Faces a Resurgence",
+      "snippet": "France imposed a curfew on Paris and other major cities, and other countries are taking similar steps as record caseloads fill hospitals and governments try to respond without lockdowns.",
+      "abstract": "France imposed a curfew on Paris and other major cities, and other countries are taking similar steps as record caseloads fill hospitals and governments try to respond without lockdowns.",
+      "lead_paragraph": "",
+      "publication_date": "2020-10-14T19:05:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/14/world/europe/europe-coronavirus.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Barrett, Vowing Independence, Is Haunted by Trump’s Demands",
+      "snippet": "Judge Amy Coney Barrett is not the first Supreme Court nominee to profess her independence, but her task has been made far more complicated by the president who nominated her.",
+      "abstract": "Judge Amy Coney Barrett is not the first Supreme Court nominee to profess her independence, but her task has been made far more complicated by the president who nominated her.",
+      "lead_paragraph": "WASHINGTON — As Judge Amy Coney Barrett has strained to present herself this week as someone who would join the Supreme Court without having made up her mind on pivotal cases, she was haunted by the long and exceedingly public record of the voluble man who nominated her.",
+      "publication_date": "2020-10-14T22:21:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/14/us/trump-amy-barrett.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "As Virus Spread, Reports of Trump Administration’s Private Briefings Fueled Sell-Off",
+      "snippet": "A hedge fund consultant’s summary of private presentations by White House economic advisers fanned investor worries.",
+      "abstract": "A hedge fund consultant’s summary of private presentations by White House economic advisers fanned investor worries.",
+      "lead_paragraph": "",
+      "publication_date": "2020-10-14T23:11:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/14/us/politics/stock-market-coronavirus-trump.html",
+      "byline": "By Kate Kelly and Mark Mazzetti"
+    },
+    {
+      "headline": "8 Million Have Slipped Into Poverty Since May as Federal Aid Has Dried Up",
+      "snippet": "Two new studies show the effect of the emergency $2 trillion package known as the Cares Act and what happened when the money ran out.",
+      "abstract": "Two new studies show the effect of the emergency $2 trillion package known as the Cares Act and what happened when the money ran out.",
+      "lead_paragraph": "WASHINGTON — After an ambitious expansion of the safety net in the spring saved millions of people from poverty, the aid is now largely exhausted and poverty has returned to levels higher than before the coronavirus crisis, two new studies have found.",
+      "publication_date": "2020-10-15T09:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/15/us/politics/federal-aid-poverty-levels.html",
+      "byline": "By Jason DeParle"
+    },
+    {
+      "headline": "A Korean Store Owner. A Black Employee. A Tense Neighborhood.",
+      "snippet": "At a Chicago beauty supply shop, one American dream has come true. Another is still waiting for its chance.",
+      "abstract": "At a Chicago beauty supply shop, one American dream has come true. Another is still waiting for its chance.",
+      "lead_paragraph": "The crowd was growing impatient as Crystal Holmes fumbled with the keys to the store.",
+      "publication_date": "2020-10-15T09:00:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/10/15/business/beauty-store-race-protests.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "YouTube Cracks Down on QAnon Conspiracy Theory, Citing Offline Violence",
+      "snippet": "YouTube has played a bigger role in moving QAnon from the fringes to the mainstream than most platforms.",
+      "abstract": "YouTube has played a bigger role in moving QAnon from the fringes to the mainstream than most platforms.",
+      "lead_paragraph": "YouTube on Thursday became the latest social media giant to take steps to stop QAnon, the sprawling pro-Trump conspiracy theory community whose online fantasies about a cabal of satanic pedophiles running the world have spilled over into offline violence.",
+      "publication_date": "2020-10-15T15:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/15/technology/youtube-bans-qanon-violence.html",
+      "byline": "By Kevin Roose"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "date": "2021-05-31",
+    "total_articles": 15
+  },
+  "articles": [
+    {
+      "headline": "Fox News Intensifies Its Pro-Trump Politics as Dissenters Depart",
+      "snippet": "Donna Brazile, a Democratic analyst, has left the Murdoch-owned network as some hosts and journalists who questioned Donald Trump have exited or been sidelined.",
+      "abstract": "Donna Brazile, a Democratic analyst, has left the Murdoch-owned network as some hosts and journalists who questioned Donald Trump have exited or been sidelined.",
+      "lead_paragraph": "Fox News once devoted its 7 p.m. and 11 p.m. time slots to relatively straightforward newscasts. Now those hours are filled by opinion shows led by hosts who denounce Democrats and defend the worldview of former President Donald J. Trump.",
+      "publication_date": "2021-05-28T16:40:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Biden’s $6 Trillion Budget Aims for Path to Middle Class, Financed by the Rich",
+      "snippet": "The president’s budget envisions a redistribution of wealth that will allow more Americans to enjoy prosperity, buoyed by investments in education, infrastructure and climate-related initiatives.",
+      "abstract": "The president’s budget envisions a redistribution of wealth that will allow more Americans to enjoy prosperity, buoyed by investments in education, infrastructure and climate-related initiatives.",
+      "lead_paragraph": "WASHINGTON — President Biden’s $6 trillion budget bets on the power of government to propel workers, families and businesses to new heights of prosperity in a rapidly changing economy, by redistributing income and wealth from high earners and corporations to grow the middle class.",
+      "publication_date": "2021-05-28T17:30:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/28/business/biden-plan.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "A Worker-Owned Cooperative Tries to Compete With Uber and Lyft",
+      "snippet": "About 2,500 drivers in New York are organizing to create what they say is a better deal for drivers than what the ride-hailing giants offer.",
+      "abstract": "About 2,500 drivers in New York are organizing to create what they say is a better deal for drivers than what the ride-hailing giants offer.",
+      "lead_paragraph": "For years, Uber and other ride-hailing companies offered the promise of entrepreneurship to drivers. Drivers who were eager to set their own schedules signed up in droves, propelling the gig economy into a multibillion-dollar industry.",
+      "publication_date": "2021-05-28T17:49:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/28/technology/nyc-uber-lyft-the-drivers-cooperative.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Senate Republicans Filibuster Jan. 6 Inquiry Bill, Blocking an Investigation",
+      "snippet": "The vote killed the best chance for an independent accounting of the deadly Capitol attack, which Republicans feared would damage them politically.",
+      "abstract": "The vote killed the best chance for an independent accounting of the deadly Capitol attack, which Republicans feared would damage them politically.",
+      "lead_paragraph": "WASHINGTON — Republicans on Friday blocked the creation of an independent commission to investigate the Jan. 6 Capitol riot, using their filibuster power in the Senate for the first time this year to doom a full accounting of the deadliest attack on Congress in centuries.",
+      "publication_date": "2021-05-28T20:28:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/28/us/politics/capitol-riot-commission-republicans.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "An Israeli Death and the Tangled Conflict Left Behind",
+      "snippet": "A Palestinian rocket from Gaza strikes an Israeli apartment building, killing a resident. A Palestinian work crew from the West Bank cleans up the mess.",
+      "abstract": "A Palestinian rocket from Gaza strikes an Israeli apartment building, killing a resident. A Palestinian work crew from the West Bank cleans up the mess.",
+      "lead_paragraph": "RAMAT GAN, Israel — Four holes in the wooden door to his tiny apartment mark where shrapnel from a Hamas rocket penetrated the home of Gershon Franco, 56, and killed him. It was the early afternoon of May 15, a Saturday, the Sabbath in this bustling town just east of Tel Aviv.",
+      "publication_date": "2021-05-28T21:45:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/28/world/middleeast/israel-gaza.html",
+      "byline": "By Roger Cohen"
+    },
+    {
+      "headline": "House Hunters Are Leaving the City, and Builders Can’t Keep Up",
+      "snippet": "For years, people most wanted to live in places where it was the hardest to build. Now, with a rise in remote work, exurban areas look more appealing.",
+      "abstract": "For years, people most wanted to live in places where it was the hardest to build. Now, with a rise in remote work, exurban areas look more appealing.",
+      "lead_paragraph": "LATHROP, Calif. — They had a down payment. They were prequalified for a mortgage. They were willing to move almost an hour’s drive eastward. But the number that really mattered was “32.”",
+      "publication_date": "2021-05-29T09:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/29/business/economy/new-home-building-suburbs.html",
+      "byline": "By Conor Dougherty and Ben Casselman"
+    },
+    {
+      "headline": "As G.O.P. Blocks Inquiry, Questions on Jan. 6 Attack May Go Unanswered",
+      "snippet": "The demise of an independent panel to investigate the riot means that the country is unlikely to get a definitive accounting for one of the most serious domestic attacks on the government in history.",
+      "abstract": "The demise of an independent panel to investigate the riot means that the country is unlikely to get a definitive accounting for one of the most serious domestic attacks on the government in history.",
+      "lead_paragraph": "WASHINGTON — In blocking the formation of an independent commission to investigate the Jan. 6 Capitol riot, Republicans in Congress have all but closed off the possibility of a full and impartial accounting for one of the most serious assaults on American democracy in history, leaving unanswered critical questions with broad implications for politics, security and public trust.",
+      "publication_date": "2021-05-29T15:51:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/29/us/capitol-attack-inquiry.html",
+      "byline": "By Luke Broadwater"
+    },
+    {
+      "headline": "An Arms Race in America: Gun Buying Spiked During the Pandemic. It’s Still Up.",
+      "snippet": "Preliminary research data show that about a fifth of all Americans who bought guns last year were first-time gun owners. Sales usually spike around elections, but the sheer volume is notable.",
+      "abstract": "Preliminary research data show that about a fifth of all Americans who bought guns last year were first-time gun owners. Sales usually spike around elections, but the sheer volume is notable.",
+      "lead_paragraph": "WASHINGTON — It was another week with another horrific mass shooting. In cities across the country, gun homicides were climbing. Democrats and Republicans argued over the causes. President Biden said enough.",
+      "publication_date": "2021-05-29T16:12:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/29/us/gun-purchases-ownership-pandemic.html",
+      "byline": "By Sabrina Tavernise"
+    },
+    {
+      "headline": "Secret Chats Show How Cybergang Became a Ransomware Powerhouse",
+      "snippet": "As the ransomware industry exploded, a Russian-speaking outfit called DarkSide offered would-be computer crooks not just the tools, but also customer support. We got an inside look.",
+      "abstract": "As the ransomware industry exploded, a Russian-speaking outfit called DarkSide offered would-be computer crooks not just the tools, but also customer support. We got an inside look.",
+      "lead_paragraph": "MOSCOW — Just weeks before the ransomware gang known as DarkSide attacked the owner of a major American pipeline, disrupting gasoline and jet fuel deliveries up and down the East Coast of the United States, the group was turning the screws on a small, family-owned publisher based in the American Midwest.",
+      "publication_date": "2021-05-29T16:43:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/29/world/europe/ransomware-russia-darkside.html",
+      "byline": "By Andrew E. Kramer, Michael Schwirtz and Anton Troianovski"
+    },
+    {
+      "headline": "Prepare to Pay More for Uber and Lyft Rides",
+      "snippet": "The companies say they are charging extra because they don’t have enough drivers to match rebounding customer demand.",
+      "abstract": "The companies say they are charging extra because they don’t have enough drivers to match rebounding customer demand.",
+      "lead_paragraph": "A few weeks after receiving the second dose of a coronavirus vaccine, Debora Lima returned to an old routine: She pulled out her phone and requested an Uber ride so she could meet friends for dinner.",
+      "publication_date": "2021-05-30T09:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/30/technology/uber-lyft-surge.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "‘On That Edge of Fear’: One Woman’s Struggle With Sickle Cell Pain",
+      "snippet": "Cures for a disease that mostly afflicts Black people seem near but may come too late for Lisa Craig, who lives with an agony like knives stabbing her bones.",
+      "abstract": "Cures for a disease that mostly afflicts Black people seem near but may come too late for Lisa Craig, who lives with an agony like knives stabbing her bones.",
+      "lead_paragraph": "NASHVILLE — She struggled through the night as she had so many times before, restless from sickle cell pain that felt like knives stabbing her bones. When morning broke, she wept at the edge of her hotel-room bed, her stomach wrenched in a complicated knot of anger, trepidation and hope.",
+      "publication_date": "2021-05-30T09:00:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/30/us/sickle-cell-black-women.html",
+      "byline": "By John Eligon and William DeShazer"
+    },
+    {
+      "headline": "Israel Moves Toward Coalition Deal That Could Sideline Netanyahu",
+      "snippet": "Naftali Bennett, an ultranationalist, and Yair Lapid, a centrist, have moved closer to forming a fragile coalition government that would oust the longtime prime minister, Benjamin Netanyahu.",
+      "abstract": "Naftali Bennett, an ultranationalist, and Yair Lapid, a centrist, have moved closer to forming a fragile coalition government that would oust the longtime prime minister, Benjamin Netanyahu.",
+      "lead_paragraph": "JERUSALEM — The longest-serving prime minister in Israeli history, Benjamin Netanyahu, faced the most potent threat yet to his grip on power Sunday after an ultranationalist power-broker, Naftali Bennett, said his party would work with opposition leaders to build an alternative government to force Mr. Netanyahu from office.",
+      "publication_date": "2021-05-30T17:25:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/30/world/middleeast/israel-coalition-bennett-lapid.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "The Luckiest Workers in America? Teenagers.",
+      "snippet": "Teens are picking up jobs — and higher wages — as companies scramble to hire. But that trend could have a downside.",
+      "abstract": "Teens are picking up jobs — and higher wages — as companies scramble to hire. But that trend could have a downside.",
+      "lead_paragraph": "Roller-coaster operators and lemonade slingers at Kennywood amusement park, a Pittsburgh summer staple, won’t have to buy their own uniforms this year. Those with a high school diploma will also earn $13 as a starting wage — up from $9 last year — and new hires are receiving free season passes for themselves and their families.",
+      "publication_date": "2021-05-30T22:13:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/30/business/economy/pandemic-jobs-teenagers.html",
+      "byline": "By Jeanna Smialek and David McCabe"
+    },
+    {
+      "headline": "The Internet’s Favorite Catalog of Weird Places Rewrites History",
+      "snippet": "Atlas Obscura has reviewed how it tells its stories about curious places in light of last year’s shift in how Americans view their past.",
+      "abstract": "Atlas Obscura has reviewed how it tells its stories about curious places in light of last year’s shift in how Americans view their past.",
+      "lead_paragraph": "Samir S. Patel found us a parking spot on Madison Avenue and 103rd Street before it started raining last Wednesday, and led me under scaffolding into the grand lobby of the New York Academy of Medicine. There, a librarian, pleased to be giving her first tour in more than a year, took us down a long hallway into a room lined with rare books from the 16th and 17th centuries that she opened to show eerie anatomical renderings of humans without their skin.",
+      "publication_date": "2021-05-31T01:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/30/business/media/atlas-obscura-travel-media.html",
+      "byline": "By Ben Smith"
+    },
+    {
+      "headline": "Biden Aims to Rebuild and Expand Legal Immigration",
+      "snippet": "Documents obtained by The New York Times show far-reaching efforts by President Biden to remake the immigration system and undo much of his predecessor’s legacy.",
+      "abstract": "Documents obtained by The New York Times show far-reaching efforts by President Biden to remake the immigration system and undo much of his predecessor’s legacy.",
+      "lead_paragraph": "WASHINGTON — If President Biden gets his way, it will soon be far easier to immigrate to the United States. There will be shorter, simpler forms and applicants will have to jump through fewer security hoops. Foreigners will have better opportunities to join their families and more chances to secure work visas.",
+      "publication_date": "2021-05-31T07:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/31/us/politics/biden-immigration.html",
+      "byline": "By Michael D. Shear and Zolan Kanno-Youngs"
+    }
+  ]
+}

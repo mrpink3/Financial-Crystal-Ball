@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-04-06",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "At Least 200 Feared Dead in Apartments Hit by Russia, Officials Say",
+      "snippet": "After Russian forces withdrew from Borodyanka, a commuter town near Ukraine’s capital, families are searching the rubble for bodies.",
+      "abstract": "After Russian forces withdrew from Borodyanka, a commuter town near Ukraine’s capital, families are searching the rubble for bodies.",
+      "lead_paragraph": "BORODYANKA, Ukraine — Andreiy Ziuzko stood near the flattened apartment complex in Borodyanka that was once his home, his belongings in plastic bags on the sidewalk beside a few blackened cooking pots on Tuesday.",
+      "publication_date": "2022-04-05T21:46:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/05/world/asia/ukraine-civilians-russia-borodyanka.html",
+      "byline": "By Carlotta Gall and Ivor Prickett"
+    },
+    {
+      "headline": "Zelensky Accuses Russia of Atrocities and Criticizes U.N.’s Inaction",
+      "snippet": "In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression.",
+      "abstract": "In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression.",
+      "lead_paragraph": "With evidence mounting of atrocities in the Kyiv suburbs, and Russian forces preparing for a new offensive farther east, President Volodymyr Zelensky of Ukraine delivered a scathing speech to the United Nations on Tuesday, accusing Russia of a litany of horrors and questioning whether a world body that takes no action to stop a war serves any purpose.",
+      "publication_date": "2022-04-05T22:51:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html",
+      "byline": "By Richard Pérez-Peña"
+    },
+    {
+      "headline": "Abortion Pills, Once a Workaround, Are Now a Target",
+      "snippet": "In advance of a Supreme Court decision, states are proposing new restrictions and heavier criminal penalties on medication abortion.",
+      "abstract": "In advance of a Supreme Court decision, states are proposing new restrictions and heavier criminal penalties on medication abortion.",
+      "lead_paragraph": "Last year, after Texas passed its strict abortion ban, surgical abortions in the state dropped by half. Many women found a workaround: pills. The week the law took effect, requests for medication abortion shot up to 138 a day from 11 a day at just one service that delivers the pills by mail.",
+      "publication_date": "2022-04-06T07:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/us/abortion-pills.html",
+      "byline": "By Kate Zernike"
+    },
+    {
+      "headline": "Why Tracking Putin’s Wealth Is So Difficult",
+      "snippet": "Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state.",
+      "abstract": "Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state.",
+      "lead_paragraph": "Buried in a 421-page legal filing in an obscure court case is a single sentence, offered almost as an afterthought, about a meeting at a Geneva restaurant where two businessmen chatted about “a yacht which had been presented to Mr. Putin.”",
+      "publication_date": "2022-04-06T07:00:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/world/putin-russia-assets-wealth-sanctions.html",
+      "byline": "By Mike McIntire"
+    },
+    {
+      "headline": "The End of the (Pipe)line? Germany Scrambles to Wean Itself Off Russian Gas",
+      "snippet": "Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day.",
+      "abstract": "Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day.",
+      "lead_paragraph": "LUBMIN, Germany — Past a nudist beach and a sleepy marina, a gigantic mesh of metallic pipes rises from the pine forest behind the tiny village of Lubmin on Germany’s Baltic coast.",
+      "publication_date": "2022-04-06T07:00:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/world/europe/germany-gas-russia-ukraine.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "You’re Still Being Tracked on the Internet, Just in a Different Way",
+      "snippet": "Apple and Google are pushing privacy changes, but a shift in digital tracking is giving some platforms a bigger advertising advantage.",
+      "abstract": "Apple and Google are pushing privacy changes, but a shift in digital tracking is giving some platforms a bigger advertising advantage.",
+      "lead_paragraph": "The internet industry shuddered last year when Apple introduced privacy measures for the iPhone that threatened to upend online tracking and cripple digital advertising. Google pledged similar privacy actions.",
+      "publication_date": "2022-04-06T09:00:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+      "byline": "By Brian X. Chen and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "With a $2.1 Million Cure Their Only Hope, Parents Plead for Help Online",
+      "snippet": "India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media.",
+      "abstract": "India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media.",
+      "lead_paragraph": "ELURU, India — When her baby started struggling to breathe, Stella Praveen had a terrible feeling that something was gravely wrong with her 14-month-old daughter, Ellen.",
+      "publication_date": "2022-04-06T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/06/business/india-spinal-muscular-atrophy.html",
+      "byline": "By Sameer Yasir, Shalini Venugopal Bhagat and Sara Hylton"
+    },
+    {
+      "headline": "Meet DALL-E, the A.I. That Draws Anything at Your Command",
+      "snippet": "New technology that blends language and images could serve graphic artists — and speed disinformation campaigns.",
+      "abstract": "New technology that blends language and images could serve graphic artists — and speed disinformation campaigns.",
+      "lead_paragraph": "SAN FRANCISCO — At OpenAI, one of the world’s most ambitious artificial intelligence labs, researchers are building technology that lets you create digital images simply by describing what you want to see.",
+      "publication_date": "2022-04-06T14:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Traces of Lives Cut Short: Bread on a Park Bench, Blood Pooled Nearby",
+      "snippet": "The violence of war is often random. Those who suffer most are the civilians caught in the middle. Two recent deaths in Kharkiv, Ukraine, are a testament to that.",
+      "abstract": "The violence of war is often random. Those who suffer most are the civilians caught in the middle. Two recent deaths in Kharkiv, Ukraine, are a testament to that.",
+      "lead_paragraph": "KHARKIV, Ukraine — A loaf of bread on a park bench, collecting snow. A puddle of blood nearby.",
+      "publication_date": "2022-04-06T14:59:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/world/europe/ukraine-kharkiv-death.html",
+      "byline": "By Thomas Gibbons-Neff and Natalia Yermak"
+    },
+    {
+      "headline": "The Growing Religious Fervor in the American Right: ‘This Is a Jesus Movement’",
+      "snippet": "Rituals of Christian worship have become embedded in conservative rallies, as praise music and prayer blend with political anger over vaccines and the 2020 election.",
+      "abstract": "Rituals of Christian worship have become embedded in conservative rallies, as praise music and prayer blend with political anger over vaccines and the 2020 election.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-04-06T15:42:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/us/christian-right-wing-politics.html",
+      "byline": "By Elizabeth Dias and Ruth Graham"
+    }
+  ]
+}

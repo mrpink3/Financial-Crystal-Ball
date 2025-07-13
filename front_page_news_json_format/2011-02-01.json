@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2011-02-01",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Egypt’s Economy Is Near Paralysis",
+      "snippet": "The economy approached paralysis as foreign commerce, tourism and banking all but halted.",
+      "abstract": "The economy approached paralysis as foreign commerce, tourism and banking all but halted.",
+      "lead_paragraph": "ALEXANDRIA, Egypt  Egypt’s economy approached paralysis on Monday as foreign commerce, tourism and banking all but halted, placing acute pressure on President Hosni Mubarak to find a way out of the weeklong chaos.",
+      "publication_date": "2011-02-01T00:52:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/01/world/middleeast/01economy.html",
+      "byline": "By Nicholas Kulish"
+    },
+    {
+      "headline": "U.S. Pushes, but Reactors Are Lagging",
+      "snippet": "Of four reactor projects identified by the Energy Department in 2009 as the most likely candidates for federal loan guarantees, only two are moving forward.",
+      "abstract": "Of four reactor projects identified by the Energy Department in 2009 as the most likely candidates for federal loan guarantees, only two are moving forward.",
+      "lead_paragraph": "WASHINGTON — In his State of the Union address, President Obama proposed giving the nuclear construction business a type of help it has never had, a role in a quota for clean energy. But recent setbacks in a hoped-for “nuclear renaissance” raise questions about how much of a role nuclear power can play.",
+      "publication_date": "2011-02-01T01:38:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/01/business/energy-environment/01nuke.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "G.O.P. Governors Take Aim at Teacher Tenure",
+      "snippet": "Governors in Florida, Idaho, Indiana, Nevada and New Jersey are taking aim at a bedrock tradition of public schools: teacher tenure.",
+      "abstract": "Governors in Florida, Idaho, Indiana, Nevada and New Jersey are taking aim at a bedrock tradition of public schools: teacher tenure.",
+      "lead_paragraph": "Seizing on a national anxiety over poor student performance, many governors are taking aim at a bedrock tradition of public schools: teacher tenure.",
+      "publication_date": "2011-02-01T01:57:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/01/us/01tenure.html",
+      "byline": "By Trip Gabriel and Sam Dillon"
+    },
+    {
+      "headline": "Apps Alter Reading on the Web",
+      "snippet": "One service that removes ads from articles for easier reading is introducing a new way to compensate publishers.",
+      "abstract": "One service that removes ads from articles for easier reading is introducing a new way to compensate publishers.",
+      "lead_paragraph": "The DVR rocked the world of television by letting viewers skip commercials and build their own home viewing schedules. Now a handful of Web services and applications are starting to do much the same thing to online publishers. ",
+      "publication_date": "2011-02-01T02:24:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/01/technology/01read.html",
+      "byline": "By Jenna Wortham"
+    },
+    {
+      "headline": "Pakistani Nuclear Arms Pose Challenge to U.S. Policy",
+      "snippet": "Some American officials and experts say that the steady growth in Pakistan’s nuclear arsenal is more than it needs to deter its regional rival, India.",
+      "abstract": "Some American officials and experts say that the steady growth in Pakistan’s nuclear arsenal is more than it needs to deter its regional rival, India.",
+      "lead_paragraph": "WASHINGTON  New American intelligence assessments have concluded that Pakistan has steadily expanded its nuclear arsenal since President Obama came to office, and that it is building the capability to surge ahead in the production of nuclear-weapons material, putting it on a path to overtake Britain as the world’s fifth largest nuclear weapons power.",
+      "publication_date": "2011-02-01T02:45:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/01/world/asia/01policy.html",
+      "byline": "By David E. Sanger and Eric Schmitt"
+    },
+    {
+      "headline": "Obama Urges Faster Shift of Power in Egypt",
+      "snippet": "President Hosni Mubarak’s vow to step down in the fall was not enough for the hundreds of thousands who poured into Tahrir Square.",
+      "abstract": "President Hosni Mubarak’s vow to step down in the fall was not enough for the hundreds of thousands who poured into Tahrir Square.",
+      "lead_paragraph": "CAIRO  President Hosni Mubarak declared Tuesday night that he would step down in September as modern Egypt’s longest-serving leader, but that did not go far enough for the hundreds of thousands who poured into Tahrir Square in a sprawling protest that cut across entrenched lines of piety, class and ideology. ",
+      "publication_date": "2011-02-01T08:58:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/02/02/world/middleeast/02egypt.html",
+      "byline": "By Anthony Shadid"
+    },
+    {
+      "headline": "F.D.A. Declines to Approve Diet Drug",
+      "snippet": "In the latest setback for makers of diet pills, the Food and Drug Administration said Contrave should undergo further study.",
+      "abstract": "In the latest setback for makers of diet pills, the Food and Drug Administration said Contrave should undergo further study.",
+      "lead_paragraph": " The Food and Drug Administration has declined to approve yet another prescription diet pill, vanquishing nearly any prospect that a new obesity medicine will be available to overweight Americans this year. ",
+      "publication_date": "2011-02-01T13:11:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/02/02/business/02drug.html",
+      "byline": "By Andrew Pollack"
+    }
+  ]
+}

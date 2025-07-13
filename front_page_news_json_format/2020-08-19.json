@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-08-19",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Hollywood Executive Ron Meyer Leaves NBCUniversal After Secret Settlement",
+      "snippet": "A storied career that took him from teenage messenger to studio chief ends in a sudden resignation.",
+      "abstract": "A storied career that took him from teenage messenger to studio chief ends in a sudden resignation.",
+      "lead_paragraph": "LOS ANGELES — For four decades, even as other moguls came and went, Ron Meyer remained a Hollywood power player of the first order, a combination of amiable mayor and string-pulling godfather. But his career came to an apparent end on Tuesday in a way that has become numbingly routine in the entertainment business: He was ensnared in a tawdry scandal.",
+      "publication_date": "2020-08-18T18:29:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/18/business/media/ron-meyer-nbcuniversal-resign.html",
+      "byline": "By Brooks Barnes and Nicole Sperling"
+    },
+    {
+      "headline": "Postal Service Suspends Changes After Outcry Over Delivery Slowdown",
+      "snippet": "Policy changes by the postmaster general prompted allegations that the Trump administration was trying to disenfranchise voters before the 2020 election.",
+      "abstract": "Policy changes by the postmaster general prompted allegations that the Trump administration was trying to disenfranchise voters before the 2020 election.",
+      "lead_paragraph": "[Follow our daily updates on the latest presidential election polls.]",
+      "publication_date": "2020-08-18T18:54:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/18/us/politics/postal-service-suspends-changes.html",
+      "byline": "By Emily Cochrane, Hailey Fuchs, Kenneth P. Vogel and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "What Is QAnon, the Viral Pro-Trump Conspiracy Theory?",
+      "snippet": "Explaining the “big tent conspiracy theory” that falsely claims that President Trump is facing down a shadowy cabal of Democratic pedophiles.",
+      "abstract": "Explaining the “big tent conspiracy theory” that falsely claims that President Trump is facing down a shadowy cabal of Democratic pedophiles.",
+      "lead_paragraph": "If you’re spending a lot of time online these days — and thanks to the pandemic, many of us are — you’ve probably heard of QAnon, the sprawling internet conspiracy theory that has taken hold among some of President Trump’s supporters.",
+      "publication_date": "2020-08-18T20:10:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/article/what-is-qanon.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "‘This Market Is Nuts’: S&P 500 Hits Record, Defying Economic Devastation",
+      "snippet": "Investors have cast the nearly relentless drumbeat of bad news aside to focus on any signs that the worst of the coronavirus pandemic might be over.",
+      "abstract": "Investors have cast the nearly relentless drumbeat of bad news aside to focus on any signs that the worst of the coronavirus pandemic might be over.",
+      "lead_paragraph": "Widespread economic devastation, severe unemployment and a grim prognosis for recovery have not stopped the stock market’s exuberance. And on Tuesday, that undying optimism propelled the market to a new high, pushing it past a milestone reached only six months ago, when the coronavirus was just beginning its harrowing journey across the United States.",
+      "publication_date": "2020-08-18T21:18:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/18/business/stock-market-record.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Much Changed World, Same Joe Biden Seeking to Undo What Trump Has Done",
+      "snippet": "Night 2 of the Democratic National Convention focused on how much work awaits the next president, and all the reasons Democrats think voters should trust Mr. Biden with the job.",
+      "abstract": "Night 2 of the Democratic National Convention focused on how much work awaits the next president, and all the reasons Democrats think voters should trust Mr. Biden with the job.",
+      "lead_paragraph": "WILMINGTON, Del. — The Tuesday night speaking lineup for the Democratic National Convention was always intended as a muscular contrast on foreign policy and diplomatic integrity, presented to viewers under the evening’s unsubtle theme: “Leadership Matters.”",
+      "publication_date": "2020-08-19T00:26:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/18/us/politics/joe-biden-foreign-policy.html",
+      "byline": "By Katie Glueck, Matt Flegenheimer and David E. Sanger"
+    },
+    {
+      "headline": "Democrats Nominate Biden for President, Delivering Long-Sought Prize",
+      "snippet": "In a virtual roll call showcasing its diversity, the party rewarded Joe Biden with the nomination he has pursued intermittently since 1988. The long-awaited victory is a triumph of personal and political endurance.",
+      "abstract": "In a virtual roll call showcasing its diversity, the party rewarded Joe Biden with the nomination he has pursued intermittently since 1988. The long-awaited victory is a triumph of personal and political endurance.",
+      "lead_paragraph": "Democrats formally nominated Joseph R. Biden Jr. for the presidency on Tuesday night, anointing him as their standard-bearer against President Trump with an extraordinary virtual roll call vote that showcased the cultural diversity of their coalition and exposed a generational gulf that is increasingly defining the party.",
+      "publication_date": "2020-08-19T02:21:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/08/18/us/politics/biden-dnc.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Virus Alters Where People Open Their Wallets, Hinting at a Halting Recovery",
+      "snippet": "Despite eased restrictions, people are still avoiding malls, restaurants and other businesses, raising questions about the strength and speed of the recovery.",
+      "abstract": "Despite eased restrictions, people are still avoiding malls, restaurants and other businesses, raising questions about the strength and speed of the recovery.",
+      "lead_paragraph": "Despite eased restrictions, people are still avoiding malls, restaurants and other businesses, raising questions about the strength and speed of the recovery.",
+      "publication_date": "2020-08-19T03:32:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/interactive/2020/08/18/business/economy/coronavirus-economic-recovery-states.html",
+      "byline": "By Jennifer Valentino-DeVries, Ella Koeze and Sapna Maheshwari"
+    },
+    {
+      "headline": "Apple Reaches $2 Trillion, Punctuating Big Tech’s Grip",
+      "snippet": "Apple is the first U.S. company to hit that value, a staggering ascent that began in the pandemic.",
+      "abstract": "Apple is the first U.S. company to hit that value, a staggering ascent that began in the pandemic.",
+      "lead_paragraph": "It took Apple 42 years to reach $1 trillion in value. It took it just two more years to get to $2 trillion.",
+      "publication_date": "2020-08-19T14:55:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/08/19/technology/apple-2-trillion.html",
+      "byline": "By Jack Nicas"
+    }
+  ]
+}

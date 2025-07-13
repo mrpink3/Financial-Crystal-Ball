@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2015-07-29",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "In Iran, Jason Rezaian’s Reporting Strengths Led to Suspicion, Then Detention",
+      "snippet": "The Washington Post correspondent, who is accused of espionage, may have aroused suspicion by gaining strong connections to Iranian sources, his friends and colleagues say.",
+      "abstract": "The Washington Post correspondent, who is accused of espionage, may have aroused suspicion by gaining strong connections to Iranian sources, his friends and colleagues say.",
+      "lead_paragraph": "TEHRAN — For Jason Rezaian, the Washington Post reporter now on trial on espionage charges in Iran, the incident was extraordinary but still looked like another example of the difficulties in covering the country’s politics.",
+      "publication_date": "2015-07-28T17:42:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/07/29/world/middleeast/irans-trial-of-jason-rezaian-illustrates-perils-faced-by-reporters.html",
+      "byline": "By Thomas Erdbrink and Rick Gladstone"
+    },
+    {
+      "headline": "Wall St. Money Meets Social Policy at Rikers Island  ",
+      "snippet": "A bold experiment to fight teenage recidivism at New York’s infamous prison failed, but it may have helped set the stage for broader success.",
+      "abstract": "A bold experiment to fight teenage recidivism at New York’s infamous prison failed, but it may have helped set the stage for broader success.",
+      "lead_paragraph": "First, the control group fell apart. Wardens at Rikers Island, the New York City jail, could not separate teenagers who were to participate in a course of cognitive behavioral therapy from those who were not supposed to attend.",
+      "publication_date": "2015-07-28T18:41:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/29/business/economy/wall-st-money-meets-social-policy-at-rikers-island.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Twitter Revenue Up 61%, but User Growth Lags",
+      "snippet": "Shares fell after the company’s executives warned that the social network was still too hard to use and that it would take time to address the issue.",
+      "abstract": "Shares fell after the company’s executives warned that the social network was still too hard to use and that it would take time to address the issue.",
+      "lead_paragraph": "SAN FRANCISCO — If you’re like most people, you don’t see the point of Twitter — and that’s a big problem for the company.",
+      "publication_date": "2015-07-28T20:36:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/29/technology/twitter-quarterly-earnings.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "Under Oath, Donald Trump Shows His Raw Side",
+      "snippet": "Hundreds of pages of sworn testimony by Donald J. Trump over the past decade paint an unvarnished image of Mr. Trump as prone to overstatement and the occasional boorish outburst.",
+      "abstract": "Hundreds of pages of sworn testimony by Donald J. Trump over the past decade paint an unvarnished image of Mr. Trump as prone to overstatement and the occasional boorish outburst.",
+      "lead_paragraph": "Donald J. Trump seemed irritated. He had been grilled for two hours in a lawsuit over a failed Florida real estate project, and he told the lawyer that her questions were “very stupid.”",
+      "publication_date": "2015-07-29T00:54:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/07/29/us/politics/depositions-show-donald-trump-as-quick-to-exaggerate-and-insult.html",
+      "byline": "By Michael Barbaro and Steve Eder"
+    },
+    {
+      "headline": "U.S. Extends Investigation of JPMorgan Chase Hacking",
+      "snippet": "Federal authorities say they believe that some of the people suspected in last summer’s big online attack against JPMorgan Chase also turned to friends and acquaintances to further their ends.",
+      "abstract": "Federal authorities say they believe that some of the people suspected in last summer’s big online attack against JPMorgan Chase also turned to friends and acquaintances to further their ends.",
+      "lead_paragraph": "During the government’s long crackdown on insider trading in the hedge fund industry, investigators often looked for ties among a loose circle of friends.",
+      "publication_date": "2015-07-29T01:01:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/29/business/us-extends-bank-breach-investigation.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Nikkei Vies for Global Clout With Splurge on The Financial Times",
+      "snippet": "The Japanese business newspaper hopes that the $1.3 billion purchase will give it a trophy that can compete with major papers in Europe and America.",
+      "abstract": "The Japanese business newspaper hopes that the $1.3 billion purchase will give it a trophy that can compete with major papers in Europe and America.",
+      "lead_paragraph": "TOKYO — Not long after he took over as president of Japan’s dominant business newspaper in April, Naotoshi Okada delivered a message to his 1,300 reporters and editors. It was time, he said, for Nikkei, the muscular but domestically focused broadsheet, to attain the global influence it had long craved.",
+      "publication_date": "2015-07-29T01:02:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/29/business/media/nikkei-vies-for-global-clout-with-splurge-on-the-financial-times.html",
+      "byline": "By Jonathan Soble"
+    },
+    {
+      "headline": "How Germany Prevailed in the Greek Bailout",
+      "snippet": "Germany’s patience and brinkmanship, while exploiting mistakes made by the Athens government under Prime Minister Alexis Tsipras, led the way to a Berlin consensus.",
+      "abstract": "Germany’s patience and brinkmanship, while exploiting mistakes made by the Athens government under Prime Minister Alexis Tsipras, led the way to a Berlin consensus.",
+      "lead_paragraph": "BERLIN — At the height of crucial negotiations over the latest bailout of Greece this month, Germany circulated a proposal that undercut decades of promises about the march toward deeper European unity: Greece, it said, could be offered a temporary exit from the euro.",
+      "publication_date": "2015-07-29T08:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/07/30/world/europe/how-germany-prevailed-in-the-greek-bailout.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "Taliban Leader Mullah Omar Died in 2013, Afghans Declare",
+      "snippet": "Speculation had increased in recent months that the Taliban’s reclusive leader had died in secret, leading some insurgent commanders to break away.",
+      "abstract": "Speculation had increased in recent months that the Taliban’s reclusive leader had died in secret, leading some insurgent commanders to break away.",
+      "lead_paragraph": "KABUL, Afghanistan — After months of speculation, Afghan officials announced Wednesday that they were now certain that the Taliban’s reclusive leader, Mullah Muhammad Omar, died in a Pakistani hospital in 2013.",
+      "publication_date": "2015-07-29T11:18:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/07/30/world/asia/mullah-omar-taliban-death-reports-prompt-inquiry-by-afghan-government.html",
+      "byline": "By Rod Nordland and Joseph Goldstein"
+    },
+    {
+      "headline": "Skirting Comedy Limits in Myanmar",
+      "snippet": "The Moustache Brothers carry on with a tradition of satire, but only to audiences of foreigners and not in public venues in Burmese.",
+      "abstract": "The Moustache Brothers carry on with a tradition of satire, but only to audiences of foreigners and not in public venues in Burmese.",
+      "lead_paragraph": "MANDALAY, Myanmar — Emerging from behind a tawdry blue curtain in the garage of his three-story home here in Myanmar’s second-largest city, U Lu Maw made his way onto a makeshift stage to do what he does best: tell jokes.",
+      "publication_date": "2015-07-29T13:52:06+0000",
+      "section_name": "Arts",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2015/07/30/arts/international/skirting-comedy-limits-in-myanmar.html",
+      "byline": "By Philip J. Heijmans"
+    },
+    {
+      "headline": "Steep Discounts a Boon for Customers, but a Gamble for Start-Ups",
+      "snippet": "As new tech companies spend huge amounts to lure customers with deals, it’s a great time to be a consumer. But can these companies ever turn a profit?",
+      "abstract": "As new tech companies spend huge amounts to lure customers with deals, it’s a great time to be a consumer. But can these companies ever turn a profit?",
+      "lead_paragraph": "Jet.com, a well-funded new shopping site, opened to the public last week and celebrated the debut by sending reporters a big box of swag. I got a T-shirt with a company logo, fuzzy socks, stickers and $1,400 in oversize, fake $100 bills.",
+      "publication_date": "2015-07-29T15:21:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/30/technology/personaltech/steep-discounts-a-boon-for-customers-but-a-gamble-for-start-ups.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Uncertain Trade Path for South Korea’s Kimchi",
+      "snippet": "South Korea is not permitted to export kimchi, fermented cabbage, to China, but cheaper Chinese kimchi flows freely into South Korea.",
+      "abstract": "South Korea is not permitted to export kimchi, fermented cabbage, to China, but cheaper Chinese kimchi flows freely into South Korea.",
+      "lead_paragraph": "SEOUL, South Korea — The fate of South Korea’s kimchi industry rests on whether China considers it pickled or not.",
+      "publication_date": "2015-07-29T15:44:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/07/30/business/international/chinese-trade-rules-put-south-koreas-kimchi-industry-in-a-pickle.html",
+      "byline": "By Alexandra Stevenson"
+    }
+  ]
+}

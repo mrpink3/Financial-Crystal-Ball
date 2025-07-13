@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-11-18",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Corporations and Foreign Nations Pivot to Lobby Biden",
+      "snippet": "Lobbyists and consultants are highlighting their ties to the incoming president, which have become lucrative.",
+      "abstract": "Lobbyists and consultants are highlighting their ties to the incoming president, which have become lucrative.",
+      "lead_paragraph": "WASHINGTON — The morning after Election Day, as votes were still being counted, diplomats from more than 20 foreign governments logged into a videoconference to hear Joe Lockhart, a veteran Democratic operative, provide what his consulting firm’s invitation described as “insider tips on how to make YOUR agenda happen in the aftermath of an election.”",
+      "publication_date": "2020-11-17T17:38:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/17/us/politics/corporations-and-foreign-nations-pivot-to-lobby-biden.html",
+      "byline": "By Kenneth P. Vogel and Eric Lipton"
+    },
+    {
+      "headline": "U.S. Troops Are Packing Up, Ready or Not",
+      "snippet": "The Pentagon has announced a reduction down to 2,500 U.S. troops in Afghanistan before President-elect Biden takes office. Afghan officials fear the cuts will encourage the Taliban to keep fighting.",
+      "abstract": "The Pentagon has announced a reduction down to 2,500 U.S. troops in Afghanistan before President-elect Biden takes office. Afghan officials fear the cuts will encourage the Taliban to keep fighting.",
+      "lead_paragraph": "KANDAHAR, Afghanistan — Had it not been for dozens of U.S. airstrikes in recent weeks, the southern hub city Kandahar would be under siege, after Taliban fighters threatened to overrun several surrounding districts, security officials say.",
+      "publication_date": "2020-11-18T00:00:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/17/world/asia/afghanistan-troop-withdrawal.html",
+      "byline": "By Thomas Gibbons-Neff, Najim Rahim and Fatima Faizi"
+    },
+    {
+      "headline": "In Georgia, a Republican Feud With Trump at the Center",
+      "snippet": "Double-crossing. Accusations of lying and incompetence. And a bitter divide over whether to endorse President Trump’s false claims of fraud. The G.O.P. in Georgia has a messy feud unfolding, with two Senate seats up for grabs.",
+      "abstract": "Double-crossing. Accusations of lying and incompetence. And a bitter divide over whether to endorse President Trump’s false claims of fraud. The G.O.P. in Georgia has a messy feud unfolding, with two Senate seats up for grabs.",
+      "lead_paragraph": "ATLANTA — There is no worse time for Georgia Republicans to be engulfed in a civil war. Their presidential candidate just narrowly lost the state, which has long been a conservative safe space, while two competitive runoff races are looming in January that could determine control of the U.S. Senate — and the direction of the country for the first part of this decade.",
+      "publication_date": "2020-11-18T00:20:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.html",
+      "byline": "By Richard Fausset and Jonathan Martin"
+    },
+    {
+      "headline": "Michigan Republicans Backtrack After Refusing to Certify Election Results",
+      "snippet": "G.O.P. members of the elections board in Wayne County, which includes Detroit and is heavily Democratic, reversed their decision to hold up approval of Joe Biden’s victory after an outcry.",
+      "abstract": "G.O.P. members of the elections board in Wayne County, which includes Detroit and is heavily Democratic, reversed their decision to hold up approval of Joe Biden’s victory after an outcry.",
+      "lead_paragraph": "DETROIT — Republican members of a key Michigan elections board refused on Tuesday to certify Detroit’s election results in a nakedly partisan effort to hold up Joseph R. Biden Jr.’s victory over President Trump — only to reverse themselves after an outcry from the city’s voters and state officials.",
+      "publication_date": "2020-11-18T02:57:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/17/us/politics/michigan-certify-election-results.html",
+      "byline": "By Kathleen Gray, Jim Rutenberg and Nick Corasaniti"
+    },
+    {
+      "headline": "How the Out-of-Control Pandemic Is Speeding the Testing of Vaccines",
+      "snippet": "The surge in coronavirus cases worldwide is helping researchers measure more quickly how well their vaccines protect against Covid-19.",
+      "abstract": "The surge in coronavirus cases worldwide is helping researchers measure more quickly how well their vaccines protect against Covid-19.",
+      "lead_paragraph": "The coronavirus is spreading out of control in the United States, overwhelming health systems and killing more than 1,100 Americans a day. But there is a slender silver lining: It is hastening the testing of vaccines that could eventually end the pandemic.",
+      "publication_date": "2020-11-18T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/18/business/covid-pandemic-speeding-vaccines.html",
+      "byline": "By Rebecca Robbins"
+    },
+    {
+      "headline": "Apple Halves Its App Store Fee for the Smaller Companies",
+      "snippet": "App makers bridled at the 30 percent commission, which has drawn scrutiny from regulators looking into antitrust claims.",
+      "abstract": "App makers bridled at the 30 percent commission, which has drawn scrutiny from regulators looking into antitrust claims.",
+      "lead_paragraph": "Apple, facing growing antitrust scrutiny over what it charges other companies for access to its App Store, said on Wednesday that it would cut in half the fee it took from the smallest app developers.",
+      "publication_date": "2020-11-18T11:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/11/18/technology/apple-app-store-fee.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "Boeing 737 Max Is Cleared by F.A.A. to Fly Again",
+      "snippet": "The U.S. agency said changes in software, design and training had made the plane safe to operate after two fatal crashes and 20 months out of service.",
+      "abstract": "The U.S. agency said changes in software, design and training had made the plane safe to operate after two fatal crashes and 20 months out of service.",
+      "lead_paragraph": "After 20 months on the ground, Boeing’s 737 Max will soon fly again, ending a tragic episode that cost 346 people their lives and did serious damage to the big U.S. jet builder.",
+      "publication_date": "2020-11-18T12:54:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/18/business/boeing-737-max-faa.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "How Iowa’s Governor Went From Dismissing Mask Mandates to Ordering One Herself",
+      "snippet": "“I don’t want to do this,” Gov. Kim Reynolds said, joining a wave of Republican governors issuing new mask orders as her state faces a spiraling hospital crisis.",
+      "abstract": "“I don’t want to do this,” Gov. Kim Reynolds said, joining a wave of Republican governors issuing new mask orders as her state faces a spiraling hospital crisis.",
+      "lead_paragraph": "For months, Gov. Kim Reynolds of Iowa saw little need to intervene in the choices of Iowans, who she insisted could make their own decisions about whether to wear a mask to protect against a dangerous pandemic.",
+      "publication_date": "2020-11-18T15:02:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/11/18/us/coronavirus-mask-mandate-iowa-reynolds.html",
+      "byline": "By Sarah Mervosh, Nicholas Bogel-Burroughs, Giulia McDonnell Nieto del Rio and Tim Arango"
+    }
+  ]
+}

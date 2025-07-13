@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2013-01-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Hold Your Applause, Please, Until After the Toasts",
+      "snippet": "The year in deals brought highs like the turnaround at A.I.G., the noble mea culpa at JPMorgan Chase and the potentially promising future of Yahoo.",
+      "abstract": "The year in deals brought highs like the turnaround at A.I.G., the noble mea culpa at JPMorgan Chase and the potentially promising future of Yahoo.",
+      "lead_paragraph": "Gentlemen, ladies, please take your seats.",
+      "publication_date": "2013-01-01T00:47:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/12/31/hold-your-applause-please-until-after-the-toasts/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Grand Deals Give Way to Legislative Quick Fixes",
+      "snippet": "In Washington, where President Obama and the Republican-controlled House are apt to clash, big bipartisan legislative dreams seem all but certain to be miniaturized as incremental policy visions.",
+      "abstract": "In Washington, where President Obama and the Republican-controlled House are apt to clash, big bipartisan legislative dreams seem all but certain to be miniaturized as incremental policy visions.",
+      "lead_paragraph": "WASHINGTON — The confusing struggle to head off a national fiscal crisis has made one thing crystal clear: The era of the Big Deal is over.",
+      "publication_date": "2013-01-01T01:09:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/01/01/us/politics/grand-bargains-give-way-to-legislative-quick-fixes.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "1991 Victory Over Iraq Was Swift, but Hardly Flawless",
+      "snippet": "The 1991 Persian Gulf war has been cast as a model for a successful intervention, but debates continue today about the way the White House brought the war to an abrupt end.",
+      "abstract": "The 1991 Persian Gulf war has been cast as a model for a successful intervention, but debates continue today about the way the White House brought the war to an abrupt end.",
+      "lead_paragraph": "WASHINGTON — As the 1991 Persian Gulf war drew to a close, Gen. H. Norman Schwarzkopf told an anxious nation that an American-led juggernaut had swept across the desert, stunned its foe and evicted Saddam Hussein’s forces from Kuwait.",
+      "publication_date": "2013-01-01T03:10:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/01/01/world/middleeast/victory-over-iraq-in-1991-was-swift-but-flawed.html",
+      "byline": "By Michael R. Gordon"
+    },
+    {
+      "headline": "Trendy Spot Urges Tourists to Ride In and Spend, ‘Gangnam Style’",
+      "snippet": "The success of the “Gangnam Style” video, by a midlevel star who goes by Psy, has fueled grand ambitions by a district that wants to be known as a center of conspicuous consumption.",
+      "abstract": "The success of the “Gangnam Style” video, by a midlevel star who goes by Psy, has fueled grand ambitions by a district that wants to be known as a center of conspicuous consumption.",
+      "lead_paragraph": "SEOUL, South Korea — As monuments go, this one seems puny and tasteless next to the designer glass skyscrapers and upscale fashion boutiques of the affluent Gangnam district. Yet, it occupies a spot of honor right across from Samsung’s corporate headquarters: a hastily built plywood stage decorated with black, cutout silhouettes of a rotund man who appears to be prancing like a horse.",
+      "publication_date": "2013-01-01T03:13:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/01/01/world/asia/flaunting-gangnam-style-trendy-area-urges-visitors-to-prance-in.html",
+      "byline": "By Martin Fackler"
+    }
+  ]
+}

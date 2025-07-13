@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-03-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Eton Park to Shut Down as $3 Trillion Hedge Fund Industry Faces Turmoil",
+      "snippet": "The firm, founded by a former Goldman Sachs partner, Eric Mindich, decided to close after a 10 percent decline in performance last year.",
+      "abstract": "The firm, founded by a former Goldman Sachs partner, Eric Mindich, decided to close after a 10 percent decline in performance last year.",
+      "lead_paragraph": "A well-known money manager is shutting down his firm after a year of disappointing results — the latest sign of turmoil in the $3 trillion hedge fund industry.",
+      "publication_date": "2017-03-23T16:34:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/23/business/dealbook/eton-park-hedge-fund-closes.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Congress Moves to Strike Internet Privacy Rules From Obama Era",
+      "snippet": "The Senate voted to overturn regulations that required telecom companies to ask permission before tracking users’ behavior, beginning a repeal of Obama-era regulations.",
+      "abstract": "The Senate voted to overturn regulations that required telecom companies to ask permission before tracking users’ behavior, beginning a repeal of Obama-era regulations.",
+      "lead_paragraph": "WASHINGTON — Republican senators moved Thursday to dismantle landmark internet privacy protections for consumers in the first decisive strike against telecommunications and technology regulations created during the Obama administration, and a harbinger of further deregulation.",
+      "publication_date": "2017-03-23T19:54:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/23/technology/congress-moves-to-strike-internet-privacy-rules-from-obama-era.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "YouTube Advertiser Exodus Highlights Perils of Online Ads",
+      "snippet": "A web giant promises to tighten its safeguards to avoid pairing ads with offensive content, but advertisers are not convinced.",
+      "abstract": "A web giant promises to tighten its safeguards to avoid pairing ads with offensive content, but advertisers are not convinced.",
+      "lead_paragraph": "When Google acquired YouTube in 2006 for $1.65 billion, it was considered a pricey gamble, one made with the belief that an online service known for pirated videos and vapid user-generated content could appeal to major advertisers.",
+      "publication_date": "2017-03-24T00:45:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/23/business/media/youtube-advertisers-offensive-content.html",
+      "byline": "By Daisuke Wakabayashi and Sapna Maheshwari"
+    },
+    {
+      "headline": "Trump the Dealmaker Projects Bravado, but Behind the Scenes, Faces Rare Self-Doubt",
+      "snippet": "People close to President Trump say he is grappling with bouts of self-doubt as his hopes for a quick health-care victory unravel.",
+      "abstract": "People close to President Trump say he is grappling with bouts of self-doubt as his hopes for a quick health-care victory unravel.",
+      "lead_paragraph": "WASHINGTON — President Trump, the author of “The Art of the Deal,” has been projecting his usual bravado in public this week about the prospects of repealing the Affordable Care Act. Privately he is grappling with rare bouts of self-doubt.",
+      "publication_date": "2017-03-24T01:20:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/23/us/politics/trump-health-care-bill-regrets.html",
+      "byline": "By Glenn Thrush and Maggie Haberman"
+    },
+    {
+      "headline": "College Is the Goal. The Problem? Getting There.",
+      "snippet": "For working-class students like Nate, Zac and TaTy, the road to college is unfamiliar and rocky, and even imagining oneself on campus can be an obstacle.",
+      "abstract": "For working-class students like Nate, Zac and TaTy, the road to college is unfamiliar and rocky, and even imagining oneself on campus can be an obstacle.",
+      "lead_paragraph": "TOPEKA, Kan. — She was a blur of motion — leading the school step-dance team, working long hours after school at a beauty products store, mentoring younger students and caring for her siblings. So TaTy’Terria Gary, a senior at Topeka High School, had little time last fall to study for the ACT college admission test.",
+      "publication_date": "2017-03-24T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/24/us/topeka-college-acceptance-applying-selection.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "In Major Defeat for Trump, Push to Repeal Health Law Fails",
+      "snippet": "House Republican leaders withdrew legislation to repeal the Affordable Care Act from the House floor before it could be defeated, a loss for President Trump.",
+      "abstract": "House Republican leaders withdrew legislation to repeal the Affordable Care Act from the House floor before it could be defeated, a loss for President Trump.",
+      "lead_paragraph": "WASHINGTON — House Republican leaders, facing a revolt among conservatives and moderates in their ranks, pulled legislation to repeal the Affordable Care Act from consideration on the House floor Friday in a major defeat for President Trump on the first legislative showdown of his presidency.",
+      "publication_date": "2017-03-24T13:57:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/24/us/politics/health-care-affordable-care-act.html",
+      "byline": "By Robert Pear, Thomas Kaplan and Maggie Haberman"
+    }
+  ]
+}

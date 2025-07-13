@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-08-06",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Apple’s iPhones Will Include New Tools to Flag Child Sexual Abuse",
+      "snippet": "The changes, for later this year, raised concerns that the company is installing surveillance technology that governments could exploit.",
+      "abstract": "The changes, for later this year, raised concerns that the company is installing surveillance technology that governments could exploit.",
+      "lead_paragraph": "Apple on Thursday unveiled changes to iPhones designed to catch cases of child sexual abuse, a move that is likely to please parents and the police but that was already worrying privacy watchdogs.",
+      "publication_date": "2021-08-05T19:04:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/05/technology/apple-iphones-privacy.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "NBC Tries to Salvage a Difficult Olympics",
+      "snippet": "The pandemic has dimmed what is typically a festive television event, contributing to low ratings and complaints from advertisers.",
+      "abstract": "The pandemic has dimmed what is typically a festive television event, contributing to low ratings and complaints from advertisers.",
+      "lead_paragraph": "The 1992 Olympics in Barcelona had the Dream Team. The 2008 Olympics in Beijing had the Michael Phelps medal sweep. The Tokyo Olympics has a pandemic.",
+      "publication_date": "2021-08-05T20:58:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/05/business/media/nbc-olympics-tv-ratings.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "How Biden’s E.V. Plan Could Help Tesla and Squeeze Toyota",
+      "snippet": "A push to increase sales of electric vehicles favors companies that already have all-electric cars on the market and could penalize those that don’t.",
+      "abstract": "A push to increase sales of electric vehicles favors companies that already have all-electric cars on the market and could penalize those that don’t.",
+      "lead_paragraph": "The Biden administration’s vow on Thursday to push sales of electric vehicles to 50 percent of new car purchases by 2030 means that there’s no place left to hide for any carmaker resisting the shift to battery power.",
+      "publication_date": "2021-08-06T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html",
+      "byline": "By Jack Ewing and Neal E. Boudette"
+    },
+    {
+      "headline": "No Work, No Food: Pandemic Deepens Global Hunger",
+      "snippet": "Relentless waves of the virus, combined with crises caused by conflict and climate change, have left tens of millions of people around the world on the brink of famine.",
+      "abstract": "Relentless waves of the virus, combined with crises caused by conflict and climate change, have left tens of millions of people around the world on the brink of famine.",
+      "lead_paragraph": "EAST LONDON, South Africa — Even as thousands died and millions lost their jobs when the Covid-19 pandemic engulfed South Africa last year, Thembakazi Stishi, a single mother, was able to feed her family with the steady support of her father, a mechanic at a Mercedes plant. ",
+      "publication_date": "2021-08-06T07:00:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/06/world/africa/covid-19-global-hunger.html",
+      "byline": "By Christina Goldbaum and Joao Silva"
+    },
+    {
+      "headline": "In Qatar, the Olympic Team (Like Much Else) Is Mostly Imported",
+      "snippet": "The small Gulf country, most of whose residents are foreign workers, has looked beyond its borders for athletes, too.",
+      "abstract": "The small Gulf country, most of whose residents are foreign workers, has looked beyond its borders for athletes, too.",
+      "lead_paragraph": "TOKYO — There is a lot of sand in Qatar but not a lot of beach parties. At least, not the kind of revelry that tends to draw beach volleyball players, in their bikinis and short shorts.",
+      "publication_date": "2021-08-06T07:12:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "D",
+      "web_url": "https://www.nytimes.com/2021/08/06/world/asia/qatar-olympics-athletes.html",
+      "byline": "By Hannah Beech"
+    },
+    {
+      "headline": "Jobs Surge in July Offers Fresh Sign of Economic Recovery",
+      "snippet": "The gain of 943,000 was the best showing in nearly a year, and unemployment was 5.4 percent, the lowest since the pandemic began.",
+      "abstract": "The gain of 943,000 was the best showing in nearly a year, and unemployment was 5.4 percent, the lowest since the pandemic began.",
+      "lead_paragraph": "The American economy roared into midsummer with a strong gain in hiring, overcoming trouble in matching workers with openings, as the recovery appeared to take firmer hold.",
+      "publication_date": "2021-08-06T08:55:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/06/business/economy/july-2021-jobs-report.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Taliban Seize Afghan Provincial Capital Just Weeks Before Final U.S. Withdrawal",
+      "snippet": "Zaranj, on the Afghanistan-Iran border, was the first provincial capital to be captured by the insurgents since the Biden administration said it would completely withdraw U.S. troops from Afghanistan.",
+      "abstract": "Zaranj, on the Afghanistan-Iran border, was the first provincial capital to be captured by the insurgents since the Biden administration said it would completely withdraw U.S. troops from Afghanistan.",
+      "lead_paragraph": "KABUL, Afghanistan — The Taliban captured a regional hub city in western Afghanistan on Friday, officials said, the first provincial capital to fall to the insurgency since the Biden administration announced the full withdrawal of U.S. troops.",
+      "publication_date": "2021-08-06T13:37:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/06/world/asia/taliban-afghanistan-capital-zaranj.html",
+      "byline": "By Adam Nossiter, Taimoor Shah and Fahim Abed"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2007-02-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Scandal at Siemens Tarnishes Promising Results",
+      "snippet": "Siemens has reported buoyant financial results but is immersed in a fast-expanding corruption scandal that threatens to torpedo its reputation.",
+      "abstract": "Siemens has reported buoyant financial results but is immersed in a fast-expanding corruption scandal that threatens to torpedo its reputation.",
+      "lead_paragraph": "MUNICH, Feb. 27 — Klaus Kleinfeld’s office here is dominated by a photograph of a storm-tossed sea off Iceland. Mr. Kleinfeld relishes the churning image, he said, though as counterpoint, he has hung a soothing watercolor with pink blossoms on another wall.",
+      "publication_date": "2007-02-28T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/28/business/worldbusiness/28siemens.html",
+      "byline": "By Mark Landler and Carter Dougherty"
+    },
+    {
+      "headline": "Wall St. Tumble Adds to Worries About Economies",
+      "snippet": "Stock markets around the world plummeted Tuesday in a wave of selling set off by a plunge in China. ",
+      "abstract": "Stock markets around the world plummeted Tuesday in a wave of selling set off by a plunge in China. ",
+      "lead_paragraph": "Stock markets around the world plummeted yesterday in a wave of selling set off by a plunge in China that was reinforced by worries of weakening economies. The falling prices continued in early Asian trading today, but by midday the Chinese market seemed to be stabilizing.",
+      "publication_date": "2007-02-28T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/28/business/28stox.html",
+      "byline": "By Floyd Norris and Jeremy W. Peters"
+    },
+    {
+      "headline": "Freddie Mac Tightens Standards",
+      "snippet": "The easy money is making a quick exit out of risky mortgages.",
+      "abstract": "The easy money is making a quick exit out of risky mortgages.",
+      "lead_paragraph": "The easy money is making a quick exit out of risky mortgages.",
+      "publication_date": "2007-02-28T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/28/business/28mortgage.html",
+      "byline": "By Vikas Bajaj"
+    },
+    {
+      "headline": "A Recession That Arrived on Cats’ Paws",
+      "snippet": "The nation’s manufacturing sector managed to slip into a recession with almost nobody seeming to notice. Well, until Tuesday.",
+      "abstract": "The nation’s manufacturing sector managed to slip into a recession with almost nobody seeming to notice. Well, until Tuesday.",
+      "lead_paragraph": " The nation’s manufacturing sector managed to slip into a recession with almost nobody seeming to notice. Well, until yesterday.",
+      "publication_date": "2007-02-28T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/28/business/28leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "From Shanghai, Tremors Heard Around the World",
+      "snippet": "To many investors and analysts, the massive sell-off Tuesday was just the latest indication that share prices in China have been defying expectations.",
+      "abstract": "To many investors and analysts, the massive sell-off Tuesday was just the latest indication that share prices in China have been defying expectations.",
+      "lead_paragraph": "SHANGHAI, Feb. 27 — In China’s wild cowboy stock market, record-breaking run-ups have been followed by mini-crashes that have been largely confined within this country’s borders.",
+      "publication_date": "2007-02-28T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/02/28/business/worldbusiness/28shanghai.html",
+      "byline": "By David Barboza"
+    },
+    {
+      "headline": "Low Pay and Broken Promises Greet Guest Workers",
+      "snippet": "Lawmakers are pushing to expand the U.S. guest worker program, but labor experts say workers suffer abuses.",
+      "abstract": "Lawmakers are pushing to expand the U.S. guest worker program, but labor experts say workers suffer abuses.",
+      "lead_paragraph": "To a rice farmer from Thailand making $500 a year, the recruiter’s pitch was hard to resist — three years of farm work in North Carolina that would pay more than 30 times as much as he earned at home.",
+      "publication_date": "2007-02-28T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/02/28/us/28labor.html",
+      "byline": "By Steven Greenhouse"
+    }
+  ]
+}

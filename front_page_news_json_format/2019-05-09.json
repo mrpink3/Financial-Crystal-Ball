@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2019-05-09",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "‘We Have a Lot of Questions’: Doubts Loom Over G.M. Plan for Lordstown Plant",
+      "snippet": "President Trump said he was helping to save jobs at the Ohio factory after General Motors ceased production there. But such promises have not always panned out.",
+      "abstract": "President Trump said he was helping to save jobs at the Ohio factory after General Motors ceased production there. But such promises have not always panned out.",
+      "lead_paragraph": "It has all the elements of a classic Trump tale: intervention with an otherwise heartless company, a saved factory in the heartland, and assurances that old-school manufacturing jobs would be preserved.",
+      "publication_date": "2019-05-08T16:13:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/08/business/gm-lordstown-trump.html",
+      "byline": "By Nelson D. Schwartz and Neal E. Boudette"
+    },
+    {
+      "headline": "Uber I.P.O. is Expected to be Priced at the Midpoint",
+      "snippet": "At that level, of $47 a share, Uber would be valued at about $86 billion — well below the $100 billion that the company had forecast last month.",
+      "abstract": "At that level, of $47 a share, Uber would be valued at about $86 billion — well below the $100 billion that the company had forecast last month.",
+      "lead_paragraph": "[Update: Uber prices I.P.O. at $45 a share, valuing it at $82.4 billion.]",
+      "publication_date": "2019-05-08T18:45:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/08/technology/uber-ipo-price.html",
+      "byline": "By Michael J. de la Merced and Mike Isaac"
+    },
+    {
+      "headline": "Donald Trump Jr. Is Subpoenaed to Testify to Senate Panel on Russia Contacts",
+      "snippet": "Mr. Trump is the first of the president’s children to be subpoenaed in the congressional investigations into Russia’s 2016 election interference.",
+      "abstract": "Mr. Trump is the first of the president’s children to be subpoenaed in the congressional investigations into Russia’s 2016 election interference.",
+      "lead_paragraph": "WASHINGTON — The Senate Intelligence Committee has subpoenaed Donald Trump Jr., the president’s eldest son, who met with Russians in June 2016 after being promised political dirt about Hillary Clinton, according to people familiar with the committee’s decision.",
+      "publication_date": "2019-05-08T21:37:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/08/us/politics/donald-trump-jr-subpoena.html",
+      "byline": "By Mark Mazzetti and Maggie Haberman"
+    },
+    {
+      "headline": "As States Race to Limit Abortions, Alabama Goes Further, Seeking to Outlaw Most of Them",
+      "snippet": "Alabama is advancing a bill to ban most abortions, though exceptions for rape, incest and serious threats to the mother’s health were being considered.",
+      "abstract": "Alabama is advancing a bill to ban most abortions, though exceptions for rape, incest and serious threats to the mother’s health were being considered.",
+      "lead_paragraph": "MONTGOMERY, Ala. — Amid a flurry of new limits on abortion being sought in states around the nation, Alabama is weighing a measure that would go further than all of them — outlawing most abortions almost entirely.",
+      "publication_date": "2019-05-08T21:53:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/08/us/abortion-alabama-ban.html",
+      "byline": "By Timothy Williams and Alan Blinder"
+    },
+    {
+      "headline": "New North Korea Concerns Flare as Trump’s Signature Diplomacy Wilts",
+      "snippet": "Two missile tests, the seizure of a North Korean ship and the public revelation of a weapons base signaled that efforts of a U.S. rapprochement with Pyongyang are doomed.",
+      "abstract": "Two missile tests, the seizure of a North Korean ship and the public revelation of a weapons base signaled that efforts of a U.S. rapprochement with Pyongyang are doomed.",
+      "lead_paragraph": "WASHINGTON — North Korea launched short-range ballistic missiles on Thursday for the second time in a week, prompting President Trump to acknowledge that “nobody’s happy” about the implications for his diplomatic effort to denuclearize the country.",
+      "publication_date": "2019-05-09T08:01:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/09/world/asia/north-korea-missile.html",
+      "byline": "By David E. Sanger, William J. Broad, Choe Sang-Hun and Eileen Sullivan"
+    },
+    {
+      "headline": "They Got Rich Off Uber and Lyft. Then They Moved to Low-Tax States.",
+      "snippet": "Meet the semiretired millennials who left California for low-tax, low-stress places like Texas, as their former start-ups stampede toward the stock market.",
+      "abstract": "Meet the semiretired millennials who left California for low-tax, low-stress places like Texas, as their former start-ups stampede toward the stock market.",
+      "lead_paragraph": "AUSTIN, Tex. — Brian McMullen’s only plan on a Thursday afternoon in March was to watch as many college basketball games as possible. Parked inside his neighborhood bar and grill and eating brunch tacos, he followed one game on the restaurant’s TV screen while another streamed on his iPhone.",
+      "publication_date": "2019-05-09T09:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/05/09/technology/uber-lyft-low-tax-millennials.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Pope Issues First Rules for Catholic Church Worldwide to Report Sex Abuse",
+      "snippet": "The new church law orders officials to report misconduct to their superiors and empowers senior archbishops to investigate. But it says nothing about punishment.",
+      "abstract": "The new church law orders officials to report misconduct to their superiors and empowers senior archbishops to investigate. But it says nothing about punishment.",
+      "lead_paragraph": "ROME — Pope Francis on Thursday issued the first law obligating officials in the Roman Catholic Church worldwide to report cases of clergy sexual abuse — and attempts to cover it up — to their superiors. The decree was Francis’ long-anticipated concrete response to address a crisis that has devastated the church and clouded his legacy.",
+      "publication_date": "2019-05-09T10:42:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/09/world/europe/pope-francis-abuse-catholic-church.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Occidental Petroleum Emerges With the Prize in a Takeover Fight",
+      "snippet": "The company’s bid for Anadarko prevailed despite Chevron’s greater resources and will give it the biggest presence in the rich Permian Basin fields.",
+      "abstract": "The company’s bid for Anadarko prevailed despite Chevron’s greater resources and will give it the biggest presence in the rich Permian Basin fields.",
+      "lead_paragraph": "HOUSTON — Occidental Petroleum pulled it off.",
+      "publication_date": "2019-05-09T13:17:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/05/09/business/chevron-anadarko-occidental-permian.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Trump Increases China Tariffs as Trade Deal Hangs in the Balance",
+      "snippet": "President Trump raised tariffs on $200 billion worth of Chinese imports to 25 percent from 10 percent on Friday morning.",
+      "abstract": "President Trump raised tariffs on $200 billion worth of Chinese imports to 25 percent from 10 percent on Friday morning.",
+      "lead_paragraph": "WASHINGTON — President Trump escalated his trade war with China on Friday morning, raising tariffs on $200 billion worth of Chinese goods and taking steps to tax nearly all of China’s imports as punishment for what he said was Beijing’s attempt to “renegotiate” a trade deal.",
+      "publication_date": "2019-05-09T14:34:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/05/09/us/politics/china-trade-tariffs.html",
+      "byline": "By Ana Swanson and Alan Rappeport"
+    }
+  ]
+}

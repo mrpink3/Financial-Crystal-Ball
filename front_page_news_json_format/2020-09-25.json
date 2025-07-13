@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-09-25",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Job Rebound Is ‘Losing Steam’ as Crisis Passes Six-Month Mark",
+      "snippet": "New filings for unemployment benefits rose last week, signaling continued layoffs even before autumn chills outdoor business.",
+      "abstract": "New filings for unemployment benefits rose last week, signaling continued layoffs even before autumn chills outdoor business.",
+      "lead_paragraph": "Six months into the pandemic-induced economic crisis, the layoffs keep coming.",
+      "publication_date": "2020-09-24T21:46:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/24/business/economy/unemployment-claims.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Battles Over Voting Rules Fuel Concern About Postelection Fights",
+      "snippet": "Even as early voting has gotten underway, some pivotal states are still litigating how ballots should be cast and counted, creating uncertainty that is being fanned by President Trump.",
+      "abstract": "Even as early voting has gotten underway, some pivotal states are still litigating how ballots should be cast and counted, creating uncertainty that is being fanned by President Trump.",
+      "lead_paragraph": "With less than six weeks until Election Day, laws governing how Americans vote remain in flux in many battleground states, with the two parties locked in an intensive fight over the rules as President Trump continues to suggest he will challenge any outcome unfavorable to him.",
+      "publication_date": "2020-09-24T22:48:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/24/us/politics/trump-election-voting-rights.html",
+      "byline": "By Nick Corasaniti and Kenneth P. Vogel"
+    },
+    {
+      "headline": "Trump Again Sows Doubt About Election as G.O.P. Scrambles to Assure Voters",
+      "snippet": "President Trump declined for a second day to commit to a peaceful transfer of power if he lost the election, while Republicans, including Mitch McConnell, implicitly rebuffed him, promising an “orderly transition.”",
+      "abstract": "President Trump declined for a second day to commit to a peaceful transfer of power if he lost the election, while Republicans, including Mitch McConnell, implicitly rebuffed him, promising an “orderly transition.”",
+      "lead_paragraph": "[Follow our latest coverage of the Biden vs. Trump 2020 election.]",
+      "publication_date": "2020-09-24T23:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/24/us/politics/trump-republicans-election-transition.html",
+      "byline": "By Reid J. Epstein, Emily Cochrane and Glenn Thrush"
+    },
+    {
+      "headline": "Louisville’s Police Force Feels Besieged on Two Fronts",
+      "snippet": "Officers say that city and police officials were slow to release crucial details in the Breonna Taylor case. Protesters are fed up with what they consider abusive tactics. Calm seems a long way off.",
+      "abstract": "Officers say that city and police officials were slow to release crucial details in the Breonna Taylor case. Protesters are fed up with what they consider abusive tactics. Calm seems a long way off.",
+      "lead_paragraph": "LOUISVILLE, Ky. — When gunshots rang out shortly before 9 p.m. on Wednesday, Lt. William Vogt of the Louisville Metro Police Department saw a fallen colleague just 15 feet away. He quickly dragged his fellow officer to safety, but then looked up to a scene that put him even more on edge: several of his colleagues with their guns drawn, facing a crowd of protesters.",
+      "publication_date": "2020-09-24T23:04:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/24/us/louisville-police-protests.html",
+      "byline": "By Will Wright, John Eligon and Rukmini Callimachi"
+    },
+    {
+      "headline": "At Pentagon, Fears Grow That Trump Will Pull Military Into Election Unrest",
+      "snippet": "Defense Department officials said top generals could resign if Mr. Trump ordered the active-duty military into the streets to quell protests.",
+      "abstract": "Defense Department officials said top generals could resign if Mr. Trump ordered the active-duty military into the streets to quell protests.",
+      "lead_paragraph": "WASHINGTON — Senior Pentagon leaders have a lot to worry about — Afghanistan, Russia, Iraq, Syria, Iran, China, Somalia, the Korean Peninsula. But chief among those concerns is whether their commander in chief might order American troops into any chaos around the coming elections.",
+      "publication_date": "2020-09-25T09:00:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/25/us/politics/trump-military-election.html",
+      "byline": "By Jennifer Steinhauer and Helene Cooper"
+    },
+    {
+      "headline": "Trump and Biden Court Catholic Vote, in Very Different Ways",
+      "snippet": "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers.",
+      "abstract": "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers.",
+      "lead_paragraph": "Alisa Anderson, a lifelong Catholic from Livonia, Mich., does not typically give much weight to the religious backgrounds of political candidates. But the deeply personal way Joseph R. Biden Jr. discusses his Catholicism has caught her attention.",
+      "publication_date": "2020-09-25T09:00:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.html",
+      "byline": "By Katie Glueck"
+    },
+    {
+      "headline": "Her Study Center Was Bombed. She Still Topped Afghanistan’s National University Exam.",
+      "snippet": "Shamsea Alizada’s story of persistence is a reminder of advances in girls’ education in Afghanistan — and their vulnerability as the government negotiates with the Taliban.",
+      "abstract": "Shamsea Alizada’s story of persistence is a reminder of advances in girls’ education in Afghanistan — and their vulnerability as the government negotiates with the Taliban.",
+      "lead_paragraph": "KABUL, Afghanistan — Shamsea Alizada’s story could so easily have ended when she was just 15.",
+      "publication_date": "2020-09-25T09:11:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/09/25/world/asia/afghanistan-woman-university.html",
+      "byline": "By Fatima Faizi and Mujib Mashal"
+    },
+    {
+      "headline": "How to Predict Merit Aid in a Strange College Application Season",
+      "snippet": "Students may have no test scores, altered grades and compromised extracurricular activities. So how will colleges dole out the discounts?",
+      "abstract": "Students may have no test scores, altered grades and compromised extracurricular activities. So how will colleges dole out the discounts?",
+      "lead_paragraph": "Untold numbers of high school seniors have had trouble finding convenient places to take standardized tests during the pandemic, while others have health issues that make doing so risky. In the spring, many of them got pass-fail grades or are grappling with other altered academic standards. And plenty of extracurricular activities may be limited or are gone altogether.",
+      "publication_date": "2020-09-25T15:30:40+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/09/25/your-money/merit-aid-SAT-optional.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

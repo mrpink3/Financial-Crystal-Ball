@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-03-28",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Facebook’s Zuckerberg Said to Agree to Testify Before Congress Over Data Privacy",
+      "snippet": "Mark Zuckerberg, Facebook’s chief executive, has agreed to testify in Washington over how his social network handled people’s data, according to people familiar with the decision.",
+      "abstract": "Mark Zuckerberg, Facebook’s chief executive, has agreed to testify in Washington over how his social network handled people’s data, according to people familiar with the decision.",
+      "lead_paragraph": "WASHINGTON — For 10 days, Mark Zuckerberg, Facebook’s chief executive, has been under increasing pressure from lawmakers and regulators to answer questions about the improper harvesting of data of 50 million Facebook users by a British political consulting firm, Cambridge Analytica.",
+      "publication_date": "2018-03-27T18:19:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/27/technology/facebooks-zuckerberg-said-to-agree-to-testify-before-congress-over-data-privacy.html",
+      "byline": "By Cecilia Kang and Sheera Frenkel"
+    },
+    {
+      "headline": "At Least Twelve States to Sue Trump Administration Over Census Citizenship Question",
+      "snippet": "Opponents said the question was certain to depress response to the census from noncitizens and even legal immigrants.",
+      "abstract": "Opponents said the question was certain to depress response to the census from noncitizens and even legal immigrants.",
+      "lead_paragraph": "WASHINGTON — At least 12 states signaled Tuesday that they would sue to block the Trump administration from adding a question about citizenship to the 2020 census, arguing that the change would cause fewer Americans to be counted and violate the Constitution.",
+      "publication_date": "2018-03-27T23:19:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/27/us/census-citizenship-question.html",
+      "byline": "By Michael Wines and Emily Baumgaertner"
+    },
+    {
+      "headline": "Trump Secures Trade Deal With South Korea Ahead of Nuclear Talks",
+      "snippet": "President Trump won his first bilateral trade deal this week, with South Korea, but whether it is a template for future agreements remains in question.",
+      "abstract": "President Trump won his first bilateral trade deal this week, with South Korea, but whether it is a template for future agreements remains in question.",
+      "lead_paragraph": "Update: The United States and South Korea formally announced the trade agreement in a joint statement on Wednesday, and said that it “represents important progress in improving U.S.-Korea trade and economic relations.”",
+      "publication_date": "2018-03-28T01:04:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/27/us/politics/trump-south-korea-trade-deal.html",
+      "byline": "By Michael D. Shear and Alan Rappeport"
+    },
+    {
+      "headline": "Spy Contractor’s Idea Helped Cambridge Analytica Harvest Facebook Data",
+      "snippet": "Cambridge Analytica was aided by an employee at Palantir, a contractor to the Pentagon. Palantir is owned by Peter Thiel, a wealthy Trump supporter and board member at Facebook.",
+      "abstract": "Cambridge Analytica was aided by an employee at Palantir, a contractor to the Pentagon. Palantir is owned by Peter Thiel, a wealthy Trump supporter and board member at Facebook.",
+      "lead_paragraph": "As a start-up called Cambridge Analytica sought to harvest the Facebook data of tens of millions of Americans in summer 2014, the company received help from at least one employee at Palantir Technologies, a top Silicon Valley contractor to American spy agencies and the Pentagon.",
+      "publication_date": "2018-03-28T01:20:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/27/us/cambridge-analytica-palantir.html",
+      "byline": "By Nicholas Confessore and Matthew Rosenberg"
+    },
+    {
+      "headline": "How Viktor Orban Bends Hungarian Society to His Will",
+      "snippet": "To populists like Stephen Bannon, Hungary’s prime minister, Viktor Orban, is “a hero.” But democracy advocates fear his relentless remolding of society.",
+      "abstract": "To populists like Stephen Bannon, Hungary’s prime minister, Viktor Orban, is “a hero.” But democracy advocates fear his relentless remolding of society.",
+      "lead_paragraph": "BUDAPEST — Billboards. TV campaigns. Radio programs. The anti-immigrant government of Prime Minister Viktor Orban uses different levers to influence public opinion, particularly on the subject of the European refugee crisis.",
+      "publication_date": "2018-03-28T03:45:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/27/world/europe/viktor-orban-hungary.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "A Find at Gap: Steady Hours Can Help Workers, and Profits",
+      "snippet": "Shifting schedules have long been a complaint in the retail field. A study of Gap stores showed that more consistent scheduling produced higher sales.",
+      "abstract": "Shifting schedules have long been a complaint in the retail field. A study of Gap stores showed that more consistent scheduling produced higher sales.",
+      "lead_paragraph": "In recent years, studies have shown that erratic work schedules can take a major toll on the well-being of service workers.",
+      "publication_date": "2018-03-28T04:01:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/28/business/economy/gap-schedule-study.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Sessions and Kushner Square Off, and Prisoners Hang in the Balance",
+      "snippet": "Tensions over criminal justice policy have pitted the president’s son-in-law against his attorney general, and resulted in a seesawing approach to prisons.",
+      "abstract": "Tensions over criminal justice policy have pitted the president’s son-in-law against his attorney general, and resulted in a seesawing approach to prisons.",
+      "lead_paragraph": "WASHINGTON — In the final months of the Obama administration, the Justice Department announced a new approach to preparing prisoners for life beyond their cells. Officials created a prison school system, pledged money for technology training and promised to help prevent former inmates from returning to prison.",
+      "publication_date": "2018-03-28T09:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/28/us/politics/jeff-sessions-jared-kushner-prisons.html",
+      "byline": "By Matt Apuzzo"
+    },
+    {
+      "headline": "Kim Jong-un’s China Visit Strengthens His Hand in Nuclear Talks",
+      "snippet": "The North Korean leader’s first diplomatic trip since taking power was a reminder of how much he has set the agenda over his nation’s nuclear arsenal.",
+      "abstract": "The North Korean leader’s first diplomatic trip since taking power was a reminder of how much he has set the agenda over his nation’s nuclear arsenal.",
+      "lead_paragraph": "BEIJING — With a dose of mystery and the flair of a showman, North Korea’s young leader, Kim Jong-un, used his debut as an international statesman on Wednesday to present himself as confident, reasonable — and willing to bargain.",
+      "publication_date": "2018-03-28T14:48:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/28/world/asia/china-kim-north-korea-visit.html",
+      "byline": "By Jane Perlez"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-03-19",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump Seeks $500 Billion in Checks for Taxpayers",
+      "snippet": "The administration is proposing two waves of checks to individuals and another $500 billion for small and large businesses as part of its economic response to the coronavirus pandemic.",
+      "abstract": "The administration is proposing two waves of checks to individuals and another $500 billion for small and large businesses as part of its economic response to the coronavirus pandemic.",
+      "lead_paragraph": "WASHINGTON — The Trump administration on Wednesday broadened the government’s response to the coronavirus pandemic and spelled out the first details of a $1 trillion economic package, asking Congress for an infusion of $500 billion for direct payments to taxpayers and $500 billion in loans for businesses.",
+      "publication_date": "2020-03-18T18:22:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/18/us/politics/donald-trump-coronavirus-trump-stimulus.html",
+      "byline": "By Nicholas Fandos and Emily Cochrane"
+    },
+    {
+      "headline": "Plight of Retail Workers: ‘I’m Scared to Go to Work’",
+      "snippet": "Some chains have remained open during the pandemic, worrying employees who have to travel to their jobs and then interact with the public.",
+      "abstract": "Some chains have remained open during the pandemic, worrying employees who have to travel to their jobs and then interact with the public.",
+      "lead_paragraph": "The Macy’s in Manhattan’s Herald Square opened its doors to customers at 10 a.m. on Tuesday, as planned.",
+      "publication_date": "2020-03-18T19:35:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/18/business/coronavirus-retail-workers.html",
+      "byline": "By Sapna Maheshwari and Michael Corkery"
+    },
+    {
+      "headline": "Racing to Head Off Evictions and Foreclosures",
+      "snippet": "A flurry of federal, state and local action aims to prevent a new housing crisis as the coronavirus pandemic upends the economy.",
+      "abstract": "A flurry of federal, state and local action aims to prevent a new housing crisis as the coronavirus pandemic upends the economy.",
+      "lead_paragraph": "The financial shock from the coronavirus pandemic threatens the housing security of millions of Americans, prompting federal, state and local officials — and even judges and the police — to move quickly to ward off foreclosures and evictions.",
+      "publication_date": "2020-03-18T22:38:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/18/business/economy/coronavirus-evictions.html",
+      "byline": "By Conor Dougherty, Matthew Goldstein and Emily Flitter"
+    },
+    {
+      "headline": "Washington Weighs Big Bailouts to Help U.S. Economy Survive Coronavirus",
+      "snippet": "The outbreak has closed businesses, made workers stay home and kept passengers off airplanes. That has lawmakers considering the biggest bailout in modern history.",
+      "abstract": "The outbreak has closed businesses, made workers stay home and kept passengers off airplanes. That has lawmakers considering the biggest bailout in modern history.",
+      "lead_paragraph": "WASHINGTON — Entire sectors of the American economy are shutting down, threatening to crush businesses, put millions of people out of work and forcing lawmakers to consider a vast financial bailout that would dwarf the federal government’s response to the 2008 crisis.",
+      "publication_date": "2020-03-18T23:13:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/18/business/bailout-economy-coronavirus.html",
+      "byline": "By Jim Tankersley and Ben Casselman"
+    },
+    {
+      "headline": "Need a Coronavirus Test? Being Rich and Famous May Help",
+      "snippet": "A shortage in testing has left sick people and health care workers around the U.S. without answers. Yet the list of celebrity patients grows every day, raising questions about privileged access.",
+      "abstract": "A shortage in testing has left sick people and health care workers around the U.S. without answers. Yet the list of celebrity patients grows every day, raising questions about privileged access.",
+      "lead_paragraph": "Politicians, celebrities, social media influencers and even N.B.A. teams have been tested for the new coronavirus. But as that list of rich, famous and powerful people grows by the day, so do questions about whether they are getting access to testing that is denied to other Americans.",
+      "publication_date": "2020-03-19T01:18:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/18/us/coronavirus-testing-elite.html",
+      "byline": "By Megan Twohey, Steve Eder and Marc Stein"
+    },
+    {
+      "headline": "Before Virus Outbreak, a Cascade of Warnings Went Unheeded",
+      "snippet": "Government exercises, including one last year, made clear that the U.S. was not ready for a pandemic like the coronavirus. But little was done.",
+      "abstract": "Government exercises, including one last year, made clear that the U.S. was not ready for a pandemic like the coronavirus. But little was done.",
+      "lead_paragraph": "WASHINGTON — The outbreak of the respiratory virus began in China and was quickly spread around the world by air travelers, who ran high fevers. In the United States, it was first detected in Chicago, and 47 days later, the World Health Organization declared a pandemic. By then it was too late: 110 million Americans were expected to become ill, leading to 7.7 million hospitalized and 586,000 dead.",
+      "publication_date": "2020-03-19T15:09:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/19/us/politics/trump-coronavirus-outbreak.html",
+      "byline": "By David E. Sanger, Eric Lipton, Eileen Sullivan and Michael Crowley"
+    }
+  ]
+}

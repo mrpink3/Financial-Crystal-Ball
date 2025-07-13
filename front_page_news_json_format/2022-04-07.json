@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-04-07",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Fed minutes showed ‘many’ officials in favor of a big rate increase.",
+      "snippet": "Notes from the March meeting, at which it raised rates by a quarter of a percentage point, showed officials gearing up to pull back economic support quickly as they try to tame inflation.",
+      "abstract": "Notes from the March meeting, at which it raised rates by a quarter of a percentage point, showed officials gearing up to pull back economic support quickly as they try to tame inflation.",
+      "lead_paragraph": "Minutes from the Federal Reserve’s March meeting showed that central bankers were preparing to shrink their portfolio of bond holdings imminently while raising interest rates “expeditiously,” as the central bank tries to cool off the economy and rapid inflation.",
+      "publication_date": "2022-04-06T18:01:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/06/business/economy/fed-minutes-march-2022.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "More Russians Consider Costs of War in Ukraine as Casualties Mount",
+      "snippet": "Many Russians have been in the dark about their country’s losses. As news of more Russian deaths arrives, the reactions range from anger at the Kremlin to parroting the state’s messaging that blames “Nazis’’ in Ukraine.",
+      "abstract": "Many Russians have been in the dark about their country’s losses. As news of more Russian deaths arrives, the reactions range from anger at the Kremlin to parroting the state’s messaging that blames “Nazis’’ in Ukraine.",
+      "lead_paragraph": "Ivan Kononov, a senior lieutenant in the Russian marines, loved to cook. He made Italian food for his unit in the field, his brother said, and traded rations for spices when he was serving in Syria.",
+      "publication_date": "2022-04-06T21:53:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/world/europe/russia-ukraine-war-casualties.html",
+      "byline": "By Anton Troianovski, Ivan Nechepurenko and Valeriya Safronova"
+    },
+    {
+      "headline": "Russia Is Recruiting Mercenaries and Syrians to Ukraine, Western Officials Say",
+      "snippet": "The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials.",
+      "abstract": "The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials.",
+      "lead_paragraph": "WASHINGTON — As Russian troops retreat from northern Ukraine and focus operations on the country’s east and south, the Kremlin is struggling to scrape together enough combat-ready reinforcements to conduct a new phase of the war, according to American and other Western military and intelligence officials.",
+      "publication_date": "2022-04-06T23:04:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html",
+      "byline": "By Eric Schmitt, Julian E. Barnes and Helene Cooper"
+    },
+    {
+      "headline": "Civilians Flee Eastern Ukraine as Signs Point to Stepped-Up Russian Attack",
+      "snippet": "Alarmed by reports of atrocities near Kyiv, many residents of Ukraine’s east, now suffering the brunt of Russian force, are getting out while they can.",
+      "abstract": "Alarmed by reports of atrocities near Kyiv, many residents of Ukraine’s east, now suffering the brunt of Russian force, are getting out while they can.",
+      "lead_paragraph": "Spurred by reports of Russian atrocities outside Ukraine’s capital, and alarmed at signs that Russia’s invasion force is about to escalate assaults in eastern Ukraine, many civilians in that region are fleeing while they can, officials said Wednesday.",
+      "publication_date": "2022-04-06T23:26:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/04/06/world/europe/ukraine-civilians-moscow-war.html",
+      "byline": "By Megan Specia, Cora Engelbrecht and Eric Schmitt"
+    },
+    {
+      "headline": "Amazon Workers Who Won a Union Their Way Open Labor Leaders’ Eyes",
+      "snippet": "The success of an independent drive has organized labor asking whether it should take more of a back seat.",
+      "abstract": "The success of an independent drive has organized labor asking whether it should take more of a back seat.",
+      "lead_paragraph": "After the stunning victory at Amazon by a little-known independent union that didn’t exist 18 months ago, organized labor has begun to ask itself an increasingly pressing question: Does the labor movement need to get more disorganized?",
+      "publication_date": "2022-04-07T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/07/business/economy/amazon-union-labor.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Facial Recognition Goes to War",
+      "snippet": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
+      "abstract": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
+      "lead_paragraph": "In the weeks after Russia invaded Ukraine and images of the devastation wrought there flooded the news, Hoan Ton-That, the chief executive of the facial recognition company Clearview AI, began thinking about how he could get involved.",
+      "publication_date": "2022-04-07T09:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
+      "byline": "By Kashmir Hill"
+    }
+  ]
+}

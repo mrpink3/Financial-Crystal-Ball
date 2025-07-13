@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-06-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Federal Authorities Search Home of Trump Justice Dept. Official",
+      "snippet": "Investigators went to the suburban Washington home of Jeffrey Clark in connection with the sprawling inquiry into the Jan. 6 attack and the effort to overturn the 2020 election.",
+      "abstract": "Investigators went to the suburban Washington home of Jeffrey Clark in connection with the sprawling inquiry into the Jan. 6 attack and the effort to overturn the 2020 election.",
+      "lead_paragraph": "Federal investigators carried out an early-morning search on Wednesday at the home of Jeffrey Clark, a former Justice Department official, in connection with the department’s sprawling criminal inquiry into efforts to overturn the 2020 election, people familiar with the matter and an associate of Mr. Clark said.",
+      "publication_date": "2022-06-23T17:01:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/23/us/politics/jeffrey-clark-trump-justice-dept.html",
+      "byline": "By Alan Feuer, Adam Goldman and Maggie Haberman"
+    },
+    {
+      "headline": "In One Day, Washington Goes in Two Directions on Guns",
+      "snippet": "The Supreme Court delivered a victory for gun rights, while the Senate passed a gun control bill for the first time in decades.",
+      "abstract": "The Supreme Court delivered a victory for gun rights, while the Senate passed a gun control bill for the first time in decades.",
+      "lead_paragraph": "WASHINGTON — The nation’s capital, so often a backdrop for inaction, had seldom witnessed anything quite like it — two branches of government splintering in opposite directions on guns, one of the country’s most divisive issues, in the space of a single day.",
+      "publication_date": "2022-06-23T23:46:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/23/us/politics/senate-supreme-court-guns.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "Fed Confronts a ‘New World’ of Inflation",
+      "snippet": "Central banks had a longstanding playbook for how inflation worked. In the postpandemic era, all bets are off.",
+      "abstract": "Central banks had a longstanding playbook for how inflation worked. In the postpandemic era, all bets are off.",
+      "lead_paragraph": "Federal Reserve officials are questioning whether their longstanding assumptions about inflation still apply as price gains remain stubbornly and surprisingly rapid — a bout of economic soul-searching that could have big implications for the American economy.",
+      "publication_date": "2022-06-24T07:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/24/business/economy/fed-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "In Russia’s War, China and India Emerge as Financiers",
+      "snippet": "Their purchases of Russian crude are undermining the West’s efforts to isolate the Kremlin and upending the global oil markets.",
+      "abstract": "Their purchases of Russian crude are undermining the West’s efforts to isolate the Kremlin and upending the global oil markets.",
+      "lead_paragraph": "As Russia tries to break the stranglehold of sanctions, China and India are emerging as Moscow’s pivotal financiers by purchasing large amounts of Russian crude, putting themselves in the middle of the messy war with Ukraine and a geopolitical standoff with the West.",
+      "publication_date": "2022-06-24T09:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/24/business/russia-oil-china-india-ukraine-war.html",
+      "byline": "By Clifford Krauss, Alexandra Stevenson and Emily Schmall"
+    },
+    {
+      "headline": "In 6-to-3 Ruling, Supreme Court Ends Nearly 50 Years of Abortion Rights",
+      "snippet": "The decision will lead to all but total bans on the procedure in about half of the states.",
+      "abstract": "The decision will lead to all but total bans on the procedure in about half of the states.",
+      "lead_paragraph": "Follow the latest abortion news and the Supreme Court’s decision to overturn Roe v. Wade.",
+      "publication_date": "2022-06-24T14:16:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/24/us/roe-wade-overturned-supreme-court.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "As Russia Chokes Ukraine’s Grain Exports, Romania Tries to Fill In",
+      "snippet": "With famine threatening millions, Europe is intent on finding alternatives to one of world’s biggest food exporters, whose landlocked crop is stranded by war.",
+      "abstract": "With famine threatening millions, Europe is intent on finding alternatives to one of world’s biggest food exporters, whose landlocked crop is stranded by war.",
+      "lead_paragraph": "Stopping at the edge of a vast field of barley on his farm in Prundu, 30 miles outside Romania’s capital city of Bucharest, Catalin Corbea pinched off a spiky flowered head from a stalk, rolled it between his hands, and then popped a seed in his mouth and bit down.",
+      "publication_date": "2022-06-24T14:55:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/24/business/economy/russia-ukraine-grain-exports-romania.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

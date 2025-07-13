@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-03-28",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Trump Sided With Mulvaney in Push to Nullify Health Law",
+      "snippet": "President Trump decided to press courts to overturn the Affordable Care Act despite concerns from the attorney general, the health secretary and the vice president.",
+      "abstract": "President Trump decided to press courts to overturn the Affordable Care Act despite concerns from the attorney general, the health secretary and the vice president.",
+      "lead_paragraph": "WASHINGTON — The Trump administration’s surprise decision to press for a court-ordered demolition of the Affordable Care Act came after a heated meeting in the Oval Office on Monday, where the president’s acting chief of staff and others convinced him that he could do through the courts what he could not do through Congress: repeal his predecessor’s signature achievement.",
+      "publication_date": "2019-03-27T17:08:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/27/us/politics/trump-aca.html",
+      "byline": "By Maggie Haberman and Robert Pear"
+    },
+    {
+      "headline": "Lyft and Pinterest Won’t Be Giving Shareholders Much Say",
+      "snippet": "To own a slice of two of the hottest tech start-ups going public, investors will have to give up equal voting power.",
+      "abstract": "To own a slice of two of the hottest tech start-ups going public, investors will have to give up equal voting power.",
+      "lead_paragraph": "The initial public offerings of Lyft and Pinterest will give investors the chance to buy into young, fast-growing companies led by founders with ambitious visions.",
+      "publication_date": "2019-03-27T19:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/27/business/dealbook/lyft-ipo-shareholders-pinterest.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Boeing Faces Capitol’s Glare as It Presses to Fix the 737 Max",
+      "snippet": "The changes would give pilots more control and make it less likely that faulty data can set off a reaction, two issues at the center of investigations into two crashes.",
+      "abstract": "The changes would give pilots more control and make it less likely that faulty data can set off a reaction, two issues at the center of investigations into two crashes.",
+      "lead_paragraph": "RENTON, Wash. — Boeing on Wednesday made its most overt acknowledgment that new software in its jets could have played a role in two deadly crashes as it tries to convince pilots, airlines and regulators around the world that a coming fix will solve the problem.",
+      "publication_date": "2019-03-28T00:18:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/27/business/boeing-737-max.html",
+      "byline": "By David Gelles and Thomas Kaplan"
+    },
+    {
+      "headline": "‘You Can’t Put It Behind You’: School Shootings Leave Long Trail of Trauma",
+      "snippet": "Three apparent suicides in Parkland, Fla., and Newtown, Conn., have alarmed people still grappling with the mental trauma created by school shootings.",
+      "abstract": "Three apparent suicides in Parkland, Fla., and Newtown, Conn., have alarmed people still grappling with the mental trauma created by school shootings.",
+      "lead_paragraph": "PARKLAND, Fla. — Kelly Plaur is still having nightmares almost every night. In the mornings, she recounts them to her mother, though the theme is usually the same: the horror she witnessed at Marjory Stoneman Douglas High School last year when a gunman opened fire in her classroom, killing two students and injuring four others.",
+      "publication_date": "2019-03-28T09:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/28/us/parkland-shooting-suicides-newtown-mental-health.html",
+      "byline": "By Patricia Mazzei and Miriam Jordan"
+    },
+    {
+      "headline": "Pete Buttigieg (It’s ‘Boot-Edge-Edge’) Is Making Waves in the 2020 Race",
+      "snippet": "Pete Buttigieg may have a challenging last name and an unconventional résumé. But he’s drawing big crowds and has jumped to third place in a poll of Iowa voters.",
+      "abstract": "Pete Buttigieg may have a challenging last name and an unconventional résumé. But he’s drawing big crowds and has jumped to third place in a poll of Iowa voters.",
+      "lead_paragraph": "ROCK HILL, S.C. — Somewhere between Pete Buttigieg being mistaken for a teenager making a promposal, and answering a question in Norwegian, and proclaiming that it was millennials’ turn to lead “at the highest level,” South Carolina got a crash course in a new Democratic celebrity.",
+      "publication_date": "2019-03-28T09:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/28/us/politics/buttigieg-2020-president.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Iran’s Allies Feel the Pain of American Sanctions",
+      "snippet": "Iran’s financial crisis, worsened by American sanctions, has taken a toll on its allied Syrian militias and Hezbollah, who are showing signs of financial strain.",
+      "abstract": "Iran’s financial crisis, worsened by American sanctions, has taken a toll on its allied Syrian militias and Hezbollah, who are showing signs of financial strain.",
+      "lead_paragraph": "BEIRUT, Lebanon — Syrian militiamen paid by Iran have seen their salaries slashed. Projects Iran promised to help Syria’s ailing economy have stalled. Even employees of Hezbollah, the Lebanese group that has long served as Iran’s closest Arab ally, say they have missed paychecks and lost other perks.",
+      "publication_date": "2019-03-28T09:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/28/world/middleeast/iran-sanctions-arab-allies.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Trump Owns the Economy Now, for Better or Worse",
+      "snippet": "The Federal Reserve has halted rate increases. Tax cuts and tariffs have taken hold. Now the president must prove the naysayers wrong about the future.",
+      "abstract": "The Federal Reserve has halted rate increases. Tax cuts and tariffs have taken hold. Now the president must prove the naysayers wrong about the future.",
+      "lead_paragraph": "WASHINGTON — President Trump is getting exactly what he wants on the economy, but it may not last.",
+      "publication_date": "2019-03-28T09:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/28/us/politics/us-economy-trump.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Huawei Security ‘Defects’ Are Found by British Authorities",
+      "snippet": "Britain bolstered White House claims that the Chinese company poses a cybersecurity risk. But the report stopped short of calling for a ban on Huawei products.",
+      "abstract": "Britain bolstered White House claims that the Chinese company poses a cybersecurity risk. But the report stopped short of calling for a ban on Huawei products.",
+      "lead_paragraph": "LONDON — A British review of Huawei found “significant” security problems with the Chinese company’s telecommunications equipment, a conclusion that supports a United States effort to ban it from next-generation wireless networks.",
+      "publication_date": "2019-03-28T09:30:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/28/technology/huawei-security-british-report.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "Facebook Engages in Housing Discrimination With Its Ad Practices, U.S. Says",
+      "snippet": "The Department of Housing and Urban Development sued the company for violating the federal Fair Housing Act by limiting who sees ads based on characteristics like race, religion and national origin.",
+      "abstract": "The Department of Housing and Urban Development sued the company for violating the federal Fair Housing Act by limiting who sees ads based on characteristics like race, religion and national origin.",
+      "lead_paragraph": "WASHINGTON — The Department of Housing and Urban Development sued Facebook on Thursday for engaging in housing discrimination by allowing advertisers to restrict who is able to see ads on the platform based on characteristics like race, religion and national origin.",
+      "publication_date": "2019-03-28T13:51:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/28/us/politics/facebook-housing-discrimination.html",
+      "byline": "By Katie Benner, Glenn Thrush and Mike Isaac"
+    },
+    {
+      "headline": "JPMorgan’s Role in Nigerian Oil Deal Has Come Back to Haunt It",
+      "snippet": "A JPMorgan Chase account in London was used to send roughly $900 million to government officials involved in a scheme to profit from an offshore oil field.",
+      "abstract": "A JPMorgan Chase account in London was used to send roughly $900 million to government officials involved in a scheme to profit from an offshore oil field.",
+      "lead_paragraph": "Under the rule of the Nigerian dictator Sani Abacha more than 20 years ago, a handful of high-ranking government officials looted billions of dollars from the country’s coffers.",
+      "publication_date": "2019-03-28T15:19:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/28/business/jpmorgan-nigeria.html",
+      "byline": "By Emily Flitter"
+    }
+  ]
+}

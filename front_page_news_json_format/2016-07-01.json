@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2016-07-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Puerto Rico Debt Relief Law Stirs Colonial Resentment",
+      "snippet": "The federal oversight board in the new law has opened old wounds in Puerto Rico, even among some who support the island’s current status.",
+      "abstract": "The federal oversight board in the new law has opened old wounds in Puerto Rico, even among some who support the island’s current status.",
+      "lead_paragraph": "SAN JUAN, P.R. — They shouted angrily about “colonialism” and called for a Prexit, or Puerto Rican exit, from the United States. They denounced the “junta” — or federal control board — that will soon direct this island’s failing governance and finances.",
+      "publication_date": "2016-07-01T00:32:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/01/business/dealbook/puerto-rico-debt-relief-law-stirs-colonial-resentment.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Luck Runs Out for a Leader of ‘Brexit’ Campaign",
+      "snippet": "Boris Johnson, the chronically disheveled former mayor of London, was done in by his own hubris and lack of preparation in the face of the Brexit result.",
+      "abstract": "Boris Johnson, the chronically disheveled former mayor of London, was done in by his own hubris and lack of preparation in the face of the Brexit result.",
+      "lead_paragraph": "LONDON — One day in 2004, Boris Johnson was interrupted on his morning jog by a pack of tabloid reporters massed outside his house in North London. They asked about rumors that Mr. Johnson, then editor of The Spectator magazine and a member of Parliament, had once had an extramarital affair, gotten his lover pregnant and paid for her abortion.",
+      "publication_date": "2016-07-01T01:28:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/01/world/europe/boris-johnson-brexit-conservatives.html",
+      "byline": "By Sarah Lyall"
+    },
+    {
+      "headline": "Loretta Lynch to Accept F.B.I. Recommendations in Clinton Email Inquiry",
+      "snippet": "The move by Attorney General Loretta E. Lynch would eliminate the possibility that a political appointee would overrule investigators.",
+      "abstract": "The move by Attorney General Loretta E. Lynch would eliminate the possibility that a political appointee would overrule investigators.",
+      "lead_paragraph": "WASHINGTON — Attorney General Loretta E. Lynch, conceding that her airport meeting with former President Bill Clinton this week had cast a shadow over the federal investigation of Hillary Clinton’s personal email account, said Friday that she would accept whatever recommendations career prosecutors and the F.B.I. director made about whether to bring charges in the case.",
+      "publication_date": "2016-07-01T09:00:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/02/us/politics/loretta-lynch-hillary-clinton-email-server.html",
+      "byline": "By Mark Landler, Matt Apuzzo and Amy Chozick"
+    },
+    {
+      "headline": "Austria’s Far Right Presents the E.U. With a New Test at the Polls",
+      "snippet": "A new presidential election in Austria could well serve as a referendum on the central tenets, roles and responsibilities of the European Union.",
+      "abstract": "A new presidential election in Austria could well serve as a referendum on the central tenets, roles and responsibilities of the European Union.",
+      "lead_paragraph": "BERLIN — Austria’s highest court threw out the results of the nation’s presidential election on Friday, giving a far-right, euroskeptic party a second chance to win. The ruling put the European Union’s core issues back in the cross hairs of voters only a week after Britain’s decision to quit.",
+      "publication_date": "2016-07-01T10:39:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/07/02/world/europe/austria-president-runoff.html",
+      "byline": "By Alison Smale and James Kanter"
+    },
+    {
+      "headline": "Why Your Financial Life Feels Like Whac-A-Mole",
+      "snippet": "The venerable, if infuriating, carnival game, has valuable lessons to teach about investing.",
+      "abstract": "The venerable, if infuriating, carnival game, has valuable lessons to teach about investing.",
+      "lead_paragraph": "Nobody knows where the mocking animals will emerge next. Then, when they do appear, they are ever elusive. And we are rarely fast enough or strong enough to wallop them all.",
+      "publication_date": "2016-07-01T12:41:23+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/02/your-money/why-your-financial-life-feels-like-whac-a-mole.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "The Fully Self-Driving Car Is Still Years Away",
+      "snippet": "As engineers try to design vehicles that can actually drive themselves, many are wary of halfway systems that can lull humans into a false sense of security.",
+      "abstract": "As engineers try to design vehicles that can actually drive themselves, many are wary of halfway systems that can lull humans into a false sense of security.",
+      "lead_paragraph": "Even as automakers and technology companies have been promoting a euphoric vision of the future in which cars will drive themselves and serious crashes will be rare, their engineers have been engaged in a sobering debate.",
+      "publication_date": "2016-07-01T13:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/07/02/business/international/bmw-tesla-self-driving-car-mobileye-intel.html",
+      "byline": "By Neal E. Boudette and John Markoff"
+    }
+  ]
+}

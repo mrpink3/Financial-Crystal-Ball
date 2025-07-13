@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2016-12-29",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Chief of Dentsu, Japanese Ad Agency, to Resign Over Employee’s Suicide",
+      "snippet": "Tadashi Ishii apologized and took responsibility for the death, and for a culture of dangerously long work hours.",
+      "abstract": "Tadashi Ishii apologized and took responsibility for the death, and for a culture of dangerously long work hours.",
+      "lead_paragraph": "TOKYO — In the months before she jumped to her death from a company dormitory last Christmas, a young employee at a Japanese advertising agency told friends on Twitter of enduring harassment and grueling long hours on the job.",
+      "publication_date": "2016-12-28T16:46:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/28/business/dentsu-japan-resignation-employee-suicide.html",
+      "byline": "By Jonathan Soble"
+    },
+    {
+      "headline": "Kerry Rebukes Israel, Calling Settlements a Threat to Peace",
+      "snippet": "Secretary of State John Kerry argued that Israel could not survive as both a Jewish state and a democratic state unless it embraced a two-state plan.",
+      "abstract": "Secretary of State John Kerry argued that Israel could not survive as both a Jewish state and a democratic state unless it embraced a two-state plan.",
+      "lead_paragraph": "WASHINGTON — Secretary of State John Kerry accused Prime Minister Benjamin Netanyahu of Israel on Wednesday of thwarting peace in the Middle East, speaking with a clarity and harshness almost never heard from American diplomats when discussing one of their closest and strongest allies.",
+      "publication_date": "2016-12-28T16:57:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/28/us/politics/john-kerry-israel-palestine-peace.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "When Finding the Right Lawyer Seems Daunting, Crowdsource One",
+      "snippet": "A new online service connects those needing legal services with lawyers who pay to be listed on the site. Some state bars are taking an interest in the model.",
+      "abstract": "A new online service connects those needing legal services with lawyers who pay to be listed on the site. Some state bars are taking an interest in the model.",
+      "lead_paragraph": "To resolve a legal dispute, the first thing many do is try to hire a lawyer. Too often, that is easier said than done.",
+      "publication_date": "2016-12-28T23:59:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/12/28/business/dealbook/when-finding-the-right-lawyer-seems-daunting-crowdsource-one.html",
+      "byline": "By Elizabeth Olson"
+    },
+    {
+      "headline": "As Chicago Murder Rate Spikes, Many Fear Violence Has Become Normalized",
+      "snippet": "Activists are despairing over the ceaseless bloodshed in Chicago, where more than 750 people were murdered in 2016, a 58 percent increase.",
+      "abstract": "Activists are despairing over the ceaseless bloodshed in Chicago, where more than 750 people were murdered in 2016, a 58 percent increase.",
+      "lead_paragraph": "CHICAGO — The nation’s third-largest city will end 2016 with a surging murder rate, a demoralized and distrusted police force and a weary populace that has become inured to daily reports of shootings.",
+      "publication_date": "2016-12-29T02:09:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/28/us/chicago-murder-rate-gun-deaths.html",
+      "byline": "By Julie Bosman and Mitch Smith"
+    },
+    {
+      "headline": "In John Kerry’s Mideast Speech, a Clash of Policies and Personalities",
+      "snippet": "On one side, were Mr. Kerry and President Obama. On the other, President-elect Donald J. Trump and Prime Minister Benjamin Netanyahu of Israel, and time is on their side.",
+      "abstract": "On one side, were Mr. Kerry and President Obama. On the other, President-elect Donald J. Trump and Prime Minister Benjamin Netanyahu of Israel, and time is on their side.",
+      "lead_paragraph": "JERUSALEM — Even before Secretary of State John Kerry issued his scathing critique of Israeli policies on Wednesday, President-elect Donald J. Trump essentially told Prime Minister Benjamin Netanyahu to ignore it.",
+      "publication_date": "2016-12-29T02:11:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/28/world/middleeast/kerry-netanyahu-obama-trump-israel.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Germany Grapples With Its African Genocide",
+      "snippet": "Tens of thousands of Namibians were killed in what historians call the 20th century’s first genocide, and Germany is finally close to recognizing it as such.",
+      "abstract": "Tens of thousands of Namibians were killed in what historians call the 20th century’s first genocide, and Germany is finally close to recognizing it as such.",
+      "lead_paragraph": "WATERBERG, Namibia — In this faraway corner of southern Africa, scores of German soldiers lie in a military cemetery, their names, dates and details engraved on separate polished tombstones.",
+      "publication_date": "2016-12-29T07:00:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/29/world/africa/germany-genocide-namibia-holocaust.html",
+      "byline": "By Norimitsu Onishi"
+    },
+    {
+      "headline": "How China Built ‘iPhone City’ With Billions in Perks for Apple’s Partner",
+      "snippet": "A hidden bounty of benefits for Foxconn’s plant in Zhengzhou, the world’s biggest iPhone factory, is central to the production of Apple’s most profitable product.",
+      "abstract": "A hidden bounty of benefits for Foxconn’s plant in Zhengzhou, the world’s biggest iPhone factory, is central to the production of Apple’s most profitable product.",
+      "lead_paragraph": "ZHENGZHOU, China — A vast, boxy customs center acts as a busy island of commerce deep in central China.",
+      "publication_date": "2016-12-29T08:00:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/12/29/technology/apple-iphone-china-foxconn.html",
+      "byline": "By David Barboza"
+    }
+  ]
+}

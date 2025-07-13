@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-03-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Modi Orders 3-Week Total Lockdown for All 1.3 Billion Indians",
+      "snippet": "With four hours’ notice, India’s prime minister announced that no one could leave home for 21 days — the most severe step taken anywhere in the war against the coronavirus.",
+      "abstract": "With four hours’ notice, India’s prime minister announced that no one could leave home for 21 days — the most severe step taken anywhere in the war against the coronavirus.",
+      "lead_paragraph": "NEW DELHI — India’s prime minister ordered all 1.3 billion people in the country to stay inside their homes for three weeks starting Wednesday — the biggest and most severe action undertaken anywhere to stop the spread of the coronavirus.",
+      "publication_date": "2020-03-24T17:21:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html",
+      "byline": "By Jeffrey Gettleman and Kai Schultz"
+    },
+    {
+      "headline": "Facebook Is ‘Just Trying to Keep the Lights On’ as Traffic Soars in Pandemic",
+      "snippet": "The social network is straining to deal with skyrocketing usage as its 45,000 employees work from home for the first time.",
+      "abstract": "The social network is straining to deal with skyrocketing usage as its 45,000 employees work from home for the first time.",
+      "lead_paragraph": "SAN FRANCISCO — As the coronavirus spread around the world and people everywhere were ordered to stay home, phone calls over Facebook’s apps more than doubled. In many countries, messaging on Instagram and Facebook soared by over 50 percent, while group calls in Italy jumped by more than 1,000 percent. And hungry for information, people clicked repeatedly on virus news stories shown by the social network.",
+      "publication_date": "2020-03-24T20:30:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/24/technology/virus-facebook-usage-traffic.html",
+      "byline": "By Mike Isaac and Sheera Frenkel"
+    },
+    {
+      "headline": "Drivers Say Uber and Lyft Are Blocking Unemployment Pay",
+      "snippet": "States like New York and California have made gig workers eligible for jobless benefits and sick days. But the companies have resisted complying.",
+      "abstract": "States like New York and California have made gig workers eligible for jobless benefits and sick days. But the companies have resisted complying.",
+      "lead_paragraph": "In a typical week, Jerome Gage, a Lyft driver in Los Angeles, makes $900 to $1,000 before expenses during roughly 50 hours on the road. This week, with most of the state holed up and demand for rides evaporating, he expects to work even longer to make far less than half that amount.",
+      "publication_date": "2020-03-24T21:56:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/24/business/economy/coronavirus-uber-lyft-drivers-unemployment.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Shutdown Spotlights Economic Cost of Saving Lives",
+      "snippet": "President Trump and others have asked if halting normal life and commerce to fight the coronavirus is worth the cost. Here’s how economists figure it.",
+      "abstract": "President Trump and others have asked if halting normal life and commerce to fight the coronavirus is worth the cost. Here’s how economists figure it.",
+      "lead_paragraph": "Can we measure the cost of hundreds of thousands of dead?",
+      "publication_date": "2020-03-24T23:42:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/24/business/economy/coronavirus-economy.html",
+      "byline": "By Eduardo Porter and Jim Tankersley"
+    },
+    {
+      "headline": "Trump Wants U.S. ‘Opened Up’ by Easter, Despite Health Officials’ Warnings",
+      "snippet": "“You can’t just come in and say let’s close up the United States of America,” the president said, insisting again that he did not view the coronavirus as any more dangerous than the flu.",
+      "abstract": "“You can’t just come in and say let’s close up the United States of America,” the president said, insisting again that he did not view the coronavirus as any more dangerous than the flu.",
+      "lead_paragraph": "WASHINGTON — President Trump said on Tuesday that he wanted to reopen the country for business by Easter, on April 12, despite widespread warnings from public health experts that the worst effects of the coronavirus were still weeks away and that lifting the restrictions now in place would result in unnecessary deaths.",
+      "publication_date": "2020-03-25T01:01:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/24/us/politics/trump-coronavirus-easter.html",
+      "byline": "By Annie Karni and Donald G. McNeil Jr"
+    },
+    {
+      "headline": "Senate Approves $2 Trillion Stimulus After Bipartisan Deal",
+      "snippet": "The plan would provide direct payments to taxpayers, jobless benefits and a $500 billion fund to assist distressed businesses, with oversight requirements demanded by Democrats.",
+      "abstract": "The plan would provide direct payments to taxpayers, jobless benefits and a $500 billion fund to assist distressed businesses, with oversight requirements demanded by Democrats.",
+      "lead_paragraph": "WASHINGTON — The $2 trillion economic stabilization package agreed to by Congress and the Trump administration early Wednesday morning is the largest of its kind in modern American history, intended to respond to the coronavirus pandemic and provide direct payments and jobless benefits for individuals, money for states and a huge bailout fund for businesses.",
+      "publication_date": "2020-03-25T07:03:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/25/us/politics/coronavirus-senate-deal.html",
+      "byline": "By Emily Cochrane and Nicholas Fandos"
+    },
+    {
+      "headline": "Coronavirus Means Funerals Must Wait: ‘We Can’t Properly Bury Our Dead’",
+      "snippet": "The prohibition on public gatherings imposed as a result of the coronavirus has made it difficult to memorialize those who have died of complications from the virus — or anything else.",
+      "abstract": "The prohibition on public gatherings imposed as a result of the coronavirus has made it difficult to memorialize those who have died of complications from the virus — or anything else.",
+      "lead_paragraph": "SEATTLE — After Mary Flo Werner died last week of cancer, her nine grandchildren filed in through the big white doors of their Catholic church in Janesville, Wis., for the funeral Mass. Nine plus the priest made 10, the maximum number allowed to gather since a widening coronavirus outbreak led to strict limits on public gatherings.",
+      "publication_date": "2020-03-25T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/25/us/coronavirus-funerals.html",
+      "byline": "By Kirk Johnson"
+    },
+    {
+      "headline": "Inside American Airlines’ Scramble as Virus Grounds Jets by Hundreds",
+      "snippet": "Nearly every part of the airline, the largest in the United States, has been transformed, and executives are fighting to keep it afloat.",
+      "abstract": "Nearly every part of the airline, the largest in the United States, has been transformed, and executives are fighting to keep it afloat.",
+      "lead_paragraph": "On Monday morning, American Airlines Flight 1 departed John F. Kennedy Airport in New York, bound for Los Angeles. It had six passengers.",
+      "publication_date": "2020-03-25T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/25/business/coronavirus-american-airlines.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "‘A Week of Snow Days’? Ha! Families Deal With Cabin Fever",
+      "snippet": "As people become hostages in their own homes, hired clowns and costume nights may not be enough to maintain sanity.",
+      "abstract": "As people become hostages in their own homes, hired clowns and costume nights may not be enough to maintain sanity.",
+      "lead_paragraph": "Anita Tandon and Sujit Chakravarthy, parents of three young children, ages 3 months to 7 years old, have taken extreme measures to keep order in their home during quarantine.",
+      "publication_date": "2020-03-25T09:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/25/business/coronavirus-families-cabin-fever.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "A $2 Trillion Lifeline Will Help, but More May Be Needed",
+      "snippet": "The bill moving through Congress is more than twice as large as the stimulus package passed in 2009, but it will soothe a shutdown economy for only a few months.",
+      "abstract": "The bill moving through Congress is more than twice as large as the stimulus package passed in 2009, but it will soothe a shutdown economy for only a few months.",
+      "lead_paragraph": "WASHINGTON — If you want to shut down an economy to fight a pandemic without driving millions of people and businesses into bankruptcy, you need the government to cut some checks. The coronavirus response deal that the Senate passed late Wednesday will get a lot of checks into the mail, but it will soothe only a few months of financial pain.",
+      "publication_date": "2020-03-25T11:54:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/25/business/2-trillion-stimulus-coronavirus-bill.html",
+      "byline": "By Jim Tankersley"
+    }
+  ]
+}

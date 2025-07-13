@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2019-11-12",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "From Pariah to Powerhouse: Ralph Northam’s Unlikely Rebirth in Virginia",
+      "snippet": "Nine months after a racist picture in his medical school yearbook sparked widespread demands he resign, Mr. Northam will govern with Democrats controlling both houses of the legislature.",
+      "abstract": "Nine months after a racist picture in his medical school yearbook sparked widespread demands he resign, Mr. Northam will govern with Democrats controlling both houses of the legislature.",
+      "lead_paragraph": "RICHMOND, Va. — Nine months ago, Democrats at every stratum in Virginia called on Gov. Ralph Northam to resign over a racist photograph on his medical school yearbook page.",
+      "publication_date": "2019-11-11T16:01:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/11/us/politics/Ralph-Northam-Virginia-democrats.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Trump, Ukraine and Impeachment: The Inside Story of How We Got Here",
+      "snippet": "President Trump fixated on Ukraine as a solution to his political problems. In five months, his obsession upended American foreign policy and threatened his presidency. Here is how it happened.",
+      "abstract": "President Trump fixated on Ukraine as a solution to his political problems. In five months, his obsession upended American foreign policy and threatened his presidency. Here is how it happened.",
+      "lead_paragraph": "WASHINGTON — Like every presidential conversation with a foreign leader, this one had scripted talking points and a predigested news release recounting an exchange yet to take place. Aides in the White House Situation Room clustered around a speaker phone, pens and pads in hand to document what they heard.",
+      "publication_date": "2019-11-11T20:01:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/11/us/ukraine-trump.html",
+      "byline": "By Sharon LaFraniere, Andrew E. Kramer and Danny Hakim"
+    },
+    {
+      "headline": "Leaders Take a New Look at the Trust Factor",
+      "snippet": "The words “trust” and “responsibility” were peppered throughout more than a dozen conversations at The New York Times’s DealBook conference.",
+      "abstract": "The words “trust” and “responsibility” were peppered throughout more than a dozen conversations at The New York Times’s DealBook conference.",
+      "lead_paragraph": "“There’s an old saying, ‘Things move at the speed of trust,’” Brian Chesky, co-founder and chief executive of Airbnb, said on Wednesday at The New York Times DealBook conference. “Well, how could you possibly trust something on a platform if you don’t even know if it’s true?” If there is one singular issue that defines the intersection of business and policy at this moment, it is a deepening trust deficit. That appeared to be the conclusion of some of the most consequential leaders who came together for this year’s conference, “Playing for the Long Term.” The words “trust” and “responsibility” were peppered throughout more than a dozen conversations as well as what needs to change to regain that trust.",
+      "publication_date": "2019-11-11T21:53:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2019/11/11/business/dealbook/leaders-conference-long-term-trust.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Trump May Punt on Auto Tariffs as European Carmakers Propose Plan",
+      "snippet": "Carmakers have quietly promised big investments in their American factories in hopes of avoiding the tariffs as a Wednesday deadline for the president to make a decision approaches.",
+      "abstract": "Carmakers have quietly promised big investments in their American factories in hopes of avoiding the tariffs as a Wednesday deadline for the president to make a decision approaches.",
+      "lead_paragraph": "FRANKFURT — The Trump administration, in a move that could forestall potentially devastating tariffs on foreign automobiles, is in discussions with European carmakers about increasing their investment and employment in the United States. ",
+      "publication_date": "2019-11-11T22:16:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/11/business/trump-auto-tariffs.html",
+      "byline": "By Jack Ewing and Ana Swanson"
+    },
+    {
+      "headline": "We Teach A.I. Systems Everything, Including Our Biases",
+      "snippet": "Researchers say computer systems are learning from lots and lots of digitized books and news articles that could bake old attitudes into new technology.",
+      "abstract": "Researchers say computer systems are learning from lots and lots of digitized books and news articles that could bake old attitudes into new technology.",
+      "lead_paragraph": "SAN FRANCISCO — Last fall, Google unveiled a breakthrough artificial intelligence technology called BERT that changed the way scientists build systems that learn how people write and talk.",
+      "publication_date": "2019-11-11T22:42:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/11/technology/artificial-intelligence-bias.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "How Laws Against Child Sexual Abuse Imagery Can Make It Harder to Detect",
+      "snippet": "Tech companies are deploying artificial intelligence to detect new photos and videos. But such efforts may run afoul of the law.",
+      "abstract": "Tech companies are deploying artificial intelligence to detect new photos and videos. But such efforts may run afoul of the law.",
+      "lead_paragraph": "Child sexual abuse photos and videos are among the most toxic materials online. It is against the law to view the imagery, and anybody who comes across it must report it to the federal authorities.",
+      "publication_date": "2019-11-12T08:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/12/us/online-child-sex-abuse.html",
+      "byline": "By Gabriel J.X. Dance and Michael H. Keller"
+    },
+    {
+      "headline": "Supreme Court Appears Ready to Let Trump End DACA Program",
+      "snippet": "The justices are considering whether the Trump administration can shut down a program that shields about 700,000 young immigrants from deportation.",
+      "abstract": "The justices are considering whether the Trump administration can shut down a program that shields about 700,000 young immigrants from deportation.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court’s conservative majority appeared ready on Tuesday to side with the Trump administration in its efforts to shut down a program protecting about 700,000 young undocumented immigrants known as Dreamers. ",
+      "publication_date": "2019-11-12T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/12/us/supreme-court-dreamers.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Behind Trump’s Dealings With Turkey: Sons-in-Law Married to Power",
+      "snippet": "Informal relationships between family members help explain the course of diplomacy between the White House and Turkey’s leader.",
+      "abstract": "Informal relationships between family members help explain the course of diplomacy between the White House and Turkey’s leader.",
+      "lead_paragraph": "ISTANBUL — Behind President Trump’s accommodating attitude toward Turkey is an unusual back channel: a trio of sons-in-law who married into power and now play key roles in connecting Ankara with Washington. ",
+      "publication_date": "2019-11-12T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/12/us/politics/trump-erdogan-family-turkey.html",
+      "byline": "By David D. Kirkpatrick and Eric Lipton"
+    },
+    {
+      "headline": "Where Civility Is a Motto, a School Integration Fight Turns Bitter",
+      "snippet": "A plan to desegregate schools in a liberal Maryland suburb founded on values of tolerance has met with stiff resistance.",
+      "abstract": "A plan to desegregate schools in a liberal Maryland suburb founded on values of tolerance has met with stiff resistance.",
+      "lead_paragraph": "COLUMBIA, Md. — The planned community of Columbia, southwest of Baltimore, has prided itself on its ethos of inclusion ever since it was founded more than half a century ago. Racially integrated. Affordable apartments near big homes. “The Next America” was its optimistic, harmonious motto.",
+      "publication_date": "2019-11-12T10:00:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/12/us/howard-county-school-redistricting.html",
+      "byline": "By Dana Goldstein"
+    }
+  ]
+}

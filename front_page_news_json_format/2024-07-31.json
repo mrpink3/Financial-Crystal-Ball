@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2024-07-31",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Kamala Harris Faces a Faster, Uglier Version of the Internet",
+      "snippet": "Politicians have long faced racist and sexist attacks online. But Ms. Harris is being attacked on more platforms, with new technologies and in front of bigger audiences than Barack Obama and Hillary Clinton were.",
+      "abstract": "Politicians have long faced racist and sexist attacks online. But Ms. Harris is being attacked on more platforms, with new technologies and in front of bigger audiences than Barack Obama and Hillary Clinton were.",
+      "lead_paragraph": "The internet was spewing racist and sexist attacks long before Vice President Kamala Harris began her presidential campaign this month, including when Barack Obama and Hillary Clinton sought the job. Since the last major election, however, it has become even more noxious — and more central to American politics.",
+      "publication_date": "2024-07-30T16:37:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/07/30/technology/kamala-harris-toxic-internet-politics.html",
+      "byline": "By Tiffany Hsu, Stuart A. Thompson and Steven Lee Myers"
+    },
+    {
+      "headline": "Senate Passes Child Online Safety Bill, Sending It to an Uncertain House Fate",
+      "snippet": "The legislation would impose stricter privacy rules and safeguards for children on the internet and social media, but concerns about free speech and fierce industry lobbying pose challenges.",
+      "abstract": "The legislation would impose stricter privacy rules and safeguards for children on the internet and social media, but concerns about free speech and fierce industry lobbying pose challenges.",
+      "lead_paragraph": "The Senate on Tuesday passed bipartisan legislation to impose sweeping safety and privacy requirements for children and teens on social media and other technology platforms, voting overwhelmingly to send the measure to the House, where its fate was uncertain.",
+      "publication_date": "2024-07-30T17:06:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/30/us/politics/senate-child-online-safety-bill-house.html",
+      "byline": "By Maya C. Miller"
+    },
+    {
+      "headline": "Israel Says It Killed Hezbollah Commander in Airstrike Near Beirut",
+      "snippet": "The strike was in retaliation for a deadly rocket attack this weekend in the Golan Heights. At least three civilians were killed and 74 others wounded on Tuesday, Lebanese officials said.",
+      "abstract": "The strike was in retaliation for a deadly rocket attack this weekend in the Golan Heights. At least three civilians were killed and 74 others wounded on Tuesday, Lebanese officials said.",
+      "lead_paragraph": "Ismail Haniyeh, a top Hamas leader, was assassinated in Iran. Follow our live updates. ",
+      "publication_date": "2024-07-31T01:09:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/07/30/world/middleeast/israel-hezbollah-lebanon.html",
+      "byline": "By Ronen Bergman, Adam Rasgon, Euan Ward, Farnaz Fassihi and Hwaida Saad"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2022-05-13",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Twitter fires two executives and freezes most hiring after Musk’s deal to buy the company.",
+      "snippet": "An internal memo shared with employees said the platform’s general manager and general manager for revenue would be departing.",
+      "abstract": "An internal memo shared with employees said the platform’s general manager and general manager for revenue would be departing.",
+      "lead_paragraph": "SAN FRANCISCO — Twitter’s chief executive fired two top executives, froze most new hiring and said he was slashing spending on Thursday, as the social media company tries to change its business trajectory while grappling with a takeover from Elon Musk, the world’s richest man.",
+      "publication_date": "2022-05-12T16:45:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/12/technology/twitter-elon-musk.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Jan. 6 Panel Subpoenas 5 Republicans, Including McCarthy",
+      "snippet": "The leaders of the House committee investigating the Capitol attack demanded testimony from Representative Kevin McCarthy, the minority leader, and four of his colleagues.",
+      "abstract": "The leaders of the House committee investigating the Capitol attack demanded testimony from Representative Kevin McCarthy, the minority leader, and four of his colleagues.",
+      "lead_paragraph": "WASHINGTON — The House committee investigating the Jan. 6 attack on the Capitol issued subpoenas on Thursday to five Republican members of Congress, including Representative Kevin McCarthy, the minority leader, a significant escalation as it digs deeper into the role Republicans played in attempts to overturn the 2020 election.",
+      "publication_date": "2022-05-12T17:21:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/12/us/politics/house-subpoenas-jan-6.html",
+      "byline": "By Luke Broadwater and Emily Cochrane"
+    },
+    {
+      "headline": "Fed Chair Says Bringing Inflation Down Will Take ‘Some Pain’",
+      "snippet": "Jerome Powell, whom the Senate confirmed to a second term on Thursday, said allowing rapid inflation to persist would be more painful.",
+      "abstract": "Jerome Powell, whom the Senate confirmed to a second term on Thursday, said allowing rapid inflation to persist would be more painful.",
+      "lead_paragraph": "Jerome H. Powell, the Federal Reserve chair, said in an interview on Thursday that lowering inflation is likely to be painful but that allowing price gains to persist would be the bigger problem — squaring off with the major challenge facing his central bank as he officially starts his second term at its helm.",
+      "publication_date": "2022-05-12T18:34:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/12/business/jerome-powell-confirmed.html",
+      "byline": "By Jeanna Smialek and Emily Cochrane"
+    },
+    {
+      "headline": "Finland Moves to Join NATO, Upending Putin’s Ukraine War Aims",
+      "snippet": "Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow.",
+      "abstract": "Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow.",
+      "lead_paragraph": "BRUSSELS — President Vladimir V. Putin of Russia has said stopping NATO’s expansion helped drive him to invade Ukraine. But on Thursday, Finland declared its unequivocal intention to join, not only upending Mr. Putin’s plan, but also placing the alliance’s newest prospective member on Russia’s northern doorstep.",
+      "publication_date": "2022-05-12T22:23:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/12/world/europe/finland-sweden-nato-russia-war.html",
+      "byline": "By Steven Erlanger and Norimitsu Onishi"
+    },
+    {
+      "headline": "Cryptocurrencies Melt Down in a ‘Perfect Storm’ of Fear and Panic",
+      "snippet": "A steep sell-off that gained momentum this week starkly illustrated the risks of the experimental and unregulated digital currencies.",
+      "abstract": "A steep sell-off that gained momentum this week starkly illustrated the risks of the experimental and unregulated digital currencies.",
+      "lead_paragraph": "SAN FRANCISCO — The price of Bitcoin plunged to its lowest point since 2020. Coinbase, the large cryptocurrency exchange, tanked in value. A cryptocurrency that promoted itself as a stable means of exchange collapsed. And more than $300 billion was wiped out by a crash in cryptocurrency prices since Monday.",
+      "publication_date": "2022-05-12T23:14:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/12/technology/cryptocurrencies-crash-bitcoin.html",
+      "byline": "By David Yaffe-Bellany, Erin Griffith and Ephrat Livni"
+    },
+    {
+      "headline": "Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite",
+      "snippet": "The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy.",
+      "abstract": "The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy.",
+      "lead_paragraph": "WASHINGTON — Shipping traffic in and out of Russia has remained relatively strong in the past few months as companies have raced to fulfill contracts for purchases of energy and other goods before the full force of global sanctions goes into effect.",
+      "publication_date": "2022-05-13T07:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Student Loan Borrowers Don’t Deserve ‘Forgiveness.’ They Deserve an Apology.",
+      "snippet": "Whatever the cost of any student loan cancellation program, it’ll just be money we should have spent on higher education in the first place.",
+      "abstract": "Whatever the cost of any student loan cancellation program, it’ll just be money we should have spent on higher education in the first place.",
+      "lead_paragraph": "Let’s stop the conversation about student loan forgiveness and start one about the necessity of saying we’re sorry.",
+      "publication_date": "2022-05-13T09:00:20+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/13/your-money/student-loan-forgiveness.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "All of Those Quitters? They’re at Work.",
+      "snippet": "The Great Resignation was in fact a moment many people traded up for a better-paying gig.",
+      "abstract": "The Great Resignation was in fact a moment many people traded up for a better-paying gig.",
+      "lead_paragraph": "If Applebee’s were the solar system — and for nearly six years, to Nick Haner, it felt that way — the customer would have been the sun. Everything revolved around the customer. The customer was always right, he was told. Even when the customer spit in Mr. Haner’s face. Even when the customer screamed that her salad should have been served hot, not cold. Even when the customer ripped his $2 tip in half.",
+      "publication_date": "2022-05-13T09:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/05/13/business/great-resignation-jobs.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "How Overturning Roe Could Backfire for Republicans",
+      "snippet": "The party was making headway with suburban women on crime, schools and inflation. Now the abortion debate is front and center.",
+      "abstract": "The party was making headway with suburban women on crime, schools and inflation. Now the abortion debate is front and center.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-05-13T09:00:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/13/us/roe-overturned-women-republican-voters.html",
+      "byline": "By Maya King, Alexander Burns, Dan Simmons and Ryan Patrick Hooper"
+    },
+    {
+      "headline": "The World Tries to Move Beyond Covid. China May Stand in the Way.",
+      "snippet": "Xi Jinping has redoubled his country’s efforts to control the virus, even as a growing number of leaders call on Beijing to change course.",
+      "abstract": "Xi Jinping has redoubled his country’s efforts to control the virus, even as a growing number of leaders call on Beijing to change course.",
+      "lead_paragraph": "As the rest of the world learns to live with Covid-19, China’s top leader, Xi Jinping, wants his country to keep striving to live without it — no matter the cost.",
+      "publication_date": "2022-05-13T09:00:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/13/business/china-zero-covid-xi.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Musk Says His Twitter Takeover Is ‘On Hold,’ Then Says He’s ‘Still Committed’",
+      "snippet": "Mr. Musk said he wanted to confirm Twitter’s findings that spam and fake accounts make up less than 5 percent of its users.",
+      "abstract": "Mr. Musk said he wanted to confirm Twitter’s findings that spam and fake accounts make up less than 5 percent of its users.",
+      "lead_paragraph": "Already one of the most unusual corporate takeover attempts in modern business, Elon Musk’s $44 billion deal to buy Twitter got a little weirder on Friday.",
+      "publication_date": "2022-05-13T10:17:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/13/technology/elon-musk-says-his-takeover-of-twitter-is-on-hold.html",
+      "byline": "By Adam Satariano and Lauren Hirsch"
+    }
+  ]
+}

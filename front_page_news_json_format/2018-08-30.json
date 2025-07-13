@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-08-30",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Customers Died. Will That Be a Wake-Up Call for China’s Tech Scene?",
+      "snippet": "The rape and killing of two women using a ride-hailing service owned by Didi Chuxing should be a shock to an industry that has long prized growth over users.",
+      "abstract": "The rape and killing of two women using a ride-hailing service owned by Didi Chuxing should be a shock to an industry that has long prized growth over users.",
+      "lead_paragraph": "Huang Jieli, who ran a Chinese ride-sharing business called Hitch, was invited to a wedding in March. One of her drivers was getting married to a woman who had once been his passenger. Thanks, the invitation said, for getting them hitched.",
+      "publication_date": "2018-08-29T17:52:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/29/technology/china-didi-chuxing-women-killed.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "New U.S. Sexual Misconduct Rules Bolster Rights of Accused and Protect Colleges",
+      "snippet": "Education Secretary Betsy DeVos is preparing to propose new sexual misconduct rules that cement the rights of the accused and reduce liability for institutions.",
+      "abstract": "Education Secretary Betsy DeVos is preparing to propose new sexual misconduct rules that cement the rights of the accused and reduce liability for institutions.",
+      "lead_paragraph": "WASHINGTON — Education Secretary Betsy DeVos is preparing new policies on campus sexual misconduct that would bolster the rights of students accused of assault, harassment or rape, reduce liability for institutions of higher education and encourage schools to provide more support for victims.",
+      "publication_date": "2018-08-29T20:27:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/29/us/politics/devos-campus-sexual-assault.html",
+      "byline": "By Erica L. Green"
+    },
+    {
+      "headline": "Democratic Embrace of Diverse Candidates Collides With Barbed Politics of Trump Era",
+      "snippet": "Andrew Gillum’s victory in the Democratic gubernatorial primary in Florida comes at a time when racial and ethnic issues are becoming more volatile and explicit in politics.",
+      "abstract": "Andrew Gillum’s victory in the Democratic gubernatorial primary in Florida comes at a time when racial and ethnic issues are becoming more volatile and explicit in politics.",
+      "lead_paragraph": "WASHINGTON — Democratic nominees for governor include three African-Americans, two of them in the old Confederacy, a prospect that not long ago would have been unthinkable. Record numbers of women are competing in congressional races. Elsewhere, Muslims, gays, lesbians and transgender people will be on the ballot for high-profile offices.",
+      "publication_date": "2018-08-29T23:55:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/29/us/politics/race-politics-trump.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "Andrew Gillum Pulled Off the Upset of a Lifetime. Now Comes the Hard Part.",
+      "snippet": "After the surprise victory of Mr. Gillum, a progressive, 39-year-old black man, in the Democratic primary for Florida governor, he must now find a way to raise enough money for a grueling general election.",
+      "abstract": "After the surprise victory of Mr. Gillum, a progressive, 39-year-old black man, in the Democratic primary for Florida governor, he must now find a way to raise enough money for a grueling general election.",
+      "lead_paragraph": "TALLAHASSEE, Fla. — Andrew Gillum waged a quixotic Democratic primary campaign for Florida governor, defeating wealthy rivals who outspent him, dismissing moderate naysayers who questioned him and believing until the end that an unorthodox strategy of excitement generated mostly by word of mouth would propel him to victory.",
+      "publication_date": "2018-08-30T00:40:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/29/us/politics/andrew-gillum-florida-governor.html",
+      "byline": "By Patricia Mazzei and Jonathan Martin"
+    },
+    {
+      "headline": "How McCain Got the Last Word Against Trump",
+      "snippet": "For years, the president had used Twitter and his bully pulpit to mock and condemn the senator from Arizona. In death, John McCain found a way to have the last word.",
+      "abstract": "For years, the president had used Twitter and his bully pulpit to mock and condemn the senator from Arizona. In death, John McCain found a way to have the last word.",
+      "lead_paragraph": "WASHINGTON — Not long after Senator John McCain learned last summer that he had terminal brain cancer, he began convening meetings every Friday in his Capitol Hill office with a group of trusted aides. The subject was his funeral.",
+      "publication_date": "2018-08-30T01:45:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/29/us/politics/mccain-funeral-trump.html",
+      "byline": "By Michael D. Shear and Katie Rogers"
+    },
+    {
+      "headline": "A Broken Relationship and Accusations of Emotional Abuse: The Case of Keith Ellison",
+      "snippet": "Allegations against the high-profile progressive leader represent a potentially new chapter of the #MeToo movement.",
+      "abstract": "Allegations against the high-profile progressive leader represent a potentially new chapter of the #MeToo movement.",
+      "lead_paragraph": "MINNEAPOLIS — When Keith Ellison became the first Muslim elected to Congress in 2006, it made him an instant national star: a charismatic young black leader who was now a symbol of the Democratic Party’s commitment to diversity and equal rights.",
+      "publication_date": "2018-08-30T09:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/30/us/keith-elllison-karen-monahan.html",
+      "byline": "By Julie Turkewitz and Farah Stockman"
+    },
+    {
+      "headline": "Specter of Trump’s Car Tariffs Forces Allies to Give Ground in Talks",
+      "snippet": "But their offers may not satisfy a president who has shown a willingness to embrace trade tensions to extract more from American trading partners.",
+      "abstract": "But their offers may not satisfy a president who has shown a willingness to embrace trade tensions to extract more from American trading partners.",
+      "lead_paragraph": "FRANKFURT — President Trump’s threat to impose tariffs on imported cars is working, sending foreign leaders from Mexico to Japan racing to the negotiating table to make deals. But their offers may not satisfy a president who has shown a willingness to embrace trade tensions in an effort to extract more from American trading partners.",
+      "publication_date": "2018-08-30T12:04:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/30/business/europe-trade-auto-tariffs.html",
+      "byline": "By Jack Ewing, Ana Swanson and Motoko Rich"
+    },
+    {
+      "headline": "Justice Dept. Backs Suit Accusing Harvard of Discriminating Against Asian-American Applicants",
+      "snippet": "The agency has filed a so-called statement of interest in their case, saying that Harvard “has failed to show that it does not unlawfully discriminate.”",
+      "abstract": "The agency has filed a so-called statement of interest in their case, saying that Harvard “has failed to show that it does not unlawfully discriminate.”",
+      "lead_paragraph": "WASHINGTON — The Justice Department lent its support on Thursday to students who are suing Harvard University over affirmative action policies that they claim discriminate against Asian-American applicants, in a case that could have far-reaching consequences in college admissions.",
+      "publication_date": "2018-08-30T14:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/30/us/politics/asian-students-affirmative-action-harvard.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Every Generation Gets the Beach Villain It Deserves",
+      "snippet": "Aggressive, shameless, obsessive and optimistic, the tech billionaire Vinod Khosla is willing to litigate the California coast for the rest of his life.",
+      "abstract": "Aggressive, shameless, obsessive and optimistic, the tech billionaire Vinod Khosla is willing to litigate the California coast for the rest of his life.",
+      "lead_paragraph": "It sounds simple. For nearly a decade, the venture capitalist Vinod Khosla has been fighting in court to keep the public off a piece of beach that abuts his property on the Pacific coast. What could be more familiar than another case of rich Californian versus the oceangoing citizenry?",
+      "publication_date": "2018-08-30T15:33:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/08/30/technology/vinod-khosla-beach.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "From Rooftops to Algae Pools: Orlando’s Vision for Carbon-Free Energy",
+      "snippet": "On its own and in league with other cities, Orlando is working to curb climate change, starting with the electricity it generates.",
+      "abstract": "On its own and in league with other cities, Orlando is working to curb climate change, starting with the electricity it generates.",
+      "lead_paragraph": "ORLANDO, Fla. — This city has long been a leading tourist destination. Now, it is vying for another distinction: to be a pioneer in weaning itself from carbon-based energy.",
+      "publication_date": "2018-08-30T15:41:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/30/business/energy-environment/orlando-carbon-climate.html",
+      "byline": "By Ivan Penn"
+    }
+  ]
+}

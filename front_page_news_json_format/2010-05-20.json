@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-05-20",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Democrats See Hope for Fall in Victory in House Race",
+      "snippet": "Democrats interpreted the win in a Pennsylvania special election as clear evidence that they can prevail even in a tough political environment.",
+      "abstract": "Democrats interpreted the win in a Pennsylvania special election as clear evidence that they can prevail even in a tough political environment.",
+      "lead_paragraph": "WASHINGTON — Congressional Democrats on Wednesday seized on their special election victory in a Pennsylvania House district and other primary results as evidence that they can stem Republican political momentum, as both parties sifted through Tuesday night’s returns for lessons to learn and mistakes to avoid heading to November.",
+      "publication_date": "2010-05-19T17:37:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/20/us/politics/20elect.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "In Ambush, a Glimpse of a Long Afghan Summer",
+      "snippet": "The Marines say that the Taliban and drug lords want to regain control of the Marja region and that defeating them will mean substantial resources and time.",
+      "abstract": "The Marines say that the Taliban and drug lords want to regain control of the Marja region and that defeating them will mean substantial resources and time.",
+      "lead_paragraph": "BALUCH, Afghanistan — Minutes after surviving the first ambush, Cpl. John M. Boone, a Marine sniper, called over his radio. “We’ve got a civilian here who got shot in his gut,” he said. ",
+      "publication_date": "2010-05-19T19:25:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/20/world/asia/20marja.html",
+      "byline": "By C. J. Chivers"
+    },
+    {
+      "headline": "Senate Fails to Advance Financial Reform Bill ",
+      "snippet": "The Senate failed to cut off debate on a sweeping financial regulatory bill as two key Democrats said it still did not sufficiently tighten rules.",
+      "abstract": "The Senate failed to cut off debate on a sweeping financial regulatory bill as two key Democrats said it still did not sufficiently tighten rules.",
+      "lead_paragraph": "WASHINGTON — The Senate on Wednesday rejected an effort by Democratic leaders to complete work on a sweeping financial regulatory bill as two key Democratic holdouts said it still did not tighten rules on Wall Street enough. ",
+      "publication_date": "2010-05-19T21:14:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/20/business/20regulate.html",
+      "byline": "By David M. Herszenhorn"
+    },
+    {
+      "headline": "Big Sensor, Tiny Camera, Nice Results",
+      "snippet": "The hybrid camera market for digital S.L.R.’s is young but growing. Sony joins the fray with the Alpha NEX-5.",
+      "abstract": "The hybrid camera market for digital S.L.R.’s is young but growing. Sony joins the fray with the Alpha NEX-5.",
+      "lead_paragraph": "Centuries ago, a young boy in Japan was preparing for a long journey. “You will need much drinking water,” said his master. “Construct a barrel that will catch the rain.”",
+      "publication_date": "2010-05-19T21:43:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/20/technology/personaltech/20pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Investors Ease Strain on F.D.I.C.",
+      "snippet": "Some troubled banks are now being taken over by private investors rather than being closed by the Federal Deposit Insurance Corporation.",
+      "abstract": "Some troubled banks are now being taken over by private investors rather than being closed by the Federal Deposit Insurance Corporation.",
+      "lead_paragraph": "After contending with nearly 240 bank failures since the financial crisis struck, the Federal Deposit Insurance Corporation is finally getting some help from private investors.",
+      "publication_date": "2010-05-20T00:12:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/20/business/economy/20bank.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "A Waning Star of Air Travel Struggles as a Solo Act",
+      "snippet": "Although American Airlines has fallen to No. 2, and may soon be No. 3, its executives say they will not be forced into a merger.",
+      "abstract": "Although American Airlines has fallen to No. 2, and may soon be No. 3, its executives say they will not be forced into a merger.",
+      "lead_paragraph": "FORT WORTH — Has American Airlines, for decades the industry’s leader, been backed into a corner?",
+      "publication_date": "2010-05-20T00:26:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/20/business/20air.html",
+      "byline": "By Jad Mouawad"
+    },
+    {
+      "headline": "Whistle-Blowers Become Investment Option for Hedge Funds",
+      "snippet": "Because the I.R.S. takes years to pay people turning in tax scofflaws, whistle-blowers have been paid immediately by hedge funds betting they’ll eventually collect more from the I.R.S.",
+      "abstract": "Because the I.R.S. takes years to pay people turning in tax scofflaws, whistle-blowers have been paid immediately by hedge funds betting they’ll eventually collect more from the I.R.S.",
+      "lead_paragraph": "Hedge funds have found a new market to invest in: whistle-blowers.",
+      "publication_date": "2010-05-20T00:59:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/20/business/20whistleblower.html",
+      "byline": "By David Kocieniewski"
+    },
+    {
+      "headline": "Stocks Fall Amid Concern About Europe",
+      "snippet": "Major indexes on Wall Street fell sharply, driven down by uncertainty over sovereign debt, financial regulation and a halting economic recovery.\r\n    ",
+      "abstract": "Major indexes on Wall Street fell sharply, driven down by uncertainty over sovereign debt, financial regulation and a halting economic recovery.\r\n    ",
+      "lead_paragraph": "Fears that the fragile economic recovery in the United States might be threatened by the financial and political crisis in Europe gripped Wall Street on Thursday, sending the stock market into a sharp decline and leaving anxious traders wondering where the pain might stop. ",
+      "publication_date": "2010-05-20T13:45:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/21/business/21markets.html",
+      "byline": "By Graham Bowley and Christine Hauser"
+    }
+  ]
+}

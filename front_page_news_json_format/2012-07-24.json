@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2012-07-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Save Energy, Win a Prize",
+      "snippet": "Utility companies are trying to use social media, competitive games and Big Brother-style data analysis to persuade customers to use less electricity.",
+      "abstract": "Utility companies are trying to use social media, competitive games and Big Brother-style data analysis to persuade customers to use less electricity.",
+      "lead_paragraph": "With temperatures hovering near a sweaty 100 degrees in recent weeks, the nation’s electric utilities have been taking to Facebook and Twitter, urging customers to conserve energy in the hopes of avoiding blackouts and other strains on the system.",
+      "publication_date": "2012-07-23T22:20:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/24/business/in-energy-conservation-utilities-focus-on-bragging-rights.html",
+      "byline": "By Diane Cardwell"
+    },
+    {
+      "headline": "Silicon Valley Says Step Away From the Device",
+      "snippet": "Computers, smartphones and other gadgets have made life easier, but now tech firms are worried that they may be harming people.",
+      "abstract": "Computers, smartphones and other gadgets have made life easier, but now tech firms are worried that they may be harming people.",
+      "lead_paragraph": "Stuart Crabb, a director in the executive offices of Facebook, naturally likes to extol the extraordinary benefits of computers and smartphones. But like a growing number of technology leaders, he offers a warning: log off once in a while, and put them down.",
+      "publication_date": "2012-07-24T01:02:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/24/technology/silicon-valley-worries-about-addiction-to-devices.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "In Euro Zone, Debt Pressure Tightens Grip",
+      "snippet": "Many worry that finding a solution is becoming more difficult now that Europe’s debt crisis is in its third year.",
+      "abstract": "Many worry that finding a solution is becoming more difficult now that Europe’s debt crisis is in its third year.",
+      "lead_paragraph": "With August fast approaching, Europe’s summer just got a lot less relaxing.",
+      "publication_date": "2012-07-24T01:59:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/24/business/global/in-euro-zone-debt-pressure-tightens-grip.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Hasty and Ruinous 1972 Pick Colors Today’s Hunt for a No. 2",
+      "snippet": "George McGovern’s choice of Thomas F. Eagleton as his running mate, made inside of an hour and resulting in disaster, still overshadows the picking of vice presidential candidates.",
+      "abstract": "George McGovern’s choice of Thomas F. Eagleton as his running mate, made inside of an hour and resulting in disaster, still overshadows the picking of vice presidential candidates.",
+      "lead_paragraph": "WASHINGTON — Scott Lilly was a young member of Senator George McGovern’s presidential campaign staff in the summer of 1972, and he remembers the satisfaction he felt when Mr. McGovern chose Mr. Lilly’s home-state senator to be the Democratic Party’s vice-presidential candidate.",
+      "publication_date": "2012-07-24T03:30:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/24/us/politics/eagleton-pick-in-1972-colors-todays-vice-president-hunt.html",
+      "byline": "By Lawrence K. Altman"
+    },
+    {
+      "headline": "Phone-Hacking Charges Seen as Chill on British Journalism",
+      "snippet": "The newsroom culture that has gone untrammeled for years at the British tabloids could be a casualty of a new culture of caution, media analysts say.",
+      "abstract": "The newsroom culture that has gone untrammeled for years at the British tabloids could be a casualty of a new culture of caution, media analysts say.",
+      "lead_paragraph": "LONDON — To many in Britain, the prosecutors’ decision on Tuesday to lay criminal charges against eight of the most prominent figures in British tabloid journalism over the past decade was a dramatic step toward exacting accountability for the tangled web of wrongdoing in Rupert Murdoch’s London newsrooms. ",
+      "publication_date": "2012-07-24T11:42:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/25/world/europe/two-ex-editors-for-murdoch-to-be-charged-for-phone-hacking.html",
+      "byline": "By John F. Burns"
+    },
+    {
+      "headline": "In Bid for BP’s Stake of Venture, a Former Spy Becomes the Focus",
+      "snippet": "Rosneft announced that it had begun negotiations to buy BP’s share of its Russian joint venture, as Russia’s oil industry faces challenges to finding new sources of oil to replace aging fields.",
+      "abstract": "Rosneft announced that it had begun negotiations to buy BP’s share of its Russian joint venture, as Russia’s oil industry faces challenges to finding new sources of oil to replace aging fields.",
+      "lead_paragraph": "MOSCOW — Igor I. Sechin, chief executive of Rosneft and confidant of the Russian president, Vladimir V. Putin, is the most powerful oilman you’ve never heard of. And Mr. Sechin, a former military spy who is awkward in front of cameras, long preferred it that way. ",
+      "publication_date": "2012-07-24T15:35:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/25/business/global/rosneft-opens-talks-on-buying-bps-stake-in-oil-joint-venture.html",
+      "byline": "By Andrew E. Kramer"
+    }
+  ]
+}

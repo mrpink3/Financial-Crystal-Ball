@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2019-12-10",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Democrats Close to Agreement With White House on New NAFTA",
+      "snippet": "Congressional Democrats and the White House are on the cusp of an agreement on revisions to the United States-Mexico-Canada Agreement.",
+      "abstract": "Congressional Democrats and the White House are on the cusp of an agreement on revisions to the United States-Mexico-Canada Agreement.",
+      "lead_paragraph": "WASHINGTON — Democratic lawmakers are nearing an agreement to bring the revised North American free trade deal to a vote after securing additional labor, enforcement and other provisions and winning the support of top labor leaders. ",
+      "publication_date": "2019-12-09T17:53:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/09/business/democrats-close-to-agreement-with-white-house-on-new-nafta.html",
+      "byline": "By Emily Cochrane, Ana Swanson, Elisabeth Malkin and Maggie Haberman"
+    },
+    {
+      "headline": "Democrats Signal Abuse of Power and Obstruction of Congress Charges Against Trump",
+      "snippet": "Democrats have narrowed their focus to two articles of impeachment against President Trump, expected to be unveiled on Tuesday, after lawyers labeled his conduct a “clear and present danger” to fair elections and national security.",
+      "abstract": "Democrats have narrowed their focus to two articles of impeachment against President Trump, expected to be unveiled on Tuesday, after lawyers labeled his conduct a “clear and present danger” to fair elections and national security.",
+      "lead_paragraph": "WASHINGTON — House Democrats signaled that they would unveil articles of impeachment on Tuesday morning that charge President Trump with abuse of power and obstruction of Congress for conduct they called a “clear and present danger” to the 2020 election and national security.",
+      "publication_date": "2019-12-09T19:15:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/09/us/politics/impeachment-trump.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Boeing 737 Max Factory Was Plagued With Problems, Whistle-Blower Says",
+      "snippet": "Ed Pierson, a former senior manager at the 737 factory, believes production problems may have contributed to two deadly crashes. He will testify before Congress on Wednesday.",
+      "abstract": "Ed Pierson, a former senior manager at the 737 factory, believes production problems may have contributed to two deadly crashes. He will testify before Congress on Wednesday.",
+      "lead_paragraph": "Four months before the first deadly crash of Boeing’s 737 Max, a senior manager approached an executive at the company with concerns that the factory that made the plane was riddled with production problems, making the jet potentially unsafe. That manager, Ed Pierson, plans to tell his story to Congress on Wednesday. ",
+      "publication_date": "2019-12-09T22:30:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/09/business/boeing-737-max-whistleblower.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Another Inquiry Doesn’t Back Up Trump’s Charges. So, on to the Next.",
+      "snippet": "By the time the Justice Department inspector general’s report was released, the president and his supporters had moved on in their effort to convince Americans of the enemies arrayed against him.",
+      "abstract": "By the time the Justice Department inspector general’s report was released, the president and his supporters had moved on in their effort to convince Americans of the enemies arrayed against him.",
+      "lead_paragraph": "WASHINGTON — President Trump and his allies spent months promising that a report on the origins of the F.B.I.’s Russia investigation would be a kind of Rosetta Stone for Trump-era conspiracy enthusiasts — the key to unlocking the secrets of a government plot to keep Mr. Trump from being elected in 2016.",
+      "publication_date": "2019-12-10T00:58:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/09/us/politics/trump-ig-report.html",
+      "byline": "By Mark Mazzetti"
+    },
+    {
+      "headline": "Lies, Damned Lies and Washington",
+      "snippet": "As President Trump faces impeachment by the House, it is the very concept of truth that often seems to be on trial.",
+      "abstract": "As President Trump faces impeachment by the House, it is the very concept of truth that often seems to be on trial.",
+      "lead_paragraph": "WASHINGTON — There are days in Washington lately when it feels like the truth itself is on trial. Monday was one of those days. ",
+      "publication_date": "2019-12-10T01:37:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/09/us/politics/lies-damned-lies-and-washington.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Worried, Scared and Paralyzed: Lives Caught in Brexit Limbo",
+      "snippet": "Whether Brexit would be good for business or not, the interminable nature of leaving the European Union has already created problems for those concerned about their livelihoods.",
+      "abstract": "Whether Brexit would be good for business or not, the interminable nature of leaving the European Union has already created problems for those concerned about their livelihoods.",
+      "lead_paragraph": "Britain’s halting march toward Brexit has prompted two changes in prime minister, two general elections (including one on Thursday) and a paralysis in Parliament as the debate over leaving the European Union has overwhelmed everything else. ",
+      "publication_date": "2019-12-10T05:01:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/10/business/brexit-jobs.html",
+      "byline": "By Amie Tsang and Adam Satariano"
+    },
+    {
+      "headline": "Big Tech Is Under Attack, and Investors Couldn’t Care Less",
+      "snippet": "Giant tech stocks have posted a remarkable year, shrugging off the trade war, bipartisan political hostility and regulatory threats.",
+      "abstract": "Giant tech stocks have posted a remarkable year, shrugging off the trade war, bipartisan political hostility and regulatory threats.",
+      "lead_paragraph": "It was December 2018, and the towering giants of tech were looking wobbly. ",
+      "publication_date": "2019-12-10T10:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/10/business/tech-stocks-apple-amazon-microsoft-google.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "America’s Top Foundations Bankroll Attack on Big Tech",
+      "snippet": "Major nonprofits and other organizations have pledged millions of dollars toward groups trying to build a modern trust-busting movement.",
+      "abstract": "Major nonprofits and other organizations have pledged millions of dollars toward groups trying to build a modern trust-busting movement.",
+      "lead_paragraph": "WASHINGTON — Critics of big tech companies are eager to keep up their momentum — and some of the country’s wealthiest foundations are providing the financial firepower.",
+      "publication_date": "2019-12-10T10:00:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/10/technology/americas-top-foundations-bankroll-attack-on-big-tech.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "Trump and Barr Escalate Attacks on F.B.I. Over Report on Russia Inquiry",
+      "snippet": "The president suggested he lacked confidence in his own F.B.I. director, who did not share his negative view of a long-awaited inspector general report.",
+      "abstract": "The president suggested he lacked confidence in his own F.B.I. director, who did not share his negative view of a long-awaited inspector general report.",
+      "lead_paragraph": "WASHINGTON — President Trump and Attorney General William P. Barr took aim at the F.B.I. on Tuesday, escalating their attacks on the bureau a day after an independent watchdog concluded that former F.B.I. officials had adequate reason in 2016 to open the investigation into the Trump campaign’s ties to Russia.",
+      "publication_date": "2019-12-10T13:45:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/10/us/politics/trump-fbi-wray.html",
+      "byline": "By Katie Benner and Eileen Sullivan"
+    },
+    {
+      "headline": "Trump ‘Ignored and Injured’ the National Interest, Democrats Charge in Impeachment Articles",
+      "snippet": "Democratic leaders unveiled articles of impeachment charging President Trump with abuse of power and obstruction of Congress.",
+      "abstract": "Democratic leaders unveiled articles of impeachment charging President Trump with abuse of power and obstruction of Congress.",
+      "lead_paragraph": "WASHINGTON — House Democratic leaders on Tuesday formally called for President Trump’s removal from office, asserting that he “ignored and injured the interests of the nation” in two articles of impeachment that charged him with abusing his power and obstructing Congress.",
+      "publication_date": "2019-12-10T13:51:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/10/us/politics/trump-impeachment-articles.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "Facebook and Barr Escalate Standoff Over Encrypted Messages",
+      "snippet": "With 1.5 billion users, Facebook’s WhatsApp is perhaps the world’s most commonly used encrypted communications platform.",
+      "abstract": "With 1.5 billion users, Facebook’s WhatsApp is perhaps the world’s most commonly used encrypted communications platform.",
+      "lead_paragraph": "WASHINGTON — Facebook executives and Attorney General William P. Barr sparred on Monday over whether encrypted messaging products should be open to law enforcement, escalating a standoff over privacy and policing.",
+      "publication_date": "2019-12-10T15:07:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/12/10/technology/whatsapp-barr-encryption.html",
+      "byline": "By David McCabe, Mike Isaac and Katie Benner"
+    },
+    {
+      "headline": "Trump Aides and Democrats Agree on Trade Pact With Mexico and Canada",
+      "snippet": "The new provisions, solidified after months of negotiations between House Democrats and the Trump administration, would strengthen the trade deal’s protections for workers",
+      "abstract": "The new provisions, solidified after months of negotiations between House Democrats and the Trump administration, would strengthen the trade deal’s protections for workers",
+      "lead_paragraph": "WASHINGTON — The White House and House Democrats reached an agreement to strengthen labor, environmental, pharmaceutical and enforcement provisions in President Trump’s North American trade pact, a significant development that made it all but certain that the signature trade deal would become law.",
+      "publication_date": "2019-12-10T15:12:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/12/10/us/politics/usmca-trade-deal.html",
+      "byline": "By Emily Cochrane and Ana Swanson"
+    }
+  ]
+}

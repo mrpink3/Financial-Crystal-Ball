@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-07-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "2020 Census Won’t Have Citizenship Question as Trump Administration Drops Effort",
+      "snippet": "A Supreme Court decision last week had temporarily blocked the administration’s effort.",
+      "abstract": "A Supreme Court decision last week had temporarily blocked the administration’s effort.",
+      "lead_paragraph": "WASHINGTON — The Trump administration, in a dramatic about-face, abandoned its quest on Tuesday to add a citizenship question to the 2020 census, a week after being blocked by the Supreme Court.",
+      "publication_date": "2019-07-02T20:46:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/02/us/trump-census-citizenship-question.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "Squalid Conditions at Border Detention Centers, Government Report Finds",
+      "snippet": "A Department of Homeland Security inspector general’s report detailed overcrowding and children without showers or hot meals, and lawmakers demanded answers.",
+      "abstract": "A Department of Homeland Security inspector general’s report detailed overcrowding and children without showers or hot meals, and lawmakers demanded answers.",
+      "lead_paragraph": "WASHINGTON — Overcrowded, squalid conditions are more widespread at migrant centers along the southern border than initially revealed, the Department of Homeland Security’s independent watchdog said Tuesday. Its report describes standing-room-only cells, children without showers and hot meals, and detainees clamoring desperately for release.",
+      "publication_date": "2019-07-02T23:01:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/02/us/politics/border-center-migrant-detention.html",
+      "byline": "By Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "It’s a Question No One Says They Want to Ask. But the Women Running for President Keep Hearing It.",
+      "snippet": "Female candidates are climbing in the polls and dominating debates. Yet Democrats are still being asked if a woman can be elected president.",
+      "abstract": "Female candidates are climbing in the polls and dominating debates. Yet Democrats are still being asked if a woman can be elected president.",
+      "lead_paragraph": "GREENVILLE, S.C. — Some people whisper it, some apologize for it, and some are very careful to mention their neighbors — their neighbors would be the ones to ask.",
+      "publication_date": "2019-07-03T09:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/03/us/politics/women-presidential-candidates-2020.html",
+      "byline": "By Lisa Lerer"
+    },
+    {
+      "headline": "Inside an Amazon Warehouse, Robots’ Ways Rub Off on Humans",
+      "snippet": "A machine-dominated workplace can make employees more mechanical themselves. But there is room for initiative, and small acts of rebellion.",
+      "abstract": "A machine-dominated workplace can make employees more mechanical themselves. But there is room for initiative, and small acts of rebellion.",
+      "lead_paragraph": "The last person to touch an item at an Amazon fulfillment center is the packer, whose job is to stick each order in a box and tape it shut.",
+      "publication_date": "2019-07-03T09:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/07/03/business/economy/amazon-warehouse-labor-robots.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Hacking, Glitches, Disinformation: Why Experts Are Worried About the 2020 Census",
+      "snippet": "The government plans to deploy new technology for next year’s head count, but risks abound.",
+      "abstract": "The government plans to deploy new technology for next year’s head count, but risks abound.",
+      "lead_paragraph": "In the run-up to the 2020 census, the government has embraced technology as never before, hoping to halt the ballooning cost of the decennial head count. For the first time, households will have the option of responding online, and field workers going door to door will be equipped with smartphones to log the information they collect.",
+      "publication_date": "2019-07-03T09:00:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/03/us/2020-census-digital.html",
+      "byline": "By Chris Hamby"
+    },
+    {
+      "headline": "Lee Iacocca Was a C.E.O. for the Television Age",
+      "snippet": "Before the cult of the modern corporate chief, the former Chrysler leader fused his identity with his company’s, helping him sell cars and win over Washington.",
+      "abstract": "Before the cult of the modern corporate chief, the former Chrysler leader fused his identity with his company’s, helping him sell cars and win over Washington.",
+      "lead_paragraph": "Long before Lee Iacocca ran the Ford Motor Company and then the Chrysler Corporation, there were corporate leaders who captured the public’s imagination, like John D. Rockefeller, Walt Disney, Estée Lauder and Henry Ford.",
+      "publication_date": "2019-07-03T12:32:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/03/business/lee-iacocca-death-chrysler.html",
+      "byline": "By Keith Bradsher"
+    }
+  ]
+}

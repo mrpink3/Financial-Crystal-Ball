@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-03-24",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Republicans Say Spending Is Fueling Inflation. The Fed Chair Disagrees.",
+      "snippet": "Jerome H. Powell has said that snarled supply chains, an oil shock following Russia’s invasion of Ukraine and shifts among American consumers are primarily behind rapid price growth.",
+      "abstract": "Jerome H. Powell has said that snarled supply chains, an oil shock following Russia’s invasion of Ukraine and shifts among American consumers are primarily behind rapid price growth.",
+      "lead_paragraph": "WASHINGTON — The chair of the Federal Reserve, Jerome H. Powell, has repeatedly undercut a central claim Republicans make as they seek sharp cuts in federal spending: Government spending is driving the nation’s still-hot inflation rate.",
+      "publication_date": "2023-03-23T19:29:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/23/us/politics/republicans-inflation-federal-reserve-powell.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Lawmakers Blast TikTok’s C.E.O. for App’s Ties to China, Escalating Tensions",
+      "snippet": "Lawmakers grilled Shou Chew, TikTok’s chief executive, over the app’s ties to its Chinese parent company and its effects on children, as Chinese officials said they opposed a sale of the platform.",
+      "abstract": "Lawmakers grilled Shou Chew, TikTok’s chief executive, over the app’s ties to its Chinese parent company and its effects on children, as Chinese officials said they opposed a sale of the platform.",
+      "lead_paragraph": "Lawmakers lambasted TikTok’s chief executive about the platform’s ties to China in a roughly five-hour hearing on Thursday, punctuating how the viral video app has become a central battleground as the United States and China tussle for political, technological and economic primacy.",
+      "publication_date": "2023-03-23T20:08:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/23/technology/tiktok-hearing-congress-china.html",
+      "byline": "By Cecilia Kang, David McCabe and Sapna Maheshwari"
+    },
+    {
+      "headline": "Utah Law Could Curb Use of TikTok and Instagram by Children and Teens",
+      "snippet": "The law, which prohibits social networks from allowing minors to have accounts without parental consent, may come as welcome news to many families even as it raises privacy concerns.",
+      "abstract": "The law, which prohibits social networks from allowing minors to have accounts without parental consent, may come as welcome news to many families even as it raises privacy concerns.",
+      "lead_paragraph": "Gov. Spencer J. Cox of Utah signed a sweeping social media bill on Thursday afternoon that could dramatically limit youth access to apps like TikTok and Instagram, potentially upending how many minors in the state use the internet.",
+      "publication_date": "2023-03-23T21:40:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/23/technology/utah-social-media-law-tiktok-instagram.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "The Younger Brother Caught in the Middle of the FTX Investigation",
+      "snippet": "The collapse of Sam Bankman-Fried’s business empire has led federal prosecutors to scrutinize his brother, Gabe, who ran a pandemic-prevention group.",
+      "abstract": "The collapse of Sam Bankman-Fried’s business empire has led federal prosecutors to scrutinize his brother, Gabe, who ran a pandemic-prevention group.",
+      "lead_paragraph": "The money flowed freely at a pandemic-prevention organization run by the younger brother of Sam Bankman-Fried, the disgraced cryptocurrency mogul.",
+      "publication_date": "2023-03-24T07:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/24/business/ftx-gabe-bankman-fried.html",
+      "byline": "By Matthew Goldstein, David Yaffe-Bellany and Lora Kelley"
+    },
+    {
+      "headline": "‘Bonkers’ Bond Trading May Be Sending a Grim Signal About the Economy",
+      "snippet": "Wild swings in the Treasury market are unlike anything many investors today had seen. They’re also potentially warning of a recession.",
+      "abstract": "Wild swings in the Treasury market are unlike anything many investors today had seen. They’re also potentially warning of a recession.",
+      "lead_paragraph": "In the typically tame market for government bonds, investors have been left reeling from some of the most chaotic trading conditions they have ever seen, entrenching concerns about the broader economy since the collapse of Silicon Valley Bank.",
+      "publication_date": "2023-03-24T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/24/business/treasury-market-swings-economic-signal.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "A Trump Rally, a Right-Wing Cause and the Enduring Legacy of Waco",
+      "snippet": "Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.",
+      "abstract": "Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.",
+      "lead_paragraph": "In the chapel at Mount Carmel, the longtime home of the Branch Davidian sect outside Waco, Texas, the pastor preaches about the coming apocalypse, as the sect’s doomed charismatic leader David Koresh did three decades ago.",
+      "publication_date": "2023-03-24T09:00:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/24/us/politics/donald-trump-waco-branch-davidians.html",
+      "byline": "By Charles Homans"
+    },
+    {
+      "headline": "From Rockets to Ball Bearings, Pentagon Struggles to Feed War Machine",
+      "snippet": "The flow of arms to Ukraine has exposed a worrisome lack of production capacity in the United States that has its roots in the end of the Cold War.",
+      "abstract": "The flow of arms to Ukraine has exposed a worrisome lack of production capacity in the United States that has its roots in the end of the Cold War.",
+      "lead_paragraph": "WASHINGTON — The Navy admiral had a blunt message for the military contractors building precision-guided missiles for his warships, submarines and planes at a moment when the United States is dispatching arms to Ukraine and preparing for the possibility of conflict with China.",
+      "publication_date": "2023-03-24T09:00:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/24/us/politics/military-weapons-ukraine-war.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "A Refuge for Russians and Ukrainians, Bali Rethinks Its Open-Door Policy",
+      "snippet": "After multiple accounts of tourists behaving badly, its governor wants Russia and Ukraine to lose access to Indonesia’s visa-on-arrival program.",
+      "abstract": "After multiple accounts of tourists behaving badly, its governor wants Russia and Ukraine to lose access to Indonesia’s visa-on-arrival program.",
+      "lead_paragraph": "For most of last year, thousands of Russians and Ukrainians flocked to the Indonesian island of Bali to escape the war. There they found refuge in a tropical paradise where locals rolled out the welcome mat for Ukrainians fleeing the shelling and Russians dodging the draft.",
+      "publication_date": "2023-03-24T09:00:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/24/world/asia/russia-ukraine-bali-visa.html",
+      "byline": "By Sui-Lee Wee and Muktita Suhartono"
+    },
+    {
+      "headline": "Expelling Rahul Gandhi From Parliament, Modi Allies Thwart a Top Rival",
+      "snippet": "The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.",
+      "abstract": "The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.",
+      "lead_paragraph": "NEW DELHI — Rahul Gandhi went to battle against Prime Minister Narendra Modi in elections four years ago waving the banner of India’s multi-sectarian tradition and characterizing Mr. Modi as a dangerous Hindu nationalist who would whittle away the country’s democracy if he remained in power.",
+      "publication_date": "2023-03-24T13:15:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/24/world/asia/india-gandhi-modi.html",
+      "byline": "By Alex Travelli and Suhasini Raj"
+    },
+    {
+      "headline": "Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor",
+      "snippet": "U.S. officials said the main air defense system at the coalition base was “not fully operational” at the time of Thursday’s attack, which killed a U.S. contractor and wounded six other Americans.",
+      "abstract": "U.S. officials said the main air defense system at the coalition base was “not fully operational” at the time of Thursday’s attack, which killed a U.S. contractor and wounded six other Americans.",
+      "lead_paragraph": "WASHINGTON — The conflict in northeast Syria escalated on Friday as Iran-backed militias launched a volley of rocket and drone attacks against coalition bases after American reprisals for a drone attack that killed a U.S. contractor and injured six other Americans.",
+      "publication_date": "2023-03-24T14:30:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/24/us/politics/syria-us-contractor-killed-iran-drone.html",
+      "byline": "By Eric Schmitt"
+    }
+  ]
+}

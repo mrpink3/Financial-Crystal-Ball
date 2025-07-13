@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2024-06-11",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Apple Jumps Into A.I. Fray With Apple Intelligence",
+      "snippet": "The iPhone maker, which has been slow to embrace artificial intelligence, will weave it into the technology that runs on billions of devices.",
+      "abstract": "The iPhone maker, which has been slow to embrace artificial intelligence, will weave it into the technology that runs on billions of devices.",
+      "lead_paragraph": "Nearly two years after OpenAI ignited a race to add generative artificial intelligence into products, Apple jumped into the competition on Monday, as it revealed plans to bring the technology to more than a billion iPhone users around the world.",
+      "publication_date": "2024-06-10T18:48:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/10/technology/apple-intelligence-openai.html",
+      "byline": "By Tripp Mickle"
+    },
+    {
+      "headline": "U.N. Passes Gaza Cease-Fire Resolution as Blinken Presses Israel and Hamas",
+      "snippet": "The Security Council endorsed a U.S.-backed plan, while Secretary of State Antony J. Blinken visited the Middle East to lobby for it, but Hamas and Israel were noncommittal.",
+      "abstract": "The Security Council endorsed a U.S.-backed plan, while Secretary of State Antony J. Blinken visited the Middle East to lobby for it, but Hamas and Israel were noncommittal.",
+      "lead_paragraph": "The United Nations Security Council on Monday adopted a U.S.-backed cease-fire plan for the Gaza Strip with only Russia abstaining, a sign of the growing frustration among the world’s major powers over the war and the desire to bring it to an end.",
+      "publication_date": "2024-06-10T23:03:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/10/world/middleeast/security-council-gaza-ceasefire-blinken.html",
+      "byline": "By Farnaz Fassihi, Michael Crowley, Mike Ives and Thomas Fuller"
+    },
+    {
+      "headline": "Nigeria Confronts Its Worst Economic Crisis in a Generation",
+      "snippet": "People in Africa’s most populous nation are suffering as the price of food, fuel and medicine has skyrocketed out of reach for many.",
+      "abstract": "People in Africa’s most populous nation are suffering as the price of food, fuel and medicine has skyrocketed out of reach for many.",
+      "lead_paragraph": "Nigeria is facing its worst economic crisis in decades, with skyrocketing inflation, a national currency in free-fall and millions of people struggling to buy food. Only two years ago Africa’s biggest economy, Nigeria is projected to drop to fourth place this year.",
+      "publication_date": "2024-06-11T04:01:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/11/world/africa/nigeria-economy-strike.html",
+      "byline": "By Ruth Maclean, Ismail Auwal and Taiwo Aina"
+    },
+    {
+      "headline": "A Champion Sherpa Died Guiding Foreigners. Is It Too Dangerous?",
+      "snippet": "Tenjen Lama Sherpa was one of the most storied mountain guides of his generation. Now, he and two of his brothers are dead, and their youngest brother must keep climbing to make a living.",
+      "abstract": "Tenjen Lama Sherpa was one of the most storied mountain guides of his generation. Now, he and two of his brothers are dead, and their youngest brother must keep climbing to make a living.",
+      "lead_paragraph": "In July 2023, the mountaineer Tenjen Lama Sherpa guided a Norwegian climber to summit the world’s 14 highest peaks in record time. In a sport that demands an alchemy of sinewy resolve and high-altitude faith, Mr. Lama did everything his client did and more. But she received most of the money, fame and attention.",
+      "publication_date": "2024-06-11T08:00:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/11/world/asia/sherpa-mountain-climber-record.html",
+      "byline": "By Hannah Beech and Bhadra Sharma"
+    },
+    {
+      "headline": "Can Apple Rescue the Vision Pro?",
+      "snippet": "The $3,500 “spatial computing” device has gathered dust on my shelf. Can tweaks and upgrades save it from obsolescence?",
+      "abstract": "The $3,500 “spatial computing” device has gathered dust on my shelf. Can tweaks and upgrades save it from obsolescence?",
+      "lead_paragraph": "When I first got my hands on an Apple Vision Pro early this year, it felt like magic.",
+      "publication_date": "2024-06-11T09:00:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/11/technology/apple-vision-pro-needs.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Fed Is in No Rush to Cut Rates as Economy Holds Up",
+      "snippet": "Federal Reserve officials are expected to leave interest rates unchanged at their meeting this week. They will also release a fresh set of economic projections.",
+      "abstract": "Federal Reserve officials are expected to leave interest rates unchanged at their meeting this week. They will also release a fresh set of economic projections.",
+      "lead_paragraph": "Federal Reserve officials are entering an uncertain summer. They are not sure how quickly inflation will cool, how much the economy is likely to slow or just how long interest rates need to stay high in order to make sure that quick price increases are fully vanquished.",
+      "publication_date": "2024-06-11T09:03:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/11/business/economy/fed-interest-rates-inflation.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Age Is on the Ballot in 2024, at Least in North Dakota",
+      "snippet": "A vote on Tuesday on a proposed age limit for members of Congress is a rare chance to find out what voters actually believe about politicians and age.",
+      "abstract": "A vote on Tuesday on a proposed age limit for members of Congress is a rare chance to find out what voters actually believe about politicians and age.",
+      "lead_paragraph": "For months, as the presidential election has drawn closer, a debate over the age of American politicians has swirled: Is there a point at which candidates should be deemed too old to run? Should age even matter?",
+      "publication_date": "2024-06-11T09:03:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/11/us/north-dakota-candidate-age.html",
+      "byline": "By Ernesto Londoño"
+    },
+    {
+      "headline": "Grab Them. Then Stump Them.",
+      "snippet": "Word puzzles on LinkedIn. Logic challenges in The Washington Post. For news publishers and tech sites looking to both entice and engage users, games are serious business.",
+      "abstract": "Word puzzles on LinkedIn. Logic challenges in The Washington Post. For news publishers and tech sites looking to both entice and engage users, games are serious business.",
+      "lead_paragraph": "What’s a five-letter word for an activity that media and technology companies are increasingly relying on to gain subscribers and keep them coming back?",
+      "publication_date": "2024-06-11T15:40:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/11/technology/news-tech-sites-games.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Black Disney Princess Ride Replaces Splash Mountain and Its Racist History",
+      "snippet": "The ride was closed last year because of its connection to a racist film. Disney overhauled it to focus on Tiana, Disney’s first Black princess, drawing praise and backlash.",
+      "abstract": "The ride was closed last year because of its connection to a racist film. Disney overhauled it to focus on Tiana, Disney’s first Black princess, drawing praise and backlash.",
+      "lead_paragraph": "In the summer of 2020, as a reckoning on racial justice swept the country, Disney said it would rip out Splash Mountain, a wildly popular flume ride with a racist back story.",
+      "publication_date": "2024-06-11T15:46:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/11/business/disney-world-splash-mountain-princess-tiana.html",
+      "byline": "By Brooks Barnes and Todd Anderson"
+    }
+  ]
+}

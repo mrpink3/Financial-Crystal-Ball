@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-10-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Boeing Workers Resoundingly Reject New Contract and Extend Strike",
+      "snippet": "The vote, hours after Boeing reported a $6.1 billion loss, will extend a nearly six-week-long strike at factories where the company makes its best-selling commercial plane.",
+      "abstract": "The vote, hours after Boeing reported a $6.1 billion loss, will extend a nearly six-week-long strike at factories where the company makes its best-selling commercial plane.",
+      "lead_paragraph": "Boeing’s largest union rejected a tentative labor contract on Wednesday by a wide margin, extending a damaging strike and adding to the mounting financial problems facing the company, which hours earlier had reported a $6.1 billion loss.",
+      "publication_date": "2024-10-24T02:20:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/23/business/boeing-union-vote-strike.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Is Afghanistan’s Most-Wanted Militant Now Its Best Hope for Change?",
+      "snippet": "Sirajuddin Haqqani has tried to remake himself from blood-soaked jihadist to pragmatic Taliban statesman. Western diplomats are shocked — and enticed.",
+      "abstract": "Sirajuddin Haqqani has tried to remake himself from blood-soaked jihadist to pragmatic Taliban statesman. Western diplomats are shocked — and enticed.",
+      "lead_paragraph": "For the better part of two decades, one name above all others inspired fear among ordinary Afghans: Sirajuddin Haqqani.",
+      "publication_date": "2024-10-24T04:36:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/24/world/asia/afghanistan-sirajuddin-haqqani-taliban.html",
+      "byline": "By Christina Goldbaum"
+    },
+    {
+      "headline": "How Intel Got Left Behind in the A.I. Chip Boom",
+      "snippet": "Intel was for decades Silicon Valley’s dominant chip company. But missed opportunities and poor execution left it on the sidelines in tech’s latest gold rush.",
+      "abstract": "Intel was for decades Silicon Valley’s dominant chip company. But missed opportunities and poor execution left it on the sidelines in tech’s latest gold rush.",
+      "lead_paragraph": "In 2005, there was no inkling of the artificial intelligence boom that would come years later. But directors at Intel, whose chips served as electronic brains in most computers, faced a decision that might have altered how that transformative technology evolved.",
+      "publication_date": "2024-10-24T09:02:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/24/technology/intel-ai-chips-mistakes.html",
+      "byline": "By Steve Lohr and Don Clark"
+    },
+    {
+      "headline": "The White House Bet Big on Intel. Will It Backfire?",
+      "snippet": "A plan to revive U.S. chip manufacturing rests partly on a company that is firing workers and delaying factories, even as the government pushes for the opposite.",
+      "abstract": "A plan to revive U.S. chip manufacturing rests partly on a company that is firing workers and delaying factories, even as the government pushes for the opposite.",
+      "lead_paragraph": "At an annual gathering of tech executives and billionaires in Sun Valley, Idaho, this past July, Gina Raimondo commandeered a table near a duck pond and tried to exert her influence as the U.S. secretary of commerce to help rescue an ailing national champion.",
+      "publication_date": "2024-10-24T09:03:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/24/us/politics/intel-chips-biden.html",
+      "byline": "By Ana Swanson and Tripp Mickle"
+    },
+    {
+      "headline": "Short on Time, Harris’s Labor Allies Sprint to Reach Working-Class Voters",
+      "snippet": "Unions and their affiliates think they can still break through with the Democrats’ worst demographic, white working-class voters, by hustling on the ground. But it has been a slog.",
+      "abstract": "Unions and their affiliates think they can still break through with the Democrats’ worst demographic, white working-class voters, by hustling on the ground. But it has been a slog.",
+      "lead_paragraph": "Vice President Kamala Harris’s allies in organized labor have begun a late drive to help her with white working-class voters, her weakest demographic, in the face of great skepticism over inflation, old grudges about free trade, new ones about student-loan forgiveness, and a profound blue-collar affinity for Donald J. Trump.",
+      "publication_date": "2024-10-24T09:04:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/24/us/politics/unions-working-class.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Trump Flirts With the Ultimate Tax Cut: No Income Taxes at All",
+      "snippet": "The former president has repeatedly praised a period in American history when there was no income tax, and the country relied on tariffs to fund the government.",
+      "abstract": "The former president has repeatedly praised a period in American history when there was no income tax, and the country relied on tariffs to fund the government.",
+      "lead_paragraph": "Former President Donald J. Trump has spent much of the presidential campaign brainstorming new, and sometimes untested, ways to cut taxes. In the election’s final stretch, he raised the possibility of going even further: eliminating income taxes entirely.",
+      "publication_date": "2024-10-24T14:41:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/24/us/politics/donald-trump-tax-policy.html",
+      "byline": "By Andrew Duehren"
+    }
+  ]
+}

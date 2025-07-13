@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2012-12-11",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Apps for Children Fall Short on Disclosure to Parents, Report Says",
+      "snippet": "Only 20 percent of mobile apps for children provided disclosures about their data collection practices, according to a new Federal Trade Commission report.",
+      "abstract": "Only 20 percent of mobile apps for children provided disclosures about their data collection practices, according to a new Federal Trade Commission report.",
+      "lead_paragraph": "Several hundred of the most popular educational and gaming mobile apps for children fail to give parents basic explanations about what kinds of personal information the apps collect from children, who can see that data and what they use it for, a new federal report says. ",
+      "publication_date": "2012-12-10T16:02:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/12/11/technology/many-mobile-apps-for-children-fall-short-on-disclosure-to-parents-ftc-report-says.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "HSBC to Pay $1.92 Billion to Settle Charges of Money Laundering",
+      "snippet": "The announcement of a settlement on Tuesday came after state and federal authorities decided against indicting the British bank in a money-laundering case.",
+      "abstract": "The announcement of a settlement on Tuesday came after state and federal authorities decided against indicting the British bank in a money-laundering case.",
+      "lead_paragraph": "4:37 a.m. | Updated ",
+      "publication_date": "2012-12-10T21:10:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2012/12/10/hsbc-said-to-near-1-9-billion-settlement-over-money-laundering/",
+      "byline": "By Ben Protess and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Bailout Over, U.S. Treasury Plans to Sell A.I.G. Shares",
+      "snippet": "The government will sell its final holdings of the American International Group, the insurance giant it bailed out in 2008 — and at a profit.",
+      "abstract": "The government will sell its final holdings of the American International Group, the insurance giant it bailed out in 2008 — and at a profit.",
+      "lead_paragraph": "9:01 p.m. | Updated ",
+      "publication_date": "2012-12-10T22:09:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/12/10/u-s-to-sell-last-holdings-of-a-i-g-common-stock/",
+      "byline": "By Michael J. de la Merced"
+    },
+    {
+      "headline": "Boom in Mongolia Deflates After Deal That Started It Is Threatened",
+      "snippet": "New regulations in Mongolia could stifle a deal to develop the Oyu Tolgoi mine, the world’s biggest new source of copper, and hurt the country’s broader economy.",
+      "abstract": "New regulations in Mongolia could stifle a deal to develop the Oyu Tolgoi mine, the world’s biggest new source of copper, and hurt the country’s broader economy.",
+      "lead_paragraph": "ULAN BATOR, Mongolia — The concept of a “blue sky country” has become almost a cliché in presentations about Mongolia, the world’s fastest-growing economy last year. The phrase, which evokes the Montana-like landscape of the steppe, paints a picture of sunny investment horizons in this frontier democracy rich in coal, copper and gold.",
+      "publication_date": "2012-12-10T23:10:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/12/10/boom-in-mongolia-deflates-after-deal-that-started-it-is-threatened-2/",
+      "byline": "By William MacNamara"
+    },
+    {
+      "headline": "New Problems With Boeing 787 Revive Concerns",
+      "snippet": "Two embarrassing snags last week revived concerns about the reliability of the Boeing 787, as officials sought to cast them as normal growing pains for an advanced aircraft.",
+      "abstract": "Two embarrassing snags last week revived concerns about the reliability of the Boeing 787, as officials sought to cast them as normal growing pains for an advanced aircraft.",
+      "lead_paragraph": "After years of delays in producing its much-anticipated 787 aircraft, Boeing seemed in recent months to be turning a corner, streamlining production and increasing the pace of deliveries.",
+      "publication_date": "2012-12-11T01:32:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/12/11/business/boeing-787-plane-works-to-overcome-snags.html",
+      "byline": "By Christopher Drew and Jad Mouawad"
+    },
+    {
+      "headline": "Morsi’s Opponents Describe Abuse by President’s Allies",
+      "snippet": "Revelations that Islamist supporters of Mohamed Morsi detained dozens of his political opponents last week threaten to undermine the Egyptian president’s credibility.",
+      "abstract": "Revelations that Islamist supporters of Mohamed Morsi detained dozens of his political opponents last week threaten to undermine the Egyptian president’s credibility.",
+      "lead_paragraph": "CAIRO — Islamist supporters of President Mohamed Morsi captured, detained and beat dozens of his political opponents last week, holding them for hours with their hands bound on the pavement outside the presidential palace while pressuring them to confess that they had accepted money to use violence in protests against him.",
+      "publication_date": "2012-12-11T02:21:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/12/11/world/middleeast/allies-of-egypts-morsi-beat-protesters-outside-palace.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "Pentagon Says Afghan Forces Still Need Assistance",
+      "snippet": "Just one of 23 Afghan brigades is able to operate on its own without air or other military support from the United States or NATO, a report found.",
+      "abstract": "Just one of 23 Afghan brigades is able to operate on its own without air or other military support from the United States or NATO, a report found.",
+      "lead_paragraph": "WASHINGTON — As President Obama considers how quickly to withdraw the remaining 68,000 American troops in Afghanistan and turn over the war to Afghan security forces, a bleak new Pentagon report has found that only one of the Afghan National Army’s 23 brigades is able to operate independently without air or other military support from the United States and NATO partners. ",
+      "publication_date": "2012-12-11T03:01:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/12/11/world/asia/afghan-army-weak-as-transition-nears-pentagon-says.html",
+      "byline": "By Elisabeth Bumiller"
+    },
+    {
+      "headline": "Limits on Unions Pass in Michigan, Once a Mainstay",
+      "snippet": "Sweeping legislation signed by Gov. Rick Snyder on Tuesday will vastly reduce the power of organized labor in a state that was a symbol of union clout for decades.",
+      "abstract": "Sweeping legislation signed by Gov. Rick Snyder on Tuesday will vastly reduce the power of organized labor in a state that was a symbol of union clout for decades.",
+      "lead_paragraph": "LANSING, Mich. — With Democrats and labor leaders vowing retribution at the ballot box and beyond, the Republican-dominated Michigan Legislature on Tuesday approved sweeping, statewide changes to the way unions will be financed, substantially reducing their power in a state that has long been a symbol of union might and an incubator for the American labor movement.",
+      "publication_date": "2012-12-11T14:34:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/12/12/us/protesters-rally-over-michigan-union-limits-plan.html",
+      "byline": "By Monica Davey"
+    }
+  ]
+}

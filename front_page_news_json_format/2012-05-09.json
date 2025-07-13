@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2012-05-09",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Lugar Loses Primary Challenge in Indiana",
+      "snippet": "Richard G. Lugar, one of the Senate’s longest-serving members, lost a hard-fought Republican primary to Richard E. Mourdock, the Indiana state treasurer.",
+      "abstract": "Richard G. Lugar, one of the Senate’s longest-serving members, lost a hard-fought Republican primary to Richard E. Mourdock, the Indiana state treasurer.",
+      "lead_paragraph": "INDIANAPOLIS — Richard G. Lugar, one of the Senate’s longest-serving members, a collegial moderate who personified a gentler political era, was turned out of office on Tuesday, ending a career that had spanned the terms of half a dozen presidents.",
+      "publication_date": "2012-05-08T17:50:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/09/us/politics/lugar-loses-primary-challenge-in-indiana.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "Few Options if Europe Turns Away From Austerity",
+      "snippet": "As voters call for fewer government cutbacks and more spending, investors are asking: How will it be paid for?",
+      "abstract": "As voters call for fewer government cutbacks and more spending, investors are asking: How will it be paid for?",
+      "lead_paragraph": "As voters across Europe call for fewer government cutbacks and more spending on public programs, investors are asking a simple question: How would it be paid for?",
+      "publication_date": "2012-05-08T19:18:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/09/business/global/if-europe-turns-away-from-austerity-who-will-foot-the-bill.html",
+      "byline": "By Nathaniel Popper and Jack Ewing"
+    },
+    {
+      "headline": "Double Agent Disrupted Bombing Plot, U.S. Says",
+      "snippet": "Officials said the would-be attacker dispatched by the Yemen branch of Al Qaeda to blow up an airplane was actually a Saudi agent who infiltrated the group.",
+      "abstract": "Officials said the would-be attacker dispatched by the Yemen branch of Al Qaeda to blow up an airplane was actually a Saudi agent who infiltrated the group.",
+      "lead_paragraph": "WASHINGTON — The suicide bomber dispatched by the Yemen branch of Al Qaeda last month to blow up a United States-bound airliner was actually an intelligence agent for Saudi Arabia who infiltrated the terrorist group and volunteered for the mission, American and foreign officials said Tuesday. ",
+      "publication_date": "2012-05-08T22:13:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/09/world/middleeast/suicide-mission-volunteer-was-double-agent-officials-say.html",
+      "byline": "By Scott Shane and Eric Schmitt"
+    },
+    {
+      "headline": "Keeping the Internet Neutral",
+      "snippet": "To reach the multitude of online services competing for your attention, you must first get through a bottleneck that is not competitive at all: high-speed broadband access.",
+      "abstract": "To reach the multitude of online services competing for your attention, you must first get through a bottleneck that is not competitive at all: high-speed broadband access.",
+      "lead_paragraph": "Imagine a network of private highways that reserved a special lane for Fords to zip through, unencumbered by all the other brands of cars trundling along the clogged, shared lanes. Think of the prices Ford could charge. Think of what would happen to innovation when building the best car mattered less than cutting a deal with the highway’s owners.",
+      "publication_date": "2012-05-09T00:43:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/05/09/business/economy/net-neutrality-and-economic-equality-are-intertwined.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Gay on TV: It’s All in the Family",
+      "snippet": "The outrage is gone. Today, it’s rare to hear a complaint about shows like “Modern Family” or the drama “Smash,” which has five gay characters.",
+      "abstract": "The outrage is gone. Today, it’s rare to hear a complaint about shows like “Modern Family” or the drama “Smash,” which has five gay characters.",
+      "lead_paragraph": "On “Glee” this spring, a transgender character named Unique is competing in a sing-off. On “Grey’s Anatomy,” Arizona and Callie are adjusting to married life, having been pronounced “wife and wife” last year.",
+      "publication_date": "2012-05-09T01:48:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/09/business/media/gay-on-tv-its-all-in-the-family.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "Behind Twists of Diplomacy in the Case of a Chinese Dissident",
+      "snippet": "Days of drama preceded the agreement between the United States and China in the case of Chen Guangcheng, but the negotiations ultimately reflected a maturing relationship, officials said.",
+      "abstract": "Days of drama preceded the agreement between the United States and China in the case of Chen Guangcheng, but the negotiations ultimately reflected a maturing relationship, officials said.",
+      "lead_paragraph": "WASHINGTON — Over two days of meetings with China’s leaders in Beijing last week, Secretary of State Hillary Rodham Clinton had not uttered a word about Chen Guangcheng as her aides arranged to transfer the blind Chinese dissident from the United States Embassy to a hospital, only to have the plan unexpectedly blow up. Then, last Friday, she finally broached the subject with China’s senior foreign policy official, Dai Bingguo.",
+      "publication_date": "2012-05-09T06:30:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/05/09/world/asia/behind-twists-of-diplomacy-in-case-of-chen-guangcheng.html",
+      "byline": "By Steven Lee Myers and Mark Landler"
+    }
+  ]
+}

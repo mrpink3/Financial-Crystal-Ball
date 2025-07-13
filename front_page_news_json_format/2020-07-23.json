@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2020-07-23",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "U.S. Hospitalizations for the Coronavirus Near April Peak",
+      "snippet": "The rising hospitalizations reflect the scale of serious illnesses: Nearly as many people are in hospitals now as there were when New York was at its worst.",
+      "abstract": "The rising hospitalizations reflect the scale of serious illnesses: Nearly as many people are in hospitals now as there were when New York was at its worst.",
+      "lead_paragraph": "They are hooked up to ventilators, relying on the machines to breathe. They are taking experimental drugs that doctors hope will ease their agony. They are isolated from their families, fighting to recover on their own.",
+      "publication_date": "2020-07-22T23:27:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/22/us/coronavirus-hospitalizations-near-peak.html",
+      "byline": "By Nicholas Bogel-Burroughs and Sarah Mervosh"
+    },
+    {
+      "headline": "Republicans, Deeply Divided on Virus Aid, Near Agreement on an Opening Offer",
+      "snippet": "Republicans said they had reached an agreement in principle on their opening bid for coronavirus relief, but they remain divided. They have yet to even begin negotiating with Democrats.",
+      "abstract": "Republicans said they had reached an agreement in principle on their opening bid for coronavirus relief, but they remain divided. They have yet to even begin negotiating with Democrats.",
+      "lead_paragraph": "WASHINGTON — Conservatives are apoplectic about its $1 trillion cost. Embattled mainstream Republicans are desperate to act quickly and aggressively to show voters they are doing something about the pandemic and resulting recession. And President Trump keeps insisting on proposals, like a costly payroll tax cut, that will do nothing to help tens of millions of jobless Americans and that even members of his own party do not support.",
+      "publication_date": "2020-07-23T00:15:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/22/us/politics/coronavirus-stimulus.html",
+      "byline": "By Emily Cochrane, Nicholas Fandos and Jim Tankersley"
+    },
+    {
+      "headline": "Landlords Jump the Gun as Eviction Moratorium Wanes",
+      "snippet": "The CARES Act temporarily protects millions of renters from being kicked out of their homes for nonpayment. Filings aren’t supposed to resume until after Friday.",
+      "abstract": "The CARES Act temporarily protects millions of renters from being kicked out of their homes for nonpayment. Filings aren’t supposed to resume until after Friday.",
+      "lead_paragraph": "The four-month pause that has protected millions of Americans from eviction cases is set to expire at the end of this week. But that hasn’t stopped landlords across the country from trying to get a head start forcing renters out.",
+      "publication_date": "2020-07-23T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/23/business/evictions-moratorium-cares-act.html",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "In Picking Up Work Here and There, Many Miss Out on Unemployment Check",
+      "snippet": "For millions of people, making a living is a cobbled-together proposition. That leaves a hole in the safety net when things turn bad.",
+      "abstract": "For millions of people, making a living is a cobbled-together proposition. That leaves a hole in the safety net when things turn bad.",
+      "lead_paragraph": "Annie Frodeman often worked 40 hours a week or more — full time by most lights. She just worked them at two jobs.",
+      "publication_date": "2020-07-23T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/23/business/economy/unemployment-gig-workers-coronavirus.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-07-28",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Soft Landing Optimism Is Everywhere. That’s Happened Before.",
+      "snippet": "People are often sure that the economy is going to settle down gently right before it plunges into recession, a reason for caution and humility.",
+      "abstract": "People are often sure that the economy is going to settle down gently right before it plunges into recession, a reason for caution and humility.",
+      "lead_paragraph": "In late 1989, an economic commentary newsletter from the Federal Reserve Bank of Cleveland asked the question that was on everyone’s mind after a series of Federal Reserve rate increases: “How Soft a Landing?” Analysts were pretty sure growth was going to cool gently and without a painful downturn — the question was how gently.",
+      "publication_date": "2023-07-27T17:07:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/27/business/economy/fed-economy-soft-landing.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Justice Dept. Opens Civil Rights Investigation of Memphis Police",
+      "snippet": "The department will examine allegations of pervasive problems with excessive force and unlawful stops of Black residents that were amplified by the fatal beating of Tyre Nichols.",
+      "abstract": "The department will examine allegations of pervasive problems with excessive force and unlawful stops of Black residents that were amplified by the fatal beating of Tyre Nichols.",
+      "lead_paragraph": "The Justice Department said on Thursday that it had begun a sweeping civil rights investigation into policing in Memphis, digging into allegations of pervasive problems with excessive force and unlawful stops of Black residents that were amplified by the fatal beating of Tyre Nichols in January.",
+      "publication_date": "2023-07-27T17:18:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/27/us/memphis-police-civil-rights-investigation.html",
+      "byline": "By Rick Rojas"
+    },
+    {
+      "headline": "Facebook’s Algorithm Is ‘Influential’ but Doesn’t Necessarily Change Beliefs, Researchers Say",
+      "snippet": "In four new studies, researchers found complicated results from experiments on Facebook’s and Instagram’s algorithms, suggesting there was no silver bullet to fixing the platforms.",
+      "abstract": "In four new studies, researchers found complicated results from experiments on Facebook’s and Instagram’s algorithms, suggesting there was no silver bullet to fixing the platforms.",
+      "lead_paragraph": "The algorithms powering Facebook and Instagram, which drive what billions of people see on the social networks, have been in the cross hairs of lawmakers, activists and regulators for years. Many have called for the algorithms to be abolished to stem the spread of viral misinformation and to prevent the inflammation of political divisions.",
+      "publication_date": "2023-07-27T18:00:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/27/technology/facebook-instagram-algorithms.html",
+      "byline": "By Mike Isaac and Sheera Frenkel"
+    },
+    {
+      "headline": "Trump Faces Major New Charges in Documents Case",
+      "snippet": "The office of the special counsel accused the former president of seeking to delete security camera footage at Mar-a-Lago. The manager of the property, Carlos De Oliveira, was also named as a new defendant.",
+      "abstract": "The office of the special counsel accused the former president of seeking to delete security camera footage at Mar-a-Lago. The manager of the property, Carlos De Oliveira, was also named as a new defendant.",
+      "lead_paragraph": "Federal prosecutors on Thursday added major accusations to an indictment charging former President Donald J. Trump with mishandling classified documents after he left office, presenting evidence that he told the property manager of Mar-a-Lago, his private club and residence in Florida, that he wanted security camera footage there to be deleted.",
+      "publication_date": "2023-07-27T22:20:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/27/us/politics/trump-documents-carlos-de-oliveira-charged.html",
+      "byline": "By Alan Feuer, Maggie Haberman and Glenn Thrush"
+    },
+    {
+      "headline": "Wall St. Pessimists Are Getting Used to Being Wrong",
+      "snippet": "The S&P 500 is up more than 19 percent this year, but some still warn that the future may not be as rosy as that implies.",
+      "abstract": "The S&P 500 is up more than 19 percent this year, but some still warn that the future may not be as rosy as that implies.",
+      "lead_paragraph": "Beaten as they might be by the stock market’s rally, worriers on Wall Street still question how long it can last. Their numbers are shrinking, though.",
+      "publication_date": "2023-07-28T09:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/28/business/stock-market-bears.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "He Held Up a Bank to Get His Own Money",
+      "snippet": "Amid severe limits on withdrawals and a yearslong financial crisis, Lebanese depositors are resorting to force to demand their own money, earning the moniker “the world’s most honorable bank robbers.”",
+      "abstract": "Amid severe limits on withdrawals and a yearslong financial crisis, Lebanese depositors are resorting to force to demand their own money, earning the moniker “the world’s most honorable bank robbers.”",
+      "lead_paragraph": "By the time Walid al-Hajjar stormed his bank armed with a jug of gasoline, four lighters and a willingness to set himself on fire, his wife’s bone cancer was too far gone for him to save her.",
+      "publication_date": "2023-07-28T09:01:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/28/world/middleeast/lebanese-bank-depositors-robbery.html",
+      "byline": "By Raja Abdulrahim"
+    },
+    {
+      "headline": "Aided by A.I. Language Models, Google’s Robots Are Getting Smart",
+      "snippet": "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots.",
+      "abstract": "Our sneak peek into Google’s new robotics model, RT-2, which melds artificial intelligence technology with robots.",
+      "lead_paragraph": "A one-armed robot stood in front of a table. On the table sat three plastic figurines: a lion, a whale and a dinosaur.",
+      "publication_date": "2023-07-28T10:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Economic Data Bolster Soft Landing Hopes",
+      "snippet": "A key inflation gauge moderated and wage growth has cooled, even as consumers have continued to spend resiliently.",
+      "abstract": "A key inflation gauge moderated and wage growth has cooled, even as consumers have continued to spend resiliently.",
+      "lead_paragraph": "Falling inflation. Moderating wage growth. Resilient consumer spending.",
+      "publication_date": "2023-07-28T12:38:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/28/business/inflation-consumer-fed.html",
+      "byline": "By Ben Casselman and Jeanna Smialek"
+    }
+  ]
+}

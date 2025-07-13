@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2022-09-08",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Vice, Exploring a Sale, Weighs a Content Deal With a Saudi-Backed Firm",
+      "snippet": "The company is in talks to develop a content partnership with MBC, a Saudi Arabian media giant partly owned by the government.",
+      "abstract": "The company is in talks to develop a content partnership with MBC, a Saudi Arabian media giant partly owned by the government.",
+      "lead_paragraph": "After Saudis killed the journalist Jamal Khashoggi in 2018, Vice Media joined many other American companies in publicly distancing themselves from the Saudi Arabian government, whose agents carried out the killing.",
+      "publication_date": "2022-09-07T16:26:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/07/business/media/vice-saudi-arabia.html",
+      "byline": "By Benjamin Mullin, Lauren Hirsch and Ben Hubbard"
+    },
+    {
+      "headline": "Apple Extends Reach With $800 Watch, as New iPhone Inches Along",
+      "snippet": "The Apple Watch Ultra is aimed at endurance athletes, a market dominated by Garmin. Apple also introduced updated AirPods.",
+      "abstract": "The Apple Watch Ultra is aimed at endurance athletes, a market dominated by Garmin. Apple also introduced updated AirPods.",
+      "lead_paragraph": "Over the past decade, September has been the month when Apple revealed its latest iPhone. The company served up swaggering advances in technology, year after year, that propelled its business as Apple became the world’s most valuable company.",
+      "publication_date": "2022-09-07T17:44:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/07/technology/apple-new-iphone-watch.html",
+      "byline": "By Tripp Mickle and Brian X. Chen"
+    },
+    {
+      "headline": "Justice Dept. Faces Tough Calls in Weighing Response to Trump Ruling",
+      "snippet": "As the department decides whether to appeal the ruling on a special master, it is balancing a desire to speedily resolve the inquiry with the need to limit an expansive view of executive power.",
+      "abstract": "As the department decides whether to appeal the ruling on a special master, it is balancing a desire to speedily resolve the inquiry with the need to limit an expansive view of executive power.",
+      "lead_paragraph": "WASHINGTON — The Justice Department faces a complex and consequential decision this week: whether to appeal all, part or none of a court order requiring it to turn over to an independent arbiter materials seized last month from Donald J. Trump’s home in Florida.",
+      "publication_date": "2022-09-08T00:16:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/07/us/politics/garland-trump-special-master.html",
+      "byline": "By Glenn Thrush and Alan Feuer"
+    },
+    {
+      "headline": "Why a Narrow, Hard-Right G.O.P. House Majority Could Spell Chaos",
+      "snippet": "Kevin McCarthy, who would become speaker if Republicans retake the chamber, could face a series of headaches. But beyond him, the nation might struggle to avoid a damaging default on its debt.",
+      "abstract": "Kevin McCarthy, who would become speaker if Republicans retake the chamber, could face a series of headaches. But beyond him, the nation might struggle to avoid a damaging default on its debt.",
+      "lead_paragraph": "Josh Brecheen, an ardent Republican who is virtually assured of victory in November to represent an overwhelmingly red House seat in eastern Oklahoma, has a message that is geared as much toward G.O.P. leaders in Washington as it is toward his party’s voters: He’s not going to the Capitol to make friends.",
+      "publication_date": "2022-09-08T07:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/08/us/politics/republican-house-majority-midterms.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Shock Waves Hit the Global Economy, Posing Grave Risk to Europe",
+      "snippet": "The threat to Europe’s industrial might and living standards is particularly acute as policymakers race to decouple the continent from Russia’s power sources.",
+      "abstract": "The threat to Europe’s industrial might and living standards is particularly acute as policymakers race to decouple the continent from Russia’s power sources.",
+      "lead_paragraph": "Russia’s invasion of Ukraine and the continuing effects of the pandemic have hobbled countries around the globe, but the relentless series of crises has hit Europe the hardest, causing the steepest jump in energy prices, some of the highest inflation rates and the biggest risk of recession.",
+      "publication_date": "2022-09-08T08:31:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/08/business/economy/russia-ukraine-global-economy.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "The Days of Energy Deregulation Are Over in Europe",
+      "snippet": "As prices soar, Britain has joined other countries in tightening control of gas and electricity markets, reversing years of free-market policies.",
+      "abstract": "As prices soar, Britain has joined other countries in tightening control of gas and electricity markets, reversing years of free-market policies.",
+      "lead_paragraph": "After decades of promoting a free-market approach to the electricity and natural gas industries, European governments are taking back control of these vital functions. Record-high energy prices, partly the result of Russia’s throttling of gas supplies, are prompting lawmakers to discard economic orthodoxy and undo years of painstaking deregulation.",
+      "publication_date": "2022-09-08T08:58:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/08/business/energy-regulation-europe-britain.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "A Smartphone That Lasts a Decade? Yes, It’s Possible.",
+      "snippet": "A smartphone that is made for longevity can be a real thing. Too bad that’s not how most of them are designed.",
+      "abstract": "A smartphone that is made for longevity can be a real thing. Too bad that’s not how most of them are designed.",
+      "lead_paragraph": "What would a smartphone look like if it could last for 10 years?",
+      "publication_date": "2022-09-08T09:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/08/technology/personaltech/smartphone-lasts-decade.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Climate Change Could Worsen Supply Chain Turmoil",
+      "snippet": "A drought that has crippled economic activity in southwestern China hints at the kind of disruption that climate change could wreak on global supply chains.",
+      "abstract": "A drought that has crippled economic activity in southwestern China hints at the kind of disruption that climate change could wreak on global supply chains.",
+      "lead_paragraph": "Chinese factories were shuttered again in late August, a frequent occurrence in a country that has imposed intermittent lockdowns to fight the coronavirus. But this time, the culprit was not the pandemic. Instead, a record-setting drought crippled economic activity across southwestern China, freezing international supply chains for automobiles, electronics and other goods that have been routinely disrupted over the past three years.",
+      "publication_date": "2022-09-08T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html",
+      "byline": "By Ana Swanson and Keith Bradsher"
+    },
+    {
+      "headline": "When Teens Find Misinformation, These Teachers Are Ready",
+      "snippet": "Media literacy efforts are intensifying, targeting students as they approach voting age. But some educators struggle “to push through that apathy.”",
+      "abstract": "Media literacy efforts are intensifying, targeting students as they approach voting age. But some educators struggle “to push through that apathy.”",
+      "lead_paragraph": "Between lessons about the Revolutionary War and the functions of Congress, juniors in several history and U.S. government classes at Palmer High School in Colorado Springs are taught to defend themselves against disinformation.",
+      "publication_date": "2022-09-08T09:00:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/08/technology/misinformation-students-media-literacy.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "Twilight of Entrepreneurs in China as More Leave the Country",
+      "snippet": "Two of China’s best-known entrepreneurs, Pan Shiyi and Zhang Xin, stepped down from their top jobs at the real estate development company they built.",
+      "abstract": "Two of China’s best-known entrepreneurs, Pan Shiyi and Zhang Xin, stepped down from their top jobs at the real estate development company they built.",
+      "lead_paragraph": "BEIJING — Wealthy and powerful entrepreneurs in China were once idolized by the public, doted on by the government and courted by foreign investors. They helped build the Chinese economy into a powerhouse, and with it became the global face of Chinese business in a freer era, amassing billion-dollar fortunes, buying mansions overseas and holding court at elite international gatherings.",
+      "publication_date": "2022-09-08T09:18:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/08/business/soho-china-entrepreneurs.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "E.C.B. Raises Rates Aggressively to Tame Rising Prices",
+      "snippet": "The rise of three-quarters of a point matched the central bank’s largest-ever increase, with a “substantial slowdown” expected in the eurozone economy ahead of a winter energy crisis.",
+      "abstract": "The rise of three-quarters of a point matched the central bank’s largest-ever increase, with a “substantial slowdown” expected in the eurozone economy ahead of a winter energy crisis.",
+      "lead_paragraph": "The European Central Bank raised interest rates sharply on Thursday as policymakers battle to bring down record-high inflation driven by soaring energy prices, and warned of a significant economic slowdown ahead.",
+      "publication_date": "2022-09-08T10:01:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/08/business/ecb-interest-rates.html",
+      "byline": "By Eshe Nelson and Melissa Eddy"
+    },
+    {
+      "headline": "Trump’s Post-Election Fund-Raising Comes Under Scrutiny by Justice Dept.",
+      "snippet": "A federal grand jury has issued subpoenas seeking information about Save America PAC, which was formed as Donald J. Trump promoted baseless assertions about election fraud.",
+      "abstract": "A federal grand jury has issued subpoenas seeking information about Save America PAC, which was formed as Donald J. Trump promoted baseless assertions about election fraud.",
+      "lead_paragraph": "A federal grand jury in Washington is examining the formation of — and spending by — a fund-raising operation created by Donald J. Trump after his loss in the 2020 election as he was soliciting millions of dollars by baselessly asserting that the results had been marred by widespread voting fraud.",
+      "publication_date": "2022-09-08T15:33:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/08/us/politics/trump-save-america-pac-subpoenas.html",
+      "byline": "By Alan Feuer, Maggie Haberman, Adam Goldman and Kenneth P. Vogel"
+    }
+  ]
+}

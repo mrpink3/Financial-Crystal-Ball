@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-04-11",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "‘How Long Can We Last?’ Trump’s Tariffs Hit Home in the U.S.",
+      "snippet": "A Pennsylvania manufacturer that relies on Chinese steel pipe has few alternative sources — and now its Chinese rival may gain an advantage.",
+      "abstract": "A Pennsylvania manufacturer that relies on Chinese steel pipe has few alternative sources — and now its Chinese rival may gain an advantage.",
+      "lead_paragraph": "CP Industries just got an expensive lesson in the unintended consequences of protectionism.",
+      "publication_date": "2018-04-10T16:46:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/10/business/economy/tariffs-steel.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Farmers Hit the Road to Reach Shoppers Before Amazon Does",
+      "snippet": "A couple’s start-up takes online orders and delivers milk, eggs, meat and other products, including their own, across stretches of northeastern Pennsylvania. We rode along.",
+      "abstract": "A couple’s start-up takes online orders and delivers milk, eggs, meat and other products, including their own, across stretches of northeastern Pennsylvania. We rode along.",
+      "lead_paragraph": "EAST SMITHFIELD, Pa. — Huge retailers like Walmart, Amazon and Peapod are fighting for a piece of the online food delivery business.",
+      "publication_date": "2018-04-10T21:51:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/10/business/farmers-ecommerce-amazon.html",
+      "byline": "By Michael Corkery and George Etheredge"
+    },
+    {
+      "headline": "Trump Weighs More Robust Military Strike Against Syria",
+      "snippet": "The president is looking at options that would go beyond last year’s missile barrage, which did not curb Syria’s war effort in the long run.",
+      "abstract": "The president is looking at options that would go beyond last year’s missile barrage, which did not curb Syria’s war effort in the long run.",
+      "lead_paragraph": "WASHINGTON — President Trump and his advisers on Tuesday weighed a more robust retaliatory strike against Syria than last year’s missile attack, reasoning that only an escalation of force would look credible and possibly serve as a deterrent against further use of chemical weapons on Syrian civilians.",
+      "publication_date": "2018-04-11T00:08:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/10/us/politics/trump-military-strike-syria.html",
+      "byline": "By Peter Baker, Helene Cooper and Thomas Gibbons-Neff"
+    },
+    {
+      "headline": "Mark Zuckerberg Testifies on Facebook Before Skeptical Lawmakers",
+      "snippet": "The Facebook chief executive endured almost five hours of questioning from lawmakers who appeared uncomfortable with the technology company’s dominance.",
+      "abstract": "The Facebook chief executive endured almost five hours of questioning from lawmakers who appeared uncomfortable with the technology company’s dominance.",
+      "lead_paragraph": "WASHINGTON — Outside the Capitol Building on Tuesday sat dozens of cardboard cutouts depicting Mark Zuckerberg, the chief executive of Facebook, wearing a characteristic T-shirt emblazoned with the message “Fix Fakebook.”",
+      "publication_date": "2018-04-11T00:23:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/10/us/politics/zuckerberg-facebook-senate-hearing.html",
+      "byline": "By Kevin Roose and Cecilia Kang"
+    },
+    {
+      "headline": "Michael Cohen, ‘Ultimate Trump Loyalist,’ Now in the Sights of the F.B.I.",
+      "snippet": "A series of disclosures have revealed the unusual range of Michael D. Cohen’s portfolio, and a federal investigation poses a legal threat to him and possibly his client, the president.",
+      "abstract": "A series of disclosures have revealed the unusual range of Michael D. Cohen’s portfolio, and a federal investigation poses a legal threat to him and possibly his client, the president.",
+      "lead_paragraph": "During the presidential campaign, Michael D. Cohen got a Google alert for a breaking story: “Russian President Vladimir Putin Praises Donald Trump as ‘Talented’ and ‘Very Colorful.’”",
+      "publication_date": "2018-04-11T00:28:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/10/us/politics/michael-cohen-trump.html",
+      "byline": "By Mike McIntire, Jim Rutenberg and Maggie Haberman"
+    },
+    {
+      "headline": "What You Don’t Know About How Facebook Uses Your Data",
+      "snippet": "Facebook tracks even nonusers as they surf the web, and House members grilled Mark Zuckerberg, Facebook’s chief executive, about the practice during his second day of hearings.",
+      "abstract": "Facebook tracks even nonusers as they surf the web, and House members grilled Mark Zuckerberg, Facebook’s chief executive, about the practice during his second day of hearings.",
+      "lead_paragraph": "Mark Zuckerberg, Facebook’s chief executive, went to Capitol Hill this week to explain to members of Congress how the detailed personal information of up to 87 million Facebook users ended up in the hands of a voter-profiling company called Cambridge Analytica.",
+      "publication_date": "2018-04-11T09:03:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/11/technology/facebook-privacy-hearings.html",
+      "byline": "By Natasha Singer"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2016-09-21",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Elizabeth Warren Accuses Wells Fargo Chief of ‘Gutless Leadership’",
+      "snippet": "John Stumpf, the bank’s chief, endured the Senate Banking Committee’s bipartisan wrath over the creation of millions of bogus accounts.",
+      "abstract": "John Stumpf, the bank’s chief, endured the Senate Banking Committee’s bipartisan wrath over the creation of millions of bogus accounts.",
+      "lead_paragraph": "WASHINGTON — The more the chief executive of Wells Fargo tried to explain, the more skeptical the senators became.",
+      "publication_date": "2016-09-20T17:05:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/21/business/dealbook/wells-fargo-ceo-john-stumpf-senate-testimony.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "Immigration Reform: Disparate Ideas, Disparate Futures",
+      "snippet": "Donald Trump’s plan for a Mexican border wall could decrease the United States population — and its economic potential.",
+      "abstract": "Donald Trump’s plan for a Mexican border wall could decrease the United States population — and its economic potential.",
+      "lead_paragraph": "If Donald Trump were to win the presidency and carry out his strident promise to build an impregnable wall along the border with Mexico, both advocates and foes agree, it would turn the United States into a nation quite different from the one they live in.",
+      "publication_date": "2016-09-20T17:55:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/21/business/immigration-reform-disparate-ideas-disparate-futures.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "G.M. Job Shift From Mexico Tests a Trump Premise",
+      "snippet": "Far from a reversal of globalization, a General Motors deal bringing auto jobs back to Canada from Mexico underscores the primacy of markets.",
+      "abstract": "Far from a reversal of globalization, a General Motors deal bringing auto jobs back to Canada from Mexico underscores the primacy of markets.",
+      "lead_paragraph": "In the realm of international trade, it is a truism seemingly as consistent as gravity: Jobs and investment flow from north to south, while manufactured goods travel the other way around. Factories in the United States and Canada shutter as work shifts to Mexico and Central America, where human hands do it more cheaply.",
+      "publication_date": "2016-09-21T00:21:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/21/business/economy/gm-jobs-move-north-at-a-price.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "In Backing Autonomous Cars, U.S. Tells Automakers to Figure It Out",
+      "snippet": "Federal guidelines stress safety but give automakers, one of the country’s most regulated industries, plenty of room to innovate.",
+      "abstract": "Federal guidelines stress safety but give automakers, one of the country’s most regulated industries, plenty of room to innovate.",
+      "lead_paragraph": "The Obama administration’s approach to hands-free driving is remarkably hands-off.",
+      "publication_date": "2016-09-21T00:23:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/21/business/in-backing-autonomous-cars-us-tells-automakers-to-figure-it-out.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Bombing Case Points to Gaps in Trump’s and Clinton’s Antiterrorism Plans",
+      "snippet": "There is nothing in the two candidates’ plans that would have had much chance of stopping Ahmad Khan Rahami from planting bombs in New York and New Jersey.",
+      "abstract": "There is nothing in the two candidates’ plans that would have had much chance of stopping Ahmad Khan Rahami from planting bombs in New York and New Jersey.",
+      "lead_paragraph": "WASHINGTON — There is nothing in Donald J. Trump’s or Hillary Clinton’s antiterrorism plans that would have had much chance of stopping the bombings in New York and New Jersey that Ahmad Khan Rahami is accused of carrying out.",
+      "publication_date": "2016-09-21T01:11:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/21/us/politics/bombing-case-points-to-gaps-in-donald-trumps-and-hillary-clintons-antiterrorism-plans.html",
+      "byline": "By David E. Sanger and Eric Schmitt"
+    },
+    {
+      "headline": "Donald Trump Jr.’s Skittles Tweet Fits a Pattern",
+      "snippet": "When Mr. Trump, a close adviser to his father, likened Syrian refugees to deadly Skittles, it was not the first time he had been accused of poor taste.",
+      "abstract": "When Mr. Trump, a close adviser to his father, likened Syrian refugees to deadly Skittles, it was not the first time he had been accused of poor taste.",
+      "lead_paragraph": "Donald Trump Jr. — a close political adviser to his father, Donald J. Trump, the Republican nominee for president — posted on Twitter on Monday night an image of a white bowl full of rainbow-colored Skittles. The image came with this text: “If I had a bowl of skittles and I told you just three would kill you. Would you take a handful? That’s our Syrian refugee problem.”",
+      "publication_date": "2016-09-21T02:25:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/21/us/politics/donald-trump-jr-skittles.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Obama Administration Considers Arming Syrian Kurds Against ISIS",
+      "snippet": "The major policy shift could speed up the offensive against the Islamic State but also sharply escalate tensions between Turkey and the United States.",
+      "abstract": "The major policy shift could speed up the offensive against the Islamic State but also sharply escalate tensions between Turkey and the United States.",
+      "lead_paragraph": "WASHINGTON — The Obama administration is weighing a military plan to directly arm Syrian Kurdish fighters combating the Islamic State, a major policy shift that could speed up the offensive against the terrorist group but also sharply escalate tensions between Turkey and the United States.",
+      "publication_date": "2016-09-21T09:00:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/22/world/middleeast/obama-syria-kurds-isis-turkey-military-commandos.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "For the Debaters: What Shall We Do About the Tech Careening Our Way?",
+      "snippet": "Autonomous vehicles are symbolic of numerous technology advances, each requiring a close look at benefits and risks, and leadership to navigate them.",
+      "abstract": "Autonomous vehicles are symbolic of numerous technology advances, each requiring a close look at benefits and risks, and leadership to navigate them.",
+      "lead_paragraph": "Here’s a question I’m hoping comes up at Monday’s presidential debate: Secretary Clinton and Mr. Trump, what would you do about self-driving trucks?",
+      "publication_date": "2016-09-21T09:38:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/22/technology/for-the-debaters-what-shall-we-do-about-the-tech-careening-our-way.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Who Hates Free Trade Treaties? Surprisingly, Not Voters",
+      "snippet": "Support for trade agreements in general, and the pending Pacific pact in particular, stands in notable contrast to the toxicity of trade this election season.",
+      "abstract": "Support for trade agreements in general, and the pending Pacific pact in particular, stands in notable contrast to the toxicity of trade this election season.",
+      "lead_paragraph": "WASHINGTON — Few issues in this campaign cycle seem as toxic as trade: Both major-party presidential candidates oppose President Obama’s 12-nation Trans-Pacific Partnership, and congressional leaders, having refused all year to vote on the trade accord until after the election, say they will not do so even then — potentially killing the largest regional trade pact in history.",
+      "publication_date": "2016-09-21T09:39:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/22/us/politics/who-hates-trade-treaties-surprisingly-not-voters.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Hillary Clinton Outlines Vision of More Job Opportunities for People With Disabilities",
+      "snippet": "In Florida, Mrs. Clinton called for a more “inclusive economy” for a group of Americans who are too often “overlooked and undervalued.”",
+      "abstract": "In Florida, Mrs. Clinton called for a more “inclusive economy” for a group of Americans who are too often “overlooked and undervalued.”",
+      "lead_paragraph": "ORLANDO, Fla. — Of all the attacks that Hillary Clinton and her fellow Democrats have tried against Donald J. Trump since he captured the Republican presidential nomination, one has stood out for its emotional force and persuasive power: No one, it seems, can abide Mr. Trump’s mockery last year of a reporter’s physical disability.",
+      "publication_date": "2016-09-21T10:00:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/22/us/politics/hillary-clinton-speech.html",
+      "byline": "By Matt Flegenheimer and Amy Chozick"
+    },
+    {
+      "headline": "Donald Trump Embraces Wider Use of Stop-and-Frisk by Police",
+      "snippet": "Mr. Trump’s endorsement of the aggressive crime-fighting tactic, whose legality has been challenged, collides with his recent courtship of African-American voters.",
+      "abstract": "Mr. Trump’s endorsement of the aggressive crime-fighting tactic, whose legality has been challenged, collides with his recent courtship of African-American voters.",
+      "lead_paragraph": "Donald J. Trump on Wednesday called for the broad use of the contentious stop-and-frisk policing strategy in America’s cities, embracing an aggressive tactic whose legality has been challenged and whose enforcement has been abandoned in New York.",
+      "publication_date": "2016-09-21T15:15:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/22/us/politics/donald-trump-don-king-black-voters.html",
+      "byline": "By Michael Barbaro, Maggie Haberman and Yamiche Alcindor"
+    },
+    {
+      "headline": "Man Is Shot in Charlotte as Unrest Stretches to Second Night",
+      "snippet": "Violence broke out in a “civilian on civilian” confrontation during protests in the city’s Uptown district over the death of Keith Scott.",
+      "abstract": "Violence broke out in a “civilian on civilian” confrontation during protests in the city’s Uptown district over the death of Keith Scott.",
+      "lead_paragraph": "CHARLOTTE, N.C. — A second night of protests set off by the police killing of a black man spiraled into chaos and violence after nightfall here Wednesday when a demonstration was interrupted by gunfire that gravely wounded a man in the crowd. Law enforcement authorities fired tear gas in a desperate bid to restore order.",
+      "publication_date": "2016-09-21T15:19:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/22/us/keith-scott-charlotte-police-shooting.html",
+      "byline": "By Richard Fausset and Alan Blinder"
+    },
+    {
+      "headline": "Leon Cooperman, a Billionaire Charged With Insider Trading, Prepares to Fight",
+      "snippet": "The Securities and Exchange Commission said Mr. Cooperman used inside information to buy Atlas Pipeline Partners stock before an asset sale.",
+      "abstract": "The Securities and Exchange Commission said Mr. Cooperman used inside information to buy Atlas Pipeline Partners stock before an asset sale.",
+      "lead_paragraph": "Leon G. Cooperman, one of the early titans of the hedge fund industry, is gearing up for the biggest fight of his career: preserving his Wall Street legacy as regulators accuse him and his multibillion-dollar firm of insider trading.",
+      "publication_date": "2016-09-21T15:20:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/22/business/dealbook/leon-cooperman-insider-trading.html",
+      "byline": "By Alexandra Stevenson and Matthew Goldstein"
+    }
+  ]
+}

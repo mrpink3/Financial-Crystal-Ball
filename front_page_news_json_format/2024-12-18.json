@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2024-12-18",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Tech Makes an Economic Case for Skilled Immigrants. Will Trump Bite?",
+      "snippet": "Silicon Valley hopes that tech giants like Elon Musk could help to push the incoming Trump administration toward offering more visas to highly skilled foreign workers.",
+      "abstract": "Silicon Valley hopes that tech giants like Elon Musk could help to push the incoming Trump administration toward offering more visas to highly skilled foreign workers.",
+      "lead_paragraph": "Aaron Levie, the chief executive of the cloud software company Box, said he was more hopeful than he had been at any point in the past 15 years that America could soon accept more highly educated immigrants — the sort of skilled foreigners he hires as software engineers.",
+      "publication_date": "2024-12-17T16:15:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/17/business/economy/trump-tech-h1b-visa.html",
+      "byline": "By Lydia DePillis and Jeanna Smialek"
+    },
+    {
+      "headline": "How OpenAI Hopes to Sever Its Nonprofit Roots",
+      "snippet": "As the maker of ChatGPT battles Google and Meta for A.I. supremacy, it’s also fighting to end control by a nonprofit board.",
+      "abstract": "As the maker of ChatGPT battles Google and Meta for A.I. supremacy, it’s also fighting to end control by a nonprofit board.",
+      "lead_paragraph": "Last fall, the nonprofit that controls OpenAI tried to fire the company’s high-profile leader, Sam Altman. It failed.",
+      "publication_date": "2024-12-17T16:30:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/17/technology/openai-nonprofit-control.html",
+      "byline": "By David A. Fahrenthold, Cade Metz and Mike Isaac"
+    },
+    {
+      "headline": "Why Does OpenAI Need So Much Money?",
+      "snippet": "Building a chatbot like ChatGPT requires billions upon billions of dollars. That’s the driving force behind OpenAI’s plans to change how it’s managed.",
+      "abstract": "Building a chatbot like ChatGPT requires billions upon billions of dollars. That’s the driving force behind OpenAI’s plans to change how it’s managed.",
+      "lead_paragraph": "Early last year, OpenAI raised $10 billion. Just 18 months later, the company had burned through most of that money. So it raised $6.6 billion more and arranged to borrow an additional $4 billion.",
+      "publication_date": "2024-12-17T16:30:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/17/technology/openai-chatgpt-funding.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Jeff Bezos Prepares to Close the Gap in His Space Race With Elon Musk",
+      "snippet": "A new rocket from Mr. Bezos’ company Blue Origin and a satellite system from Amazon could heat up competition with SpaceX, owned by Mr. Musk.",
+      "abstract": "A new rocket from Mr. Bezos’ company Blue Origin and a satellite system from Amazon could heat up competition with SpaceX, owned by Mr. Musk.",
+      "lead_paragraph": "Elon Musk and Jeff Bezos have become the two wealthiest men in the world thanks to their breakthrough technology companies. But Mr. Musk, through SpaceX, has long held a big lead in the pursuit closest to their hearts: colonizing space.",
+      "publication_date": "2024-12-17T16:40:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/17/technology/jeff-bezos-blue-origin-elon-musk.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "Elon Musk and SpaceX Face Federal Reviews After Violations of Security Reporting Rules",
+      "snippet": "Federal agencies have opened at least three reviews into whether the company and its leader complied with disclosure protocols intended to protect state secrets, people with knowledge of the matter said.",
+      "abstract": "Federal agencies have opened at least three reviews into whether the company and its leader complied with disclosure protocols intended to protect state secrets, people with knowledge of the matter said.",
+      "lead_paragraph": "Elon Musk and his rocket company, SpaceX, have repeatedly failed to comply with federal reporting protocols aimed at protecting state secrets, including by not providing some details of his meetings with foreign leaders, according to people with knowledge of the company and internal documents.",
+      "publication_date": "2024-12-17T18:14:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/17/technology/elon-musk-spacex-national-security-reporting.html",
+      "byline": "By Kirsten Grind, Eric Lipton and Sheera Frenkel"
+    },
+    {
+      "headline": "A Weary Biden Heads for the Exit",
+      "snippet": "Still stinging from the election, President Biden is pushing for his final priorities but has largely absented himself from the national conversation about Donald Trump after warning repeatedly that he was a threat to American democracy.",
+      "abstract": "Still stinging from the election, President Biden is pushing for his final priorities but has largely absented himself from the national conversation about Donald Trump after warning repeatedly that he was a threat to American democracy.",
+      "lead_paragraph": "It was a long day in Angola. President Biden had already visited a port facility bracketed with cranes and toured a factory filled with conveyor belts. So by the time he sat down at a large wooden circular table in a warm, stuffy room with African leaders, he put his head in his hand and briefly closed his eyes as the speeches droned on.",
+      "publication_date": "2024-12-17T20:10:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/17/us/politics/biden-final-days-in-office.html",
+      "byline": "By Peter Baker and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "Honda and Nissan Are in Talks to Deepen Ties and Possibly Merge",
+      "snippet": "The merger talks between Japan’s second- and third-largest automakers highlight the intense upheaval within the world’s auto industry.",
+      "abstract": "The merger talks between Japan’s second- and third-largest automakers highlight the intense upheaval within the world’s auto industry.",
+      "lead_paragraph": "Honda Motor and Nissan Motor, Japan’s second- and third-largest automakers, are discussing ways to deepen their ties, including the possibility of a merger that could fundamentally restructure Japan’s car industry.",
+      "publication_date": "2024-12-18T00:14:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/17/business/honda-nissan-talks-merger.html",
+      "byline": "By River Akira Davis and Neal E. Boudette"
+    },
+    {
+      "headline": "A 7-Eleven Heir’s $50 Billion Fight to Keep the Company in the Family",
+      "snippet": "A battle for control of the chain shows how traditional business models embraced by family owners are clashing with a more shareholder-centric approach.",
+      "abstract": "A battle for control of the chain shows how traditional business models embraced by family owners are clashing with a more shareholder-centric approach.",
+      "lead_paragraph": "Junro Ito flew to California this year on a mission: The billionaire executive at Seven & i Holdings, the Japanese parent company of 7-Eleven, felt the company had lost its way. He wanted to revive the culture fostered by his father, the company’s founder.",
+      "publication_date": "2024-12-18T05:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/18/business/7-eleven-japan-corporate-culture.html",
+      "byline": "By River Akira Davis"
+    },
+    {
+      "headline": "The Once Booming Drug Town Going Bust Under Taliban Rule",
+      "snippet": "Funding its war against the United States, the Taliban reaped millions from boom towns trading opium, heroin and meth. Victorious, the group crushed the trade, leaving ghost towns in its wake.",
+      "abstract": "Funding its war against the United States, the Taliban reaped millions from boom towns trading opium, heroin and meth. Victorious, the group crushed the trade, leaving ghost towns in its wake.",
+      "lead_paragraph": "An oasis stretched far into the desert, a vast sea of emerald stalks and scarlet poppy flowers that grew to the horizon.",
+      "publication_date": "2024-12-18T10:00:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/12/18/world/asia/afghanistan-opium-heroin-taliban.html",
+      "byline": "By Azam Ahmed and Bryan Denton"
+    },
+    {
+      "headline": "These Voters Want to ‘Stop the Steal.’ Top Democrats Aren’t Interested.",
+      "snippet": "A movement by some Democratic voters to investigate the results of the 2024 presidential election mirrors a push by Republicans in 2020. But it’s struggling.",
+      "abstract": "A movement by some Democratic voters to investigate the results of the 2024 presidential election mirrors a push by Republicans in 2020. But it’s struggling.",
+      "lead_paragraph": "The 2024 presidential election has set off a new wave of election denialism online — only this time, it is coming from voters on the left.",
+      "publication_date": "2024-12-18T10:02:46+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/18/technology/democrats-election-denial-trump.html",
+      "byline": "By Stuart A. Thompson, Kaleigh Rogers and Steven Lee Myers"
+    },
+    {
+      "headline": "Inside Disney’s Decision to Settle a Trump Defamation Suit",
+      "snippet": "Talks started and finished on the same day, after Disney decided that fighting the lawsuit could potentially hurt the company and protections for the press.",
+      "abstract": "Talks started and finished on the same day, after Disney decided that fighting the lawsuit could potentially hurt the company and protections for the press.",
+      "lead_paragraph": "When Disney reached a settlement last week with President-elect Donald J. Trump in his defamation case against ABC News, it led to accusations that the company had caved to him. Media law experts predicted the move would embolden Mr. Trump to file other lawsuits that could test the limits of the First Amendment.",
+      "publication_date": "2024-12-18T10:04:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/18/business/media/disney-trump-abc-lawsuit.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "The Economy Is Finally Stable. Is That About to Change?",
+      "snippet": "President-elect Donald J. Trump’s proposals on tariffs, immigration, taxes and deregulation may have far-reaching and contradictory effects, adding uncertainty to forecasts.",
+      "abstract": "President-elect Donald J. Trump’s proposals on tariffs, immigration, taxes and deregulation may have far-reaching and contradictory effects, adding uncertainty to forecasts.",
+      "lead_paragraph": "After five years of uncertainty and turmoil, the U.S. economy is ending 2024 in arguably its most stable condition since the start of the coronavirus pandemic.",
+      "publication_date": "2024-12-18T10:04:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/18/business/economy/trump-us-economy.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Fed Cuts Rates, but Projects Fewer Reductions Next Year",
+      "snippet": "Federal Reserve officials projected just two rate cuts in 2025, and they made it clear that future reductions would hinge on inflation progress.",
+      "abstract": "Federal Reserve officials projected just two rate cuts in 2025, and they made it clear that future reductions would hinge on inflation progress.",
+      "lead_paragraph": "Federal Reserve officials made their third and final rate cut of 2024 at their meeting on Wednesday. They also forecast two fewer rate reductions in 2025 than they had previously expected, as inflation lingers and the economy holds up.",
+      "publication_date": "2024-12-18T10:05:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

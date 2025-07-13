@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2016-03-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Politicians Push Marriage, but That’s Not What Would Help Children",
+      "snippet": "Encouraging poor people to marry, long a part of government policy, might not help children in poverty as much as other measures.",
+      "abstract": "Encouraging poor people to marry, long a part of government policy, might not help children in poverty as much as other measures.",
+      "lead_paragraph": "Should the government push poor people to marry?",
+      "publication_date": "2016-03-22T19:23:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/23/business/for-the-sake-of-the-children-not-marriage-but-help.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Chip-Card Payment System Delays Frustrate Retailers",
+      "snippet": "Many complications were widely predicted, but a lag in certifying payment terminals has added an unexpected wrinkle — and lots of finger-pointing.",
+      "abstract": "Many complications were widely predicted, but a lag in certifying payment terminals has added an unexpected wrinkle — and lots of finger-pointing.",
+      "lead_paragraph": "Avi Kaner, a co-owner of the Morton Williams supermarket chain in New York, has spent about $700,000 to update the payment terminals at his stores.",
+      "publication_date": "2016-03-22T19:53:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/23/business/chip-card-payment-system-delays-frustrate-retailers.html",
+      "byline": "By Rachel Abrams"
+    },
+    {
+      "headline": "Puerto Rico Fights for Chapter 9 Bankruptcy in Supreme Court",
+      "snippet": "In court on Tuesday, Puerto Rico argued that its exclusion from Chapter 9 leaves the island with few options to alleviate its worsening finances.",
+      "abstract": "In court on Tuesday, Puerto Rico argued that its exclusion from Chapter 9 leaves the island with few options to alleviate its worsening finances.",
+      "lead_paragraph": "WASHINGTON — Debt-laden Puerto Rico went toe to toe with its creditors at the Supreme Court on Tuesday, arguing that it has been wrongly locked out of the bankruptcy courts, the only place it can reasonably expect to restructure its crushing debt.",
+      "publication_date": "2016-03-22T23:49:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/03/23/business/dealbook/puerto-rico-fights-for-chapter-9-bankruptcy-in-supreme-court.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I.",
+      "snippet": "Apple does not pay hackers to find and report bugs, which may explain why a third party has offered to help the government break into an iPhone.",
+      "abstract": "Apple does not pay hackers to find and report bugs, which may explain why a third party has offered to help the government break into an iPhone.",
+      "lead_paragraph": "SAN FRANCISCO — After a third party went to the F.B.I. with claims of being able to unlock an iPhone, many in the security industry said they were not surprised that the third party did not go to Apple.",
+      "publication_date": "2016-03-23T00:23:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/23/technology/apple-policy-on-bugs-may-explain-why-hackers-might-help-fbi.html",
+      "byline": "By Nicole Perlroth and Katie Benner"
+    },
+    {
+      "headline": "Presidential Candidates Walking a Tightrope Over the Fight on Terrorism",
+      "snippet": "In the current atmosphere, a strike like the one on Tuesday in Brussels rekindles every debate about whether the United States should use diplomacy, isolation or military might.",
+      "abstract": "In the current atmosphere, a strike like the one on Tuesday in Brussels rekindles every debate about whether the United States should use diplomacy, isolation or military might.",
+      "lead_paragraph": "WASHINGTON — Ten hours before terrorists struck Brussels, Donald J. Trump was on television describing his strategy for confronting the Islamic State: He would pound it with airstrikes, but any ground action must be taken by the United States’ partners in the region. He did not mention, if he knew, that this was a pretty close approximation of President Obama’s approach.",
+      "publication_date": "2016-03-23T01:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/23/us/politics/presidential-candidates-walking-a-tightrope-over-the-fight-on-terrorism.html",
+      "byline": "By David E. Sanger and Maggie Haberman"
+    },
+    {
+      "headline": "Brothers Among 3 Brussels Suicide Attackers; Another Assailant Is Sought",
+      "snippet": "Ibrahim el-Bakraoui attacked the airport and his brother Khalid attacked the subway, Belgian officials said, as an inquiry drew links to the 2015 Paris attacks.",
+      "abstract": "Ibrahim el-Bakraoui attacked the airport and his brother Khalid attacked the subway, Belgian officials said, as an inquiry drew links to the 2015 Paris attacks.",
+      "lead_paragraph": "BRUSSELS — The Brussels suicide bombers included two Belgium-born brothers with a violent criminal past and suspected links to plotters of the Islamic State’s Paris attacks last November, the authorities said on Wednesday, raising new alarms about Europe’s leaky defenses against a militant organization that has terrorized two European capitals with seeming impunity.",
+      "publication_date": "2016-03-23T07:33:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/24/world/europe/brussels-attack.html",
+      "byline": "By Alissa J. Rubin, Kimiko de Freytas-Tamura and Aurelien Breeden"
+    },
+    {
+      "headline": "The Uber Model, It Turns Out, Doesn’t Translate",
+      "snippet": "The ride-hailing service is a giant, but companies that aim to get stuff done on demand for customers, like food delivery, grocery shopping and parking, are faltering.",
+      "abstract": "The ride-hailing service is a giant, but companies that aim to get stuff done on demand for customers, like food delivery, grocery shopping and parking, are faltering.",
+      "lead_paragraph": "In San Francisco, as in most cities, parking is an expensive daily grind that saps the soul. So a year and a half ago, when I discovered the valet-parking app Luxe, the heavens parted, choirs began singing and double rainbows colored the sky. This, I was convinced, could be the next big thing.",
+      "publication_date": "2016-03-23T09:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/24/technology/the-uber-model-it-turns-out-doesnt-translate.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Cuba Says It Has Solved Racism. Obama Isn’t So Sure.",
+      "snippet": "In a speech in Havana, the president noted America’s and Cuba’s similar struggles with racism, spotlighting an issue the Cuban government says is settled.",
+      "abstract": "In a speech in Havana, the president noted America’s and Cuba’s similar struggles with racism, spotlighting an issue the Cuban government says is settled.",
+      "lead_paragraph": "HAVANA — President Obama spoke of his Kenyan heritage. He talked about how both the United States and Cuba were built on the backs of slaves from Africa. He mentioned that not very long ago, his parents’ marriage would have been illegal in America, and he urged Cubans to respect the power of protest to bring about equality.",
+      "publication_date": "2016-03-23T09:00:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/24/world/americas/obamaurges-raised-voices-incubas-husheddiscussions-ofrace.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "Flint Water Crisis Inquiry Finds State Ignored Warning Signs",
+      "snippet": "An independent task force charged with investigating the city’s tainted water also laid part of the blame on environmental racism.",
+      "abstract": "An independent task force charged with investigating the city’s tainted water also laid part of the blame on environmental racism.",
+      "lead_paragraph": "An independent panel has concluded that disregard for the concerns of poor and minority people contributed to the government’s slow response to complaints from residents of Flint, Mich., about the foul and discolored water that was making them sick, determining that the crisis “is a story of government failure, intransigence, unpreparedness, delay, inaction and environmental injustice.”",
+      "publication_date": "2016-03-23T15:15:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/03/24/us/flint-water-crisis.html",
+      "byline": "By Julie Bosman"
+    }
+  ]
+}

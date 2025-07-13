@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-02-20",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "F.C.C. Seeks a New Path on ‘Net Neutrality’ Rules",
+      "snippet": "After a court ruling last month, the chairman of the Federal Communications Commission will propose new rules to encourage equal access to the web.",
+      "abstract": "After a court ruling last month, the chairman of the Federal Communications Commission will propose new rules to encourage equal access to the web.",
+      "lead_paragraph": "WASHINGTON — Regulators are taking another crack at their effort to keep the web free and open, introducing new rules that would discourage Internet service providers from charging companies to stream their movies, music and other content through a faster express lane.",
+      "publication_date": "2014-02-19T16:33:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/20/business/fcc-to-propose-new-rules-on-open-internet.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Aides’ Emails Provide Detailed Look at Wisconsin’s Governor",
+      "snippet": "A release of 27,000 emails and hundreds of court documents portrays Gov. Scott Walker of Wisconsin as having presided over an office where aides concealed that they were mixing government and campaign business.",
+      "abstract": "A release of 27,000 emails and hundreds of court documents portrays Gov. Scott Walker of Wisconsin as having presided over an office where aides concealed that they were mixing government and campaign business.",
+      "lead_paragraph": "Even as Gov. Scott Walker of Wisconsin looks ahead to 2016 and a possible presidential bid, his political past as Milwaukee County executive has come back to haunt him.",
+      "publication_date": "2014-02-19T17:18:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/02/20/us/wisconin-political-investigation.html",
+      "byline": "By Monica Davey and Steven Yaccino"
+    },
+    {
+      "headline": "Undeterred, Fed on Track to Temper Its Stimulus",
+      "snippet": "Federal Reserve policy makers were surprised by the strength of the United States economy when they met in January, according to minutes of their meeting.",
+      "abstract": "Federal Reserve policy makers were surprised by the strength of the United States economy when they met in January, according to minutes of their meeting.",
+      "lead_paragraph": "WASHINGTON — When Federal Reserve officials last met at the end of January, they were surprised by the strength of the economy, cheered by the optimism of consumers and convinced they should continue to dismantle the Fed’s economic stimulus campaign, according to an account the Fed released Wednesday.",
+      "publication_date": "2014-02-19T19:01:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/20/business/fed-minutes-show-optimism-about-the-economy.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Facebook Enters $16 Billion Deal for WhatsApp",
+      "snippet": "Including an additional $3 billion in restricted stock units, the acquisition price for WhatsApp amounts to $345 million for every one of the company’s 55 employees.",
+      "abstract": "Including an additional $3 billion in restricted stock units, the acquisition price for WhatsApp amounts to $345 million for every one of the company’s 55 employees.",
+      "lead_paragraph": "The frenzy to acquire fast-growing technology start-ups reached new heights on Wednesday as Facebook announced its largest acquisition ever, saying it would pay at least $16 billion for WhatsApp, a text messaging application with 450 million users around the world who pay little or no money for it.",
+      "publication_date": "2014-02-19T22:18:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/02/19/facebook-to-buy-messaging-start-up/",
+      "byline": "By David Gelles and Vindu Goel"
+    },
+    {
+      "headline": "This Phone Is Great, Till It’s Time to Add Apps",
+      "snippet": "The new Nokia Icon, a Windows Phone, matches Android and iPhone in many critical areas except one: Its app store is seriously lacking.",
+      "abstract": "The new Nokia Icon, a Windows Phone, matches Android and iPhone in many critical areas except one: Its app store is seriously lacking.",
+      "lead_paragraph": "If the tech business were fair, you would be considering the Nokia Icon for your next smartphone.",
+      "publication_date": "2014-02-19T23:01:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/20/technology/personaltech/nokia-icon-is-hobbled-by-its-windows-phone-framework.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Global Bond Frenzy Raises Concerns",
+      "snippet": "As growth falters in several developing nations, regulators are worried about the consequences of the borrowing frenzy and the risks associated with the funds that have largely replaced commercial banks.",
+      "abstract": "As growth falters in several developing nations, regulators are worried about the consequences of the borrowing frenzy and the risks associated with the funds that have largely replaced commercial banks.",
+      "lead_paragraph": "Prospecting for oil in Brazil, manufacturing steel in Russia, erecting skyscrapers in China: Global bond investors have financed some of the grandest investment projects taken on by emerging economies in recent years.",
+      "publication_date": "2014-02-20T00:54:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/20/business/international/worries-build-over-private-sector-credit-in-emerging-nations.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Gap to Raise Minimum Hourly Pay",
+      "snippet": "Gap said the move would ultimately raise pay for 65,000 of its 90,000 American employees to $10 an hour by next year.",
+      "abstract": "Gap said the move would ultimately raise pay for 65,000 of its 90,000 American employees to $10 an hour by next year.",
+      "lead_paragraph": "In a surprising move, Gap Inc. informed its employees on Wednesday that it would set $9 as the minimum hourly rate for its United States work force this year and then establish a minimum of $10 next year.",
+      "publication_date": "2014-02-20T01:56:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/20/business/gap-to-raise-minimum-hourly-pay.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "Scrutiny in California for Software in Schools",
+      "snippet": "Proposed legislation would prohibit websites, online services and mobile apps for kindergartners through 12th graders from compiling, using or sharing the personal information of students.",
+      "abstract": "Proposed legislation would prohibit websites, online services and mobile apps for kindergartners through 12th graders from compiling, using or sharing the personal information of students.",
+      "lead_paragraph": "A leading California lawmaker plans to introduce state legislation on Thursday that would shore up privacy and security protections for the personal information of students in elementary through high school, a move that could alter business practices across the nearly $8 billion education technology software industry.",
+      "publication_date": "2014-02-20T05:02:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/20/technology/scrutiny-in-california-for-software-in-schools.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Ukraine’s Forces Escalate Attacks Against Protesters",
+      "snippet": "New violence in Kiev left the country reeling from the biggest one-day death toll since Ukrainian independence from the Soviet Union.",
+      "abstract": "New violence in Kiev left the country reeling from the biggest one-day death toll since Ukrainian independence from the Soviet Union.",
+      "lead_paragraph": "KIEV, Ukraine — Security forces fired on masses of antigovernment demonstrators in Kiev on Thursday in a drastic escalation of the three-month-old crisis that left dozens dead and Ukraine reeling from the most lethal day of violence since Soviet times.",
+      "publication_date": "2014-02-20T10:51:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/02/21/world/europe/ukraine.html",
+      "byline": "By Andrew E. Kramer and Andrew Higgins"
+    },
+    {
+      "headline": "Satya Nadella, Chief of Microsoft, on His New Role",
+      "snippet": "In his first interview since taking over as chief executive of Microsoft, Satya Nadella talks about leadership, the future and Bill Gates.",
+      "abstract": "In his first interview since taking over as chief executive of Microsoft, Satya Nadella talks about leadership, the future and Bill Gates.",
+      "lead_paragraph": "This interview with Satya Nadella, his first since taking over as chief executive of Microsoft, was conducted and condensed by Adam Bryant.",
+      "publication_date": "2014-02-20T15:49:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/02/21/business/satya-nadella-chief-of-microsoft-on-his-new-role.html",
+      "byline": "By Adam Bryant"
+    }
+  ]
+}

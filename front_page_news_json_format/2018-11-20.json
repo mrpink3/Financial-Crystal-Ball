@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2018-11-20",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Amazon, Apple and Facebook Once Led the Market. Now They Are Driving It Down.",
+      "snippet": "As concerns about growth and privacy issues took a toll, technology and banking stocks led a slide in Europe, and futures indicated that markets in the United States could follow.",
+      "abstract": "As concerns about growth and privacy issues took a toll, technology and banking stocks led a slide in Europe, and futures indicated that markets in the United States could follow.",
+      "lead_paragraph": "Apple was worth more than $1 trillion at the start of November. Now, it’s valued at $880 billion.",
+      "publication_date": "2018-11-19T18:51:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/19/business/tech-stocks-markets-slump.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Did a Tax Increase Tucked Into Trump’s Tax Cut Come Back to Bite Republicans?",
+      "snippet": "Republicans capped a popular deduction for state and local taxes to pay for the tax bill. That may have hurt some House Republicans in the midterms.",
+      "abstract": "Republicans capped a popular deduction for state and local taxes to pay for the tax bill. That may have hurt some House Republicans in the midterms.",
+      "lead_paragraph": "President Trump’s $1.5 trillion tax cut was supposed to be a big selling point for congressional Republicans in the midterm elections. Instead, it appears to have done more to hurt than help Republicans in high-tax districts across California, New Jersey, Virginia and other states.",
+      "publication_date": "2018-11-19T18:55:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/19/us/politics/trump-tax-cut-republican.html",
+      "byline": "By Jim Tankersley and Ben Casselman"
+    },
+    {
+      "headline": "In Bosnia, Entrenched Ethnic Divisions Are a Warning to the World",
+      "snippet": "Long after a vicious civil war, persistent ethnic and nationalist fissures are paralyzing the country. “We have moved backwards, not forward,” says a Muslim firefighter.",
+      "abstract": "Long after a vicious civil war, persistent ethnic and nationalist fissures are paralyzing the country. “We have moved backwards, not forward,” says a Muslim firefighter.",
+      "lead_paragraph": "MOSTAR, Bosnia and Herzegovina — When a fire breaks out in the Bosnian city of Mostar, Sabit Golos, a veteran firefighter, knows that he does not have to worry unless the flames take hold on the Muslim side of what, from 1992 until 1994, was the front line in a vicious ethnic conflict.",
+      "publication_date": "2018-11-19T20:54:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/19/world/europe/mostar-bosnia-ethnic-divisions-nationalism.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "In Mississippi, Issues of Race Complicate a Senate Election",
+      "snippet": "An election that seemed a sure win for the Republican Cindy Hyde-Smith has become competitive after she made widely criticized remarks referencing “a public hanging.”",
+      "abstract": "An election that seemed a sure win for the Republican Cindy Hyde-Smith has become competitive after she made widely criticized remarks referencing “a public hanging.”",
+      "lead_paragraph": "JACKSON, Miss. — A special election for the Senate in Mississippi has become a test of racial and partisan politics in the Deep South, as a Republican woman, Cindy Hyde-Smith, and an African-American Democrat, Mike Espy, compete for the last Senate seat still up for grabs in the 2018 midterm campaign.",
+      "publication_date": "2018-11-19T21:25:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/19/us/politics/mississippi-senate-election-cindy-hyde-smith-espy.html",
+      "byline": "By Astead W. Herndon and Alexander Burns"
+    },
+    {
+      "headline": "How Wildfires Are Making Some California Homes Uninsurable",
+      "snippet": "“We’re not in a crisis yet, but all of the trends are in a bad direction,” said the insurance commissioner for California, which had to prevent insurers from abruptly dropping fire victims.",
+      "abstract": "“We’re not in a crisis yet, but all of the trends are in a bad direction,” said the insurance commissioner for California, which had to prevent insurers from abruptly dropping fire victims.",
+      "lead_paragraph": "California’s wildfires keep growing bigger, more frequent and more destructive. Of the 20 worst wildfires in state history, four were just last year, giving rise to a record $12.6 billion of insurance claims.",
+      "publication_date": "2018-11-20T10:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/20/business/california-fires-insurance.html",
+      "byline": "By Mary Williams Walsh"
+    }
+  ]
+}

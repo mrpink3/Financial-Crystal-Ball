@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-03-06",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "‘It’s More Than I Imagined’: Boeing’s New C.E.O. Confronts Its Challenges",
+      "snippet": "In a candid interview, David Calhoun largely laid the blame for the company’s 737 Max crisis on his predecessor.",
+      "abstract": "In a candid interview, David Calhoun largely laid the blame for the company’s 737 Max crisis on his predecessor.",
+      "lead_paragraph": "FLORISSANT, Mo. — In his eight weeks on the job, Boeing’s chief executive, David L. Calhoun, has come to one overriding conclusion: Things inside the aerospace giant were even worse than he had thought.",
+      "publication_date": "2020-03-05T17:27:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/05/business/boeing-david-calhoun.html",
+      "byline": "By Natalie Kitroeff and David Gelles"
+    },
+    {
+      "headline": "‘Almost Without Precedent’: Airlines Hit Hard by Coronavirus",
+      "snippet": "The effects could wipe out up to $113 billion in worldwide revenues this year, a trade group said, a new blow to the industry.",
+      "abstract": "The effects could wipe out up to $113 billion in worldwide revenues this year, a trade group said, a new blow to the industry.",
+      "lead_paragraph": "Empty jumbo jets arriving at deserted airports. Masked passengers disinfecting their own seats. Stone-faced airline executives huddling with President Trump.",
+      "publication_date": "2020-03-05T18:15:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/05/business/coronavirus-airline-industry.html",
+      "byline": "By David Gelles and Niraj Chokshi"
+    },
+    {
+      "headline": "Judge Calls Barr’s Handling of Mueller Report ‘Distorted’ and ‘Misleading’",
+      "snippet": "The judge said the attorney general lacked credibility on the matter and said he would review the report to decide whether to make its redacted portions public.",
+      "abstract": "The judge said the attorney general lacked credibility on the matter and said he would review the report to decide whether to make its redacted portions public.",
+      "lead_paragraph": "WASHINGTON — A federal judge on Thursday sharply criticized Attorney General William P. Barr’s handling of the report by the special counsel, Robert S. Mueller III, saying that Mr. Barr put forward a “distorted” and “misleading” account of its findings and lacked credibility on the topic.",
+      "publication_date": "2020-03-05T23:04:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/05/us/politics/mueller-report-barr-judge-walton.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "‘It’s Pure Panic’: A Wrenching Wait at Nursing Home Where Coronavirus Took Hold",
+      "snippet": "Cut off from their relatives inside a virus-stricken nursing center, families are frantically searching for help and basic information.",
+      "abstract": "Cut off from their relatives inside a virus-stricken nursing center, families are frantically searching for help and basic information.",
+      "lead_paragraph": "KIRKLAND, Wash. — The hardest day of Debbie de los Angeles’s life had been the day she put her mother into a nursing home. That was before coronavirus.",
+      "publication_date": "2020-03-06T00:35:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/05/us/coronavirus-nursing-home-relatives.html",
+      "byline": "By Jack Healy, Karen Weise and Mike Baker"
+    },
+    {
+      "headline": "Was It Always Going to Be the Last Men Standing?",
+      "snippet": "For Elizabeth Warren, the historic number of women in the 2020 field and the Democrats who supported them, the question will linger.",
+      "abstract": "For Elizabeth Warren, the historic number of women in the 2020 field and the Democrats who supported them, the question will linger.",
+      "lead_paragraph": "WASHINGTON — In the end, the pink wave carried two white men ashore.",
+      "publication_date": "2020-03-06T01:09:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/05/us/politics/women-voters-democratic-candidates.html",
+      "byline": "By Lisa Lerer"
+    },
+    {
+      "headline": "As Bernie Sanders Pushed for Closer Ties, Soviet Union Spotted Opportunity",
+      "snippet": "Previously unseen documents from a Soviet archive show how hard Mr. Sanders worked to find a sister city in Russia when he was a mayor in the 1980s. Moscow saw a chance for propaganda.",
+      "abstract": "Previously unseen documents from a Soviet archive show how hard Mr. Sanders worked to find a sister city in Russia when he was a mayor in the 1980s. Moscow saw a chance for propaganda.",
+      "lead_paragraph": "YAROSLAVL, Russia — The mayor of Burlington, Vt., wrote to a Soviet counterpart in a provincial city that he wanted the United States and the Soviet Union to “live together as friends.”",
+      "publication_date": "2020-03-06T01:48:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/05/world/europe/bernie-sanders-soviet-russia.html",
+      "byline": "By Anton Troianovski"
+    }
+  ]
+}

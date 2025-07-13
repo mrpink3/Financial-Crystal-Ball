@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-03-23",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Powell and Yellen Suggest Need to Review Regulations After Bank Failures",
+      "snippet": "Proposals for more scrutiny of the financial sector are meeting resistance from industry and Congress.",
+      "abstract": "Proposals for more scrutiny of the financial sector are meeting resistance from industry and Congress.",
+      "lead_paragraph": "WASHINGTON — Two of the nation’s top economic policymakers on Wednesday said they were focused on determining how the failure of Silicon Valley Bank had happened and suggested changes to federal regulation and oversight might be needed to prevent future runs on American banks.",
+      "publication_date": "2023-03-22T22:56:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/22/us/politics/jerome-powell-janet-yellen-bank-regulations.html",
+      "byline": "By Alan Rappeport, Jim Tankersley and Lauren Hirsch"
+    },
+    {
+      "headline": "Centuries of Stargazing Leave Jesuit Names Written in the Heavens",
+      "snippet": "The latest list of approved labels for asteroids includes nods to three more scholars of the order, as well as a pope, challenging the idea that science and religion make awkward partners.",
+      "abstract": "The latest list of approved labels for asteroids includes nods to three more scholars of the order, as well as a pope, challenging the idea that science and religion make awkward partners.",
+      "lead_paragraph": "Centuries after the Holy See muzzled Roman Catholic stargazers for questioning the centrality of the Earth in the cosmos, Jesuit astronomers from the Vatican’s in-house observatory are increasingly writing their names in the heavens.",
+      "publication_date": "2023-03-22T23:00:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/22/world/europe/asteroid-names-jesuits.html",
+      "byline": "By Elisabetta Povoledo"
+    },
+    {
+      "headline": "TikTok Claims It’s Limiting Teen Screen Time. Teens Say It Isn’t.",
+      "snippet": "This month, the company announced a new 60-minute “daily screen time limit” for users under 18. But for most young users, staying on the app takes just a few taps.",
+      "abstract": "This month, the company announced a new 60-minute “daily screen time limit” for users under 18. But for most young users, staying on the app takes just a few taps.",
+      "lead_paragraph": "At the end of 2021, Ruby McMahon and some of her high school classmates decided to go “TikTok sober.” Ms. McMahon had gotten hooked on TikTok during the Covid-19 pandemic and regularly spent five hours a day on the app.",
+      "publication_date": "2023-03-23T07:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/23/business/tiktok-screen-time.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Attention, Travelers: Now Is the Best Time to Switch to eSIM",
+      "snippet": "The digital version of the SIM card, included on many newer phones, is set to become prevalent. It also offers affordable cellular data abroad.",
+      "abstract": "The digital version of the SIM card, included on many newer phones, is set to become prevalent. It also offers affordable cellular data abroad.",
+      "lead_paragraph": "As vacation season looms, now is as good a time as ever to bite the bullet and become familiar with a smartphone feature that many of us have ignored for years: the eSIM, the digital version of the SIM card that carries your phone number.",
+      "publication_date": "2023-03-23T09:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/23/technology/personaltech/esim-sim-cards-travel.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "China’s Rise Relied on Ties to the West, Which Xi Is Now Loosening",
+      "snippet": "The Chinese leader has edged ever closer to Russia, while distancing China from countries that have helped it develop over the past four decades.",
+      "abstract": "The Chinese leader has edged ever closer to Russia, while distancing China from countries that have helped it develop over the past four decades.",
+      "lead_paragraph": "In late 1978, China’s paramount leader, Deng Xiaoping, set in motion two major policy shifts that would change China and the world order in the decades to come. At a Communist Party meeting that December, the leadership declared that China would turn its focus from political struggle to economic development. Within days, China and the United States announced that they would establish diplomatic relations.",
+      "publication_date": "2023-03-23T09:14:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/23/business/china-xi-jinping-russia-putin.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Netanyahu Digs In on Court Overhaul, in the Face of Mass Protests",
+      "snippet": "Amid a national crisis over a planned judicial overhaul, Israel’s Parliament approved a bill making it much harder to remove a prime minister from office.",
+      "abstract": "Amid a national crisis over a planned judicial overhaul, Israel’s Parliament approved a bill making it much harder to remove a prime minister from office.",
+      "lead_paragraph": "Prime Minister Benjamin Netanyahu of Israel defiantly vowed on Thursday to proceed with a divisive judicial overhaul, in a move that came just hours after his coalition passed a law making it harder to remove him from office.",
+      "publication_date": "2023-03-23T15:10:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/23/world/middleeast/israel-netanyahu-protests.html",
+      "byline": "By Patrick Kingsley and Isabel Kershner"
+    }
+  ]
+}

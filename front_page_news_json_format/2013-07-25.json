@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2013-07-25",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "Leap Motion Controller, Great Hardware in Search of Great Software",
+      "snippet": "The controller promises to let you control your computer with hand motions, and the hardware does that, but its software is scattershot, inconsistent and frustrating.",
+      "abstract": "The controller promises to let you control your computer with hand motions, and the hardware does that, but its software is scattershot, inconsistent and frustrating.",
+      "lead_paragraph": "By now, we all know what the future will be like; movies and TV shows have described it in detail. We know about the flying cars (thank you, “Blade Runner”), holograms (thank you, “Star Trek”) and robot butlers (thank you, “Jetsons”).",
+      "publication_date": "2013-07-24T18:20:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/07/25/technology/personaltech/no-keyboard-and-now-no-touch-screen-either.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Facebook Is Erasing Doubts on Mobile",
+      "snippet": "Customers of the social networking giant continue to shift toward mobile phones and tablets to gain access to the site instead of a PC.",
+      "abstract": "Customers of the social networking giant continue to shift toward mobile phones and tablets to gain access to the site instead of a PC.",
+      "lead_paragraph": "If Facebook were a car, it just went from zero to 60 mph in six seconds.",
+      "publication_date": "2013-07-24T20:53:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/07/25/technology/facebook-beats-expectations-on-strong-mobile-growth.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "House Defeats Effort to Rein In N.S.A. Data Gathering",
+      "snippet": "The 217-205 vote was far closer than expected and displayed the shifting allegiances and fierce lobbying on both sides of the issue.",
+      "abstract": "The 217-205 vote was far closer than expected and displayed the shifting allegiances and fierce lobbying on both sides of the issue.",
+      "lead_paragraph": "WASHINGTON — A deeply divided House defeated legislation Wednesday that would have blocked the National Security Agency from collecting vast amounts of phone records, handing the Obama administration a hard-fought victory in the first Congressional showdown over the N.S.A.’s surveillance activities since Edward J. Snowden’s security breaches last month.",
+      "publication_date": "2013-07-24T23:38:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/07/25/us/politics/house-defeats-effort-to-rein-in-nsa-data-gathering.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Polar Thaw Opens Shortcut for Russian Natural Gas",
+      "snippet": "Less ice along the Northeast Passage means Russian energy companies have more places to drill and a clear shipping lane to reach customers in China.",
+      "abstract": "Less ice along the Northeast Passage means Russian energy companies have more places to drill and a clear shipping lane to reach customers in China.",
+      "lead_paragraph": "YURKHAROVSKOYE GAS FIELD, Russia — The polar ice cap is melting, and if executives at the Russian energy company Novatek feel guilty about profiting from that, they do not let it be known in public.",
+      "publication_date": "2013-07-25T00:08:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/07/25/business/energy-environment/polar-thaw-opens-shortcut-for-russian-natural-gas.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "For SAC, Indictment May Imperil Its Survival",
+      "snippet": "The extent to which an indictment or a conviction can be damaging depends on details of the nature of the business and of a company’s customers.",
+      "abstract": "The extent to which an indictment or a conviction can be damaging depends on details of the nature of the business and of a company’s customers.",
+      "lead_paragraph": "Is SAC Capital Advisors going to be the next Arthur Andersen, a company destroyed by an indictment?",
+      "publication_date": "2013-07-25T00:24:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/07/24/for-sac-indictment-may-imperil-its-survival/",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Trader and S.E.C. Lawyer Spar Over E-Mail",
+      "snippet": "Fabrice P. Tourre, a former Goldman Sachs trader, was questioned for about two hours on Wednesday by Matthew T. Martens, a government lawyer, over a trade arranged by ACA Management for the John A. Paulson hedge fund.",
+      "abstract": "Fabrice P. Tourre, a former Goldman Sachs trader, was questioned for about two hours on Wednesday by Matthew T. Martens, a government lawyer, over a trade arranged by ACA Management for the John A. Paulson hedge fund.",
+      "lead_paragraph": "The Securities and Exchange Commission waited more than three years to have a chance to shred the credibility of Fabrice P. Tourre, a former Goldman Sachs trader, in front of a jury. It finally got its chance on Wednesday.",
+      "publication_date": "2013-07-25T00:48:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/07/24/trader-and-s-e-c-lawyer-spar-over-e-mail/",
+      "byline": "By Susanne Craig"
+    },
+    {
+      "headline": "In Case Against SAC Capital, a Show of Force",
+      "snippet": "After years of trying to pin criminal charges on the billionaire Steven A. Cohen, the authorities came together on a more unusual plan: indict Mr. Cohen’s hedge fund itself.",
+      "abstract": "After years of trying to pin criminal charges on the billionaire Steven A. Cohen, the authorities came together on a more unusual plan: indict Mr. Cohen’s hedge fund itself.",
+      "lead_paragraph": "When Steven A. Cohen’s lawyers arrived for a meeting this spring at the United States attorney’s offices in Lower Manhattan, in a Brutalist-style building tucked behind a pair of courthouses, the conference room was so packed with federal investigators that one official had to venture down the hall for additional chairs. ",
+      "publication_date": "2013-07-25T01:22:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2013/07/24/indictment-of-fund-is-a-rare-and-bold-move/",
+      "byline": "By Ben Protess and Peter Lattman"
+    },
+    {
+      "headline": "Some Democrats Look to Push Party Away From Center",
+      "snippet": "Amid increasing cohesion on the cultural issues that once split Democrats, progressives are arguing that the party must push more aggressively to reduce income disparity.",
+      "abstract": "Amid increasing cohesion on the cultural issues that once split Democrats, progressives are arguing that the party must push more aggressively to reduce income disparity.",
+      "lead_paragraph": "WASHINGTON — As President Obama made the case on Wednesday about how the American economy was improving, he went off script to underscore how significant the challenges were that remained.",
+      "publication_date": "2013-07-25T01:28:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/07/25/us/politics/some-democrats-look-to-push-party-away-from-center.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Welcoming a Royal Baby While Trying Not to Steal the Spotlight",
+      "snippet": "Advertisers took to social media to send congratulatory messages to the royal family — examples of how brands are increasingly trying to become part of news-driven cultural moments.",
+      "abstract": "Advertisers took to social media to send congratulatory messages to the royal family — examples of how brands are increasingly trying to become part of news-driven cultural moments.",
+      "lead_paragraph": "When Prince William and his wife, the former Kate Middleton, left the hospital on Tuesday holding their son, Prince George Alexander Louis of Cambridge, they were greeted by a collective cooing not just from the media and the rest of the nonroyal populace, but from advertisers, too. ",
+      "publication_date": "2013-07-25T01:54:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/07/25/business/media/welcoming-a-royal-baby-while-trying-not-to-steal-the-spotlight.html",
+      "byline": "By Tanzina Vega"
+    },
+    {
+      "headline": "Paula Deen’s Cook Tells of Slights, Steeped in History",
+      "snippet": "Dora Charles, who lives in an aging trailer home on the outskirts of Savannah, said Paula Deen held out the promise that together, they might get rich one day.",
+      "abstract": "Dora Charles, who lives in an aging trailer home on the outskirts of Savannah, said Paula Deen held out the promise that together, they might get rich one day.",
+      "lead_paragraph": "SAVANNAH, Ga. — Dora Charles and Paula Deen were soul sisters. That’s what Ms. Deen called the black cook from the start, even before the books and the television shows and the millions of dollars.",
+      "publication_date": "2013-07-25T02:06:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/07/25/us/paula-deens-soul-sister-portrays-an-unequal-bond.html",
+      "byline": "By Kim Severson"
+    },
+    {
+      "headline": "Garment Trade Wields Power in Bangladesh",
+      "snippet": "The industry’s trade group has seen its influence soar in recent years, but critics say the group has helped make the nation dangerous for garment workers.",
+      "abstract": "The industry’s trade group has seen its influence soar in recent years, but critics say the group has helped make the nation dangerous for garment workers.",
+      "lead_paragraph": "DHAKA, Bangladesh — In the honking, congested heart of this overcrowded capital, one glass office tower stands uniquely alone, surrounded by water, accessible by a small bridge. It is a symbol of the power of Bangladesh’s garment industry, the headquarters of the country’s most powerful association of factory owners. It is also illegal.",
+      "publication_date": "2013-07-25T02:19:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/07/25/world/asia/garment-trade-wields-power-in-bangladesh.html",
+      "byline": "By Jim Yardley"
+    },
+    {
+      "headline": "U.S. Asks Court to Limit Texas on Ballot Rules",
+      "snippet": "Attorney General Eric H. Holder Jr. indicated that the move is likely just the beginning of a federal effort to reimpose a safeguard against discrimination that was effectively gutted by the Supreme Court.",
+      "abstract": "Attorney General Eric H. Holder Jr. indicated that the move is likely just the beginning of a federal effort to reimpose a safeguard against discrimination that was effectively gutted by the Supreme Court.",
+      "lead_paragraph": "WASHINGTON — The Obama administration on Thursday moved to protect minority voters after last month’s Supreme Court ruling striking down a central part of the Voting Rights Act of 1965, with the Justice Department asking a court to require Texas to get permission from the federal government before making changes.",
+      "publication_date": "2013-07-25T13:43:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/07/26/us/holder-wants-texas-to-clear-voting-changes-with-the-us.html",
+      "byline": "By Adam Liptak and Charlie Savage"
+    },
+    {
+      "headline": "SAC Capital Is Indicted, and Called a Magnet for Cheating",
+      "snippet": "The 41-page indictment, which includes four counts of securities fraud and one count of wire fraud, charges the hedge fund and its subsidiaries with carrying out a broad insider trading scheme between 1999 and 2010.",
+      "abstract": "The 41-page indictment, which includes four counts of securities fraud and one count of wire fraud, charges the hedge fund and its subsidiaries with carrying out a broad insider trading scheme between 1999 and 2010.",
+      "lead_paragraph": "Federal authorities, under fire for handling Wall Street with kid gloves, have delivered a crippling blow to one of its most successful firms, SAC Capital Advisors, whose outsize trading profits have drawn government scrutiny for more than a decade.",
+      "publication_date": "2013-07-25T13:53:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2013/07/25/sac-capital-is-indicted/",
+      "byline": "By Peter Lattman and Ben Protess"
+    }
+  ]
+}

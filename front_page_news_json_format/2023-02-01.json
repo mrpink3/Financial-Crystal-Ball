@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-02-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "What Exxon and Chevron Are Doing With Those Big Profits",
+      "snippet": "Economic and military uncertainty clouds the outlook for Exxon, Chevron and other energy companies, whose bonanza from high prices is already fading.",
+      "abstract": "Economic and military uncertainty clouds the outlook for Exxon, Chevron and other energy companies, whose bonanza from high prices is already fading.",
+      "lead_paragraph": "Exxon Mobil made $56 billion in profit last year, its largest annual haul ever. Chevron earned $36 billion, also a company record. But after a bountiful 2022, the outlook for those companies and other big oil and gas producers is cloudy.",
+      "publication_date": "2023-02-01T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/01/business/energy-environment/exxon-chevron-oil-gas-profit.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Stocks Keep Climbing as Wall St. and Fed Diverge",
+      "snippet": "Recent stock gains have been driven by hope that a rate-raising cycle may be over. The Fed keeps telling investors that it’s not.",
+      "abstract": "Recent stock gains have been driven by hope that a rate-raising cycle may be over. The Fed keeps telling investors that it’s not.",
+      "lead_paragraph": "After a year spent parsing Federal Reserve chair Jerome H. Powell’s comments for clues about the direction of interest rates, some stock investors are going their own way.",
+      "publication_date": "2023-02-01T10:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/01/business/stock-market-federal-reserve.html",
+      "byline": "By Joe Rennison"
+    },
+    {
+      "headline": "Memphis Gathers in Grief at Tyre Nichols’s Funeral",
+      "snippet": "His death after he was beaten by the police inspired anger and sorrow across the country. His family remembers him as a “beautiful soul.”",
+      "abstract": "His death after he was beaten by the police inspired anger and sorrow across the country. His family remembers him as a “beautiful soul.”",
+      "lead_paragraph": "MEMPHIS — His siblings remembered his passion for skateboarding and his love of photography. They said he had a sense of independence, a comfort and confidence in being himself, that had taken hold at an early age. At 29, Tyre Nichols was finding his way.",
+      "publication_date": "2023-02-01T10:00:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/01/us/tyre-nichols-funeral-memphis.html",
+      "byline": "By Rick Rojas"
+    },
+    {
+      "headline": "A.I. Bots Can’t Report This Column. But They Can Improve It.",
+      "snippet": "ChatGPT isn’t the only writing assistant that has emerged to replace editors. We tested it alongside two others to assess their strengths and weaknesses.",
+      "abstract": "ChatGPT isn’t the only writing assistant that has emerged to replace editors. We tested it alongside two others to assess their strengths and weaknesses.",
+      "lead_paragraph": "Plagiarizing essays. Cheating on tests. Spreading misinformation. The advent of new, powerful artificial intelligence tools like ChatGPT has sparked concerns about the unintended consequences of the technology and debate over the ethical implications of its use.",
+      "publication_date": "2023-02-01T14:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/01/technology/personaltech/chatgpt-ai-bots-editing.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "The College Board Strips Down Its A.P. Curriculum for African American Studies",
+      "snippet": "The official course looks different from a previous draft: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.",
+      "abstract": "The official course looks different from a previous draft: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.",
+      "lead_paragraph": "After heavy criticism from Gov. Ron DeSantis, the College Board released on Wednesday an official curriculum for its new Advanced Placement course in African American Studies —  stripped of much of the subject matter that had angered the governor and other conservatives.",
+      "publication_date": "2023-02-01T14:00:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/01/us/college-board-advanced-placement-african-american-studies.html",
+      "byline": "By Anemona Hartocollis and Eliza Fawcett"
+    }
+  ]
+}

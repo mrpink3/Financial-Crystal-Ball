@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2021-08-10",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Electric Cars for Everyone? Not Unless They Get Cheaper.",
+      "snippet": "President Biden has made conversion to E.V.s a pillar of climate policy. But government incentives mostly help affluent buyers, not average families.",
+      "abstract": "President Biden has made conversion to E.V.s a pillar of climate policy. But government incentives mostly help affluent buyers, not average families.",
+      "lead_paragraph": "SAN DIEGO — Robert Teglia bought a Tesla Model 3 sedan even though he knew it cost more than many luxury cars. He didn’t particularly care that it might be better than the others for the environment.",
+      "publication_date": "2021-08-09T17:51:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/09/business/energy-environment/biden-electric-cars-cost.html",
+      "byline": "By Ivan Penn, Niraj Chokshi and Roger Kisby"
+    },
+    {
+      "headline": "Senate Democrats Begin $3.5 Trillion Push for ‘Big, Bold’ Social Change",
+      "snippet": "A Senate budget blueprint, which Democrats hope to pass this week, would ease passage of legislation that would mark the biggest expansion of the social safety net in nearly 60 years.",
+      "abstract": "A Senate budget blueprint, which Democrats hope to pass this week, would ease passage of legislation that would mark the biggest expansion of the social safety net in nearly 60 years.",
+      "lead_paragraph": "WASHINGTON — Democrats formally began their push on Monday for the most significant expansion of the nation’s social safety net since the Great Society of the 1960s, unveiling a budget blueprint that would spend $3.5 trillion on health care, child and elder care, education and climate change.",
+      "publication_date": "2021-08-09T22:56:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/09/us/politics/senate-budget.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "The Ashes of the Dixie Fire Cast a Pall 1,000 Miles From Its Flames",
+      "snippet": "The megafires of the West are sending out giant clouds of smoke and leaving a footprint much larger than the evergreen forests they level and the towns they decimate.",
+      "abstract": "The megafires of the West are sending out giant clouds of smoke and leaving a footprint much larger than the evergreen forests they level and the towns they decimate.",
+      "lead_paragraph": "Follow the latest on the Dixie Fire and other extreme weather.",
+      "publication_date": "2021-08-09T23:04:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/09/us/dixie-fire-california.html",
+      "byline": "By Livia Albeck-Ripka, Thomas Fuller and Jack Healy"
+    },
+    {
+      "headline": "A Yearlong Cry for Help, Then Death After an Assault",
+      "snippet": "Daniela Espirito Santo died after an assault by her boyfriend, who had been arrested, then released, by police. Her case is emblematic of Britain’s failure to protect victims of domestic abuse.",
+      "abstract": "Daniela Espirito Santo died after an assault by her boyfriend, who had been arrested, then released, by police. Her case is emblematic of Britain’s failure to protect victims of domestic abuse.",
+      "lead_paragraph": "GRANTHAM, England — Daniela Espirito Santo died after waiting on hold for the police to answer her call for help.",
+      "publication_date": "2021-08-10T07:00:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/10/world/europe/uk-domestic-abuse.html",
+      "byline": "By Jane Bradley"
+    },
+    {
+      "headline": "Inside the White House-Facebook Rift Over Vaccine Misinformation",
+      "snippet": "Frustrations grew behind the scenes among top leaders on both sides, potentially hurting the government’s efforts to overcome the pandemic.",
+      "abstract": "Frustrations grew behind the scenes among top leaders on both sides, potentially hurting the government’s efforts to overcome the pandemic.",
+      "lead_paragraph": "WASHINGTON — In March, Andy Slavitt, then a top pandemic adviser for President Biden, called Nick Clegg, Facebook’s vice president for global affairs, and delivered an ominous warning.",
+      "publication_date": "2021-08-10T09:00:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/10/technology/facebook-vaccine-misinformation.html",
+      "byline": "By Zolan Kanno-Youngs and Cecilia Kang"
+    },
+    {
+      "headline": "Evergrande Went From China’s Biggest Developer to One of Its Worst Debtors",
+      "snippet": "Regulators want to fix the property sector’s bad habit of borrowing too much. Evergrande, with its billions of dollars in debt, may stand in the way.",
+      "abstract": "Regulators want to fix the property sector’s bad habit of borrowing too much. Evergrande, with its billions of dollars in debt, may stand in the way.",
+      "lead_paragraph": "The company owes hundreds of billions of dollars. Its creditors are circling. Its shares have taken a beating. But if anything forces a reckoning for Evergrande, a vast real estate empire in China, it might be the nervousness of ordinary home buyers like Chen Cheng.",
+      "publication_date": "2021-08-10T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/10/business/economy/china-evergrande-debt-property.html",
+      "byline": "By Alexandra Stevenson and Cao Li"
+    },
+    {
+      "headline": "Massachusetts Start-Up Hopes to Move a Step Closer to Commercial Fusion",
+      "snippet": "The company, founded by scientists at M.I.T., has been testing an extremely powerful magnet necessary to generate immense heat.",
+      "abstract": "The company, founded by scientists at M.I.T., has been testing an extremely powerful magnet necessary to generate immense heat.",
+      "lead_paragraph": "A start-up founded by scientists at the Massachusetts Institute of Technology says it is nearing a technological milestone that could take the world a step closer to fusion energy, which has eluded scientists for decades.",
+      "publication_date": "2021-08-10T13:00:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/10/technology/commonwealth-fusion-mit-reactor.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "BMW Has Fallen Behind in the Electric Vehicle Race. Can It Catch Up?",
+      "snippet": "Unlike its global rivals, the German carmaker has not set a date to phase out gas-powered cars, and investors aren’t pleased. BMW says its next model will prove critics wrong.",
+      "abstract": "Unlike its global rivals, the German carmaker has not set a date to phase out gas-powered cars, and investors aren’t pleased. BMW says its next model will prove critics wrong.",
+      "lead_paragraph": "MUNICH — Eight years ago, BMW was one of the first major automakers to sell a battery-powered car: The i3 broke ground with its lightweight carbon-fiber body and aluminum chassis.",
+      "publication_date": "2021-08-10T14:04:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/10/business/bmw-electric-car.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Senate Passes $1 Trillion Infrastructure Bill, Handing Biden a Bipartisan Win",
+      "snippet": "The approval came after months of negotiations and despite deficit concerns, reflecting an appetite in both parties for the long-awaited spending package.",
+      "abstract": "The approval came after months of negotiations and despite deficit concerns, reflecting an appetite in both parties for the long-awaited spending package.",
+      "lead_paragraph": "WASHINGTON — The Senate gave overwhelming bipartisan approval on Tuesday to a $1 trillion infrastructure bill to rebuild the nation’s deteriorating roads and bridges and fund new climate resilience and broadband initiatives, delivering a key component of President Biden’s agenda.",
+      "publication_date": "2021-08-10T15:34:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/10/us/politics/infrastructure-bill-passes.html",
+      "byline": "By Emily Cochrane"
+    }
+  ]
+}

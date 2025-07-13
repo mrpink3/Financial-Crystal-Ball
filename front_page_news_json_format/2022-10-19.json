@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-10-19",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Retailers’ Holiday Wish: That Strapped Shoppers Will Spend",
+      "snippet": "Retailers have navigated pandemic closures and supply chain snarls in recent years. But dealing with the fallout from inflation could be an even tougher test.",
+      "abstract": "Retailers have navigated pandemic closures and supply chain snarls in recent years. But dealing with the fallout from inflation could be an even tougher test.",
+      "lead_paragraph": "In 2020, it was pandemic closures and social distancing. Last year, it was the supply chain. Now, the problem is demand.",
+      "publication_date": "2022-10-18T16:57:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/18/business/retail-holiday-shopping.html",
+      "byline": "By Jordyn Holman"
+    },
+    {
+      "headline": "The Fed, Staring Down Two Big Choices, Charts an Aggressive Path",
+      "snippet": "Federal Reserve officials are barreling toward another three-quarter-point increase in November, and they may decide to do more next year.",
+      "abstract": "Federal Reserve officials are barreling toward another three-quarter-point increase in November, and they may decide to do more next year.",
+      "lead_paragraph": "Federal Reserve officials have coalesced around a plan to raise interest rates by three-quarters of a point next month as policymakers grow alarmed by the staying power of rapid price increases — and increasingly worried that inflation is now feeding on itself.",
+      "publication_date": "2022-10-18T17:49:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/18/business/economy/federal-reserve-inflation-november-meeting.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Acquittal of Russia Analyst Deals Final Blow to Trump-Era Prosecutor",
+      "snippet": "John H. Durham, the special counsel who investigated the Russia inquiry for more than three years, failed to develop any cases that resulted in convictions.",
+      "abstract": "John H. Durham, the special counsel who investigated the Russia inquiry for more than three years, failed to develop any cases that resulted in convictions.",
+      "lead_paragraph": "WASHINGTON — Igor Danchenko, an analyst who provided much of the research for a notorious dossier of unproven assertions and rumors about former President Donald J. Trump and Russia, was acquitted on Tuesday on four counts of lying to the F.B.I. about one of his sources.",
+      "publication_date": "2022-10-18T20:26:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html",
+      "byline": "By Charlie Savage and Linda Qiu"
+    },
+    {
+      "headline": "Russian Barrage Targets Power, Water and Heat for Ukraine’s Civilians",
+      "snippet": "The stepped-up attacks on cities, including through the heavy use of Iranian-made exploding drones, threaten a new sort of humanitarian crisis for Ukrainians this winter.",
+      "abstract": "The stepped-up attacks on cities, including through the heavy use of Iranian-made exploding drones, threaten a new sort of humanitarian crisis for Ukrainians this winter.",
+      "lead_paragraph": "KYIV, Ukraine — From towns near the front lines to high-rises in the capital, Ukrainians faced shortages of electricity, water and heat on Tuesday as Russia’s bombardment of civilian targets and infrastructure threatened millions of people with the prospect of a desolate winter without basic services.",
+      "publication_date": "2022-10-18T23:56:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html",
+      "byline": "By Megan Specia and Andrew E. Kramer"
+    },
+    {
+      "headline": "Where Have All the Men in Moscow Gone?",
+      "snippet": "Across the capital, there are noticeably fewer men at restaurants, stores and social gatherings. Many have been called up to fight in Ukraine. Others have fled to avoid being drafted.",
+      "abstract": "Across the capital, there are noticeably fewer men at restaurants, stores and social gatherings. Many have been called up to fight in Ukraine. Others have fled to avoid being drafted.",
+      "lead_paragraph": "MOSCOW — Friday afternoons at the Chop-Chop Barbershop in central Moscow used to be busy, but at the beginning of a recent weekend, only one of the four chairs was occupied.",
+      "publication_date": "2022-10-19T04:01:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html",
+      "byline": "By Valerie Hopkins and Nanna Heitmann"
+    },
+    {
+      "headline": "Weary of Snarls, Small Businesses Build Their Own Supply Chains",
+      "snippet": "They’re shifting to domestic sourcing and production, like some big manufacturers, but with at least one advantage the giants don’t have.",
+      "abstract": "They’re shifting to domestic sourcing and production, like some big manufacturers, but with at least one advantage the giants don’t have.",
+      "lead_paragraph": "What’s more stressful than a nightmare you can’t wake up from? For Ken Rosenblood, it’s watching ships, tiny dots on a radar, stuck at sea, unable to deliver the lifeblood of your company. That’s how he remembers the early days of the pandemic.",
+      "publication_date": "2022-10-19T07:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/19/business/small-businesses-supply-chain.html",
+      "byline": "By Amy Haimerl"
+    },
+    {
+      "headline": "‘They Forgot About Us’: Inside the Wait for Refugee Status",
+      "snippet": "As the Biden administration prioritizes resettling people fleeing Ukraine and Afghanistan, many other refugees are waiting years in a system struggling to rebuild.",
+      "abstract": "As the Biden administration prioritizes resettling people fleeing Ukraine and Afghanistan, many other refugees are waiting years in a system struggling to rebuild.",
+      "lead_paragraph": "WASHINGTON — For the past eight years, Ahmed Mohamed Aden has been trying to reunite with the sons he left behind when he fled Somalia.",
+      "publication_date": "2022-10-19T07:00:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html",
+      "byline": "By Zolan Kanno-Youngs and Miriam Jordan"
+    },
+    {
+      "headline": "Bread Prices Skyrocket as Inflation Grips Europe",
+      "snippet": "The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.",
+      "abstract": "The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.",
+      "lead_paragraph": "Since Russia’s invasion of Ukraine, the price of the wheat that Julien Bourgeois grinds for boulangeries at his family’s flour mill in central France has increased more than 30 percent. The bill for the electricity needed to run the mill has tripled. Even the price of paper used for flour sacks has hit the stratosphere.",
+      "publication_date": "2022-10-19T07:10:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Spirit Airlines Shareholders Back Sale to JetBlue",
+      "snippet": "The acquisition still faces a long journey to completion, including antitrust scrutiny from the Biden administration.",
+      "abstract": "The acquisition still faces a long journey to completion, including antitrust scrutiny from the Biden administration.",
+      "lead_paragraph": "Investors in Spirit Airlines voted on Wednesday to sell the carrier to JetBlue Airways, a combination that could reshape the airline industry in the United States by creating a more viable competitor to the four dominant carriers.",
+      "publication_date": "2022-10-19T13:12:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/19/business/spirit-airlines-jetblue-merger.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Fox News C.E.O.’s Strategy at Center of $1.6 Billion Lawsuit",
+      "snippet": "Suzanne Scott remade Fox News Media into a lucrative consumer brand. But a defamation suit against the company is a test of her strategy and leadership.",
+      "abstract": "Suzanne Scott remade Fox News Media into a lucrative consumer brand. But a defamation suit against the company is a test of her strategy and leadership.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-10-19T15:14:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/19/business/media/fox-news-suzanne-scott.html",
+      "byline": "By Jeremy W. Peters and Rachel Abrams"
+    }
+  ]
+}

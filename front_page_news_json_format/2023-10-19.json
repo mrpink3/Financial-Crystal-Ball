@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-10-19",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "American Household Wealth Jumped in the Pandemic",
+      "snippet": "Pandemic stimulus, a strong job market and climbing stock and home prices boosted net worth at a record pace, Federal Reserve data showed.",
+      "abstract": "Pandemic stimulus, a strong job market and climbing stock and home prices boosted net worth at a record pace, Federal Reserve data showed.",
+      "lead_paragraph": "American families saw the largest jump in their wealth on record between 2019 and 2022, according to Federal Reserve data released on Wednesday, as rising stock indexes, climbing home prices and repeated rounds of government stimulus left people’s finances healthier.",
+      "publication_date": "2023-10-18T16:01:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/18/business/economy/american-household-wealth-jumped-in-the-pandemic.html",
+      "byline": "By Jeanna Smialek and Ben Casselman"
+    },
+    {
+      "headline": "Confession Brings Natalee Holloway Case to an End After 18 Years",
+      "snippet": "Joran van der Sloot admitted that he brutally attacked the American teenager on a beach in Aruba, bringing a close to a case that had fascinated the American public since she vanished in 2005.",
+      "abstract": "Joran van der Sloot admitted that he brutally attacked the American teenager on a beach in Aruba, bringing a close to a case that had fascinated the American public since she vanished in 2005.",
+      "lead_paragraph": "In 2005, an American teenager, Natalee Holloway, disappeared on a senior high school class trip to Aruba. Her case inspired countless hours of cable TV programming, more than half a dozen nonfiction books, multiple episodes in the “Law & Order” franchise and at least one stage production. The obsessive attention stoked a backlash of media criticism.",
+      "publication_date": "2023-10-18T17:16:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/18/us/van-der-sloot-holloway-murder.html",
+      "byline": "By Claire Moses and Christine Hauser"
+    },
+    {
+      "headline": "U.S. Says Israel Didn’t Cause Hospital Blast, as Biden Promises Aid to Gaza",
+      "snippet": "President Biden backed Israel’s claim that a Gaza City explosion that killed hundreds, which Hamas blamed on Israel, had come from a failed rocket launch by an armed Palestinian group.",
+      "abstract": "President Biden backed Israel’s claim that a Gaza City explosion that killed hundreds, which Hamas blamed on Israel, had come from a failed rocket launch by an armed Palestinian group.",
+      "lead_paragraph": "President Biden on Wednesday backed Israel’s contention that a Palestinian group had caused an explosion at a Gaza hospital that killed hundreds of people. He also announced that the Israeli government would allow critically needed aid into the besieged Gaza Strip.",
+      "publication_date": "2023-10-18T21:48:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/18/world/middleeast/biden-israel-gaza-hospital.html",
+      "byline": "By Patrick Kingsley, Peter Baker, Michael D. Shear and Katie Rogers"
+    },
+    {
+      "headline": "Ukraine’s Economy Starts to Rebound as It Adapts to War",
+      "snippet": "Economists predict a return to growth, but many challenges lie ahead, including the rebuilding of war-torn cities and labor shortages.",
+      "abstract": "Economists predict a return to growth, but many challenges lie ahead, including the rebuilding of war-torn cities and labor shortages.",
+      "lead_paragraph": "When Russian forces closed in on Kyiv at the start of their invasion last year, the staff at Zavertailo, a popular bakery in the Ukrainian capital, shut up shop and began preparing free salads for the soldiers defending the city. Supplies dwindled as fighting raged around Kyiv, and the bakery’s finances collapsed as managers continued to pay staff salaries.",
+      "publication_date": "2023-10-19T04:01:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/19/business/ukraine-economy-war.html",
+      "byline": "By Constant Méheut"
+    },
+    {
+      "headline": "The 5 Clones in Argentina’s Election",
+      "snippet": "Javier Milei, a far-right libertarian, might soon be Argentina’s next president. He credits his cloned “four-legged children.”",
+      "abstract": "Javier Milei, a far-right libertarian, might soon be Argentina’s next president. He credits his cloned “four-legged children.”",
+      "lead_paragraph": "After finishing a surprising first in Argentina’s presidential primaries in August, Javier Milei grabbed a microphone in front of a raucous crowd and thanked Conan, Murray, Milton, Robert and Lucas.",
+      "publication_date": "2023-10-19T04:01:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/19/world/americas/argentina-election-javier-milei.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "An Industry Insider Drives an Open Alternative to Big Tech’s A.I.",
+      "snippet": "The nonprofit Allen Institute for AI, led by a respected computer scientist who sold his company to Apple, is trying to democratize cutting-edge research.",
+      "abstract": "The nonprofit Allen Institute for AI, led by a respected computer scientist who sold his company to Apple, is trying to democratize cutting-edge research.",
+      "lead_paragraph": "Ali Farhadi is no tech rebel.",
+      "publication_date": "2023-10-19T09:02:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/19/technology/allen-institute-open-source-ai.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Biden Lays Out Stakes for America as He Seeks Aid for Israel and Ukraine",
+      "snippet": "In a prime-time address, the president said the United States and the world bear the costs “when terrorists don’t pay a price for their terror, when dictators don’t pay a price for their aggression.”",
+      "abstract": "In a prime-time address, the president said the United States and the world bear the costs “when terrorists don’t pay a price for their terror, when dictators don’t pay a price for their aggression.”",
+      "lead_paragraph": "President Biden called on Americans on Thursday to stand behind Israel and Ukraine, making the case in a prime-time address that providing military and economic aid to the countries is in the interest of global stability and national security.",
+      "publication_date": "2023-10-19T09:04:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/19/us/politics/biden-speech-israel-ukraine.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Sidney Powell Pleads Guilty in Georgia Trump Case",
+      "snippet": "Ms. Powell, a member of the Trump legal team in 2020, will cooperate with prosecutors seeking to convict the former president in an election interference case in Georgia.",
+      "abstract": "Ms. Powell, a member of the Trump legal team in 2020, will cooperate with prosecutors seeking to convict the former president in an election interference case in Georgia.",
+      "lead_paragraph": "Sidney K. Powell, who spun some of the wildest conspiracy theories about ballot fraud as a member of Donald J. Trump’s legal team after he lost the 2020 election, pleaded guilty on Thursday morning to six misdemeanor counts. She is one of 19 people, including Mr. Trump, who were indicted in August for trying to subvert the election results in Georgia, and she has agreed to testify against any of the remaining defendants.",
+      "publication_date": "2023-10-19T14:10:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/19/us/sidney-powell-guilty-plea-trump-georgia.html",
+      "byline": "By Richard Fausset and Danny Hakim"
+    },
+    {
+      "headline": "Strong Economic Data ‘Could Warrant’ Higher Rates, Fed Chair Says",
+      "snippet": "The Federal Reserve may need to do more if growth remains hot or if the labor market stops cooling, Jerome H. Powell said in a speech.",
+      "abstract": "The Federal Reserve may need to do more if growth remains hot or if the labor market stops cooling, Jerome H. Powell said in a speech.",
+      "lead_paragraph": "Jerome H. Powell, the chair of the Federal Reserve, reiterated the central bank’s commitment to moving forward “carefully” with further rate moves in a speech on Thursday. But he also said that the central bank might need to raise interest rates more if economic data continued to come in hot.",
+      "publication_date": "2023-10-19T16:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/19/business/economy/powell-fed-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-06-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "On Senate Health Bill, Trump Falters in the Closer’s Role",
+      "snippet": "The president has largely remained on the sidelines, and some of the White House’s efforts to intervene have clearly been counterproductive.",
+      "abstract": "The president has largely remained on the sidelines, and some of the White House’s efforts to intervene have clearly been counterproductive.",
+      "lead_paragraph": "WASHINGTON — President Trump began his all-hands meeting with Republican senators at the White House on Tuesday by saying they were “very close” to passing a health care bill, just as efforts to fast-track a vote this week collapsed.",
+      "publication_date": "2017-06-27T17:58:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/27/us/health-care-bill-trump-pence.html",
+      "byline": "By Glenn Thrush and Jonathan Martin"
+    },
+    {
+      "headline": "As Uber Stumbles, Lyft Sees an Opening, and Bites Its Tongue",
+      "snippet": "It has been a rough, scandal-filled year for Uber. But don’t expect John Zimmer, Lyft’s president, to gloat about his competitor’s misfortunes.",
+      "abstract": "It has been a rough, scandal-filled year for Uber. But don’t expect John Zimmer, Lyft’s president, to gloat about his competitor’s misfortunes.",
+      "lead_paragraph": "John Zimmer, the co-founder and president of Lyft, wants you to know that he is not — I repeat, not — happy about the chaos that is enveloping Uber, his fiercest rival in the ride-sharing market. There will be no corks popped at Lyft’s San Francisco headquarters over the sudden, stunning downfall of Travis Kalanick, Uber’s truculent former chief executive, and no giddy high fives will be exchanged over the chain of scandalous events that have demoralized Uber’s staff, shredded its executive ranks and damaged its reputation.",
+      "publication_date": "2017-06-28T00:01:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/27/business/lyft-uber-john-zimmer.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "A Costly Retraction for CNN and an Opening for Trump",
+      "snippet": "The ferocious response on Tuesday to a breakdown in editorial procedures was a reminder of the network’s unique role as a nemesis for the president.",
+      "abstract": "The ferocious response on Tuesday to a breakdown in editorial procedures was a reminder of the network’s unique role as a nemesis for the president.",
+      "lead_paragraph": "In CNN’s newsroom, it is called the Triad: a three-pronged internal system designed to ensure that sensitive reporting by the network’s journalists is unimpeachable before it runs.",
+      "publication_date": "2017-06-28T00:48:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/27/business/media/cnn-retracted-story-on-trump.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "A New Kind of Tech Job Emphasizes Skills, Not a College Degree",
+      "snippet": "Programs promoting a skills-based labor market are gaining momentum and changing the way people are hired and trained for tech and other jobs.",
+      "abstract": "Programs promoting a skills-based labor market are gaining momentum and changing the way people are hired and trained for tech and other jobs.",
+      "lead_paragraph": "ROCKET CENTER, W.Va. — A few years ago, Sean Bridges lived with his mother, Linda, in Wiley Ford, W.Va. Their only income was her monthly Social Security disability check. He applied for work at Walmart and Burger King, but they were not hiring.",
+      "publication_date": "2017-06-28T04:05:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/28/technology/tech-jobs-skills-college-degree.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Amazon’s Vision of Computing’s Future: An Information Appliance",
+      "snippet": "Amazon’s new Echo Show smart speaker, which comes with a touch screen, represents the model for a new kind of communal, household computer.",
+      "abstract": "Amazon’s new Echo Show smart speaker, which comes with a touch screen, represents the model for a new kind of communal, household computer.",
+      "lead_paragraph": "In the late 1970s, Jef Raskin, a pioneering technologist who was one of Apple’s earliest employees, sketched out a radical vision for the future of computing.",
+      "publication_date": "2017-06-28T09:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/28/technology/amazons-vision-of-computings-future-an-information-appliance.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Blue Apron Slashes Share Price for Its I.P.O.",
+      "snippet": "The meal delivery company reduced the expected price for its market debut by about a third from the range it disclosed just last week.",
+      "abstract": "The meal delivery company reduced the expected price for its market debut by about a third from the range it disclosed just last week.",
+      "lead_paragraph": "When the parent of Snapchat went public in March, investors flocked to the social media upstart’s offering, eagerly pushing the money-losing company’s valuation to $34 billion.",
+      "publication_date": "2017-06-28T14:27:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/28/business/dealbook/blue-apron-ipo-price-cut.html",
+      "byline": "By Michael J. de la Merced"
+    }
+  ]
+}

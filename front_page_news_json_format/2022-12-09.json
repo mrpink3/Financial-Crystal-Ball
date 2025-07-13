@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-12-09",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Bill to Protect Same-Sex Marriage Rights Clears Congress",
+      "snippet": "The House gave final approval to the measure, with lawmakers from both parties voting in favor. It now heads to President Biden to be signed into law.",
+      "abstract": "The House gave final approval to the measure, with lawmakers from both parties voting in favor. It now heads to President Biden to be signed into law.",
+      "lead_paragraph": "WASHINGTON — The House on Thursday gave final approval to legislation to mandate federal recognition for same-sex marriages, with a bipartisan coalition of lawmakers voting in favor of the measure in the waning days of the Democratic-led Congress.",
+      "publication_date": "2022-12-08T16:18:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/08/us/politics/same-sex-marriage-congress.html",
+      "byline": "By Annie Karni"
+    },
+    {
+      "headline": "F.T.C. Sues to Block Microsoft’s $69 Billion Acquisition of Activision",
+      "snippet": "The move by the commission signals an aggressive stance by federal regulators to thwart the expansion of the tech industry’s biggest companies.",
+      "abstract": "The move by the commission signals an aggressive stance by federal regulators to thwart the expansion of the tech industry’s biggest companies.",
+      "lead_paragraph": "The Federal Trade Commission, in one of the most aggressive actions taken by federal regulators in decades to check the power of the tech industry’s giants, on Thursday sued to block Microsoft’s $69 billion acquisition of the video game maker Activision Blizzard.",
+      "publication_date": "2022-12-08T19:10:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/08/technology/ftc-microsoft-activision.html",
+      "byline": "By Karen Weise and David McCabe"
+    },
+    {
+      "headline": "News Analysis: In Brittney Griner Deal, Putin Used Pain, a Familiar Lever",
+      "snippet": "By seizing the basketball star, the Russian president made things so painful for the U.S. that it capitulated and turned over a convicted arms dealer. Can the same tactic work in the war in Ukraine?",
+      "abstract": "By seizing the basketball star, the Russian president made things so painful for the U.S. that it capitulated and turned over a convicted arms dealer. Can the same tactic work in the war in Ukraine?",
+      "lead_paragraph": "President Vladimir V. Putin of Russia wants to prosecute his war in Ukraine in the same way he secured the freedom on Thursday of a major Russian arms dealer: inflict so much pain on Western governments that, eventually, they make a deal.",
+      "publication_date": "2022-12-08T21:41:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/08/world/europe/brittney-griner-putin-pain.html",
+      "byline": "By Anton Troianovski and Valerie Hopkins"
+    },
+    {
+      "headline": "Highbrow Films Aimed at Winning Oscars Are Losing Audiences",
+      "snippet": "The kind of critically praised dramas that often dominate the awards season are falling flat at the box office, failing to justify the money it takes to make them.",
+      "abstract": "The kind of critically praised dramas that often dominate the awards season are falling flat at the box office, failing to justify the money it takes to make them.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-12-09T08:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/09/business/media/oscars-films-box-office.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Qatar Extends Its Natural Gas Dominance at Russia’s Expense",
+      "snippet": "As its influence grows, the country is poised to become a big energy supplier to Europe, which has turned away from Russia after its invasion of Ukraine.",
+      "abstract": "As its influence grows, the country is poised to become a big energy supplier to Europe, which has turned away from Russia after its invasion of Ukraine.",
+      "lead_paragraph": "Russia’s war in Ukraine has jolted global energy markets, leaving Europe short of natural gas, raising prices for all fossil fuels and threatening a global recession.",
+      "publication_date": "2022-12-09T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/09/business/energy-environment/qatar-gas-oil.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "‘I Will Keep Fighting’: China’s Protesters Say It’s Bigger Than Covid",
+      "snippet": "The restrictions that drove people into the streets last month are being rolled back. But many of those who demonstrated say they want more.",
+      "abstract": "The restrictions that drove people into the streets last month are being rolled back. But many of those who demonstrated say they want more.",
+      "lead_paragraph": "After the Chinese government announced this week that it would retreat from its harsh Covid policies, many Chinese expressed their gratitude to the protesters who had boldly spoken out against the punishing restrictions. After three long years, people throughout China could try to get back to normal life.",
+      "publication_date": "2022-12-09T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/09/business/china-covid-protesters.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Chasing the U.S., China’s Leader Emerges From Diplomatic Isolation",
+      "snippet": "Xi Jinping’s visit to Saudi Arabia highlights Beijing’s renewed bid to compete with Washington after years of preoccupation with the pandemic.",
+      "abstract": "Xi Jinping’s visit to Saudi Arabia highlights Beijing’s renewed bid to compete with Washington after years of preoccupation with the pandemic.",
+      "lead_paragraph": "He met with Saudi Arabia’s king and the leaders of Egypt, Tunisia, Kuwait and Sudan. He pledged to expand ports along the Red Sea, invest in petrochemicals and usher in a wave of Chinese tourism.",
+      "publication_date": "2022-12-09T10:00:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/09/world/asia/china-gulf-us.html",
+      "byline": "By David Pierson"
+    }
+  ]
+}

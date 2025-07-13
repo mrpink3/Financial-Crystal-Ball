@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-03-05",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Can You Really Hire a Hit Man on the Dark Web?",
+      "snippet": "A collection of online stores offer murder for pay. Researchers say they are scams, but people who want someone dead aren’t listening.",
+      "abstract": "A collection of online stores offer murder for pay. Researchers say they are scams, but people who want someone dead aren’t listening.",
+      "lead_paragraph": "SAN FRANCISCO — On a website called Azerbaijani Eagles, you can commission a murder for $5,000. The site Slayers Hitmen provides more options, with a beating going for $2,000. Death by torture costs $50,000.",
+      "publication_date": "2020-03-04T16:30:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/04/technology/can-you-hire-a-hit-man-online.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "We Spoke to Six Americans With Coronavirus",
+      "snippet": "It is one thing to be sick. It is another not to know your chances of getting well. Americans who have had the virus share their experiences.",
+      "abstract": "It is one thing to be sick. It is another not to know your chances of getting well. Americans who have had the virus share their experiences.",
+      "lead_paragraph": "Late one night, after a test confirmed the stealth invasion of his cells by the new coronavirus, Dale Grizzle was seized with a violent fit of vomiting in his hospital room.",
+      "publication_date": "2020-03-04T17:51:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/04/us/coronavirus-recovery.html",
+      "byline": "By Amy Harmon"
+    },
+    {
+      "headline": "DoorDash Faces Its Latest Challenge: Wooing Wall Street",
+      "snippet": "The food delivery app is losing money, battling rivals, facing lawsuits — and trying to go public. What could go wrong?",
+      "abstract": "The food delivery app is losing money, battling rivals, facing lawsuits — and trying to go public. What could go wrong?",
+      "lead_paragraph": "SAN FRANCISCO — DoorDash, the leading food delivery app in the United States, has its fans. Hungry people. Busy people. Lazy people.",
+      "publication_date": "2020-03-04T19:21:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/04/technology/doordash-ipo.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "With Oil Prices Down 20%, OPEC Pushes for Stability",
+      "snippet": "A meeting of oil ministers is trying to agree to cuts in output as the coronavirus outbreak slows economic activity.",
+      "abstract": "A meeting of oil ministers is trying to agree to cuts in output as the coronavirus outbreak slows economic activity.",
+      "lead_paragraph": "A 20 percent plunge in oil prices this year since the coronavirus outbreak took hold has alarmed the world’s top oil officials, and their challenge to prop up prices keeps getting harder.",
+      "publication_date": "2020-03-04T20:47:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/04/business/OPEC-oil-demand-coronavirus.html",
+      "byline": "By Stanley Reed and Clifford Krauss"
+    },
+    {
+      "headline": "Airlines Feel Deepening Impact as Coronavirus Upends Travel",
+      "snippet": "United will curtail service on domestic and global routes as companies restrict trips, testing a long stretch of airline industry profitability.",
+      "abstract": "United will curtail service on domestic and global routes as companies restrict trips, testing a long stretch of airline industry profitability.",
+      "lead_paragraph": "Since the financial crisis a decade ago, airlines in the United States have consolidated and tightened operations, taken advantage of changing travel habits and created new offerings for passengers, engineering an extended stretch of profitability.",
+      "publication_date": "2020-03-05T00:33:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/04/business/united-airlines-coronavirus.html",
+      "byline": "By Niraj Chokshi"
+    },
+    {
+      "headline": "Why Did Biden Suddenly Sweep Virginia? Credit Trump, These Voters Say",
+      "snippet": "Men and women, white people and black people, college graduates and non-graduates alike — all came together to propel Joe Biden to a resounding victory over Bernie Sanders.",
+      "abstract": "Men and women, white people and black people, college graduates and non-graduates alike — all came together to propel Joe Biden to a resounding victory over Bernie Sanders.",
+      "lead_paragraph": "FALLS CHURCH, Va. — They were disaffected Republicans in affluent Washington suburbs. They were shipyard employees in Norfolk. And they were health care workers in Petersburg.",
+      "publication_date": "2020-03-05T01:03:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/04/us/politics/super-tuesday-virginia-voter-turnout.html",
+      "byline": "By Reid J. Epstein and Stephanie Saul"
+    },
+    {
+      "headline": "A Global Outbreak Is Fueling the Backlash to Globalization",
+      "snippet": "As the coronavirus spreads around the world, companies are seeking alternatives to making goods in China, while right-wing political parties fulminate against open borders.",
+      "abstract": "As the coronavirus spreads around the world, companies are seeking alternatives to making goods in China, while right-wing political parties fulminate against open borders.",
+      "lead_paragraph": "LONDON — Well before a deadly virus began spreading across multiple borders, a world defined by deepening interconnection appeared to be reassessing the merits of globalization.",
+      "publication_date": "2020-03-05T10:00:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/05/business/coronavirus-globalism.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "U.A.W. Corruption Case Widens as Former Chief Is Charged",
+      "snippet": "Gary Jones, the United Auto Workers leader until last fall, is accused of embezzlement. A prosecutor spoke of a previous U.S. takeover of a union as a model.",
+      "abstract": "Gary Jones, the United Auto Workers leader until last fall, is accused of embezzlement. A prosecutor spoke of a previous U.S. takeover of a union as a model.",
+      "lead_paragraph": "For five years, federal investigators have pieced together a broad pattern of corruption within the United Automobile Workers. They documented the diversion of dues for high living by union officials and found a conspiracy that may have compromised dealings with a leading automaker.",
+      "publication_date": "2020-03-05T15:14:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/05/business/uaw-indictment.html",
+      "byline": "By Noam Scheiber and Neal E. Boudette"
+    },
+    {
+      "headline": "Workplace vs. Coronavirus: ‘No One Has a Playbook for This’",
+      "snippet": "The deadly disease has arrived in some offices, and employers are figuring out how to adapt.",
+      "abstract": "The deadly disease has arrived in some offices, and employers are figuring out how to adapt.",
+      "lead_paragraph": "SAN FRANCISCO — At Facebook on Thursday, the questions from spooked employees came thick and fast.",
+      "publication_date": "2020-03-05T15:20:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/05/business/coronavirus-offices-covid-19.html",
+      "byline": "By Mike Isaac, David Yaffe-Bellany and Karen Weise"
+    },
+    {
+      "headline": "Elizabeth Warren, Once a Front-Runner, Drops Out of Presidential Race",
+      "snippet": "Ms. Warren, a senator and former law professor, staked her campaign on fighting corruption and changing the rules of the economy.",
+      "abstract": "Ms. Warren, a senator and former law professor, staked her campaign on fighting corruption and changing the rules of the economy.",
+      "lead_paragraph": "CAMBRIDGE, Mass. — Senator Elizabeth Warren entered the 2020 race with expansive plans to use the federal government to remake American society, pressing to strip power and wealth from a moneyed class that she saw as fundamentally corrupting the country’s economic and political order.",
+      "publication_date": "2020-03-05T15:37:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/05/us/politics/elizabeth-warren-drops-out.html",
+      "byline": "By Shane Goldmacher and Astead W. Herndon"
+    }
+  ]
+}

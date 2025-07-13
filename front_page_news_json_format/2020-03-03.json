@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2020-03-03",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "How Bloomberg Buys the Silence of Unhappy Employees",
+      "snippet": "Every year, Mike Bloomberg’s company pays hundreds of fired employees to not say anything bad.",
+      "abstract": "Every year, Mike Bloomberg’s company pays hundreds of fired employees to not say anything bad.",
+      "lead_paragraph": "Every year, hundreds of departing employees at Bloomberg L.P. are presented with a choice: Either leave the company empty-handed or accept a generous financial package and agree to never speak ill of the company. Many take the money.",
+      "publication_date": "2020-03-02T18:04:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/02/business/michael-bloomberg-nda.html",
+      "byline": "By Jessica Silver-Greenberg and Natalie Kitroeff"
+    },
+    {
+      "headline": "‘When Is It Going to End?’: Where Coronavirus Has Turned Deadly in the U.S.",
+      "snippet": "Four residents of a nursing care facility in suburban Seattle have died, and the surrounding community is taking extraordinary steps to contain the virus.",
+      "abstract": "Four residents of a nursing care facility in suburban Seattle have died, and the surrounding community is taking extraordinary steps to contain the virus.",
+      "lead_paragraph": "SEATTLE — Movie nights have been canceled. Residents are restricted to their rooms, their meals delivered by workers in protective gear. Ambulances come and go, taking elderly patients who have fallen ill to the hospital two miles away.",
+      "publication_date": "2020-03-02T19:10:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/02/us/coronavirus-washington-state.html",
+      "byline": "By Mike Baker and Karen Weise"
+    },
+    {
+      "headline": "Buttigieg and Klobuchar Endorse Biden, Aiming to Slow Sanders",
+      "snippet": "In a swift turn of events, Mr. Buttigieg and Ms. Klobuchar quit the presidential race and endorsed Mr. Biden on the eve of Super Tuesday to try to boost him against the liberal front-runner, Mr. Sanders.",
+      "abstract": "In a swift turn of events, Mr. Buttigieg and Ms. Klobuchar quit the presidential race and endorsed Mr. Biden on the eve of Super Tuesday to try to boost him against the liberal front-runner, Mr. Sanders.",
+      "lead_paragraph": "DALLAS — In a last-minute bid to unite the moderate wing of the Democratic Party, Senator Amy Klobuchar and Pete Buttigieg on Monday threw their support behind a presidential campaign rival, Joseph R. Biden Jr., giving him an extraordinary boost ahead of the Super Tuesday primaries that promised to test his strength against the liberal front-runner, Senator Bernie Sanders.",
+      "publication_date": "2020-03-02T20:22:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/02/us/politics/pete-buttigieg-joe-biden-endorsement.html",
+      "byline": "By Alexander Burns, Jonathan Martin and Nick Corasaniti"
+    },
+    {
+      "headline": "China Stopped Its Economy to Tackle Coronavirus. Now the World Suffers.",
+      "snippet": "The virtual shutdown of one of the world’s biggest economies is hurting business around the globe, from multinational firms to truck drivers and tour guides.",
+      "abstract": "The virtual shutdown of one of the world’s biggest economies is hurting business around the globe, from multinational firms to truck drivers and tour guides.",
+      "lead_paragraph": "In an industrial area west of Chicago’s O’Hare International Airport, more than 6,000 miles from China, Michael Smerling is steeling himself for a devastating blow from the coronavirus outbreak.",
+      "publication_date": "2020-03-02T21:33:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/02/business/economy/china-coronavirus-economy.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "How the Democratic Establishment Stumbled as Sanders Surged",
+      "snippet": "Mr. Sanders is making the case that his urgent message is the best match for a trying political moment, and moderates are scrambling ahead of Super Tuesday to stop his momentum.",
+      "abstract": "Mr. Sanders is making the case that his urgent message is the best match for a trying political moment, and moderates are scrambling ahead of Super Tuesday to stop his momentum.",
+      "lead_paragraph": "Late last year a group of first-term House Democrats, anxious over the party’s fractious presidential race, convened a series of discussions intended to spur unity. Led by Representatives Colin Allred of Texas and Haley Stevens of Michigan, they considered issuing a collective endorsement of one moderate candidate.",
+      "publication_date": "2020-03-02T22:18:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/02/us/politics/bernie-sanders-democratic-party.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Close to a Million Coronavirus Tests Could Be Ready in U.S. This Week",
+      "snippet": "Looser regulations on who can develop tests for the virus will allow for a significant increase in the number of Americans likely to be screened, the F.D.A. commissioner said.",
+      "abstract": "Looser regulations on who can develop tests for the virus will allow for a significant increase in the number of Americans likely to be screened, the F.D.A. commissioner said.",
+      "lead_paragraph": "WASHINGTON — The Trump administration said on Monday that it could have the capacity for nearly a million tests for the coronavirus by the end of this week, as the government prepares to escalate screening as the American death toll reached six and U.S. infections topped 100.",
+      "publication_date": "2020-03-03T01:47:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/02/us/coronavirus-testing.html",
+      "byline": "By Noah Weiland and Emily Cochrane"
+    },
+    {
+      "headline": "Will the Coronavirus Cause a Recession? Keep Your Eye on the Barbershops",
+      "snippet": "The Fed reduced rates to keep the effects of the outbreak from spreading to sectors not directly affected by the virus.",
+      "abstract": "The Fed reduced rates to keep the effects of the outbreak from spreading to sectors not directly affected by the virus.",
+      "lead_paragraph": "Epidemiologists are nervously tracking signs that the coronavirus is spreading widely beyond its origins in China. Economists are watching for much the same thing when it comes to the economic damage.",
+      "publication_date": "2020-03-03T10:05:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/03/business/economy/coronavirus-recession.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Fed Makes Emergency Rate Cut, but Markets Continue Tumbling",
+      "snippet": "The central bank cut interest rates by half a percentage point, its biggest single cut in more than a decade, as a pre-emptive move to protect the economy from the coronavirus.",
+      "abstract": "The central bank cut interest rates by half a percentage point, its biggest single cut in more than a decade, as a pre-emptive move to protect the economy from the coronavirus.",
+      "lead_paragraph": "In an extraordinary attempt to contain the coronavirus’s economic fallout, the Federal Reserve slashed interest rates on Tuesday as policymakers unanimously approved their biggest one-time cut — and first emergency rate move — since the depths of the 2008 financial crisis.",
+      "publication_date": "2020-03-03T14:59:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/03/business/economy/fed-rate-cut.html",
+      "byline": "By Jeanna Smialek and Jim Tankersley"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2011-06-07",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Apple Unveils ‘Cloud’ Music and Storage Service",
+      "snippet": "“We are going to move the digital hub, the center of your digital life, into the cloud,” said Steven P. Jobs at the opening of Apple’s Worldwide Developers Conference.",
+      "abstract": "“We are going to move the digital hub, the center of your digital life, into the cloud,” said Steven P. Jobs at the opening of Apple’s Worldwide Developers Conference.",
+      "lead_paragraph": "SAN FRANCISCO — Declaring that the personal computer was no longer the central hub of people’s digital lives, Steven P. Jobs, Apple’s chief executive, on Monday unveiled the company’s new online storage and syncing service for music, photos, files and software.",
+      "publication_date": "2011-06-06T19:41:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/07/technology/07apple.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "Financial Overhaul Is Mired in Detail and Dissent",
+      "snippet": "Regulators have fallen behind in setting the rules that were mandated by last year’s Dodd-Frank law.",
+      "abstract": "Regulators have fallen behind in setting the rules that were mandated by last year’s Dodd-Frank law.",
+      "lead_paragraph": "Nearly one year after Congress passed financial changes to rein in the banking sector, more than two dozen of the legislation’s rules are behind schedule, and no end to the wrangling over details is in sight.",
+      "publication_date": "2011-06-06T22:07:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/07/business/07derivatives.html",
+      "byline": "By Louise Story"
+    },
+    {
+      "headline": "In State Parks, the Sharpest Ax Is the Budget’s",
+      "snippet": "After cuts to financing, state parks are pursuing creative and sometimes controversial solutions simply to stay open.",
+      "abstract": "After cuts to financing, state parks are pursuing creative and sometimes controversial solutions simply to stay open.",
+      "lead_paragraph": "DECEPTION PASS STATE PARK, Wash. — As the summer season gets under way, budget-strapped state parks across the country are pursuing creative and sometimes controversial solutions simply to stay open. Many are imposing steep new fees, leaning ever more heavily on volunteers and, in one ominous effort to raise money, even pushing to drill for oil and gas beneath hiking trails and picnic pavilions. ",
+      "publication_date": "2011-06-07T00:41:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/07/us/07parks.html",
+      "byline": "By William Yardley"
+    },
+    {
+      "headline": "Taps for a Community Hospital",
+      "snippet": "Faced with growing losses, the Cleveland Clinic, which owns Huron Hospital, has decided to close it down.",
+      "abstract": "Faced with growing losses, the Cleveland Clinic, which owns Huron Hospital, has decided to close it down.",
+      "lead_paragraph": "CLEVELAND — A railroad bridge separates Huron Hospital, one of the last remaining institutions in the impoverished neighborhood of East Cleveland, from the city’s downtown and its two major hospitals. ",
+      "publication_date": "2011-06-07T01:15:17+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/07/health/07care.html",
+      "byline": "By Reed Abelson"
+    },
+    {
+      "headline": "Weiner Admits He Sent Lewd Photos; Says He Won’t Resign",
+      "snippet": "After Representative Anthony D. Weiner said he had sent women explicit photos, the House minority leader, Nancy Pelosi, called for an ethics investigation.",
+      "abstract": "After Representative Anthony D. Weiner said he had sent women explicit photos, the House minority leader, Nancy Pelosi, called for an ethics investigation.",
+      "lead_paragraph": "Representative Anthony D. Weiner, a rising star in Democratic politics who many believed would be the next mayor of New York City, admitted on Monday to having had inappropriate online exchanges with at least six women, and repeatedly lying about sending a sexually suggestive photograph to a young woman over Twitter last month.",
+      "publication_date": "2011-06-07T01:15:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/07/us/politics/07weiner.html",
+      "byline": "By Michael Barbaro"
+    },
+    {
+      "headline": "Moving Online, Beck Will Charge Viewers a Fee",
+      "snippet": "The former Fox News host will charge $5 a month to watch his daily talk show and $10 to those who want access to all of GBTV, his new Web network.",
+      "abstract": "The former Fox News host will charge $5 a month to watch his daily talk show and $10 to those who want access to all of GBTV, his new Web network.",
+      "lead_paragraph": "Glenn Beck is planning to charge his fans a monthly subscription for his daily talk show online starting this summer, as he makes the move from being a Fox News host to the owner of his own Internet network.",
+      "publication_date": "2011-06-07T02:00:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/07/business/media/07beck.html",
+      "byline": "By Brian Stelter"
+    }
+  ]
+}

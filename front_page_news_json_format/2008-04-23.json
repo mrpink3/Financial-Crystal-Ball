@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2008-04-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Europe Turns Back to Coal, Raising Climate Fears",
+      "snippet": "European countries plan to use coal, generally the dirtiest fuel on earth, in new power plants.",
+      "abstract": "European countries plan to use coal, generally the dirtiest fuel on earth, in new power plants.",
+      "lead_paragraph": "CIVITAVECCHIA, Italy  At a time when the world’s top climate experts agree that carbon emissions must be rapidly reduced to hold down global warming, Italy’s major electricity producer, Enel, is converting its massive power plant here from oil to coal, generally the dirtiest fuel on earth. ",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/04/23/world/europe/23coal.html",
+      "byline": "By Elisabeth Rosenthal"
+    },
+    {
+      "headline": "Murdoch Moving to Buy Newsday for $580 Million",
+      "snippet": "A tentative deal to buy his third New York newspaper would tighten Rupert Murdoch’s grip on American news media.",
+      "abstract": "A tentative deal to buy his third New York newspaper would tighten Rupert Murdoch’s grip on American news media.",
+      "lead_paragraph": "Rupert Murdoch is moving to tighten his already-imposing grip on American news media, striking a tentative deal to buy his third New York-based paper, Newsday, and getting his first chance to appoint the top editor of The Wall Street Journal, after the resignation of the editor on Tuesday.",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/04/23/business/media/23paper.html",
+      "byline": "By Richard Pérez-Peña and Tim Arango"
+    },
+    {
+      "headline": "Insurer Says Economy Has Dented Its Prospects",
+      "snippet": "The UnitedHealth Group posted lower-than-expected first-quarter earnings and sharply reduced its outlook for 2008, saying fewer businesses and employees were signing up.",
+      "abstract": "The UnitedHealth Group posted lower-than-expected first-quarter earnings and sharply reduced its outlook for 2008, saying fewer businesses and employees were signing up.",
+      "lead_paragraph": "It is never a good thing if many of your customers can no longer afford what you are selling. ",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/04/23/business/23health.html",
+      "byline": "By Reed Abelson"
+    },
+    {
+      "headline": "The Bruising Will Go On for the Party, Too",
+      "snippet": "Pennsylvania may not alter the basic dynamics of the race, but it makes clear that the contest will continue.",
+      "abstract": "Pennsylvania may not alter the basic dynamics of the race, but it makes clear that the contest will continue.",
+      "lead_paragraph": "For better or worse  and many Democrats fear it is for worse  the race goes on.",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/04/23/us/politics/23assess.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Weighing a McCain Economist",
+      "snippet": "Putting a question to Senator John McCain’s economic adviser, Douglas Holtz-Eakin: Are there any fiscal conservatives anymore?",
+      "abstract": "Putting a question to Senator John McCain’s economic adviser, Douglas Holtz-Eakin: Are there any fiscal conservatives anymore?",
+      "lead_paragraph": "ARLINGTON, Va.  When Douglas Holtz-Eakin took over in 2003 as the director of the Congressional Budget Office  the nation’s bean counter in chief  he walked right into a firestorm. ",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/04/23/business/23leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Clinton Clearly Outduels Obama in Pennsylvania",
+      "snippet": "Hillary Rodham Clinton’s win over Barack Obama in the primary gives her a boost as she struggles to raise money.",
+      "abstract": "Hillary Rodham Clinton’s win over Barack Obama in the primary gives her a boost as she struggles to raise money.",
+      "lead_paragraph": " Senator Hillary Rodham Clinton scored a decisive victory over Senator Barack Obama on Tuesday in the Pennsylvania primary, giving her candidacy a critical boost as she struggles to raise money and persuade party leaders to let the Democratic nominating fight go on.",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/04/23/us/politics/23penn.html",
+      "byline": "By Patrick Healy"
+    },
+    {
+      "headline": "Congress Near Deal on Genetic Test Bias Bill",
+      "snippet": "Lawmakers are close to an agreement to clear the way for a bill prohibiting employers and insurers from discriminating on the basis of genetic tests.",
+      "abstract": "Lawmakers are close to an agreement to clear the way for a bill prohibiting employers and insurers from discriminating on the basis of genetic tests.",
+      "lead_paragraph": "Congress reached an agreement clearing the way for a bill to prohibit discrimination by employers and health insurers on the basis of genetic tests. ",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/04/23/business/23gene.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Inmate Count in U.S. Dwarfs Other Nations’",
+      "snippet": "The U.S. has less than 5 percent of the world’s population but almost a quarter of its prisoners.",
+      "abstract": "The U.S. has less than 5 percent of the world’s population but almost a quarter of its prisoners.",
+      "lead_paragraph": "The United States has less than 5 percent of the world’s population. But it has almost a quarter of the world’s prisoners.",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/04/23/us/23prison.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Murdoch Taking on F.C.C. Media Rule",
+      "snippet": "Rupert Murdoch’s plan to add Newsday to his stable of New York media properties may run up against rules on media ownership.",
+      "abstract": "Rupert Murdoch’s plan to add Newsday to his stable of New York media properties may run up against rules on media ownership.",
+      "lead_paragraph": "WASHINGTON  As he nears completion of a deal to acquire Newsday from the Tribune Company, Rupert Murdoch appears likely to pose the first significant challenge to the media ownership rule that the Federal Communications Commission recently adopted.",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/04/23/business/media/23ownership.html",
+      "byline": "By Stephen Labaton"
+    },
+    {
+      "headline": "Making Money, the How-To Way",
+      "snippet": "Online instructional videos — even for such arcane tasks as turning flashlights into lasers — are proving extraordinarily popular and lucrative.",
+      "abstract": "Online instructional videos — even for such arcane tasks as turning flashlights into lasers — are proving extraordinarily popular and lucrative.",
+      "lead_paragraph": "Learning how to turn a flashlight into a laser is not a top priority for most people. Yet Kip Kedersha’s step-by-step instructional video that teaches how to do just that has been seen online by more people (1.88 million) than live in Manhattan (about 1.6 million). ",
+      "publication_date": "2008-04-23T04:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/04/23/technology/23howto.html",
+      "byline": "By Miguel Helft"
+    }
+  ]
+}

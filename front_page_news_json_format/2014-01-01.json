@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2014-01-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "House Prices Rise Again, but the Pace Could Slow",
+      "snippet": "Home prices have risen steadily since the spring of 2012, but are now slowing a bit. The Fed’s coming taper, and how it affects mortgage rates, may contribute to that, economists say.",
+      "abstract": "Home prices have risen steadily since the spring of 2012, but are now slowing a bit. The Fed’s coming taper, and how it affects mortgage rates, may contribute to that, economists say.",
+      "lead_paragraph": "WASHINGTON — It was a great year for the stock market. And it was also a pretty good year for many people’s biggest investment: their homes.",
+      "publication_date": "2014-01-01T00:01:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/01/business/economy/house-prices-rise-again-but-the-pace-could-slow.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "For Stocks, an Amazingly Good Year",
+      "snippet": "Despite turbulence in Washington, China and Europe, which threatened to pull the world into another recession, stock prices just kept rising in 2013.",
+      "abstract": "Despite turbulence in Washington, China and Europe, which threatened to pull the world into another recession, stock prices just kept rising in 2013.",
+      "lead_paragraph": "It was the market rally that defied gravity and left many with a case of vertigo.",
+      "publication_date": "2014-01-01T00:55:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/12/31/for-stocks-an-amazingly-good-year/",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Power Curbed, Detroit Mayor Faces Big Job",
+      "snippet": "Mike Duggan must share power with an appointed emergency manager and confront vexing questions about the future of a city that has been losing population for decades.",
+      "abstract": "Mike Duggan must share power with an appointed emergency manager and confront vexing questions about the future of a city that has been losing population for decades.",
+      "lead_paragraph": "DETROIT — For some who have been around this city the longest, expectations for a new mayor have by now become understandably low: Turn some streetlights on. Do not get indicted. Wait for the lawyers to get Detroit out of bankruptcy.",
+      "publication_date": "2014-01-01T01:23:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/01/us/power-curbed-detroit-mayor-faces-big-job.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "Millions Gaining Health Coverage Under Law",
+      "snippet": "The new moment will test the health law’s central premise — that extending coverage to far more Americans will improve the nation’s health and help many avoid crippling medical bills.",
+      "abstract": "The new moment will test the health law’s central premise — that extending coverage to far more Americans will improve the nation’s health and help many avoid crippling medical bills.",
+      "lead_paragraph": "WASHINGTON — Millions of Americans will begin receiving health insurance coverage under the Affordable Care Act on Wednesday after years of contention and a rollout hobbled by delays and technical problems. The decisively new moment in the effort to overhaul the country’s health care system will test the law’s central premise: that extending coverage to far more Americans will improve the nation’s health and help many avoid crippling medical bills.",
+      "publication_date": "2014-01-01T01:43:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/01/us/politics/millions-gaining-health-coverage-under-law.html",
+      "byline": "By Robert Pear and Abby Goodnough"
+    },
+    {
+      "headline": "Old Rivalries Reignited a Fuse in South Sudan",
+      "snippet": "The conflict in South Sudan is rooted partly in a failure to achieve a lasting reconciliation between rival factions when the country was created in 2011.",
+      "abstract": "The conflict in South Sudan is rooted partly in a failure to achieve a lasting reconciliation between rival factions when the country was created in 2011.",
+      "lead_paragraph": "JUBA, South Sudan — Few moments conjure as much fear in South Sudan as the massacre of Bor.",
+      "publication_date": "2014-01-01T02:08:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/01/world/africa/old-rivalries-reignited-a-fuse-in-south-sudan.html",
+      "byline": "By Nicholas Kulish"
+    },
+    {
+      "headline": "Up Early and in Line for a Marijuana Milestone in Colorado",
+      "snippet": "Hundreds of tourists and residents across Colorado eagerly took part in the country’s first-ever sales of state-regulated recreational marijuana.",
+      "abstract": "Hundreds of tourists and residents across Colorado eagerly took part in the country’s first-ever sales of state-regulated recreational marijuana.",
+      "lead_paragraph": "DENVER — They lined up before dawn and in the snow on Wednesday, baby boomers from Nebraska, retirees from Denver and a young man who had driven all day from Ohio. Some were longtime marijuana users. Some had been arrested for marijuana possession.",
+      "publication_date": "2014-01-01T15:30:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/02/us/colorado-stores-throw-open-their-doors-to-pot-buyers.html",
+      "byline": "By Jack Healy"
+    }
+  ]
+}

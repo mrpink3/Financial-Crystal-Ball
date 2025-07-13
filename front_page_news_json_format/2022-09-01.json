@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2022-09-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "The Pandemic Erased Two Decades of Progress in Math and Reading",
+      "snippet": "The results of a national test showed just how devastating the last two years have been for 9-year-old schoolchildren, especially the most vulnerable.",
+      "abstract": "The results of a national test showed just how devastating the last two years have been for 9-year-old schoolchildren, especially the most vulnerable.",
+      "lead_paragraph": "National test results released on Thursday showed in stark terms the pandemic’s devastating effects on American schoolchildren, with the performance of 9-year-olds in math and reading dropping to the levels from two decades ago. ",
+      "publication_date": "2022-09-01T04:01:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/01/us/national-test-scores-math-reading-pandemic.html",
+      "byline": "By Sarah Mervosh"
+    },
+    {
+      "headline": "Biden Warns That American Values Are Under Assault by Trump-Led Extremism",
+      "snippet": "In a prime-time speech in Philadelphia, President Biden cast the midterm elections as a choice between his agenda and the extremism of “MAGA Republicans.”",
+      "abstract": "In a prime-time speech in Philadelphia, President Biden cast the midterm elections as a choice between his agenda and the extremism of “MAGA Republicans.”",
+      "lead_paragraph": "PHILADELPHIA — President Biden traveled to Independence Hall on Thursday to warn that America's democratic values are under assault by forces of extremism loyal to former President Donald J. Trump, using a prime-time address to define the midterm elections as a “battle for the soul of this nation.”",
+      "publication_date": "2022-09-01T09:00:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/01/us/politics/biden-speech-trump-maga.html",
+      "byline": "By Zolan Kanno-Youngs and Michael D. Shear"
+    },
+    {
+      "headline": "An Apple Watch for Your 5-Year-Old? More Parents Say Yes.",
+      "snippet": "As Apple prepares to unveil new models next week, the smart watch has found an unexpected audience: children as young as 5.",
+      "abstract": "As Apple prepares to unveil new models next week, the smart watch has found an unexpected audience: children as young as 5.",
+      "lead_paragraph": "Florian Fangohr waffled for about a year over whether to buy an Apple Watch SE as a gift. The smart watch cost $279, and he worried that its recipient would immediately break or lose it. In May, he decided the benefits outweighed the costs and bought the gadget.",
+      "publication_date": "2022-09-01T09:01:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/01/technology/apple-watch-children-kids.html",
+      "byline": "By Kalley Huang and Brian X. Chen"
+    },
+    {
+      "headline": "Portugal Could Hold an Answer for a Europe Captive to Russian Gas",
+      "snippet": "Long cut off from the continent’s grid, Portugal and Spain built a system based on imports and alternatives like solar that is the envy of fellow European Union nations.",
+      "abstract": "Long cut off from the continent’s grid, Portugal and Spain built a system based on imports and alternatives like solar that is the envy of fellow European Union nations.",
+      "lead_paragraph": "Portugal has no coal mines, oil wells or gas fields. Its impressive hydropower production has been crippled this year by drought. And its long-running disconnect from the rest of Europe’s energy network has earned the country its status as an “energy island.”",
+      "publication_date": "2022-09-01T09:01:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/01/business/economy/portugal-russia-natural-gas.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Tech Companies Slowly Shift Production Away From China",
+      "snippet": "Worried about geopolitical tensions and stung by pandemic shutdowns, Google, Apple and others are moving some work to nearby countries.",
+      "abstract": "Worried about geopolitical tensions and stung by pandemic shutdowns, Google, Apple and others are moving some work to nearby countries.",
+      "lead_paragraph": "In the coming weeks, Apple and Google will unveil their latest generation of smartphones, jockeying to distinguish the new devices from previous models. But one of the most significant changes will go largely unnoticed by consumers: Some of these phones will not be made in China.",
+      "publication_date": "2022-09-01T09:01:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/01/business/tech-companies-china.html",
+      "byline": "By Daisuke Wakabayashi and Tripp Mickle"
+    }
+  ]
+}

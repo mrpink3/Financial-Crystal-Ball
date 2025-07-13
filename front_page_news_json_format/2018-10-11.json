@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-10-11",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Stocks Plunge, as Fresh Tensions With China Batter Tech Shares",
+      "snippet": "A slide in technology shares dragged down major stock indexes on Wall Street as investors continued to digest rising interest rates.",
+      "abstract": "A slide in technology shares dragged down major stock indexes on Wall Street as investors continued to digest rising interest rates.",
+      "lead_paragraph": "Stocks suffered their steepest drop in eight months on Wednesday, as rising interest rates gnawed at investors and as previously high-flying technology shares tumbled in the face of growing tensions with China.",
+      "publication_date": "2018-10-10T18:40:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/10/business/stock-market-tumbles-yields-rise.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Chinese Officer Is Extradited to U.S. to Face Charges of Economic Espionage",
+      "snippet": "The Chinese intelligence official was arrested in Belgium and brought to the United States, an escalation of the Trump administration’s effort to crack down on Chinese spying.",
+      "abstract": "The Chinese intelligence official was arrested in Belgium and brought to the United States, an escalation of the Trump administration’s effort to crack down on Chinese spying.",
+      "lead_paragraph": "WASHINGTON — A Chinese intelligence official was arrested in Belgium and extradited to the United States to face espionage charges, Justice Department officials said on Wednesday, a major escalation of the Trump administration’s effort to crack down on Chinese spying.",
+      "publication_date": "2018-10-10T19:03:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/10/us/politics/china-spy-espionage-arrest.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Hurricane Michael Leaves Trail of Destruction as It Slams Florida’s Panhandle",
+      "snippet": "Residents and emergency workers spent most of the day hunkered down, only emerging after nightfall to begin assessing the Category 4 storm’s toll.",
+      "abstract": "Residents and emergency workers spent most of the day hunkered down, only emerging after nightfall to begin assessing the Category 4 storm’s toll.",
+      "lead_paragraph": "PANAMA CITY, Fla. — Hurricane Michael, one of the most powerful storms ever to hit the continental United States, slammed into the Florida Panhandle on Wednesday, unleashing a trail of destruction across 200 miles that splintered houses, peeled off roofs and stirred up a terrifying surge of seawater that submerged entire neighborhoods and sent boats careening down city streets.",
+      "publication_date": "2018-10-11T00:40:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/10/us/hurricane-michael-florida.html",
+      "byline": "By Richard Fausset, Alan Blinder and Patricia Mazzei"
+    },
+    {
+      "headline": "Former Top F.B.I. Lawyer Says Rosenstein Was Serious About Taping Trump",
+      "snippet": "Congressional testimony by James A. Baker, then the bureau’s general counsel, shows that F.B.I. leaders weighed the ramifications of Rod J. Rosenstein’s suggestion before rejecting it.",
+      "abstract": "Congressional testimony by James A. Baker, then the bureau’s general counsel, shows that F.B.I. leaders weighed the ramifications of Rod J. Rosenstein’s suggestion before rejecting it.",
+      "lead_paragraph": "WASHINGTON — The F.B.I.’s former top lawyer told congressional officials in private testimony last week that he had taken seriously a suggestion by the deputy attorney general, Rod J. Rosenstein, to secretly tape conversations with President Trump but viewed it as too risky and unlikely to deliver meaningful information.",
+      "publication_date": "2018-10-11T00:45:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/10/us/politics/james-baker-rosenstein-secretly-taping-trump.html",
+      "byline": "By Nicholas Fandos and Adam Goldman"
+    },
+    {
+      "headline": "Khashoggi’s Disappearance Puts Kushner’s Bet on Saudi Crown Prince at Risk",
+      "snippet": "More than anyone in the Trump administration, Jared Kushner cultivated Saudi Arabia’s crown prince, Mohammed bin Salman, whose family may have played a role in Jamal Khashoggi’s fate.",
+      "abstract": "More than anyone in the Trump administration, Jared Kushner cultivated Saudi Arabia’s crown prince, Mohammed bin Salman, whose family may have played a role in Jamal Khashoggi’s fate.",
+      "lead_paragraph": "WASHINGTON — For President Trump, who has made Saudi Arabia the fulcrum of his Middle East policy, the possible murder of a Saudi journalist in Turkey is a looming diplomatic crisis. For Mr. Trump’s son-in-law, Jared Kushner, it is a personal reckoning.",
+      "publication_date": "2018-10-11T01:25:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/10/us/politics/jamal-khashoggi-disappearance-kushner.html",
+      "byline": "By Mark Landler, Edward Wong and Eric Schmitt"
+    },
+    {
+      "headline": "Wall St. Extends Drop Into Sixth Day, Setting Stage for Another Awful October",
+      "snippet": "American stock markets briefly stabilized early Thursday, as a report showing muted inflation helped send bond yields lower. By late morning, stocks were falling again.",
+      "abstract": "American stock markets briefly stabilized early Thursday, as a report showing muted inflation helped send bond yields lower. By late morning, stocks were falling again.",
+      "lead_paragraph": "October is living up to its ominous reputation among stock investors.",
+      "publication_date": "2018-10-11T05:08:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/11/business/stock-market-global.html",
+      "byline": "By Matt Phillips, Alexandra Stevenson and Jack Ewing"
+    },
+    {
+      "headline": "Interest Rates Are Rising for All the Right Reasons",
+      "snippet": "Here’s what the bond market is really telling us about the economic future.",
+      "abstract": "Here’s what the bond market is really telling us about the economic future.",
+      "lead_paragraph": "The cost to borrow money is on the rise. That is bad news for home buyers and other prospective borrowers. It helped cause a stock market sell-off on Wednesday and Thursday, and prompted President Trump to say that the Federal Reserve has “gone crazy.”",
+      "publication_date": "2018-10-11T09:00:02+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/10/11/upshot/interest-rates-are-rising-thats-great-news-for-most.html",
+      "byline": "By Neil Irwin"
+    }
+  ]
+}

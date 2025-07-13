@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-02-24",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Ozy Media’s Founder, Carlos Watson, Arrested on Fraud Charges",
+      "snippet": "Mr. Watson had founded the troubled digital-media start-up Ozy, which unraveled after The New York Times examined its business practices.",
+      "abstract": "Mr. Watson had founded the troubled digital-media start-up Ozy, which unraveled after The New York Times examined its business practices.",
+      "lead_paragraph": "Carlos Watson, the founder of the troubled digital start-up Ozy Media, was arrested on Thursday and charged with multiple counts of fraud, punctuating one of the more precipitous falls in the annals of online journalism.",
+      "publication_date": "2023-02-23T16:04:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/23/business/carlos-watson-ozy-arrested.html",
+      "byline": "By Benjamin Mullin, Katie Robertson and Ben Protess"
+    },
+    {
+      "headline": "‘Woodstock’ for Christians: Revival Draws Thousands to Kentucky Town",
+      "snippet": "Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation’s first major spiritual revival in decades — one driven by Gen Z.",
+      "abstract": "Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation’s first major spiritual revival in decades — one driven by Gen Z.",
+      "lead_paragraph": "WILMORE, Ky. — Jennifer Palmer told her boss on Thursday morning that she had to leave work, and drove 11 hours straight from Jacksonville, Fla., to get here.",
+      "publication_date": "2023-02-23T21:46:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/23/us/kentucky-revival-asbury-university.html",
+      "byline": "By Ruth Graham and Jesse Barber"
+    },
+    {
+      "headline": "In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories",
+      "snippet": "The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.",
+      "abstract": "The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.",
+      "lead_paragraph": "To Democrats, the train derailment and chemical leak in the hamlet of East Palestine, Ohio, is a story of logic, action and consequences: Rail safety regulations put in place by the Obama administration were intended to prevent just such accidents. The Trump administration gutted them.",
+      "publication_date": "2023-02-23T22:55:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/23/us/politics/east-palestine-politics.html",
+      "byline": "By Jonathan Weisman"
+    },
+    {
+      "headline": "Shattered Homes and Lurking Disease: Quake Hardships Pile Up",
+      "snippet": "Hundreds of thousands are sheltering in tents, breathing air thick with pollutants unleashed from tombs of rubble, fearful that a new disaster could strike at any moment.",
+      "abstract": "Hundreds of thousands are sheltering in tents, breathing air thick with pollutants unleashed from tombs of rubble, fearful that a new disaster could strike at any moment.",
+      "lead_paragraph": "After powerful earthquakes struck southern Turkey, Eylem Sahutoglu and her family endured two weeks of freezing nights under a blue tarpaulin. Then word came from government engineers who had inspected their building: They could return home.",
+      "publication_date": "2023-02-24T05:01:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/24/world/europe/turkey-earthquake-hardships.html",
+      "byline": "By Cora Engelbrecht and Nimet Kirac"
+    },
+    {
+      "headline": "‘It’s Complicated’: How Biden and Zelensky Forged a Wartime Partnership",
+      "snippet": "The relationship between the two leaders has become critical to the future of the international order.",
+      "abstract": "The relationship between the two leaders has become critical to the future of the international order.",
+      "lead_paragraph": "WASHINGTON — After Russia invaded Ukraine last year, President Biden reflected privately on his long-distance conversations with President Volodymyr Zelensky. He did not know the man well — and might never get to. It was chilling, several people remember him observing grimly, to think that he might be talking with a dead man.",
+      "publication_date": "2023-02-24T08:00:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/24/us/politics/biden-zelensky-ukraine-russia.html",
+      "byline": "By Peter Baker and Andrew E. Kramer"
+    },
+    {
+      "headline": "The E.S.G. Fight Has Come to This: Bankers Suing Lawyers",
+      "snippet": "Kentucky passed a law targeting banks and their climate policies. Bankers sued the attorney general. Whose definition of investment risk should prevail?",
+      "abstract": "Kentucky passed a law targeting banks and their climate policies. Bankers sued the attorney general. Whose definition of investment risk should prevail?",
+      "lead_paragraph": "Bow-tied bankers do not often sue a state’s lawyer in chief. So when it does happen, it’s time to pop the popcorn and gather around to watch.",
+      "publication_date": "2023-02-24T10:00:23+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/24/your-money/anti-esg-investing-kentucky.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "The Fed’s Preferred Inflation Gauge Sped Back Up",
+      "snippet": "Inflation is down from its peak last summer, but recent readings have shown substantial and surprising staying power.",
+      "abstract": "Inflation is down from its peak last summer, but recent readings have shown substantial and surprising staying power.",
+      "lead_paragraph": "There was a moment, late last year, when everything seemed to be going according to the Federal Reserve’s plan: Inflation was slowing, consumers were pulling back and the overheated economy was gently cooling down.",
+      "publication_date": "2023-02-24T13:39:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/24/business/economy/inflation-spending-fed.html",
+      "byline": "By Jeanna Smialek and Ben Casselman"
+    }
+  ]
+}

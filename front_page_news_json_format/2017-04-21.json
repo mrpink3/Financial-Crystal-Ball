@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2017-04-21",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Amid Venezuela Protests, G.M. Plant Is Seized, and Company Exits",
+      "snippet": "Street protests, shortages, currency restrictions and the constant threat of government expropriation have left foreign companies planning to leave.",
+      "abstract": "Street protests, shortages, currency restrictions and the constant threat of government expropriation have left foreign companies planning to leave.",
+      "lead_paragraph": "Venezuela was once among the most lucrative markets in Latin America for foreign businesses, a country oozing in oil and blessed with an emerging middle class hungry for everything modern, from new cars to snug-fitting disposable diapers.",
+      "publication_date": "2017-04-20T16:23:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/20/business/venezuela-general-motors-business-protests.html",
+      "byline": "By Clifford Krauss, Nicholas Casey and Bill Vlasic"
+    },
+    {
+      "headline": "Trump Targets Steel Trade, but China Will Be Tough to Contain",
+      "snippet": "Global steel makers blame Chinese rivals for swamping the world with unwanted product, but closing mills there can be expensive and difficult.",
+      "abstract": "Global steel makers blame Chinese rivals for swamping the world with unwanted product, but closing mills there can be expensive and difficult.",
+      "lead_paragraph": "HANGZHOU, China — China’s vast steel industry is a major target of President Trump. But this hulking shell of a mill here shows why China is likely to keep pumping out more and more steel, inflaming trade tensions between the two countries.",
+      "publication_date": "2017-04-20T17:39:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/20/business/trump-targets-steel-trade-but-china-will-be-tough-to-contain.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Bill O’Reilly Payout Could Be as High as $25 Million",
+      "snippet": "With the payment to the dismissed host, 21st Century Fox payouts related to sexual harassment allegations at Fox News now total more than $85 million.",
+      "abstract": "With the payment to the dismissed host, 21st Century Fox payouts related to sexual harassment allegations at Fox News now total more than $85 million.",
+      "lead_paragraph": "The day after Bill O’Reilly was ousted from Fox News, aftershocks rippled through the network, with news of Mr. O’Reilly’s exit package spreading through the newsroom and some employees questioning how committed executives were to rooting out sexual harassment.",
+      "publication_date": "2017-04-20T18:16:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/20/business/media/bill-oreilly-payout.html",
+      "byline": "By Emily Steel and Michael S. Schmidt"
+    },
+    {
+      "headline": "Regulators Accuse Subprime Mortgage Servicer of Years of Abuses",
+      "snippet": "The Consumer Financial Protection Bureau and mortgage regulators from 22 states are moving to limit the operations of Ocwen Financial, which settled a similar set of charges in 2013.",
+      "abstract": "The Consumer Financial Protection Bureau and mortgage regulators from 22 states are moving to limit the operations of Ocwen Financial, which settled a similar set of charges in 2013.",
+      "lead_paragraph": "Federal and state regulators unleashed a fusillade of lawsuits and enforcement orders on Thursday against the Ocwen Financial Corporation, a large mortgage servicer, aimed at curbing what they said had been years of flagrant and repeated abuses, including illegal foreclosures, deceptive fees and extensive mishandling of customers’ home loan payments.",
+      "publication_date": "2017-04-20T19:30:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/20/business/dealbook/subprime-mortgage-servicer-is-accused-of-years-of-abuses.html",
+      "byline": "By Stacy Cowley and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "White House Officials, Craving Progress, Push Revised Health Bill",
+      "snippet": "The measure faces an uncertain fate as Congress also must deal with a far more urgent deadline: a looming government shutdown if a new funding measure is not approved.",
+      "abstract": "The measure faces an uncertain fate as Congress also must deal with a far more urgent deadline: a looming government shutdown if a new funding measure is not approved.",
+      "lead_paragraph": "WASHINGTON — White House officials, desperate to demonstrate progress on President Trump’s promise to repeal the Affordable Care Act, are pushing to resurrect a Republican health care bill before his 100th day in office next week.",
+      "publication_date": "2017-04-20T19:42:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/20/us/politics/affordable-care-act-house-republicans-trump.html",
+      "byline": "By Matt Flegenheimer and Reed Abelson"
+    },
+    {
+      "headline": "Paris Shootout Leaves Police Officer and Gunman Dead",
+      "snippet": "The police shut down the Champs-Élysées after a shootout between officers and an attacker days before France holds the first round of its presidential election.",
+      "abstract": "The police shut down the Champs-Élysées after a shootout between officers and an attacker days before France holds the first round of its presidential election.",
+      "lead_paragraph": "PARIS — A gunman wielding an assault rifle on Thursday night killed a police officer on the city’s most iconic boulevard, the Champs-Élysées, stirring France’s worst fears of a terrorist attack, which could tip voting in a hotly contested presidential election that starts on Sunday.",
+      "publication_date": "2017-04-20T19:54:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/20/world/europe/paris-champs-elysees-shooting.html",
+      "byline": "By Alissa J. Rubin, Aurelien Breeden and Benoît Morenne"
+    },
+    {
+      "headline": "Trump Roars Again on Trade, Reviewing Steel and Chiding Canada",
+      "snippet": "The president ordered an investigation into steel imports, scoring a victory for his administration’s nationalists in a debate that remains far from settled.",
+      "abstract": "The president ordered an investigation into steel imports, scoring a victory for his administration’s nationalists in a debate that remains far from settled.",
+      "lead_paragraph": "WASHINGTON — President Trump added a new name Thursday to the list of countries he accuses of preying on American workers and exploiting naïve American trade policies: Canada.",
+      "publication_date": "2017-04-21T01:24:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/20/business/trade-canada-trump-steel.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Fears of Revolt by Consumers Felled O’Reilly",
+      "snippet": "Activists who pressured advertisers to pull out of “The O’Reilly Factor” are claiming victory after the Fox News star was dismissed from the network.",
+      "abstract": "Activists who pressured advertisers to pull out of “The O’Reilly Factor” are claiming victory after the Fox News star was dismissed from the network.",
+      "lead_paragraph": "Just weeks ago, “The O’Reilly Factor” was home to at least 30 nationally broadcast commercials each night, with giant sponsors like Mercedes-Benz and Aleve. By last Tuesday, that number had dwindled to 10, mainly small-budget spots for a pain relief cream and a bedding retailer, MyPillow.com.",
+      "publication_date": "2017-04-21T01:32:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/20/business/media/fears-of-revolt-by-consumers-felled-bill-oreilly.html",
+      "byline": "By Michael M. Grynbaum and Sapna Maheshwari"
+    },
+    {
+      "headline": "Affordable Care Act: A Tale of Two States",
+      "snippet": "In Oklahoma, which has raged against the law, insurance premiums are among the nation’s highest. New Mexico, which oversees its marketplace, has some of the lowest.",
+      "abstract": "In Oklahoma, which has raged against the law, insurance premiums are among the nation’s highest. New Mexico, which oversees its marketplace, has some of the lowest.",
+      "lead_paragraph": "BARTLESVILLE, Okla. — When President Trump describes the Affordable Care Act as “imploding,” Lori Roll, an insurance agent here, does not consider it hyperbole.",
+      "publication_date": "2017-04-21T09:00:31+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/04/21/health/how-gop-in-2-states-coaxed-the-health-law-to-success-or-crisis.html",
+      "byline": "By Abby Goodnough and Reed Abelson"
+    },
+    {
+      "headline": "Attack on Champs-Élysées Injects More Uncertainty Into French Vote",
+      "snippet": "The far-right leader Marine Le Pen seized on the brazen assault, but she was not the only presidential candidate who stood to gain ground before voting on Sunday.",
+      "abstract": "The far-right leader Marine Le Pen seized on the brazen assault, but she was not the only presidential candidate who stood to gain ground before voting on Sunday.",
+      "lead_paragraph": "PARIS — It has almost become routine in France: A terrorist attack shatters the rhythms of daily life, bringing bloodshed and anguish. The assailant turns out to be someone known to the authorities.",
+      "publication_date": "2017-04-21T10:14:02+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/21/world/europe/paris-champs-elysees-gunman.html",
+      "byline": "By Adam Nossiter"
+    },
+    {
+      "headline": "Scandal Again Hovers Over Murdoch’s Pursuit of Sky as U.K. Delays Review",
+      "snippet": "The examination, to consider whether the Murdoch family would gain too much control over Britain’s media landscape, was delayed until after the June elections.",
+      "abstract": "The examination, to consider whether the Murdoch family would gain too much control over Britain’s media landscape, was delayed until after the June elections.",
+      "lead_paragraph": "LONDON — Sky, the British satellite television giant, has been a most elusive crown jewel for the Murdoch family.",
+      "publication_date": "2017-04-21T14:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/21/business/dealbook/sky-fox-murdoch.html",
+      "byline": "By Danny Hakim and Stephen Castle"
+    }
+  ]
+}

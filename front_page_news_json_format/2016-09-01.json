@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2016-09-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "A Silicon Valley Dream Collapses in Allegations of Fraud",
+      "snippet": "The disintegration of WrkRiot has gripped Silicon Valley, though it is a familiar tale to many who arrive with the dream of creating the next tech juggernaut.",
+      "abstract": "The disintegration of WrkRiot has gripped Silicon Valley, though it is a familiar tale to many who arrive with the dream of creating the next tech juggernaut.",
+      "lead_paragraph": "SAN FRANCISCO — Like so many bright, young entrepreneurs these days, Isaac Choi arrived here last year, set up shop and promised employees that he would lead them to the Silicon Valley dream.",
+      "publication_date": "2016-09-01T00:12:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/01/technology/a-silicon-valley-dream-collapses-in-allegations-of-fraud.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Trailing Hillary Clinton, Donald Trump Turns to Political Gymnastics",
+      "snippet": "Mr. Trump is trying to avoid discussion of his former campaign pledges without renouncing them, and to make conciliatory gestures without withdrawing offensive remarks.",
+      "abstract": "Mr. Trump is trying to avoid discussion of his former campaign pledges without renouncing them, and to make conciliatory gestures without withdrawing offensive remarks.",
+      "lead_paragraph": "Donald J. Trump’s campaign was teetering early last month, with an increasingly isolated candidate and a downcast staff that seemed to lurch from crisis to crisis. Having fired his campaign chairman and retooled his message, Mr. Trump was still far behind Hillary Clinton in the polls, and Republicans were running away from him.",
+      "publication_date": "2016-09-01T04:37:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/01/us/politics/trump-campaign.html",
+      "byline": "By Alexander Burns and Maggie Haberman"
+    },
+    {
+      "headline": "How Tech Giants Are Devising Real Ethics for Artificial Intelligence",
+      "snippet": "Four people involved in the creation of an industry partnership say its intent will be clear: to ensure that A.I. research is focused on things that will benefit people, not hurt them.",
+      "abstract": "Four people involved in the creation of an industry partnership say its intent will be clear: to ensure that A.I. research is focused on things that will benefit people, not hurt them.",
+      "lead_paragraph": "SAN FRANCISCO — For years, science-fiction moviemakers have been making us fear the bad things that artificially intelligent machines might do to their human creators. But for the next decade or two, our biggest concern is more likely to be that robots will take away our jobs or bump into us on the highway.",
+      "publication_date": "2016-09-01T07:01:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Georgetown University Plans Steps to Atone for Slave Past",
+      "snippet": "The school, which in 1838 profited from the sale of 272 slaves, plans to award preferential status in the admissions process to descendants of slaves.",
+      "abstract": "The school, which in 1838 profited from the sale of 272 slaves, plans to award preferential status in the admissions process to descendants of slaves.",
+      "lead_paragraph": "WASHINGTON — Nearly two centuries after Georgetown University profited from the sale of 272 slaves, it will embark on a series of steps to atone for the past, including awarding preferential status in the admissions process to descendants of the enslaved, university officials said Thursday.",
+      "publication_date": "2016-09-01T12:00:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/02/us/slaves-georgetown-university.html",
+      "byline": "By Rachel L. Swarns"
+    },
+    {
+      "headline": "If Trump Gets His Way, Real Estate Will Get Even More Tax Breaks",
+      "snippet": "A proposal to shave the tax rate on business income would also help out hedge funds and private equity shops.",
+      "abstract": "A proposal to shave the tax rate on business income would also help out hedge funds and private equity shops.",
+      "lead_paragraph": "It’s hard to imagine a tax code more favorable to real estate developers than the one we already have.",
+      "publication_date": "2016-09-01T15:01:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/02/business/economy/if-trump-gets-his-way-real-estate-will-get-even-more-tax-breaks.html",
+      "byline": "By James B. Stewart"
+    }
+  ]
+}

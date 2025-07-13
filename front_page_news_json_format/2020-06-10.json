@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-06-10",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "The Stark Racial Inequity of Personal Finances in America",
+      "snippet": "Economic equality is crucial to racial equality. But at nearly every stage of their lives, black Americans have less than whites.",
+      "abstract": "Economic equality is crucial to racial equality. But at nearly every stage of their lives, black Americans have less than whites.",
+      "lead_paragraph": "We cannot quantify the injustice of a white policeman holding his knee on the neck of a handcuffed, dying black man. And mere numbers cannot fully express the power imbalance involved in the deaths of George Floyd and too many others like him.",
+      "publication_date": "2020-06-09T18:15:05+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/09/your-money/race-income-equality.html",
+      "byline": "By Ron Lieber and Tara Siegel Bernard"
+    },
+    {
+      "headline": "‘I Refuse Not to Be Heard’: Georgia in Uproar Over Voting Meltdown",
+      "snippet": "Long lines and malfunctioning voting machines marred statewide primary elections in Georgia, renewing attention on voting rights there.",
+      "abstract": "Long lines and malfunctioning voting machines marred statewide primary elections in Georgia, renewing attention on voting rights there.",
+      "lead_paragraph": "[Update: Jon Ossoff holds strong lead as Georgia waits for primary results.]",
+      "publication_date": "2020-06-09T19:12:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/09/us/politics/atlanta-voting-georgia-primary.html",
+      "byline": "By Richard Fausset, Reid J. Epstein and Rick Rojas"
+    },
+    {
+      "headline": "Houston Bids Goodbye to George Floyd, Whose Killing Galvanized a Movement",
+      "snippet": "The funeral served as both a national reckoning and a moment of personal mourning. The Rev. Al Sharpton demanded more action against police brutality.",
+      "abstract": "The funeral served as both a national reckoning and a moment of personal mourning. The Rev. Al Sharpton demanded more action against police brutality.",
+      "lead_paragraph": "HOUSTON — George Floyd died at the hands of police officers in Minneapolis. A thousand miles to the south, in the Texas city where he was raised, two rows of police officers saluted as his coffin went past.",
+      "publication_date": "2020-06-09T21:30:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/09/us/george-floyd-funeral-houston-unrest.html",
+      "byline": "By Manny Fernandez and Patricia Mazzei"
+    },
+    {
+      "headline": "G.O.P. Scrambles to Respond to Public Demands for Police Overhaul",
+      "snippet": "Republicans have been startled by the extent to which public opinion has shifted in recent days after the killings of unarmed black Americans by the police and the protests that have followed.",
+      "abstract": "Republicans have been startled by the extent to which public opinion has shifted in recent days after the killings of unarmed black Americans by the police and the protests that have followed.",
+      "lead_paragraph": "WASHINGTON — Congressional Republicans, caught flat-footed by an election-year groundswell of public support for overhauling policing in America to address systemic racism, are struggling to coalesce around a legislative response.",
+      "publication_date": "2020-06-10T00:03:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/09/us/politics/republicans-police-reform.html",
+      "byline": "By Catie Edmondson and Nicholas Fandos"
+    },
+    {
+      "headline": "Threat of Military Action Rattles Brazil as Virus Deaths Surge",
+      "snippet": "As Brazil reels from its worst crisis in decades, President Bolsonaro and his allies are using the prospect of military intervention to protect his grip on power.",
+      "abstract": "As Brazil reels from its worst crisis in decades, President Bolsonaro and his allies are using the prospect of military intervention to protect his grip on power.",
+      "lead_paragraph": "[Read more on Brazil’s Coronavirus cases and deaths.]",
+      "publication_date": "2020-06-10T05:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/06/10/world/americas/bolsonaro-coup-coronavirus-brazil.html",
+      "byline": "By Simon Romero, Letícia Casado and Manuela Andreoni"
+    },
+    {
+      "headline": "Farewell to Gummy Bear Jars: Tech Offices Get a Virus Safety Makeover",
+      "snippet": "Companies like Salesforce created workplaces with all the comforts of home. But now they may feel more like hospitals.",
+      "abstract": "Companies like Salesforce created workplaces with all the comforts of home. But now they may feel more like hospitals.",
+      "lead_paragraph": "When employees at Salesforce, the cloud software giant based in San Francisco, eventually return to their office towers, they may find that the fun is gone from their famously fun-loving workplaces.",
+      "publication_date": "2020-06-10T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/10/technology/salesforce-tech-office-coronavirus.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "$130 Billion in Small-Business Aid Still Hasn’t Been Used",
+      "snippet": "Owners are becoming reluctant to borrow from the federal Paycheck Protection Program. Some are even returning money.",
+      "abstract": "Owners are becoming reluctant to borrow from the federal Paycheck Protection Program. Some are even returning money.",
+      "lead_paragraph": "In April, when the federal government offered $349 billion in loans to small businesses reeling from government shutdown orders in the pandemic, the funding ran out in just 13 days, prompting Congress to swiftly approve a second round of $310 billion.",
+      "publication_date": "2020-06-10T12:51:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/06/10/business/Small-business-loans-ppp.html",
+      "byline": "By Stacy Cowley"
+    }
+  ]
+}

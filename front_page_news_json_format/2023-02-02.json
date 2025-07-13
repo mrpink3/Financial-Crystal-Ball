@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-02-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Meet the Women Trying to Avoid a Spending Train Wreck in Congress",
+      "snippet": "For the first time, the leaders of the House and Senate Appropriations Committees are all women, as is the top White House budget official. Can they avert a fiscal disaster? They’re determined to try.",
+      "abstract": "For the first time, the leaders of the House and Senate Appropriations Committees are all women, as is the top White House budget official. Can they avert a fiscal disaster? They’re determined to try.",
+      "lead_paragraph": "WASHINGTON — Inside a grand committee room in the Capitol on a recent afternoon, Senator Patty Murray paused at the end of the 31-foot conference table to re-enact how, as a rank-and-file lawmaker years ago, she would have to stand up and wave to catch the attention of the men running negotiations from the center of the room.",
+      "publication_date": "2023-02-01T16:30:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/01/us/politics/congress-spending-bills-appropriations-committees.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "The Fed Raises Rates a Quarter Point and Signals More Ahead",
+      "snippet": "America’s central bank has shifted into a new phase, raising rates more slowly as inflation shows signs of moderating.",
+      "abstract": "America’s central bank has shifted into a new phase, raising rates more slowly as inflation shows signs of moderating.",
+      "lead_paragraph": "WASHINGTON — Federal Reserve officials on Wednesday made their eighth interest rate increase in a year and signaled perhaps two more to come as they continue their fight against rapid price gains. But they approved a smaller increase than in the past and acknowledged that inflation had finally started to meaningfully ease.",
+      "publication_date": "2023-02-01T16:30:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/01/business/federal-reserve-interest-rates.html",
+      "byline": "By Jeanna Smialek and Isabella Simonetti"
+    },
+    {
+      "headline": "Self-Driving Car Services Want to Expand in San Francisco Despite Recent Hiccups",
+      "snippet": "Waymo and Cruise hope to widen their projects to more of the city. But local officials are increasingly concerned about breakdowns causing congestion.",
+      "abstract": "Waymo and Cruise hope to widen their projects to more of the city. But local officials are increasingly concerned about breakdowns causing congestion.",
+      "lead_paragraph": "Last week, a self-driving car stopped in the middle of a busy street during the morning rush hour in San Francisco, jamming traffic for nearly two miles. The car, which was operated by Waymo, did not leave the intersection until company technicians arrived about 10 minutes later and manually drove it away.",
+      "publication_date": "2023-02-01T17:05:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Judge Is Said to Let Meta’s Virtual Reality Deal Move Forward",
+      "snippet": "The ruling is a defeat for the Federal Trade Commission, which used a rare antitrust argument to try to block Meta’s acquisition of a small start-up.",
+      "abstract": "The ruling is a defeat for the Federal Trade Commission, which used a rare antitrust argument to try to block Meta’s acquisition of a small start-up.",
+      "lead_paragraph": "A federal judge has rejected the Federal Trade Commission’s request to stop Meta, Facebook’s parent company, from buying a small virtual reality start-up, two people with knowledge of the matter said, signaling that efforts to rein in the tech giants may struggle in courts.",
+      "publication_date": "2023-02-01T18:02:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/01/technology/meta-within-deal-ftc.html",
+      "byline": "By David McCabe and Sheera Frenkel"
+    },
+    {
+      "headline": "Ukraine Fears New Offensive Is Underway as Russia Masses Troops",
+      "snippet": "Russia is massing hundreds of thousands of troops and stepping up its bombardment, perhaps signaling the biggest assault since the start of the war. “I think it has started,” Ukraine’s leader says.",
+      "abstract": "Russia is massing hundreds of thousands of troops and stepping up its bombardment, perhaps signaling the biggest assault since the start of the war. “I think it has started,” Ukraine’s leader says.",
+      "lead_paragraph": "KYIV, Ukraine — Moscow has massed hundreds of thousands of troops in Ukraine and is targeting dozens of places a day in a markedly stepped-up barrage of artillery attacks. Ukrainian forces are struggling to hold their ground on a 140-mile stretch in the east, awaiting tanks, armored vehicles and other weapons systems from the West.",
+      "publication_date": "2023-02-01T20:30:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/01/world/europe/ukraine-russia-offensive.html",
+      "byline": "By Marc Santora and Michael Schwirtz"
+    },
+    {
+      "headline": "A U.S. Ambassador Finds Himself on Hostile Ground in Hungary",
+      "snippet": "David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.",
+      "abstract": "David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.",
+      "lead_paragraph": "BUDAPEST — David Pressman, a gay human rights lawyer, knew he was in for a rough time even before he arrived in Hungary with his husband and two children to take up a new job in September as the United States’ ambassador to Europe’s self-declared citadel of traditional Christian values and friend of the Kremlin.",
+      "publication_date": "2023-02-02T08:00:10+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/02/world/europe/us-ambassador-hungary-david-pressman.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "The Trillion-Dollar Question: Could a Coin Save the Day?",
+      "snippet": "The latest standoff over raising the nation’s debt ceiling is giving new life to an old theory about how to avoid a default.",
+      "abstract": "The latest standoff over raising the nation’s debt ceiling is giving new life to an old theory about how to avoid a default.",
+      "lead_paragraph": "WASHINGTON — The debt limit standoff between Republicans and Democrats has elevated questions about creative solutions for averting a crisis, including one that at first blush might seem unthinkable: Could minting a $1 trillion platinum coin make the whole problem go away?",
+      "publication_date": "2023-02-02T10:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/02/business/trillion-dollar-coin-debt-ceiling.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Falling Mortgage Rates Bring Some Home Buyers Back to Market",
+      "snippet": "The average rate on a 30-year fixed-rate mortgage fell to 6.09 percent this week, the lowest in five months. Buyers are returning, but experts say the state of the economy will drive the market’s next moves.",
+      "abstract": "The average rate on a 30-year fixed-rate mortgage fell to 6.09 percent this week, the lowest in five months. Buyers are returning, but experts say the state of the economy will drive the market’s next moves.",
+      "lead_paragraph": "Earlier in the pandemic, when many urbanites were leaving New York to work remotely in far-flung locations, Molly Parker Wade instead moved from the West Coast to Brooklyn to be closer to her family.",
+      "publication_date": "2023-02-02T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/02/business/mortgage-rates-housing-market.html",
+      "byline": "By Gregory Schmidt"
+    },
+    {
+      "headline": "Forget Pandemic Puppies. Meet the Inflation Chicken.",
+      "snippet": "People are snapping up chickens that are “heavy layers” in response to egg inflation. The chick situation holds lessons about the broader economy.",
+      "abstract": "People are snapping up chickens that are “heavy layers” in response to egg inflation. The chick situation holds lessons about the broader economy.",
+      "lead_paragraph": "Which shortage came first: the chicks or the eggs?",
+      "publication_date": "2023-02-02T10:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/02/business/economy/inflation-chickens-egg-prices.html",
+      "byline": "By Jeanna Smialek and Ana Swanson"
+    },
+    {
+      "headline": "European Central Bank Raises Rates Again but Markets See an End to Escalation",
+      "snippet": "The bank raised rates by half a point and said it expected to do the same in March, but traders are betting there will not be many more increases after that.",
+      "abstract": "The bank raised rates by half a point and said it expected to do the same in March, but traders are betting there will not be many more increases after that.",
+      "lead_paragraph": "The European Central Bank kept up its aggressive efforts to fight inflation on Thursday, raising rates by half a percentage point to the highest since 2008 and all but promising another half-point increase in March.",
+      "publication_date": "2023-02-02T13:22:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/02/business/european-central-bank-interest-rates.html",
+      "byline": "By Eshe Nelson and Melissa Eddy"
+    }
+  ]
+}

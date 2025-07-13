@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-02-25",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Cable News Covers Ukraine With On-the-Ground Reporting and In-Studio Rhetoric",
+      "snippet": "Fox News stars like Tucker Carlson questioned why Americans hated Vladimir Putin, and CNN showed Russian tanks and rockets in live war-zone dispatches.",
+      "abstract": "Fox News stars like Tucker Carlson questioned why Americans hated Vladimir Putin, and CNN showed Russian tanks and rockets in live war-zone dispatches.",
+      "lead_paragraph": "The 24-hour television news cycle took on a new kind of challenge on Thursday: a ground war unfolding in Europe.",
+      "publication_date": "2022-02-24T23:28:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/24/business/media/cnn-fox-news-ukraine-russia.html",
+      "byline": "By Michael M. Grynbaum and Katie Robertson"
+    },
+    {
+      "headline": "Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion",
+      "snippet": "Explosions were reported over Kyiv, the capital. Several countries announced severe new sanctions, as Vladimir Putin remained resolute about his decision to invade.",
+      "abstract": "Explosions were reported over Kyiv, the capital. Several countries announced severe new sanctions, as Vladimir Putin remained resolute about his decision to invade.",
+      "lead_paragraph": "SLOVYANSK, Ukraine — Russia continued its attack on Ukraine early Friday, one day after it invaded the country by land, sea and air, killing more than 100 Ukrainian soldiers and civilians and ominously touching off a pitched battle at the highly radioactive area around the Chernobyl nuclear reactor that melted down in 1986.",
+      "publication_date": "2022-02-25T00:37:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html",
+      "byline": "By Michael Schwirtz, Eric Schmitt and Neil MacFarquhar"
+    },
+    {
+      "headline": "Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine",
+      "snippet": "The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted.",
+      "abstract": "The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted.",
+      "lead_paragraph": "WASHINGTON — President Biden, vowing to turn President Vladimir V. Putin of Russia into a “pariah,” announced tough new sanctions on Thursday aimed at cutting off Russia’s largest banks and some oligarchs from much of the global financial system and preventing the country from importing American technology critical to its defense, aerospace and maritime industries.",
+      "publication_date": "2022-02-25T00:58:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html",
+      "byline": "By Edward Wong, Michael Crowley and Ana Swanson"
+    },
+    {
+      "headline": "Why the Toughest Sanctions on Russia Are the Hardest for Europe to Wield",
+      "snippet": "Moscow relies on the money it makes by selling oil and gas, but that energy fuels Europe’s economy and heats its homes.",
+      "abstract": "Moscow relies on the money it makes by selling oil and gas, but that energy fuels Europe’s economy and heats its homes.",
+      "lead_paragraph": "The punishing sanctions that the United States and European Union have so far announced against Russia for its invasion of Ukraine include shutting the government and banks out of global financial markets, restricting technology exports and freezing assets of influential Russians. Noticeably missing from that list is the one reprisal that would cause Russia the most pain: choking off the export of Russian fuel.",
+      "publication_date": "2022-02-25T08:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/25/business/economy/russia-europe-sanctions-gas-oil.html",
+      "byline": "By Patricia Cohen and Stanley Reed"
+    },
+    {
+      "headline": "A Key Inflation Gauge Is Still Rising, and War Could Make It Worse",
+      "snippet": "The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further.",
+      "abstract": "The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further.",
+      "lead_paragraph": "A measure of inflation that the Federal Reserve watches closely accelerated again in January, hitting a new 40-year high and speeding up on a monthly basis as food and energy prices climbed sharply.",
+      "publication_date": "2022-02-25T10:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/02/25/business/economy/inflation-pce-index.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Biden Picks Ketanji Brown Jackson for Supreme Court",
+      "snippet": "If confirmed, Judge Jackson, who drew the support of three Republicans in the Senate when elevated to a federal appeals court last year, would become the first Black woman on the Supreme Court.",
+      "abstract": "If confirmed, Judge Jackson, who drew the support of three Republicans in the Senate when elevated to a federal appeals court last year, would become the first Black woman on the Supreme Court.",
+      "lead_paragraph": "WASHINGTON — President Biden on Friday said he would nominate Judge Ketanji Brown Jackson to the Supreme Court, elevating a well-regarded federal appeals court judge who, if confirmed, would make history by becoming the first Black woman to serve as a justice.",
+      "publication_date": "2022-02-25T13:52:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/25/us/politics/ketanji-brown-jackson-supreme-court.html",
+      "byline": "By Katie Rogers"
+    },
+    {
+      "headline": "‘Abrupt Changes’: China Caught in a Bind Over Russia’s Invasion of Ukraine",
+      "snippet": "China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position.",
+      "abstract": "China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position.",
+      "lead_paragraph": "As Russian troops have poured into Ukraine, officials in Beijing have fumed at any suggestion that they are betraying a core principle of Chinese foreign policy — that sovereignty is sacrosanct — in order to shield Moscow.",
+      "publication_date": "2022-02-25T13:55:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html",
+      "byline": "By Chris Buckley"
+    }
+  ]
+}

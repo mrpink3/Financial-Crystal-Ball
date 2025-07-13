@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-09-26",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Hollywood’s Focus Turns to Actors After Writers Agree to Deal",
+      "snippet": "The studios and the actors’ union haven’t spoken for more than two months, but a deal is needed before the entertainment industry can fully return.",
+      "abstract": "The studios and the actors’ union haven’t spoken for more than two months, but a deal is needed before the entertainment industry can fully return.",
+      "lead_paragraph": "Hollywood’s actors are back in the spotlight.",
+      "publication_date": "2023-09-25T16:31:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/25/business/media/actors-strike-negotiations.html",
+      "byline": "By John Koblin, Nicole Sperling and Brooks Barnes"
+    },
+    {
+      "headline": "Money for Ukraine at Center of Senate Bid to Avert Shutdown",
+      "snippet": "Senators of both parties are debating whether to include new military assistance for the fight against Russia in any stopgap spending bill to keep the government funded past the end of the month.",
+      "abstract": "Senators of both parties are debating whether to include new military assistance for the fight against Russia in any stopgap spending bill to keep the government funded past the end of the month.",
+      "lead_paragraph": "With the House in chaos over its spending plans, senators of both parties were deep in negotiations on Monday over efforts to head off a government shutdown this weekend through a stopgap measure and whether to include additional aid to Ukraine in the legislation.",
+      "publication_date": "2023-09-25T19:50:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/25/us/politics/senate-shutdown-ukraine.html",
+      "byline": "By Carl Hulse and Catie Edmondson"
+    },
+    {
+      "headline": "In a Blow to Russia, Ukraine Says It Killed Chief of Black Sea Fleet",
+      "snippet": "As they ramp up attacks on occupied Crimea, Ukrainian forces are repeatedly targeting the fleet based there, a key to Russia’s attacks deep into Ukraine and its blockade of Ukrainian ports.",
+      "abstract": "As they ramp up attacks on occupied Crimea, Ukrainian forces are repeatedly targeting the fleet based there, a key to Russia’s attacks deep into Ukraine and its blockade of Ukrainian ports.",
+      "lead_paragraph": "Ukraine’s military claimed on Monday that it had killed the commander of Russia’s Black Sea Fleet in a strike on Crimea — a blow that, if confirmed, would be among the most damaging suffered by the Russian Navy since the sinking of the fleet’s flagship last year.",
+      "publication_date": "2023-09-25T23:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/25/world/europe/ukraine-russia-black-sea-fleet.html",
+      "byline": "By Matthew Mpoke Bigg and Andrew E. Kramer"
+    },
+    {
+      "headline": "When Back to School Means Reliving the Worst Day in Your Life",
+      "snippet": "Eight years ago, Brenda Valenzuela survived a mass shooting. Now she must send her own children to school.",
+      "abstract": "Eight years ago, Brenda Valenzuela survived a mass shooting. Now she must send her own children to school.",
+      "lead_paragraph": "It was the beginning of another school year in America, and Brenda Valenzuela, 37, called her children into the living room to make sure they were prepared. Bella, 15, arrived with a stack of notebooks alphabetized by subject, pencils sorted by color and a binder that read: “High school — magical years!” Caleb, 11, came in wearing one sneaker, dragging a bag of football equipment and carrying a cellphone to which he’d forgotten his password.",
+      "publication_date": "2023-09-26T09:01:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/26/us/school-mass-shootings-trauma.html",
+      "byline": "By Eli Saslow and Erin Schaff"
+    },
+    {
+      "headline": "Biden Joins Autoworkers on Picket Line in Michigan",
+      "snippet": "The president’s trip came a day before former President Donald J. Trump was scheduled to arrive in Michigan, as the two offer dueling messages in a key swing state.",
+      "abstract": "The president’s trip came a day before former President Donald J. Trump was scheduled to arrive in Michigan, as the two offer dueling messages in a key swing state.",
+      "lead_paragraph": "President Biden grabbed a bullhorn and joined striking autoworkers in Michigan on Tuesday, becoming the first sitting president to join a picket line in an extraordinary show of support for workers demanding better wages.",
+      "publication_date": "2023-09-26T09:02:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/26/us/politics/biden-uaw-strike-picket-michigan.html",
+      "byline": "By Katie Rogers and Erica L. Green"
+    },
+    {
+      "headline": "‘Unprecedented’ Secrecy in Google Trial as Tech Giants Push to Limit Disclosures",
+      "snippet": "Efforts to seal testimony have increasingly raised questions as the federal antitrust case enters its third week in court.",
+      "abstract": "Efforts to seal testimony have increasingly raised questions as the federal antitrust case enters its third week in court.",
+      "lead_paragraph": "In a court filing last month, Google argued that it needed its privacy in an antitrust trial that would spotlight its dominance in online search.",
+      "publication_date": "2023-09-26T13:26:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/26/technology/google-antitrust-trial-secrecy.html",
+      "byline": "By Nico Grant, Cecilia Kang and Tripp Mickle"
+    }
+  ]
+}

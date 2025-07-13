@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-05-08",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S. Oil Prices Hit $70 a Barrel for First Time Since ’14",
+      "snippet": "The prospect of an American withdrawal from the Iran nuclear accord led to concerns about new sanctions that could further curtail global supplies.",
+      "abstract": "The prospect of an American withdrawal from the Iran nuclear accord led to concerns about new sanctions that could further curtail global supplies.",
+      "lead_paragraph": "A cutback in world oil output, engineered by some of the biggest producers, has more than doubled prices from their ebb two years ago. Now, a looming decision by President Trump on the Iran nuclear agreement is pushing them even higher.",
+      "publication_date": "2018-05-07T16:47:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/07/business/energy-environment/crude-oil-prices.html",
+      "byline": "By Matt Phillips and Stanley Reed"
+    },
+    {
+      "headline": "Air France Dispute Threatens to Escalate Macron’s Battle With Labor",
+      "snippet": "A call to strike by unions representing Air France employees highlights the widening divide between workers and the French state as President Emmanuel Macron pushes business-friendly changes.",
+      "abstract": "A call to strike by unions representing Air France employees highlights the widening divide between workers and the French state as President Emmanuel Macron pushes business-friendly changes.",
+      "lead_paragraph": "PARIS — In the first year of his presidency, Emmanuel Macron has pushed business-friendly labor laws through Parliament, made it easier for companies to hire and fire, cut the wealth tax and decentralized collective bargaining. Through it all, France’s most militant unions have resisted.",
+      "publication_date": "2018-05-07T19:37:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/07/business/air-france-macron-labor.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Trump Is Expected to Leave Iran Deal, Allies Say",
+      "snippet": "If European diplomats are correct, the announcement will be the most consequential national security decision of President Trump’s 15 months in office.",
+      "abstract": "If European diplomats are correct, the announcement will be the most consequential national security decision of President Trump’s 15 months in office.",
+      "lead_paragraph": "WASHINGTON — President Trump is expected to announce on Tuesday that he is withdrawing the United States from the Iran nuclear deal, European diplomats said after concluding that they had failed to convince him that reneging on America’s commitment to the pact could cast the West into new confrontation with Tehran.",
+      "publication_date": "2018-05-07T20:16:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/07/us/politics/trump-announce-withdraw-us-iran-deal.html",
+      "byline": "By David E. Sanger and Steven Erlanger"
+    },
+    {
+      "headline": "After Fatal Uber Crash, a Self-Driving Start-Up Moves Forward",
+      "snippet": "Drive.ai said it would start a taxi service in Texas. It was the first new rollout of autonomous cars in the United States since one operated by Uber killed a pedestrian in March.",
+      "abstract": "Drive.ai said it would start a taxi service in Texas. It was the first new rollout of autonomous cars in the United States since one operated by Uber killed a pedestrian in March.",
+      "lead_paragraph": "FRISCO, Tex. — On Monday, an orange and blue car with the words “Self-Driving Vehicle” prominently displayed on both sides drove itself through the streets of this rapidly growing city north of Dallas, navigating across four lanes of traffic and around a traffic circle.",
+      "publication_date": "2018-05-07T23:44:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/07/technology/uber-crash-autonomous-driveai.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Elon Musk Wants to Fill Warren Buffett’s ‘Moat’ With Candy, but It Still Holds Water",
+      "snippet": "Mr. Musk is the business world’s gleeful invader, but Mr. Buffett’s mantra of investing in businesses with “moats” remains secure.",
+      "abstract": "Mr. Musk is the business world’s gleeful invader, but Mr. Buffett’s mantra of investing in businesses with “moats” remains secure.",
+      "lead_paragraph": "OMAHA — Elon Musk is taking on Warren Buffett, and their differences run deeper than jokes about candy and medieval fortifications.",
+      "publication_date": "2018-05-07T23:45:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/07/business/dealbook/elon-musk-warren-buffett-candy.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Bitcoin Sees Wall Street Warm to Trading Virtual Currency",
+      "snippet": "Following Goldman Sachs’s moves to begin trading Bitcoin, the New York Stock Exchange’s parent company is said to be in talks to open a virtual currency exchange.",
+      "abstract": "Following Goldman Sachs’s moves to begin trading Bitcoin, the New York Stock Exchange’s parent company is said to be in talks to open a virtual currency exchange.",
+      "lead_paragraph": "SAN FRANCISCO — Some of the biggest names on Wall Street are warming up to Bitcoin, a virtual currency that for nearly a decade has been consigned to the unregulated fringes of the financial world.",
+      "publication_date": "2018-05-08T00:21:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/07/technology/bitcoin-new-york-stock-exchange.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Gina Haspel Has the Experience to Run the C.I.A., and That May Be Her Biggest Problem",
+      "snippet": "As she prepares for her confirmation hearing, President Trump’s nominee to lead the spy agency faces questions about her involvement in torture and secret prisons.",
+      "abstract": "As she prepares for her confirmation hearing, President Trump’s nominee to lead the spy agency faces questions about her involvement in torture and secret prisons.",
+      "lead_paragraph": "When President Trump picked Gina Haspel to run the Central Intelligence Agency, he opted for a seasoned veteran of the nation’s spy apparatus, a career professional removed from the partisan skirmishes of recent years who had the respect of many fellow intelligence officers.",
+      "publication_date": "2018-05-08T00:32:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/07/us/politics/gina-haspel-cia.html",
+      "byline": "By Peter Baker and Matthew Rosenberg"
+    },
+    {
+      "headline": "Iranians Fear Deeper Crisis as Trump Ends Nuclear Deal",
+      "snippet": "Iran’s economy was already in free fall. Now the lifeline offered by a deal that was supposed to lift barriers to the West is coming apart, too.",
+      "abstract": "Iran’s economy was already in free fall. Now the lifeline offered by a deal that was supposed to lift barriers to the West is coming apart, too.",
+      "lead_paragraph": "TEHRAN — The sense of crisis in Iran runs deep and wide. The economy is in free fall. The currency is plummeting. Rising prices are squeezing city dwellers. A five-year drought is devastating the countryside. The pitched battle between political moderates and hard-liners is so perilous that there is even talk of a military takeover.",
+      "publication_date": "2018-05-08T14:29:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/08/world/middleeast/iran-crisis-nuclear-deal.html",
+      "byline": "By Thomas Erdbrink"
+    },
+    {
+      "headline": "5 More Nike Executives Are Out Amid Inquiry Into Harassment Allegations",
+      "snippet": "At least five more top managers are leaving the world’s largest sports footwear and apparel company after an investigation into complaints of harassment and bias. The departures follow six others.",
+      "abstract": "At least five more top managers are leaving the world’s largest sports footwear and apparel company after an investigation into complaints of harassment and bias. The departures follow six others.",
+      "lead_paragraph": "A sweeping investigation into workplace behavior at Nike has resulted in the departures of five more top-level executives, raising to 11 the number of senior managers to leave the company as it continues to overhaul its upper ranks amid widespread allegations of harassment and discrimination against female employees.",
+      "publication_date": "2018-05-08T14:42:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/08/business/nike-harassment.html",
+      "byline": "By Julie Creswell and Kevin Draper"
+    },
+    {
+      "headline": "Trump Abandons Iran Nuclear Deal He Long Scorned",
+      "snippet": "Mr. Trump’s decision, while long anticipated and widely telegraphed, plunges America’s relations with European allies into deep uncertainty.",
+      "abstract": "Mr. Trump’s decision, while long anticipated and widely telegraphed, plunges America’s relations with European allies into deep uncertainty.",
+      "lead_paragraph": "WASHINGTON — President Trump declared on Tuesday that he was withdrawing from the Iran nuclear deal, unraveling the signature foreign policy achievement of his predecessor Barack Obama, isolating the United States from its Western allies and sowing uncertainty before a risky nuclear negotiation with North Korea.",
+      "publication_date": "2018-05-08T15:35:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/08/world/middleeast/trump-iran-nuclear-deal.html",
+      "byline": "By Mark Landler"
+    }
+  ]
+}

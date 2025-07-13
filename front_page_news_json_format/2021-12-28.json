@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-12-28",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "As Miners Chase Clean-Energy Minerals, Tribes Fear a Repeat of the Past",
+      "snippet": "Mining the minerals that may be needed for a green energy revolution could devastate tribal lands. The Biden administration will be forced to choose.",
+      "abstract": "Mining the minerals that may be needed for a green energy revolution could devastate tribal lands. The Biden administration will be forced to choose.",
+      "lead_paragraph": "YELLOW PINE, Idaho — Net in hand, Louis Reuben waded into the frigid waters where his ancestors once fished, long before Idaho’s rivers were dammed and contaminated, before the Nez Perce were driven off their land when white miners struck gold.",
+      "publication_date": "2021-12-27T16:43:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/27/us/mining-clean-energy-antimony-tribes.html",
+      "byline": "By Jack Healy and Mike Baker"
+    },
+    {
+      "headline": "The 2021 Good Tech Awards",
+      "snippet": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
+      "abstract": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
+      "lead_paragraph": "In the tech industry, 2021 was a year of profits and pivots.",
+      "publication_date": "2021-12-27T16:45:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Germany Wants Its Russian Pipeline. German Allies Aren’t Sure It’s a Good Idea.",
+      "snippet": "The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach.",
+      "abstract": "The Nord Stream 2 Russia-to-Germany pipeline could offer plentiful natural gas. But tensions with Vladimir Putin are keeping it out of reach.",
+      "lead_paragraph": "Germany’s new chancellor, Olaf Scholz, did not have to wait long after taking office to be asked about Nord Stream 2. An undersea Russia-to-Germany gas pipeline, the project has inflamed anger in Washington and European capitals at a time when tensions with Moscow are running high.",
+      "publication_date": "2021-12-28T08:00:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/28/world/europe/nord-stream-pipeline-germany-russia.html",
+      "byline": "By Melissa Eddy"
+    },
+    {
+      "headline": "Russian Court Orders Prominent Human Rights Group to Shut",
+      "snippet": "The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated.",
+      "abstract": "The Supreme Court ruled that Memorial International, which chronicled political repression in Russia, must be liquidated.",
+      "lead_paragraph": "MOSCOW — Russia’s Supreme Court ruled on Tuesday that the nation’s most prominent human rights organization must close, signaling President Vladimir V. Putin’s longstanding determination to control the narrative of some of the most painful and repressive chapters of Russian history.",
+      "publication_date": "2021-12-28T11:24:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/28/world/europe/russia-memorial-human-rights.html",
+      "byline": "By Ivan Nechepurenko and Andrew E. Kramer"
+    },
+    {
+      "headline": "Air Filters and Outdoor Spaces: Office Costs Rise as Workers Return",
+      "snippet": "Building owners may have saved on maintenance when their offices were dark, but new pandemic-related costs are being added to the bill.",
+      "abstract": "Building owners may have saved on maintenance when their offices were dark, but new pandemic-related costs are being added to the bill.",
+      "lead_paragraph": "The cost of office maintenance dropped significantly in the pandemic when workers went remote, as companies saved money on services like cleaning and security, as well as perks like dry cleaning and endless pantry snacks.",
+      "publication_date": "2021-12-28T14:01:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/12/28/business/offices-coronavirus.html",
+      "byline": "By Julie Weed"
+    },
+    {
+      "headline": "A Lavish Tax Dodge for the Ultrawealthy Is Easily Multiplied",
+      "snippet": "Once aimed at small businesses, a 1990s-era tax break has become a popular way for Silicon Valley founders and investors to avoid taxes on their investment profits.",
+      "abstract": "Once aimed at small businesses, a 1990s-era tax break has become a popular way for Silicon Valley founders and investors to avoid taxes on their investment profits.",
+      "lead_paragraph": "This is the story of the incredible cloning tax break.",
+      "publication_date": "2021-12-28T14:54:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/12/28/business/tax-break-qualified-small-business-stock.html",
+      "byline": "By Jesse Drucker and Maureen Farrell"
+    }
+  ]
+}

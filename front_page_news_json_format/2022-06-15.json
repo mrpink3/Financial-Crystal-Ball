@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2022-06-15",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Massachusetts Court Throws Out Gig Worker Ballot Measure",
+      "snippet": "The ruling ends a $17.8 million campaign by companies like Uber and Lyft that would have led to the classification of their drivers as independent contractors.",
+      "abstract": "The ruling ends a $17.8 million campaign by companies like Uber and Lyft that would have led to the classification of their drivers as independent contractors.",
+      "lead_paragraph": "A Massachusetts court ruled on Tuesday that a proposed ballot measure concerning the job status of gig drivers violated state law and was not eligible to be put to voters this fall.",
+      "publication_date": "2022-06-14T16:08:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/14/technology/massachusetts-gig-workers.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "Fed Set to Lift Rates as ‘Soft-ish Landing’ Becomes a Harder Sell",
+      "snippet": "The central bank has hoped to cool down the economy without pushing unemployment much higher. Stubborn inflation narrows that path.",
+      "abstract": "The central bank has hoped to cool down the economy without pushing unemployment much higher. Stubborn inflation narrows that path.",
+      "lead_paragraph": "Federal Reserve officials are meeting this week with one major goal in mind: cooling the economy enough to slow rapid inflation.",
+      "publication_date": "2022-06-14T16:45:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/14/business/economy/federal-reserve-rates-economy.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "North of Kyiv, the Russians Retreated. But the War Never Left.",
+      "snippet": "In the Ukrainian villages near the Russian border, shells still explode and checkpoints and trenches dot the landscape. And wary civilians live in fear the enemy will return.",
+      "abstract": "In the Ukrainian villages near the Russian border, shells still explode and checkpoints and trenches dot the landscape. And wary civilians live in fear the enemy will return.",
+      "lead_paragraph": "MOSHCHENKA, Ukraine — The tanks are gone now, and the thousands of Russian soldiers who poured into northern Ukraine in February have retreated back across the border.",
+      "publication_date": "2022-06-14T19:45:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/14/world/europe/ukraine-war-northern-border.html",
+      "byline": "By Valerie Hopkins"
+    },
+    {
+      "headline": "Hold Onto Your Hats (and Bags). Travelers to Europe Face Chaos.",
+      "snippet": "Hours in security lines. Canceled flights. Lost baggage. Here’s a look at how you could be affected by travel disruptions this summer and tips on how to prepare.",
+      "abstract": "Hours in security lines. Canceled flights. Lost baggage. Here’s a look at how you could be affected by travel disruptions this summer and tips on how to prepare.",
+      "lead_paragraph": "The start of the summer travel season in Europe has been marred by chaos at airports and popular tourist destinations as airlines, government agencies and industry operators struggle to meet travel demand, which, in some spots, has already surpassed 2019 levels.",
+      "publication_date": "2022-06-14T20:55:34+0000",
+      "section_name": "Travel",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/14/travel/travel-europe-tips-summer.html",
+      "byline": "By Ceylan Yeginsu"
+    },
+    {
+      "headline": "‘The Music Has Stopped’: Crypto Firms Quake as Prices Fall",
+      "snippet": "Crypto companies are laying off staff, freezing withdrawals and trying to stem losses, raising questions about the health of the ecosystem.",
+      "abstract": "Crypto companies are laying off staff, freezing withdrawals and trying to stem losses, raising questions about the health of the ecosystem.",
+      "lead_paragraph": "SAN FRANCISCO — No one wanted to miss out on the cryptocurrency mania.",
+      "publication_date": "2022-06-14T21:24:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/14/technology/crypto-industry-prices-fall.html",
+      "byline": "By David Yaffe-Bellany and Erin Griffith"
+    },
+    {
+      "headline": "A Link to Besieged Ukrainians Is Cut, as Allies Question Strategy",
+      "snippet": "The last bridge to the city of Sievierodonetsk fell as street battles raged, and some Western officials questioned Ukraine’s ability to keep resisting the Russian onslaught.",
+      "abstract": "The last bridge to the city of Sievierodonetsk fell as street battles raged, and some Western officials questioned Ukraine’s ability to keep resisting the Russian onslaught.",
+      "lead_paragraph": "DRUZHKIVKA, Ukraine — The last bridge to the last city standing between the Russian army and control of easternmost Ukraine has collapsed, as soldiers engaged in pitched street battles for what little is left of the city and scores of civilians remained stranded under unrelenting bombardment.",
+      "publication_date": "2022-06-14T21:41:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/14/world/europe/ukraine-russia-war-sievierodonetsk.html",
+      "byline": "By Thomas Gibbons-Neff and Eric Schmitt"
+    },
+    {
+      "headline": "Biden Weighs Tariff Rollback to Ease Inflation, Even a Little Bit",
+      "snippet": "While lifting some levies on China is unlikely to put a large dent in inflation, administration officials concede they have few other options to address surging prices.",
+      "abstract": "While lifting some levies on China is unlikely to put a large dent in inflation, administration officials concede they have few other options to address surging prices.",
+      "lead_paragraph": "WASHINGTON — President Biden is weighing whether to roll back some of the tariffs that former President Donald J. Trump imposed on Chinese goods, in hopes of mitigating the most rapid price gains in 40 years, according to senior administration officials.",
+      "publication_date": "2022-06-14T22:33:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/14/business/economy/biden-china-tariffs-inflation.html",
+      "byline": "By Jim Tankersley, Ana Swanson and Alan Rappeport"
+    },
+    {
+      "headline": "A Striking Contrast: Trump Officials Then and Now",
+      "snippet": "Many officials have told the Jan. 6 committee that they tried to dissuade the former president from his bid to overturn the election. But in public at the time, their words were far different.",
+      "abstract": "Many officials have told the Jan. 6 committee that they tried to dissuade the former president from his bid to overturn the election. But in public at the time, their words were far different.",
+      "lead_paragraph": "The letter was lavish.",
+      "publication_date": "2022-06-15T00:06:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/14/us/politics/trump-officials-jan-6-testimony.html",
+      "byline": "By Maggie Haberman and Michael S. Schmidt"
+    },
+    {
+      "headline": "Romania Sees an Opening to Become an Energy Power in Europe",
+      "snippet": "The Ukraine war could lead to breakthroughs in nuclear power and natural gas, with Washington’s help.",
+      "abstract": "The Ukraine war could lead to breakthroughs in nuclear power and natural gas, with Washington’s help.",
+      "lead_paragraph": "CERNAVODA, Romania — A row of hulking concrete domes loom along the Danube-Black Sea Canal in Cernavoda, about two hours east of Bucharest. Two of the structures house nuclear reactors feeding Romania’s electrical grid.  Two others were begun decades ago and are still waiting for completion — though, perhaps, not for long.",
+      "publication_date": "2022-06-15T09:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/15/business/romania-energy-nuclear-power-natural-gas.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Tesla Autopilot and Other Driver-Assist Systems Linked to Hundreds of Crashes",
+      "snippet": "The National Highway Traffic Safety Administration released data on 10 months of crashes involving cars with automated components. A few were fatal.",
+      "abstract": "The National Highway Traffic Safety Administration released data on 10 months of crashes involving cars with automated components. A few were fatal.",
+      "lead_paragraph": "Nearly 400 crashes in the United States in 10 months involved cars using advanced driver-assistance technologies, the federal government’s top auto-safety regulator disclosed Wednesday.",
+      "publication_date": "2022-06-15T13:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
+      "byline": "By Neal E. Boudette, Cade Metz and Jack Ewing"
+    },
+    {
+      "headline": "European Central Bank announces efforts to end bond market turmoil.",
+      "snippet": "The bank is concerned about a widening divergence in borrowing costs among the countries that use the euro.",
+      "abstract": "The bank is concerned about a widening divergence in borrowing costs among the countries that use the euro.",
+      "lead_paragraph": "The European Central Bank said Wednesday that it would take new steps to ward against spiraling borrowing costs in some highly indebted European countries. The announcement followed an unexpected meeting of bank policymakers looking to soothe growing concerns in the bond market.",
+      "publication_date": "2022-06-15T14:11:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/15/business/ecb-bond-market.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Federal Reserve Takes Swing at Inflation With Largest Rate Increase Since 1994",
+      "snippet": "Central bankers raised interest rates by three-quarters of a percentage point, and signaled that they expect rates to be sharply higher by the end of the year.",
+      "abstract": "Central bankers raised interest rates by three-quarters of a percentage point, and signaled that they expect rates to be sharply higher by the end of the year.",
+      "lead_paragraph": "The Federal Reserve took its most aggressive step yet to try to tame rapid and persistent inflation, raising interest rates by three-quarters of a percentage point on Wednesday and signaling that it is prepared to inflict economic pain to get prices under control.",
+      "publication_date": "2022-06-15T15:13:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/15/business/economy/fed-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

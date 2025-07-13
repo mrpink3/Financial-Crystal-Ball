@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-01-25",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "For Ukrainian Soldiers, a Nervous Guessing Game on the Front",
+      "snippet": "Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge.",
+      "abstract": "Given Russia’s penchant for misdirection, it’s unclear how a military incursion would start. And that keeps the Ukrainian troops on edge.",
+      "lead_paragraph": "Follow our latest coverage of the Russia-Ukraine crisis.",
+      "publication_date": "2022-01-25T08:00:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/25/world/europe/ukraine-russia-frontline.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "With Some Voters ‘Ready to Move On,’ Democrats Search for New Message on Virus",
+      "snippet": "Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus.",
+      "abstract": "Democrats were cheered for strict lockdowns and pandemic precautions. Now many weary voters want to hear the party’s plan for living with the coronavirus.",
+      "lead_paragraph": "When the coronavirus pandemic first swept Pennsylvania, Gov. Tom Wolf closed stores and schools and ordered millions of citizens to stay home. Even four months into the crisis in 2020, all but “life-sustaining” businesses in much of the state were locked down.",
+      "publication_date": "2022-01-25T10:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/01/25/us/politics/coronavirus-democrats-midterm-elections.html",
+      "byline": "By Trip Gabriel, Lisa Lerer and Jennifer Medina"
+    },
+    {
+      "headline": "Fed’s Policy Pivot May Prove Late and Abrupt, Critics Fret",
+      "snippet": "The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough.",
+      "abstract": "The Federal Reserve is still buying bonds as prices surge. Some praise the central bank’s continuing policy pivot; others ask if it was fast enough.",
+      "lead_paragraph": "The Federal Reserve has moved at warp speed by central banking standards over the past six months as it prepares to lean against a surge in prices: first slowing its economy-stoking bond purchases, then deciding to end that buying program earlier and finally signaling that interest rate increases are coming.",
+      "publication_date": "2022-01-25T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/25/business/economy/fed-economy.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "The Rise of the Crypto Mayors",
+      "snippet": "This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects.",
+      "abstract": "This new political breed accepts paychecks in Bitcoin. The mayors also want to use buzzy new tech like NFTs to raise money for public projects.",
+      "lead_paragraph": "Scott Conger, the mayor of Jackson, Tenn., campaigned on a modest promise to improve local infrastructure. He planned to build sidewalks, open a senior center and repair the aging storm-water disposal system in his city of 68,000, about halfway between Nashville and Memphis.",
+      "publication_date": "2022-01-25T10:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/25/business/crypto-mayors.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Wall Street’s swings continue as investors agonize over the Fed’s next move.",
+      "snippet": "The S&P 500 fell nearly 3 percent before bouncing back somewhat in a second day of turbulent trading.",
+      "abstract": "The S&P 500 fell nearly 3 percent before bouncing back somewhat in a second day of turbulent trading.",
+      "lead_paragraph": "Wall Street’s dizzying swings continued for a second day on Tuesday, again driven by uncertainty about what the Federal Reserve might reveal on Wednesday after its first policy-setting meeting of the year.",
+      "publication_date": "2022-01-25T12:41:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/25/business/stock-dips-plunge.html",
+      "byline": "By Coral Murphy Marcos"
+    },
+    {
+      "headline": "Slowdowns in the U.S. and China will hold back global growth, a report says.",
+      "snippet": "The International Monetary Fund forecasts that the growth rate of the world economy will slow to 4.4 percent in 2022.",
+      "abstract": "The International Monetary Fund forecasts that the growth rate of the world economy will slow to 4.4 percent in 2022.",
+      "lead_paragraph": "Slowdowns in the world’s two biggest economies — the United States and China — are likely to be larger than expected this year, dragging down output on every continent and reducing global growth, a new report warned on Tuesday.",
+      "publication_date": "2022-01-25T14:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/01/25/business/imf-world-economic-report.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

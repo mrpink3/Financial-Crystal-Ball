@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2018-08-17",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Google Employees Protest Secret Work on Censored Search Engine for China",
+      "snippet": "About 1,400 of the internet company’s employees have signed a letter demanding transparency, saying censored search results raise “urgent moral and ethical issues.”",
+      "abstract": "About 1,400 of the internet company’s employees have signed a letter demanding transparency, saying censored search results raise “urgent moral and ethical issues.”",
+      "lead_paragraph": "Hundreds of Google employees, upset at the company’s decision to secretly build a censored version of its search engine for  China, have signed a letter demanding more transparency to understand the ethical consequences of their work.",
+      "publication_date": "2018-08-16T16:23:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/16/technology/google-employees-protest-search-censored-china.html",
+      "byline": "By Kate Conger and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "‘Weaponized Ad Technology’: Facebook’s Moneymaker Gets a Critical Eye",
+      "snippet": "Facebook gives political campaigns the ability to tailor ads to as few as 20 people. Critics say the technique can polarize and manipulate voters.",
+      "abstract": "Facebook gives political campaigns the ability to tailor ads to as few as 20 people. Critics say the technique can polarize and manipulate voters.",
+      "lead_paragraph": "Facebook has made a mint by enabling advertisers to identify and reach the very people most likely to react to their messages. Ad buyers can select audiences based on details like a user’s location, political leanings and interests as specific as the Museum of the Confederacy or online gambling. And they can aim their ads at as few as 20 of the 1.5 billion daily users of the social network.",
+      "publication_date": "2018-08-16T20:45:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/16/technology/facebook-microtargeting-advertising.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Dream of a Better Life in Afghanistan Ends in a Hilltop Grave for Students",
+      "snippet": "The students left villages for the capital city to pursue an education and lift themselves and their families out of poverty. A suicide bombing ended all that.",
+      "abstract": "The students left villages for the capital city to pursue an education and lift themselves and their families out of poverty. A suicide bombing ended all that.",
+      "lead_paragraph": "KABUL, Afghanistan — The teenage students were lowered into a mass grave one after another, shoulder to shoulder — just as they had sat at their lecture hall the day before.",
+      "publication_date": "2018-08-16T23:18:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/16/world/asia/afghanistan-students-bombing.html",
+      "byline": "By Mujib Mashal and Fatima Faizi"
+    },
+    {
+      "headline": "Revoking Clearance, Trump Aims Presidential Power at Russia Inquiry",
+      "snippet": "The move to revoke John Brennan’s security clearance may be the latest sign that the president is determined to punish anyone connected to the Russia investigation.",
+      "abstract": "The move to revoke John Brennan’s security clearance may be the latest sign that the president is determined to punish anyone connected to the Russia investigation.",
+      "lead_paragraph": "WASHINGTON — For more than a year, law enforcement officials have repeatedly rebuffed President Trump’s efforts to use the power of his office to derail the Russia investigation. Stymied, Mr. Trump is lashing out in other ways against an investigation that he clearly hates or fears.",
+      "publication_date": "2018-08-16T23:44:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/16/us/politics/donald-trump-russia-presidential-power.html",
+      "byline": "By Michael D. Shear and Julian E. Barnes"
+    },
+    {
+      "headline": "In Shadow of Mt. Etna, Europe Makes a Last Stand for Solar",
+      "snippet": "Europe was an early backer of solar power technology. But its panel manufacturing has fallen off, and China has emerged as the dominant force.",
+      "abstract": "Europe was an early backer of solar power technology. But its panel manufacturing has fallen off, and China has emerged as the dominant force.",
+      "lead_paragraph": "CATANIA, Italy — The enormous glass building on the outskirts of this Sicilian city had been intended for making silicon wafers for flash memory chips. That plan got crushed by the global financial crisis.",
+      "publication_date": "2018-08-17T03:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/16/business/energy-environment/europe-italy-solar-energy-china.html",
+      "byline": "By Stanley Reed and Keith Bradsher"
+    },
+    {
+      "headline": "Elon Musk Details ‘Excruciating’ Personal Toll of Tesla Turmoil",
+      "snippet": "After setting off a furor that unsettled the markets and his own board, the Tesla chief talks about the pressure he is under and his struggle to cope.",
+      "abstract": "After setting off a furor that unsettled the markets and his own board, the Tesla chief talks about the pressure he is under and his struggle to cope.",
+      "lead_paragraph": "Elon Musk was at home in Los Angeles, struggling to maintain his composure. “This past year has been the most difficult and painful year of my career,” he said. “It was excruciating.”",
+      "publication_date": "2018-08-17T03:22:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/16/business/elon-musk-interview-tesla.html",
+      "byline": "By David Gelles, James B. Stewart, Jessica Silver-Greenberg and Kate Kelly"
+    },
+    {
+      "headline": "As Stock Markets Brush Off Trade Tensions, a Warning of Trouble Ahead",
+      "snippet": "Copper’s broad use in cyclical industries means if demand for the metal starts to fall off, then industrial economies may start to slow.",
+      "abstract": "Copper’s broad use in cyclical industries means if demand for the metal starts to fall off, then industrial economies may start to slow.",
+      "lead_paragraph": "Among the world’s investment nerds, copper has a special title: They call it “Dr. Copper” because of its reputed ability to predict the direction of the global economy as well as any Ph.D.-holding economist might.",
+      "publication_date": "2018-08-17T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/17/business/china-trade-war-copper-price.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "Melania Trump, a Mysterious First Lady, Weathers a Chaotic White House",
+      "snippet": "On many matters, Mrs. Trump has directed her East Wing to operate independently of the West Wing, and she is still keeping Washington at a distance.",
+      "abstract": "On many matters, Mrs. Trump has directed her East Wing to operate independently of the West Wing, and she is still keeping Washington at a distance.",
+      "lead_paragraph": "WASHINGTON — Hours after Melania Trump moved into the White House in June of last year, she peered out a window and took in a stunning view of the Washington Monument: “Looking forward to the memories we’ll make in our new home!” the first lady cheerily wrote on Twitter in a snapshot of the tableau.",
+      "publication_date": "2018-08-17T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "ST",
+      "web_url": "https://www.nytimes.com/2018/08/17/us/politics/melania-trump-first-lady.html",
+      "byline": "By Katie Rogers, Julie Hirschfeld Davis and Maggie Haberman"
+    },
+    {
+      "headline": "As Austerity Helps Bankrupt an English County, Even Conservatives Mutiny",
+      "snippet": "The local government in an affluent part of England is out of cash, and others may follow. Its former leader blames funding cuts from London.",
+      "abstract": "The local government in an affluent part of England is out of cash, and others may follow. Its former leader blames funding cuts from London.",
+      "lead_paragraph": "NORTHAMPTON, England — It was a seething, stomping protest in this ordinarily genteel medieval town: Throngs of residents, whistling and booing, swarmed the county hall. “Criminals!” they shouted. They held up banners that read: “Tory councilors wanted for crimes against people in Northamptonshire.”",
+      "publication_date": "2018-08-17T09:20:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/17/world/europe/uk-austerity-councils-northamptonshire.html",
+      "byline": "By Kimiko de Freytas-Tamura"
+    },
+    {
+      "headline": "Citing Costs, Trump Retreats From Massive Military Parade in Capital",
+      "snippet": "The president said local politicians “wanted a number so ridiculously high” that he canceled a planned parade that the Pentagon had already postponed.",
+      "abstract": "The president said local politicians “wanted a number so ridiculously high” that he canceled a planned parade that the Pentagon had already postponed.",
+      "lead_paragraph": "WASHINGTON — President Trump on Friday officially surrendered his order for a massive military parade in the nation’s capital, as spiraling costs rendered his vision of a Veterans Day extravaganza too expensive to justify.",
+      "publication_date": "2018-08-17T12:50:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/17/us/politics/trump-military-parade.html",
+      "byline": "By Eileen Sullivan, Helene Cooper and Michael D. Shear"
+    },
+    {
+      "headline": "They’re Falsely Accused of Shoplifting, but Retailers Demand Penalties",
+      "snippet": "Walmart and other companies are using aggressive legal tactics to get the money back, demanding payments even when people haven’t been convicted of wrongdoing.",
+      "abstract": "Walmart and other companies are using aggressive legal tactics to get the money back, demanding payments even when people haven’t been convicted of wrongdoing.",
+      "lead_paragraph": "MOBILE, Ala. — Crystal Thompson was at home watching the Rose Bowl parade when a county sheriff came to arrest her for shoplifting from the local Walmart.",
+      "publication_date": "2018-08-17T13:00:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/08/17/business/falsely-accused-of-shoplifting-but-retailers-demand-they-pay.html",
+      "byline": "By Michael Corkery"
+    }
+  ]
+}

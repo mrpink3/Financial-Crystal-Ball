@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-02-26",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Disney C.E.O. Bob Iger Hands Keys to Magic Kingdom to Its 7th Chief",
+      "snippet": "He will be replaced by Bob Chapek, who was most recently chairman of Disney’s parks business.",
+      "abstract": "He will be replaced by Bob Chapek, who was most recently chairman of Disney’s parks business.",
+      "lead_paragraph": "LOS ANGELES — Robert A. Iger, who delayed his retirement four times in recent years, abruptly stepped down as Disney’s chief executive on Tuesday. But he will not be going far.",
+      "publication_date": "2020-02-25T21:16:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/25/business/media/bob-iger-disney-ceo.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "‘Not Just an Italian Problem’: Coronavirus Threatens Europe’s Economy",
+      "snippet": "The spread of the deadly epidemic to Europe’s fourth-largest economy has heightened fears of disruption in the global supply chain.",
+      "abstract": "The spread of the deadly epidemic to Europe’s fourth-largest economy has heightened fears of disruption in the global supply chain.",
+      "lead_paragraph": "By the time the deadly coronavirus arrived in Italy’s industrial heartland, shutting down his factory and threatening Europe with economic damage, Antonio Falchetti was already a veteran in the battle to contain the global epidemic.",
+      "publication_date": "2020-02-25T22:32:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/25/business/italy-coronavirus.html",
+      "byline": "By Peter S. Goodman and Aaron H. Maines"
+    },
+    {
+      "headline": "Amid Insults and Interruptions, Sanders Absorbs Burst of Attacks in Debate",
+      "snippet": "In a messy Democratic forum, Bernie Sanders, the emerging front-runner, faced his most serious test so far. Michael R. Bloomberg also drew withering criticism.",
+      "abstract": "In a messy Democratic forum, Bernie Sanders, the emerging front-runner, faced his most serious test so far. Michael R. Bloomberg also drew withering criticism.",
+      "lead_paragraph": "CHARLESTON, S.C. — The Democratic presidential candidates delivered a barrage of criticism against their party’s emerging front-runner, Senator Bernie Sanders, at a debate on Tuesday night, casting him as a divisive figure with unrealistic ideas, even as they continued to batter Michael R. Bloomberg for his extreme wealth, his record on policing and his alleged behavior toward women.",
+      "publication_date": "2020-02-26T02:32:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/25/us/politics/south-carolina-debate-recap.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Coronavirus Weakens China’s Powerful Propaganda Machine",
+      "snippet": "Beijing is pushing tales of perseverance, but many young people are openly questioning the Communist Party’s message.",
+      "abstract": "Beijing is pushing tales of perseverance, but many young people are openly questioning the Communist Party’s message.",
+      "lead_paragraph": "Exhausted medical workers with faces lined from hours of wearing goggles and surgical masks. Women with shaved heads, a gesture of devotion. Retirees who donate their life savings anonymously in government offices.",
+      "publication_date": "2020-02-26T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/26/business/china-coronavirus-propaganda.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Syrian Children Freeze to Death. Bombs Rain Down. And ‘Nobody Cares.’",
+      "snippet": "The Syrian government’s assault on a rebel-held province has created one of the worst humanitarian emergencies of a brutal nine-year war.",
+      "abstract": "The Syrian government’s assault on a rebel-held province has created one of the worst humanitarian emergencies of a brutal nine-year war.",
+      "lead_paragraph": "REYHANLI, Turkey — The baby wasn’t moving. Her body had gone hot, then cold. Her father rushed her to a hospital, going on foot when he could not find a car, but it was too late.",
+      "publication_date": "2020-02-26T10:00:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/26/world/middleeast/syria-idlib-refugees.html",
+      "byline": "By Vivian Yee and Hwaida Saad"
+    },
+    {
+      "headline": "Trump Names Mike Pence to Lead Coronavirus Response",
+      "snippet": "President Trump sought to reassure the country that his government was controlling the spread of the coronavirus after his administration weathered days of criticism.",
+      "abstract": "President Trump sought to reassure the country that his government was controlling the spread of the coronavirus after his administration weathered days of criticism.",
+      "lead_paragraph": "WASHINGTON — President Trump named Vice President Mike Pence on Wednesday to coordinate the government’s response to the coronavirus, even as he repeatedly played down the danger to the United States of a widespread domestic outbreak.",
+      "publication_date": "2020-02-26T14:54:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/26/us/politics/trump-coronavirus-cdc.html",
+      "byline": "By Michael D. Shear, Noah Weiland and Katie Rogers"
+    }
+  ]
+}

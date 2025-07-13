@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2024-10-30",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "TSMC Chips Ended Up in Devices Made by China’s Huawei Despite U.S. Controls",
+      "snippet": "The U.S. government has tried to keep Chinese companies from obtaining certain advanced technologies, but concerns have been growing that some products may have been routed to Huawei.",
+      "abstract": "The U.S. government has tried to keep Chinese companies from obtaining certain advanced technologies, but concerns have been growing that some products may have been routed to Huawei.",
+      "lead_paragraph": "The U.S. government has spent years weaving a web of controls to prevent Chinese companies from being able to buy or make cutting-edge computer chips.",
+      "publication_date": "2024-10-29T16:43:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/29/business/tsmc-huawei-computer-chips.html",
+      "byline": "By Meaghan Tobin, Ana Swanson, John Liu and Amy Chang Chien"
+    },
+    {
+      "headline": "How Trump Exploits Divisions Among Black and Latino Voters",
+      "snippet": "Donald J. Trump’s anti-immigrant message is exposing longstanding tensions and challenging Democrats’ hopes for solidarity.",
+      "abstract": "Donald J. Trump’s anti-immigrant message is exposing longstanding tensions and challenging Democrats’ hopes for solidarity.",
+      "lead_paragraph": "In the Democratic imagination, “people of color” is a unifying term, a label for a durable coalition of Black and Latino voters, as well as Asian Americans, Arab Americans and Native Americans.",
+      "publication_date": "2024-10-29T19:17:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/29/us/politics/trump-black-latino-voters.html",
+      "byline": "By Jennifer Medina"
+    },
+    {
+      "headline": "Israel Hits Gaza Town for Third Time in Days, Killing Dozens, Officials Say",
+      "snippet": "Gazan agencies said that children were among those killed in the strike in Beit Lahia. A U.S. State Department spokesman called the strike “a horrifying incident with a horrifying result.”",
+      "abstract": "Gazan agencies said that children were among those killed in the strike in Beit Lahia. A U.S. State Department spokesman called the strike “a horrifying incident with a horrifying result.”",
+      "lead_paragraph": "The Israeli military on Tuesday hit a town in the northern Gaza Strip for the third time in just over a week, striking a residential building and killing dozens of people, Gazan officials said, as Israel intensified its offensive in the territory after more than a year of war.",
+      "publication_date": "2024-10-29T21:00:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/29/world/middleeast/israel-gaza-beit-lahia.html",
+      "byline": "By Hiba Yazbek, Rawan Sheikh Ahmad, Aaron Boxerman and Michael Levenson"
+    },
+    {
+      "headline": "How FTX’s Young Executives Shattered Their Parents",
+      "snippet": "As their children are sentenced for fraud, the parents of FTX’s top leaders have described their disbelief at how the crypto exchange upended their lives.",
+      "abstract": "As their children are sentenced for fraud, the parents of FTX’s top leaders have described their disbelief at how the crypto exchange upended their lives.",
+      "lead_paragraph": "The week that FTX collapsed in 2022, the father of Nishad Singh, one of the crypto exchange’s top executives, arrived at the airport to pick him up.",
+      "publication_date": "2024-10-30T09:02:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/30/technology/ftx-executives-parents.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Ukrainians Tell of Brutal Russian Repression in Occupied Territories",
+      "snippet": "Moscow is employing a variety of tactics, including torture and forced Russian citizenship, to try to obliterate Ukrainian identity, former detainees and human rights groups say.",
+      "abstract": "Moscow is employing a variety of tactics, including torture and forced Russian citizenship, to try to obliterate Ukrainian identity, former detainees and human rights groups say.",
+      "lead_paragraph": "For months after the Russian military occupied his hometown in southern Ukraine, Yevheny made plans to leave. But each time, the 48-year-old lawyer said, he was thwarted, by warnings of gunfire on the roads and, once, when a hired driver disappeared.",
+      "publication_date": "2024-10-30T09:39:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/30/world/europe/russia-ukraine-war-torture-abuse.html",
+      "byline": "By Carlotta Gall and Oleksandr Chubko"
+    },
+    {
+      "headline": "Consumers Keep U.S. Economy Growing at Healthy Pace",
+      "snippet": "In a key economic report released just days before the presidential election, gross economic product rose at a 2.8 percent rate in the third quarter.",
+      "abstract": "In a key economic report released just days before the presidential election, gross economic product rose at a 2.8 percent rate in the third quarter.",
+      "lead_paragraph": "Consumers are spending. Inflation is cooling. And the U.S. economy looks as strong as ever.",
+      "publication_date": "2024-10-30T12:33:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/10/30/business/economy/economy-gdp-report.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Elon Musk’s SpaceX, Already a Leader in Satellites, Gets Into the Spy Game",
+      "snippet": "The Pentagon needs what the company offers to compete with China even as it frets over its potential for dominance and the billionaire’s global interests.",
+      "abstract": "The Pentagon needs what the company offers to compete with China even as it frets over its potential for dominance and the billionaire’s global interests.",
+      "lead_paragraph": "The breakthrough came last month, about 600 miles above Earth.",
+      "publication_date": "2024-10-30T14:14:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/30/us/politics/spacex-spy-satellites-elon-musk.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "At Dueling Rallies, Harris Stresses Unity as Trump Attacks Biden’s ‘Garbage’ Remark",
+      "snippet": "In three battleground states, Kamala Harris geared her message toward moderate Republicans and independents, while Donald J. Trump accused Democrats of demonizing him and his supporters.",
+      "abstract": "In three battleground states, Kamala Harris geared her message toward moderate Republicans and independents, while Donald J. Trump accused Democrats of demonizing him and his supporters.",
+      "lead_paragraph": "With six days left in the 2024 presidential race, Vice President Kamala Harris and former President Donald J. Trump hopscotched the battleground states on Wednesday as they sought to wring support from an electorate already in the full throes of early voting.",
+      "publication_date": "2024-10-30T15:13:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/10/30/us/politics/harris-biden-garbage-trump-supporters.html",
+      "byline": "By Nicholas Nehamas, Reid J. Epstein, Jonathan Swan and Eduardo Medina"
+    }
+  ]
+}

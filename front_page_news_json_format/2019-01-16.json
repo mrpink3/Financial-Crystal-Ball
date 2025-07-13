@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-01-16",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "May and Brexit Face Uncertain Future After Crushing Vote in Parliament",
+      "snippet": "The 230-vote margin was the largest in Parliament in recent British history and sends the country into uncharted waters.",
+      "abstract": "The 230-vote margin was the largest in Parliament in recent British history and sends the country into uncharted waters.",
+      "lead_paragraph": "LONDON — Prime Minister Theresa May on Tuesday suffered a humiliating defeat over her plan to withdraw Britain from the European Union, thrusting the country further into political chaos with only 10 weeks to go until it is scheduled to leave the bloc.",
+      "publication_date": "2019-01-15T19:42:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/15/world/europe/brexit-vote-theresa-may.html",
+      "byline": "By Stephen Castle and Ellen Barry"
+    },
+    {
+      "headline": "William Barr Vows to Let Mueller Finish Investigation",
+      "snippet": "William P. Barr, a once and likely future attorney general, testified at his confirmation hearing at a time of constitutional tumult.",
+      "abstract": "William P. Barr, a once and likely future attorney general, testified at his confirmation hearing at a time of constitutional tumult.",
+      "lead_paragraph": "WASHINGTON — William P. Barr, President Trump’s nominee for attorney general, assured senators at his confirmation hearing on Tuesday that he would permit the special counsel, Robert S. Mueller III, to complete the Russia investigation and said he was determined to resist any pressure from Mr. Trump to use law enforcement for political purposes.",
+      "publication_date": "2019-01-15T19:46:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/15/us/politics/mueller-barr.html",
+      "byline": "By Charlie Savage, Nicholas Fandos and Katie Benner"
+    },
+    {
+      "headline": "Republicans Rebuke Steve King but Face Vexing Question: Why Not Sooner?",
+      "snippet": "In the wake of House Republicans stripping Mr. King of his committee assignments, many are asking how he survived unpunished for so long.",
+      "abstract": "In the wake of House Republicans stripping Mr. King of his committee assignments, many are asking how he survived unpunished for so long.",
+      "lead_paragraph": "WASHINGTON — By the time a Republican challenged Representative Steve King of Iowa in the 2016 party primary, Mr. King had already courted far-right foreign leaders, proposed electric wiring atop a border wall to treat illegal immigrants like straying livestock, and said young migrants had “calves the size of cantaloupes because they’re hauling 75 pounds of marijuana across the desert.”",
+      "publication_date": "2019-01-15T21:07:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/15/us/politics/steve-king-white-supremacy.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Expecting a Huge Payout, Investment Banker Loses His New Job Instead",
+      "snippet": "Andrea Orcel, Europe’s most famous investment banker, was poised to become the new chief executive of Santander. But the bank refused to pay him compensation earned at his previous post.",
+      "abstract": "Andrea Orcel, Europe’s most famous investment banker, was poised to become the new chief executive of Santander. But the bank refused to pay him compensation earned at his previous post.",
+      "lead_paragraph": "Andrea Orcel is Europe’s most famous investment banker, a suave, brash and fabulously wealthy dealmaker who counts many of the Continent’s chief executives as his longtime clients.",
+      "publication_date": "2019-01-15T23:53:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/15/business/andrea-orcel-santander-ubs.html",
+      "byline": "By David Enrich and Emily Flitter"
+    },
+    {
+      "headline": "Shutdown’s Economic Damage Starts to Pile Up, Threatening an End to Growth",
+      "snippet": "The White House doubled its estimate of the shutdown’s drag on growth, and other economists warned a long stalemate could push the economy into a contraction.",
+      "abstract": "The White House doubled its estimate of the shutdown’s drag on growth, and other economists warned a long stalemate could push the economy into a contraction.",
+      "lead_paragraph": "WASHINGTON — The partial government shutdown is inflicting far greater damage on the United States economy than previously estimated, the White House acknowledged on Tuesday, as President Trump’s economists doubled projections of how much economic growth is being lost each week the standoff with Democrats continues.",
+      "publication_date": "2019-01-16T01:17:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/15/us/politics/government-shutdown-economy.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Theresa May Survives No-Confidence Vote in British Parliament",
+      "snippet": "A day after a crushing defeat on her plan for leaving the European Union, the prime minister held onto her job, but she has no obvious way forward on Brexit.",
+      "abstract": "A day after a crushing defeat on her plan for leaving the European Union, the prime minister held onto her job, but she has no obvious way forward on Brexit.",
+      "lead_paragraph": "LONDON — Prime Minister Theresa May narrowly survived a vote of no-confidence in Parliament on Wednesday, but that did little to quell the turmoil gripping the British government over her plan to leave the European Union, coming a day after she suffered a historic defeat on that proposal.",
+      "publication_date": "2019-01-16T10:48:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/16/world/europe/brexit-theresa-may-no-confidence-vote.html",
+      "byline": "By Stephen Castle and Richard Pérez-Peña"
+    },
+    {
+      "headline": "Pelosi Asks Trump to Reschedule State of the Union Amid Shutdown",
+      "snippet": "Speaker Nancy Pelosi cited security concerns from the government shutdown in her request to reschedule the speech or to have the president deliver it in writing.",
+      "abstract": "Speaker Nancy Pelosi cited security concerns from the government shutdown in her request to reschedule the speech or to have the president deliver it in writing.",
+      "lead_paragraph": "WASHINGTON — Speaker Nancy Pelosi asked President Trump on Wednesday to scrap or delay his Jan. 29 State of the Union address amid the partial government shutdown, an extraordinary request that escalated the partisan battle over his border wall even as bipartisan groups of lawmakers pressed him to reopen the government and make room for compromise.",
+      "publication_date": "2019-01-16T14:42:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/16/us/politics/pelosi-state-of-the-union-trump.html",
+      "byline": "By Julie Hirschfeld Davis and Nicholas Fandos"
+    },
+    {
+      "headline": "ISIS Attack in Syria Kills 4 Americans, Raising New Worries About Troop Withdrawal",
+      "snippet": "Critics of President Trump’s drawdown plans said his claim of victory over the Islamic State may have emboldened its fighters and encouraged the suicide bombing that killed 19 people.",
+      "abstract": "Critics of President Trump’s drawdown plans said his claim of victory over the Islamic State may have emboldened its fighters and encouraged the suicide bombing that killed 19 people.",
+      "lead_paragraph": "WASHINGTON — Four Americans were among 19 people killed in Syria on Wednesday in a suicide bombing that was claimed by the Islamic State, just weeks after President Trump ordered the withdrawal of United States forces and declared that the extremist group had been defeated.",
+      "publication_date": "2019-01-16T15:10:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/16/world/middleeast/isis-attack-syria-troops.html",
+      "byline": "By Eric Schmitt, Ben Hubbard and Rukmini Callimachi"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-04-07",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Electric Aircraft Start-Up Accuses Rival of Stealing Its Secrets",
+      "snippet": "A lawsuit by Wisk, partly owned by the Google co-founder Larry Page, says two engineers took sensitive files before joining Archer.",
+      "abstract": "A lawsuit by Wisk, partly owned by the Google co-founder Larry Page, says two engineers took sensitive files before joining Archer.",
+      "lead_paragraph": "The age of electric planes may still be years away, but the fight for that market is already heating up.",
+      "publication_date": "2021-04-06T17:17:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/06/business/wisk-archer-lawsuit.html",
+      "byline": "By Lauren Hirsch and Niraj Chokshi"
+    },
+    {
+      "headline": "‘We Are Doomed’: Devastation From Storms Fuels Migration in Honduras",
+      "snippet": "Honduras has barely begun to recover from two hurricanes that hit late last year. With relatively little disaster relief from the U.S., many are heading for the border.",
+      "abstract": "Honduras has barely begun to recover from two hurricanes that hit late last year. With relatively little disaster relief from the U.S., many are heading for the border.",
+      "lead_paragraph": "SAN PEDRO SULA, Honduras — Children pry at the dirt with sticks, trying to dig out parts of homes that have sunk below ground. Their parents, unable to feed them, scavenge the rubble for remnants of roofs to sell for scrap metal. They live on top of the mud that swallowed fridges, stoves, beds — their entire lives buried beneath them.",
+      "publication_date": "2021-04-06T17:38:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/06/world/americas/migration-honduras-central-america.html",
+      "byline": "By Natalie Kitroeff and Daniele Volpe"
+    },
+    {
+      "headline": "Likely Legal, ‘Vaccine Passports’ Emerge as the Next Coronavirus Divide",
+      "snippet": "Businesses and universities want fast, easy ways to see if students and customers are vaccinated, but conservative politicians have turned “vaccine passports” into a cultural flash point.",
+      "abstract": "Businesses and universities want fast, easy ways to see if students and customers are vaccinated, but conservative politicians have turned “vaccine passports” into a cultural flash point.",
+      "lead_paragraph": "WASHINGTON — Cathay Pacific airlines, convinced that digital proof of coronavirus vaccination will bring about the return of safe international travel, asked its pilots and crew to try out a new mobile app that showed their vaccination status on a recent flight from Hong Kong to Los Angeles.",
+      "publication_date": "2021-04-06T20:17:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/06/us/politics/vaccine-passports-coronavirus.html",
+      "byline": "By Sheryl Gay Stolberg and Adam Liptak"
+    },
+    {
+      "headline": "A K-Shaped Recovery, This Time on a Global Scale",
+      "snippet": "Emerging markets are at risk of falling far behind their advanced counterparts. That’s the whole world’s problem, officials warned.",
+      "abstract": "Emerging markets are at risk of falling far behind their advanced counterparts. That’s the whole world’s problem, officials warned.",
+      "lead_paragraph": "WASHINGTON — The global economy is rebounding from the coronavirus pandemic faster than previously expected, largely thanks to the strength of the United States. But the International Monetary Fund warned on Tuesday that an uneven rollout of vaccines posed a threat to the recovery, as the fortunes of rich and poor countries diverge.",
+      "publication_date": "2021-04-06T21:32:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/06/business/economy/covid-world-economy.html",
+      "byline": "By Alan Rappeport and Jeanna Smialek"
+    },
+    {
+      "headline": "A ‘System of Espionage’ Reigned at Ikea, a French Prosecutor Charges",
+      "snippet": "In a case riveting national attention, Ikea France is charged with violating privacy rights by surveilling unions, employees and customers.",
+      "abstract": "In a case riveting national attention, Ikea France is charged with violating privacy rights by surveilling unions, employees and customers.",
+      "lead_paragraph": "VERSAILLES, France — The USB stick mysteriously appeared from an unidentified deliveryman. It held an explosive trove: a cache of startling emails detailing an intricate effort by Ikea executives in France to dig up information on employees, job applicants and even customers.",
+      "publication_date": "2021-04-07T04:45:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/07/business/ikea-france-spy-case.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Hong Kong Courts the Rich as China Tightens Its Grip",
+      "snippet": "Beijing, which can’t afford to let its attack on civil liberties scare away global banks and financiers, is offering them a big tax break and other perks.",
+      "abstract": "Beijing, which can’t afford to let its attack on civil liberties scare away global banks and financiers, is offering them a big tax break and other perks.",
+      "lead_paragraph": "HONG KONG — Political opposition has been quashed. Free speech has been stifled. The independent court system may be next.",
+      "publication_date": "2021-04-07T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/07/business/hong-kong-finance-wealthy.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "How Debt and Climate Change Pose ‘Systemic Risk’ to World Economy",
+      "snippet": "With dozens of countries struggling to manage both staggering debt and mounting climate disasters, some financial leaders are calling for green debt relief.",
+      "abstract": "With dozens of countries struggling to manage both staggering debt and mounting climate disasters, some financial leaders are calling for green debt relief.",
+      "lead_paragraph": "How does a country deal with climate disasters when it’s drowning in debt? Not very well, it turns out. Especially not when a pandemic clobbers its economy.",
+      "publication_date": "2021-04-07T09:00:23+0000",
+      "section_name": "Climate",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/07/climate/debt-climate-change.html",
+      "byline": "By Somini Sengupta"
+    },
+    {
+      "headline": "In Bid to Boost Its Profile, ISIS Turns to Africa’s Militants",
+      "snippet": "Violence by Islamist extremists in Africa reached a record high last year. Now, the Islamic State is using those attacks to project an image of strength.",
+      "abstract": "Violence by Islamist extremists in Africa reached a record high last year. Now, the Islamic State is using those attacks to project an image of strength.",
+      "lead_paragraph": "JOHANNESBURG — The Islamic State’s self-declared caliphate has fallen, its fighters have dispersed and its leader, Abu Bakr al-Baghdadi, has been killed.",
+      "publication_date": "2021-04-07T09:00:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/07/world/africa/ISIS-Africa-Mozambique.html",
+      "byline": "By Christina Goldbaum and Eric Schmitt"
+    },
+    {
+      "headline": "Job Training That’s Free Until You’re Hired Is a Blueprint for Biden",
+      "snippet": "Social Finance, a nonprofit, is spreading a model in which training programs get paid if students get hired, not just if they enroll.",
+      "abstract": "Social Finance, a nonprofit, is spreading a model in which training programs get paid if students get hired, not just if they enroll.",
+      "lead_paragraph": "Bill Barber saw an ad on Facebook last year for American Diesel Training Centers, a school in Ohio that prepares people for careers as diesel mechanics. It came with an unusual pitch: He would pay for the schooling only if it landed him a job, thanks to a nonprofit called Social Finance.",
+      "publication_date": "2021-04-07T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/07/business/job-training-work.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Pandemic Wilderness Explorers Are Straining Search and Rescue",
+      "snippet": "Inexperienced adventurers have flooded remote areas like Wyoming’s Sublette County during the pandemic. When they call for help, the task is left to an overwhelmed network of volunteers.",
+      "abstract": "Inexperienced adventurers have flooded remote areas like Wyoming’s Sublette County during the pandemic. When they call for help, the task is left to an overwhelmed network of volunteers.",
+      "lead_paragraph": "To hear more audio stories from publishers like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-04-07T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/07/us/coronavirus-wilderness-search-rescue.html",
+      "byline": "By Ali Watkins"
+    }
+  ]
+}

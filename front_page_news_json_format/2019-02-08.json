@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-02-08",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Carlos Ghosn May Have Spent Company Funds on Wedding Party, Renault Says",
+      "snippet": "In an acknowledgment of possible wrongdoing by its former leader, the French carmaker suggested he might have misused company funds for a lavish event at Versailles.",
+      "abstract": "In an acknowledgment of possible wrongdoing by its former leader, the French carmaker suggested he might have misused company funds for a lavish event at Versailles.",
+      "lead_paragraph": "PARIS — The French carmaker Renault on Thursday suggested publicly for the first time that Carlos Ghosn, its embattled former chairman and chief executive, may have misused company money to finance a lavish Marie Antoinette-themed party at Versailles to celebrate his second marriage and his new wife’s 50th birthday.",
+      "publication_date": "2019-02-07T17:47:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/07/business/carlos-ghosn-versailles-renault.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Democrats Aim to Limit Corporate Windfall From Trump Tax Cut",
+      "snippet": "A proposal to restrict stock buybacks is the latest push by party leaders to force corporations to spend more on workers.",
+      "abstract": "A proposal to restrict stock buybacks is the latest push by party leaders to force corporations to spend more on workers.",
+      "lead_paragraph": "Top Democrats, eager to reverse a corporate windfall created by President Trump’s $1.5 trillion tax cut, are galvanizing around economic policies aimed at limiting the ability of companies to enrich shareholders.",
+      "publication_date": "2019-02-07T20:33:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/07/us/politics/stock-buybacks-democrats.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Year Before Killing, Saudi Prince Told Aide He Would Use ‘a Bullet’ on Jamal Khashoggi",
+      "snippet": "Intercepted communications of Mohammed bin Salman are the most detailed evidence to date that the crown prince considered killing the journalist Jamal Khashoggi.",
+      "abstract": "Intercepted communications of Mohammed bin Salman are the most detailed evidence to date that the crown prince considered killing the journalist Jamal Khashoggi.",
+      "lead_paragraph": "WASHINGTON — Crown Prince Mohammed bin Salman of Saudi Arabia told a top aide in a conversation in 2017 that he would use “a bullet” on Jamal Khashoggi, the journalist killed in October, if Mr. Khashoggi did not return to the kingdom and end his criticism of the Saudi government, according to current and former American and foreign officials with direct knowledge of intelligence reports.",
+      "publication_date": "2019-02-07T23:10:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/07/us/politics/khashoggi-mohammed-bin-salman.html",
+      "byline": "By Mark Mazzetti"
+    },
+    {
+      "headline": "Jeff Bezos Accuses National Enquirer of ‘Extortion and Blackmail’",
+      "snippet": "In an online post, the chief executive of Amazon said the tabloid’s owner had used “extortion and blackmail” to try to stop his investigation into leaked photos and text messages.",
+      "abstract": "In an online post, the chief executive of Amazon said the tabloid’s owner had used “extortion and blackmail” to try to stop his investigation into leaked photos and text messages.",
+      "lead_paragraph": "The richest man on earth accused the nation’s leading supermarket tabloid publisher of “extortion and blackmail” on Thursday, laying out a theory that brought together international intrigue, White House politics, nude photos and amorous text messages.",
+      "publication_date": "2019-02-07T23:34:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/07/technology/jeff-bezos-sanchez-enquirer.html",
+      "byline": "By Jim Rutenberg and Karen Weise"
+    },
+    {
+      "headline": "Supreme Court Blocks Louisiana Abortion Law",
+      "snippet": "The law, requiring abortion providers to have admitting privileges at nearby hospitals, was very similar to a Texas law the justices struck down in 2016.",
+      "abstract": "The law, requiring abortion providers to have admitting privileges at nearby hospitals, was very similar to a Texas law the justices struck down in 2016.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Thursday blocked a Louisiana law that its opponents say could have left the state with only one doctor in a single clinic authorized to provide abortions.",
+      "publication_date": "2019-02-08T02:42:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/07/us/politics/louisiana-abortion-law-supreme-court.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "U.S. Sanctions Are Aimed at Venezuela’s Oil. Its Citizens May Suffer First.",
+      "snippet": "Venezuela’s oil company has found ways to weather sanctions aimed at ousting President Nicolás Maduro. How ordinary people will survive them is a different question.",
+      "abstract": "Venezuela’s oil company has found ways to weather sanctions aimed at ousting President Nicolás Maduro. How ordinary people will survive them is a different question.",
+      "lead_paragraph": "CARACAS, Venezuela — When President Trump slapped surprise oil sanctions on Venezuela aimed at toppling President Nicolás Maduro, exports plunged and banking froze as the effects hit harder and faster than expected.",
+      "publication_date": "2019-02-08T10:00:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/08/world/americas/venezuela-sanctions-maduro.html",
+      "byline": "By Anatoly Kurmanaev and Clifford Krauss"
+    }
+  ]
+}

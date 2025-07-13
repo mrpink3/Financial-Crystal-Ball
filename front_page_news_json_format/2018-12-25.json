@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-12-25",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "It Doesn’t Matter if Ecuador Can Afford This Dam. China Still Gets Paid.",
+      "snippet": "A giant dam was supposed to help lift Ecuador out of poverty. Instead, it’s part of a national scandal, and a future tethered to China.",
+      "abstract": "A giant dam was supposed to help lift Ecuador out of poverty. Instead, it’s part of a national scandal, and a future tethered to China.",
+      "lead_paragraph": "REVENTADOR, Ecuador — The dam sits under the glare of an active volcano, with columns of ash spewing toward the sky.",
+      "publication_date": "2018-12-24T16:30:51+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/24/world/americas/ecuador-china-dam.html",
+      "byline": "By Nicholas Casey and Clifford Krauss"
+    },
+    {
+      "headline": "Sharing Data for Deals? More Like Watching It Go With a Sigh",
+      "snippet": "Tech companies say consumers prefer being shown ads that are relevant to them. But a professor’s research shows they trade data for those ads not because of convenience but resignation.",
+      "abstract": "Tech companies say consumers prefer being shown ads that are relevant to them. But a professor’s research shows they trade data for those ads not because of convenience but resignation.",
+      "lead_paragraph": "The diapers ad that shows up on your computer when you are expecting a child. The coupon on your smartphone for a fast-food chain you just walked past. The sneaker offer appearing in your mailbox after you sign up to run a race.",
+      "publication_date": "2018-12-24T17:38:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/24/business/media/data-sharing-deals-privacy.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Trump Renews Attack on Fed as Mnuchin Tries to Calm Markets",
+      "snippet": "An attempt by Steven Mnuchin to calm jittery markets did little to stop volatility.",
+      "abstract": "An attempt by Steven Mnuchin to calm jittery markets did little to stop volatility.",
+      "lead_paragraph": "A 48-hour effort by the Trump administration to soothe jittery financial markets did little to reverse the free fall in stocks on Monday, as the president’s renewed attack on the Federal Reserve and the specter of a prolonged government shutdown further rattled investors already worried about a global economic slowdown.",
+      "publication_date": "2018-12-24T17:52:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/24/us/politics/trump-renews-attack-on-fed-as-mnuchin-tries-to-calm-markets.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Patreon Bars Anti-Feminist for Racist Speech, Inciting Revolt",
+      "snippet": "Patreon, a crowdfunding site for content creators, is facing a rebellion after its human moderators booted a creator who had violated its hate speech policy.",
+      "abstract": "Patreon, a crowdfunding site for content creators, is facing a rebellion after its human moderators booted a creator who had violated its hate speech policy.",
+      "lead_paragraph": "Sam Harris, the polemical atheist neuroscientist known for his popular podcast “Waking Up,” was making tens of thousands of dollars a month from fans who donated to him through Patreon, a crowdfunding site.",
+      "publication_date": "2018-12-24T18:52:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/24/technology/patreon-hate-speech-bans.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Renault Under Pressure as Carlos Ghosn Remains in Jail",
+      "snippet": "The French carmaker has avoided condemning Mr. Ghosn, its chief executive. But an increasingly difficult car market is forcing Renault to confront a leadership vacuum.",
+      "abstract": "The French carmaker has avoided condemning Mr. Ghosn, its chief executive. But an increasingly difficult car market is forcing Renault to confront a leadership vacuum.",
+      "lead_paragraph": "PARIS — When Carlos Ghosn was arrested on his private jet in Japan last month on charges of violating the nation’s financial reporting laws, Nissan promptly removed him as its chairman. At the French automaker Renault, the management stuck by Mr. Ghosn, its chief executive and chairman.",
+      "publication_date": "2018-12-24T22:44:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/24/business/renault-carlos-ghosn-nissan.html",
+      "byline": "By Liz Alderman and Jack Ewing"
+    },
+    {
+      "headline": "McKinsey Faces a Perilous Fight in a Texas Bankruptcy Case",
+      "snippet": "The global consulting firm McKinsey is accused of violating the law when it simultaneously advises and has a financial interest in bankrupt companies.",
+      "abstract": "The global consulting firm McKinsey is accused of violating the law when it simultaneously advises and has a financial interest in bankrupt companies.",
+      "lead_paragraph": "At first glance, it didn’t look like a fair fight. On one side: an enormous and powerful global consulting company. On the other: the retired founder of a smaller turnaround firm who has become a thorn in the side of its larger rival.",
+      "publication_date": "2018-12-25T14:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/25/business/mckinsey-bankruptcy.html",
+      "byline": "By Mary Williams Walsh"
+    }
+  ]
+}

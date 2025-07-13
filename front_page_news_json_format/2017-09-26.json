@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2017-09-26",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "At Least 6 White House Advisers Used Private Email Accounts",
+      "snippet": "While it is not necessarily illegal for White House officials to use private email accounts, President Trump had made Hillary Clinton’s mishandling of emails as secretary of state a centerpiece of his 2016 campaign.",
+      "abstract": "While it is not necessarily illegal for White House officials to use private email accounts, President Trump had made Hillary Clinton’s mishandling of emails as secretary of state a centerpiece of his 2016 campaign.",
+      "lead_paragraph": "WASHINGTON — At least six of President Trump’s closest advisers occasionally used private email addresses to discuss White House matters, current and former officials said on Monday.",
+      "publication_date": "2017-09-26T00:05:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/09/25/us/politics/private-email-trump-kushner-bannon.html",
+      "byline": "By Matt Apuzzo and Maggie Haberman"
+    },
+    {
+      "headline": "Coming Soon to AMC Theaters: Virtual Reality Experiences",
+      "snippet": "The theater chain has invested $20 million in the start-up Dreamscape Immersive and will open six locations offering V.R. experiences in the next 18 months.",
+      "abstract": "The theater chain has invested $20 million in the start-up Dreamscape Immersive and will open six locations offering V.R. experiences in the next 18 months.",
+      "lead_paragraph": "CULVER CITY, Calif. — It is easily Hollywood’s hottest start-up.",
+      "publication_date": "2017-09-26T13:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/26/business/media/amc-theaters-virtual-reality.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Trying to Stem Fallout From Breach, Equifax Replaces C.E.O.",
+      "snippet": "After the attack, the list of possible internal candidates for the chief executive, Richard Smith, was depleted.",
+      "abstract": "After the attack, the list of possible internal candidates for the chief executive, Richard Smith, was depleted.",
+      "lead_paragraph": "When the board of Equifax convened last week to discuss the company’s response to an enormous data breach, the 10 outside directors concluded that it was time for their hard-driving chief executive to step down.",
+      "publication_date": "2017-09-26T13:02:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/09/26/business/equifax-ceo.html",
+      "byline": "By Ron Lieber and Stacy Cowley"
+    }
+  ]
+}

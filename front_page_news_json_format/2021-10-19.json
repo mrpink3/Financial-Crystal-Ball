@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-10-19",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Powerful German Newspaper Ousts Editor After Times Report on Workplace Behavior",
+      "snippet": "The editor, Julian Reichelt, had been accused of abusing his power involving a relationship with a junior employee at Bild, a tabloid owned by the media giant Axel Springer.",
+      "abstract": "The editor, Julian Reichelt, had been accused of abusing his power involving a relationship with a junior employee at Bild, a tabloid owned by the media giant Axel Springer.",
+      "lead_paragraph": "Germany’s most powerful newspaper removed its top editor Monday after months of defending his sexual relationships with women in the workplace as the scandal began to envelop the paper’s globally ambitious parent company, Axel Springer.",
+      "publication_date": "2021-10-18T16:51:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/18/business/media/julian-reichelt-axel-springer.html",
+      "byline": "By Ben Smith and Melissa Eddy"
+    },
+    {
+      "headline": "Trump Sues to Block Release of White House Papers to Jan. 6 Inquiry",
+      "snippet": "The case raises novel constitutional questions about the scope of an ex-president’s executive privilege powers if the current president disagrees.",
+      "abstract": "The case raises novel constitutional questions about the scope of an ex-president’s executive privilege powers if the current president disagrees.",
+      "lead_paragraph": "WASHINGTON — Former President Donald J. Trump sued Congress and the National Archives on Monday, seeking to block the disclosure of White House files related to his actions and communications surrounding the Jan. 6 Capitol riot.",
+      "publication_date": "2021-10-18T21:30:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/18/us/politics/trump-lawsuit-capitol-riot.html",
+      "byline": "By Charlie Savage and Luke Broadwater"
+    },
+    {
+      "headline": "F.D.A. to Allow ‘Mix and Match’ Approach for Covid Booster Shots",
+      "snippet": "The agency may act this week, when it is expected to authorize booster shots for recipients of the Moderna and Johnson & Johnson vaccines.",
+      "abstract": "The agency may act this week, when it is expected to authorize booster shots for recipients of the Moderna and Johnson & Johnson vaccines.",
+      "lead_paragraph": "WASHINGTON — The Food and Drug Administration is planning to allow Americans to receive a different Covid-19 vaccine as a booster from the one they initially received, a move that could reduce the appeal of the Johnson & Johnson vaccine and provide flexibility to doctors and other vaccinators.",
+      "publication_date": "2021-10-18T21:55:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/18/us/politics/fda-mix-and-match-boosters.html",
+      "byline": "By Sharon LaFraniere and Noah Weiland"
+    },
+    {
+      "headline": "Biden’s Paid Leave Plan at Risk as Lawmakers Look to Shrink Package",
+      "snippet": "An initial proposal to offer workers 12 weeks of paid leave could be whittled down as Democrats try to trim their $3.5 trillion social policy bill.",
+      "abstract": "An initial proposal to offer workers 12 weeks of paid leave could be whittled down as Democrats try to trim their $3.5 trillion social policy bill.",
+      "lead_paragraph": "WASHINGTON — Christina Hayes, 34, stopped going to the doctor for treatment of her lupus when she was pregnant and working at a cable company in Michigan in 2013. She had used up her vacation days, and without paid sick leave, she worried about paying her rent and electricity bill if she took more time off.",
+      "publication_date": "2021-10-18T23:12:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/18/us/politics/biden-paid-leave.html",
+      "byline": "By Madeleine Ngo"
+    },
+    {
+      "headline": "These U.S. Veterans Won’t Rest Until They’ve Kept a Wartime Promise",
+      "snippet": "An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America.",
+      "abstract": "An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-10-19T07:00:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html",
+      "byline": "By Roger Cohen"
+    },
+    {
+      "headline": "As Evergrande Teeters, Chinese Media Walks a Fine Line",
+      "snippet": "Officials want to avert public panic about the property developer’s financial woes. But they also want to send a message to spendthrift corporations.",
+      "abstract": "Officials want to avert public panic about the property developer’s financial woes. But they also want to send a message to spendthrift corporations.",
+      "lead_paragraph": "As China Evergrande Group teeters on the edge of collapse, videos of protesting home buyers have flooded social media. Online government message boards teem with complaints and pleas for intervention to save the huge property developer. The hashtag “What does Evergrande mean for the real estate market?” has been viewed more than 160 million times on one platform.",
+      "publication_date": "2021-10-19T08:30:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/19/business/evergrande-media-china.html",
+      "byline": "By Vivian Wang"
+    },
+    {
+      "headline": "YouTube Sued Over Animal Abuse Videos, Accused of Not Enforcing Ban",
+      "snippet": "An animal rights group said the site had ignored efforts to get clear violations taken down. YouTube said it had removed hundreds of thousands.",
+      "abstract": "An animal rights group said the site had ignored efforts to get clear violations taken down. YouTube said it had removed hundreds of thousands.",
+      "lead_paragraph": "The videos are disturbing. A giant python wraps its thick body around the neck of a puppy, which thrashes and squeals in panic. A baby monkey, trembling and screeching in horror, is poked, prodded and pinched inside a basket. Another monkey is forced to fend off a giant snake slithering toward it while tied to the ground.",
+      "publication_date": "2021-10-19T09:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/19/technology/youtube-sued-animal-abuse.html",
+      "byline": "By Daisuke Wakabayashi"
+    },
+    {
+      "headline": "‘Why Don’t We Have Electricity?’: Outages Plague Puerto Rico",
+      "snippet": "Transferring the power grid to a private company was supposed to help. But thousands protested last week over more blackouts.",
+      "abstract": "Transferring the power grid to a private company was supposed to help. But thousands protested last week over more blackouts.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-10-19T09:00:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/19/us/puerto-rico-electricity-protest.html",
+      "byline": "By Patricia Mazzei"
+    },
+    {
+      "headline": "On a Pacific Island, Russia Tests Its Battle Plan for Climate Change",
+      "snippet": "President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course.",
+      "abstract": "President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course.",
+      "lead_paragraph": "SAKHALIN ISLAND, Russia — Sixteen wind turbines are slated to go up amid the winding coast and wooded hills of this Russian island in the Pacific, creating a wind park bigger than any that currently exists in the vast reaches of the country’s Far East.",
+      "publication_date": "2021-10-19T09:00:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html",
+      "byline": "By Anton Troianovski and Sergey Ponomarev"
+    },
+    {
+      "headline": "The Economic Rebound Is Still Waiting for Workers",
+      "snippet": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
+      "abstract": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
+      "lead_paragraph": "Fall was meant to mark the beginning of the end of the labor shortage that has held back the nation’s economic recovery. Expanded unemployment benefits were ending. Schools were reopening, freeing up many caregivers. Surely, economists and business owners reasoned, a flood of workers would follow.",
+      "publication_date": "2021-10-19T14:57:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+      "byline": "By Ben Casselman"
+    }
+  ]
+}

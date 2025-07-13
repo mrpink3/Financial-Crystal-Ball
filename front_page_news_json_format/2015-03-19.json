@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2015-03-19",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Starbucks Initiative on Race Relations Draws Attacks Online",
+      "snippet": "The criticism on social media was so intense that the company’s chief communications officer temporarily deleted his Twitter account.",
+      "abstract": "The criticism on social media was so intense that the company’s chief communications officer temporarily deleted his Twitter account.",
+      "lead_paragraph": "Scrawled on Starbucks cups, the words “Race Together” were intended to stimulate conversations about race relations in America, beginning just days before the company’s annual shareholders meeting on Wednesday. But the coffee company’s campaign has instead unleashed widespread vitriol and derision. ",
+      "publication_date": "2015-03-18T17:40:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/19/business/starbucks-race-together-shareholders-meeting.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Fed Creeps Closer to Higher Rate That May Not Arrive for Months",
+      "snippet": "Dropping a promise to remain “patient” on a rate move, the bank expressed optimism that the economy no longer needs quite as much help, while noting that growth has slowed and inflation declined.",
+      "abstract": "Dropping a promise to remain “patient” on a rate move, the bank expressed optimism that the economy no longer needs quite as much help, while noting that growth has slowed and inflation declined.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve on Wednesday moved to the verge of raising interest rates for the first time since the economy fell into recession more than seven years ago, even as officials suggested that the Fed might not pull the trigger until well into the second half of the year.",
+      "publication_date": "2015-03-18T18:07:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/19/business/economy/fed-interest-rates-fomc-meeting.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Janet Yellen Isn’t Going to Raise Interest Rates Until She’s Good and Ready",
+      "snippet": "Among the signals the Fed seeks to send is that there is no preordained policy path, but instead a willingness to keep adapting to new information.",
+      "abstract": "Among the signals the Fed seeks to send is that there is no preordained policy path, but instead a willingness to keep adapting to new information.",
+      "lead_paragraph": "The key words in Janet L. Yellen’s news conference Wednesday were rather pithy, at least by central bank standards. “Just because we removed the word ‘patient’ from the statement doesn’t mean we are going to be impatient,” Ms. Yellen, the Federal Reserve chairwoman, said.",
+      "publication_date": "2015-03-18T20:07:25+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/19/upshot/janet-yellen-isnt-going-to-raise-interest-rates-until-shes-good-and-ready.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger",
+      "snippet": "BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency).",
+      "abstract": "BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency).",
+      "lead_paragraph": "SAN FRANCISCO — You will not see Scott Radell on CNBC. Nor does he inhabit a jaw-dropping mansion.",
+      "publication_date": "2015-03-19T00:47:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "A Vineyard Dispute, $800,000 in Cash and Two Dead in Napa",
+      "snippet": "Robert Dahl, who ran a struggling vineyard, and his chief investor, Emad Tawfilis, were supposed to be settling differences on Monday. They did not.",
+      "abstract": "Robert Dahl, who ran a struggling vineyard, and his chief investor, Emad Tawfilis, were supposed to be settling differences on Monday. They did not.",
+      "lead_paragraph": "YOUNTVILLE, Calif. — Perhaps it began with the red Adidas gym bag stuffed with $800,000 in cash.",
+      "publication_date": "2015-03-19T01:35:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/19/us/a-vineyard-dispute-800000-in-cash-and-two-dead-in-napa.html",
+      "byline": "By Ronnie Cohen and Michael Wines"
+    },
+    {
+      "headline": "Japan’s Recovery Is Complicated by a Decline in Household Savings",
+      "snippet": "The drop has coincided with an erosion in pay and job security for many workers, especially younger ones.",
+      "abstract": "The drop has coincided with an erosion in pay and job security for many workers, especially younger ones.",
+      "lead_paragraph": "TOKYO — Takazumi Fukuoka should be exactly what Japan needs to get its economy moving again.",
+      "publication_date": "2015-03-19T08:42:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/20/business/international/japans-recovery-is-complicated-by-a-decline-in-household-savings.html",
+      "byline": "By Jonathan Soble"
+    },
+    {
+      "headline": "Chechen’s Ties to Putin Are Questioned Amid Nemtsov Murder Case",
+      "snippet": "Critics warn that President Vladimir V. Putin’s bargain to gain stability in Chechnya has unleashed an unpredictable despot in the region’s leader, Ramzan A. Kadyrov.",
+      "abstract": "Critics warn that President Vladimir V. Putin’s bargain to gain stability in Chechnya has unleashed an unpredictable despot in the region’s leader, Ramzan A. Kadyrov.",
+      "lead_paragraph": "GROZNY, Russia — Ramzan A. Kadyrov, the strongman leader of Chechnya, has been at the center of intrigue surrounding the murder of Boris Y. Nemtsov, a prominent critic of the Russian president, Vladimir V. Putin. So before a busy weekend that included a night out with the boys to watch cage fighting, Mr. Kadyrov wanted to clear something up. “I am utterly devoted to Vladimir Putin and ready until the end of my life to resist the enemies of Russia,” he wrote on Instagram.",
+      "publication_date": "2015-03-19T09:01:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/20/world/europe/chechens-ties-to-putin-are-questioned-amid-nemtsov-murder-case.html",
+      "byline": "By David M. Herszenhorn"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2021-05-13",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Republicans Oust a Defiant Cheney, Confirming Trump’s Grasp on the Party",
+      "snippet": "The Wyoming Republican gave an unrepentant final speech warning her colleagues that Donald J. Trump was leading them toward “destruction.” They booed and kicked her out.",
+      "abstract": "The Wyoming Republican gave an unrepentant final speech warning her colleagues that Donald J. Trump was leading them toward “destruction.” They booed and kicked her out.",
+      "lead_paragraph": "WASHINGTON — In a remarkable display of loyalty to Donald J. Trump, Republicans moved quickly to purge Representative Liz Cheney of Wyoming from House leadership on Wednesday, voting to oust their No. 3 for repudiating the former president’s election lies and holding him responsible for the deadly Jan. 6 riot at the Capitol.",
+      "publication_date": "2021-05-12T19:53:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/12/us/politics/liz-cheney-trump-republicans.html",
+      "byline": "By Catie Edmondson and Nicholas Fandos"
+    },
+    {
+      "headline": "As Gaza War Escalates, New Front Opens in Israeli Cities",
+      "snippet": "Rioting and mob violence between Arabs and Jews tore through towns and cities across Israel. Rockets from Gaza and Israeli airstrikes continued to kill civilians.",
+      "abstract": "Rioting and mob violence between Arabs and Jews tore through towns and cities across Israel. Rockets from Gaza and Israeli airstrikes continued to kill civilians.",
+      "lead_paragraph": "JERUSALEM — A new front opened in the military showdown between the Israeli Army and Palestinian militants in Gaza on Wednesday as a wave of mob violence between Jews and Arabs spread across several Israeli cities, leading to riots and attacks in the streets as rockets and missiles streaked across the sky.",
+      "publication_date": "2021-05-12T23:12:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/12/world/middleeast/israeli-palestinian-conflict-gaza-hamas.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "How ‘Put That on Top Shot!’ Became a New N.B.A. Mantra",
+      "snippet": "Professional basketball players are buying and selling digital video highlights while preaching the tech industry’s cryptocurrency gospel.",
+      "abstract": "Professional basketball players are buying and selling digital video highlights while preaching the tech industry’s cryptocurrency gospel.",
+      "lead_paragraph": "Late in the third quarter of a March game between the Utah Jazz and the New Orleans Pelicans, Rudy Gobert, the Jazz’s 7-foot-1 center, caught a pass and slammed down a dunk as the Pelicans’ Josh Hart leapt to contest the shot.",
+      "publication_date": "2021-05-13T09:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/13/business/nba-top-shot-moments.html",
+      "byline": "By Kellen Browning"
+    },
+    {
+      "headline": "McDonald’s to Increase Wages as Job Market Tightens",
+      "snippet": "The fast-food company is raising wages at company-owned restaurants, but the move still falls short of demands for a minimum wage of $15 an hour.",
+      "abstract": "The fast-food company is raising wages at company-owned restaurants, but the move still falls short of demands for a minimum wage of $15 an hour.",
+      "lead_paragraph": "Battling to hire employees in a tight job market, McDonald’s on Thursday joined a growing list of fast-food and restaurant companies that are lifting hourly wages in the hopes of attracting job seekers.",
+      "publication_date": "2021-05-13T12:05:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/13/business/mcdonalds-wage-increase.html",
+      "byline": "By Julie Creswell"
+    }
+  ]
+}

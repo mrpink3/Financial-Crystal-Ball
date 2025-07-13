@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-12-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A.G. Sulzberger, 37, to Take Over as New York Times Publisher",
+      "snippet": "An author of the ‘innovation report’ will follow in the footsteps of his father, Arthur Sulzberger Jr., who served as publisher for 25 years.",
+      "abstract": "An author of the ‘innovation report’ will follow in the footsteps of his father, Arthur Sulzberger Jr., who served as publisher for 25 years.",
+      "lead_paragraph": "In a generational changing of the guard, Arthur Gregg Sulzberger, 37, will become the publisher of The New York Times on Jan. 1. His father, Arthur Ochs Sulzberger Jr., announced on Thursday that he was turning over the post to his son.",
+      "publication_date": "2017-12-14T16:27:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/14/business/media/a-g-sulzberger-new-york-times-publisher.html",
+      "byline": "By Sydney Ember"
+    },
+    {
+      "headline": "Republican Tax Bill Faces New Uncertainty Ahead of Expected Vote",
+      "snippet": "As Republicans sprinted to get their bill across the finish line, they faced a new round of questions about whether they could generate enough support to pass the legislation.",
+      "abstract": "As Republicans sprinted to get their bill across the finish line, they faced a new round of questions about whether they could generate enough support to pass the legislation.",
+      "lead_paragraph": "WASHINGTON — House and Senate Republicans faced a new round of uncertainty on Thursday about the fate of their $1.5 trillion tax bill with the possible defection of a Republican senator, Marco Rubio of Florida, amid continuing questions about how the bill will be paid for and how much of the benefits will flow to low- and middle-income people versus corporations.",
+      "publication_date": "2017-12-14T16:41:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/14/us/politics/republicans-tax-bill.html",
+      "byline": "By Alan Rappeport and Thomas Kaplan"
+    },
+    {
+      "headline": "F.C.C. Repeals Net Neutrality Rules",
+      "snippet": "In a 3-to-2 vote along party lines, the agency scrapped Obama-era rules meant to protect an open internet.",
+      "abstract": "In a 3-to-2 vote along party lines, the agency scrapped Obama-era rules meant to protect an open internet.",
+      "lead_paragraph": "WASHINGTON — The Federal Communications Commission voted on Thursday to dismantle rules regulating the businesses that connect consumers to the internet, granting broadband companies the power to potentially reshape Americans’ online experiences.",
+      "publication_date": "2017-12-14T18:12:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "An Alabama Sheriff, a Mystery Check and a Blogger Who Cried Foul",
+      "snippet": "In Alabama, an official’s use of public funds and behavior toward critics have raised questions about the broad powers of American sheriffs.",
+      "abstract": "In Alabama, an official’s use of public funds and behavior toward critics have raised questions about the broad powers of American sheriffs.",
+      "lead_paragraph": "DECATUR, Ala. — One evening last fall, an informant for the Morgan County sheriff entered the office of a small construction business near this old river town and, he said, secretly installed spyware on a company computer. He had no warrant.",
+      "publication_date": "2017-12-14T19:13:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/14/us/ana-franklin-alabama-sheriff.html",
+      "byline": "By Walt Bogdanich and Grace Ashford"
+    },
+    {
+      "headline": "China’s HNA Keeps Striking Foreign Deals as Banks Wince and Investors Flee",
+      "snippet": "Executives at the deeply indebted conglomerate say it still enjoys support from lenders, even as bond prices fall and regulators raise questions.",
+      "abstract": "Executives at the deeply indebted conglomerate say it still enjoys support from lenders, even as bond prices fall and regulators raise questions.",
+      "lead_paragraph": "HONG KONG — With some investors in its bonds running for the exits and foreign banks increasingly skeptical about its prospects, HNA Group tried this week to reassure markets that it has access to the money it needs.",
+      "publication_date": "2017-12-14T20:03:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/14/business/dealbook/hna-china-deals-banks.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "The Disney-Fox Deal Has Friends in High Places",
+      "snippet": "The Justice Department moved to block AT&T’s attempted acquisition of Time Warner. So why would it approve this $52.4 billion megadeal?",
+      "abstract": "The Justice Department moved to block AT&T’s attempted acquisition of Time Warner. So why would it approve this $52.4 billion megadeal?",
+      "lead_paragraph": "Rupert Murdoch, the media mogul who is executive chairman of 21st Century Fox, is one of President Trump’s closest allies and advisers. Fox News has been the president’s most reliable media champion. Mr. Murdoch and the president have each publicly described the other as “my good friend.”",
+      "publication_date": "2017-12-14T20:56:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/14/business/media/antitrust-disney-fox.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Theresa May, Navigating Brexit, Reaches a First Finish Line",
+      "snippet": "Mocked for months as weak and robotic, the British prime minister has earned sympathy in Brussels — and some respite at home — by doggedly carrying on.",
+      "abstract": "Mocked for months as weak and robotic, the British prime minister has earned sympathy in Brussels — and some respite at home — by doggedly carrying on.",
+      "lead_paragraph": "LONDON — Last week, for the first time in six months, Prime Minister Theresa May enjoyed a few hours of sweet vindication in her efforts to allow the United Kingdom to leave the European Union. She had passed the night in white-knuckled negotiation, and by sunrise was able to announce the beginning of talks that would lay out a path to a controlled departure.",
+      "publication_date": "2017-12-14T23:35:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/14/world/europe/theresa-may-brexit-conservative-party.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Labor Board Reverses Ruling That Helped Workers Fight Chains",
+      "snippet": "Newly under Republican control, the National Labor Relations Board changed the standard for holding a company responsible for a franchisee’s practices.",
+      "abstract": "Newly under Republican control, the National Labor Relations Board changed the standard for holding a company responsible for a franchisee’s practices.",
+      "lead_paragraph": "The National Labor Relations Board on Thursday overturned a key Obama-era precedent that had given workers significant leverage in challenging companies like fast-food and hotel chains over labor practices.",
+      "publication_date": "2017-12-15T00:22:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/14/business/economy/labor-employers.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "No Wild Parties, No Pledging as Universities Crack Down on Fraternity Excesses",
+      "snippet": "Amid worries about hazing, sexual assault and a spate of deaths, universities are imposing campuswide restrictions on fraternities and sororities.",
+      "abstract": "Amid worries about hazing, sexual assault and a spate of deaths, universities are imposing campuswide restrictions on fraternities and sororities.",
+      "lead_paragraph": "After months of waiting, party night finally arrived on Dec. 2 for the brothers of Phi Kappa Psi at the University of Iowa. But this was no “Animal House” gathering; it was held in the ballroom at a Hilton Garden Inn.",
+      "publication_date": "2017-12-15T10:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/15/us/fraternities-deaths-crackdown.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "Ryanair, Europe’s Cut-Price Behemoth, Agrees to Recognize Pilot Unions for First Time",
+      "snippet": "Europe’s biggest budget airline reversed a longstanding policy in the hope of averting threatened strikes during the busy holiday travel period.",
+      "abstract": "Europe’s biggest budget airline reversed a longstanding policy in the hope of averting threatened strikes during the busy holiday travel period.",
+      "lead_paragraph": "LONDON — Ryanair, Europe’s biggest budget airline, built itself into a juggernaut by aggressively cutting costs at every opportunity. Fuel consumption was tightly controlled. Turnaround times were slashed. And, crucially, unions were banned.",
+      "publication_date": "2017-12-15T10:37:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/15/business/ryanair-pilot-unions.html",
+      "byline": "By Amie Tsang"
+    }
+  ]
+}

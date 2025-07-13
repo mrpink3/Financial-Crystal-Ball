@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2014-03-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Citigroup Fails Federal Reserve’s Stress Test for 2nd Time in 3 Years",
+      "snippet": "The Fed’s decision is prompting calls for another round of changes at the top of the bank’s management and questions over whether the bank should break up its far-flung operations.",
+      "abstract": "The Fed’s decision is prompting calls for another round of changes at the top of the bank’s management and questions over whether the bank should break up its far-flung operations.",
+      "lead_paragraph": "The Federal Reserve dealt an embarrassing blow to Citigroup on Wednesday, attacking the bank’s financial projections for its sprawling operations and denying the bank’s plan to increase dividends and repurchase stock.",
+      "publication_date": "2014-03-26T20:02:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/26/fed-rebuffs-citigroup-on-capital-plans/",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "Mammy Revealed, and Not Just Her Red Petticoat",
+      "snippet": "The estate of Margaret Mitchell, author of “Gone With the Wind,” has authorized a prequel, being written by Donald McCaig, called “Ruth’s Journey.”",
+      "abstract": "The estate of Margaret Mitchell, author of “Gone With the Wind,” has authorized a prequel, being written by Donald McCaig, called “Ruth’s Journey.”",
+      "lead_paragraph": "Mammy, the faithful slave in “Gone With the Wind,” may finally get her due — and a proper name. ",
+      "publication_date": "2014-03-26T21:40:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2014/03/27/business/media/gone-with-the-wind-prequel-coming-in-october.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "Law Firms Are Pressed on Security for Data",
+      "snippet": "Large American corporations are pressing their law firms to increase cyber security to deter hackers from gaining access to confidential information.",
+      "abstract": "Large American corporations are pressing their law firms to increase cyber security to deter hackers from gaining access to confidential information.",
+      "lead_paragraph": "A growing number of big corporate clients are demanding that their law firms take more steps to guard against online intrusions that could compromise sensitive information as global concerns about hacker threats mount.",
+      "publication_date": "2014-03-26T23:00:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/26/law-firms-scrutinized-as-hacking-increases/",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Pitfalls of Reverse Mortgages May Pass to Borrower’s Heirs",
+      "snippet": "The loans that promised to help older people stay in their homes in retirement are, in some cases, now pushing their children out.",
+      "abstract": "The loans that promised to help older people stay in their homes in retirement are, in some cases, now pushing their children out.",
+      "lead_paragraph": "The only solace for Isabel Santos as she spends her evenings huddled over stacks of yellowed foreclosure notices is that her parents are not alive to watch their ranch-style house in Pleasant Hill, Calif., slipping away.",
+      "publication_date": "2014-03-26T23:57:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/26/pitfalls-of-reverse-mortgages-may-pass-to-borrowers-heirs/",
+      "byline": "By Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Creator of a Virtual Reality Sensation",
+      "snippet": "Facebook’s acquisition of Oculus VR has brought attention to its co-founder Palmer Luckey and the Southern California tech scene where his company took root.",
+      "abstract": "Facebook’s acquisition of Oculus VR has brought attention to its co-founder Palmer Luckey and the Southern California tech scene where his company took root.",
+      "lead_paragraph": "Palmer Luckey, a baby-faced 21-year-old college dropout, figured out how to build a virtual reality headset so exciting that it became a sensation on Kickstarter, the crowdfunding site, raising a staggering $2.4 million in 30 days.",
+      "publication_date": "2014-03-27T01:18:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/27/technology/creator-of-a-virtual-reality-sensation.html",
+      "byline": "By Jenna Wortham"
+    },
+    {
+      "headline": "Microsoft to Offer Office for iPad, Maybe a Bit Late ",
+      "snippet": "Owners of Apple’s tablet will be able to use Word, Excel, PowerPoint and other popular productivity tools — but they still may not want to.",
+      "abstract": "Owners of Apple’s tablet will be able to use Word, Excel, PowerPoint and other popular productivity tools — but they still may not want to.",
+      "lead_paragraph": "SAN FRANCISCO — One of the most lucrative software franchises in history, Microsoft Office, has finally come to the most influential computing device of the last few years, the iPad.",
+      "publication_date": "2014-03-27T11:29:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/28/technology/microsofts-office-suite-for-ipad.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "History Gives Other Cases of G.M.’s Behavior",
+      "snippet": "A deeper look at the ethics that may make a company behave the way General Motors did in the years before it recalled 1.6 million cars with a potentially deadly defect.",
+      "abstract": "A deeper look at the ethics that may make a company behave the way General Motors did in the years before it recalled 1.6 million cars with a potentially deadly defect.",
+      "lead_paragraph": "Four decades ago, Edward Heath, then the prime minister of Britain, rose in Parliament to denounce “the unpleasant and unacceptable face of capitalism.”",
+      "publication_date": "2014-03-27T14:43:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/28/business/history-offers-other-examples-of-gms-behavior.html",
+      "byline": "By Floyd Norris"
+    }
+  ]
+}

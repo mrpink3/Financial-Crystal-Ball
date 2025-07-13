@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-09-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Comcast Lashes Out at Rivals Opposed to Merger Plan",
+      "snippet": "In a filing with regulators, the company said opponents of the deal with Time Warner Cable first sought “various self-interested requests,” which were denied.",
+      "abstract": "In a filing with regulators, the company said opponents of the deal with Time Warner Cable first sought “various self-interested requests,” which were denied.",
+      "lead_paragraph": "Comcast has declared war in media land.",
+      "publication_date": "2014-09-24T17:02:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/25/business/media/comcast-accuses-rivals-of-extortion-in-opposing-its-bid-for-time-warner-cable.html",
+      "byline": "By Emily Steel"
+    },
+    {
+      "headline": "Exposing Hidden Bias at Google",
+      "snippet": "The tech giant is undertaking a long-term effort to make its employees aware of how unconscious biases can affect hiring and promotion decisions.",
+      "abstract": "The tech giant is undertaking a long-term effort to make its employees aware of how unconscious biases can affect hiring and promotion decisions.",
+      "lead_paragraph": "Google, like many tech companies, is a man’s world.",
+      "publication_date": "2014-09-24T18:03:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/25/technology/exposing-hidden-biases-at-google-to-improve-diversity.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "In Liberia, Home Deaths Spread Circle of Ebola Contagion",
+      "snippet": "The C.D.C. said that only 18 percent of patients in Liberia are being cared for in proper medical centers, raising the risk of the Ebola virus spreading through communities.",
+      "abstract": "The C.D.C. said that only 18 percent of patients in Liberia are being cared for in proper medical centers, raising the risk of the Ebola virus spreading through communities.",
+      "lead_paragraph": "MONROVIA, Liberia — The family of the sick man, who had endured Ebola’s telltale symptoms for six days, took him by taxi to treatment centers here in the capital twice, only to be turned back at the gate each time for lack of beds. He died at home, his arms thrashing violently and blood spewing out his mouth, in front of his sons.",
+      "publication_date": "2014-09-24T19:08:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/25/world/africa/liberia-ebola-victims-treatment-center-cdc.html",
+      "byline": "By Norimitsu Onishi"
+    },
+    {
+      "headline": "Lithuania Feels Squeeze in Sanctions War With Russia",
+      "snippet": "The former Soviet bloc country depends heavily on its status as a transportation hub for Russia-bound goods, including its own agricultural products.",
+      "abstract": "The former Soviet bloc country depends heavily on its status as a transportation hub for Russia-bound goods, including its own agricultural products.",
+      "lead_paragraph": "ZIBENAI, Lithuania — In the sanctions war between Russia and the West, Kasia Jankun’s 80 dairy cows seem to be losing.",
+      "publication_date": "2014-09-24T23:41:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/09/25/business/international/lithuania-feels-squeeze-in-sanctions-war-with-moscow.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "With China Set to Open Stock Trading, Investors Lay Groundwork",
+      "snippet": "Bankers, brokerage firms and hedge funds have all been quietly expanding their Asian operations to take advantage of the biggest opening into China in years.",
+      "abstract": "Bankers, brokerage firms and hedge funds have all been quietly expanding their Asian operations to take advantage of the biggest opening into China in years.",
+      "lead_paragraph": "O’Connor, the $5.6 billion hedge fund owned by UBS, has been expanding its presence in Asia. It has hired traders from UBS’s proprietary trading desk to work in its Hong Kong and Singapore offices. In August, it hired John Yu, a former analyst at SAC Capital Advisors",
+      "publication_date": "2014-09-24T23:42:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/09/24/with-china-set-to-open-stock-trading-investors-lay-groundwork/",
+      "byline": "By Alexandra Stevenson and Neil Gough"
+    },
+    {
+      "headline": "Miss a Payment? Good Luck Moving That Car",
+      "snippet": "Subprime lenders are increasingly relying on technology that allows them to track and disable delinquent borrowers’ vehicles with just a tap of a cellphone app.",
+      "abstract": "Subprime lenders are increasingly relying on technology that allows them to track and disable delinquent borrowers’ vehicles with just a tap of a cellphone app.",
+      "lead_paragraph": "The thermometer showed a 103.5-degree fever, and her 10-year-old’s asthma was flaring up. Mary Bolender, who lives in Las Vegas, needed to get her daughter to an emergency room, but her 2005 Chrysler van would not start.",
+      "publication_date": "2014-09-25T01:33:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/09/24/miss-a-payment-good-luck-moving-that-car/",
+      "byline": "By Michael Corkery and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "A Terror Cell That Avoided the Spotlight",
+      "snippet": "Intelligence officials believe that the Khorasan Group, a Syrian jihadist cell that has emerged as a leading U.S. target, ultimately answers to Al Qaeda’s leader.",
+      "abstract": "Intelligence officials believe that the Khorasan Group, a Syrian jihadist cell that has emerged as a leading U.S. target, ultimately answers to Al Qaeda’s leader.",
+      "lead_paragraph": "WASHINGTON — Some time last year, a Kuwaiti man in his early 30s who had spent more than a decade hiding from the American government arrived in northwest Syria, where he met up with other members of Al Qaeda who had begun putting down roots in a country torn by two years of death and chaos.",
+      "publication_date": "2014-09-25T01:48:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/25/world/middleeast/khorasan-a-terror-cell-that-avoided-the-spotlight.html",
+      "byline": "By Mark Mazzetti"
+    },
+    {
+      "headline": "Holder Backs Suit in New York Faulting Legal Service for Poor ",
+      "snippet": "Attorney General Eric H. Holder Jr. is supporting a class-action lawsuit that accuses Gov. Andrew M. Cuomo and the State of New York of perpetuating a system that violates the rights of people who cannot afford to hire lawyers.",
+      "abstract": "Attorney General Eric H. Holder Jr. is supporting a class-action lawsuit that accuses Gov. Andrew M. Cuomo and the State of New York of perpetuating a system that violates the rights of people who cannot afford to hire lawyers.",
+      "lead_paragraph": "WASHINGTON — Attorney General Eric H. Holder Jr., who last year declared a crisis in America’s legal-defense system for the poor, is supporting a class-action lawsuit that accuses Gov. Andrew M. Cuomo and the State of New York of perpetuating a system that violates the rights of people who cannot afford to hire lawyers.",
+      "publication_date": "2014-09-25T04:00:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/25/nyregion/holder-backs-suit-in-new-york-faulting-legal-service-for-poor.html",
+      "byline": "By Matt Apuzzo"
+    },
+    {
+      "headline": "Eric Holder Resigns, Setting Up Fight Over Successor",
+      "snippet": "Replacing the U.S. Attorney General, who provoked the ire of Republicans as President Obama’s chief liberal warrior, could be a political nightmare.",
+      "abstract": "Replacing the U.S. Attorney General, who provoked the ire of Republicans as President Obama’s chief liberal warrior, could be a political nightmare.",
+      "lead_paragraph": "WASHINGTON — President Obama’s announcement on Thursday that Attorney General Eric H. Holder Jr. would leave the administration sets up an election-season scramble for a replacement to carry on Mr. Holder’s civil rights crusade, wage rhetorical combat with Congress and manage the legal complexities of a presidency increasingly drawn into war with terrorists.",
+      "publication_date": "2014-09-25T14:54:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/09/26/us/politics/eric-holder-resigning-as-attorney-general.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Buoyant Dollar Recovers Its Luster, Underlining Rebound in U.S. Economy",
+      "snippet": "After a prolonged weak spell, the dollar is once again the preferred currency of global investors, who see a resurgence in the American economy.",
+      "abstract": "After a prolonged weak spell, the dollar is once again the preferred currency of global investors, who see a resurgence in the American economy.",
+      "lead_paragraph": "Updated, 9:10 p.m. | President Obama’s handling of the economy may be reviled by his political opponents, but he is receiving support from a surprising quarter: foreign exchange traders.",
+      "publication_date": "2014-09-25T14:55:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/09/25/buoyant-dollar-underlines-resurgence-in-u-s-economy/",
+      "byline": "By Landon Thomas Jr"
+    }
+  ]
+}

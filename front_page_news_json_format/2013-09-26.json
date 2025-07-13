@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2013-09-26",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "A Whole New Idea: Half a Camera",
+      "snippet": "Married to a big-screen smartphone, Sony’s QX cameras turn out great pictures, but the cameras themselves have flaws.",
+      "abstract": "Married to a big-screen smartphone, Sony’s QX cameras turn out great pictures, but the cameras themselves have flaws.",
+      "lead_paragraph": "Sony’s concept for the new QX100 is among the most brilliant in its history.",
+      "publication_date": "2013-09-25T18:37:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/26/technology/personaltech/sonys-whole-new-idea-half-a-camera.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Singapore Looks Below for More Room",
+      "snippet": "The city-state is looking at the possibility of an Underground Science City containing 40 interconnected caverns for data centers and research labs.",
+      "abstract": "The city-state is looking at the possibility of an Underground Science City containing 40 interconnected caverns for data centers and research labs.",
+      "lead_paragraph": "SINGAPORE — Singapore, with a little less land mass than New York City, is running out of room for its 5.4 million people.",
+      "publication_date": "2013-09-25T18:38:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/26/business/international/crowded-singapore-looks-below-for-room-to-grow.html",
+      "byline": "By Calvin Yang"
+    },
+    {
+      "headline": "Detroit Spent Billions Extra on Pensions",
+      "snippet": "Detroit’s municipal pension fund made undisclosed payments for decades to retirees, active workers and others above and beyond normal benefits, costing the struggling city billions of dollars, according to an outside actuary hired to examine the p...",
+      "abstract": "Detroit’s municipal pension fund made undisclosed payments for decades to retirees, active workers and others above and beyond normal benefits, costing the struggling city billions of dollars, according to an outside actuary hired to examine the payments.",
+      "lead_paragraph": "Detroit’s municipal pension fund made payments for decades to retirees, active workers and others above and beyond normal benefits, costing the struggling city billions of dollars and helping push it into bankruptcy, according to people who have reviewed the payments.",
+      "publication_date": "2013-09-25T19:08:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2013/09/25/undisclosed-payments-cost-detroit-pension-plan-billions/",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Iran’s Leader, Denouncing Holocaust, Stirs Dispute",
+      "snippet": "President Hassan Rouhani’s condemnation of the Holocaust has set off a political storm, landing him in precisely the kind of tangled dispute he had hoped to avoid.",
+      "abstract": "President Hassan Rouhani’s condemnation of the Holocaust has set off a political storm, landing him in precisely the kind of tangled dispute he had hoped to avoid.",
+      "lead_paragraph": "WASHINGTON — As he conducts a high-profile good-will visit to New York this week, Iran’s new president, Hassan Rouhani, says he is bringing a simple message of peace and friendship. But on Wednesday, Mr. Rouhani set off a political storm here and in Iran, with an acknowledgment and condemnation of the Holocaust that landed him in precisely the kind of tangled dispute he had hoped to avoid.",
+      "publication_date": "2013-09-25T21:59:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/26/world/middleeast/for-irans-leader-time-is-not-yet-right-for-meeting-obama.html",
+      "byline": "By Mark Landler and Thomas Erdbrink"
+    },
+    {
+      "headline": "‘Breaking Bad’ Creator Gilligan in Deal for CBS Show, ‘Battle Creek’",
+      "snippet": "Vince Gilligan wrote the new series, a police drama, for CBS 10 years ago, and it will begin next fall.",
+      "abstract": "Vince Gilligan wrote the new series, a police drama, for CBS 10 years ago, and it will begin next fall.",
+      "lead_paragraph": "Vince Gilligan, the creator and producer of one of the most-talked-about series in recent years, “Breaking Bad,” is the hottest name in television. “Breaking Bad” is fresh off an Emmy win for best drama and drawing huge audiences as it builds toward the final episode of its five-season run on AMC on Sunday. ",
+      "publication_date": "2013-09-25T23:31:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/26/business/media/breaking-bad-creator-gilligan-in-deal-for-cbs-show-battle-creek.html",
+      "byline": "By Bill Carter"
+    },
+    {
+      "headline": "Fund to Let Investors Bet on Price of Bitcoins",
+      "snippet": "SecondMarket is expected to begin raising money for an investment fund that will hold only bitcoins, giving wealthy investors exposure to the virtual currency.",
+      "abstract": "SecondMarket is expected to begin raising money for an investment fund that will hold only bitcoins, giving wealthy investors exposure to the virtual currency.",
+      "lead_paragraph": "The upstart stock exchange SecondMarket has made a name for itself allowing investors to buy shares of hot private companies like Twitter. Now that those companies are going public, SecondMarket is turning its attention to the next new thing — bitcoin.",
+      "publication_date": "2013-09-26T00:00:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/09/25/fund-to-let-investors-bet-on-price-of-bitcoins/",
+      "byline": "By Peter Lattman and Nathaniel Popper"
+    },
+    {
+      "headline": "U.S. Sees Direct Threat in Attack at Kenya Mall",
+      "snippet": "Dozens of F.B.I. agents are investigating the wreckage, hoping to glean every piece of information possible to help prevent such a devastating attack from happening again, possibly even on American soil.",
+      "abstract": "Dozens of F.B.I. agents are investigating the wreckage, hoping to glean every piece of information possible to help prevent such a devastating attack from happening again, possibly even on American soil.",
+      "lead_paragraph": "NAIROBI, Kenya — Viewing the deadly siege at a shopping mall in Kenya as a direct threat to its security, the United States is deploying dozens of F.B.I. agents to investigate the wreckage, hoping to glean every piece of information possible to help prevent such a devastating attack from happening again, possibly even on American soil.",
+      "publication_date": "2013-09-26T00:29:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/26/world/africa/us-sees-direct-threat-in-attack-at-kenya-mall.html",
+      "byline": "By Nicholas Kulish and Jeffrey Gettleman"
+    },
+    {
+      "headline": "Tech Giants Fear Spread of Patent Wars to Europe",
+      "snippet": "After spending hundreds of millions of dollars in the United States to defend patent-infringement lawsuits, the companies worry that Europe could become a similar battleground.",
+      "abstract": "After spending hundreds of millions of dollars in the United States to defend patent-infringement lawsuits, the companies worry that Europe could become a similar battleground.",
+      "lead_paragraph": "LONDON — The technology industry is expanding its fight against patent trolls to Europe.",
+      "publication_date": "2013-09-26T02:01:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/26/technology/tech-giants-fear-spread-of-patent-wars-to-europe.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Ground Gives Way, and a Louisiana Town Struggles to Find Its Footing",
+      "snippet": "Almost nothing in Bayou Corne has been the same since a voracious sinkhole opened up in 2012, and a year later it’s still growing, swallowing trees and belching methane.",
+      "abstract": "Almost nothing in Bayou Corne has been the same since a voracious sinkhole opened up in 2012, and a year later it’s still growing, swallowing trees and belching methane.",
+      "lead_paragraph": "BAYOU CORNE, La. — It was nearly 16 months ago that Dennis P. Landry and his wife, Pat, on a leisurely cruise in their Starcraft pontoon boat, first noticed a froth of bubbles issuing from the depths of Bayou Corne, an idyllic, cypress-draped stream that meanders through swampy southern Louisiana. They figured it was a leaky gas pipeline. So did everyone else. ",
+      "publication_date": "2013-09-26T02:36:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/26/us/ground-gives-way-and-a-louisiana-town-struggles-to-find-its-footing.html",
+      "byline": "By Michael Wines"
+    }
+  ]
+}

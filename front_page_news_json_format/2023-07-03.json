@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "date": "2023-07-03",
+    "total_articles": 17
+  },
+  "articles": [
+    {
+      "headline": "How Amazon Taught Alexa to Speak in an Irish Brogue",
+      "snippet": "For Alexa to speak like a Dubliner, Amazon researchers had to crack a problem that’s vexed data scientists for years: voice disentanglement.",
+      "abstract": "For Alexa to speak like a Dubliner, Amazon researchers had to crack a problem that’s vexed data scientists for years: voice disentanglement.",
+      "lead_paragraph": "Like Henry Higgins, the phonetician from George Bernard Shaw’s play “Pygmalion,” Marius Cotescu and Georgi Tinchev recently demonstrated how their student was trying to overcome pronunciation difficulties.",
+      "publication_date": "2023-07-01T09:00:14+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/01/technology/amazon-alexa-irish.html",
+      "byline": "By Bernhard Warner"
+    },
+    {
+      "headline": "A ‘Cage Match’ Between Elon Musk and Mark Zuckerberg May Be No Joke",
+      "snippet": "Talks over a matchup between the two tech billionaires have progressed and the parameters of an event are taking shape.",
+      "abstract": "Talks over a matchup between the two tech billionaires have progressed and the parameters of an event are taking shape.",
+      "lead_paragraph": "The day after Elon Musk challenged Mark Zuckerberg on social media to “a cage match” last month, Dana White, president of the Ultimate Fighting Championship, received a text.",
+      "publication_date": "2023-07-01T09:01:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/01/technology/elon-musk-mark-zuckerberg-cage-match.html",
+      "byline": "By Ryan Mac and Mike Isaac"
+    },
+    {
+      "headline": "Wagner Uprising Highlights China’s Risks With Russia",
+      "snippet": "Xi Jinping needs Vladimir Putin to remain in power, and Russia to maintain stability, to help uphold the countries’ shared interests and to keep challenging the United States.",
+      "abstract": "Xi Jinping needs Vladimir Putin to remain in power, and Russia to maintain stability, to help uphold the countries’ shared interests and to keep challenging the United States.",
+      "lead_paragraph": "Just three months ago, China’s top leader, Xi Jinping, was in Moscow clinking glasses with Vladimir V. Putin and expressing his confidence in the “firm support” the Russian president enjoyed among his people.",
+      "publication_date": "2023-07-01T09:01:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/01/world/asia/wagner-uprising-china-russia.html",
+      "byline": "By David Pierson and Olivia Wang"
+    },
+    {
+      "headline": "Everyone Knew the Migrant Ship Was Doomed. No One Helped.",
+      "snippet": "Satellite imagery, sealed court documents and interviews with survivors suggest that hundreds of deaths were preventable.",
+      "abstract": "Satellite imagery, sealed court documents and interviews with survivors suggest that hundreds of deaths were preventable.",
+      "lead_paragraph": "From air and by sea, using radar, telephone and radio, officials watched and listened for 13 hours as the migrant ship Adriana lost power, then drifted aimlessly off the coast of Greece in a slowly unfolding humanitarian disaster.",
+      "publication_date": "2023-07-01T09:01:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/01/world/europe/greece-migrant-ship.html",
+      "byline": "By Matina Stevis-Gridneff and Karam Shoumali"
+    },
+    {
+      "headline": "Along With Conservative Triumphs, Signs of New Caution at Supreme Court",
+      "snippet": "Chief Justice Roberts delivered both landmark victories for the right and significant rulings in which he forged alliances with the liberal justices.",
+      "abstract": "Chief Justice Roberts delivered both landmark victories for the right and significant rulings in which he forged alliances with the liberal justices.",
+      "lead_paragraph": "The Supreme Court ended its term this week in familiar fashion, issuing blockbuster conservative decisions on affirmative action, gay rights and student loans that divided along partisan lines, with the court’s three Democratic appointees in dissent.",
+      "publication_date": "2023-07-01T16:42:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/01/us/supreme-court-liberal-conservative.html",
+      "byline": "By Adam Liptak and Alicia Parlapiano"
+    },
+    {
+      "headline": "Hunter Biden’s Daughter and a Tale of Two Families",
+      "snippet": "The story surrounding the president’s grandchild in Arkansas, who has not yet met her father or her grandfather, is about money, corrosive politics and what it means to have the Biden birthright.",
+      "abstract": "The story surrounding the president’s grandchild in Arkansas, who has not yet met her father or her grandfather, is about money, corrosive politics and what it means to have the Biden birthright.",
+      "lead_paragraph": "There is a 4-year-old girl in rural Arkansas who is learning to ride a camouflage-patterned four-wheeler alongside her cousins. Some days, she wears a bow in her hair, and on other days, she threads her long blond ponytail through the back of a baseball cap. When she is old enough, she will learn to hunt, just like her mother did when she was young.",
+      "publication_date": "2023-07-01T16:44:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/01/us/politics/hunter-biden-daughter-arkansas.html",
+      "byline": "By Katie Rogers"
+    },
+    {
+      "headline": "A Fatal Shooting and a Hijab Ban: Two Faces of France’s Racial Divisions",
+      "snippet": "The almost simultaneous police killing of Nahel Merzouk and a ban on head scarves in soccer were coincidental, but they illuminate France’s crisis of identity and inclusion.",
+      "abstract": "The almost simultaneous police killing of Nahel Merzouk and a ban on head scarves in soccer were coincidental, but they illuminate France’s crisis of identity and inclusion.",
+      "lead_paragraph": "Mama Diakité is a French citizen, raised in the suburbs of Paris by two immigrant parents, not far from where a 17-year-old boy was shot by the police during a traffic stop last week.",
+      "publication_date": "2023-07-02T08:34:46+0000",
+      "section_name": "International Home",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/02/france-nahel-soccer-hijab.html",
+      "byline": "By Catherine Porter"
+    },
+    {
+      "headline": "A Rubik’s Cube, Thick Socks and Giddy Anticipation: The Last Hours of the Titan",
+      "snippet": "Five voyagers climbed into the Titan submersible in hopes of joining the select few who have seen the wreck of the Titanic up close. But within hours, their text messages stopped coming.",
+      "abstract": "Five voyagers climbed into the Titan submersible in hopes of joining the select few who have seen the wreck of the Titanic up close. But within hours, their text messages stopped coming.",
+      "lead_paragraph": "The last time Christine Dawood saw her husband, Shahzada, and their son, Suleman, they were specks on the North Atlantic, bobbing on a floating platform about 400 miles from land. It was Father’s Day, June 18, and she watched from the support ship as they climbed into a 22-foot submersible craft called Titan.",
+      "publication_date": "2023-07-02T09:00:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/02/us/titan-submersible-passengers.html",
+      "byline": "By John Branch and Christina Goldbaum"
+    },
+    {
+      "headline": "Uncensored Chatbots Provoke a Fracas Over Free Speech",
+      "snippet": "A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks.",
+      "abstract": "A new generation of chatbots doesn’t have many of the guardrails put in place by companies like Google and OpenAI, presenting new possibilities — and risks.",
+      "lead_paragraph": "A.I. chatbots have lied about notable figures, pushed partisan messages, spewed misinformation or even advised users on how to commit suicide.",
+      "publication_date": "2023-07-02T09:01:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/02/technology/ai-chatbots-misinformation-free-speech.html",
+      "byline": "By Stuart A. Thompson"
+    },
+    {
+      "headline": "Lithium Scarcity Pushes Carmakers Into the Mining Business",
+      "snippet": "Ford, General Motors and others are striking deals with mining companies to avoid raw material shortages that could thwart their electric vehicle ambitions.",
+      "abstract": "Ford, General Motors and others are striking deals with mining companies to avoid raw material shortages that could thwart their electric vehicle ambitions.",
+      "lead_paragraph": "Eager to avoid falling further behind Tesla and Chinese car companies, many Western auto executives are bypassing traditional suppliers and committing billions of dollars on deals with lithium mining companies.",
+      "publication_date": "2023-07-02T09:01:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/02/business/lithium-mining-automakers-electric-vehicles.html",
+      "byline": "By Clifford Krauss and Jack Ewing"
+    },
+    {
+      "headline": "Tesla Sales Surge as Tax Credits Fuel Demand",
+      "snippet": "Incentives and price cuts made Tesla electric cars cheaper than comparable gasoline models. But the company faces growing competition in China, a key market.",
+      "abstract": "Incentives and price cuts made Tesla electric cars cheaper than comparable gasoline models. But the company faces growing competition in China, a key market.",
+      "lead_paragraph": "Tesla sales rose a better-than-expected 10 percent in the second quarter as the company led by Elon Musk benefited from government incentives and price cuts that made its electric cars less expensive than comparable gasoline models.",
+      "publication_date": "2023-07-02T16:16:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/02/business/tesla-q2-sales-deliveries.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "As 2024 Voting Battles Heat Up, North Carolina G.O.P. Presses Forward",
+      "snippet": "Republicans, whose edge in the state has narrowed in recent years, have gone on offense politically, leading to clashes over voting access and control over elections.",
+      "abstract": "Republicans, whose edge in the state has narrowed in recent years, have gone on offense politically, leading to clashes over voting access and control over elections.",
+      "lead_paragraph": "A closely watched political fight is developing in North Carolina over voting rights and control of elections, as Democrats aim to recapture a presidential battleground and Republicans look to win back the governor’s office.",
+      "publication_date": "2023-07-02T17:30:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/02/us/politics/north-carolina-voting-rights.html",
+      "byline": "By Nick Corasaniti"
+    },
+    {
+      "headline": "Israel Launches Biggest Air Attack on West Bank in Nearly Two Decades",
+      "snippet": "Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.",
+      "abstract": "Israel said it used drone-fired missiles and ground troops against militant targets in the Jenin refugee camp. The assault killed at least eight Palestinians, the Palestinian health ministry said.",
+      "lead_paragraph": "Israel launched its most intense airstrikes on the occupied West Bank in nearly two decades on Monday, and sent hundreds of ground troops into the narrow streets and alleys of the crowded Jenin refugee camp, saying it was trying to root out armed militants after a year of escalating violence there.",
+      "publication_date": "2023-07-03T00:37:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/02/world/middleeast/israel-west-bank-jenin.html",
+      "byline": "By Isabel Kershner"
+    },
+    {
+      "headline": "Cracking Down on Dissent, Russia Seeds a Surveillance Supply Chain",
+      "snippet": "Russia is incubating a cottage industry of new digital surveillance tools to suppress domestic opposition to the war in Ukraine. The tech may also be sold overseas.",
+      "abstract": "Russia is incubating a cottage industry of new digital surveillance tools to suppress domestic opposition to the war in Ukraine. The tech may also be sold overseas.",
+      "lead_paragraph": "As the war in Ukraine unfolded last year, Russia’s best digital spies turned to new tools to fight an enemy on another front: those inside its own borders who opposed the war.",
+      "publication_date": "2023-07-03T04:01:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/03/technology/russia-ukraine-surveillance-tech.html",
+      "byline": "By Aaron Krolik, Paul Mozur and Adam Satariano"
+    },
+    {
+      "headline": "With DeSantis on the Stump, Disney Sees a Long Campaign Ahead",
+      "snippet": "The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.",
+      "abstract": "The company, long allergic to controversy, is likely to be the subject of very public and partisan criticism throughout the Republican primary.",
+      "lead_paragraph": "As Gov. Ron DeSantis of Florida has embarked on his presidential run, a main pillar of his message is “holding woke corporations accountable,” as a fund-raising email put it on Tuesday. And to hammer home that sentiment, he has been railing against one target at nearly every campaign stop: Disney.",
+      "publication_date": "2023-07-03T09:00:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/03/business/disney-ron-desantis-criticism.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Why Car Repairs Have Become So Expensive",
+      "snippet": "More technology and creature comforts, as well as a parade of new electric vehicles, have complicated the job after accidents.",
+      "abstract": "More technology and creature comforts, as well as a parade of new electric vehicles, have complicated the job after accidents.",
+      "lead_paragraph": "New cars and trucks are packed with sensors and technology that protect and pamper drivers and passengers. But those features are also raising the cost of repairs after accidents.",
+      "publication_date": "2023-07-03T09:01:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/03/business/car-repairs-electric-vehicles.html",
+      "byline": "By Lawrence Ulrich"
+    },
+    {
+      "headline": "Canada Offers Lesson in the Economic Toll of Climate Change",
+      "snippet": "Wildfires are hurting many industries and could strain households across Canada, one of many countries reckoning with the impact of extreme weather.",
+      "abstract": "Wildfires are hurting many industries and could strain households across Canada, one of many countries reckoning with the impact of extreme weather.",
+      "lead_paragraph": "Canada’s wildfires have burned 20 million acres, blanketed Canadian and U.S. cities with smoke and raised health concerns on both sides of the border, with no end in sight. The toll on the Canadian economy is only beginning to sink in.",
+      "publication_date": "2023-07-03T14:05:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/03/business/economy/canada-wildfires-economy.html",
+      "byline": "By Lydia DePillis"
+    }
+  ]
+}

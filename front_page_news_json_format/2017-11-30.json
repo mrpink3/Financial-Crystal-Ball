@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-11-30",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Drone Maker D.J.I. May Be Sending Data to China, U.S. Officials Say",
+      "snippet": "A memo from the Immigration and Customs Enforcement bureau says the firm’s commercial products may be sending sensitive information about U.S. infrastructure back to China, raising security concerns.",
+      "abstract": "A memo from the Immigration and Customs Enforcement bureau says the firm’s commercial products may be sending sensitive information about U.S. infrastructure back to China, raising security concerns.",
+      "lead_paragraph": "SHANGHAI — D.J.I., the popular drone maker, stands as a symbol of China’s growing technology prowess. Its propeller-powered machines dominate global markets and buzz regularly over beaches, cityscapes at sunset and increasingly, power plants and government installations.",
+      "publication_date": "2017-11-29T20:37:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/29/technology/dji-china-data-drones.html",
+      "byline": "By Paul Mozur"
+    },
+    {
+      "headline": "Matt Lauer Firing Caps a Difficult Time at NBC News",
+      "snippet": "He led the network’s highly profitable “Today” show for more than 20 years. Now, the show is in trouble — and the news division is under attack.",
+      "abstract": "He led the network’s highly profitable “Today” show for more than 20 years. Now, the show is in trouble — and the news division is under attack.",
+      "lead_paragraph": "Even his co-hosts did not know until 4 a.m. on Wednesday, just hours before the official announcement, that Matt Lauer had been fired after a serious allegation of sexual misconduct. That was when the NBC News president, Noah Oppenheim, called two of his “Today” show anchors, Savannah Guthrie and Hoda Kotb.",
+      "publication_date": "2017-11-29T23:03:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/29/business/media/matt-lauer-nbc-news-firing.html",
+      "byline": "By Michael M. Grynbaum and John Koblin"
+    },
+    {
+      "headline": "British Far-Right Group Exults Over Attention From Trump",
+      "snippet": "Britain First, which believes that white Christian civilization is under threat from Islam, had been marginal. Now it has gotten an unexpected lift from the White House.",
+      "abstract": "Britain First, which believes that white Christian civilization is under threat from Islam, had been marginal. Now it has gotten an unexpected lift from the White House.",
+      "lead_paragraph": "LONDON — She organized “Christian patrols,” marched with crosses through heavily Muslim neighborhoods and accosted veiled women to rail against Islam. She was barred from entering any mosque in England. She has been arrested several times, most recently this month, on charges of making threats and abusive remarks.",
+      "publication_date": "2017-11-29T23:39:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/29/world/europe/britain-first-trump.html",
+      "byline": "By Dan Bilefsky and Stephen Castle"
+    },
+    {
+      "headline": "It Started as a Tax Cut. Now It Could Change American Life.",
+      "snippet": "An overhaul championed by President Trump and Republican leaders could reshape health care, education and social services.",
+      "abstract": "An overhaul championed by President Trump and Republican leaders could reshape health care, education and social services.",
+      "lead_paragraph": "The tax plan has been marketed by President Trump and Republican leaders as a straightforward if enormous rebate for the masses, a $1.5 trillion package of cuts to spur hiring and economic growth. But as the bill has been rushed through Congress with scant debate, its far broader ramifications have come into focus, revealing a catchall legislative creation that could reshape major areas of American life, from education to health care.",
+      "publication_date": "2017-11-29T23:49:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/29/business/republican-tax-cut.html",
+      "byline": "By Peter S. Goodman and Patricia Cohen"
+    },
+    {
+      "headline": "A Failure of the Network News Star System",
+      "snippet": "What did Matt Lauer, Charlie Rose and Bill O’Reilly have in common? They were encouraged to be larger-than-life characters before their sudden falls.",
+      "abstract": "What did Matt Lauer, Charlie Rose and Bill O’Reilly have in common? They were encouraged to be larger-than-life characters before their sudden falls.",
+      "lead_paragraph": "Matt Lauer, of NBC News, played the easygoing dad you could rely on — fun-loving but serious enough when he had to be.",
+      "publication_date": "2017-11-30T01:56:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/29/business/media/matt-lauer-sexual-misconduct.html",
+      "byline": "By Jim Rutenberg"
+    },
+    {
+      "headline": "A Generation in Japan Faces a Lonely Death",
+      "snippet": "In postwar Japan, a single-minded focus on rapid economic growth helped erode family ties. Now, a generation of elderly Japanese is dying alone.",
+      "abstract": "In postwar Japan, a single-minded focus on rapid economic growth helped erode family ties. Now, a generation of elderly Japanese is dying alone.",
+      "lead_paragraph": "TOKIWADAIRA, Japan — Cicadas, every Japanese schoolchild knows, lie underground for years before rising to the earth’s surface in summer. They climb up the nearest tree, where they cast off their shells and start their short second lives. During their few days among us, they mate, fly and cry. They cry until their bodies are found on the ground, twitching in their last moments, or on their backs with their legs pointing upward.",
+      "publication_date": "2017-11-30T08:00:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2017/11/30/world/asia/japan-lonely-deaths-the-end.html",
+      "byline": "By Norimitsu Onishi"
+    },
+    {
+      "headline": "How 41 People in Lithuania Took Over Your Facebook Feed",
+      "snippet": "The viral publisher Bored Panda is thriving on the social network despite the algorithm changes that doomed its competitors.",
+      "abstract": "The viral publisher Bored Panda is thriving on the social network despite the algorithm changes that doomed its competitors.",
+      "lead_paragraph": "Of all of Facebook’s superpowers, perhaps the most disconcerting is how it can make online publishers disappear with the push of a button.",
+      "publication_date": "2017-11-30T10:00:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/30/technology/facebook-bored-panda.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "In Snub to U.S., Russia and Egypt Move Toward Deal on Air Bases",
+      "snippet": "Moscow and Cairo signed a preliminary agreement that would give Russia its deepest presence in Egypt since Soviet times.",
+      "abstract": "Moscow and Cairo signed a preliminary agreement that would give Russia its deepest presence in Egypt since Soviet times.",
+      "lead_paragraph": "LONDON — Egypt, in what appeared to be a snub to the Trump administration, has reached a preliminary agreement to allow Russian military jets to use its airspace and bases, both sides said Thursday.",
+      "publication_date": "2017-11-30T13:14:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/30/world/middleeast/russia-egypt-air-bases.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "White House Plans Tillerson Ouster From State Dept., to Be Replaced by Pompeo",
+      "snippet": "A transition plan would install Mike Pompeo, the C.I.A. director, as secretary of state, and tap Senator Tom Cotton to lead the spy agency, officials said.",
+      "abstract": "A transition plan would install Mike Pompeo, the C.I.A. director, as secretary of state, and tap Senator Tom Cotton to lead the spy agency, officials said.",
+      "lead_paragraph": "WASHINGTON — The White House has developed a plan to force out Secretary of State Rex W. Tillerson, whose relationship with President Trump has been strained, and replace him with Mike Pompeo, the C.I.A. director, perhaps within the next several weeks, senior administration officials said on Thursday.",
+      "publication_date": "2017-11-30T14:46:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/30/us/politics/state-department-tillerson-pompeo-trump.html",
+      "byline": "By Peter Baker, Maggie Haberman and Gardiner Harris"
+    },
+    {
+      "headline": "Markets Pass Another Milestone, as Investors Remain Fearless",
+      "snippet": "The latest landmark — Dow 24,000 — reflects optimism about rising profits and lower taxes, and a seeming imperviousness to unsettling news.",
+      "abstract": "The latest landmark — Dow 24,000 — reflects optimism about rising profits and lower taxes, and a seeming imperviousness to unsettling news.",
+      "lead_paragraph": "One of the longest stock-market booms in history continued its gravity-defying ascent Thursday, with investors cheering the prospect of deep corporate tax cuts and the rollback of government regulations under President Trump.",
+      "publication_date": "2017-11-30T15:13:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/30/business/dow-stock-markets.html",
+      "byline": "By Landon Thomas Jr"
+    }
+  ]
+}

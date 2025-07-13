@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-07-18",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Biden Invites Netanyahu to U.S., Easing Tensions",
+      "snippet": "The invitation to the Israeli prime minister came on the eve of a visit to the White House by Isaac Herzog, the Israeli president.",
+      "abstract": "The invitation to the Israeli prime minister came on the eve of a visit to the White House by Isaac Herzog, the Israeli president.",
+      "lead_paragraph": "President Biden on Monday invited Prime Minister Benjamin Netanyahu of Israel to a meeting in the United States for the first time since Mr. Netanyahu re-entered office in December, easing months of tensions about the direction of Israel’s government.",
+      "publication_date": "2023-07-17T16:14:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/17/world/middleeast/biden-herzog-netanyahu-israel.html",
+      "byline": "By Michael D. Shear and Patrick Kingsley"
+    },
+    {
+      "headline": "Jerome Powell’s Prized Labor Market Is Back. Can He Keep It?",
+      "snippet": "The Federal Reserve chair spent the early pandemic bemoaning the loss of a strong job market. It roared back — and now its fate is in his hands.",
+      "abstract": "The Federal Reserve chair spent the early pandemic bemoaning the loss of a strong job market. It roared back — and now its fate is in his hands.",
+      "lead_paragraph": "Jerome H. Powell, the chair of the Federal Reserve, spent the early pandemic lamenting something America had lost: a job market so historically strong that it was boosting marginalized groups, extending opportunities to people and communities that had long lived without them.",
+      "publication_date": "2023-07-17T18:20:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/17/business/economy/jerome-powell-job-market-employment.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Explosions Damage Crimea Bridge as Russia Blames Ukraine for Attack",
+      "snippet": "Russia accused Ukraine of hitting the Kerch Strait Bridge for the second time in 10 months, saying that two maritime drones had struck the bridge, an essential supply line for Russian troops.",
+      "abstract": "Russia accused Ukraine of hitting the Kerch Strait Bridge for the second time in 10 months, saying that two maritime drones had struck the bridge, an essential supply line for Russian troops.",
+      "lead_paragraph": "Predawn explosions hit the only bridge linking the occupied Crimean Peninsula to mainland Russia on Monday, damaging a vital symbol of President Vladimir V. Putin’s claims to sovereignty over Ukrainian territory and briefly disrupting a major supply line to Russian troops.",
+      "publication_date": "2023-07-17T22:26:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/17/world/europe/russia-ukraine-crimea-bridge.html",
+      "byline": "By Marc Santora, Neil MacFarquhar and Haley Willis"
+    },
+    {
+      "headline": "Modi and India’s Diaspora: A Complex Love Affair Making Global Waves",
+      "snippet": "Prime Minister Narendra Modi has tried to fuse his image to the economic and political power of Indians abroad. They voice both pride and worry in return.",
+      "abstract": "Prime Minister Narendra Modi has tried to fuse his image to the economic and political power of Indians abroad. They voice both pride and worry in return.",
+      "lead_paragraph": "On the final night of his visit to Washington in late June, after 15 standing ovations in Congress and an opulent White House dinner tailored to his vegetarian tastes, Prime Minister Narendra Modi of India set time aside to court and be cheered by another important constituency: the Indian diaspora.",
+      "publication_date": "2023-07-18T04:01:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/18/world/asia/india-diaspora.html",
+      "byline": "By Damien Cave"
+    },
+    {
+      "headline": "OpenAI Worries About What Its Chatbot Will Say About People’s Faces",
+      "snippet": "An advanced version of ChatGPT can analyze images and is already helping the blind. But its ability to put a name to a face is one reason the public doesn’t have access to it.",
+      "abstract": "An advanced version of ChatGPT can analyze images and is already helping the blind. But its ability to put a name to a face is one reason the public doesn’t have access to it.",
+      "lead_paragraph": "The chatbot that millions of people have used to write term papers, computer code and fairy tales doesn’t just do words. ChatGPT, the artificial-intelligence-powered tool from OpenAI, can analyze images, too — describing what’s in them, answering questions about them and even recognizing specific people’s faces. The hope is that, eventually, someone could upload a picture of a broken-down car’s engine or a mysterious rash and ChatGPT could suggest the fix.",
+      "publication_date": "2023-07-18T09:00:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/18/technology/openai-chatgpt-facial-recognition.html",
+      "byline": "By Kashmir Hill"
+    },
+    {
+      "headline": "Biden, Caught in Political Cross Currents, Navigates U.S.-Israel Relationship",
+      "snippet": "President Biden sought a middle ground in meeting with President Isaac Herzog of Israel, amid Republican criticism and divisions within his own party over a key American ally.",
+      "abstract": "President Biden sought a middle ground in meeting with President Isaac Herzog of Israel, amid Republican criticism and divisions within his own party over a key American ally.",
+      "lead_paragraph": "When Representative Pramila Jayapal, a Washington Democrat, called Israel a “racist state” on Saturday, White House officials swiftly proclaimed America’s “ironclad” relationship with its Middle Eastern ally and made clear that President Biden objected to her remarks.",
+      "publication_date": "2023-07-18T09:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/18/us/politics/biden-israel-netanyahu-herzog.html",
+      "byline": "By Michael D. Shear and Patrick Kingsley"
+    },
+    {
+      "headline": "A Blessing and a Boogeyman: Advertisers Warily Embrace A.I.",
+      "snippet": "Many ads are easier to make with the fast-improving technology. It also poses a threat to an industry already in flux.",
+      "abstract": "Many ads are easier to make with the fast-improving technology. It also poses a threat to an industry already in flux.",
+      "lead_paragraph": "The advertising industry is in a love-hate relationship with artificial intelligence.",
+      "publication_date": "2023-07-18T09:00:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/18/business/media/ai-advertising.html",
+      "byline": "By Tiffany Hsu and Yiwen Lu"
+    },
+    {
+      "headline": "Phoenix Breaks Heat Record Set in 1974",
+      "snippet": "As much of the South bakes, Phoenix blazed past a milestone set half a century ago for consecutive days with 110-degree or higher temperatures.",
+      "abstract": "As much of the South bakes, Phoenix blazed past a milestone set half a century ago for consecutive days with 110-degree or higher temperatures.",
+      "lead_paragraph": "On Tuesday, Phoenix reached a miserable milestone: It was the first time the city had measured 19 days in a row of 110-degree or more temperatures, busting a record set in 1974. ",
+      "publication_date": "2023-07-18T09:00:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/18/us/phoenix-heat-record.html",
+      "byline": "By Jacey Fortin and Mary Beth Gahan"
+    },
+    {
+      "headline": "Trump Says He’s Target in Special Counsel’s Investigation Into Jan. 6",
+      "snippet": "It would be the second time the special counsel has notified the former president that he is likely to face indictment, this time in connection with the criminal investigation of the Capitol attack.",
+      "abstract": "It would be the second time the special counsel has notified the former president that he is likely to face indictment, this time in connection with the criminal investigation of the Capitol attack.",
+      "lead_paragraph": "Former President Donald J. Trump has been informed that he could soon face federal indictment for his efforts to hold onto power after his 2020 election loss, potentially adding to the remarkable array of criminal charges and other legal troubles facing him even as he campaigns to return to the White House.",
+      "publication_date": "2023-07-18T13:40:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/18/us/politics/trump-jan-6-target-letter.html",
+      "byline": "By Maggie Haberman, Glenn Thrush, Adam Goldman and Alan Feuer"
+    },
+    {
+      "headline": "Meta Unveils a More Powerful A.I. and Isn’t Fretting Over Who Uses It",
+      "snippet": "The company said it would give outside programmers access to the latest version of its core artificial intelligence technology.",
+      "abstract": "The company said it would give outside programmers access to the latest version of its core artificial intelligence technology.",
+      "lead_paragraph": "The largest companies in the tech industry have spent the year warning that development of artificial intelligence technology is outpacing their wildest expectations and that they need to limit who has access to it.",
+      "publication_date": "2023-07-18T15:50:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
+      "byline": "By Mike Isaac and Cade Metz"
+    }
+  ]
+}

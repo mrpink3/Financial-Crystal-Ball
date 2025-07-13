@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2023-06-16",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "At the Heart of the Documents Case: Trump’s Attachment to His Boxes",
+      "snippet": "The former president has long stowed papers and odds and ends in cartons that he liked to keep close. His aides have called it the “beautiful mind” material.",
+      "abstract": "The former president has long stowed papers and odds and ends in cartons that he liked to keep close. His aides have called it the “beautiful mind” material.",
+      "lead_paragraph": "During President Donald J. Trump’s years in the White House, his aides began to refer to the boxes full of papers and odds and ends he carted around with him almost everywhere as the “beautiful mind” material.",
+      "publication_date": "2023-06-15T20:06:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/15/us/politics/trump-documents-boxes.html",
+      "byline": "By Maggie Haberman, Alan Feuer and Michael S. Schmidt"
+    },
+    {
+      "headline": "Amazon’s Freevee Embraces the Judy-Verse",
+      "snippet": "The free, ad-supported streaming service is quadrupling down on Judge Judith Sheindlin. And she’s bringing her “nepo babies” along.",
+      "abstract": "The free, ad-supported streaming service is quadrupling down on Judge Judith Sheindlin. And she’s bringing her “nepo babies” along.",
+      "lead_paragraph": "In 2021, Judge Judith Sheindlin, the razor-tongued court show star, decamped from the dying medium of daytime broadcast syndication and joined Amazon for a streaming-era experiment.",
+      "publication_date": "2023-06-16T09:01:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/16/business/amazon-freevee-judge-judy.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "The Titanic Truthers of TikTok",
+      "snippet": "On the short-form video app, long-established facts about the 1912 disaster at sea are being newly litigated as musty rumors merge with fresh misinformation and manipulated content.",
+      "abstract": "On the short-form video app, long-established facts about the 1912 disaster at sea are being newly litigated as musty rumors merge with fresh misinformation and manipulated content.",
+      "lead_paragraph": "The finer details of what happened to the RMS Titanic differ depending on who is telling the story.",
+      "publication_date": "2023-06-16T13:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/06/16/business/titanic-tiktok-misinformation.html",
+      "byline": "By Tiffany Hsu and Sapna Maheshwari"
+    },
+    {
+      "headline": "Market Rally Intensifies Debate Over What Will Come Next",
+      "snippet": "The stock market is on its longest winning streak since 2021. Some investors see trouble ahead.",
+      "abstract": "The stock market is on its longest winning streak since 2021. Some investors see trouble ahead.",
+      "lead_paragraph": "The stock market is on a tear, and investors face a tricky question: Will the rally last?",
+      "publication_date": "2023-06-16T13:50:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/16/business/stocks-bull-bear-forecast.html",
+      "byline": "By Joe Rennison"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-05-19",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "New Rules Would Limit Trades in Volatile Market",
+      "snippet": "The Securities and Exchange Commission will try circuit breakers that will pause trading in stocks if their price moves by 10 percent or more in a five-minute period.",
+      "abstract": "The Securities and Exchange Commission will try circuit breakers that will pause trading in stocks if their price moves by 10 percent or more in a five-minute period.",
+      "lead_paragraph": "WASHINGTON — The Securities and Exchange Commission said Tuesday that it would temporarily institute circuit breakers on all the stocks in the Standard & Poor’s 500-stock index after the huge market gyrations on May 6.",
+      "publication_date": "2010-05-18T22:12:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/19/business/19crash.html",
+      "byline": "By Edward Wyatt and Graham Bowley"
+    },
+    {
+      "headline": "European Businesses Hit in Credit Squeeze From Greek Crisis",
+      "snippet": "Midsize and smaller companies in Greece but also in Portugal and Spain are particularly suffering.",
+      "abstract": "Midsize and smaller companies in Greece but also in Portugal and Spain are particularly suffering.",
+      "lead_paragraph": "When Tadeusz Nowicki visited his local bank in early May looking for credit to expand production at his profitable and fast-growing plastics processing company in Warsaw, Ergis-Eurofilms, he got a lecture instead.",
+      "publication_date": "2010-05-18T22:30:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/19/business/global/19iht-borrow.html",
+      "byline": "By Jack Ewing, Judy Dempsey and Matthew Saltmarsh"
+    },
+    {
+      "headline": "Reliance on Oil Sands Grows Despite Environmental Risks",
+      "snippet": "As Congress considers new limits on oil drilling off the American coast, pressure is increasing to rely more heavily on Canada’s oil sands for energy.",
+      "abstract": "As Congress considers new limits on oil drilling off the American coast, pressure is increasing to rely more heavily on Canada’s oil sands for energy.",
+      "lead_paragraph": "CONKLIN, Alberta — Beneath the subarctic forests of western Canada, deep under the peat bogs and herds of wild caribou, lies the tarry rock that is one of America’s top sources of imported oil.",
+      "publication_date": "2010-05-19T00:38:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/19/business/energy-environment/19sands.html",
+      "byline": "By Clifford Krauss and Elisabeth Rosenthal"
+    },
+    {
+      "headline": "Clients Worried About Goldman’s Dueling Goals",
+      "snippet": "The conflicts inherent in having a trading arm have created a wariness toward Goldman Sachs.",
+      "abstract": "The conflicts inherent in having a trading arm have created a wariness toward Goldman Sachs.",
+      "lead_paragraph": " “Questions have been raised that go to the heart of this institution’s most fundamental value: how we treat our clients.” — Lloyd C. Blankfein, Goldman Sachs’s C.E.O., at the firm’s annual meeting in May",
+      "publication_date": "2010-05-19T01:08:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/19/business/19client.html",
+      "byline": "By Gretchen Morgenson and Louise Story"
+    },
+    {
+      "headline": "The Battle Over Taxing Soda",
+      "snippet": "Like a tax on tobacco, a tax on soda would bring in revenue while discouraging a behavior that costs society.",
+      "abstract": "Like a tax on tobacco, a tax on soda would bring in revenue while discouraging a behavior that costs society.",
+      "lead_paragraph": "WASHINGTON",
+      "publication_date": "2010-05-19T01:36:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/19/business/economy/19leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "One Moos and One Hums, but They Could Help Power Google",
+      "snippet": "A study by Hewlett-Packard shows how waste from cows on a dairy farm and heat from a data center nearby could be used profitably to produce electricity to run the data center.",
+      "abstract": "A study by Hewlett-Packard shows how waste from cows on a dairy farm and heat from a data center nearby could be used profitably to produce electricity to run the data center.",
+      "lead_paragraph": "Hey diddle diddle. Guess what the cow has done this time?",
+      "publication_date": "2010-05-19T01:53:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/19/technology/19cows.html",
+      "byline": "By Ashlee Vance"
+    },
+    {
+      "headline": "Specter Defeat Signals a Wave Against Incumbents",
+      "snippet": "Senator Arlen Specter of Pennsylvania was swept away on a day that also saw Rand Paul, a symbol of the Tea Party movement, win the Republican Senate primary in Kentucky. ",
+      "abstract": "Senator Arlen Specter of Pennsylvania was swept away on a day that also saw Rand Paul, a symbol of the Tea Party movement, win the Republican Senate primary in Kentucky. ",
+      "lead_paragraph": "WASHINGTON — Senator Arlen Specter of Pennsylvania, who left the Republican Party a year ago in hopes of salvaging a 30-year career, was rejected on Tuesday by Democratic primary voters, with Representative Joe Sestak winning the party’s nomination on an anti-incumbent wave that is defining the midterm elections.",
+      "publication_date": "2010-05-19T04:32:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/19/us/politics/19elect.html",
+      "byline": "By Jeff Zeleny and Carl Hulse"
+    },
+    {
+      "headline": "Violence Spreads in Thailand After Crackdown",
+      "snippet": "Action launched by the Thai military degenerated into street battles despite protest leaders’ appeal for calm. ",
+      "abstract": "Action launched by the Thai military degenerated into street battles despite protest leaders’ appeal for calm. ",
+      "lead_paragraph": "This article was reported by Thomas Fuller, Seth Mydans and Kirk Semple and written by Mr. Fuller.",
+      "publication_date": "2010-05-19T06:32:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/20/world/asia/20thai.html",
+      "byline": "By Thomas Fuller, Seth Mydans and Kirk Semple"
+    }
+  ]
+}

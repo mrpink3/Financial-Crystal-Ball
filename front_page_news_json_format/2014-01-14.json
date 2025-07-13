@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-01-14",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Foundations Aim to Save Pensions in Detroit Crisis",
+      "snippet": "The money, from a group of philanthropic organizations, could also relieve the city-owned Detroit Institute of Arts from having to sell works to pay the city’s debts.",
+      "abstract": "The money, from a group of philanthropic organizations, could also relieve the city-owned Detroit Institute of Arts from having to sell works to pay the city’s debts.",
+      "lead_paragraph": "National and local philanthropic foundations have committed $330 million toward a deal to avoid cuts to Detroit retirees’ pensions and to save the Detroit Institute of Arts’ renowned collection, federal mediators involved in the city’s bankruptcy proceedings announced on Monday.",
+      "publication_date": "2014-01-13T17:09:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/14/us/300-million-pledged-to-save-detroits-art-collection.html",
+      "byline": "By Randy Kennedy, Monica Davey and Steven Yaccino"
+    },
+    {
+      "headline": "Older Pool of Health Care Enrollees Stirs Fears on Costs",
+      "snippet": "Republicans seized on the latest insurance enrollment numbers under the Affordable Care Act as evidence that the law would not work.",
+      "abstract": "Republicans seized on the latest insurance enrollment numbers under the Affordable Care Act as evidence that the law would not work.",
+      "lead_paragraph": "WASHINGTON — People signing up for health insurance through the Affordable Care Act’s federal and state marketplaces tend to be older and potentially less healthy, officials said Monday, a demographic mix that could threaten the law’s economic underpinnings and cause premiums to rise in the future if the pattern persists. ",
+      "publication_date": "2014-01-13T21:01:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/14/us/health-care-plans-attracting-more-older-less-healthy-people.html",
+      "byline": "By Michael D. Shear and Robert Pear"
+    },
+    {
+      "headline": "For Google, a Toehold Into Goods for a Home",
+      "snippet": "The $3.2 billion deal for Nest Labs, which is led by former Apple engineers, will expand the technology giant’s portfolio of consumer goods.",
+      "abstract": "The $3.2 billion deal for Nest Labs, which is led by former Apple engineers, will expand the technology giant’s portfolio of consumer goods.",
+      "lead_paragraph": "SAN FRANCISCO — Google, which dominates much of life on the Internet, has been trying to expand beyond computers and telephones to living rooms, cars and bodies. It made its way a bit further into people’s homes on Monday when it agreed to pay $3.2 billion in cash for Nest Labs, which makes Internet-connected devices like thermostats and smoke alarms. ",
+      "publication_date": "2014-01-13T21:23:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/14/technology/google-to-buy-nest-labs-for-3-2-billion.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Big Offer for Time Warner Cable Unsettles the Cable Industry",
+      "snippet": "Charter Communications offered $37.8 billion for Time Warner Cable, the nation’s No. 2 cable operator.",
+      "abstract": "Charter Communications offered $37.8 billion for Time Warner Cable, the nation’s No. 2 cable operator.",
+      "lead_paragraph": "Charter Communications sought to upend the cable television industry on Monday, offering $37.8 billion to acquire Time Warner Cable, the country’s second-largest cable operator.",
+      "publication_date": "2014-01-13T21:23:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/01/13/time-warner-cable-gets-61-3-billion-offer/",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Europeans Struggle to Set Derivatives Rules",
+      "snippet": "The E.U. plans a last-ditch effort to reach agreement on one of the biggest issues highlighted by the financial crisis: how to rein in trading of derivatives and other complex instruments.",
+      "abstract": "The E.U. plans a last-ditch effort to reach agreement on one of the biggest issues highlighted by the financial crisis: how to rein in trading of derivatives and other complex instruments.",
+      "lead_paragraph": "Faced with intense lobbying from the oil and commodity industries, the European Union plans what could be a last-ditch effort on Tuesday to reach agreement on one of the biggest issues to come out of the 2008 financial crisis: how to rein in trading of derivatives and other complex instruments.",
+      "publication_date": "2014-01-14T01:41:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/01/13/europeans-struggle-to-set-derivatives-rules/",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Secretive Apple Squirms in Gaze of U.S. Monitor",
+      "snippet": "Apple is campaigning aggressively against a court-appointed inspector, saying he is intruding on operations.",
+      "abstract": "Apple is campaigning aggressively against a court-appointed inspector, saying he is intruding on operations.",
+      "lead_paragraph": "Most companies are reluctant to open themselves to outside inspection. Yet Apple is even resisting someone who was appointed by a court to do exactly that, leading to an unusual public feud between the world’s biggest technology company and the Justice Department.",
+      "publication_date": "2014-01-14T02:03:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/01/13/secretive-apple-squirms-in-gaze-of-u-s-monitor/",
+      "byline": "By Matthew Goldstein"
+    },
+    {
+      "headline": "Obama Fights a Push to Add Iran Sanctions",
+      "snippet": "With the United States and Iran set to embark on a critical phase of nuclear talks, President Obama is struggling to prevent Senate Democrats from backing a bill that could thwart his diplomatic efforts.",
+      "abstract": "With the United States and Iran set to embark on a critical phase of nuclear talks, President Obama is struggling to prevent Senate Democrats from backing a bill that could thwart his diplomatic efforts.",
+      "lead_paragraph": "WASHINGTON — With the United States and Iran about to embark on a critical phase of nuclear talks, President Obama is waging an intense rear-guard action to prevent Senate Democrats from supporting strict new sanctions that could upend his diplomatic efforts.",
+      "publication_date": "2014-01-14T02:16:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/14/world/middleeast/obama-fights-a-push-to-add-iran-sanctions.html",
+      "byline": "By Mark Landler and Jonathan Weisman"
+    },
+    {
+      "headline": "The Man Behind Alibaba’s Eventual I.P.O.",
+      "snippet": "Joe Tsai holds the keys to what will most likely be the largest initial public offering of this generation — Alibaba, the Chinese e-commerce giant.",
+      "abstract": "Joe Tsai holds the keys to what will most likely be the largest initial public offering of this generation — Alibaba, the Chinese e-commerce giant.",
+      "lead_paragraph": "JPMorgan Chase has called. So has Goldman Sachs and Morgan Stanley. Joe Tsai’s phone is ringing off the hook these days, and you would be forgiven if you have never heard of him.",
+      "publication_date": "2014-01-14T02:28:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/01/13/the-man-behind-alibabas-eventual-i-p-o/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Pope With the Humble Touch Is Firm in Reshaping the Vatican",
+      "snippet": "Pope Francis has taken on a bureaucracy plagued by intrigue and inertia, steadily replacing traditionalists with moderates and upending the career ladder that many relied on.",
+      "abstract": "Pope Francis has taken on a bureaucracy plagued by intrigue and inertia, steadily replacing traditionalists with moderates and upending the career ladder that many relied on.",
+      "lead_paragraph": "VATICAN CITY — Less than a year into his papacy, Pope Francis has raised expectations among the world’s one billion Roman Catholics that change is coming. He has already transformed the tone of the papacy, confessing himself a sinner, declaring “Who am I to judge?” when asked about gays, and kneeling to wash the feet of inmates, including Muslims.",
+      "publication_date": "2014-01-14T02:58:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/14/world/europe/pope-with-the-humble-touch-is-firm-in-reshaping-the-vatican.html",
+      "byline": "By Jason Horowitz and Jim Yardley"
+    },
+    {
+      "headline": "From Hunger to Fame, With a Shoestring Menu",
+      "snippet": "A single mother finds herself in the middle of a debate about poverty and the welfare state in Britain.",
+      "abstract": "A single mother finds herself in the middle of a debate about poverty and the welfare state in Britain.",
+      "lead_paragraph": "SOUTHEND-ON-SEA, England — First she stopped heating her apartment, putting furniture in front of the radiators to try to forget they were there. She unscrewed most of the light bulbs, turned off the hot water, and sold her iPhone, her watch, her television and even her curtains to feed herself and her 2-year-old son.",
+      "publication_date": "2014-01-14T12:27:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/15/world/europe/jack-monroe-has-become-britains-austerity-celebrity.html",
+      "byline": "By Katrin Bennhold"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "date": "2018-12-21",
+    "total_articles": 14
+  },
+  "articles": [
+    {
+      "headline": "Demanding Wall Funding, Trump Balks at Bill to Avert Shutdown",
+      "snippet": "After the Senate passed a spending measure, conservative anger pushed President Trump to torpedo it, leaving Republican leaders scrambling for a way out of the morass.",
+      "abstract": "After the Senate passed a spending measure, conservative anger pushed President Trump to torpedo it, leaving Republican leaders scrambling for a way out of the morass.",
+      "lead_paragraph": "WASHINGTON — President Trump on Thursday torpedoed a spending deal and sent the government careening toward a Christmastime shutdown over his demand of $5 billion for a wall on the southwestern border, refusing to sign a stopgap measure to keep funds flowing past midnight Friday.",
+      "publication_date": "2018-12-20T16:45:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/20/us/politics/trump-government-shutdown.html",
+      "byline": "By Julie Hirschfeld Davis and Emily Cochrane"
+    },
+    {
+      "headline": "Defending Syria Withdrawal, Trump Says U.S. Should Not Be ‘Policeman of the Middle East’",
+      "snippet": "Mr. Trump said the United States was spending too much money in the Syria fight and questioned whether the effort is appreciated.",
+      "abstract": "Mr. Trump said the United States was spending too much money in the Syria fight and questioned whether the effort is appreciated.",
+      "lead_paragraph": "WASHINGTON — President Trump on Thursday defended his plan to withdraw American troops from Syria against mounting criticism from Republicans and Democrats and concerns from his military and diplomatic advisers who were caught off guard by his abrupt announcement a day earlier.",
+      "publication_date": "2018-12-20T18:27:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/20/us/politics/trump-syria-withdrawal.html",
+      "byline": "By Eileen Sullivan"
+    },
+    {
+      "headline": "Willy Wonka and the Medical Software Factory",
+      "snippet": "The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?",
+      "abstract": "The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?",
+      "lead_paragraph": "In the farm country of southern Wisconsin, 12 miles from Madison, is one of the nation’s biggest tech companies — and almost certainly the quirkiest. The woman who controls it is a septuagenarian coding savant, its campus contains a human-size rabbit hole and an elevator to hell, and in all probability your personal medical records are on servers running its software.",
+      "publication_date": "2018-12-20T19:12:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/12/20/business/epic-systems-campus-verona-wisconsin.html",
+      "byline": "By Kate Kelly"
+    },
+    {
+      "headline": "Planned Parenthood Is Accused of Mistreating Pregnant Employees",
+      "snippet": "Employers that champion women face accusations of discriminating against their pregnant workers, showing how widespread the problem is in American workplaces.",
+      "abstract": "Employers that champion women face accusations of discriminating against their pregnant workers, showing how widespread the problem is in American workplaces.",
+      "lead_paragraph": "As a medical assistant at Planned Parenthood, Ta’Lisa Hairston urged pregnant women to take rest breaks at work, stay hydrated and, please, eat regular meals.",
+      "publication_date": "2018-12-20T19:47:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/20/business/planned-parenthood-pregnant-employee-discrimination-women.html",
+      "byline": "By Natalie Kitroeff and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Jim Mattis, Defense Secretary, Resigns in Rebuke of Trump’s Worldview",
+      "snippet": "Officials said Mr. Mattis went to the White House on Thursday afternoon in a last attempt to persuade President Trump to keep American troops in Syria.",
+      "abstract": "Officials said Mr. Mattis went to the White House on Thursday afternoon in a last attempt to persuade President Trump to keep American troops in Syria.",
+      "lead_paragraph": "WASHINGTON — Defense Secretary Jim Mattis, whose experience and stability were widely seen as a balance to an unpredictable president, resigned Thursday in protest of President Trump’s decision to withdraw American forces from Syria and his rejection of international alliances.",
+      "publication_date": "2018-12-20T22:27:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/20/us/politics/jim-mattis-defense-secretary-trump.html",
+      "byline": "By Helene Cooper"
+    },
+    {
+      "headline": "U.S. to Withdraw About 7,000 Troops From Afghanistan, Officials Say",
+      "snippet": "President Trump made the decision at the same time he decided he was pulling American forces out of Syria, one official said.",
+      "abstract": "President Trump made the decision at the same time he decided he was pulling American forces out of Syria, one official said.",
+      "lead_paragraph": "WASHINGTON — The Trump administration has ordered the military to start withdrawing roughly 7,000 troops from Afghanistan in the coming months, two defense officials said Thursday, an abrupt shift in the 17-year-old war there and a decision that stunned Afghan officials, who said they had not been briefed on the plans.",
+      "publication_date": "2018-12-21T01:06:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/20/us/politics/afghanistan-troop-withdrawal.html",
+      "byline": "By Thomas Gibbons-Neff and Mujib Mashal"
+    },
+    {
+      "headline": "After Mattis’s Resignation, a President Unbound",
+      "snippet": "If there is a common thread in President Trump’s actions this week, it is his unswerving conviction that his political survival depends on securing his conservative base.",
+      "abstract": "If there is a common thread in President Trump’s actions this week, it is his unswerving conviction that his political survival depends on securing his conservative base.",
+      "lead_paragraph": "WASHINGTON — For most of his tumultuous 23 months in office, President Trump has tried to shake off anyone who would restrain his insurgent style of leadership. With the resignation of Defense Secretary Jim Mattis, Mr. Trump is at last a president unbound.",
+      "publication_date": "2018-12-21T02:01:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/20/us/politics/trump-mattis-resignation.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "The 2018 Good Tech Awards",
+      "snippet": "Scandals and wrongdoing in tech rightly get a lot of attention, but there’s good — yes, really — happening elsewhere.",
+      "abstract": "Scandals and wrongdoing in tech rightly get a lot of attention, but there’s good — yes, really — happening elsewhere.",
+      "lead_paragraph": "The words “2018,” “good” and “tech” probably don’t seem like they belong in the same paragraph, let alone the same sentence. But stay with me here.",
+      "publication_date": "2018-12-21T10:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/21/technology/year-in-technology-2018.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Last-Minute Shoppers Increasingly Trust Only Amazon to Deliver",
+      "snippet": "Amazon’s power is even more pronounced in the nail-biter sprint toward Christmas. A two-decade obsession with delivery speed has given it a huge edge.",
+      "abstract": "Amazon’s power is even more pronounced in the nail-biter sprint toward Christmas. A two-decade obsession with delivery speed has given it a huge edge.",
+      "lead_paragraph": "SEATTLE — Olivia Zimmermann started her holiday shopping early this year, buying a Bluetooth speaker from Best Buy for her sister. It was supposed to arrive by Dec. 10, two weeks before Christmas.",
+      "publication_date": "2018-12-21T10:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/21/technology/amazon-last-minute-gifts-shopping.html",
+      "byline": "By Karen Weise"
+    },
+    {
+      "headline": "Where Government Is a Dirty Word, but Its Checks Pay the Bills ",
+      "snippet": "The residents of Harlan County, Ky., depend heavily on federal assistance. That hasn’t deterred, and may explain, their swing to Republican voting.",
+      "abstract": "The residents of Harlan County, Ky., depend heavily on federal assistance. That hasn’t deterred, and may explain, their swing to Republican voting.",
+      "lead_paragraph": "HARLAN, Ky. — Gov. Matt Bevin skillfully worked the room at the old courthouse building here in Harlan, one more town-hall meeting in the long campaign toward next year’s election. He deplored the parlous state of a half-mile stretch of U.S. 421 and said $802,000 would be spent to rebuild it. He commiserated with the man who wanted to know how he should deal with the bears tearing through his trash bins, now that it’s forbidden to shoot them.",
+      "publication_date": "2018-12-21T10:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/21/business/economy/harlan-county-republican-welfare.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Government Shuts Down as Talks Fail to Break Impasse",
+      "snippet": "It is the third shutdown in two years of unified Republican rule in Washington. Hundreds of thousands of government employees are affected.",
+      "abstract": "It is the third shutdown in two years of unified Republican rule in Washington. Hundreds of thousands of government employees are affected.",
+      "lead_paragraph": "WASHINGTON — The federal government shut down early Saturday after congressional and White House officials failed to find a compromise on a spending bill that hinged on President Trump’s demands for $5.7 billion for a border wall.",
+      "publication_date": "2018-12-21T13:01:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/21/us/politics/trump-shutdown-border-wall.html",
+      "byline": "By Julie Hirschfeld Davis and Emily Cochrane"
+    },
+    {
+      "headline": "America’s Allies Fear That Traditional Ties No Longer Matter Under Trump",
+      "snippet": "President Trump’s disregard for friendly nations in Europe and Asia could fundamentally diminish America’s global clout, analysts say.",
+      "abstract": "President Trump’s disregard for friendly nations in Europe and Asia could fundamentally diminish America’s global clout, analysts say.",
+      "lead_paragraph": "BRUSSELS — America’s allies in Europe and Asia thought they had learned to digest and compensate for the instinctive unpredictability of President Trump. But the bitter resignation of Defense Secretary Jim Mattis and the abrupt announcement of plans to withdraw troops from Syria and Afghanistan are being viewed as watershed moments for Washington’s relations with the world.",
+      "publication_date": "2018-12-21T13:34:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/21/world/europe/trump-jim-mattis-syria.html",
+      "byline": "By Steven Erlanger and Jane Perlez"
+    },
+    {
+      "headline": "With the Generals Gone, Trump’s ‘America First’ Could Fully Emerge",
+      "snippet": "The president appears determined to assemble a new team of advisers who will not tell him what he cannot do, but rather embrace his vision of a powerful America.",
+      "abstract": "The president appears determined to assemble a new team of advisers who will not tell him what he cannot do, but rather embrace his vision of a powerful America.",
+      "lead_paragraph": "WASHINGTON — With the angry departure of Defense Secretary Jim Mattis, the United States and its shaken allies are about to discover the true meaning of “America First.”",
+      "publication_date": "2018-12-21T13:49:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/12/21/us/politics/trump-mattis-american-first-foreign-policy.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "When Santa Brings a Car, They’ll Need a Bigger Tree",
+      "snippet": "So many people give expensive cars as presents that gift sales can make up 10 percent or more of December sales for luxury auto dealers.",
+      "abstract": "So many people give expensive cars as presents that gift sales can make up 10 percent or more of December sales for luxury auto dealers.",
+      "lead_paragraph": "Every December, the holiday classics return to television, mainstay tales like “Frosty the Snowman” and “How the Grinch Stole Christmas.” And don’t forget those commercials where someone wakes up to a luxury car in the driveway on Christmas morning.",
+      "publication_date": "2018-12-21T14:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/12/21/business/holiday-car-sales-bow.html",
+      "byline": "By Brian J. O'Connor"
+    }
+  ]
+}

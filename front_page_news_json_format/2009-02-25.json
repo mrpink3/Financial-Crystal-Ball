@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2009-02-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Students Stand When Called Upon, and When Not",
+      "snippet": "Classrooms in Minnesota have become test labs for a new kind of desk that allows students to stand or sit.",
+      "abstract": "Classrooms in Minnesota have become test labs for a new kind of desk that allows students to stand or sit.",
+      "lead_paragraph": "MARINE ON ST. CROIX, Minn.  From the hallway, Abby Brown’s sixth-grade classroom in a little school here about an hour northeast of Minneapolis has the look of the usual one, with an American flag up front and children’s colorful artwork decorating the walls. ",
+      "publication_date": "2009-02-24T23:06:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/25/us/25desks.html",
+      "byline": "By Susan Saulny"
+    },
+    {
+      "headline": "In Silicon Valley, Recruiters Are Sending Out Their Own Résumés",
+      "snippet": "Evidence suggests that the recession has slammed technology company recruiters particularly hard.",
+      "abstract": "Evidence suggests that the recession has slammed technology company recruiters particularly hard.",
+      "lead_paragraph": "MOUNTAIN VIEW, Calif.  It is hard to think of any job-hunting skills that Alexis Lovell lacks. As a recruiter for Silicon Valley technology companies, and before that, for retailers, she has advised job candidates on résumé preparation, personal presentation and interview skills for the last eight years. Networking strategies and trolling social networks and online job sites are the tools of her trade. ",
+      "publication_date": "2009-02-25T00:26:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/25/technology/companies/25recruiter.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "Strikes Worsen Qaeda Threat, Pakistan Says",
+      "snippet": "Military raids have reduced Al Qaeda’s reach but heightened its threat to Pakistan, officials said.",
+      "abstract": "Military raids have reduced Al Qaeda’s reach but heightened its threat to Pakistan, officials said.",
+      "lead_paragraph": "ISLAMABAD, Pakistan  American missile strikes have reduced Al Qaeda’s global reach but heightened the threat to Pakistan as the group disperses its cells here and fights to maintain its sanctuaries, Pakistani intelligence officials said.",
+      "publication_date": "2009-02-25T01:12:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/25/world/asia/25drones.html",
+      "byline": "By Eric Schmitt and Jane Perlez"
+    },
+    {
+      "headline": "Like Having Medicare? Then Taxes Must Rise",
+      "snippet": "Americans are going to have to pay higher taxes in order to continue to field a strong military and maintain popular programs like Medicare.",
+      "abstract": "Americans are going to have to pay higher taxes in order to continue to field a strong military and maintain popular programs like Medicare.",
+      "lead_paragraph": " Toward the end of Monday’s meetings on fiscal responsibility at the White House, Senator Kent Conrad stood up and produced a little bolt of honesty. “Revenue is the thing almost nobody wants to talk about,” said Mr. Conrad, the chairman of the Senate Budget Committee. “But I think if we’re going to be honest with each other, we’ve got to recognize that is part of a solution as well.”",
+      "publication_date": "2009-02-25T02:44:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/25/business/economy/25leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Citing Cost, States Consider End to Death Penalty",
+      "snippet": "Ending capital punishment is part of a trend in which states are trying to cut the costs of fighting crime.",
+      "abstract": "Ending capital punishment is part of a trend in which states are trying to cut the costs of fighting crime.",
+      "lead_paragraph": "ANNAPOLIS, Md.  When Gov. Martin O’Malley appeared before the Maryland Senate last week, he made an unconventional argument that is becoming increasingly popular in cash-strapped states: abolish the death penalty to cut costs.",
+      "publication_date": "2009-02-25T03:05:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/25/us/25death.html",
+      "byline": "By Ian Urbina"
+    },
+    {
+      "headline": "Obama Vows, ‘We Will Rebuild’ and ‘Recover’",
+      "snippet": "President Obama asked both houses of Congress to quickly address energy, education and health care.",
+      "abstract": "President Obama asked both houses of Congress to quickly address energy, education and health care.",
+      "lead_paragraph": "WASHINGTON  President Obama urged the nation on Tuesday to see the economic crisis as reason to raise its ambitions, calling for expensive new efforts to address energy, health care and education even as he warned that government bailouts have not come to an end.",
+      "publication_date": "2009-02-25T03:15:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/25/us/politics/25obama.html",
+      "byline": "By Jeff Zeleny"
+    },
+    {
+      "headline": "Big Drug Makers May Seek to Fill Holes in Roster",
+      "snippet": "Inspired by Pfizer’s purchase of Wyeth, many big pharmaceutical companies are looking to buy smaller, more nimble rivals.",
+      "abstract": "Inspired by Pfizer’s purchase of Wyeth, many big pharmaceutical companies are looking to buy smaller, more nimble rivals.",
+      "lead_paragraph": "Sports fans have fantasy baseball. Drug industry analysts have fantasy mergers.",
+      "publication_date": "2009-02-25T03:35:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/25/business/25place.html",
+      "byline": "By Natasha Singer and Duff Wilson"
+    },
+    {
+      "headline": "Stress Test for Banks Exposes Rift on Wall St.",
+      "snippet": "Investors in the stock market and big banks are increasingly at odds over the type of capital the banks will need to withstand a severe economic downturn.",
+      "abstract": "Investors in the stock market and big banks are increasingly at odds over the type of capital the banks will need to withstand a severe economic downturn.",
+      "lead_paragraph": "Big banks keep insisting that they have all the capital they need  a claim that might strike many people as absurd at a time the government is spending billions of taxpayer dollars to prop up the financial industry.",
+      "publication_date": "2009-02-25T03:49:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/25/business/economy/25bank.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "In Time of Crisis, Urging Bold Action and Big Ideas",
+      "snippet": "The president sought to convince Americans that now is the right time for expanding aspirations.",
+      "abstract": "The president sought to convince Americans that now is the right time for expanding aspirations.",
+      "lead_paragraph": "WASHINGTON  It had all the trappings of a State of the Union address but since technically it was not, President Obama did not have to utter those traditional words: “The state of our union is strong.” Because, frankly, it isn’t.",
+      "publication_date": "2009-02-25T05:08:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/02/25/us/politics/25assess.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "As Saks Reports a Loss, Its Chief Offers a Plan",
+      "snippet": "The retailer’s chief executive, Stephen Sadove, addressed bankruptcy rumors and said steep discounts were necessary.",
+      "abstract": "The retailer’s chief executive, Stephen Sadove, addressed bankruptcy rumors and said steep discounts were necessary.",
+      "lead_paragraph": "Ever since it began posting double-digit sales declines and selling luxury goods at 75 percent off, Saks Inc. has been accused by rivals of decimating the luxury market and suspected, even by allies, of being a candidate for bankruptcy. ",
+      "publication_date": "2009-02-25T13:53:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/02/26/business/26retail.html",
+      "byline": "By Stephanie Rosenbloom"
+    }
+  ]
+}

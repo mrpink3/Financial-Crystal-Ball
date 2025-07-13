@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2009-03-04",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Already Bleak, Auto Sales Take a Fall in February",
+      "snippet": "Sales were down 53 percent at G.M., 48 percent at Ford and 40 percent at Toyota from February 2008.",
+      "abstract": "Sales were down 53 percent at G.M., 48 percent at Ford and 40 percent at Toyota from February 2008.",
+      "lead_paragraph": "DETROIT — Despite their offers of deeper discounts, automakers had more trouble luring shoppers into showrooms in February, when vehicle sales fell to their lowest level in 28 years.",
+      "publication_date": "2009-03-03T17:36:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/04auto.html",
+      "byline": "By Bill Vlasic and Nick Bunkley"
+    },
+    {
+      "headline": "Ex-Leaders of Countrywide Profit From Bad Loans",
+      "snippet": "Executives from the company synonymous with the housing bubble are now buying distressed properties.",
+      "abstract": "Executives from the company synonymous with the housing bubble are now buying distressed properties.",
+      "lead_paragraph": "CALABASAS, Calif. — Fairly or not, Countrywide Financial and its top executives would be on most lists of those who share blame for the nation’s economic crisis. After all, the banking behemoth made risky loans to tens of thousands of Americans, helping set off a chain of events that has the economy staggering.",
+      "publication_date": "2009-03-03T22:42:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/04penny.html",
+      "byline": "By Eric Lipton"
+    },
+    {
+      "headline": "For Swiss Banks, an Uncomfortable Spotlight",
+      "snippet": "A wealth haven in the Alps is confronting unaccustomed attention from investigators and a potential threat to a critical industry.",
+      "abstract": "A wealth haven in the Alps is confronting unaccustomed attention from investigators and a potential threat to a critical industry.",
+      "lead_paragraph": "ZURICH  Banking has long been to this tidy city what cars are to Detroit and computers to Silicon Valley, only more reliably. For while fortunes swung wildly in those places, quietly serving the world’s wealthy made growth here as predictable as a fine Swiss watch.",
+      "publication_date": "2009-03-04T02:05:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/worldbusiness/04swiss.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "You’re Dead? That Won’t Stop the Debt Collector",
+      "snippet": "Next of kin usually have no obligation to assume debts owed by the deceased, but collectors may still call.",
+      "abstract": "Next of kin usually have no obligation to assume debts owed by the deceased, but collectors may still call.",
+      "lead_paragraph": "MINNEAPOLIS — The banks need another bailout and countless homeowners cannot handle their mortgage payments, but one group is paying its bills: the dead.",
+      "publication_date": "2009-03-04T02:10:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/04dead.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Job Losses Show Breadth of Recession",
+      "snippet": "Every state, except a band stretching from the Dakotas to Texas, is shedding jobs at a rapid pace.",
+      "abstract": "Every state, except a band stretching from the Dakotas to Texas, is shedding jobs at a rapid pace.",
+      "lead_paragraph": " What does the worst recession in a generation look like?",
+      "publication_date": "2009-03-04T02:46:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/04leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Cable Companies Target Commercials to Audience",
+      "snippet": "Cablevision will use demographic data to route ads to specific households in parts of the New York City area.",
+      "abstract": "Cablevision will use demographic data to route ads to specific households in parts of the New York City area.",
+      "lead_paragraph": "The advertiser’s dream of sending a particular commercial to a specific consumer is one step closer to reality as Cablevision Systems plans to announce the largest project yet using targeted advertising on television. ",
+      "publication_date": "2009-03-04T03:01:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/04cable.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "For Pakistan, Attack Exposes Security Flaws",
+      "snippet": "A coordinated, commando-style ambush on the Sri Lankan cricket team in Pakistan on Tuesday revealed embarrassing security gaps in an increasingly unstable country.",
+      "abstract": "A coordinated, commando-style ambush on the Sri Lankan cricket team in Pakistan on Tuesday revealed embarrassing security gaps in an increasingly unstable country.",
+      "lead_paragraph": "ISLAMABAD, Pakistan — A coordinated, commando-style ambush on the Sri Lankan cricket team in Pakistan on Tuesday revealed embarrassing security gaps in an increasingly unstable country. ",
+      "publication_date": "2009-03-04T03:07:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2009/03/04/world/asia/04pstan.html",
+      "byline": "By Jane Perlez"
+    },
+    {
+      "headline": "Countries Stepping in to Finance Export Trade",
+      "snippet": "Japan took the rare step Tuesday of tapping its foreign currency reserves to help struggling exporters, including Toyota.",
+      "abstract": "Japan took the rare step Tuesday of tapping its foreign currency reserves to help struggling exporters, including Toyota.",
+      "lead_paragraph": "As hard as it is for businesses to get loans these days, consider this: even for Toyota Motor, the world’s largest automaker, the well has run dry. ",
+      "publication_date": "2009-03-04T03:33:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2009/03/04/business/worldbusiness/04trade.html",
+      "byline": "By Carter Dougherty"
+    }
+  ]
+}

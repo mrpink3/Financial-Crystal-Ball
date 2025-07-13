@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2014-03-06",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Target Executive Resigns After Breach",
+      "snippet": "Beth Jacob, the chief information officer since 2008, was the first high-level executive to leave after the widespread customer data theft at the retailer.",
+      "abstract": "Beth Jacob, the chief information officer since 2008, was the first high-level executive to leave after the widespread customer data theft at the retailer.",
+      "lead_paragraph": "The highest-ranking technology executive at Target has resigned, the company said on Wednesday, just one week after it revealed how badly its profits had been hurt during the holiday season by an enormous breach of its system that exposed customer information.",
+      "publication_date": "2014-03-05T16:14:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/06/business/a-top-target-executive-resigns.html",
+      "byline": "By Elizabeth A. Harris"
+    },
+    {
+      "headline": "With Move to Limit Gun Sales, Facebook Is Caught in Debate",
+      "snippet": "Under pressure from law enforcement and advocacy groups, Facebook took steps Wednesday to regulate gun sales on its site as well as on its photo-sharing app Instagram.",
+      "abstract": "Under pressure from law enforcement and advocacy groups, Facebook took steps Wednesday to regulate gun sales on its site as well as on its photo-sharing app Instagram.",
+      "lead_paragraph": " Facebook wants to unite the world so everyone can talk about everything. One of the big things people want to talk about, it seems, is guns.",
+      "publication_date": "2014-03-05T17:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://bits.blogs.nytimes.com/2014/03/05/facebook-to-crack-down-on-illegal-gun-sales/",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "For Bitcoin, Secure Future Might Need Oversight",
+      "snippet": "Some backers of the digital currency are calling for human oversight to guard against more losses like the $470 million collapse of Mt. Gox.",
+      "abstract": "Some backers of the digital currency are calling for human oversight to guard against more losses like the $470 million collapse of Mt. Gox.",
+      "lead_paragraph": "Nearly half a billion dollars has gone missing, and nobody knows how. Some say there was outright theft. Others suspect fraud. Many blame lax controls, poor oversight and, above all, a reckless, globe-spanning, Wild West culture — a culture that everyone agrees is ripe for wholesale reform.",
+      "publication_date": "2014-03-05T19:33:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/06/technology/personaltech/for-bitcoin-a-secure-future-might-require-traditional-trappings.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "U.S. Hopes Boom in Natural Gas Can Curb Putin",
+      "snippet": "The Obama administration is seeking to deploy the vast new supply of natural gas in the United States as a weapon to undercut the influence of President Vladimir V. Putin.",
+      "abstract": "The Obama administration is seeking to deploy the vast new supply of natural gas in the United States as a weapon to undercut the influence of President Vladimir V. Putin.",
+      "lead_paragraph": "WASHINGTON — The crisis in Crimea is heralding the rise of a new era of American energy diplomacy, as the Obama administration tries to deploy the vast new supply of natural gas in the United States as a weapon to undercut the influence of the Russian president, Vladimir V. Putin, over Ukraine and Europe. ",
+      "publication_date": "2014-03-05T19:36:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/06/world/europe/us-seeks-to-reduce-ukraines-reliance-on-russia-for-natural-gas.html",
+      "byline": "By Coral Davenport and Steven Erlanger"
+    },
+    {
+      "headline": "Consumers Allowed to Keep Health Plans for Two More Years",
+      "snippet": "The action helps Democrats in tight midterm election races, because it avoids the election-year cancellation of insurance policies that do not comply with the new health law.",
+      "abstract": "The action helps Democrats in tight midterm election races, because it avoids the election-year cancellation of insurance policies that do not comply with the new health law.",
+      "lead_paragraph": "WASHINGTON — The Obama administration, grappling with continued political fallout over its health care law, said Wednesday that it would allow consumers to renew health insurance policies that did not comply with the new law for two more years, pushing the issue well beyond this fall’s midterm elections.",
+      "publication_date": "2014-03-05T21:21:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/06/us/politics/obama-extends-renewal-period-for-noncompliant-insurance-policies.html",
+      "byline": "By Robert Pear"
+    },
+    {
+      "headline": "Criminal Charges Expected for 3 Former Dewey & LeBoeuf Executives",
+      "snippet": "Three former top executives of Dewey & LeBoeuf, the giant law firm that filed for bankruptcy protection in 2012, are expected to be charged with misleading other lawyers and lenders about the financial health of the firm.",
+      "abstract": "Three former top executives of Dewey & LeBoeuf, the giant law firm that filed for bankruptcy protection in 2012, are expected to be charged with misleading other lawyers and lenders about the financial health of the firm.",
+      "lead_paragraph": "Three former top executives of Dewey & LeBoeuf, the giant law firm that filed for bankruptcy protection in 2012, are expected to be charged on Thursday with misleading other lawyers and lenders about the financial health of the firm.",
+      "publication_date": "2014-03-06T00:39:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/05/top-former-dewey-leboeuf-executives-said-to-face-charges/",
+      "byline": "By Matthew Goldstein and Ben Protess"
+    },
+    {
+      "headline": "Justices May Limit Securities Fraud Suits",
+      "snippet": "The justices seemed to be leaning toward setting a higher bar for groups of investors to pursue claims they were misled.",
+      "abstract": "The justices seemed to be leaning toward setting a higher bar for groups of investors to pursue claims they were misled.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court on Wednesday seemed ready to impose new limits on securities fraud suits that would make it harder for investors to band together to pursue claims that they were misled when they bought or sold securities. But the justices did not seem inclined to issue a ruling that would put an end to most such suits.",
+      "publication_date": "2014-03-06T01:04:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/06/business/justices-may-limit-securities-fraud-suits.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "After a Dazzling Early Career, a Star Trader Settles Down",
+      "snippet": "While Paul Tudor Jones II can still claim long-term annual returns of close to 19.5 percent in his $10.3 billion flagship fund, Tudor BVI Global, it has been 11 years since he last hit that level.",
+      "abstract": "While Paul Tudor Jones II can still claim long-term annual returns of close to 19.5 percent in his $10.3 billion flagship fund, Tudor BVI Global, it has been 11 years since he last hit that level.",
+      "lead_paragraph": "When Paul Tudor Jones II began his career as a Wall Street trader in the 1980s, some colleagues spoke admiringly of his ability to “shoot the lights out” by scoring huge profits on big market swings.",
+      "publication_date": "2014-03-06T01:24:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/03/05/after-a-dazzling-early-career-a-star-trader-settles-down/",
+      "byline": "By Randall Smith"
+    },
+    {
+      "headline": "A Call for General Motors to Fill Gaps in Safety Inquiry",
+      "snippet": "A national safety agency sent the automaker a list of 107 compulsory questions about a defective ignition switch that has been linked to 13 deaths and the recall of 1.6 million cars.",
+      "abstract": "A national safety agency sent the automaker a list of 107 compulsory questions about a defective ignition switch that has been linked to 13 deaths and the recall of 1.6 million cars.",
+      "lead_paragraph": "Federal safety regulators indicated on Wednesday that General Motors had yet to turn over significant information related to a defective ignition switch that has been linked to 13 deaths and the recall of 1.6 million cars.",
+      "publication_date": "2014-03-06T01:51:56+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/03/06/automobiles/a-call-for-general-motors-to-fill-gaps-in-safety-inquiry.html",
+      "byline": "By Christopher Jensen"
+    },
+    {
+      "headline": "To Spur Traffic at News Sites, Just Travoltify",
+      "snippet": "John Travolta’s mispronunciation of a name at the Oscars led the website Slate to create a feature to do the same with anyone’s name — the kind of interactive game now driving Web traffic.",
+      "abstract": "John Travolta’s mispronunciation of a name at the Oscars led the website Slate to create a feature to do the same with anyone’s name — the kind of interactive game now driving Web traffic.",
+      "lead_paragraph": "Which of the following interactive features drove record traffic to its respective news sites in recent months: a) How Much Time Have You Wasted on Facebook? for Time; b) The interactive dialect quiz for The New York Times; c) The Adele Dazeem Generator: Travoltify Your Name, which appeared on Slate; or d) all of the above?",
+      "publication_date": "2014-03-06T02:32:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/06/business/media/to-spur-traffic-at-news-sites-just-travoltify.html",
+      "byline": "By Leslie Kaufman"
+    },
+    {
+      "headline": "Crimea Approves a Secession Vote as Tensions Rise",
+      "snippet": "The State Department imposed a ban on visas for people who have taken steps to undermine Ukraine’s territorial integrity, and Russia vowed to reciprocate.",
+      "abstract": "The State Department imposed a ban on visas for people who have taken steps to undermine Ukraine’s territorial integrity, and Russia vowed to reciprocate.",
+      "lead_paragraph": "SIMFEROPOL, Ukraine — The volatile confrontation over the future of Ukraine took another tense turn on Thursday as Russian allies in Crimea sought annexation by Moscow and the United States imposed its first sanctions on Russian officials involved in the military occupation of the strategic peninsula.",
+      "publication_date": "2014-03-06T12:46:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/07/world/europe/ukraine-sanctions.html",
+      "byline": "By David M. Herszenhorn, Michael R. Gordon and Alissa J. Rubin"
+    },
+    {
+      "headline": "Steeped in Its Bloody History, Again Embracing Resistance",
+      "snippet": "It has been 60 years since Crimea was lopped from Russia and attached to Ukraine, but for many on the peninsula, it may as well have been yesterday.",
+      "abstract": "It has been 60 years since Crimea was lopped from Russia and attached to Ukraine, but for many on the peninsula, it may as well have been yesterday.",
+      "lead_paragraph": "SEVASTOPOL, Ukraine — Drawing on his experiences as a young artillery officer in imperial Russia’s military during the Crimean War in 1853-56, Leo Tolstoy described in “Sevastopol Sketches” how a Russian soldier whose leg had been amputated above the knee coped with agonizing pain.",
+      "publication_date": "2014-03-06T15:23:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/03/07/world/europe/crimea-russia.html",
+      "byline": "By Andrew Higgins"
+    }
+  ]
+}

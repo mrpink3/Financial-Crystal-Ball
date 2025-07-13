@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2018-02-20",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "In Ukraine, Corruption Is Now Undermining the Military",
+      "snippet": "A surge in spending on the armed forces has opened new avenues for the graft and cronyism that many see as Ukraine’s most dangerous enemy.",
+      "abstract": "A surge in spending on the armed forces has opened new avenues for the graft and cronyism that many see as Ukraine’s most dangerous enemy.",
+      "lead_paragraph": "KIEV, Ukraine — Nearly four years into a grinding war against rebels armed by Russia, Ukraine’s Defense Ministry proudly announced last month that it had improved its previously meager medical services for its wounded troops with the purchase and delivery of 100 new military ambulances.",
+      "publication_date": "2018-02-19T17:56:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/19/world/europe/ukraine-corruption-military.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Why A.I. Researchers at Google Got Desks Next to the Boss",
+      "snippet": "At Google, Facebook and other tech companies, executives are making statements about priorities with their seating charts.",
+      "abstract": "At Google, Facebook and other tech companies, executives are making statements about priorities with their seating charts.",
+      "lead_paragraph": "MOUNTAIN VIEW, Calif. — If you want to understand the priorities of a technology company, first look at the seating chart.",
+      "publication_date": "2018-02-19T18:02:51+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/19/technology/ai-researchers-desks-boss.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Tax Overhaul Gains Public Support, Buoying Republicans",
+      "snippet": "The upturn follows an aggressive advertising campaign by the party and coincides with an eroding Democratic lead in polls gauging midterm election prospects.",
+      "abstract": "The upturn follows an aggressive advertising campaign by the party and coincides with an eroding Democratic lead in polls gauging midterm election prospects.",
+      "lead_paragraph": "The tax overhaul that President Trump signed into law now has more supporters than opponents, buoying Republican hopes for this year’s congressional elections.",
+      "publication_date": "2018-02-19T20:11:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/19/business/economy/tax-overhaul-survey.html",
+      "byline": "By Ben Casselman and Jim Tankersley"
+    },
+    {
+      "headline": "School Shootings Put Teachers in New Role as Human Shields",
+      "snippet": "Around the country, teachers are reflecting on whether they are prepared to take a bullet for their students. “I think about it all the time,” one said.",
+      "abstract": "Around the country, teachers are reflecting on whether they are prepared to take a bullet for their students. “I think about it all the time,” one said.",
+      "lead_paragraph": "TAMARAC, Fla. — The shooting was all over, but the emotional reckoning had just begun, and so on Saturday the teachers of Broward County packed their union hall to discuss what it meant to have become the nation’s human shields.",
+      "publication_date": "2018-02-19T21:38:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/19/us/teachers-school-shootings.html",
+      "byline": "By Julie Turkewitz"
+    },
+    {
+      "headline": "On Russia, Facebook Sends a Message It Wishes It Hadn’t",
+      "snippet": "Some Facebook executives still seem more interested in defending themselves from criticism than owning their mistakes related to the 2016 election.",
+      "abstract": "Some Facebook executives still seem more interested in defending themselves from criticism than owning their mistakes related to the 2016 election.",
+      "lead_paragraph": "On most days, Facebook doesn’t have much in common with President Trump. But at the moment, both are in the damage-control business, as they try to get out from under the cloud of suspicion related to Russia’s meddling in the 2016 election.",
+      "publication_date": "2018-02-19T21:42:54+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/19/technology/russia-facebook-trump.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "How Banks Could Control Gun Sales if Washington Won’t",
+      "snippet": "As Corporate America espouses “social responsibility,” the financial industry could help limit sales of assault weapons, our columnist writes.",
+      "abstract": "As Corporate America espouses “social responsibility,” the financial industry could help limit sales of assault weapons, our columnist writes.",
+      "lead_paragraph": "For the past year, chief executives have often talked about the new sense of moral responsibility that corporations have to help their communities and confront social challenges even when Washington won’t.",
+      "publication_date": "2018-02-20T01:00:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/19/business/banks-gun-sales.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "After Florida School Shooting, Russian ‘Bot’ Army Pounced",
+      "snippet": "Twitter accounts suspected of having links to Russia were focused on Robert Mueller. But after news broke about the shooting, they quickly changed their focus.",
+      "abstract": "Twitter accounts suspected of having links to Russia were focused on Robert Mueller. But after news broke about the shooting, they quickly changed their focus.",
+      "lead_paragraph": "SAN FRANCISCO — One hour after news broke about the school shooting in Florida last week, Twitter accounts suspected of having links to Russia released hundreds of posts taking up the gun control debate.",
+      "publication_date": "2018-02-20T01:09:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/19/technology/russian-bots-school-shooting.html",
+      "byline": "By Sheera Frenkel and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "State Officials Say They Are Told Too Little About Election Threats",
+      "snippet": "Federal officials are slow to share with them the specifics they need to guard against Russian hacking and other attacks on voting integrity, state election officials say.",
+      "abstract": "Federal officials are slow to share with them the specifics they need to guard against Russian hacking and other attacks on voting integrity, state election officials say.",
+      "lead_paragraph": "WASHINGTON — More than 15 months after a general election that was stained by covert Russian interference, the chief election officials of some states say they are still not getting the information they need to safeguard the vote.",
+      "publication_date": "2018-02-20T01:51:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/19/us/elections-states-hacking.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "Syrian Bombardment Takes Its Deadliest Toll in Years",
+      "snippet": "At least 200 were killed in a rebel-held area near Damascus, and pro-government forces tried to bolster Kurds fighting Turkish forces in Afrin.",
+      "abstract": "At least 200 were killed in a rebel-held area near Damascus, and pro-government forces tried to bolster Kurds fighting Turkish forces in Afrin.",
+      "lead_paragraph": "BEIRUT, Lebanon — The Syrian government, seizing on a chance to reclaim territory lost in its ever-escalating civil war, has loosed a devastating bombardment on a rebel-held Damascus suburb, killing at least 200 people, many of them children, aid workers said Tuesday.",
+      "publication_date": "2018-02-20T09:58:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/world/middleeast/syria-eastern-ghouta.html",
+      "byline": "By Anne Barnard and Carlotta Gall"
+    },
+    {
+      "headline": "Netanyahu Peril Grows, as Trusted Aide Agrees to Testify",
+      "snippet": "Avoiding jail time, a senior official turns state’s witness, offering information about ties between Mr. Netanyahu and an Israeli media tycoon.",
+      "abstract": "Avoiding jail time, a senior official turns state’s witness, offering information about ties between Mr. Netanyahu and an Israeli media tycoon.",
+      "lead_paragraph": "JERUSALEM — The mushrooming corruption scandal plaguing Prime Minister Benjamin Netanyahu of Israel took a surprising new turn on Tuesday, with an allegation that one of his closest advisers had sought to bribe a judge into dropping a criminal investigation involving the prime minister’s wife.",
+      "publication_date": "2018-02-20T11:40:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/world/middleeast/benjamin-netanyahu-corruption.html",
+      "byline": "By David M. Halbfinger"
+    },
+    {
+      "headline": "Albertsons Is Buying Rite Aid. Walmart’s Stock Falls. There’s a Common Rival.",
+      "snippet": "The grocery chain’s deal and the retail giant’s drop in profits are the latest signs of the pressure that Amazon is putting on traditional businesses.",
+      "abstract": "The grocery chain’s deal and the retail giant’s drop in profits are the latest signs of the pressure that Amazon is putting on traditional businesses.",
+      "lead_paragraph": "The supermarket operator Albertsons said Tuesday morning that it would buy the remnants of the Rite Aid drugstore chain. By the end of the day, Walmart saw its stock drop by more than 10 percent on weak profit.",
+      "publication_date": "2018-02-20T12:39:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/20/business/dealbook/albertsons-rite-aid.html",
+      "byline": "By Michael Corkery and Chad Bray"
+    },
+    {
+      "headline": "Former Skadden Lawyer Pleads Guilty to Lying in Russia Investigation",
+      "snippet": "The lawyer admitted lying in an interview with the special counsel about conversations he had with Rick Gates, who served on the Trump campaign.",
+      "abstract": "The lawyer admitted lying in an interview with the special counsel about conversations he had with Rick Gates, who served on the Trump campaign.",
+      "lead_paragraph": "WASHINGTON — The son-in-law of a Russia-based billionaire admitted on Tuesday to lying to investigators about his communications with a former Trump campaign aide. The guilty plea by the defendant, a former lawyer at a powerful New York-based law firm, broadened the scope of the special counsel’s inquiry into Russia’s election interference.",
+      "publication_date": "2018-02-20T15:02:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/20/us/politics/alex-van-der-zwaan-gates-russia-mueller.html",
+      "byline": "By Sharon LaFraniere and Kenneth P. Vogel"
+    },
+    {
+      "headline": "Come the Recession, Don’t Count on That Safety Net",
+      "snippet": "Republicans seek a leaner welfare system tying government benefits to hard work. But such benefits are worthless when there is no work to be had.",
+      "abstract": "Republicans seek a leaner welfare system tying government benefits to hard work. But such benefits are worthless when there is no work to be had.",
+      "lead_paragraph": "What will President Trump’s first recession look like?",
+      "publication_date": "2018-02-20T15:02:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/20/business/economy/recession-safety-net.html",
+      "byline": "By Eduardo Porter"
+    }
+  ]
+}

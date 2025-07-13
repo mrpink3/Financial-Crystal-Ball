@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-07-30",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Federal Reserve Leaves Rates Near Zero as Economic Recovery Sputters",
+      "snippet": "Federal Reserve officials made clear that they will work to bolster the economy as the pandemic hurts business activity and the job market.",
+      "abstract": "Federal Reserve officials made clear that they will work to bolster the economy as the pandemic hurts business activity and the job market.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve left interest rates near zero on Wednesday and Jerome H. Powell, the Fed chair, predicted a long road ahead as a recent spike in virus cases saps momentum from the nascent economic recovery.",
+      "publication_date": "2020-07-29T18:02:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/29/business/economy/federal-reserve-meeting-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "An Extra $600 a Week Kept Many Jobless Workers Afloat. Now What Will They Do?",
+      "snippet": "A supplement to unemployment benefits is at an end, and Congress is deadlocked over new aid. For some, that means hunger, evictions or bankruptcies.",
+      "abstract": "A supplement to unemployment benefits is at an end, and Congress is deadlocked over new aid. For some, that means hunger, evictions or bankruptcies.",
+      "lead_paragraph": "For Sara Gard, the government’s safety net moved smoothly into place when the coronavirus pandemic upended her family’s lives. Jobless benefit checks began arriving a few days after she was furloughed in April from an entertainment company in Atlanta. A $600 weekly supplement, part of an emergency federal program, would cover the mortgage until her company resumed operations — probably in June.",
+      "publication_date": "2020-07-29T18:33:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/29/business/economy/unemployment-benefits-coronavirus.html",
+      "byline": "By Patricia Cohen, Ben Casselman and Gillian Friedman"
+    },
+    {
+      "headline": "Teachers Are Wary of Returning to Class, and Online Instruction Too",
+      "snippet": "Unions are threatening to strike if classrooms reopen, but are also pushing to limit live remote teaching. Their demands will shape pandemic education.",
+      "abstract": "Unions are threatening to strike if classrooms reopen, but are also pushing to limit live remote teaching. Their demands will shape pandemic education.",
+      "lead_paragraph": "As the nation heads toward a chaotic back-to-school season, with officials struggling over when to reopen classrooms and how to engage children online, teachers’ unions are playing a powerful role in determining the shape of public education as the coronavirus pandemic continues to rage.",
+      "publication_date": "2020-07-29T18:51:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/29/us/teacher-union-school-reopening-coronavirus.html",
+      "byline": "By Dana Goldstein and Eliza Shapiro"
+    },
+    {
+      "headline": "Lawmakers, United in Their Ire, Lash Out at Big Tech’s Leaders",
+      "snippet": "The chiefs of Amazon, Apple, Google and Facebook faced withering questions from Democrats about anti-competitive practices and from Republicans about anti-conservative bias.",
+      "abstract": "The chiefs of Amazon, Apple, Google and Facebook faced withering questions from Democrats about anti-competitive practices and from Republicans about anti-conservative bias.",
+      "lead_paragraph": "WASHINGTON — The chief executives of Amazon, Apple, Google and Facebook, four tech giants worth nearly $5 trillion combined, faced withering questions from Republican and Democratic lawmakers alike on Wednesday for the tactics and market dominance that had made their enterprises successful.",
+      "publication_date": "2020-07-29T23:28:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html",
+      "byline": "By Cecilia Kang and David McCabe"
+    },
+    {
+      "headline": "A Half-Century After Wallace, Trump Echoes the Politics of Division",
+      "snippet": "George Wallace’s speeches and interviews from his 1968 campaign feature language and appeals that sound familiar again as the “law and order” president sends federal forces into the streets.",
+      "abstract": "George Wallace’s speeches and interviews from his 1968 campaign feature language and appeals that sound familiar again as the “law and order” president sends federal forces into the streets.",
+      "lead_paragraph": "WASHINGTON — The nation’s cities were in flames amid protests against racial injustice and the fiery presidential candidate vowed to use force. He would authorize the police to “knock somebody in the head” and “call out 30,000 troops and equip them with two-foot-long bayonets and station them every few feet apart.”",
+      "publication_date": "2020-07-30T09:00:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/30/us/politics/trump-wallace.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "How Pimco’s Cayman-Based Hedge Fund Can Profit From the Fed’s Rescue",
+      "snippet": "Congress said borrowers in taxpayer-backed rescue programs had to be from the United States. Wall Street has a workaround.",
+      "abstract": "Congress said borrowers in taxpayer-backed rescue programs had to be from the United States. Wall Street has a workaround.",
+      "lead_paragraph": "WASHINGTON — Pacific Investment Management Company runs a hedge fund registered in the Cayman Islands, a common structure for avoiding certain U.S. taxes. But when a profit opportunity arose from the ashes of America’s coronavirus crisis, that international location did not stop it from seizing the moment.",
+      "publication_date": "2020-07-30T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/30/business/economy/fed-talf-wall-street.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power",
+      "snippet": "The region’s lawmakers and regulators are taking direct aim at Amazon, Facebook, Google and Apple in a series of proposed laws.",
+      "abstract": "The region’s lawmakers and regulators are taking direct aim at Amazon, Facebook, Google and Apple in a series of proposed laws.",
+      "lead_paragraph": "LONDON — European Union leaders are pursuing a new law to make it illegal for Amazon and Apple to give their own products preferential treatment over those of rivals that are sold on their online stores.",
+      "publication_date": "2020-07-30T09:00:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "China Tries Its Favorite Economic Cure: More Construction",
+      "snippet": "Strong sales at China’s biggest construction equipment maker show Beijing’s strategy for recovery after the virus. But while the company, XCMG, is prospering, the rest of the economy is struggling.",
+      "abstract": "Strong sales at China’s biggest construction equipment maker show Beijing’s strategy for recovery after the virus. But while the company, XCMG, is prospering, the rest of the economy is struggling.",
+      "lead_paragraph": "XUZHOU, China — At a cavernous factory in the Chinese city of Xuzhou, 100 new workers have just been hired to produce giant construction cranes. Nearby, at another sprawling factory, employees toil until midnight to assemble drilling and tunneling machines. A few blocks away, their colleagues at a factory that makes dump trucks have received enough orders to keep them busy well into next year.",
+      "publication_date": "2020-07-30T09:00:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/30/business/china-economy-infrastructure.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Grilled by Lawmakers, Big Tech Turns Up the Gaslight",
+      "snippet": "It is less clear that tech executives’ strategy of evasive answers will continue to work now that lawmakers have begun doing their homework.",
+      "abstract": "It is less clear that tech executives’ strategy of evasive answers will continue to work now that lawmakers have begun doing their homework.",
+      "lead_paragraph": "When Mark Zuckerberg appeared in front of Congress two years ago, the Facebook chief executive’s memorable retort to a clueless questioner was “Senator, we run ads.” After Wednesday’s marathon appearance by Mr. Zuckerberg and three other tech titans at a House hearing on competition in the tech industry, a more fitting quote might be “Congresswoman, I’m not sure what you would mean by ‘threaten.’”",
+      "publication_date": "2020-07-30T13:52:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/30/technology/big-tech-ceos.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "John Lewis, a Man of ‘Unbreakable Perseverance,’ Is Laid to Rest",
+      "snippet": "The civil rights leader was eulogized by former presidents and family in Atlanta, the city he represented in Congress for more than three decades.",
+      "abstract": "The civil rights leader was eulogized by former presidents and family in Atlanta, the city he represented in Congress for more than three decades.",
+      "lead_paragraph": "ATLANTA — Three former presidents and dozens of other dignitaries were drawn to Ebenezer Baptist Church on Thursday to bid farewell to John Lewis, a giant of Congress and the civil rights era whose courageous protests guaranteed him a place in American history. But even as the funeral looked back over Mr. Lewis’s long life, it also focused very much on the tumultuous state of affairs in the country today.",
+      "publication_date": "2020-07-30T14:25:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/30/us/john-lewis-live-funeral.html",
+      "byline": "By Richard Fausset and Rick Rojas"
+    }
+  ]
+}

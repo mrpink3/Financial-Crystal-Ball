@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-05-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "‘Please, God, Let Him Live’: Russian Forces Pummel Ukraine’s East",
+      "snippet": "With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle.",
+      "abstract": "With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle.",
+      "lead_paragraph": "SIEVIERODONETSK, Ukraine — A woman climbed down from the ambulance, wailing, her hands covered in blood. Police medics drew her inside their first aid post, as she appealed for help for her husband, who lay in the ambulance.",
+      "publication_date": "2022-05-24T18:44:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html",
+      "byline": "By Carlotta Gall and Finbarr O'Reilly"
+    },
+    {
+      "headline": "U.S. will start blocking Russia’s bond payments to American investors.",
+      "snippet": "The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century.",
+      "abstract": "The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century.",
+      "lead_paragraph": "WASHINGTON — The Biden administration will start blocking Russia from paying American bondholders, increasing the likelihood of the first default of Russia’s foreign debt in more than a century.",
+      "publication_date": "2022-05-24T19:35:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html",
+      "byline": "By Alan Rappeport and Eshe Nelson"
+    },
+    {
+      "headline": "U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China",
+      "snippet": "The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked.",
+      "abstract": "The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked.",
+      "lead_paragraph": "WASHINGTON — The Biden administration has accelerated its efforts to reshape Taiwan’s defense systems as it projects a more robust American military presence in the region to try to deter a potential attack by the Chinese military, current and former U.S. officials say.",
+      "publication_date": "2022-05-25T00:02:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html",
+      "byline": "By Edward Wong and Eric Schmitt"
+    },
+    {
+      "headline": "19 Children and 2 Adults Killed in Massacre at Texas Elementary School",
+      "snippet": "The mass shooting was the deadliest at an American school since the slayings at Sandy Hook a decade ago.",
+      "abstract": "The mass shooting was the deadliest at an American school since the slayings at Sandy Hook a decade ago.",
+      "lead_paragraph": "Follow the latest news on Uvalde, Texas, elementary school shooting. ",
+      "publication_date": "2022-05-25T00:35:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/24/us/shooting-texas-elementary-school.html",
+      "byline": "By Josh Peck and J. David Goodman"
+    },
+    {
+      "headline": "Brian Kemp trounces Trump-backed David Perdue in a Republican primary battle for Georgia governor.",
+      "snippet": "Mr. Kemp, the incumbent, won by a wide enough margin to avoid a runoff, exposing the limits of Donald Trump’s hold on his party’s base.",
+      "abstract": "Mr. Kemp, the incumbent, won by a wide enough margin to avoid a runoff, exposing the limits of Donald Trump’s hold on his party’s base.",
+      "lead_paragraph": "ATLANTA — In a landslide victory that represented a resounding rebuke of Donald J. Trump, Gov. Brian Kemp of Georgia won the Republican nomination for a second term on Tuesday, turning back a Trump-fueled primary challenge and delivering the former president his biggest electoral setback of the 2022 primaries.",
+      "publication_date": "2022-05-25T00:52:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/24/us/politics/brian-kemp-david-perdue-georgia-governor-trump.html",
+      "byline": "By Shane Goldmacher and Maya King"
+    },
+    {
+      "headline": "In Minneapolis, Overhaul Efforts Stall as Police Resist Change",
+      "snippet": "The two years after the murder of George Floyd by a Minneapolis officer have seen a raft of policy changes, but many residents say that genuine change has been slow.",
+      "abstract": "The two years after the murder of George Floyd by a Minneapolis officer have seen a raft of policy changes, but many residents say that genuine change has been slow.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2022-05-25T07:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/25/us/minneapolis-police-george-floyd-anniversary.html",
+      "byline": "By Shaila Dewan and Tim Arango"
+    },
+    {
+      "headline": "I Tried Apple’s Self-Repair Program With My iPhone. Disaster Ensued.",
+      "snippet": "Apple’s do-it-yourself tools and instructions are far from ideal for most of us. I know this because I broke my phone trying to use them.",
+      "abstract": "Apple’s do-it-yourself tools and instructions are far from ideal for most of us. I know this because I broke my phone trying to use them.",
+      "lead_paragraph": "Apple last month released its first self-repair program that gives people access to the parts, tools and instructions to fix our own iPhones. It made waves when it was announced last year because it was a turning point for the right-to-repair movement, which has urged tech companies for more than a decade to provide resources so we can revive our electronics.",
+      "publication_date": "2022-05-25T09:00:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/25/technology/personaltech/apple-repair-program-iphone.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "7 Million Bad Student Loans With No Way Out, for Anyone",
+      "snippet": "The Biden administration plans to offer those with loans in default a fresh start. It would help borrowers and the government alike.",
+      "abstract": "The Biden administration plans to offer those with loans in default a fresh start. It would help borrowers and the government alike.",
+      "lead_paragraph": "With 45 million borrowers owing it a total of $1.6 trillion, the federal Education Department is effectively America’s largest consumer bank. And like any bank, it sees some of its loans go bad when borrowers can’t pay.",
+      "publication_date": "2022-05-25T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/05/25/business/student-loans-default-forgiveness.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Deadliest U.S. School Shooting in Decade Shakes Rural Texas Town",
+      "snippet": "",
+      "abstract": "UVALDE, Texas — The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",
+      "lead_paragraph": "UVALDE, Texas — The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",
+      "publication_date": "2022-05-25T09:08:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/25/us/the-deadliest-us-school-shooting-in-a-decade-shakes-a-rural-texas-city.html",
+      "byline": "By Jazmine Ulloa, J. David Goodman, Nicholas Bogel-Burroughs and Julie Bosman"
+    },
+    {
+      "headline": "A Doomed River Crossing Shows the Perils of Entrapment in the War’s East",
+      "snippet": "Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks.",
+      "abstract": "Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks.",
+      "lead_paragraph": "BILOHORIVKA, Ukraine — Out on the riverbank, the scene of mayhem unfolded under a baking spring sun: blown-up tanks, the detritus of pontoon bridges, heaps of branches shorn off by explosions and the bodies of Russian soldiers, some half buried in the mud.",
+      "publication_date": "2022-05-25T15:56:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html",
+      "byline": "By Andrew E. Kramer and Ivor Prickett"
+    }
+  ]
+}

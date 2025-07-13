@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2016-09-22",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Fed, With 3 Officials in Dissent, Stands Firm on Interest Rates While Noting Improving Economy",
+      "snippet": "Three members of the central bank’s 10-member policy-making group voted to raise rates. Most officials said that they still expected to raise rates before the end of the year.",
+      "abstract": "Three members of the central bank’s 10-member policy-making group voted to raise rates. Most officials said that they still expected to raise rates before the end of the year.",
+      "lead_paragraph": "WASHINGTON — A divided Federal Reserve, struggling to decide how soon to prune its economic stimulus campaign, said on Wednesday that it would wait at least a little longer.",
+      "publication_date": "2016-09-21T18:12:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/22/business/economy/fed-interest-rates-yellen.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "In Wells Fargo’s Bogus Accounts, Echoes of Foreclosure Abuses",
+      "snippet": "The bank’s practice of opening fake accounts and charging customers fees to do so has parallels with its mistreatment of some borrowers after the financial crisis.",
+      "abstract": "The bank’s practice of opening fake accounts and charging customers fees to do so has parallels with its mistreatment of some borrowers after the financial crisis.",
+      "lead_paragraph": "John Stumpf, the chairman and chief executive of Wells Fargo, won a dubious achievement award from one of his interrogators during Tuesday’s scorching hearings on Capitol Hill. The bank’s yearslong practice of opening bogus accounts for customers and charging fees to do so, said Senator Jon Tester, Democrat of Montana, had united the Senate Banking Committee on a major topic for the first time in a decade. “And not in a good way,” he added.",
+      "publication_date": "2016-09-22T00:05:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/09/22/business/in-wells-fargos-bogus-accounts-echoes-of-foreclosure-abuses.html",
+      "byline": "By Gretchen Morgenson"
+    },
+    {
+      "headline": "Police Sex Abuse Case Is Bad News for Mexico’s Leader",
+      "snippet": "An international commission’s call for an investigation into a 2006 crackdown, ordered by Enrique Peña Nieto when he was governor, is a new blow to his presidency.",
+      "abstract": "An international commission’s call for an investigation into a 2006 crackdown, ordered by Enrique Peña Nieto when he was governor, is a new blow to his presidency.",
+      "lead_paragraph": "MEXICO CITY — International human rights officials are demanding an investigation into the brutal sexual assaults of 11 Mexican women during protests a decade ago — an inquiry that would take aim at President Enrique Peña Nieto, who was the governor in charge at the time of the attacks.",
+      "publication_date": "2016-09-22T09:00:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/09/23/world/americas/enrique-pena-nieto-commission-human-rights-investigate-rape.html",
+      "byline": "By Azam Ahmed"
+    }
+  ]
+}

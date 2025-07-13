@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2019-03-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Michael Cohen’s Testimony Opens New Phase of Political Turbulence for Trump",
+      "snippet": "The president’s former lawyer gave a public airing of ethical transgressions by Mr. Trump, signaling the further strains to come as Democrats hold more hearings.",
+      "abstract": "The president’s former lawyer gave a public airing of ethical transgressions by Mr. Trump, signaling the further strains to come as Democrats hold more hearings.",
+      "lead_paragraph": "A small group of Republican strategists opposed to President Trump, branding themselves Defending Democracy Together, quietly conducted polling and focus groups last fall to gauge whether the president was vulnerable to a primary challenge in 2020. Assembling a presentation for sympathetic political donors, they listed points of weakness for Mr. Trump such as “tweeting/temperament” and “criminality/corruption.”",
+      "publication_date": "2019-03-01T10:00:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/01/us/politics/michael-cohen-trump-reelection.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Where Terrorism Is Rising in Africa and the U.S. Is Leaving",
+      "snippet": "Hundreds of American commandos and other troops are leaving West Africa even as terrorist attacks intensify and spread across the continent.",
+      "abstract": "Hundreds of American commandos and other troops are leaving West Africa even as terrorist attacks intensify and spread across the continent.",
+      "lead_paragraph": "LOUMBILA, Burkina Faso — President Trump has ordered most American troops to withdraw from Syria. He wants to bring home thousands more from Afghanistan. Now hundreds of United States commandos and other forces are leaving West Africa — despite an onslaught of attacks from an increasingly deadly matrix of Islamist fighters.",
+      "publication_date": "2019-03-01T10:00:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/01/world/africa/africa-terror-attacks.html",
+      "byline": "By Eric Schmitt"
+    }
+  ]
+}

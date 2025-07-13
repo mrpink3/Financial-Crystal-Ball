@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-02-23",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Fed Minutes Showed Policymakers Were Still Intent on Easing Inflation",
+      "snippet": "Federal Reserve officials thought they needed to do more to cool the economy even before a series of strong data releases in recent weeks.",
+      "abstract": "Federal Reserve officials thought they needed to do more to cool the economy even before a series of strong data releases in recent weeks.",
+      "lead_paragraph": "Federal Reserve officials believed that they needed to do more to slow the economy and wrestle painfully rapid inflation back under control as of their meeting early this month, minutes from the gathering showed.",
+      "publication_date": "2023-02-22T19:07:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/22/business/economy/inflation-fed-minutes.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "In Sharing Video With Fox Host, McCarthy Hits Rewind on Jan. 6",
+      "snippet": "In granting exclusive access to Jan. 6 Capitol surveillance footage to a cable news host bent on rewriting the history of the attack, the speaker effectively outsourced a politically toxic re-litigation of the riot.",
+      "abstract": "In granting exclusive access to Jan. 6 Capitol surveillance footage to a cable news host bent on rewriting the history of the attack, the speaker effectively outsourced a politically toxic re-litigation of the riot.",
+      "lead_paragraph": "WASHINGTON — Speaker Kevin McCarthy’s decision to grant the Fox News host Tucker Carlson exclusive access to thousands of hours of security footage from inside the Capitol during the Jan. 6, 2021, attack was his latest move to appease the right wing of his party, this time by effectively outsourcing a bid to reinvestigate the riot to its favorite cable news commentator, who has circulated conspiracy theories about the assault.",
+      "publication_date": "2023-02-22T23:54:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/22/us/politics/tucker-carlson-jan-6-mccarthy.html",
+      "byline": "By Luke Broadwater and Jonathan Swan"
+    },
+    {
+      "headline": "Mexico Hobbles Election Agency That Helped End One-Party Rule",
+      "snippet": "The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.",
+      "abstract": "The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.",
+      "lead_paragraph": "Mexican lawmakers passed sweeping measures overhauling the nation’s electoral agency on Wednesday, dealing a blow to the institution that oversees voting and that helped push the country away from one-party rule two decades ago.",
+      "publication_date": "2023-02-23T00:33:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/22/world/americas/mexico-election-law.html",
+      "byline": "By Natalie Kitroeff"
+    },
+    {
+      "headline": "Putin and Biden Shore Up Alliances in Dueling Appearances",
+      "snippet": "On the surface, it looked like a reversion to the Cold War era. The reality was even more complicated.",
+      "abstract": "On the surface, it looked like a reversion to the Cold War era. The reality was even more complicated.",
+      "lead_paragraph": "WARSAW — In a day of dueling efforts to shore up allegiances, President Biden wrapped up a three-day trip to Europe Wednesday with a promise of America’s commitment to its allies as President Vladimir V. Putin warmly welcomed China’s top diplomat to Moscow and rallied pro-war Russians.",
+      "publication_date": "2023-02-23T00:36:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/22/world/europe/biden-putin-russia-ukraine-allies.html",
+      "byline": "By Michael D. Shear, David E. Sanger and Anton Troianovski"
+    },
+    {
+      "headline": "How One Ukrainian Company Survived, and Thrived, Through a Year of War",
+      "snippet": "For Kormotech and its 1,300 employees, Russia’s invasion disrupted everything. After nimble decision-making and good fortune, sales are up, providing Ukraine with much-needed tax revenue.",
+      "abstract": "For Kormotech and its 1,300 employees, Russia’s invasion disrupted everything. After nimble decision-making and good fortune, sales are up, providing Ukraine with much-needed tax revenue.",
+      "lead_paragraph": "It was exactly a year ago, and the Ukrainian pet food maker Kormotech had concluded its annual meeting. The mood was buoyant. Business was booming, the factory was running 24/7, and sales were projected to grow by double digits. “We had a beautiful budget,” Rostyslav Vovk, the company’s chief executive and founder, recalled almost dreamily.",
+      "publication_date": "2023-02-23T05:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/23/business/economy/ukraine-company-kormotech.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Chip Makers Turn Cutthroat in Fight for Share of Federal Money",
+      "snippet": "Semiconductor companies, which united to get the CHIPS Act approved, have set off a lobbying frenzy as they argue for more cash than their competitors.",
+      "abstract": "Semiconductor companies, which united to get the CHIPS Act approved, have set off a lobbying frenzy as they argue for more cash than their competitors.",
+      "lead_paragraph": "WASHINGTON — In early January, a New York public relations firm sent an email warning about what it characterized as a threat to the federal government’s program to revitalize the U.S. semiconductor industry.",
+      "publication_date": "2023-02-23T10:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/23/business/economy/chip-makers-fight-federal-money.html",
+      "byline": "By Ana Swanson and Don Clark"
+    },
+    {
+      "headline": "China’s Cities Are Cutting Health Insurance, and People Are Angry",
+      "snippet": "Local governments, short on money after three years of “zero Covid” and faced with many more retirees, are raising costs and overhauling benefits.",
+      "abstract": "Local governments, short on money after three years of “zero Covid” and faced with many more retirees, are raising costs and overhauling benefits.",
+      "lead_paragraph": "Local governments across China, facing a financial tipping point after three years of expensive Covid measures, are forcing abrupt changes on the country’s health care system, squeezing benefits and angering citizens.",
+      "publication_date": "2023-02-23T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/23/business/china-health-insurance-protests.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Tech Leaders in Israel Wonder if It’s Time to Leave",
+      "snippet": "Ahead of a judicial overhaul that could transform the country and frighten away investors, the executives of Start-Up Nation are mulling an exodus.",
+      "abstract": "Ahead of a judicial overhaul that could transform the country and frighten away investors, the executives of Start-Up Nation are mulling an exodus.",
+      "lead_paragraph": "For years, budding Israeli tech executives have asked Yanki Margalit, a veteran entrepreneur, where they should start their fledgling companies. For years, he’s offered the same advice: Here, in Israel, where software engineers are plentiful, international investors are eager and friends and family live.",
+      "publication_date": "2023-02-23T10:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/23/business/tech-startups-israel.html",
+      "byline": "By David Segal"
+    },
+    {
+      "headline": "Bulgarian Factories and Secret Task Forces: How the West Hunts for Soviet Arms",
+      "snippet": "Ukraine has long relied on Russian weapons for its armed forces. Now it is scrambling to get Soviet-era ammunition for those weapons, with the help of manufacturers even in rural corners of Eastern Europe.",
+      "abstract": "Ukraine has long relied on Russian weapons for its armed forces. Now it is scrambling to get Soviet-era ammunition for those weapons, with the help of manufacturers even in rural corners of Eastern Europe.",
+      "lead_paragraph": "KOSTENETS, Bulgaria — The job is straightforward, dangerous and will soon be open to applicants: filling a 122-millimeter Soviet-style artillery shell with explosives that will turn it into a lethal projectile.",
+      "publication_date": "2023-02-23T10:30:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/23/world/europe/ukraine-weapons-ammunition-bulgaria.html",
+      "byline": "By Thomas Gibbons-Neff, Justin Scheck and Boryana Dzhambazova"
+    },
+    {
+      "headline": "Alex Murdaugh Admits Lying and Stealing, but Denies Murders",
+      "snippet": "In choosing to testify on Thursday, Mr. Murdaugh took a gamble that could determine whether he is acquitted or sent to prison for life.",
+      "abstract": "In choosing to testify on Thursday, Mr. Murdaugh took a gamble that could determine whether he is acquitted or sent to prison for life.",
+      "lead_paragraph": "Follow for the latest updates on the Alex Murdaugh murder case.",
+      "publication_date": "2023-02-23T13:02:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/23/us/alex-murdaugh-murder-trial-testify.html",
+      "byline": "By Nicholas Bogel-Burroughs"
+    }
+  ]
+}

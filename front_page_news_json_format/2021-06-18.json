@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-06-18",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "As China Scrutinizes Its Entrepreneurs, a Power Couple Cashes Out",
+      "snippet": "The husband-and-wife team atop Soho China had already been keeping a lower profile than they did during an earlier, freer era of the country’s economic revival. Now they are selling their real estate business to Blackstone.",
+      "abstract": "The husband-and-wife team atop Soho China had already been keeping a lower profile than they did during an earlier, freer era of the country’s economic revival. Now they are selling their real estate business to Blackstone.",
+      "lead_paragraph": "China’s economy is on a tear. Factories are humming, and foreign investment is flowing in. Even so, the wealthy and powerful people atop some of the country’s most prominent companies are heading for the exits.",
+      "publication_date": "2021-06-17T16:04:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/17/business/soho-china-blackstone-sale.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "Nielsen Now Knows When You Are Streaming",
+      "snippet": "The company known for measuring television ratings said Netflix and YouTube are far ahead of their digital rivals, but viewers still spend more time watching cable and network TV.",
+      "abstract": "The company known for measuring television ratings said Netflix and YouTube are far ahead of their digital rivals, but viewers still spend more time watching cable and network TV.",
+      "lead_paragraph": "Nielsen on Thursday announced that it had moved a step closer toward cracking one of the great questions of the modern entertainment world: How big, exactly, is streaming?",
+      "publication_date": "2021-06-17T18:21:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/17/business/media/nielsen-streaming-metrics-netflix-youtube.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Many Expected to Shun Iran Vote Seen as Presidential Race of One",
+      "snippet": "An ultraconservative judiciary chief appears to have the only real chance of winning after a council of powerful clerics disqualified virtually all the other viable candidates.",
+      "abstract": "An ultraconservative judiciary chief appears to have the only real chance of winning after a council of powerful clerics disqualified virtually all the other viable candidates.",
+      "lead_paragraph": "TEHRAN — Come presidential election time, the streets of central Tehran are usually wallpapered with the candidates’ names and faces, their banners swaying from buildings and streetlights. But this time around, the biggest banners bear no names, only a simple message: Vote on Friday.",
+      "publication_date": "2021-06-17T20:41:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/17/world/middleeast/iran-election-president.html",
+      "byline": "By Vivian Yee and Farnaz Fassihi"
+    },
+    {
+      "headline": "The Power of Money: How Autocrats Use London to Strike Foes Worldwide",
+      "snippet": "English courtrooms have become a battleground — and a source of powerful weapons — in fierce disputes between the tycoons and the politicians of the post-Soviet world.",
+      "abstract": "English courtrooms have become a battleground — and a source of powerful weapons — in fierce disputes between the tycoons and the politicians of the post-Soviet world.",
+      "lead_paragraph": "LONDON — Olena Tyshchenko, a lawyer based in Britain, was facing years in a crowded Russian prison cell, when a chance at freedom came via an unexpected source.",
+      "publication_date": "2021-06-18T06:00:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/18/world/europe/uk-courts-russia-kazakhstan.html",
+      "byline": "By Andrew Higgins, Jane Bradley, Isobel Koshiw and Franz Wild"
+    },
+    {
+      "headline": "High Hopes for Johnson & Johnson’s Covid Vaccine Have Fizzled in the U.S.",
+      "snippet": "Production problems and a brief pause on its use kept the one-dose vaccine from becoming the game changer that health officials across the country believed it would be.",
+      "abstract": "Production problems and a brief pause on its use kept the one-dose vaccine from becoming the game changer that health officials across the country believed it would be.",
+      "lead_paragraph": "WASHINGTON — When Johnson & Johnson’s single-dose coronavirus vaccine was authorized for emergency use in late February, ​it was seen as a breakthrough for reaching vulnerable and isolated Americans, a crucial alternative to vaccines that require two shots weeks apart and fussier storage. It was soon popular on college campuses, in door-to-door campaigns and with harder-to-reach communities that often struggle with access to health care.",
+      "publication_date": "2021-06-18T09:00:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/18/us/politics/johnson-johnson-covid-vaccine.html",
+      "byline": "By Noah Weiland"
+    },
+    {
+      "headline": "Shell Gets Greener, Even as Climate Advocates Say, ‘Go Faster’",
+      "snippet": "Royal Dutch Shell, though still reliant on profits from fossil fuels, is investing more in renewable energy. Critics say the changes have to come quicker.",
+      "abstract": "Royal Dutch Shell, though still reliant on profits from fossil fuels, is investing more in renewable energy. Critics say the changes have to come quicker.",
+      "lead_paragraph": "MINETY, England — On a clearing at the edge of a farm field, 40 big rectangular boxes the size of shipping containers sit behind a tall fence. Packed inside are stacks of lithium-ion cells and other electrical equipment.",
+      "publication_date": "2021-06-18T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/18/business/shell-renewable-energy.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "The European Union Recommends Opening to Americans to Rescue the Summer",
+      "snippet": "The bloc recommended that its 27 member nations lift a ban on nonessential travel from the United States, but each country will decide for itself.",
+      "abstract": "The bloc recommended that its 27 member nations lift a ban on nonessential travel from the United States, but each country will decide for itself.",
+      "lead_paragraph": "BRUSSELS — In a rush of hope that Europe has turned the page on its pandemic ordeal, the European Union on Friday urged its member countries to open their doors to American leisure travelers, after more than a year of tight restrictions and economic slump.",
+      "publication_date": "2021-06-18T09:19:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/18/world/europe/eu-us-covid-tourism.html",
+      "byline": "By Monika Pronczuk"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2018-03-16",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Mueller Subpoenas Trump Organization, Demanding Documents About Russia",
+      "snippet": "The court order is the first known time the special counsel has demanded that records directly related to the president’s businesses be turned over.",
+      "abstract": "The court order is the first known time the special counsel has demanded that records directly related to the president’s businesses be turned over.",
+      "lead_paragraph": "WASHINGTON — The special counsel, Robert S. Mueller III, has subpoenaed the Trump Organization in recent weeks to turn over documents, including some related to Russia, according to two people briefed on the matter. The order is the first known instance of the special counsel demanding records directly related to President Trump’s businesses, bringing the investigation closer to the president.",
+      "publication_date": "2018-03-15T17:45:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/15/us/politics/trump-organization-subpoena-mueller-russia.html",
+      "byline": "By Michael S. Schmidt and Maggie Haberman"
+    },
+    {
+      "headline": "Wary of China, Europe and Others Push Back on Foreign Takeovers",
+      "snippet": "The move by countries in Europe, as well as Australia and Canada, comes against the backdrop of rising support for protectionist practices in the White House.",
+      "abstract": "The move by countries in Europe, as well as Australia and Canada, comes against the backdrop of rising support for protectionist practices in the White House.",
+      "lead_paragraph": "PARIS — Europe is pushing for more stringent vetting of foreign investments, with an eye on Beijing. Australia has been blocking bids by Chinese buyers for strategic assets. And in Canada, a Chinese takeover of a major contractor faces a national security test.",
+      "publication_date": "2018-03-15T18:27:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/15/business/china-europe-canada-australia-deals.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "With One Battle Over, a Bigger One Looms for Qualcomm: Apple",
+      "snippet": "Resolving its fee dispute with Apple could raise Qualcomm’s share price above what it would have been under a Broadcom takeover, a major shareholder reasons.",
+      "abstract": "Resolving its fee dispute with Apple could raise Qualcomm’s share price above what it would have been under a Broadcom takeover, a major shareholder reasons.",
+      "lead_paragraph": "Few investors had more at stake in Broadcom’s $117 billion hostile takeover bid for the chip maker Qualcomm than Jerome L. Dodson, the founder and chief executive of Parnassus Investments in San Francisco, and chief portfolio manager for the Parnassus Endeavor mutual fund.",
+      "publication_date": "2018-03-15T18:50:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/15/business/with-one-battle-over-a-bigger-one-looms-for-qualcomm-apple.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Cyberattacks Put Russian Fingers on the Switch at Power Plants, U.S. Says",
+      "snippet": "In the last year, Russian hackers have gone from infiltrating business networks of energy, water and nuclear plants to worming their way into control rooms.",
+      "abstract": "In the last year, Russian hackers have gone from infiltrating business networks of energy, water and nuclear plants to worming their way into control rooms.",
+      "lead_paragraph": "The Trump administration accused Russia on Thursday of engineering a series of cyberattacks that targeted American and European nuclear power plants and water and electric systems, and could have sabotaged or shut power plants off at will.",
+      "publication_date": "2018-03-15T21:53:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/15/us/politics/russia-cyberattacks.html",
+      "byline": "By Nicole Perlroth and David E. Sanger"
+    },
+    {
+      "headline": "Streaming Soon: A Fight Over AT&T, Time Warner, and the Future of TV",
+      "snippet": "The Justice Department’s case to block AT&T’s $85 billion merger with Time Warner is set for trial next week, in one of the most anticipated antitrust battles in years.",
+      "abstract": "The Justice Department’s case to block AT&T’s $85 billion merger with Time Warner is set for trial next week, in one of the most anticipated antitrust battles in years.",
+      "lead_paragraph": "WASHINGTON — How you watch “Game of Thrones” and CNN is about to have its day in court.",
+      "publication_date": "2018-03-15T22:46:53+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/15/technology/att-time-warner-antitrust.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Toys ‘R’ Us Case Is Test of Private Equity in Age of Amazon",
+      "snippet": "The toy retailer is another failure of financial engineering, one that could portend a potentially more ominous outlook for private equity in the digital era.",
+      "abstract": "The toy retailer is another failure of financial engineering, one that could portend a potentially more ominous outlook for private equity in the digital era.",
+      "lead_paragraph": "The mood in the courtroom was hopeful when Toys “R” Us filed for bankruptcy last September. The company’s lawyer, in the first hearing, played a clip of the retailer’s famous jingle “I’m a Toys ‘R’ Us Kid” and vowed to restore the company’s place in the hearts of millions of American families.",
+      "publication_date": "2018-03-15T23:20:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/15/business/toys-r-us-bankruptcy.html",
+      "byline": "By Michael Corkery"
+    },
+    {
+      "headline": "A Bold, Divisive Plan to Wean Californians From Cars",
+      "snippet": "Legislation would allow more home building along transit routes to reduce gas-guzzling commutes. Some who support the goal have denounced the method.",
+      "abstract": "Legislation would allow more home building along transit routes to reduce gas-guzzling commutes. Some who support the goal have denounced the method.",
+      "lead_paragraph": "SAN FRANCISCO — It’s an audacious proposal to get Californians out of their cars: a bill in the State Legislature that would allow eight-story buildings near major transit stops, even if local communities object.",
+      "publication_date": "2018-03-16T07:00:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/03/16/business/energy-environment/climate-density.html",
+      "byline": "By Conor Dougherty and Brad Plumer"
+    },
+    {
+      "headline": "He Owns Much of Ethiopia. The Saudis Won’t Say Where They’re Hiding Him.",
+      "snippet": "Many of the billionaires and princes swept up in the Saudi corruption crackdown have been released. Sheikh Mohammed Hussein Al Amoudi has not.",
+      "abstract": "Many of the billionaires and princes swept up in the Saudi corruption crackdown have been released. Sheikh Mohammed Hussein Al Amoudi has not.",
+      "lead_paragraph": "He supplies coffee to Starbucks. He owns much of Ethiopia. And he is known as “Sheikh Mo” in the Clintons’ circle.",
+      "publication_date": "2018-03-16T09:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/16/business/saudi-arabia-purge.html",
+      "byline": "By Danny Hakim and Ben Hubbard"
+    },
+    {
+      "headline": "Teachers and Annuities: A Questionable Match and Hard Products to Shed",
+      "snippet": "Charter schoolteachers in New Orleans were peddled problematic retirement plans and then faced onerous obstacles trying to change them.",
+      "abstract": "Charter schoolteachers in New Orleans were peddled problematic retirement plans and then faced onerous obstacles trying to change them.",
+      "lead_paragraph": "NEW ORLEANS — In the world of workplace retirement plans, there is a persistent problem with 403(b)’s, which are like 401(k)’s but for nonprofit employees.",
+      "publication_date": "2018-03-16T15:37:20+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/03/16/your-money/403b-annuities.html",
+      "byline": "By Ron Lieber"
+    }
+  ]
+}

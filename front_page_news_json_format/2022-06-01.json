@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2022-06-01",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Racist and Violent Ideas Jump From Web’s Fringes to Mainstream Sites",
+      "snippet": "Despite some efforts by the largest tech companies to limit the spread of hateful content, it often remains only a click or two away.",
+      "abstract": "Despite some efforts by the largest tech companies to limit the spread of hateful content, it often remains only a click or two away.",
+      "lead_paragraph": "On March 30, the young man accused of the mass shooting at a Tops grocery store in Buffalo surfed through a smorgasbord of racist and antisemitic websites online. On BitChute, a video sharing site known for hosting right-wing extremism, he listened to a lecture on the decline of the American middle class by a Finnish extremist. On YouTube he found a lurid video of a car driving through Black neighborhoods in Detroit.",
+      "publication_date": "2022-06-01T07:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/01/technology/fringe-mainstream-social-media.html",
+      "byline": "By Steven Lee Myers and Stuart A. Thompson"
+    },
+    {
+      "headline": "They Got the Debt, but Not the Degree",
+      "snippet": "Millions took out student loans for programs they did not complete. For some, debt cancellation would be life-changing. For others, it would hardly make a dent.",
+      "abstract": "Millions took out student loans for programs they did not complete. For some, debt cancellation would be life-changing. For others, it would hardly make a dent.",
+      "lead_paragraph": "Michael Chaney just couldn’t pass algebra.",
+      "publication_date": "2022-06-01T09:00:19+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/01/your-money/student-loan-debt-degree.html",
+      "byline": "By Tara Siegel Bernard"
+    }
+  ]
+}

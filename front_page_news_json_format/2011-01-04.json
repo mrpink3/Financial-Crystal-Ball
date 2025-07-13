@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2011-01-04",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "In Japan, Pfizer Is Short of Drug to Help Smokers",
+      "snippet": "After a rise in the cigarette tax, demand for a Pfizer antismoking drug outstripped the supply.",
+      "abstract": "After a rise in the cigarette tax, demand for a Pfizer antismoking drug outstripped the supply.",
+      "lead_paragraph": "TOKYO  When the Japanese government raised the tax on cigarettes on Oct. 1, it could have started a public health revolution in this land of heavy smokers. ",
+      "publication_date": "2011-01-03T17:41:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/01/04/business/global/04smoke.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "Mocked as Uncool, the Minivan Rises Again",
+      "snippet": "Minivan makers are trying to recast the much-ridiculed mom-mobile as something that parents can be proud — or at least unashamed — of driving.",
+      "abstract": "Minivan makers are trying to recast the much-ridiculed mom-mobile as something that parents can be proud — or at least unashamed — of driving.",
+      "lead_paragraph": "DETROIT  Could driving a minivan, the ultimate embodiment of the suburban family vehicle, ever be considered cool?",
+      "publication_date": "2011-01-03T22:56:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/01/04/business/04minivan.html",
+      "byline": "By Nick Bunkley"
+    },
+    {
+      "headline": "Strained States Turning to Laws to Curb Labor Unions",
+      "snippet": "As state officials try to plug budget shortfalls, many are looking at legislation to scale back the power of labor unions, especially those that represent state workers.",
+      "abstract": "As state officials try to plug budget shortfalls, many are looking at legislation to scale back the power of labor unions, especially those that represent state workers.",
+      "lead_paragraph": "Faced with growing budget deficits and restive taxpayers, elected officials from Maine to Alabama, Ohio to Arizona, are pushing new legislation to limit the power of labor unions, particularly those representing government workers, in collective bargaining and politics.",
+      "publication_date": "2011-01-04T00:39:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/01/04/business/04labor.html",
+      "byline": "By Steven Greenhouse"
+    },
+    {
+      "headline": "G.O.P. Sets Up Huge Target for Budget Ax",
+      "snippet": "Republicans are moving to make good on a promise to cut $100 billion in domestic spending this year.",
+      "abstract": "Republicans are moving to make good on a promise to cut $100 billion in domestic spending this year.",
+      "lead_paragraph": "WASHINGTON  The incoming Republican majority in the House is moving to make good on its promise to cut $100 billion from domestic spending this year, a goal eagerly backed by conservatives but one carrying substantial political and economic risks.",
+      "publication_date": "2011-01-04T02:09:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/01/04/us/politics/04fiscal.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "A Year Later, Haiti Struggles Back",
+      "snippet": "Despite a gloomy backdrop, many Haitians have started to find some equilibrium. Six survivors tell their stories.",
+      "abstract": "Despite a gloomy backdrop, many Haitians have started to find some equilibrium. Six survivors tell their stories.",
+      "lead_paragraph": "PORT-AU-PRINCE, Haiti — In 2010, Daphne Joseph, a slim, shy teenager, took a pounding from life.",
+      "publication_date": "2011-01-04T02:21:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/01/04/world/americas/04haiti.html",
+      "byline": "By Deborah Sontag"
+    },
+    {
+      "headline": "Graphics Ability Is the New Goal for Chip Makers",
+      "snippet": "At this week’s Consumer Electronics Show, makers show off new computer chips that combine top-level computation and graphics functions.",
+      "abstract": "At this week’s Consumer Electronics Show, makers show off new computer chips that combine top-level computation and graphics functions.",
+      "lead_paragraph": "In the good old days, it was all about speed.",
+      "publication_date": "2011-01-04T05:01:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/01/04/technology/04chip.html",
+      "byline": "By Ashlee Vance"
+    },
+    {
+      "headline": "Killing of Governor Deepens Crisis in Pakistan",
+      "snippet": "The assassination of a politician by one of his guards highlighted the threat of militant infiltration.",
+      "abstract": "The assassination of a politician by one of his guards highlighted the threat of militant infiltration.",
+      "lead_paragraph": "ISLAMABAD, Pakistan — The assassination of an outspoken secular politician by one of his elite police guards on Tuesday plunged the government deeper into political crisis and highlighted the threat of militant infiltration even within the nation’s security forces.",
+      "publication_date": "2011-01-04T12:01:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/01/05/world/asia/05pakistan.html",
+      "byline": "By Salman Masood and Carlotta Gall"
+    }
+  ]
+}

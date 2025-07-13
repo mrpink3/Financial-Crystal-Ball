@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-02-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "China’s Leading Electric Carmaker Has Arrived in Germany",
+      "snippet": "BYD is a powerhouse in China and sells the most electric vehicles of any company in the world. Now it has a plan to attract buyers in Europe’s largest economy.",
+      "abstract": "BYD is a powerhouse in China and sells the most electric vehicles of any company in the world. Now it has a plan to attract buyers in Europe’s largest economy.",
+      "lead_paragraph": "Germans take huge pride in their automotive industry, and have never been eager to abandon their Audis, BMWs or Mercedes-Benzes for foreign makes. But with a goal to change that, a Chinese automaker that sells the most electric cars in the world has begun offering three of its models in Germany.",
+      "publication_date": "2023-02-21T16:53:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/21/world/europe/byd-germany-electric-cars.html",
+      "byline": "By Melissa Eddy"
+    },
+    {
+      "headline": "China’s Courtship of European Powers Hits a Russian Wall",
+      "snippet": "Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.",
+      "abstract": "Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.",
+      "lead_paragraph": "China’s top diplomat, Wang Yi, has been on a high-stakes tour of Europe, defending his country’s interests in a clash with Secretary of State Antony J. Blinken and reaffirming Beijing’s friendship with Russia with a visit to Moscow.",
+      "publication_date": "2023-02-21T17:26:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/21/world/asia/china-europe-russia-ukraine.html",
+      "byline": "By David Pierson"
+    },
+    {
+      "headline": "Supreme Court Seems Wary of Limiting Protections for Social Media Platforms",
+      "snippet": "The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.",
+      "abstract": "The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.",
+      "lead_paragraph": "WASHINGTON — In a case with the potential to alter the very structure of the internet, the Supreme Court did not appear ready on Tuesday to limit a law that protects social media platforms from lawsuits over their users’ posts.",
+      "publication_date": "2023-02-21T18:38:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/21/us/google-supreme-court-youtube.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says",
+      "snippet": "She would not discuss specific indictments in the special grand jury’s report but noted that its recommendations were “not going to be some giant plot twist.”",
+      "abstract": "She would not discuss specific indictments in the special grand jury’s report but noted that its recommendations were “not going to be some giant plot twist.”",
+      "lead_paragraph": "A special grand jury that investigated election interference by former President Donald J. Trump and his allies in Georgia recommended indictments for multiple people on a range of charges in its final report, most of which remains sealed, the forewoman of the jury said on Tuesday.",
+      "publication_date": "2023-02-21T19:20:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/21/us/trump-georgia-grand-jury-indictments.html",
+      "byline": "By Danny Hakim"
+    },
+    {
+      "headline": "Biden Accuses Putin of Atrocities and Urges World to Rebuke Him",
+      "snippet": "In sharply opposed speeches, President Biden said Vladimir V. Putin bore sole responsibility for the war, while Mr. Putin said Russia had invaded in self-defense. But they agreed the war would not end soon.",
+      "abstract": "In sharply opposed speeches, President Biden said Vladimir V. Putin bore sole responsibility for the war, while Mr. Putin said Russia had invaded in self-defense. But they agreed the war would not end soon.",
+      "lead_paragraph": "WARSAW — President Biden and Vladimir V. Putin laid out radically different visions on Tuesday for Ukraine’s future, offering sharply contrasting narratives about who is to blame for the bloody, yearlong war and seeming to agree on only one point: The conflict is nowhere near an end.",
+      "publication_date": "2023-02-22T00:18:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/21/world/europe/biden-putin-russia-ukraine.html",
+      "byline": "By David E. Sanger, Michael D. Shear and Anton Troianovski"
+    },
+    {
+      "headline": "Inside Taiwanese Chip Giant, a U.S. Expansion Stokes Tensions",
+      "snippet": "Employee doubts are rising about Taiwan Semiconductor Manufacturing Company’s $40 billion investment in an Arizona factory.",
+      "abstract": "Employee doubts are rising about Taiwan Semiconductor Manufacturing Company’s $40 billion investment in an Arizona factory.",
+      "lead_paragraph": "Taiwan Semiconductor Manufacturing Company, the world’s biggest maker of advanced computer chips, is upgrading and expanding a new factory in Arizona that promises to help move the United States toward a more self-reliant technological future.",
+      "publication_date": "2023-02-22T10:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/22/technology/tsmc-arizona-factory-tensions.html",
+      "byline": "By John Liu and Paul Mozur"
+    },
+    {
+      "headline": "China’s Economic Support for Russia Could Elicit More Sanctions",
+      "snippet": "U.S. officials pledged to crack down on shipments to Russia that can be used for both civilian and military purposes, but that has proved hard to police.",
+      "abstract": "U.S. officials pledged to crack down on shipments to Russia that can be used for both civilian and military purposes, but that has proved hard to police.",
+      "lead_paragraph": "WASHINGTON — President Biden and his top officials vowed this week to introduce additional sanctions aimed at impeding Russia’s war efforts against Ukraine. But the administration’s focus is increasingly shifting to the role that China has played in supplying Russia with goods that have both civilian and military uses.",
+      "publication_date": "2023-02-22T10:00:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/22/us/politics/china-russia-sanctions.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "How Poland, Long Leery of Foreigners, Opened Up to Ukrainians",
+      "snippet": "The country, once one of the world’s most ethnically and culturally homogeneous, has accommodated far more refugees from neighboring Ukraine than any other nation.",
+      "abstract": "The country, once one of the world’s most ethnically and culturally homogeneous, has accommodated far more refugees from neighboring Ukraine than any other nation.",
+      "lead_paragraph": "A year ago, Russia’s military onslaught on Ukraine sent millions of refugees fleeing west, often to countries wary of taking in foreigners, raising fears of a repeat of the political convulsions set off by a migration crisis in 2015 that involved far fewer people.",
+      "publication_date": "2023-02-22T11:02:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/22/world/europe/poland-ukraine-war-refugees.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "China’s Tech Rainmaker Vanishes, and So Does Business Confidence",
+      "snippet": "Bao Fan’s firm says he’s unreachable, and others in the tech sector are worried for him and fear what his disappearance says about China’s heavy hand in business.",
+      "abstract": "Bao Fan’s firm says he’s unreachable, and others in the tech sector are worried for him and fear what his disappearance says about China’s heavy hand in business.",
+      "lead_paragraph": "On Valentine’s Day in 2015, two of China’s biggest ride-hailing start-ups, one backed by the tech giant Alibaba and the other by Tencent, announced they would merge after burning through hundreds of millions of dollars in a price war. Brokering the deal, while managing the egos of combative founders and investors, was Bao Fan, the rainmaker of China’s tech industry.",
+      "publication_date": "2023-02-22T14:15:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/22/business/fan-bao-china-renaissance.html",
+      "byline": "By Li Yuan"
+    }
+  ]
+}

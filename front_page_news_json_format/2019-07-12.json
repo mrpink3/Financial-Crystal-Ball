@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-07-12",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Koch Executive’s Harassment in China Adds to Fears Among Visitors",
+      "snippet": "Amid worsening trade tensions, an American businessman was barred from leaving for days, in an apparent message to President Trump. Others worry they may be next.",
+      "abstract": "Amid worsening trade tensions, an American businessman was barred from leaving for days, in an apparent message to President Trump. Others worry they may be next.",
+      "lead_paragraph": "A Koch Industries executive was told he could not leave China. An ex-diplomat who helped organize a technology forum in Beijing was hassled by authorities who wanted to question him. An industry group developed contingency plans, in case its offices were raided and computer servers were seized.",
+      "publication_date": "2019-07-11T23:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/11/business/american-businesses-china.html",
+      "byline": "By Paul Mozur, Alexandra Stevenson and Edward Wong"
+    },
+    {
+      "headline": "Jeffrey Epstein Registered as a Sex Offender in 2 States. In New Mexico, He Didn’t Have To.",
+      "snippet": "The New York financier’s case points to the patchwork of laws around the country that govern the registration of sex offenders.",
+      "abstract": "The New York financier’s case points to the patchwork of laws around the country that govern the registration of sex offenders.",
+      "lead_paragraph": "STANLEY, N.M. — Jeffrey Epstein, the New York financier, managed to evade federal prosecution a decade ago in a Florida sex case involving dozens of teenage girls, in part by agreeing to register as a sex offender. But for a man with many residences, and many high-powered lawyers, registering as a sex offender was not the blanket penalty it might seem.",
+      "publication_date": "2019-07-12T00:15:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/11/us/jeffrey-epstein-house-new-mexico.html",
+      "byline": "By Simon Romero and Nicholas Kulish"
+    },
+    {
+      "headline": "As Nations Look to Tax Tech Firms, U.S. Scrambles to Broker a Deal",
+      "snippet": "The proposed levies on firms like Facebook and Google are pitting traditional allies against one another and threatening to set off a cascade of tax increases and tariffs.",
+      "abstract": "The proposed levies on firms like Facebook and Google are pitting traditional allies against one another and threatening to set off a cascade of tax increases and tariffs.",
+      "lead_paragraph": "WASHINGTON — For most of the 21st century, wealthy nations have engaged in a race to the bottom on corporate taxes, cutting rates in an effort to poach business activity across borders. Very quickly, that script has flipped.",
+      "publication_date": "2019-07-12T07:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/12/business/economy/tech-company-taxes.html",
+      "byline": "By Jim Tankersley and Alan Rappeport"
+    },
+    {
+      "headline": "Turkey Gets Shipment of Russian Missile System, Defying U.S.",
+      "snippet": "The purchase of the sophisticated S-400 antiaircraft equipment was fiercely opposed by NATO and by Washington, which is expected to respond with sanctions.",
+      "abstract": "The purchase of the sophisticated S-400 antiaircraft equipment was fiercely opposed by NATO and by Washington, which is expected to respond with sanctions.",
+      "lead_paragraph": "ISTANBUL — Defying strenuous American objections and the threat of sanctions, Turkey began receiving the first shipment of a sophisticated Russian surface-to-air missile system on Friday, a step certain to test the country’s uneasy place in the NATO alliance.",
+      "publication_date": "2019-07-12T08:18:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/12/world/europe/turkey-russia-missiles.html",
+      "byline": "By Carlotta Gall"
+    },
+    {
+      "headline": "Why Sanders Wanted His Meeting With a Rabbi Kept Secret",
+      "snippet": "Bernie Sanders’s advisers and allies want him to get personal with voters as he struggles in the 2020 race. But that isn’t his style.",
+      "abstract": "Bernie Sanders’s advisers and allies want him to get personal with voters as he struggles in the 2020 race. But that isn’t his style.",
+      "lead_paragraph": "WASHINGTON — [Read more: Bernie Sanders drops out of 2020 democratic presidential race.]",
+      "publication_date": "2019-07-12T09:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/12/us/politics/bernie-sanders-2020-campaign.html",
+      "byline": "By Jonathan Martin and Sydney Ember"
+    },
+    {
+      "headline": "The 2008 Crash Made This Madrid Suburb a Ghost Town. Now It’s Coming Alive.",
+      "snippet": "Valdeluz, created as a commuter haven, is emerging from a lost decade after the financial crisis. But its former dreams, like a 1,500-student school, remain out of reach.",
+      "abstract": "Valdeluz, created as a commuter haven, is emerging from a lost decade after the financial crisis. But its former dreams, like a 1,500-student school, remain out of reach.",
+      "lead_paragraph": "In Valdeluz, a town outside Madrid that was envisioned as a commuter’s paradise when it was created 15 years ago, there was always supposed to be a school. And a private one, for kindergartners to high schoolers, opened in September 2007 — just a year before the global financial crisis burst Spain’s property bubble.",
+      "publication_date": "2019-07-12T09:00:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/12/business/spain-ghost-town-financial-crisis.html",
+      "byline": "By Raphael Minder and Alexander Ingram"
+    },
+    {
+      "headline": "Ford and VW Agree to Share Costs of Self-Driving and Electric Cars",
+      "snippet": "A deal announced Friday is an example of how carmakers are joining forces to survive a major shift in technology. But can two longtime rivals cooperate?",
+      "abstract": "A deal announced Friday is an example of how carmakers are joining forces to survive a major shift in technology. But can two longtime rivals cooperate?",
+      "lead_paragraph": "Ford Motor and Volkswagen said Friday that they would team up to develop self-driving cars and share electric-car components. The move broadens an existing alliance and shows how automakers are putting aside rivalries to manage the cost of new technologies.",
+      "publication_date": "2019-07-12T12:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/12/business/ford-vw-self-driving-electric-cars.html",
+      "byline": "By Neal E. Boudette and Jack Ewing"
+    },
+    {
+      "headline": "Acosta to Resign as Labor Secretary Over Jeffrey Epstein Plea Deal",
+      "snippet": "President Trump said the decision to resign was made by his labor secretary, R. Alexander Acosta.",
+      "abstract": "President Trump said the decision to resign was made by his labor secretary, R. Alexander Acosta.",
+      "lead_paragraph": "WASHINGTON — President Trump’s embattled labor secretary, R. Alexander Acosta, announced his resignation on Friday amid continuing questions about his handling of a sex crimes case involving the financier Jeffrey Epstein when Mr. Acosta was a federal prosecutor in Florida.",
+      "publication_date": "2019-07-12T13:43:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/12/us/politics/acosta-resigns-trump.html",
+      "byline": "By Annie Karni, Eileen Sullivan and Noam Scheiber"
+    }
+  ]
+}

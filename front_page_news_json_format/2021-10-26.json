@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-10-26",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Missing Foreign Workers Add to Hiring Challenges",
+      "snippet": "Fewer foreign people have been able to work in the U.S. amid the coronavirus, leaving a hole in the potential labor force.",
+      "abstract": "Fewer foreign people have been able to work in the U.S. amid the coronavirus, leaving a hole in the potential labor force.",
+      "lead_paragraph": "Neha Mahajan was a television journalist in India before her husband’s job moved her family to the United States in 2008. She spent years locked out of the labor market, confined by what she calls the “gilded cage” of her immigration status — one that the pandemic placed her back into.",
+      "publication_date": "2021-10-25T17:47:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/25/business/economy/foreign-workers-shortage-hiring.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos",
+      "snippet": "Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister.",
+      "abstract": "Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister.",
+      "lead_paragraph": "Sudan’s top generals seized power on Monday, arresting the prime minister, imposing a state of emergency and opening fire on protesters, in tumultuous scenes that threatened to derail the transition to democracy in an African nation just as it emerged from decades of harsh autocratic rule and international isolation.",
+      "publication_date": "2021-10-25T22:42:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html",
+      "byline": "By Declan Walsh, Abdi Latif Dahir and Simon Marks"
+    },
+    {
+      "headline": "Biden and Democrats Push for Budget Deal This Week as Rifts Remain",
+      "snippet": "Negotiators were closing in on a deal that could spend around $1.75 trillion, but lawmakers were still haggling over critical disagreements on the sprawling social policy bill.",
+      "abstract": "Negotiators were closing in on a deal that could spend around $1.75 trillion, but lawmakers were still haggling over critical disagreements on the sprawling social policy bill.",
+      "lead_paragraph": "WASHINGTON — President Biden and Democratic congressional leaders raced on Monday to strike a compromise on a domestic policy and climate package, pushing for a vote within days even as critical disagreements remained over health benefits, paid leave, environmental provisions and how to pay for the sprawling plan.",
+      "publication_date": "2021-10-25T23:57:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/10/25/us/politics/biden-democrats-reconciliation-bill.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "Facebook Faces a Public Relations Crisis. What About a Legal One?",
+      "snippet": "One of the most pressing questions is whether the Securities and Exchange Commission will significantly add to the company’s woes.",
+      "abstract": "One of the most pressing questions is whether the Securities and Exchange Commission will significantly add to the company’s woes.",
+      "lead_paragraph": "WASHINGTON — In recent weeks, Facebook’s stock has fallen roughly 5 percent, shaving billions off its market value. Lawmakers have introduced laws that could weaken the company’s legal protections. Shareholders filed a resolution to dilute the power of its chief executive, Mark Zuckerberg.",
+      "publication_date": "2021-10-26T07:00:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/26/technology/facebook-sec-complaints.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "Rising Prices, Once Seen as Temporary, Threaten Biden’s Agenda",
+      "snippet": "Supply chain disruptions, a worker shortage and pain at the gasoline pump have made inflation an economic and political problem for the White House.",
+      "abstract": "Supply chain disruptions, a worker shortage and pain at the gasoline pump have made inflation an economic and political problem for the White House.",
+      "lead_paragraph": "WASHINGTON — At least once a week, a team of President Biden’s top advisers meet on Zoom to address the nation’s supply chain crisis. They discuss ways to relieve backlogs at America’s ports, ramp up semiconductor production for struggling automakers and swell the ranks of truck drivers.",
+      "publication_date": "2021-10-26T09:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/26/business/economy/biden-inflation.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "YouTube, Snap and TikTok executives take their turn answering to Washington.",
+      "snippet": "Lawmakers pressed the executives on the mounting concerns that their services harm children and teenagers.",
+      "abstract": "Lawmakers pressed the executives on the mounting concerns that their services harm children and teenagers.",
+      "lead_paragraph": "WASHINGTON — Lawmakers have hammered Facebook for weeks about how they say the platform harms its youngest users. But they showed Tuesday that their concerns about data privacy, harmful posts and transparency stretch to other major web services as well.",
+      "publication_date": "2021-10-26T12:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/26/technology/youtube-snap-and-tiktok-executives-take-their-turn-answering-to-washington.html",
+      "byline": "By David McCabe, Kate Conger and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "The Bond Market Says Inflation Will Last. You Should Be Listening.",
+      "snippet": "Inflation is as much a psychological process as an economic one. And a key indicator of inflation expectations has risen in recent days, which could ultimately lead to higher interest rates.",
+      "abstract": "Inflation is as much a psychological process as an economic one. And a key indicator of inflation expectations has risen in recent days, which could ultimately lead to higher interest rates.",
+      "lead_paragraph": "Almost everyone — buyers of used cars, renters, homeowners with big heating bills and stock market investors — has been fretting about rising prices lately. But despite some of the fastest price increases in decades, investors in the Treasury bond market who are keenly attuned to inflation have been steadfast in their belief that it was a temporary phenomenon.",
+      "publication_date": "2021-10-26T14:45:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/10/26/business/inflation-interest-rates-treasury-bonds.html",
+      "byline": "By Matt Phillips"
+    }
+  ]
+}

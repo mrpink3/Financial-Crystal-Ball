@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-01-20",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Supreme Court Says It Hasn’t Identified Person Who Leaked Draft Abortion Opinion",
+      "snippet": "The leak of the draft opinion overturning Roe v. Wade, published by Politico in May, was an extraordinary breach of the court’s usual secrecy.",
+      "abstract": "The leak of the draft opinion overturning Roe v. Wade, published by Politico in May, was an extraordinary breach of the court’s usual secrecy.",
+      "lead_paragraph": "WASHINGTON — The Supreme Court announced on Thursday that an internal investigation had failed to identify who leaked a draft of the opinion overturning Roe v. Wade, the 1973 decision that had established a constitutional right to abortion.",
+      "publication_date": "2023-01-19T19:39:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/19/us/politics/supreme-court-leak-roe.html",
+      "byline": "By Charlie Savage and Adam Liptak"
+    },
+    {
+      "headline": "Netflix’s Reed Hastings Will Cede Co-Chief Executive Role",
+      "snippet": "Mr. Hastings will become the streaming giant’s executive chairman. Greg Peters will join Ted Sarandos as a co-chief executive.",
+      "abstract": "Mr. Hastings will become the streaming giant’s executive chairman. Greg Peters will join Ted Sarandos as a co-chief executive.",
+      "lead_paragraph": "Reed Hastings, one of the founders of Netflix, has helmed the company since before it was a streaming service, when its business model revolved around sending DVDs through the mail.",
+      "publication_date": "2023-01-19T21:03:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/19/business/media/netflix-reed-hastings.html",
+      "byline": "By Benjamin Mullin and Nicole Sperling"
+    },
+    {
+      "headline": "Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight",
+      "snippet": "A rival chatbot has shaken Google out of its routine, with the founders who left three years ago re-engaging and more than 20 A.I. projects in the works.",
+      "abstract": "A rival chatbot has shaken Google out of its routine, with the founders who left three years ago re-engaging and more than 20 A.I. projects in the works.",
+      "lead_paragraph": "Last month, Larry Page and Sergey Brin, Google’s founders, held several meetings with company executives. The topic: a rival’s new chatbot, a clever A.I. product that looked as if it could be the first notable threat in decades to Google’s $149 billion search business.",
+      "publication_date": "2023-01-20T08:00:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html",
+      "byline": "By Nico Grant"
+    },
+    {
+      "headline": "White House Aims to Reflect the Environment in Economic Data",
+      "snippet": "The Biden administration has set out to measure the economic value of ecosystems, offering new statistics to weigh in policy decisions.",
+      "abstract": "The Biden administration has set out to measure the economic value of ecosystems, offering new statistics to weigh in policy decisions.",
+      "lead_paragraph": "Forests that keep hillsides from eroding and clean the air. Wetlands that protect coastal real estate from storm surges. Rivers and deep snows that attract tourists and create jobs in rural areas. All of those are natural assets of perhaps obvious value — but none are accounted for by traditional measurements of economic activity.",
+      "publication_date": "2023-01-20T08:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/20/business/economy/economic-statistics-climate-nature.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "In Their 20s, Struggling to Save and Tired of Being Lectured About It",
+      "snippet": "Young people want to save for their futures, but balancing priorities has proved challenging during a time of economic instability.",
+      "abstract": "Young people want to save for their futures, but balancing priorities has proved challenging during a time of economic instability.",
+      "lead_paragraph": "Shea German-Tanner tries to put a portion of her paycheck, even if it is only $50, into her savings account. But most of the time, she has to reroute the cash back to her checking to afford her expenses. Ms. German-Tanner, 22, has about $600 in her savings account right now and has not started saving for retirement.",
+      "publication_date": "2023-01-20T10:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/20/business/saving-money-inflation-economy.html",
+      "byline": "By Isabella Simonetti"
+    },
+    {
+      "headline": "How Smart Are the Robots Getting?",
+      "snippet": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it.",
+      "abstract": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it.",
+      "lead_paragraph": "To hear more audio stories from publications like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2023-01-20T10:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "After Dobbs, Republicans Wrestle With What It Means to Be Anti-Abortion",
+      "snippet": "Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.",
+      "abstract": "Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.",
+      "lead_paragraph": "For decades, opposition to abortion was a crucial but relatively clear-cut litmus test for Republican candidates: support overturning a constitutional right to an abortion, back anti-abortion judges and vote against taxpayer funding for the procedure.",
+      "publication_date": "2023-01-20T10:00:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/20/us/politics/abortion-republicans-roe-v-wade.html",
+      "byline": "By Lisa Lerer and Katie Glueck"
+    },
+    {
+      "headline": "The Death of Globalization? You Won’t Find It in New Orleans.",
+      "snippet": "The city that was once the world’s gateway to America is betting it can win in a new and different era of global integration.",
+      "abstract": "The city that was once the world’s gateway to America is betting it can win in a new and different era of global integration.",
+      "lead_paragraph": "NEW ORLEANS — The pandemic-era collapse of supply chains spurred speculation that globalization was on the decline, as companies vowed to become less reliant on foreign providers of goods and services. But if New Orleans is any example, the world is headed for less of a retreat from global trade and more of an overhaul to how it operates.",
+      "publication_date": "2023-01-20T10:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/20/business/economy/globalization-new-orleans.html",
+      "byline": "By Jeanna Smialek, Ana Swanson and Edmund D. Fountain"
+    },
+    {
+      "headline": "Google Parent Alphabet to Cut 12,000 Jobs",
+      "snippet": "The layoffs amount to about 6 percent of the global work force at the company, the latest tech giant to make cuts after a pandemic hiring spree.",
+      "abstract": "The layoffs amount to about 6 percent of the global work force at the company, the latest tech giant to make cuts after a pandemic hiring spree.",
+      "lead_paragraph": "Alphabet, the parent company of Google, said on Friday that it planned to cut 12,000 jobs, becoming the latest technology company to reduce its work force because of concerns about a broader economic slowdown, after a hiring spree during the pandemic.",
+      "publication_date": "2023-01-20T11:12:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/01/20/business/google-alphabet-layoffs.html",
+      "byline": "By Adam Satariano and Nico Grant"
+    },
+    {
+      "headline": "A Mother’s Desperate Fight to Save a Child From Haiti’s Gang Wars",
+      "snippet": "Trapped by unending violence in the country’s largest slum, a mother makes a desperate attempt to save her teenage daughter.",
+      "abstract": "Trapped by unending violence in the country’s largest slum, a mother makes a desperate attempt to save her teenage daughter.",
+      "lead_paragraph": "It was the worst gang war Haiti had seen in years.",
+      "publication_date": "2023-01-20T14:58:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/01/20/world/americas/haiti-gang-violence.html",
+      "byline": "By Natalie Kitroeff, Andre Paultre and Adriana Zehbrauskas"
+    }
+  ]
+}

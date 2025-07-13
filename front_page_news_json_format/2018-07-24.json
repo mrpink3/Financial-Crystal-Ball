@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2018-07-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "A Supreme Court Vote Is Just One of Heidi Heitkamp’s Headaches",
+      "snippet": "In North Dakota, Senator Heidi Heitkamp is grappling with a Supreme Court pick, a trade war, a hostile President Trump and a well-known Republican challenger.",
+      "abstract": "In North Dakota, Senator Heidi Heitkamp is grappling with a Supreme Court pick, a trade war, a hostile President Trump and a well-known Republican challenger.",
+      "lead_paragraph": "PETERSBURG, N.D. — Before Senator Heidi Heitkamp spoke to constituents in this tiny rural town, population 175, Mary Ann Dunbar confessed that she had reservations about Judge Brett M. Kavanaugh, President Trump’s nominee to the Supreme Court.",
+      "publication_date": "2018-07-23T16:15:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/23/us/politics/heidi-heitkamp-supreme-court-kavanaugh.html",
+      "byline": "By Thomas Kaplan"
+    },
+    {
+      "headline": "Tariffs Trim a Factory’s Profit, but Loyalty to Trump Endures",
+      "snippet": "An Ohio plant owner and his blue-collar workers alike voice support for President Trump’s tactics in the trade fight, even if it means sacrifice.",
+      "abstract": "An Ohio plant owner and his blue-collar workers alike voice support for President Trump’s tactics in the trade fight, even if it means sacrifice.",
+      "lead_paragraph": "COLUMBUS, Ohio — You might think that managers and workers at Banner Metals would be up in arms over the Trump administration’s trade policies. After all, tariffs on imported steel and aluminum have pushed raw-material prices up and margins down, forcing the company to delay plans to purchase a new $1 million cutting machine and hire two new employees to operate it.",
+      "publication_date": "2018-07-23T18:25:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/23/business/economy/trade-factory-trump.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "Trump Weighs Stripping Security Clearances From Officials Who Criticized Him",
+      "snippet": "The president is targeting former national security and law enforcement officials who served under President Barack Obama.",
+      "abstract": "The president is targeting former national security and law enforcement officials who served under President Barack Obama.",
+      "lead_paragraph": "WASHINGTON — President Trump threatened on Monday to strip the security clearances of top former officials who criticized his refusal to confront Russia over its election interference, signaling a willingness to use the powers of the presidency to retaliate against some of his most outspoken detractors.",
+      "publication_date": "2018-07-23T19:25:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/23/us/politics/trump-security-clearances.html",
+      "byline": "By Julie Hirschfeld Davis and Julian E. Barnes"
+    },
+    {
+      "headline": "Google Shrugs Off $5.1 Billion Fine With Another Big Quarter",
+      "snippet": "Less than a week after the European Union fined Google $5.1 billion for abusing its dominance in smartphones, the tech giant still posted big profits.",
+      "abstract": "Less than a week after the European Union fined Google $5.1 billion for abusing its dominance in smartphones, the tech giant still posted big profits.",
+      "lead_paragraph": "SAN FRANCISCO — European authorities took their best swing, but it appears that Google hardly felt it.",
+      "publication_date": "2018-07-24T00:10:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/23/technology/google-earnings-alphabet.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "Trump’s Twitter Threat vs. Iran: Loud but Hardly Clear",
+      "snippet": "The president’s tweet, which carried an echo of his approach with North Korea, succeeded in overshadowing his meeting with Vladimir V. Putin. But it only deepened questions about his Iran policy.",
+      "abstract": "The president’s tweet, which carried an echo of his approach with North Korea, succeeded in overshadowing his meeting with Vladimir V. Putin. But it only deepened questions about his Iran policy.",
+      "lead_paragraph": "WASHINGTON — President Trump’s vituperative tweet against Iran late on Sunday showed his determination to use the same approach that he took to engineer a diplomatic breakthrough with North Korea. But Mr. Trump’s top advisers are far more united in their hostility to engaging with Iran, and Iran is far less likely to bend to such pressure.",
+      "publication_date": "2018-07-24T01:12:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/23/us/politics/iran-donald-trump-policy.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "This European Border Is Still Open. But for How Long?",
+      "snippet": "The memory of thousands of refugees arriving in 2015 has split the people of Spielfeld, Austria: Some welcome a new fence. Others fear a loss of freedom.",
+      "abstract": "The memory of thousands of refugees arriving in 2015 has split the people of Spielfeld, Austria: Some welcome a new fence. Others fear a loss of freedom.",
+      "lead_paragraph": "SPIELFELD, Austria — The border between Austria and Slovenia runs through Armin Tement’s backyard. Literally.",
+      "publication_date": "2018-07-24T15:10:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/24/world/europe/austria-slovenia-border-migrants-spielfeld-schengen.html",
+      "byline": "By Katrin Bennhold"
+    }
+  ]
+}

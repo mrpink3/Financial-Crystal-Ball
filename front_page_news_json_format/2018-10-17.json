@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-10-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Google to Charge Phone Makers for Android Apps in Europe",
+      "snippet": "To comply with a European antitrust ruling, Google will begin charging a licensing fee of handset makers.",
+      "abstract": "To comply with a European antitrust ruling, Google will begin charging a licensing fee of handset makers.",
+      "lead_paragraph": "LONDON — Google has always made its Android mobile operating system available free as a way of getting its search engine, web browser and other applications on as many devices as possible to collect data about users and to sell advertising.",
+      "publication_date": "2018-10-16T16:35:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/16/technology/google-android-europe-apps.html",
+      "byline": "By Adam Satariano"
+    },
+    {
+      "headline": "‘Horseface,’ ‘Lowlife,’ ‘Fat, Ugly’: How the President Demeans Women",
+      "snippet": "President Trump has a history of attacking women by mocking their bodily functions, demeaning their looks or comparing them to animals.",
+      "abstract": "President Trump has a history of attacking women by mocking their bodily functions, demeaning their looks or comparing them to animals.",
+      "lead_paragraph": "WASHINGTON — President Trump referred to the pornographic film actress Stephanie Clifford as “Horseface” in a tweet on Tuesday, adding her to a long list of women he has attacked by demeaning their looks, mocking their bodily functions or comparing them to animals.",
+      "publication_date": "2018-10-16T21:11:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/16/us/politics/trump-women-insults.html",
+      "byline": "By Michael D. Shear and Eileen Sullivan"
+    },
+    {
+      "headline": "The Jamal Khashoggi Case: Suspects Had Ties to Saudi Crown Prince",
+      "snippet": "Links between Prince Mohammed and at least four suspects in the disappearance of Jamal Khashoggi may make it harder to advance a “rogue killers” explanation.",
+      "abstract": "Links between Prince Mohammed and at least four suspects in the disappearance of Jamal Khashoggi may make it harder to advance a “rogue killers” explanation.",
+      "lead_paragraph": "ISTANBUL — One of the suspects identified by Turkey in the disappearance of the Saudi dissident Jamal Khashoggi was a frequent companion of Crown Prince Mohammed bin Salman — seen disembarking from airplanes with him in Paris and Madrid and photographed standing guard during his visits this year to Houston, Boston and the United Nations.",
+      "publication_date": "2018-10-16T22:25:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/16/world/middleeast/khashoggi-saudi-prince.html",
+      "byline": "By David D. Kirkpatrick, Malachy Browne, Ben Hubbard and David Botti"
+    },
+    {
+      "headline": "Uber and Lyft Charge Toward Potential I.P.O.s Next Year",
+      "snippet": "Bankers have told Uber that its public offering could be worth $120 billion. That puts it in rare company with the likes of Facebook and Alibaba.",
+      "abstract": "Bankers have told Uber that its public offering could be worth $120 billion. That puts it in rare company with the likes of Facebook and Alibaba.",
+      "lead_paragraph": "Uber and Lyft have for years battled for customers in the fast-growing ride-hailing business. Now the bitter rivals may fight for investors in their initial public offerings.",
+      "publication_date": "2018-10-16T23:43:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/16/technology/uber-lyft-ipo.html",
+      "byline": "By Michael J. de la Merced and Kate Conger"
+    },
+    {
+      "headline": "Why White Supremacists Are Chugging Milk (and Why Geneticists Are Alarmed)",
+      "snippet": "The appropriation of genetic research by those with extremist views on race has scientists grappling with how to respond.",
+      "abstract": "The appropriation of genetic research by those with extremist views on race has scientists grappling with how to respond.",
+      "lead_paragraph": "Nowhere on the agenda of the annual meeting of the American Society of Human Genetics, being held in San Diego this week, is a topic plaguing many of its members: the recurring appropriation of the field’s research in the name of white supremacy.",
+      "publication_date": "2018-10-17T09:00:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/17/us/white-supremacists-science-dna.html",
+      "byline": "By Amy Harmon"
+    },
+    {
+      "headline": "The Public Student Loan Forgiveness Rescue Hasn’t Gone Well So Far",
+      "snippet": "Federal relief for public servants needed its own relief effort. Nearly 30,000 have applied for the “temporary expanded” plan. Nobody has qualified yet.",
+      "abstract": "Federal relief for public servants needed its own relief effort. Nearly 30,000 have applied for the “temporary expanded” plan. Nobody has qualified yet.",
+      "lead_paragraph": "The program that public servants can use to have their federal student loans forgiven is such a quagmire for borrowers that Congress had to set up a relief program for the relief program.",
+      "publication_date": "2018-10-17T09:00:05+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/17/your-money/public-service-loan-forgiveness.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "To Avoid Conflicts, Rick Scott Created a Trust Blind in Name Only",
+      "snippet": "The Florida governor and Senate candidate could become the richest member of the next Congress. He’d bring with him a tangle of investments that could benefit from his policies.",
+      "abstract": "The Florida governor and Senate candidate could become the richest member of the next Congress. He’d bring with him a tangle of investments that could benefit from his policies.",
+      "lead_paragraph": "TALLAHASSEE, Fla. — Rick Scott had been governor of Florida for barely three months when questions first mounted about conflicts of interest. Fabulously wealthy but a newcomer to politics, Mr. Scott mandated random drug testing for state workers in March 2011, and was pushing the legislature to require it for welfare recipients. The Republican governor, who had made his fortune as a health care executive and investor, also proposed reorienting the state’s Medicaid system toward managed care.",
+      "publication_date": "2018-10-17T09:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/17/us/rick-scott-conflicts-blind-trust.html",
+      "byline": "By Kevin Sack and Patricia Mazzei"
+    },
+    {
+      "headline": "Craig Newmark, Newspaper Villain, Is Working to Save Journalism",
+      "snippet": "The tech mogul, whose Craigslist site helped replace newspaper classifieds, has given $50 million to revitalize local reporting in New York — including a new gift on Wednesday.",
+      "abstract": "The tech mogul, whose Craigslist site helped replace newspaper classifieds, has given $50 million to revitalize local reporting in New York — including a new gift on Wednesday.",
+      "lead_paragraph": "SAN FRANCISCO — Craig Newmark, so often accused of destroying journalism, is now doing his best to revive it.",
+      "publication_date": "2018-10-17T12:00:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/17/technology/craig-newmark-journalism-gifts.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Trump Opens New Front in His Battle With China: International Shipping",
+      "snippet": "The United States is withdrawing from a treaty that lowered costs for Chinese companies to ship packages here, part of President Trump’s efforts to punish China.",
+      "abstract": "The United States is withdrawing from a treaty that lowered costs for Chinese companies to ship packages here, part of President Trump’s efforts to punish China.",
+      "lead_paragraph": "WASHINGTON — President Trump plans to withdraw from a 144-year-old postal treaty that has allowed Chinese companies to ship small packages to the United States at a steeply discounted rate, undercutting American competitors and flooding the market with cheap consumer goods.",
+      "publication_date": "2018-10-17T13:30:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/10/17/us/politics/trump-china-shipping.html",
+      "byline": "By Glenn Thrush"
+    },
+    {
+      "headline": "Audio Offers Gruesome Details of Jamal Khashoggi Killing, Turkish Official Says",
+      "snippet": "The Saudi journalist’s fingers were severed and he was later beheaded, according to details from audio recordings published in the Turkish media.",
+      "abstract": "The Saudi journalist’s fingers were severed and he was later beheaded, according to details from audio recordings published in the Turkish media.",
+      "lead_paragraph": "ISTANBUL — Saudi agents were waiting when Jamal Khashoggi walked into their country’s consulate in Istanbul two weeks ago. Mr. Khashoggi was dead within minutes, beheaded, dismembered, his fingers severed, and within two hours the killers were gone, according to details from audio recordings described by a senior Turkish official on Wednesday.",
+      "publication_date": "2018-10-17T15:16:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/10/17/world/europe/turkey-saudi-khashoggi-dismember.html",
+      "byline": "By David D. Kirkpatrick and Carlotta Gall"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-02-28",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Biden’s Semiconductor Plan Flexes the Power of the Federal Government",
+      "snippet": "In return for vast subsidies, the Biden administration is asking the chip industry to make promises about its workers and finances.",
+      "abstract": "In return for vast subsidies, the Biden administration is asking the chip industry to make promises about its workers and finances.",
+      "lead_paragraph": "WASHINGTON — Semiconductor manufacturers seeking a slice of nearly $40 billion in new federal subsidies will need to ensure affordable child care for their workers, limit stock buybacks and share certain excess profits with the government, the Biden administration will announce on Tuesday.",
+      "publication_date": "2023-02-27T20:27:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/27/us/politics/chips-act-biden-commerce-department.html",
+      "byline": "By Jim Tankersley and Ana Swanson"
+    },
+    {
+      "headline": "Biden Deploys High-Powered Aides, Plus More Aid, to Bolster Ukraine",
+      "snippet": "Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.",
+      "abstract": "Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.",
+      "lead_paragraph": "A week after President Biden traveled to Ukraine to pledge American support in the fight to repel Russia, he has dispatched two senior cabinet members to redouble efforts to prop up the Ukrainian economy and to try to curb the Kremlin’s ability to skirt Western sanctions.",
+      "publication_date": "2023-02-27T21:27:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/27/world/europe/ukraine-yellen-blinken-russia.html",
+      "byline": "By Marc Santora and Alan Rappeport"
+    },
+    {
+      "headline": "Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods",
+      "snippet": "Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.",
+      "abstract": "Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.",
+      "lead_paragraph": "Rupert Murdoch, chairman of the conservative media empire that owns Fox News, acknowledged in a deposition that several hosts for his networks promoted the false narrative that the 2020 election was stolen from former President Donald J. Trump, and that he could have stopped them but didn’t, court documents released on Monday showed.",
+      "publication_date": "2023-02-27T21:49:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/27/business/media/fox-news-dominion-rupert-murdoch.html",
+      "byline": "By Jeremy W. Peters and Katie Robertson"
+    },
+    {
+      "headline": "To Heal Brexit Wound, U.K. and E.U. Strike a Northern Ireland Trade Deal",
+      "snippet": "A dispute left over from the Britain-European Union split has chilled relations, paralyzed Northern Ireland’s government, risked a trade war and even caused friction between London and Washington.",
+      "abstract": "A dispute left over from the Britain-European Union split has chilled relations, paralyzed Northern Ireland’s government, risked a trade war and even caused friction between London and Washington.",
+      "lead_paragraph": "LONDON — Britain and the European Union struck a landmark agreement on Monday to end a festering dispute over post-Brexit trade rules for Northern Ireland, potentially resolving one of the most poisonous legacies of Britain’s exit from Europe’s trade bloc in 2020.",
+      "publication_date": "2023-02-27T22:06:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/27/world/europe/uk-eu-northern-ireland.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "A Drug Company Exploited a Safety Requirement to Make Money",
+      "snippet": "With a history as a date rape drug, a medication needed strict distribution controls. Its maker, Jazz Pharmaceuticals, used that to delay competition.",
+      "abstract": "With a history as a date rape drug, a medication needed strict distribution controls. Its maker, Jazz Pharmaceuticals, used that to delay competition.",
+      "lead_paragraph": "The pharmaceutical industry is rife with tales of companies dreaming up ways to prolong their monopolies on lucrative drugs. They tinker with chemicals. They tweak dosing. They swap out capsules for tablets.",
+      "publication_date": "2023-02-28T08:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/28/business/jazz-narcolepsy-avadel-patents.html",
+      "byline": "By Rebecca Robbins"
+    }
+  ]
+}

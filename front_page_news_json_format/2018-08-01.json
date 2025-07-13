@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2018-08-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "China’s Plan to Win Friends and Influence Includes Ski Slopes and Spas",
+      "snippet": "The Belt and Road Initiative is widely seen as a push to develop geopolitical ties through infrastructure and ports. Companies are using it for more frivolous projects, too.",
+      "abstract": "The Belt and Road Initiative is widely seen as a push to develop geopolitical ties through infrastructure and ports. Companies are using it for more frivolous projects, too.",
+      "lead_paragraph": "HONG KONG — In Thailand, a theater rigged with hydraulic seats will give moviegoers the sensation of flight. In Australia, an indoor ski slope is going up near the beaches of the Gold Coast. In the Czech Republic, a spa with Chinese medicine is under construction in the southern wine country.",
+      "publication_date": "2018-08-01T07:00:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/01/business/china-belt-and-road.html",
+      "byline": "By Alexandra Stevenson and Cao Li"
+    },
+    {
+      "headline": "Stumbles? What Stumbles? Big Tech Is as Strong as Ever",
+      "snippet": "Facebook’s earnings report sent tech stocks cratering. But don’t let that fool you: Apple, Google, Facebook, Amazon and Microsoft are still on their way to dominating the future.",
+      "abstract": "Facebook’s earnings report sent tech stocks cratering. But don’t let that fool you: Apple, Google, Facebook, Amazon and Microsoft are still on their way to dominating the future.",
+      "lead_paragraph": "You may have heard that the tech giants are on their heels.",
+      "publication_date": "2018-08-01T09:00:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/01/technology/big-tech-earnings-stumbles.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Trump Tells Sessions to ‘Stop This Rigged Witch Hunt Right Now’",
+      "snippet": "The order to the attorney general on Twitter immediately raised questions from some lawyers about whether it was an attempt to obstruct justice in the special counsel’s Russia inquiry.",
+      "abstract": "The order to the attorney general on Twitter immediately raised questions from some lawyers about whether it was an attempt to obstruct justice in the special counsel’s Russia inquiry.",
+      "lead_paragraph": "WASHINGTON — President Trump called on Attorney General Jeff Sessions on Wednesday to end the special counsel’s inquiry into Russia’s interference in the 2016 election, issuing an unambiguous directive on Twitter to shut down an investigation that even now is scrutinizing his tweets for evidence of obstruction.",
+      "publication_date": "2018-08-01T14:15:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/01/us/politics/trump-sessions-russia-investigation.html",
+      "byline": "By Julie Hirschfeld Davis, Eileen Sullivan and Katie Benner"
+    },
+    {
+      "headline": "Campaigns Enter Texting Era With a Plea: Will U Vote 4 Me?",
+      "snippet": "Welcome to the age of the political mass-text. Candidates in this year’s midterm elections are adding a new, hard-to-ignore tool to their arsenal.",
+      "abstract": "Welcome to the age of the political mass-text. Candidates in this year’s midterm elections are adding a new, hard-to-ignore tool to their arsenal.",
+      "lead_paragraph": "Marla Hohner was at home in Dallas when a text message arrived from an unfamiliar number.",
+      "publication_date": "2018-08-01T15:52:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/01/technology/campaign-text-messages.html",
+      "byline": "By Kevin Roose"
+    }
+  ]
+}

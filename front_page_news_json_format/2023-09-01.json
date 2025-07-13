@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-09-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "How the Dream of Building a California City From Scratch Got Started",
+      "snippet": "A former Goldman Sachs trader moved to the Bay Area to make it in tech. He ended up buying rural land with money from some of Silicon Valley’s wealthiest people.",
+      "abstract": "A former Goldman Sachs trader moved to the Bay Area to make it in tech. He ended up buying rural land with money from some of Silicon Valley’s wealthiest people.",
+      "lead_paragraph": "What if you built a new city from the ground up? The idea has tantalized urban planners and utopian dreamers for centuries. In 2017, Jan Sramek joined their crusade.",
+      "publication_date": "2023-09-01T02:13:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/31/business/california-solano-county-city.html",
+      "byline": "By Erin Griffith and Conor Dougherty"
+    },
+    {
+      "headline": "All That Empty Office Space Belongs to Someone",
+      "snippet": "What happens if the nearly 100 million square feet of workplace real estate stays empty?",
+      "abstract": "What happens if the nearly 100 million square feet of workplace real estate stays empty?",
+      "lead_paragraph": "At an office in SoHo, rows of desks sit empty, while a shaggy dog — shadowing an owner nostalgic for work-from-home comforts — wanders the conference rooms. At a tech workplace downtown, a gaggle of 20-somethings divide into teams, calling out “Who’s on the Orange team?” and “We’re going to kill it!” as part of a game night enticing them back to in-person work. On the subway, commuters delight in a once-unimaginable indulgence: bag-spreading across two seats.",
+      "publication_date": "2023-09-01T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/09/01/business/office-vacancies-gural-gfp.html",
+      "byline": "By Emma Goldberg and Haruka Sakaguchi"
+    },
+    {
+      "headline": "U.S. Hiring Settles Into a Lower Gear",
+      "snippet": "Employers added 187,000 jobs in August and unemployment rose to 3.8 percent as the economy continued to lose momentum built up after pandemic lockdowns.",
+      "abstract": "Employers added 187,000 jobs in August and unemployment rose to 3.8 percent as the economy continued to lose momentum built up after pandemic lockdowns.",
+      "lead_paragraph": "The United States labor market is starting to look a lot like its old self — the one that existed before the pandemic.",
+      "publication_date": "2023-09-01T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/01/business/economy/jobs-report-august.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Filthy Toilets, No Showers and Criminal Landlords: Life in a South African Firetrap",
+      "snippet": "After harrowing escapes from the apartment fire in Johannesburg that killed at least 74 people, residents described how they managed to build lives with no legal water or electricity, and very little privacy.",
+      "abstract": "After harrowing escapes from the apartment fire in Johannesburg that killed at least 74 people, residents described how they managed to build lives with no legal water or electricity, and very little privacy.",
+      "lead_paragraph": "As Tom Mandala leaned out the fifth-floor window of his burning apartment building in Johannesburg early Thursday, it felt as if the only decision left to make was how to die.",
+      "publication_date": "2023-09-01T14:06:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/01/world/africa/johannesburg-fire.html",
+      "byline": "By John Eligon and Lynsey Chutel"
+    },
+    {
+      "headline": "Ban or Embrace? Colleges Wrestle With A.I.-Generated Admissions Essays.",
+      "snippet": "A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.",
+      "abstract": "A.I. chatbots could facilitate plagiarism on college applications or democratize student access to writing help. Or maybe both.",
+      "lead_paragraph": "Rick Clark, the executive director of undergraduate admission at the Georgia Institute of Technology, and his staff spent weeks this summer pretending to be high school students using A.I. chatbots to fill out college applications.",
+      "publication_date": "2023-09-01T14:07:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/09/01/business/college-admissions-essay-ai-chatbots.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Tourists Were Told to Avoid Maui. Many Workers Want Them Back.",
+      "snippet": "A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.",
+      "abstract": "A plunge in tourism after a disastrous fire has already crippled the economy in Maui. Now, some locals who wanted visitors to stay away are urging them back.",
+      "lead_paragraph": "In the first few days after an inferno leveled the Hawaiian town of Lahaina, the directive to tourists was emphatic: Stay away. And tourists, with a few exceptions, complied.",
+      "publication_date": "2023-09-01T14:19:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/09/01/us/hawaii-tourists-economy.html",
+      "byline": "By Nicholas Bogel-Burroughs"
+    }
+  ]
+}

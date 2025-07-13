@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-12-30",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Tax Credits for Electric Vehicles Are About to Get Confusing",
+      "snippet": "Foreign-made cars no longer qualify. General Motors should become eligible again. But officials are still working on the fine print.",
+      "abstract": "Foreign-made cars no longer qualify. General Motors should become eligible again. But officials are still working on the fine print.",
+      "lead_paragraph": "Next year could be confusing for anyone shopping for an electric car.",
+      "publication_date": "2022-12-29T16:11:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/29/business/electric-vehicles-tax-credit.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Israel’s Hard-Line Government Takes Office, Testing Bonds With Allies",
+      "snippet": "Prime Minister Benjamin Netanyahu’s right-wing coalition will likely test ties with the United States and Europe, amid fears that it will undermine the country’s democracy and stability.",
+      "abstract": "Prime Minister Benjamin Netanyahu’s right-wing coalition will likely test ties with the United States and Europe, amid fears that it will undermine the country’s democracy and stability.",
+      "lead_paragraph": "JERUSALEM — Israel’s new government was sworn in on Thursday, returning Benjamin Netanyahu to power at the head of a right-wing and religiously conservative administration that represents a significant challenge for the country on the world stage.",
+      "publication_date": "2022-12-29T17:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/29/world/middleeast/israel-netanyahu-government-swearing-in.html",
+      "byline": "By Isabel Kershner"
+    },
+    {
+      "headline": "Russian Missile Barrage Staggers Ukraine’s Air Defenses",
+      "snippet": "Cruise missiles and exploding drones from Iran swept across the skies of Ukraine, wreaking havoc and once again knocking out power.",
+      "abstract": "Cruise missiles and exploding drones from Iran swept across the skies of Ukraine, wreaking havoc and once again knocking out power.",
+      "lead_paragraph": "KYIV, Ukraine — A swarm of drones and a volley of cruise missiles rocked towns and cities across Ukraine on Thursday, the biggest assault in weeks and the latest in a wave of ever more sophisticated aerial duels pitting Russia’s evolving tactics against Ukraine’s growing arsenal of air defense weapons.",
+      "publication_date": "2022-12-29T22:45:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/29/world/europe/russia-strikes-ukraine.html",
+      "byline": "By Andrew E. Kramer"
+    },
+    {
+      "headline": "What’s Gone at Twitter? A Data Center, Janitors, Some Toilet Paper.",
+      "snippet": "Elon Musk has reduced the company to a bare-bones operation, and employees are under a “zero-based budgeting” mandate to justify any spending.",
+      "abstract": "Elon Musk has reduced the company to a bare-bones operation, and employees are under a “zero-based budgeting” mandate to justify any spending.",
+      "lead_paragraph": "Elon Musk’s orders were clear: Close the data center.",
+      "publication_date": "2022-12-29T22:57:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/12/29/technology/twitter-elon-musk.html",
+      "byline": "By Kate Conger, Ryan Mac and Mike Isaac"
+    },
+    {
+      "headline": "The Year the Long Stock Market Rally Ended",
+      "snippet": "How fast inflation and high interest rates upended markets across the globe.",
+      "abstract": "How fast inflation and high interest rates upended markets across the globe.",
+      "lead_paragraph": "Jan. 3, the first day of market trading in 2022, looked like just another day in a stock rally that began when Barack Obama was still president. The S&P 500 hit a record high. Tesla, the company that upturned the auto industry and made many investors rich, rose 13.5 percent and came close to its own all-time peak.",
+      "publication_date": "2022-12-30T10:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/30/business/stock-market-2022.html",
+      "byline": "By Joe Rennison, Karl Russell and John-Michael Murphy"
+    },
+    {
+      "headline": "Trump Tax Returns Undermine His Image as a Successful Entrepreneur",
+      "snippet": "The release of former President Donald J. Trump’s private tax documents by the House Ways and Means Committee shows heavy losses from his own ventures as he continued to cash in on inherited assets.",
+      "abstract": "The release of former President Donald J. Trump’s private tax documents by the House Ways and Means Committee shows heavy losses from his own ventures as he continued to cash in on inherited assets.",
+      "lead_paragraph": "House Democrats released six years of former President Donald J. Trump’s tax records on Friday, offering new insight into his business dealings that further undermined his long-cultivated image as a wildly successful businessman.",
+      "publication_date": "2022-12-30T14:05:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/12/30/us/politics/trump-tax-returns.html",
+      "byline": "By Jim Tankersley, Susanne Craig and Russ Buettner"
+    }
+  ]
+}

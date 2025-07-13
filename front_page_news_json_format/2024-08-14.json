@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-08-14",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Deception and a Gamble: How Ukrainian Troops Invaded Russia",
+      "snippet": "Planned in secrecy, the incursion was a bold move to upend the war’s dynamics and put Moscow on the defensive — a gambit that could also leave Ukraine exposed.",
+      "abstract": "Planned in secrecy, the incursion was a bold move to upend the war’s dynamics and put Moscow on the defensive — a gambit that could also leave Ukraine exposed.",
+      "lead_paragraph": "The scenes were decidedly Russian. A Gazprom facility. Flags with the country’s signature three horizontal stripes of white, blue and red. A Pyatyorochka supermarket.",
+      "publication_date": "2024-08-13T18:32:37+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/13/world/europe/ukraine-russia-war-kursk-offensive.html",
+      "byline": "By Kim Barker, Anton Troianovski, Andrew E. Kramer, Constant Méheut, Alina Lobzina, Eric Schmitt and Sanjana Varghese"
+    },
+    {
+      "headline": "U.S. Said to Consider a Breakup of Google to Address Search Monopoly",
+      "snippet": "The Justice Department and state attorneys general are discussing various scenarios to remedy Google’s dominance in online search, including a breakup of the company.",
+      "abstract": "The Justice Department and state attorneys general are discussing various scenarios to remedy Google’s dominance in online search, including a breakup of the company.",
+      "lead_paragraph": "Google was found last week to have violated antitrust law by illegally maintaining a monopoly in internet search. Now discussions over how to fix those violations have begun.",
+      "publication_date": "2024-08-13T23:45:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html",
+      "byline": "By David McCabe and Nico Grant"
+    },
+    {
+      "headline": "A California Bill to Regulate A.I. Causes Alarm in Silicon Valley",
+      "snippet": "A California state senator, Scott Wiener, wants to stop the creation of dangerous A.I. But critics say he is jumping the gun.",
+      "abstract": "A California state senator, Scott Wiener, wants to stop the creation of dangerous A.I. But critics say he is jumping the gun.",
+      "lead_paragraph": "A California bill that could impose restrictions on artificial intelligence has tech companies, investors and activists scrambling to explain what the first-of-its-kind legislation could mean for their industry in the state.",
+      "publication_date": "2024-08-14T09:01:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/14/technology/ai-california-bill-silicon-valley.html",
+      "byline": "By Cade Metz and Cecilia Kang"
+    },
+    {
+      "headline": "Inflation Cools to 2.9%, Shoring Up Case for a Fed Rate Cut",
+      "snippet": "The Consumer Price Index reading in July was the mildest year-over-year increase since 2021.",
+      "abstract": "The Consumer Price Index reading in July was the mildest year-over-year increase since 2021.",
+      "lead_paragraph": "The Consumer Price Index cooled in July compared with a year earlier, providing further evidence that inflation is moderating and leaving the Federal Reserve firmly on track to cut interest rates at its meeting next month.",
+      "publication_date": "2024-08-14T09:02:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/08/14/business/cpi-inflation-july.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Harris Is Set to Lay Out an Economic Message Light on Detail",
+      "snippet": "The vice president is expected to recalibrate President Biden’s policy themes in a bid to turn the Democratic economic agenda into an asset.",
+      "abstract": "The vice president is expected to recalibrate President Biden’s policy themes in a bid to turn the Democratic economic agenda into an asset.",
+      "lead_paragraph": "Vice President Kamala Harris’s sudden ascent to the top of the Democratic ticket has generated a host of questions about her economic agenda, including how much she will stick to the details of President Biden’s positions, tweak them, or chart entirely new ones.",
+      "publication_date": "2024-08-14T11:58:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/14/us/politics/kamala-harris-economy-north-carolina.html",
+      "byline": "By Jim Tankersley and Andrew Duehren"
+    },
+    {
+      "headline": "How Christian Conservatives Are Planning for the Next Battle, on I.V.F.",
+      "snippet": "Republicans may be backing away from abortion, but these activists have a strategy, with or without Trump.",
+      "abstract": "Republicans may be backing away from abortion, but these activists have a strategy, with or without Trump.",
+      "lead_paragraph": "The pivot seems clear. The Republican Party of the post-Roe era is sidelining anti-abortion activists. Project 2025, the conservative blueprint with innovative abortion bans, has been disavowed by Donald Trump. And the new G.O.P. platform even promises to advance access to in vitro fertilization.",
+      "publication_date": "2024-08-14T14:56:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/08/14/us/republicans-christian-conservatives-ivf.html",
+      "byline": "By Elizabeth Dias"
+    }
+  ]
+}

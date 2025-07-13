@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-05-26",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Appeals Court Will Not Reinstate Trump’s Revised Travel Ban",
+      "snippet": "In a fresh setback for the administration, a federal court in Richmond, Va., said the ban “drips with religious intolerance, animus and discrimination.”",
+      "abstract": "In a fresh setback for the administration, a federal court in Richmond, Va., said the ban “drips with religious intolerance, animus and discrimination.”",
+      "lead_paragraph": "WASHINGTON — Describing President Trump’s revised travel ban as intolerant and discriminatory, a federal appeals court on Thursday rejected government efforts to limit travel to the United States from six predominantly Muslim nations. Attorney General Jeff Sessions quickly vowed to appeal to the Supreme Court.",
+      "publication_date": "2017-05-25T18:10:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/25/us/politics/trump-travel-ban-blocked.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Mark Zuckerberg’s Great American Road Trip",
+      "snippet": "The Facebook chief plans to visit every state in the union and learn more about a sliver of the nearly two billion people who use the social network regularly.",
+      "abstract": "The Facebook chief plans to visit every state in the union and learn more about a sliver of the nearly two billion people who use the social network regularly.",
+      "lead_paragraph": "CAMBRIDGE, Mass. — In March, Mark Zuckerberg visited the Emanuel African Methodist Episcopal Church in Charleston, S.C., the site of a mass murder by a white supremacist.",
+      "publication_date": "2017-05-25T20:25:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/25/technology/zuckerberg-harvard-commencement-road-trip.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "For Manchester, as for Its Libyans, a Test of Faith",
+      "snippet": "Monday night’s bombing was seen not just as an attack on a concert venue, but an attack on a city’s identity as a proudly multicultural capital.",
+      "abstract": "Monday night’s bombing was seen not just as an attack on a concert venue, but an attack on a city’s identity as a proudly multicultural capital.",
+      "lead_paragraph": "MANCHESTER, England — The stretch of Wilmslow Road that runs through the Rusholme neighborhood, south of the city center, is known as the Curry Mile, thanks to the Indian and Pakistani restaurants that have been here for decades.",
+      "publication_date": "2017-05-25T20:55:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/25/world/europe/manchester-uk-libyans.html",
+      "byline": "By Rory Smith and Ceylan Yeginsu"
+    },
+    {
+      "headline": "Big Payoff After Blackstone Courted a Saudi Prince",
+      "snippet": "Saudi Arabia’s largest sovereign wealth fund will make a $20 billion investment in a new Blackstone infrastructure project, which could then double in size.",
+      "abstract": "Saudi Arabia’s largest sovereign wealth fund will make a $20 billion investment in a new Blackstone infrastructure project, which could then double in size.",
+      "lead_paragraph": "A little over a year ago, the private equity titan Stephen A. Schwarzman sat down with Mohammed bin Salman, the deputy crown prince of Saudi Arabia and chairman of the kingdom’s largest sovereign wealth fund, in hopes of expanding their relationship.",
+      "publication_date": "2017-05-26T00:51:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/25/business/dealbook/blackstone-saudi-arabia-investments-infrastructure.html",
+      "byline": "By Kate Kelly and Landon Thomas Jr"
+    },
+    {
+      "headline": "In Controversy, Hannity Isn’t Seeing Advertisers’ Exodus That O’Reilly Did",
+      "snippet": "Companies are sticking by Sean Hannity as he promotes his conspiracy theory surrounding the murder of a D.N.C. staff member, claiming he is not violating their core values.",
+      "abstract": "Companies are sticking by Sean Hannity as he promotes his conspiracy theory surrounding the murder of a D.N.C. staff member, claiming he is not violating their core values.",
+      "lead_paragraph": "This week, a handful of companies including Cars.com announced plans to stop advertising on Sean Hannity’s Fox News program in response to his unapologetic promotion of a conspiracy theory surrounding the murder of a Democratic National Committee staff member. To some, it looked like the beginnings of the kind of exodus that helped push Bill O’Reilly off the network last month.",
+      "publication_date": "2017-05-26T01:28:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/25/business/media/sean-hannity-fox-news-advertisers-ratings.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "Leaks: A Uniquely American Way of Annoying the Authorities",
+      "snippet": "Is there something particularly American about leaking? Some national allergy to protecting government secrets? Yes, in fact, there is.",
+      "abstract": "Is there something particularly American about leaking? Some national allergy to protecting government secrets? Yes, in fact, there is.",
+      "lead_paragraph": "WASHINGTON — British leaders were infuriated this week when the name of the Manchester concert bomber was disclosed by American officials, and further outraged when The New York Times ran investigators’ photographs of the bomb remnants. After Prime Minister Theresa May complained bitterly to President Trump, he denounced the leaks on Thursday and vowed to find and punish the leakers.",
+      "publication_date": "2017-05-26T01:41:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/25/world/europe/manchester-bombing-leaks-donald-trump.html",
+      "byline": "By Scott Shane"
+    },
+    {
+      "headline": "McConnell May Have Been Right: It May Be Too Hard to Replace Obamacare",
+      "snippet": "As the legislative realities of replacing the health law become clear, some Republicans are turning their attention to a different target: tax reform.",
+      "abstract": "As the legislative realities of replacing the health law become clear, some Republicans are turning their attention to a different target: tax reform.",
+      "lead_paragraph": "WASHINGTON — Shortly after President Trump took office, Senator Mitch McConnell of Kentucky, the majority leader, met privately with his colleagues to discuss the Republican agenda. Repealing the Affordable Care Act was at the top, he said. But replacing it would be really hard.",
+      "publication_date": "2017-05-26T09:00:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/26/us/politics/health-care-senate-republicans.html",
+      "byline": "By Jennifer Steinhauer and Robert Pear"
+    },
+    {
+      "headline": "As C.E.O. Pay Packages Grow, Top Executives Have the President’s Ear",
+      "snippet": "The top 200 chief executives, who make more than last year, are holding meetings with President Trump, who is considering rolling back Dodd-Frank regulations.",
+      "abstract": "The top 200 chief executives, who make more than last year, are holding meetings with President Trump, who is considering rolling back Dodd-Frank regulations.",
+      "lead_paragraph": "Pay packages for America’s top executives once again climbed in 2016 after slipping the year before.",
+      "publication_date": "2017-05-26T09:00:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/05/26/business/ceo-compensation-pay-president-donald-trump.html",
+      "byline": "By Matthew Goldstein"
+    }
+  ]
+}

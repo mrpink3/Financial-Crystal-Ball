@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-04-04",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "More Trouble at Fox News: Ailes Faces New Sexual Claims and O’Reilly Loses Two Advertisers",
+      "snippet": "Julie Roginsky, a Fox News contributor, said she faced retaliation for rebuffing Mr. Ailes’s sexual advances and for refusing to disparage the former host Gretchen Carlson.",
+      "abstract": "Julie Roginsky, a Fox News contributor, said she faced retaliation for rebuffing Mr. Ailes’s sexual advances and for refusing to disparage the former host Gretchen Carlson.",
+      "lead_paragraph": "The sexual harassment scandal that engulfed Fox News last year and led to the ouster of its chairman, Roger Ailes, continued to batter the network on Monday, as a new lawsuit described unwanted sexual advances by Mr. Ailes and two major advertisers pulled their spots from the show of its top-rated host, Bill O’Reilly.",
+      "publication_date": "2017-04-03T16:34:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/03/business/media/fox-news-roger-ailes-harassment-suit.html",
+      "byline": "By Emily Steel and Michael S. Schmidt"
+    },
+    {
+      "headline": "Democrats’ Vow to Filibuster Ensures Bitter Fight Over Gorsuch",
+      "snippet": "The Senate Judiciary Committee approved the nomination of Judge Neil M. Gorsuch and sent it to the deeply divided full Senate.",
+      "abstract": "The Senate Judiciary Committee approved the nomination of Judge Neil M. Gorsuch and sent it to the deeply divided full Senate.",
+      "lead_paragraph": "WASHINGTON — Senate Democrats on Monday secured the votes necessary to filibuster the Supreme Court nomination of Judge Neil M. Gorsuch, presaging a bitter confrontation this week that threatens to further unravel a chamber where bipartisanship and decorum have eroded for years.",
+      "publication_date": "2017-04-03T17:38:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/03/us/politics/senate-democrats-appear-poised-to-filibuster-gorsuch-nomination.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "Visa Applications Pour In by Truckload Before Door Slams Shut",
+      "snippet": "Possible changes to a program that allows technology companies to import foreign workers may be adding to an even heavier rush than usual this year.",
+      "abstract": "Possible changes to a program that allows technology companies to import foreign workers may be adding to an even heavier rush than usual this year.",
+      "lead_paragraph": "LAGUNA NIGUEL, Calif. — The delivery trucks began arriving with their precious parcels before daybreak, lining up outside a massive government edifice that rises above Orange County’s suburban sprawl.",
+      "publication_date": "2017-04-03T18:23:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/03/us/tech-visa-applications-h1b.html",
+      "byline": "By Miriam Jordan"
+    },
+    {
+      "headline": "Trump Shifts Course on Egypt, Praising Its Authoritarian Leader",
+      "snippet": "President Abdel Fattah el-Sisi of Egypt got just what he was looking for: validation from an American president after the cold shoulder of the recent past.",
+      "abstract": "President Abdel Fattah el-Sisi of Egypt got just what he was looking for: validation from an American president after the cold shoulder of the recent past.",
+      "lead_paragraph": "WASHINGTON — Ever since he seized power in a military takeover nearly four years ago, President Abdel Fattah el-Sisi of Egypt has been barred from the White House. But President Trump made clear on Monday that the period of ostracism was over as he hosted Mr. Sisi and pledged unstinting support for the autocratic ruler.",
+      "publication_date": "2017-04-03T19:49:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/03/world/middleeast/-egypt-sisi-trump-white-house.html",
+      "byline": "By Peter Baker and Declan Walsh"
+    },
+    {
+      "headline": "Tesla Passes Ford in Market Value as Investors Bet on the Future",
+      "snippet": "With signs that the long boom in American auto sales is tapering off, the Detroit giants are eclipsed on Wall Street by the electric-vehicle upstart.",
+      "abstract": "With signs that the long boom in American auto sales is tapering off, the Detroit giants are eclipsed on Wall Street by the electric-vehicle upstart.",
+      "lead_paragraph": "DETROIT — The record pace of auto sales in the United States is slowing down, leaving investors increasingly bearish on auto stocks.",
+      "publication_date": "2017-04-04T00:43:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/03/business/tesla-ford-general-motors-stock-market.html",
+      "byline": "By Bill Vlasic and Neal E. Boudette"
+    },
+    {
+      "headline": "Wells Fargo Whistle-Blower Wins $5.4 Million and His Job Back",
+      "snippet": "The bank was ordered to pay a manager who was fired in 2010 after informing supervisors and a bank ethics hotline about what he thought was fraudulent behavior.",
+      "abstract": "The bank was ordered to pay a manager who was fired in 2010 after informing supervisors and a bank ethics hotline about what he thought was fraudulent behavior.",
+      "lead_paragraph": "A federal regulator on Monday ordered Wells Fargo to pay $5.4 million to a former manager who said he was fired in 2010 after reporting to his supervisors and to a bank ethics hotline what he suspected was fraudulent behavior.",
+      "publication_date": "2017-04-04T01:01:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/03/business/04-wells-fargo-whistleblower-fired-osha.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Sweeping Federal Review Could Affect Consent Decrees Nationwide",
+      "snippet": "Attorney General Jeff Sessions has ordered a review of federal agreements with dozens of law enforcement agencies, including the Baltimore Police Department.",
+      "abstract": "Attorney General Jeff Sessions has ordered a review of federal agreements with dozens of law enforcement agencies, including the Baltimore Police Department.",
+      "lead_paragraph": "WASHINGTON — Attorney General Jeff Sessions has ordered a sweeping review of federal agreements with dozens of law enforcement agencies, an examination that reflects President Trump’s emphasis on law and order and could lead to a retreat on consent decrees with troubled police departments nationwide.",
+      "publication_date": "2017-04-04T02:14:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/03/us/justice-department-jeff-sessions-baltimore-police.html",
+      "byline": "By Sheryl Gay Stolberg and Eric Lichtblau"
+    },
+    {
+      "headline": "Worst Chemical Attack in Years in Syria; U.S. Blames Assad",
+      "snippet": "Dozens of people including children were killed in the assault, one of the worst atrocities in the Syria conflict since President Trump took office.",
+      "abstract": "Dozens of people including children were killed in the assault, one of the worst atrocities in the Syria conflict since President Trump took office.",
+      "lead_paragraph": "BEIRUT, Lebanon — One of the worst chemical bombings in Syria turned a northern rebel-held area into a toxic kill zone on Tuesday, inciting international outrage over the ever-increasing government impunity shown in the country’s six-year war.",
+      "publication_date": "2017-04-04T12:14:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/04/world/middleeast/syria-gas-attack.html",
+      "byline": "By Anne Barnard and Michael R. Gordon"
+    },
+    {
+      "headline": "Russia Moves to Ban Jehovah’s Witnesses as ‘Extremist’",
+      "snippet": "The pacifist denomination is at the heart of a growing campaign to banish religious groups that compete with the Russian Orthodox Church.",
+      "abstract": "The pacifist denomination is at the heart of a growing campaign to banish religious groups that compete with the Russian Orthodox Church.",
+      "lead_paragraph": "VOROKHOBINO, Russia — A dedicated pacifist who has never even held a gun, Andrei Sivak discovered that his government considered him a dangerous extremist when he tried to change some money and the teller “suddenly looked up at me with a face full of fear.”",
+      "publication_date": "2017-04-04T13:55:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/04/04/world/europe/russia-moves-to-ban-jehovahs-witnesses-as-extremist.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "To Curb Global Warming, Science Fiction May Become Fact",
+      "snippet": "Geoengineering, providing methods to offset climate change by applying scientific fixes rather than changing old habits, may have found its moment.",
+      "abstract": "Geoengineering, providing methods to offset climate change by applying scientific fixes rather than changing old habits, may have found its moment.",
+      "lead_paragraph": "Remember “Snowpiercer”?",
+      "publication_date": "2017-04-04T14:12:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/04/04/business/economy/geoengineering-climate-change.html",
+      "byline": "By Eduardo Porter"
+    }
+  ]
+}

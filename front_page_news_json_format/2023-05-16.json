@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-05-16",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Erdogan’s Grip on Power Is Loosened but Not Broken, Vote Shows",
+      "snippet": "Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.",
+      "abstract": "Despite a struggling economy, the disastrous earthquakes in February and Turkey’s drift toward one-man rule, President Recep Tayyip Erdogan was in the lead ahead of a runoff.",
+      "lead_paragraph": "ANKARA, Turkey – Soaring inflation left his people feeling poorer. His government was accused of botching its response to catastrophic earthquakes that killed more than 50,000 people just three months ago. And he faced a newly unified opposition that promised to reverse his steady drift toward one-man rule.",
+      "publication_date": "2023-05-15T16:42:27+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/15/world/middleeast/turkey-election-polls-erdogan.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "San Francisco Fed Ties to S.V.B. Chief Attracts Scrutiny to Century-Old Setup",
+      "snippet": "As Greg Becker, the former C.E.O. of Silicon Valley Bank, prepares to testify before Congress, boards that oversee regional Federal Reserve branches are in the spotlight.",
+      "abstract": "As Greg Becker, the former C.E.O. of Silicon Valley Bank, prepares to testify before Congress, boards that oversee regional Federal Reserve branches are in the spotlight.",
+      "lead_paragraph": "The collapse of Silicon Valley Bank has drawn attention to the relationship between the Federal Reserve Bank of San Francisco, which was in charge of overseeing safety and soundness at the lender, and the bank’s former chief executive, Greg Becker, who for years sat on the San Francisco Fed’s board of directors.",
+      "publication_date": "2023-05-15T16:51:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/15/business/economy/san-francisco-fed-silicon-valley-bank.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Durham Finds Fault With F.B.I. Over Russia Inquiry",
+      "snippet": "The special counsel’s final report nevertheless did not produce blockbuster revelations of politically motivated misconduct, as Donald J. Trump and his allies had suggested it would.",
+      "abstract": "The special counsel’s final report nevertheless did not produce blockbuster revelations of politically motivated misconduct, as Donald J. Trump and his allies had suggested it would.",
+      "lead_paragraph": "John H. Durham, the Trump-era special counsel who for four years has pursued a politically fraught investigation into the Russia inquiry, accused the F.B.I. of having “discounted or willfully ignored material information” that countered the narrative of collusion between Donald J. Trump and Russia in a final report made public on Monday.",
+      "publication_date": "2023-05-15T19:41:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/15/us/politics/trump-russia-investigation-durham.html",
+      "byline": "By Charlie Savage, Glenn Thrush, Adam Goldman and Katie Benner"
+    },
+    {
+      "headline": "No Degree? No Problem. Biden Tries to Bridge the ‘Diploma Divide.’",
+      "snippet": "President Biden is trying to appeal to working-class voters by emphasizing his plans to create well-paid jobs that do not require a college degree.",
+      "abstract": "President Biden is trying to appeal to working-class voters by emphasizing his plans to create well-paid jobs that do not require a college degree.",
+      "lead_paragraph": "When President Biden told a crowd of union workers this year that every American should have a path to a good career — “whether they go to college or not” — Tyler Wissman was listening.",
+      "publication_date": "2023-05-15T22:14:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/15/us/politics/biden-working-class-voters.html",
+      "byline": "By Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "After Biden Predicted Chaos at the Border, a Quieter Than Expected Weekend",
+      "snippet": "The days after pandemic-era immigration restrictions were lifted showed the ability of federal authorities, local governments and private nonprofits to temporarily triage the situation at the border.",
+      "abstract": "The days after pandemic-era immigration restrictions were lifted showed the ability of federal authorities, local governments and private nonprofits to temporarily triage the situation at the border.",
+      "lead_paragraph": "Two days before officials lifted the Title 42 pandemic restrictions at the southern border, President Biden gave a blunt assessment of his administration’s ability to manage the surge of migrants they expected to arrive last week.",
+      "publication_date": "2023-05-16T07:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/16/us/politics/biden-border-restrictions-lifted.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Can the World Make an Electric Car Battery Without China?",
+      "snippet": "From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.",
+      "abstract": "From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.",
+      "lead_paragraph": "From mines to refineries and factories, China began investing decades ago. Today, most of your electric car batteries are made in China and that’s unlikely to change soon.",
+      "publication_date": "2023-05-16T09:00:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/interactive/2023/05/16/business/china-ev-battery.html",
+      "byline": "By Agnes Chang and Keith Bradsher"
+    },
+    {
+      "headline": "Biden and McCarthy Show Signs of Optimism, but Remain Far Apart on Debt Deal",
+      "snippet": "The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.",
+      "abstract": "The negotiations at the White House came a day after the Treasury Department said the government could run out of money to pay its bills by June 1.",
+      "lead_paragraph": "President Biden and congressional leaders in both parties emerged from a White House meeting on Tuesday offering glimmers of hope about eventually reaching a deal to raise the nation’s borrowing limit, even as they conceded they were still far from averting a default that could come as soon as June 1.",
+      "publication_date": "2023-05-16T09:00:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/16/us/politics/biden-mccarthy-debt-ceiling.html",
+      "byline": "By Zolan Kanno-Youngs and Catie Edmondson"
+    },
+    {
+      "headline": "How a Few Stories of Regret Fuel the Push to Restrict Gender Transition Care",
+      "snippet": "In the campaign to ban gender therapies for minors, Republicans have amplified a group of activists who no longer identify as transgender, overriding objections from transgender people and medical experts.",
+      "abstract": "In the campaign to ban gender therapies for minors, Republicans have amplified a group of activists who no longer identify as transgender, overriding objections from transgender people and medical experts.",
+      "lead_paragraph": "When Missouri lawmakers took up bills to ban transition care for minors, Chloe Cole, an activist from California, traveled to Jefferson City to offer her story as Exhibit A.",
+      "publication_date": "2023-05-16T09:00:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/16/us/politics/transgender-care-detransitioners.html",
+      "byline": "By Maggie Astor"
+    },
+    {
+      "headline": "Microsoft Says New A.I. Shows Signs of Human Reasoning",
+      "snippet": "A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.",
+      "abstract": "A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.",
+      "lead_paragraph": "When computer scientists at Microsoft started to experiment with a new artificial intelligence system last year, they asked it to solve a puzzle that should have required an intuitive understanding of the physical world.",
+      "publication_date": "2023-05-16T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Electric Vans, Delayed by Production Problems, Find Eager Buyers",
+      "snippet": "Passenger cars dominate the electric vehicle market, but light delivery trucks could benefit from the cost savings and range E.V.s offer.",
+      "abstract": "Passenger cars dominate the electric vehicle market, but light delivery trucks could benefit from the cost savings and range E.V.s offer.",
+      "lead_paragraph": "Not long after buying a Ford E-Transit van for his plumbing business last November, Mitch Smedley sat down with some receipts and a calculator to figure out how much the electric vehicle was saving him on fuel expenses.",
+      "publication_date": "2023-05-16T15:30:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/16/business/energy-environment/electric-vehicle-delivery-vans.html",
+      "byline": "By Neal E. Boudette"
+    }
+  ]
+}

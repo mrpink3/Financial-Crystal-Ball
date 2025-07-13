@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-09-05",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Jim Mattis Compared Trump to ‘Fifth or Sixth Grader,’ Bob Woodward Says in Book",
+      "snippet": "The defense secretary and other administration officials are described as resorting to extraordinary measures to thwart the president’s decisions in a White House depicted as “crazytown.”",
+      "abstract": "The defense secretary and other administration officials are described as resorting to extraordinary measures to thwart the president’s decisions in a White House depicted as “crazytown.”",
+      "lead_paragraph": "WASHINGTON — President Trump so alarmed his defense secretary, Jim Mattis, during a discussion last January of the nuclear standoff with North Korea that an exasperated Mr. Mattis told colleagues “the president acted like — and had the understanding of — a ‘fifth or sixth grader.’”",
+      "publication_date": "2018-09-04T18:55:57+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/04/us/politics/woodward-trump-book-fear.html",
+      "byline": "By Mark Landler and Maggie Haberman"
+    },
+    {
+      "headline": "Facebook and Twitter Have a Message for Lawmakers: We’re Trying",
+      "snippet": "In prepared testimony ahead of congressional hearings on Wednesday, Facebook and Twitter displayed a conciliatory approach over issues such as disinformation and manipulation.",
+      "abstract": "In prepared testimony ahead of congressional hearings on Wednesday, Facebook and Twitter displayed a conciliatory approach over issues such as disinformation and manipulation.",
+      "lead_paragraph": "WASHINGTON — For months, Facebook, Twitter and Google have grappled with criticism over the misuse of their services by foreign operatives and the disproportionate influence their platforms have over people’s thinking.",
+      "publication_date": "2018-09-04T19:54:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/04/technology/facebook-and-twitter-have-a-message-for-lawmakers-were-trying.html",
+      "byline": "By Cecilia Kang and Sheera Frenkel"
+    },
+    {
+      "headline": "The Kremlin Wants Information. To Get It, Agents Show Up With Flowers.",
+      "snippet": "It took a while for a young woman to figure out that the smiling man who asked her for coffee was trying to recruit her as an informer.",
+      "abstract": "It took a while for a young woman to figure out that the smiling man who asked her for coffee was trying to recruit her as an informer.",
+      "lead_paragraph": "MOSCOW — Russia’s vast security apparatus often displays its power through brutal actions: burly police officers in riot gear pummeling protesters or mysterious thugs assaulting and occasionally assassinating opposition politicians and journalists.",
+      "publication_date": "2018-09-04T21:13:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/04/world/europe/russian-agents-kremlin-spies.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "In Chastising Sessions Over Indictments of Two Republicans, Trump Crosses a Line",
+      "snippet": "His tweet on Monday reinforced the impression of a president who sees the law enforcement agencies that report to him as political instruments.",
+      "abstract": "His tweet on Monday reinforced the impression of a president who sees the law enforcement agencies that report to him as political instruments.",
+      "lead_paragraph": "WASHINGTON — If President Trump is worried that he could be impeached should Democrats take control of the House in the midterm elections, he is not acting like it. If anything lately, he seems to be offering more examples for his opponents to use against him.",
+      "publication_date": "2018-09-05T00:08:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/04/us/politics/trump-sessions-republicans.html",
+      "byline": "By Peter Baker and Nicholas Fandos"
+    },
+    {
+      "headline": "The New Yorker Festival Boots Bannon, and Liberals Are Torn",
+      "snippet": "“De-platforming,” with its questions of free speech, comes to a magazine whose die-hard fans see it as a bastion of cosmopolitan values.",
+      "abstract": "“De-platforming,” with its questions of free speech, comes to a magazine whose die-hard fans see it as a bastion of cosmopolitan values.",
+      "lead_paragraph": "Now in its 19th year, The New Yorker Festival is as much a staple of bourgeois New York life as sneaking a sauvignon blanc into Shakespeare in the Park.",
+      "publication_date": "2018-09-05T00:39:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/04/business/media/bannon-new-yorker-festival-liberals.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Kavanaugh Portrayed as a Hopeless Partisan as Hearings on Supreme Court Nominee Open",
+      "snippet": "Confirmation hearings for the Supreme Court nominee Brett M. Kavanaugh opened with protests and theater, as Democrats unleashed a fierce barrage.",
+      "abstract": "Confirmation hearings for the Supreme Court nominee Brett M. Kavanaugh opened with protests and theater, as Democrats unleashed a fierce barrage.",
+      "lead_paragraph": "WASHINGTON — Senate Democrats tore into President Trump’s Supreme Court nominee on Tuesday, painting Judge Brett M. Kavanaugh as a narrow-minded partisan as the opening day of his confirmation hearings verged on pandemonium. Dozens of screaming protesters were hauled out of the hearing room in handcuffs.",
+      "publication_date": "2018-09-05T00:47:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/04/us/politics/kavanaugh-confirmation-supreme-court.html",
+      "byline": "By Sheryl Gay Stolberg and Adam Liptak"
+    },
+    {
+      "headline": "Ayanna Pressley Upsets Capuano in Massachusetts House Race",
+      "snippet": "Mr. Capuano, a 10-term incumbent, conceded to Ms. Pressley after a primary campaign in which she insisted that “change can’t wait.’’",
+      "abstract": "Mr. Capuano, a 10-term incumbent, conceded to Ms. Pressley after a primary campaign in which she insisted that “change can’t wait.’’",
+      "lead_paragraph": "BOSTON — Ayanna Pressley upended the Massachusetts political order on Tuesday, scoring a stunning upset of 10-term Representative Michael Capuano and positioning herself to become the first African-American woman to represent the state in Congress.",
+      "publication_date": "2018-09-05T01:30:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/09/04/us/politics/ayanna-pressley-massachusetts.html",
+      "byline": "By Katharine Q. Seelye"
+    },
+    {
+      "headline": "Trump Says Google Is Rigged, Despite Its Denials. What Do We Know About How It Works?",
+      "snippet": "Not many people have a good understanding of how Google delivers search results. And for good reason — the company tries to keep it a secret.",
+      "abstract": "Not many people have a good understanding of how Google delivers search results. And for good reason — the company tries to keep it a secret.",
+      "lead_paragraph": "Online search and Google are synonymous. About 90 percent of all searches on the web run through Google, giving the company an enormous role in directing the worldwide flow of information on the internet.",
+      "publication_date": "2018-09-05T09:00:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/09/05/technology/google-trump-bias.html",
+      "byline": "By Daisuke Wakabayashi"
+    }
+  ]
+}

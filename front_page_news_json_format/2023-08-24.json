@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-08-24",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "South Carolina Supreme Court Upholds Abortion Law, Reversing Earlier Decision",
+      "snippet": "The ruling, by a newly all-male bench, allows the state’s new six-week abortion ban to take effect.",
+      "abstract": "The ruling, by a newly all-male bench, allows the state’s new six-week abortion ban to take effect.",
+      "lead_paragraph": "The South Carolina Supreme Court on Wednesday upheld the state’s new near-total ban on abortion by a 4-1 vote, reversing a decision it had made in January that struck down a similar ban and declared that the State Constitution’s protections for privacy included a right to abortion.",
+      "publication_date": "2023-08-23T16:37:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/23/us/south-carolina-abortion-supreme-court.html",
+      "byline": "By Kate Zernike"
+    },
+    {
+      "headline": "Nvidia Revenue Doubles on Demand for A.I. Chips, and Could Go Higher",
+      "snippet": "Sales for the current quarter will nearly triple their total a year ago, said the company, which makes chips essential to the development of A.I. systems.",
+      "abstract": "Sales for the current quarter will nearly triple their total a year ago, said the company, which makes chips essential to the development of A.I. systems.",
+      "lead_paragraph": "In a sign that the tech industry’s next big boom is picking up steam, Nvidia on Wednesday predicted rapid growth in the already rabid demand for the chips it makes to build artificial intelligence systems.",
+      "publication_date": "2023-08-23T20:47:57+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/23/technology/nvidia-earnings-chips.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "Wagner Leader Believed to Be Aboard Plane That Crashed in Russia",
+      "snippet": "All 10 people on a jet linked to Yevgeny V. Prigozhin, the founder of the mercenary group, were killed on Wednesday, Russian officials said.",
+      "abstract": "All 10 people on a jet linked to Yevgeny V. Prigozhin, the founder of the mercenary group, were killed on Wednesday, Russian officials said.",
+      "lead_paragraph": "Yevgeny V. Prigozhin, the founder of the Wagner mercenary group who staged an aborted mutiny against Russia’s military leadership in June, in one of the most dramatic challenges to President Vladimir V. Putin’s rule in decades, was listed as a passenger on a plane that crashed on Wednesday in Russia, killing everyone on board, the nation’s aviation authorities said.",
+      "publication_date": "2023-08-24T02:09:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/23/world/europe/prigozhin-wagner-plane-crash-russia.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "How Jackson Hole Became an Economic Obsession",
+      "snippet": "Investors and economists are watching the event this week closely. How did a remote Wyoming conference become so central?",
+      "abstract": "Investors and economists are watching the event this week closely. How did a remote Wyoming conference become so central?",
+      "lead_paragraph": "Filmmakers have Cannes. Billionaires have Davos. Economists? They have Jackson Hole.",
+      "publication_date": "2023-08-24T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/24/business/economy/jackson-hole-economic-conference.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "How Schools Can Survive (and Maybe Even Thrive) With A.I. This Fall",
+      "snippet": "Step 1: Assume all students are going to use the technology.",
+      "abstract": "Step 1: Assume all students are going to use the technology.",
+      "lead_paragraph": "Last November, when ChatGPT was released, many schools felt as if they’d been hit by an asteroid.",
+      "publication_date": "2023-08-24T09:00:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/24/technology/how-schools-can-survive-and-maybe-even-thrive-with-ai-this-fall.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "How China Made Its Housing Crisis Worse",
+      "snippet": "Years of inattention to building an adequate safety net for seniors, the jobless and others in financial stress have left Chinese consumers afraid to spend.",
+      "abstract": "Years of inattention to building an adequate safety net for seniors, the jobless and others in financial stress have left Chinese consumers afraid to spend.",
+      "lead_paragraph": "In China the pension akin to Social Security in the United States pays about $410 a month to seniors who live in cities, and only $25 a month in the countryside. Public health care covers less than half of people’s costs. Unemployment insurance provides around $220 a month; the U.S. average is nearly $1,700.",
+      "publication_date": "2023-08-24T09:01:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/24/business/china-economy-safety-net.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Despite Cheating Fears, Schools Repeal ChatGPT Bans",
+      "snippet": "Some districts that once raced to block A.I. chatbots are now trying to embrace them.",
+      "abstract": "Some districts that once raced to block A.I. chatbots are now trying to embrace them.",
+      "lead_paragraph": "For decades, Walla Walla High School in the wheat basket of Washington State has maintained an old red wooden barn on campus where students learn a venerable farming skill: how to raise pigs and sheep.",
+      "publication_date": "2023-08-24T09:01:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/24/business/schools-chatgpt-chatbot-bans.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "One Year Later, Powell Faces a Changed Economy and Market",
+      "snippet": "Jerome Powell, the Federal Reserve chair, warned in 2022 that the central bank might hurt the economy to cool inflation. This year, things look less dire.",
+      "abstract": "Jerome Powell, the Federal Reserve chair, warned in 2022 that the central bank might hurt the economy to cool inflation. This year, things look less dire.",
+      "lead_paragraph": "When Jerome H. Powell spoke at the Federal Reserve Bank of Kansas City’s annual Jackson Hole conference in Wyoming last year, inflation had recently topped 9 percent and the Fed was raising rates at a breakneck pace to wrestle down price increases. Mr. Powell used the platform to offer a stern warning that central bankers would keep at it until the job was done.",
+      "publication_date": "2023-08-24T09:01:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/08/24/business/powell-jackson-hole-markets.html",
+      "byline": "By Jeanna Smialek and Joe Rennison"
+    }
+  ]
+}

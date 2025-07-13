@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-11-21",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "G.M. Sues Rival Over Bribery Scheme as Union Scandal Expands",
+      "snippet": "The suit claims Fiat Chrysler sought to undermine contract negotiations with the autoworkers union to hurt G.M.",
+      "abstract": "The suit claims Fiat Chrysler sought to undermine contract negotiations with the autoworkers union to hurt G.M.",
+      "lead_paragraph": "General Motors sued its rival Fiat Chrysler on Wednesday, asserting that it bribed United Auto Workers officials in contract negotiations to get a leg up on G.M. over the course of a decade.",
+      "publication_date": "2019-11-20T17:41:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/20/business/gm-fiat-chrysler-lawsuit.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Frozen in Place: Americans Are Moving at the Lowest Rate on Record",
+      "snippet": "Restless mobility in search of opportunity is an American hallmark, but new Census Bureau data finds that more people, especially millennials, are staying put.",
+      "abstract": "Restless mobility in search of opportunity is an American hallmark, but new Census Bureau data finds that more people, especially millennials, are staying put.",
+      "lead_paragraph": "WASHINGTON — Americans are moving at the lowest rate since the government started keeping track, according to Census Bureau data released on Wednesday, as deep changes in the economy and the housing market increasingly freeze Americans in place.",
+      "publication_date": "2019-11-20T19:10:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/20/us/american-workers-moving-states-.html",
+      "byline": "By Sabrina Tavernise"
+    },
+    {
+      "headline": "Sondland Says He Followed Trump’s Orders to Pressure Ukraine",
+      "snippet": "The United States ambassador to the European Union told the impeachment inquiry his efforts to press Ukraine to announce investigations were ordered by President Trump, and top officials knew.",
+      "abstract": "The United States ambassador to the European Union told the impeachment inquiry his efforts to press Ukraine to announce investigations were ordered by President Trump, and top officials knew.",
+      "lead_paragraph": "WASHINGTON — An ambassador at the center of the House impeachment inquiry testified on Wednesday that he was following President Trump’s orders, with the full knowledge of other top administration officials, when he pressured the Ukrainians to conduct investigations into Mr. Trump’s political rivals in what he called a clear “quid pro quo.” ",
+      "publication_date": "2019-11-20T19:29:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/20/us/politics/sondland-says-he-followed-trumps-orders-to-pressure-ukraine.html",
+      "byline": "By Nicholas Fandos and Michael S. Schmidt"
+    },
+    {
+      "headline": "Google Hires Firm Known for Anti-Union Efforts",
+      "snippet": "After nearly two years of unrest, the company appears to be cracking down on employee activism.",
+      "abstract": "After nearly two years of unrest, the company appears to be cracking down on employee activism.",
+      "lead_paragraph": "Google has hired an anti-union consulting firm to advise management as it deals with widespread worker unrest, including accusations that it has retaliated against organizers of a global walkout and cracked down on dissent inside the company.",
+      "publication_date": "2019-11-20T19:51:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/20/technology/Google-union-consultant.html",
+      "byline": "By Noam Scheiber and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Pompeo Emerges as a Major Trump Enabler in Ukraine Affair",
+      "snippet": "A top envoy’s testimony places Secretary of State Mike Pompeo at the center of the nation’s biggest foreign policy controversy in nearly two decades.",
+      "abstract": "A top envoy’s testimony places Secretary of State Mike Pompeo at the center of the nation’s biggest foreign policy controversy in nearly two decades.",
+      "lead_paragraph": "WASHINGTON — Secretary of State Mike Pompeo has for months deflected questions about whether the Trump administration demanded political favors from Ukraine in exchange for military aid. He has refused to explain why he recalled the American ambassador, declared that it was “inappropriate” for his diplomats to testify before Congress and declined to hand over documents to impeachment investigators. ",
+      "publication_date": "2019-11-21T00:37:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/20/us/politics/pompeo-sondland-trump-impeachment.html",
+      "byline": "By David E. Sanger and Edward Wong"
+    },
+    {
+      "headline": "In an Echo of Watergate and John Dean, an Adviser Points to Trump",
+      "snippet": "Testimony by Gordon D. Sondland gave Democrats the crisp, accusatory lines they sought. But Republicans elicited an account of one conversation  that they hope will help exonerate President Trump.",
+      "abstract": "Testimony by Gordon D. Sondland gave Democrats the crisp, accusatory lines they sought. But Republicans elicited an account of one conversation  that they hope will help exonerate President Trump.",
+      "lead_paragraph": "WASHINGTON — Gordon D. Sondland had not even finished his testimony on Wednesday before it was being called the “John Dean moment” of the President Trump impeachment drama. With the presidency on the line, a once-trusted lieutenant pointed the finger at Mr. Trump in a proceeding that could lead to Watergate-style charges of high crimes and misdemeanors. ",
+      "publication_date": "2019-11-21T01:33:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/20/us/politics/watergate-john-dean-sondland-trump.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "With Impeachment as Backdrop, Democrats Direct Fire at Trump in Debate",
+      "snippet": "The candidates mostly tempered their criticism of one another and presented a united front on vital issues like climate change.",
+      "abstract": "The candidates mostly tempered their criticism of one another and presented a united front on vital issues like climate change.",
+      "lead_paragraph": "The Democratic presidential candidates yielded to the furor surrounding the impeachment inquiry in Washington in their primary debate on Wednesday, for the first time training their fire more steadily on President Trump than on one another and presenting a largely united front on vital issues like climate change and abortion rights.",
+      "publication_date": "2019-11-21T02:44:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/20/us/politics/november-debate-recap.html",
+      "byline": "By Alexander Burns and Jonathan Martin"
+    },
+    {
+      "headline": "Henry Paulson Sounds Alarm: U.S.-China Relations May Only Get Worse",
+      "snippet": "Whether or not a trade truce is reached, the two countries have been pushed further apart, the former Treasury secretary said.",
+      "abstract": "Whether or not a trade truce is reached, the two countries have been pushed further apart, the former Treasury secretary said.",
+      "lead_paragraph": "The United States and China will eventually settle their differences over tariffs — maybe even reach a deal that allows both sides to say they won.",
+      "publication_date": "2019-11-21T08:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/21/business/dealbook/henry-paulson-china.html",
+      "byline": "By Andrew Ross Sorkin"
+    }
+  ]
+}

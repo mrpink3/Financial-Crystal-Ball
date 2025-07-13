@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-08-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Trump Can Battle China or Expand the Economy. He Can’t Do Both.",
+      "snippet": "The president says Americans must sever commercial dependence on China. He also says he wants powerful economic growth. The trade war threatens to force him to choose.",
+      "abstract": "The president says Americans must sever commercial dependence on China. He also says he wants powerful economic growth. The trade war threatens to force him to choose.",
+      "lead_paragraph": "LONDON — As President Trump intermittently escalates and moderates his trade war with China, his conflicting signals reflect a reality that limits his actions: He can try to sever the deeply intertwined American commercial relationship with China, or he can prod economic growth to assuage the fears of investors around the planet.",
+      "publication_date": "2019-08-26T22:09:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/26/business/economy/trump-china-trade-war.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "As Trump Swerves on Trade War, It’s Whiplash for the Rest of the World",
+      "snippet": "At the Group of 7 meeting in France, President Trump changed his approach to the trade war with China time and again, leaving much of the world off balance. “It’s the way I negotiate,” he said.",
+      "abstract": "At the Group of 7 meeting in France, President Trump changed his approach to the trade war with China time and again, leaving much of the world off balance. “It’s the way I negotiate,” he said.",
+      "lead_paragraph": "BIARRITZ, France — Remember when President Xi Jinping of China was the “enemy”? That was so Friday. As of Monday, according to President Trump, Mr. Xi was “a great leader” and a “brilliant man.”",
+      "publication_date": "2019-08-26T23:04:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/26/world/asia/trump-g7-meeting.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Trial of High-Powered Lawyer Gregory Craig Exposes Seamy Side of Washington’s Elite",
+      "snippet": "Prosecutors revealed how lawyers, lobbyists and others braved slippery ethical paths for a big payday.",
+      "abstract": "Prosecutors revealed how lawyers, lobbyists and others braved slippery ethical paths for a big payday.",
+      "lead_paragraph": "WASHINGTON — It is a trial tailor-made to grab the attention of this city’s power brokers: In a federal courtroom this month, one of Washington’s most prominent lawyers — a former White House counsel and attorney to global statesmen and other icons — is battling criminal charges of lying to investigators about his work for a shady foreign client.",
+      "publication_date": "2019-08-26T23:52:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/26/us/politics/gregory-craig-trial.html",
+      "byline": "By Sharon LaFraniere"
+    },
+    {
+      "headline": "Cadillac’s Last Stand? Storied Brand Aims (Again) for Revival",
+      "snippet": "Once the epitome of luxury, the high-end General Motors line is attempting another makeover to catch up with rivals that have overtaken it.",
+      "abstract": "Once the epitome of luxury, the high-end General Motors line is attempting another makeover to catch up with rivals that have overtaken it.",
+      "lead_paragraph": "DETROIT — Few American brand names have ever achieved the stature of Cadillac, which was once so closely identified with excellence and status that it became shorthand for anything that was top of the line. And few brands have fallen as far.",
+      "publication_date": "2019-08-27T07:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/08/27/business/cadillac-brand.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Farmers’ Frustration With Trump Grows as U.S. Escalates China Fight",
+      "snippet": "Agriculture Secretary Sonny Perdue, a somewhat unlikely lieutenant in the president’s trade war, is tasked with fending off a revolt from the heart of the president’s base.",
+      "abstract": "Agriculture Secretary Sonny Perdue, a somewhat unlikely lieutenant in the president’s trade war, is tasked with fending off a revolt from the heart of the president’s base.",
+      "lead_paragraph": "WASHINGTON — Peppered with complaints from farmers fed up with President Trump’s trade war, Sonny Perdue found his patience wearing thin. Mr. Perdue, the agriculture secretary and the guest of honor at the annual Farmfest gathering in southern Minnesota this month, tried to break the ice with a joke.",
+      "publication_date": "2019-08-27T09:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/27/us/politics/trump-farmers-china-trade.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "A Senator’s Lake House vs. a Town Fighting Flooding",
+      "snippet": "For years, there has been fierce debate over water levels at a popular lake. Senator James Inhofe, who has a vacation home there, took the matter to Washington.",
+      "abstract": "For years, there has been fierce debate over water levels at a popular lake. Senator James Inhofe, who has a vacation home there, took the matter to Washington.",
+      "lead_paragraph": "MIAMI, Okla. — On the shimmering waters of Grand Lake, a popular vacation spot in northeastern Oklahoma, families have spent the summer splashing around in boats, fishing for the lake’s famous bass and enjoying weekend getaways at upscale waterfront homes.",
+      "publication_date": "2019-08-27T09:00:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/27/us/grand-lake-oklahoma-inhofe.html",
+      "byline": "By Sarah Mervosh"
+    },
+    {
+      "headline": "How Emmanuel Macron Positioned Himself as Star of the G7 Show",
+      "snippet": "The French president seemed to be everywhere at once at the summit he hosted in Biarritz, using the opportunity to reassert the efficacy of the European approach to global problems.",
+      "abstract": "The French president seemed to be everywhere at once at the summit he hosted in Biarritz, using the opportunity to reassert the efficacy of the European approach to global problems.",
+      "lead_paragraph": "PARIS — President Emmanuel Macron of France seemed to be everywhere at once during the Group of 7 summit. For the space of a weekend, at least, the West appeared to have one person running the show, and it was not the American president.",
+      "publication_date": "2019-08-27T14:06:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/08/27/world/europe/g7-macron-trump-france.html",
+      "byline": "By Adam Nossiter"
+    }
+  ]
+}

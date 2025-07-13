@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-07-12",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Battling Fake Accounts, Twitter to Slash Millions of Followers",
+      "snippet": "Twitter will begin removing tens of millions of suspicious accounts from follower numbers, signaling a major new effort to fight fraud and restore trust on the platform.",
+      "abstract": "Twitter will begin removing tens of millions of suspicious accounts from follower numbers, signaling a major new effort to fight fraud and restore trust on the platform.",
+      "lead_paragraph": "Twitter will begin removing tens of millions of suspicious accounts from users’ followers on Thursday, signaling a major new effort to restore trust on the popular but embattled platform.",
+      "publication_date": "2018-07-11T16:02:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/11/technology/twitter-fake-followers.html",
+      "byline": "By Nicholas Confessore and Gabriel J.X. Dance"
+    },
+    {
+      "headline": "The New Toll of American Student Debt in 3 Charts",
+      "snippet": "The average debt load is flattening out, a new analysis of federal loan data shows, but college isn’t getting cheaper. Many students are hitting their borrowing cap, and parents are filling the gap.",
+      "abstract": "The average debt load is flattening out, a new analysis of federal loan data shows, but college isn’t getting cheaper. Many students are hitting their borrowing cap, and parents are filling the gap.",
+      "lead_paragraph": "It’s a sign of the times: A new game show, “Paid Off,” debuted on Tuesday offering winners not dream vacations or new cars, but a pile of cash to help lessen the crushing weight of their student debt.",
+      "publication_date": "2018-07-11T16:59:35+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/11/your-money/student-loan-debt-parents.html",
+      "byline": "By Tara Siegel Bernard and Karl Russell"
+    },
+    {
+      "headline": "Trump vs. Merkel: Blistering Salvo Meets Quiet Rejoinder",
+      "snippet": "The president waged a harsh attack on Germany at the NATO meeting, saying it was “captive” of Russia. The chancellor, weakened at home, reacted mildly but pointedly.",
+      "abstract": "The president waged a harsh attack on Germany at the NATO meeting, saying it was “captive” of Russia. The chancellor, weakened at home, reacted mildly but pointedly.",
+      "lead_paragraph": "BRUSSELS — President Trump wasted no time. NATO’s secretary general, Jens Stoltenberg, could barely finish the greetings at Wednesday’s breakfast when Mr. Trump launched into a clearly planned attack.",
+      "publication_date": "2018-07-11T18:16:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/11/world/europe/germany-merkel-russia-trump-nato.html",
+      "byline": "By Steven Erlanger and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "Trump Presses NATO on Military Spending, but Signs Its Criticism of Russia",
+      "snippet": "The contrast reflected a growing disconnect between Mr. Trump and his more traditional foreign-policy advisers when it comes to America’s role on the world stage.",
+      "abstract": "The contrast reflected a growing disconnect between Mr. Trump and his more traditional foreign-policy advisers when it comes to America’s role on the world stage.",
+      "lead_paragraph": "BRUSSELS — President Trump escalated his campaign of criticism against European allies on Wednesday, accusing Germany of being “captive to Russia” and demanding that all NATO members double their military spending targets.",
+      "publication_date": "2018-07-11T18:58:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/11/world/europe/trump-nato-summit.html",
+      "byline": "By Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "How Online Hobbyists Can Reaffirm Your Faith in the Internet",
+      "snippet": "Much of the internet feels terrible. But using the web to learn an offline hobby can give you a glimpse of a healthier relationship with your digital devices.",
+      "abstract": "Much of the internet feels terrible. But using the web to learn an offline hobby can give you a glimpse of a healthier relationship with your digital devices.",
+      "lead_paragraph": "Pottery, improbably, is the latest escapist pastime to sweep the nation. Because making ceramics requires persistence and all-consuming concentration, it is said to be a perfect salve for a particular set of modern anxieties — too much work, too much news, too much internet. When your hands are slathered in clay, you cannot fiddle around with your phone.",
+      "publication_date": "2018-07-11T21:35:50+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/11/technology/online-hobbyists-faith-internet.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Kushner’s Firm Deepens Ties to Those With Business in Washington",
+      "snippet": "The family company of Jared Kushner, President Trump’s son-in-law and senior adviser, is doing deals with investors who have a lot riding on federal decisions.",
+      "abstract": "The family company of Jared Kushner, President Trump’s son-in-law and senior adviser, is doing deals with investors who have a lot riding on federal decisions.",
+      "lead_paragraph": "Eighteen months into Jared Kushner’s White House tenure, his family’s real estate firm is deepening its financial relationships with institutions and individuals that have a lot riding on decisions made by the federal government.",
+      "publication_date": "2018-07-11T21:49:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/11/business/jared-kushner-business-washington.html",
+      "byline": "By Jesse Drucker and Kate Kelly"
+    },
+    {
+      "headline": "How Rare Earths (What?) Could Be Crucial in a U.S.-China Trade War",
+      "snippet": "Chinese companies dominate important parts of the global supply chain. The Australian C.E.O. of one alternative source of key minerals says her firm can’t fill the gap.",
+      "abstract": "Chinese companies dominate important parts of the global supply chain. The Australian C.E.O. of one alternative source of key minerals says her firm can’t fill the gap.",
+      "lead_paragraph": "KUANTAN, Malaysia — Amanda Lacaze grabbed her iPhone and rattled off the names of the special minerals needed to make it. The screen was polished with lanthanum and cerium. The inside has a magnet made with neodymium and praseodymium.",
+      "publication_date": "2018-07-11T22:18:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/11/business/china-trade-war-rare-earths-lynas.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "F.B.I. Agent Defends Actions in Russia Inquiry in Contentious House Testimony",
+      "snippet": "Peter Strzok, the F.B.I. agent who led the investigations of Russian interference and the Clinton emails, was hauled before the House but came out swinging.",
+      "abstract": "Peter Strzok, the F.B.I. agent who led the investigations of Russian interference and the Clinton emails, was hauled before the House but came out swinging.",
+      "lead_paragraph": "WASHINGTON — The embattled F.B.I. agent who oversaw the opening of the Russia investigation mounted an aggressive defense of himself and the F.B.I. on Thursday, rejecting accusations that he let his private political views bias his official actions and labeling Republicans’ preoccupation with him “another victory notch in Putin’s belt.”",
+      "publication_date": "2018-07-12T14:07:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/12/us/politics/fbi-agent-house-republicans.html",
+      "byline": "By Nicholas Fandos"
+    }
+  ]
+}

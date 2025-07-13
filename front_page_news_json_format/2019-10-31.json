@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-10-31",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Federal Reserve Cuts Interest Rates for Third Time in 2019",
+      "snippet": "The quarter-point cut comes as the economy continues to show signs of slowing, but the Fed signaled that it may pause to weigh incoming data before adjusting rates again.",
+      "abstract": "The quarter-point cut comes as the economy continues to show signs of slowing, but the Fed signaled that it may pause to weigh incoming data before adjusting rates again.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve cut interest rates on Wednesday for the third time this year, reversing nearly all of 2018’s rate increases as uncertainty from President Trump’s trade war and slowing global growth continue to pose risks to the United States economy.",
+      "publication_date": "2019-10-30T18:02:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/10/30/business/economy/federal-reserve-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Twitter Will Ban All Political Ads, C.E.O. Jack Dorsey Says",
+      "snippet": "The social media company’s action is a stark contrast to that of Facebook, which is taking a hands-off approach to political advertising.",
+      "abstract": "The social media company’s action is a stark contrast to that of Facebook, which is taking a hands-off approach to political advertising.",
+      "lead_paragraph": "SAN FRANCISCO — Twitter said on Wednesday that it would ban all political ads, putting a spotlight on the power and veracity of online advertising and ramping up pressure on Facebook’s chief executive, Mark Zuckerberg, to reverse his hands-off stance.",
+      "publication_date": "2019-10-30T20:05:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/10/30/technology/twitter-political-ads-ban.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "Anxious and Cooped Up, 1.5 Million Kashmiri Children Are Still Out of School",
+      "snippet": "With soldiers and militants claiming the streets, and most schools simply shuttered, education has been on hold through months of crisis in Kashmir.",
+      "abstract": "With soldiers and militants claiming the streets, and most schools simply shuttered, education has been on hold through months of crisis in Kashmir.",
+      "lead_paragraph": "KAPRAN, Kashmir — Every day, Aliya Khan, a fifth-grader in Kashmir, steps out of her house and walks down a dirt lane lined by tall maple trees to check on what’s happening at her school. ",
+      "publication_date": "2019-10-31T04:01:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/10/31/world/asia/kashmir-school-children.html",
+      "byline": "By Sameer Yasir and Jeffrey Gettleman"
+    },
+    {
+      "headline": "Fiat Chrysler and Peugeot Planned Merger: A Big but Imperfect Union",
+      "snippet": "The deal would bring together car companies with similar weaknesses, yet have the advantage of size.",
+      "abstract": "The deal would bring together car companies with similar weaknesses, yet have the advantage of size.",
+      "lead_paragraph": "Fiat Chrysler and PSA of France announced on Thursday that they planned to merge to create the world’s fourth largest automaker, a company that would produce slightly more cars than American icon General Motors. ",
+      "publication_date": "2019-10-31T07:02:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/10/31/business/fiat-chrysler-psa-peugeot-merger.html",
+      "byline": "By Jack Ewing, Liz Alderman and Neal E. Boudette"
+    },
+    {
+      "headline": "The Housing Market Needs More Than Low Mortgage Rates",
+      "snippet": "Low rates don’t help much if you can’t get a loan or can’t afford a home.",
+      "abstract": "Low rates don’t help much if you can’t get a loan or can’t afford a home.",
+      "lead_paragraph": "The Federal Reserve is hoping that its latest interest-rate cut will help keep the economy safely at cruising altitude. But don’t expect it to provide much of a lift to the housing market.",
+      "publication_date": "2019-10-31T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/10/31/business/economy/fed-mortgage-rates.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Lots of Job Hunting, but No Job, Despite Low Unemployment",
+      "snippet": "Even with the strongest labor market in half a century, getting work after losing it can still be a challenge.",
+      "abstract": "Even with the strongest labor market in half a century, getting work after losing it can still be a challenge.",
+      "lead_paragraph": "RIVER VALE, N.J. — Laura Ward flipped through the small, lined notebook where she had neatly recorded every job posting she had answered, résumé she had sent and application she had completed since being laid off in March 2016.",
+      "publication_date": "2019-10-31T09:00:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/10/31/business/economy/long-term-unemployed.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "A Divided House Endorses Impeachment Inquiry Into Trump",
+      "snippet": "House Democrats rallied behind a measure setting out rules for the public phase of their impeachment inquiry into President Trump, endorsing the process.",
+      "abstract": "House Democrats rallied behind a measure setting out rules for the public phase of their impeachment inquiry into President Trump, endorsing the process.",
+      "lead_paragraph": "WASHINGTON — A bitterly divided House of Representatives voted Thursday to endorse the Democratic-led impeachment inquiry into President Trump, in a historic action that set up a critical new public phase of the investigation and underscored the political polarization that serves as its backdrop.",
+      "publication_date": "2019-10-31T15:26:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/10/31/us/politics/house-impeachment-vote.html",
+      "byline": "By Nicholas Fandos and Sheryl Gay Stolberg"
+    }
+  ]
+}

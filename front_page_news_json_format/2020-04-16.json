@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2020-04-16",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Amazon to Suspend Operations in France Over Coronavirus Dispute",
+      "snippet": "The move follows a French court order for the U.S. retailer to limit deliveries to essential goods amid controversy over virus safety measures.",
+      "abstract": "The move follows a French court order for the U.S. retailer to limit deliveries to essential goods amid controversy over virus safety measures.",
+      "lead_paragraph": "PARIS — Amazon said Wednesday that it would temporarily halt its operations in France after a court ruled the company had failed to adequately protect warehouse workers against the threat of the coronavirus and that it must restrict deliveries to only food, hygiene and medical products until it addressed the issue.",
+      "publication_date": "2020-04-15T18:16:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Urged On by Conservatives and His Own Advisers, Trump Targeted the W.H.O.",
+      "snippet": "But his announcement that he would freeze the U.S.’s contributions to the organization in the middle of a pandemic was denounced by Democrats as well as the U.S. Chamber of Commerce.",
+      "abstract": "But his announcement that he would freeze the U.S.’s contributions to the organization in the middle of a pandemic was denounced by Democrats as well as the U.S. Chamber of Commerce.",
+      "lead_paragraph": "WASHINGTON — Fox News pundits and Republican lawmakers have raged for weeks at the World Health Organization for praising China’s handling of the coronavirus crisis. On his podcast, President Trump’s former chief strategist, Stephen K. Bannon, urged his former boss to stop funding the W.H.O., citing its ties to the “Chinese Communist Party.”",
+      "publication_date": "2020-04-15T23:59:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/15/us/politics/trump-coronavirus-who.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Testing Falls Woefully Short as Trump Seeks an End to Stay-at-Home Orders",
+      "snippet": "Flawed tests, scarce supplies and limited access to screening have hurt the U.S.’s ability to monitor Covid-19, governors and health officials warn.",
+      "abstract": "Flawed tests, scarce supplies and limited access to screening have hurt the U.S.’s ability to monitor Covid-19, governors and health officials warn.",
+      "lead_paragraph": "As President Trump pushes to reopen the economy, most of the country is not conducting nearly enough testing to track the path and penetration of the coronavirus in a way that would allow Americans to safely return to work, public health officials and political leaders say.",
+      "publication_date": "2020-04-16T00:39:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/15/us/coronavirus-testing-trump.html",
+      "byline": "By Abby Goodnough, Katie Thomas and Sheila Kaplan"
+    },
+    {
+      "headline": "It’s the End of the World Economy as We Know It",
+      "snippet": "Experts suggest there will be “a rethink of how much any country wants to be reliant on any other country.”",
+      "abstract": "Experts suggest there will be “a rethink of how much any country wants to be reliant on any other country.”",
+      "lead_paragraph": "When big convulsive economic events happen, the implications tend to take years to play out, and spiral in unpredictable directions.",
+      "publication_date": "2020-04-16T07:08:41+0000",
+      "section_name": "The Upshot",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/04/16/upshot/world-economy-restructuring-coronavirus.html",
+      "byline": "By Neil Irwin"
+    },
+    {
+      "headline": "An Army of Virus Tracers Takes Shape in Massachusetts",
+      "snippet": "Asian countries have invested heavily in digital contact tracing, which uses technology to warn people when they have been exposed to the coronavirus. Massachusetts is using an old-fashioned means: people.",
+      "abstract": "Asian countries have invested heavily in digital contact tracing, which uses technology to warn people when they have been exposed to the coronavirus. Massachusetts is using an old-fashioned means: people.",
+      "lead_paragraph": "BOSTON — Alexandra Cross, a newly minted state public health worker, dialed a stranger’s telephone number on Monday, her heart racing.",
+      "publication_date": "2020-04-16T09:00:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/16/us/coronavirus-massachusetts-contact-tracing.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "As Coronavirus Fades in China, Nationalism and Xenophobia Flare",
+      "snippet": "Now that the pandemic is raging outside China’s borders, foreigners are being shunned, barred from public spaces and even evicted.",
+      "abstract": "Now that the pandemic is raging outside China’s borders, foreigners are being shunned, barred from public spaces and even evicted.",
+      "lead_paragraph": "HONG KONG — After 16 years in China, a Congolese businessman thought he knew what being black there entailed. He had been subjected to racial slurs and denied apartments, but he had also learned Chinese and made local friends. He loved the country; he called it his second home.",
+      "publication_date": "2020-04-16T09:00:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/16/world/asia/coronavirus-china-nationalism.html",
+      "byline": "By Vivian Wang and Amy Qin"
+    }
+  ]
+}

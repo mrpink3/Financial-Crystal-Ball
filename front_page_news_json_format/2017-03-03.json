@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-03-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Snap Shares Leap 44% in Debut as Investors Doubt Value Will Vanish",
+      "snippet": "The company’s successful start could revive a moribund market for new stocks and may draw out other private tech giants.",
+      "abstract": "The company’s successful start could revive a moribund market for new stocks and may draw out other private tech giants.",
+      "lead_paragraph": "Snapchat is a business built in large part on disappearing messages and adding animated dog ears and flower crowns to users’ selfies.",
+      "publication_date": "2017-03-02T16:39:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/02/business/dealbook/snap-snapchat-ipo.html",
+      "byline": "By Michael J. de la Merced"
+    },
+    {
+      "headline": "How a Money-Losing Snap Could Be Worth So Much",
+      "snippet": "Testing the upper limits of valuation, Snap’s investors are betting on the kind of rapid growth that few, if any, companies have ever achieved.",
+      "abstract": "Testing the upper limits of valuation, Snap’s investors are betting on the kind of rapid growth that few, if any, companies have ever achieved.",
+      "lead_paragraph": "By now, even most of us over 35 — old age, by Snapchat standards — are aware of the photo sharing and messaging app sweeping teenage and millennial America.",
+      "publication_date": "2017-03-02T18:38:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/02/business/snap-ipo-valuation.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Sergey Kislyak, Russian Envoy, Cultivated Powerful Network in U.S.",
+      "snippet": "Ambassador Kislyak’s success in navigating Washington has landed him at the center of controversies involving Michael T. Flynn and Attorney General Jeff Sessions.",
+      "abstract": "Ambassador Kislyak’s success in navigating Washington has landed him at the center of controversies involving Michael T. Flynn and Attorney General Jeff Sessions.",
+      "lead_paragraph": "Sergey I. Kislyak, the longtime Russian ambassador to the United States, hosted a dazzling dinner in his three-story, Beaux-Arts mansion four blocks north of the White House to toast Michael A. McFaul just weeks before he took up his post as the American envoy to Russia.",
+      "publication_date": "2017-03-03T02:24:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/03/02/world/europe/sergey-kislyak-russian-ambassador.html",
+      "byline": "By Neil MacFarquhar and Peter Baker"
+    },
+    {
+      "headline": "When Teachers Face the Task of Fixing Their Retirement Accounts",
+      "snippet": "In Greenwich, Conn., a town brimming with hedge fund managers, teachers have to study up on finance to try to find better investment options for retirement.",
+      "abstract": "In Greenwich, Conn., a town brimming with hedge fund managers, teachers have to study up on finance to try to find better investment options for retirement.",
+      "lead_paragraph": "When the Greenwich Alliance for Education held its annual trivia challenge last week, Carol Sutton worried a bit when the topic turned to finance. Ms. Sutton, the president of the teachers’ union in Greenwich, Conn., and her table full of educators weren’t quite equipped for the question about debentures.",
+      "publication_date": "2017-03-03T10:00:26+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/03/your-money/401ks-and-similar-plans/when-teachers-face-the-task-of-fixing-their-retirement-accounts.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "The World’s Top Tech Investor Is Betting Big on Trump",
+      "snippet": "Masayoshi Son of SoftBank is weighing possible deals to bolster Sprint, which could allow aggressive investment in wireless networks in the United States.",
+      "abstract": "Masayoshi Son of SoftBank is weighing possible deals to bolster Sprint, which could allow aggressive investment in wireless networks in the United States.",
+      "lead_paragraph": "The world’s largest technology investor is preparing to ramp up his bet on the Trump economy.",
+      "publication_date": "2017-03-03T10:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/03/business/dealbook/masayoshi-son-sprint-and-a-bet-on-the-trump-economy.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Nintendo Switch: Unconventional Hype for an Unusual Game Console",
+      "snippet": "The Japanese company has been whetting the appetites of gamers for months. Will it be enough to persuade them to buy its new device?",
+      "abstract": "The Japanese company has been whetting the appetites of gamers for months. Will it be enough to persuade them to buy its new device?",
+      "lead_paragraph": "Every few years, one of the big video game companies comes out with a new box that it wants consumers to make space for in their living rooms.",
+      "publication_date": "2017-03-03T14:56:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/03/03/technology/nintendo-switch-game-console.html",
+      "byline": "By Nick Wingfield"
+    }
+  ]
+}

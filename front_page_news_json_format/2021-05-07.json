@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-05-07",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Three Months After Coup, Myanmar Returns to the ‘Bad Old Days’",
+      "snippet": "Police are now stopping random people on the streets. A group of secret informers has reappeared. The killings continue, but so does the resistance.",
+      "abstract": "Police are now stopping random people on the streets. A group of secret informers has reappeared. The killings continue, but so does the resistance.",
+      "lead_paragraph": "Every night at 8, the stern-faced newscaster on Myanmar military TV announces the day’s hunted. The mug shots of those charged with political crimes appear onscreen. Among them are doctors, students, beauty queens, actors, reporters, even a pair of makeup bloggers.",
+      "publication_date": "2021-05-06T17:38:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/06/world/asia/myanmar-terror-military-coup.html",
+      "byline": "By Hannah Beech"
+    },
+    {
+      "headline": "Baltimore Vaccine Plant’s Troubles Ripple Across 3 Continents",
+      "snippet": "Millions of doses of Johnson & Johnson’s Covid-19 vaccine produced by Emergent BioSolutions have been held back in Europe, South Africa and Canada as a precaution.",
+      "abstract": "Millions of doses of Johnson & Johnson’s Covid-19 vaccine produced by Emergent BioSolutions have been held back in Europe, South Africa and Canada as a precaution.",
+      "lead_paragraph": "WASHINGTON — Quality-control problems at a Baltimore plant manufacturing Covid-19 vaccines have led health officials on three continents to pause the distribution of millions of Johnson & Johnson doses, as the troubles of a politically connected U.S. contractor ripple across the world.",
+      "publication_date": "2021-05-06T18:47:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/06/world/baltimore-vaccine-countries.html",
+      "byline": "By Chris Hamby, Sharon LaFraniere and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Meme Stocks and Archegos: Fed Calls Out Financial Weak Spots",
+      "snippet": "The Federal Reserve painted a picture of a generally stable financial system, but one bubbling with risk-taking that merits attention.",
+      "abstract": "The Federal Reserve painted a picture of a generally stable financial system, but one bubbling with risk-taking that merits attention.",
+      "lead_paragraph": "The Federal Reserve warned about financial stability risks emanating from frothy stocks and debt-laden hedge fund bets in its twice-annual report on potential vulnerabilities in the system, pointing to the rise of so-called meme stocks as one sign that risk-taking could be getting out of hand.",
+      "publication_date": "2021-05-06T20:29:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/06/business/economy/financial-stability-report.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Biden Aides Quietly Say His Tax Increases Would Help Charities",
+      "snippet": "The administration has been making the case to allies that to avoid paying the additional taxes the president has proposed, wealthy Americans would give more to nonprofits.",
+      "abstract": "The administration has been making the case to allies that to avoid paying the additional taxes the president has proposed, wealthy Americans would give more to nonprofits.",
+      "lead_paragraph": "WASHINGTON — President Biden’s plan to raise taxes on high earners and the wealthy is likely to entice more rich Americans to give property or other assets to charity before they die in order to avoid large tax bills, a top administration official told nonprofit leaders last week in a private conference call.",
+      "publication_date": "2021-05-06T21:46:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/06/business/biden-tax-increases.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Arizona Review of 2020 Vote Is Riddled With Flaws, Says Secretary of State",
+      "snippet": "Arizona’s top election official said the effort ordered by Republican state senators leaves ballots unattended and lacks basic safeguards to protect the process from manipulation.",
+      "abstract": "Arizona’s top election official said the effort ordered by Republican state senators leaves ballots unattended and lacks basic safeguards to protect the process from manipulation.",
+      "lead_paragraph": "Untrained citizens are trying to find traces of bamboo on last year’s ballots, seemingly trying to prove a conspiracy theory that the election was tainted by fake votes from Asia. Thousands of ballots are left unattended and unsecured. People with open partisan bias, including a man who was photographed on the Capitol steps during the Jan. 6 riot, are doing the recounting.",
+      "publication_date": "2021-05-06T23:27:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/06/us/arizona-vote-count-republicans.html",
+      "byline": "By Michael Wines"
+    },
+    {
+      "headline": "Health Advocate or Big Brother? Companies Weigh Requiring Vaccines.",
+      "snippet": "It is a delicate decision balancing employee health and personal privacy. Some companies are sidestepping the issue by offering incentives to those who get shots.",
+      "abstract": "It is a delicate decision balancing employee health and personal privacy. Some companies are sidestepping the issue by offering incentives to those who get shots.",
+      "lead_paragraph": "As American companies prepare to bring large numbers of workers back to the office in the coming months, executives are facing one of their most delicate pandemic-related decisions: Should they require employees to be vaccinated?",
+      "publication_date": "2021-05-07T07:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/07/business/companies-employees-vaccine-requirements.html",
+      "byline": "By Gillian Friedman and Lauren Hirsch"
+    },
+    {
+      "headline": "Job Growth Slowed in April, Muddling Expectations",
+      "snippet": "The increase of 266,000 fell far short of estimates, though strong economic growth is still forecast for the months ahead.",
+      "abstract": "The increase of 266,000 fell far short of estimates, though strong economic growth is still forecast for the months ahead.",
+      "lead_paragraph": "The American jobs machine tottered last month, confounding optimistic forecasts of the labor market’s recovery and sharpening debates over the impact of federal pandemic-related jobless benefits on the nation’s work force.",
+      "publication_date": "2021-05-07T08:33:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/07/business/economy/jobs-report-april-2021.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Despite Chip Shortage, Chip Innovation Is Booming",
+      "snippet": "While a variety of industries struggle with supplies, semiconductor experts say there are plenty of new ideas and, most surprising, start-ups.",
+      "abstract": "While a variety of industries struggle with supplies, semiconductor experts say there are plenty of new ideas and, most surprising, start-ups.",
+      "lead_paragraph": "OAKLAND, Calif. — A global shortage of semiconductors has cast a cloud over the plans of carmakers and other companies. But there’s a silver lining for Silicon Valley executives like Aart de Geus.",
+      "publication_date": "2021-05-07T09:00:29+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/07/technology/semiconductor-chip-innovation-boom.html",
+      "byline": "By Don Clark"
+    }
+  ]
+}

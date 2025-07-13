@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-01-25",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "‘Businesses Will Not Be Able to Hide’: Spy Satellites May Give Edge From Above",
+      "snippet": "With 2,200 observation satellites going into orbit in the next decade, start-ups are trying to use them to churn out financially useful information that could help companies track their rivals.",
+      "abstract": "With 2,200 observation satellites going into orbit in the next decade, start-ups are trying to use them to churn out financially useful information that could help companies track their rivals.",
+      "lead_paragraph": "SAN FRANCISCO — In October, the Chinese province of Guangdong — the manufacturing center on the southern coast that drives 12 percent of the country’s economy — stopped publishing a monthly report on the health of its local factories.",
+      "publication_date": "2019-01-24T16:57:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/24/technology/satellites-artificial-intelligence.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Collapse of Two Plans to End Shutdown Propels Urgent Negotiations",
+      "snippet": "The Senate first blocked Mr. Trump’s proposal to add $5.7 billion for his border wall to legislation to resume funding for the government, then turned back a Democratic measure that omitted the wall.",
+      "abstract": "The Senate first blocked Mr. Trump’s proposal to add $5.7 billion for his border wall to legislation to resume funding for the government, then turned back a Democratic measure that omitted the wall.",
+      "lead_paragraph": "WASHINGTON — A pair of measures to reopen the government — one with President Trump’s border wall, the other without it — failed in the Senate on Thursday, sending lawmakers from both parties into frenzied efforts to forge a compromise that could end the nearly six-week partial shutdown.",
+      "publication_date": "2019-01-24T17:01:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/24/us/politics/senate-vote-fails-shutdown.html",
+      "byline": "By Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "PG&E Is Cleared in Deadly Tubbs Fire of 2017",
+      "snippet": "The California utility’s shares soared on the finding, days after it said it planned to file for bankruptcy protection because of wildfire liabilities.",
+      "abstract": "The California utility’s shares soared on the finding, days after it said it planned to file for bankruptcy protection because of wildfire liabilities.",
+      "lead_paragraph": "LOS ANGELES — Pacific Gas and Electric Company, with billions of dollars of potential wildfire liabilities pushing it toward bankruptcy, has been cleared of responsibility for one giant 2017 fire in Northern California, brightening its financial outlook.",
+      "publication_date": "2019-01-24T21:34:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/24/business/energy-environment/pge-tubbs-fire.html",
+      "byline": "By Ivan Penn and Peter Eavis"
+    },
+    {
+      "headline": "Amazon Is Pushing Facial Technology That a Study Says Could Be Biased",
+      "snippet": "In new tests, Amazon’s system had more difficulty identifying the gender of female and darker-skinned faces than similar services from IBM and Microsoft.",
+      "abstract": "In new tests, Amazon’s system had more difficulty identifying the gender of female and darker-skinned faces than similar services from IBM and Microsoft.",
+      "lead_paragraph": "Over the last two years, Amazon has aggressively marketed its facial recognition technology to police departments and federal agencies as a service to help law enforcement identify suspects more quickly. It has done so as another tech giant, Microsoft, has called on Congress to regulate the technology, arguing that it is too risky for companies to oversee on their own.",
+      "publication_date": "2019-01-25T01:10:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/24/technology/amazon-facial-technology-study.html",
+      "byline": "By Natasha Singer"
+    },
+    {
+      "headline": "Nancy Pelosi, a Woman in Control, Is a Rival Who Flummoxes Trump",
+      "snippet": "In the past, when President Trump was challenged by powerful women, he appealed to their male bosses. Not so for Ms. Pelosi, who is her own boss.",
+      "abstract": "In the past, when President Trump was challenged by powerful women, he appealed to their male bosses. Not so for Ms. Pelosi, who is her own boss.",
+      "lead_paragraph": "WASHINGTON — When President Trump is battling a man, he tends to belittle his foe with nicknames like “Cryin’ Chuck” and “Low-energy Jeb.” When he is in a fight with a woman, he is known to lob insults like “horseface” and “ugly” and “dog.”",
+      "publication_date": "2019-01-25T01:58:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/24/us/politics/nancy-pelosi-donald-trump.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "A Nuclear Site Guard Accused Colleagues of Sexual Assault. Then She Was Fired.",
+      "snippet": "The accusations underscored an entrenched culture of discrimination and retaliation that guards said flourished under two contractors at a highly classified Energy Department site in Nevada.",
+      "abstract": "The accusations underscored an entrenched culture of discrimination and retaliation that guards said flourished under two contractors at a highly classified Energy Department site in Nevada.",
+      "lead_paragraph": "Smoke blinded the security guards inside a warehouse at a nuclear weapons facility in Nevada. Clangs and shouts filled the air.",
+      "publication_date": "2019-01-25T08:00:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/25/us/politics/department-of-energy-sexual-assault.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Indicting Roger Stone, Mueller Shows Link Between Trump Campaign and WikiLeaks",
+      "snippet": "The evidence was revealed in an indictment of Roger J. Stone Jr., a self-described dirty trickster and longtime adviser to President Trump.",
+      "abstract": "The evidence was revealed in an indictment of Roger J. Stone Jr., a self-described dirty trickster and longtime adviser to President Trump.",
+      "lead_paragraph": "WASHINGTON — The special counsel, Robert S. Mueller III, revealed on Friday the most direct link yet between parallel efforts by the Trump campaign and WikiLeaks to damage Hillary Clinton during the 2016 election using Democratic Party material stolen by Russians.",
+      "publication_date": "2019-01-25T11:27:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/25/us/politics/roger-stone-trump-mueller.html",
+      "byline": "By Mark Mazzetti, Eileen Sullivan and Maggie Haberman"
+    },
+    {
+      "headline": "Zuckerberg Plans to Integrate WhatsApp, Instagram and Facebook Messenger",
+      "snippet": "Facebook’s chief executive has asserted control over its sprawling divisions and mandated the social network’s messaging services be knitted together.",
+      "abstract": "Facebook’s chief executive has asserted control over its sprawling divisions and mandated the social network’s messaging services be knitted together.",
+      "lead_paragraph": "SAN FRANCISCO — Mark Zuckerberg, Facebook’s chief executive, plans to integrate the social network’s messaging services — WhatsApp, Instagram and Facebook Messenger — asserting his control over the company’s sprawling divisions at a time when its business has been battered by scandal.",
+      "publication_date": "2019-01-25T14:00:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/25/technology/facebook-instagram-whatsapp-messenger.html",
+      "byline": "By Mike Isaac"
+    }
+  ]
+}

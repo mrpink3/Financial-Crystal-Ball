@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-08-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "As Coding Boot Camps Close, the Field Faces a Reality Check",
+      "snippet": "Successful schools, analysts say, will increasingly be the ones that expand their programs to suit the changing needs of employers.",
+      "abstract": "Successful schools, analysts say, will increasingly be the ones that expand their programs to suit the changing needs of employers.",
+      "lead_paragraph": "In the last five years, dozens of schools have popped up offering an unusual promise: Even humanities graduates can learn how to code in a few months and join the high-paying digital economy. Students and their hopeful parents shelled out as much as $26,000 seeking to jump-start a career.",
+      "publication_date": "2017-08-24T17:05:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/24/technology/coding-boot-camps-close.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Amazon’s Play to Rattle Whole Foods Rivals: Cheaper Kale and Avocado",
+      "snippet": "Amazon said that starting Monday, Whole Foods will offer lower prices on a “selection of best-selling staples across its stores, with much more to come.”",
+      "abstract": "Amazon said that starting Monday, Whole Foods will offer lower prices on a “selection of best-selling staples across its stores, with much more to come.”",
+      "lead_paragraph": "SEATTLE — The era of Whole Paycheck, the derisive nickname for Whole Foods, may be drawing to a close. Amazon, which takes control of the upscale grocer on Monday, intends to slash prices the same day.",
+      "publication_date": "2017-08-24T19:05:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/24/technology/whole-foods-amazon-lower-prices-prime.html",
+      "byline": "By Nick Wingfield and David Gelles"
+    },
+    {
+      "headline": "Trump’s Afghan Gamble Now Rests on General He Doubted",
+      "snippet": "The U.S. president has empowered Gen. John W. Nicholson Jr., his top commander in Afghanistan, with new authorities — only after talking about firing him.",
+      "abstract": "The U.S. president has empowered Gen. John W. Nicholson Jr., his top commander in Afghanistan, with new authorities — only after talking about firing him.",
+      "lead_paragraph": "KABUL, Afghanistan — The commander in chief and his commander fighting the uphill war in Afghanistan have never met.",
+      "publication_date": "2017-08-25T00:57:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/24/world/asia/trump-afghanistan-general-john-nicholson-.html",
+      "byline": "By Mujib Mashal"
+    },
+    {
+      "headline": "If Janet Yellen Goes, the Fed’s Current Policy May Go With Her",
+      "snippet": "President Trump must soon decide whether to nominate Janet Yellen for a second term as Fed chairwoman, or to put a conservative in her place.",
+      "abstract": "President Trump must soon decide whether to nominate Janet Yellen for a second term as Fed chairwoman, or to put a conservative in her place.",
+      "lead_paragraph": "GRAND TETON NATIONAL PARK, Wyo. — Liberal activists who stage an annual protest in favor of lower interest rates at the Federal Reserve’s annual conference here are planning a different kind of demonstration this year. They plan to don “Yellen wigs” on Friday to demonstrate in support of Janet L. Yellen, the Fed chairwoman, whose first term ends in February.",
+      "publication_date": "2017-08-25T01:06:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/24/us/politics/if-janet-yellen-goes-the-feds-current-policy-may-go-with-her.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Samsung Verdict Sends a Tough New Message to South Korea Inc.",
+      "snippet": "A court’s conviction of Lee Jae-yong, heir to the Samsung fortune, suggests the country will no longer trade political impunity for economic growth.",
+      "abstract": "A court’s conviction of Lee Jae-yong, heir to the Samsung fortune, suggests the country will no longer trade political impunity for economic growth.",
+      "lead_paragraph": "SEOUL, South Korea — More than two decades ago, South Korean prosecutors indicted the chairman of the powerful Samsung conglomerate on charges of bribing the president. He was let off with a suspended sentence and then a presidential pardon.",
+      "publication_date": "2017-08-25T06:33:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/25/business/samsung-bribery-embezzlement-conviction-jay-lee-south-korea.html",
+      "byline": "By Choe Sang-Hun, Jeyup S. Kwaak and Paul Mozur"
+    },
+    {
+      "headline": "Far From Dixie, Outcry Grows Over a Wider Array of Monuments",
+      "snippet": "Christopher Columbus, a Philadelphia mayor, even a state song are targets of activists who some Democrats say can be used to caricature the left.",
+      "abstract": "Christopher Columbus, a Philadelphia mayor, even a state song are targets of activists who some Democrats say can be used to caricature the left.",
+      "lead_paragraph": "It began with calls to remove Confederate generals.",
+      "publication_date": "2017-08-25T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/25/us/monuments-confederacy-remove-rename.html",
+      "byline": "By Trip Gabriel"
+    },
+    {
+      "headline": "Trump Hotel at Night: Lobbyists, Cabinet Members, $60 Steaks",
+      "snippet": "In the first summer of the Trump administration, the Trump International Hotel has cemented its status as a place for supporters to curry favor with people in power.",
+      "abstract": "In the first summer of the Trump administration, the Trump International Hotel has cemented its status as a place for supporters to curry favor with people in power.",
+      "lead_paragraph": "WASHINGTON — It was nearing midnight at the Trump International Hotel, and the president’s son was eating macaroni and cheese.",
+      "publication_date": "2017-08-25T09:00:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/25/us/politics/trump-hotel-washington.html",
+      "byline": "By Katie Rogers"
+    },
+    {
+      "headline": "Gary Cohn, Trump’s Adviser, Said to Have Drafted Resignation Letter After Charlottesville",
+      "snippet": "The president’s chief economic adviser was anguished over Mr. Trump’s comments about violence in Charlottesville, but ultimately decided to remain in his job.",
+      "abstract": "The president’s chief economic adviser was anguished over Mr. Trump’s comments about violence in Charlottesville, but ultimately decided to remain in his job.",
+      "lead_paragraph": "Gary D. Cohn, the director of the White House Economic Council, wrote a resignation letter after President Trump blamed “both sides” in the deadly protest this month against a Charlottesville, Va., rally by white supremacists and neo-Nazis, according to three people familiar with the document.",
+      "publication_date": "2017-08-25T12:41:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/08/25/us/politics/gary-cohn-trump-charlottesville.html",
+      "byline": "By Kate Kelly and Maggie Haberman"
+    },
+    {
+      "headline": "Yellen Warns Against Erasing Regulations Made After Financial Crisis",
+      "snippet": "Janet Yellen, the Federal Reserve chairwoman, said Friday that stronger financial regulations have benefited the economy and should be preserved.",
+      "abstract": "Janet Yellen, the Federal Reserve chairwoman, said Friday that stronger financial regulations have benefited the economy and should be preserved.",
+      "lead_paragraph": "GRAND TETON NATIONAL PARK, Wyo. — Janet L. Yellen, the Federal Reserve chairwoman, delivered a strong rebuttal on Friday to Republican criticism that financial regulation is impeding economic growth.",
+      "publication_date": "2017-08-25T14:19:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/08/25/us/politics/yellen-warns-against-erasing-regulations-made-after-the-financial-crisis.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Shut Down the Government, and This Time, Investors Will Care",
+      "snippet": "Wall Street has come to take Washington’s disruptions in stride. But this week’s jitters were generated not by Congress but by the White House.",
+      "abstract": "Wall Street has come to take Washington’s disruptions in stride. But this week’s jitters were generated not by Congress but by the White House.",
+      "lead_paragraph": "“If we have to close down our government, we’re building that wall.”",
+      "publication_date": "2017-08-25T15:47:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2017/08/25/business/government-shutdown-investors.html",
+      "byline": "By Gretchen Morgenson"
+    }
+  ]
+}

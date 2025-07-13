@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2018-02-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "New Service, Same Old Equifax: Credit Locking App Freezes Up",
+      "snippet": "After a major breach last year, the credit rating agency promised an app that would make it easy — and free — to lock your credit. It didn’t work.",
+      "abstract": "After a major breach last year, the credit rating agency promised an app that would make it easy — and free — to lock your credit. It didn’t work.",
+      "lead_paragraph": "Equifax introduced a free consumer service Wednesday that allows people to lock access to their credit files from a mobile phone. It didn’t work.",
+      "publication_date": "2018-02-01T01:34:33+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/31/your-money/new-service-same-old-equifax-credit-locking-app-freezes-up.html",
+      "byline": "By Tara Siegel Bernard and Ron Lieber"
+    },
+    {
+      "headline": "Mueller Zeros In on Story Put Together About Trump Tower Meeting",
+      "snippet": "Robert S. Mueller III, the special counsel, has pressed witnesses about a statement hastily written last summer aboard Air Force One and wants to know more from President Trump.",
+      "abstract": "Robert S. Mueller III, the special counsel, has pressed witnesses about a statement hastily written last summer aboard Air Force One and wants to know more from President Trump.",
+      "lead_paragraph": "WASHINGTON — Aboard Air Force One on a flight home from Europe last July, President Trump and his advisers raced to cobble together a news release about a mysterious meeting at Trump Tower the previous summer between Russians and top Trump campaign officials. Rather than acknowledge the meeting’s intended purpose — to obtain political dirt about Hillary Clinton from the Russian government — the statement instead described the meeting as being about an obscure Russian adoption policy.",
+      "publication_date": "2018-02-01T01:51:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/31/us/politics/trump-russia-hope-hicks-mueller.html",
+      "byline": "By Jo Becker, Mark Mazzetti, Matt Apuzzo and Maggie Haberman"
+    },
+    {
+      "headline": "Trump’s Speech Leaves Two Sides Further Apart Than Ever on Immigration",
+      "snippet": "If the president believed his State of the Union address would bring the bipartisan agreement he says he seeks any closer, he received little encouragement on Wednesday.",
+      "abstract": "If the president believed his State of the Union address would bring the bipartisan agreement he says he seeks any closer, he received little encouragement on Wednesday.",
+      "lead_paragraph": "WASHINGTON — For years, immigration advocates have defined hundreds of thousands of young people brought to the country illegally as children by the sympathetic term “Dreamers.” Long irritated by the rhetorical branding, President Trump finally came up with his own rejoinder: “Americans are Dreamers, too.”",
+      "publication_date": "2018-02-01T02:03:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/31/us/politics/trump-state-of-the-union-immigration.html",
+      "byline": "By Michael D. Shear and Peter Baker"
+    },
+    {
+      "headline": "As Strongmen Steamroll Their Opponents, U.S. Is Silent",
+      "snippet": "Across the world, autocratic leaders are engaging in increasingly brazen behavior as they dispense with even a fig leaf of democratic practice.",
+      "abstract": "Across the world, autocratic leaders are engaging in increasingly brazen behavior as they dispense with even a fig leaf of democratic practice.",
+      "lead_paragraph": "CAIRO — When it comes to securing a second term in power, Egypt’s president is leaving little to chance.",
+      "publication_date": "2018-02-01T10:00:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/01/world/middleeast/trump-sisi-egypt-strongmen.html",
+      "byline": "By Declan Walsh"
+    },
+    {
+      "headline": "Trump Clears Way for Secret Memo’s Release",
+      "snippet": "The president’s decision not to object to the disclosure of the document pits him against some of his top law enforcement officials, who warned that releasing it put national security at risk.",
+      "abstract": "The president’s decision not to object to the disclosure of the document pits him against some of his top law enforcement officials, who warned that releasing it put national security at risk.",
+      "lead_paragraph": "WASHINGTON — The White House signaled on Thursday that President Trump would allow a secret memo written by Republican congressional aides to be made public, despite fears from some in the West Wing that it could prompt the resignation of the F.B.I. director, Christopher A. Wray, and lead to another crisis for the administration.",
+      "publication_date": "2018-02-01T15:43:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/01/us/politics/republicans-secret-memo-nunes.html",
+      "byline": "By Nicholas Fandos and Adam Goldman"
+    }
+  ]
+}

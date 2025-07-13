@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-11-10",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Moderna and U.S. at Odds Over Vaccine Patent Rights",
+      "snippet": "Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists.",
+      "abstract": "Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists.",
+      "lead_paragraph": "WASHINGTON — Moderna and the National Institutes of Health are in a bitter dispute over who deserves credit for inventing the central component of the company’s powerful coronavirus vaccine, a conflict that has broad implications for the vaccine’s long-term distribution and billions of dollars in future profits.",
+      "publication_date": "2021-11-09T19:32:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html",
+      "byline": "By Sheryl Gay Stolberg and Rebecca Robbins"
+    },
+    {
+      "headline": "Meta plans to remove thousands of sensitive ad-targeting categories.",
+      "snippet": "Ad buyers will no longer be able to use topics such as health, race or sexual orientation to target people with unwanted ads on Facebook or other Meta apps.",
+      "abstract": "Ad buyers will no longer be able to use topics such as health, race or sexual orientation to target people with unwanted ads on Facebook or other Meta apps.",
+      "lead_paragraph": "SAN FRANCISCO — Meta, the social media company formerly known as Facebook, said on Tuesday that it planned to eliminate advertisers’ ability to target people with promotions based on their interactions with content related to health, race and ethnicity, political affiliation, religion, sexual orientation and thousands of other topics.",
+      "publication_date": "2021-11-09T20:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/09/technology/meta-facebook-ad-targeting.html",
+      "byline": "By Mike Isaac and Tiffany Hsu"
+    },
+    {
+      "headline": "At the Willard and the White House, the Jan. 6 Panel Widens Its Net",
+      "snippet": "What went on at a five-star hotel near the White House the day before the riot could be a window into how a Trump-directed plot to upend the election ended in violence at the Capitol.",
+      "abstract": "What went on at a five-star hotel near the White House the day before the riot could be a window into how a Trump-directed plot to upend the election ended in violence at the Capitol.",
+      "lead_paragraph": "WASHINGTON — “We are essentially in a national emergency,” Michael T. Flynn declared on Jan. 5, during an interview with the internet conspiracy theorist Alex Jones recorded in a luxurious suite at the Willard Intercontinental Hotel near the White House.",
+      "publication_date": "2021-11-09T20:12:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html",
+      "byline": "By Luke Broadwater and Mark Mazzetti"
+    },
+    {
+      "headline": "The Vaccine Mandate Kicks In at 100 Employees. What If You’re at 98?",
+      "snippet": "For small businesses hovering just under the federal vaccination guidelines, navigating this period is tricky.",
+      "abstract": "For small businesses hovering just under the federal vaccination guidelines, navigating this period is tricky.",
+      "lead_paragraph": "Christie Thompson’s company, which sells and services semitrailers, is looking to fill a handful of open positions. But the challenge isn’t just finding qualified workers. Currently, 98 people work at the company. Adding two more employees would mean crossing the 100-person threshold that the Biden administration set as its standard for compliance with a new rule requiring large companies to mandate coronavirus vaccines.",
+      "publication_date": "2021-11-10T08:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/10/business/osha-vaccine-mandate-employers.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "In France, the People the Climate Summit Forgot",
+      "snippet": "In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising.",
+      "abstract": "In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising.",
+      "lead_paragraph": "MONTARGIS, France — Just 75 miles separate this provincial town from Paris, but if the capital is all about a renewable energy revolution, the talk here is of how it costs people way too much. ",
+      "publication_date": "2021-11-10T08:00:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html",
+      "byline": "By Roger Cohen"
+    },
+    {
+      "headline": "A Chastened Alibaba Tones Down Its Singles Day Retail Bonanza",
+      "snippet": "The Chinese e-commerce giant is updating its blockbuster shopping holiday for a humbler, more dutiful era in the country’s internet industry.",
+      "abstract": "The Chinese e-commerce giant is updating its blockbuster shopping holiday for a humbler, more dutiful era in the country’s internet industry.",
+      "lead_paragraph": "Singles Day used to be the biggest, most unabashed celebration of consumerism on earth: a 24-hour online retail extravaganza, kicking off with a confetti-filled gala and culminating in stupendous piles of riches for brands, celebrity pitchmen and Alibaba, the Chinese e-commerce titan at the center of it all.",
+      "publication_date": "2021-11-10T10:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/10/technology/china-alibaba-singles-day.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "Fastest Inflation in 31 Years Puts More Heat on Washington",
+      "snippet": "The Consumer Price Index rose 6.2 percent in October from a year earlier, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve.",
+      "abstract": "The Consumer Price Index rose 6.2 percent in October from a year earlier, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve.",
+      "lead_paragraph": "Consumer prices surged at the fastest pace in more than three decades in October as fuel costs picked up, supply chains remained under pressure and rents moved higher — worrying news for economic policymakers at the Federal Reserve and for the Biden White House.",
+      "publication_date": "2021-11-10T10:00:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

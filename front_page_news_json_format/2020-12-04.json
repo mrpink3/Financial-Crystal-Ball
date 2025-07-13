@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-12-04",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Justice Dept. Suit Says Facebook Discriminates Against U.S. Workers",
+      "snippet": "The complaint, which targets the company’s hiring of immigrants on temporary visas, opens a new front in Washington’s battle against Big Tech.",
+      "abstract": "The complaint, which targets the company’s hiring of immigrants on temporary visas, opens a new front in Washington’s battle against Big Tech.",
+      "lead_paragraph": "WASHINGTON — The Justice Department sued Facebook on Thursday, accusing it of being un-American by favoring foreign workers with visas over those from the United States, in a new push against tech companies in the waning days of the Trump administration.",
+      "publication_date": "2020-12-03T20:08:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/03/technology/facebook-hiring-discrimination-suit.html",
+      "byline": "By Cecilia Kang and Mike Isaac"
+    },
+    {
+      "headline": "Georgia Was a Big Win for Democrats. Black Women Did the Groundwork.",
+      "snippet": "Before the Democratic Party invested in Georgia, or President Trump and Joe Biden saw it as a battleground, Black political organizers devoted years of hard work to turning out voters.",
+      "abstract": "Before the Democratic Party invested in Georgia, or President Trump and Joe Biden saw it as a battleground, Black political organizers devoted years of hard work to turning out voters.",
+      "lead_paragraph": "RIVERDALE, Ga. — Decades before Joseph R. Biden Jr. flipped Georgia for the Democrats, Felicia Davis was a one-stop political organizing dynamo in Clayton County, canvassing for issues rather than candidates, for her community rather than a political party.",
+      "publication_date": "2020-12-03T22:04:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/03/us/politics/georgia-democrats-black-women.html",
+      "byline": "By Astead W. Herndon"
+    },
+    {
+      "headline": "Warner Bros. Says All 2021 Films Will Be Streamed Right Away",
+      "snippet": "Seventeen movies will each arrive in theaters and on HBO Max simultaneously, the biggest challenge yet to Hollywood’s traditional way of doing business.",
+      "abstract": "Seventeen movies will each arrive in theaters and on HBO Max simultaneously, the biggest challenge yet to Hollywood’s traditional way of doing business.",
+      "lead_paragraph": "LOS ANGELES — In a startling move that marked the biggest challenge yet to Hollywood’s traditional way of doing business, Warner Bros. announced on Thursday that 17 movies — its entire 2021 slate — would each arrive simultaneously in theaters and on its sibling streaming service, the underperforming HBO Max.",
+      "publication_date": "2020-12-03T22:48:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/03/business/media/warner-brothers-movies-hbo-max.html",
+      "byline": "By Brooks Barnes and Nicole Sperling"
+    },
+    {
+      "headline": "Google Researcher Says She Was Fired Over Paper Highlighting Bias in A.I.",
+      "snippet": "Timnit Gebru, one of the few Black women in her field, had voiced exasperation over the company’s response to efforts to increase minority hiring.",
+      "abstract": "Timnit Gebru, one of the few Black women in her field, had voiced exasperation over the company’s response to efforts to increase minority hiring.",
+      "lead_paragraph": "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems.",
+      "publication_date": "2020-12-03T23:01:41+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/03/technology/google-researcher-timnit-gebru.html",
+      "byline": "By Cade Metz and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "The Winds Have Shifted in Pandemic Aid Negotiations",
+      "snippet": "Speaker Nancy Pelosi and Senator Mitch McConnell, the majority leader, spoke on Thursday as Joe Biden’s victory and vaccine breakthroughs added momentum to a push for a stimulus deal.",
+      "abstract": "Speaker Nancy Pelosi and Senator Mitch McConnell, the majority leader, spoke on Thursday as Joe Biden’s victory and vaccine breakthroughs added momentum to a push for a stimulus deal.",
+      "lead_paragraph": "WASHINGTON — President-elect Joseph R. Biden Jr.’s victory and faster-than-expected breakthroughs on a coronavirus vaccine have shifted the dynamics of stimulus talks in Congress, leading to the first serious bipartisan negotiations in months and empowering rank-and-file lawmakers who have long agitated for a compromise.",
+      "publication_date": "2020-12-04T00:41:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/03/business/coronavirus-stimulus-bill.html",
+      "byline": "By Jim Tankersley, Emily Cochrane and Nicholas Fandos"
+    },
+    {
+      "headline": "California Will Impose Its Strongest Virus Measures Since the Spring",
+      "snippet": "Millions of people across Southern and Central California are likely to see outdoor dining shuttered, playgrounds roped off and hair salons closed within days.",
+      "abstract": "Millions of people across Southern and Central California are likely to see outdoor dining shuttered, playgrounds roped off and hair salons closed within days.",
+      "lead_paragraph": "LOS ANGELES — California, the first state to impose far-reaching lockdowns because of the coronavirus, announced on Thursday its strictest new measures since the earliest days of the pandemic in an effort to keep a surge in cases from overwhelming hospitals.",
+      "publication_date": "2020-12-04T01:07:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/03/us/california-stay-at-home-order.html",
+      "byline": "By Jill Cowan, Jack Healy and Thomas Fuller"
+    },
+    {
+      "headline": "E.U. Privacy Rule Would Rein In the Hunt for Online Child Sexual Abuse",
+      "snippet": "Regulators argue that while abuse imagery on the internet is abhorrent, unchecked scanning for it by tech companies could violate privacy rights. A showdown looms.",
+      "abstract": "Regulators argue that while abuse imagery on the internet is abhorrent, unchecked scanning for it by tech companies could violate privacy rights. A showdown looms.",
+      "lead_paragraph": "Privacy concerns in Europe have led to some of the world’s toughest restrictions on companies like Facebook and Google and the ways they monitor people online.",
+      "publication_date": "2020-12-04T05:05:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/04/technology/european-union-child-sexual-abuse.html",
+      "byline": "By Gabriel J.X. Dance and Adam Satariano"
+    },
+    {
+      "headline": "2 Hurricanes Devastated Central America. Will the Ruin Spur a Migration Wave?",
+      "snippet": "The storms displaced hundreds of thousands of people, creating a new class of refugees with more reason than ever to migrate north and setting up an early test for the incoming Biden administration.",
+      "abstract": "The storms displaced hundreds of thousands of people, creating a new class of refugees with more reason than ever to migrate north and setting up an early test for the incoming Biden administration.",
+      "lead_paragraph": "QUEJÁ, Guatemala — By the time they heard the slab of earth cracking off the mountain, it was already burying their neighbors. So the people of Quejá — the lucky ones — ran out of their homes with nothing, trudging barefoot through mud as tall as their children until they reached dry land.",
+      "publication_date": "2020-12-04T08:00:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/04/world/americas/guatemala-hurricanes-mudslide-migration.html",
+      "byline": "By Natalie Kitroeff and Daniele Volpe"
+    },
+    {
+      "headline": "In Blue States and Red, Pandemic Upends Public Services and Jobs",
+      "snippet": "As a standoff over federal aid persists, state and local governments are making deep budget cuts. “Everything’s going to slow down,” one official said.",
+      "abstract": "As a standoff over federal aid persists, state and local governments are making deep budget cuts. “Everything’s going to slow down,” one official said.",
+      "lead_paragraph": "The coronavirus pandemic has inflicted an economic battering on state and local governments, shrinking tax receipts by hundreds of billions of dollars. Now devastating budget cuts loom, threatening to cripple public services and pare work forces far beyond the 1.3 million jobs lost in eight months.",
+      "publication_date": "2020-12-04T08:00:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/04/business/economy/state-local-finances.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Why Melinda Gates Spends Time ‘Letting My Heart Break’",
+      "snippet": "One of the richest women in the world devoted decades to preparing for a pandemic.",
+      "abstract": "One of the richest women in the world devoted decades to preparing for a pandemic.",
+      "lead_paragraph": "As the valedictorian of her Dallas high school, Melinda Gates delivered a graduation speech that included a quote attributed to Ralph Waldo Emerson. “To know even one life has breathed easier because you have lived,” she told her classmates, “this is to have succeeded.”",
+      "publication_date": "2020-12-04T15:02:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/12/04/business/melinda-gates-interview-corner-office.html",
+      "byline": "By David Gelles"
+    }
+  ]
+}

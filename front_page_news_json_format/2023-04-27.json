@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-04-27",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Man vs. Mouse: Ron DeSantis Finds Taking On Disney Is a Dicey Business",
+      "snippet": "Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.",
+      "abstract": "Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.",
+      "lead_paragraph": "When Gov. Ron DeSantis of Florida went to war against Disney over what he labels its “woke” corporate sensibility and its criticism of state policies, Tim Wildmon was cheering from the sidelines.",
+      "publication_date": "2023-04-26T16:33:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/26/us/politics/desantis-disney-republicans.html",
+      "byline": "By Charles Homans"
+    },
+    {
+      "headline": "Meta Returns to Growth After Struggling With Falling Sales",
+      "snippet": "The owner of Facebook and Instagram reported a 3 percent revenue increase in the latest quarter, even as spending rose and profits fell.",
+      "abstract": "The owner of Facebook and Instagram reported a 3 percent revenue increase in the latest quarter, even as spending rose and profits fell.",
+      "lead_paragraph": "The debate over whether Meta is in decline may become quieted, at least for now.",
+      "publication_date": "2023-04-26T20:36:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/26/technology/meta-quarterly-earnings.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Tweets Become Harder to Believe as Labels Change Meaning",
+      "snippet": "The elimination of check marks that helped authenticate accounts has convulsed a platform that once seemed indispensable for following breaking news.",
+      "abstract": "The elimination of check marks that helped authenticate accounts has convulsed a platform that once seemed indispensable for following breaking news.",
+      "lead_paragraph": "In the 24 hours after Twitter last week eliminated the blue check mark that historically served as a means of identifying public agencies, at least 11 new accounts began impersonating the Los Angeles Police Department.",
+      "publication_date": "2023-04-26T21:23:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/26/technology/twitter-verification-problems.html",
+      "byline": "By Steven Lee Myers, Sheera Frenkel and Tiffany Hsu"
+    },
+    {
+      "headline": "First Republic Lurches as It Struggles to Find a Savior",
+      "snippet": "The bank is sitting on big losses and paying more to borrow money than it is making on its loans to homeowners and businesses.",
+      "abstract": "The bank is sitting on big losses and paying more to borrow money than it is making on its loans to homeowners and businesses.",
+      "lead_paragraph": "First Republic Bank is sliding dangerously into a financial maelstrom, one from which an exit appears increasingly difficult.",
+      "publication_date": "2023-04-26T22:47:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/26/business/first-republic-bank.html",
+      "byline": "By Rob Copeland and Maureen Farrell"
+    },
+    {
+      "headline": "On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox",
+      "snippet": "Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.",
+      "abstract": "Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.",
+      "lead_paragraph": "The day before Dominion Voting Systems’ defamation trial against Fox News was set to begin in a Delaware courthouse, the Fox board of directors and top executives made a startling discovery that helped lead to the breaking point between the network and Tucker Carlson, one of its top stars.",
+      "publication_date": "2023-04-26T22:53:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/26/business/media/tucker-carlson-dominion-fox-news.html",
+      "byline": "By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt"
+    },
+    {
+      "headline": "Elon Musk Ramps Up A.I. Efforts, Even as He Warns of Dangers",
+      "snippet": "The billionaire plans to compete with OpenAI, the ChatGPT developer he helped found, while calling out the potential harms of artificial intelligence.",
+      "abstract": "The billionaire plans to compete with OpenAI, the ChatGPT developer he helped found, while calling out the potential harms of artificial intelligence.",
+      "lead_paragraph": "In December, Elon Musk became angry about the development of artificial intelligence and put his foot down.",
+      "publication_date": "2023-04-27T09:00:23+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/27/technology/elon-musk-ai-openai.html",
+      "byline": "By Cade Metz, Ryan Mac and Kate Conger"
+    },
+    {
+      "headline": "U.S. Economy Continues to Grow, but More Slowly",
+      "snippet": "Gross domestic product increased 1.1 percent in the first quarter as consumer spending remained robust despite higher interest rates.",
+      "abstract": "Gross domestic product increased 1.1 percent in the first quarter as consumer spending remained robust despite higher interest rates.",
+      "lead_paragraph": "The housing market is slowing. Businesses are pulling back on hiring and investment. But American consumers are keeping the economy out of a recession — at least for now.",
+      "publication_date": "2023-04-27T09:00:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/27/business/economy/gdp-q1-economy.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "As Regulators Block Tech Deals, They Increasingly Look to the Future",
+      "snippet": "British regulators cited the newness of the cloud gaming field to block Microsoft’s $69 billion acquisition of Activision, a shift in antitrust strategy.",
+      "abstract": "British regulators cited the newness of the cloud gaming field to block Microsoft’s $69 billion acquisition of Activision, a shift in antitrust strategy.",
+      "lead_paragraph": "As companies like Google and Facebook grew into giants in the early 21st century, regulators chose largely not to interfere in the still-young market for online services.",
+      "publication_date": "2023-04-27T09:00:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/27/technology/regulation-tech-microsoft-activision.html",
+      "byline": "By David McCabe and Kellen Browning"
+    },
+    {
+      "headline": "Inflation Is Still High. What’s Driving It Has Changed.",
+      "snippet": "Two years ago, high inflation was about supply shortages and pricier goods. Then it was about war in Ukraine and energy. These days, services are key.",
+      "abstract": "Two years ago, high inflation was about supply shortages and pricier goods. Then it was about war in Ukraine and energy. These days, services are key.",
+      "lead_paragraph": "America is now two years into abnormally high inflation — and while the nation appears to be past the worst phase of the biggest spike in price increases in half a century, the road back to normal is a long and uncertain one.",
+      "publication_date": "2023-04-27T09:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/27/business/economy/what-causes-inflation.html",
+      "byline": "By Jeanna Smialek and Christine Zhang"
+    }
+  ]
+}

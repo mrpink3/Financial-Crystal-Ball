@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2022-03-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Biden says Putin ‘badly miscalculated’ in invading Ukraine.",
+      "snippet": "President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe.",
+      "abstract": "President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe.",
+      "lead_paragraph": "WASHINGTON — President Biden vowed on Tuesday to make President Vladimir V. Putin of Russia “pay a price” for invading Ukraine, seeking to rally the world as Moscow’s forces rained down missiles on Ukrainian cities and prepared to lay siege to the capital of Kyiv.",
+      "publication_date": "2022-03-01T16:36:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Ukrainian Invasion Adds to Chaos for Global Supply Chains",
+      "snippet": "Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions.",
+      "abstract": "Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions.",
+      "lead_paragraph": "WASHINGTON — The Russian invasion of Ukraine has rattled global supply chains that are still in disarray from the pandemic, adding to surging costs, prolonged deliveries and other challenges for companies trying to move goods around the world.",
+      "publication_date": "2022-03-01T16:49:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Russian Oil Not Worth the Trouble, Some Traders Conclude",
+      "snippet": "European buyers, shippers, banks and insurers have grown leery of doing business with Russia in recent days, even at deep discounts.",
+      "abstract": "European buyers, shippers, banks and insurers have grown leery of doing business with Russia in recent days, even at deep discounts.",
+      "lead_paragraph": "HOUSTON — The United States and the European Union have been unwilling to put sanctions on Russian energy exports in response to the country’s invasion of Ukraine. But some oil traders appear to have concluded that buying oil from Russia is just not worth the trouble.",
+      "publication_date": "2022-03-01T21:31:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Ukraine War Sets Off Europe’s Fastest Migration in Decades",
+      "snippet": "At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s.",
+      "abstract": "At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s.",
+      "lead_paragraph": "ON THE UKRAINIAN-MOLDOVAN BORDER — The war in Ukraine has set off the fastest mass migration in Europe in at least three decades, prompting comparisons with the Balkan wars of the 1990s and providing echoes of the vast population displacement that followed World War II.",
+      "publication_date": "2022-03-01T21:45:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy",
+      "snippet": "Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles.",
+      "abstract": "Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles.",
+      "lead_paragraph": "WASHINGTON — When Russia seized Crimea in 2014, President Vladimir V. Putin was so worried about Russian casualty figures coming to light that authorities accosted journalists who tried to cover funerals of some of the 400 troops killed during that one-month campaign.",
+      "publication_date": "2022-03-01T22:42:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html",
+      "byline": "By Helene Cooper and Eric Schmitt"
+    },
+    {
+      "headline": "Spurning Rebukes, Russia Escalates Attack on Ukraine as Refugee Ranks Swell",
+      "snippet": "There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor.",
+      "abstract": "There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor.",
+      "lead_paragraph": "KYIV, Ukraine — Brushing aside international outrage, Russia widened its assault deep inside Ukraine on Tuesday, bombing civilian areas in the two biggest cities, amassing a miles-long convoy near the capital’s doorstep and warning an outside world intent on economic reprisals not to go too far.",
+      "publication_date": "2022-03-02T00:42:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html",
+      "byline": "By Andrew E. Kramer, Valerie Hopkins and Nick Cumming-Bruce"
+    },
+    {
+      "headline": "Millions for Crypto Start-Ups, No Real Names Necessary",
+      "snippet": "Investors give money to pseudonymous developers. Venture capitalists back founders without learning their real names. What happens when they need to know?",
+      "abstract": "Investors give money to pseudonymous developers. Venture capitalists back founders without learning their real names. What happens when they need to know?",
+      "lead_paragraph": "For months, cryptocurrency enthusiasts poured hundreds of millions of dollars into a project called Wonderland, which claimed to provide a system of exchange for the murky world of decentralized finance.",
+      "publication_date": "2022-03-02T10:00:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "As oil soars, OPEC and its allies decline to offer relief.",
+      "snippet": "The oil cartel known as OPEC Plus said it would continue the strategy agreed to in July, rubber-stamping a 400,000-barrel-a-day production increase for April.",
+      "abstract": "The oil cartel known as OPEC Plus said it would continue the strategy agreed to in July, rubber-stamping a 400,000-barrel-a-day production increase for April.",
+      "lead_paragraph": "With the price of a barrel of oil soaring, the group of oil producers known as OPEC Plus declined to take steps to cool the market at its monthly meeting on Wednesday.",
+      "publication_date": "2022-03-02T11:55:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/02/business/oil-prices-opec.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty",
+      "snippet": "Jerome Powell, the Federal Reserve chair, said he would support a quarter-point increase at the March meeting.",
+      "abstract": "Jerome Powell, the Federal Reserve chair, said he would support a quarter-point increase at the March meeting.",
+      "lead_paragraph": "Jerome H. Powell, the Federal Reserve chair, told lawmakers on Wednesday that the central bank is poised to lift interest rates at its meeting this month as it tries to cool down high inflation — saying that while Russia’s invasion of Ukraine is ramping up economic uncertainty, it isn’t yet shaking the Fed off its course.",
+      "publication_date": "2022-03-02T13:30:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm",
+      "snippet": "Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them.",
+      "abstract": "Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them.",
+      "lead_paragraph": "PODBORSKO, Poland — Scattered around the forest in Poland like archaeological ruins, the crumbling concrete bunkers for decades stored Soviet nuclear warheads. Today, they store only memories — deeply painful for Poland, joyous for the Kremlin — of the vanished empire that President Vladimir V. Putin wants to rebuild, starting with his war in Ukraine.",
+      "publication_date": "2022-03-02T14:04:52+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html",
+      "byline": "By Andrew Higgins"
+    }
+  ]
+}

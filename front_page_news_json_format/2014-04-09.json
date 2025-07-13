@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2014-04-09",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Banks Ordered to Add Capital to Limit Risks",
+      "snippet": "The requirement could force the eight biggest banks in the United States to find as much as an additional $68 billion to put their operations on firmer financial footing, according to regulators’ estimates.",
+      "abstract": "The requirement could force the eight biggest banks in the United States to find as much as an additional $68 billion to put their operations on firmer financial footing, according to regulators’ estimates.",
+      "lead_paragraph": "Updated, 9:08 p.m. | Federal regulators on Tuesday approved a simple rule that could do more to rein in Wall Street than most other parts of a sweeping overhaul that has descended on the biggest banks since the financial crisis.",
+      "publication_date": "2014-04-08T18:30:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://dealbook.nytimes.com/2014/04/08/regulators-set-to-approve-new-capital-rule/",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Experts Find a Door Ajar in an Internet Security Method Thought Safe",
+      "snippet": "The tiny padlock next to web addresses that promised to protect sensitive information is broken, a team of security researchers has discovered. Experts are examining how best to secure their users’ confidential data.",
+      "abstract": "The tiny padlock next to web addresses that promised to protect sensitive information is broken, a team of security researchers has discovered. Experts are examining how best to secure their users’ confidential data.",
+      "lead_paragraph": " Updated | A flaw has been discovered in one of the Internet’s key security methods, potentially forcing a wide swath of websites to make changes to protect the security of consumers.",
+      "publication_date": "2014-04-08T21:08:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://bits.blogs.nytimes.com/2014/04/08/flaw-found-in-key-method-for-protecting-data-on-the-internet/",
+      "byline": "By Nicole Perlroth"
+    },
+    {
+      "headline": "China’s Embrace of Foreign Cars",
+      "snippet": "Multinational corporations are clawing market share from Chinese brands in their home market. In response, China’s automakers are pushing to preserve protectionist policies.",
+      "abstract": "Multinational corporations are clawing market share from Chinese brands in their home market. In response, China’s automakers are pushing to preserve protectionist policies.",
+      "lead_paragraph": "CHONGQING, China — For more than a decade, Chinese automakers have been talking about starting large-scale exports to North America and Europe, prompting periodic worries in the West that companies like General Motors, Ford and Volkswagen might be crippled by Chinese competition the way they were by Japanese imports a generation ago.",
+      "publication_date": "2014-04-09T00:59:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/09/business/international/chinas-embrace-of-foreign-cars.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "For Obama Presidency, Lyndon Johnson Looms Large",
+      "snippet": "The 50th anniversary of the Civil Rights Act is a painful reminder to President Obama that Lyndon B. Johnson might have been the last president able to push through such sweeping legislation.",
+      "abstract": "The 50th anniversary of the Civil Rights Act is a painful reminder to President Obama that Lyndon B. Johnson might have been the last president able to push through such sweeping legislation.",
+      "lead_paragraph": "WASHINGTON — Two days before joining other presidents in Texas to commemorate the 50th anniversary of the Civil Rights Act, President Obama tackled enduring inequality himself on Tuesday, in this case economic disparity based on gender.",
+      "publication_date": "2014-04-09T01:33:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/09/us/politics/for-obama-presidency-lyndon-b-johnson-looms-large.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "In New Tack, I.M.F. Aims at Income Inequality",
+      "snippet": "The International Monetary Fund has been moving away from its single-minded focus on spending cuts, and broadening its scope.",
+      "abstract": "The International Monetary Fund has been moving away from its single-minded focus on spending cuts, and broadening its scope.",
+      "lead_paragraph": "What happened to the I.M.F.?",
+      "publication_date": "2014-04-09T01:56:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/09/business/economy/in-new-tack-imf-aims-at-income-inequality.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Study Finds Sicklier Enrollees in Earliest Stage of Health Law",
+      "snippet": "The review suggests that the first to sign up through the new insurance marketplaces were more likely to face serious health problems than those who get coverage through their employer.",
+      "abstract": "The review suggests that the first to sign up through the new insurance marketplaces were more likely to face serious health problems than those who get coverage through their employer.",
+      "lead_paragraph": "People who signed up early for insurance through the new marketplaces were more likely to be prescribed drugs to treat pain, depression and H.I.V. and were less likely to need contraceptives, according to a new study that provides a much-anticipated look at the population that signed up for coverage under the new health care law.",
+      "publication_date": "2014-04-09T04:02:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/09/business/study-looks-at-earliest-health-law-enrollees.html",
+      "byline": "By Katie Thomas"
+    },
+    {
+      "headline": "Sliver of Medicare Doctors Get Big Share of Payouts",
+      "snippet": "Some doctors who take Medicare received millions of dollars each in a single year, according to newly released data that provides an unprecedented look at the practice of medicine in the United States.",
+      "abstract": "Some doctors who take Medicare received millions of dollars each in a single year, according to newly released data that provides an unprecedented look at the practice of medicine in the United States.",
+      "lead_paragraph": "A tiny fraction of the 880,000 doctors and other health care providers who take Medicare accounted for nearly a quarter of the roughly $77 billion paid out to them under the federal program, receiving millions of dollars each in some cases in a single year, according to the most detailed data ever released in Medicare’s nearly 50-year history.",
+      "publication_date": "2014-04-09T04:08:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/09/business/sliver-of-medicare-doctors-get-big-share-of-payouts.html",
+      "byline": "By Reed Abelson and Sarah Cohen"
+    },
+    {
+      "headline": "Political Ties of Top Billers for Medicare",
+      "snippet": "Two Florida doctors who received the nation’s highest Medicare reimbursements in 2012 are both major contributors to Democratic Party causes.",
+      "abstract": "Two Florida doctors who received the nation’s highest Medicare reimbursements in 2012 are both major contributors to Democratic Party causes.",
+      "lead_paragraph": "MIAMI — Two Florida doctors who received the nation’s highest Medicare reimbursements in 2012 are both major contributors to Democratic Party causes, and they have turned to the political system in recent years to defend themselves against suspicions that they may have submitted fraudulent or excessive charges to the federal government.",
+      "publication_date": "2014-04-09T05:36:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/10/business/doctor-with-big-medicare-billings-is-no-stranger-to-scrutiny.html",
+      "byline": "By Frances Robles and Eric Lipton"
+    },
+    {
+      "headline": "Gasps in Court as Prosecution Prods Pistorius",
+      "snippet": "While cross-examining the athlete Oscar Pistorius, on trial for his girlfriend’s death, the prosecutor displayed a photograph of her bloodied head and all but ordered the defendant to look.",
+      "abstract": "While cross-examining the athlete Oscar Pistorius, on trial for his girlfriend’s death, the prosecutor displayed a photograph of her bloodied head and all but ordered the defendant to look.",
+      "lead_paragraph": "PRETORIA, South Africa — The prosecutor in Oscar Pistorius’s murder trial, Gerrie Nel, had just begun his cross-examination, and he was doing everything he could to goad Mr. Pistorius into losing his composure and his temper.",
+      "publication_date": "2014-04-09T08:50:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/04/10/world/africa/oscar-pistorius-murder-trial.html",
+      "byline": "By Sarah Lyall"
+    },
+    {
+      "headline": "Greece Dives Back Into the Bond Market",
+      "snippet": "The plan to sell the first long-term bonds in four years is a symbolic turnaround for Greece, even if legions of jobless Greeks are not cheering.",
+      "abstract": "The plan to sell the first long-term bonds in four years is a symbolic turnaround for Greece, even if legions of jobless Greeks are not cheering.",
+      "lead_paragraph": "ATHENS — Europe’s leaders have been preaching austerity for years, arguing that only deep budget cuts will revive the economy and inspire the necessary confidence among investors.",
+      "publication_date": "2014-04-09T13:21:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/10/business/international/greece-dives-back-into-the-bond-market.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Senate Panel Expresses Caution on Merger of Cable Giants",
+      "snippet": "The judiciary panel expressed concern over higher costs for consumers if a merger with Time Warner Cable were approved, but a Comcast executive downplayed the likelihood.",
+      "abstract": "The judiciary panel expressed concern over higher costs for consumers if a merger with Time Warner Cable were approved, but a Comcast executive downplayed the likelihood.",
+      "lead_paragraph": "WASHINGTON — Members of the Senate Judiciary Committee expressed concern on Wednesday that the proposed $45 billion merger of Comcast and Time Warner Cable would raise the prices consumers pay for cable television and high-speed Internet service while leaving them with fewer choices for video programming. ",
+      "publication_date": "2014-04-09T14:48:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/04/10/business/media/senate-committee-begins-its-review-of-comcast-deal.html",
+      "byline": "By Edward Wyatt"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2018-11-02",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Trump’s Nationalism Is Breaking Point for Some Suburban Voters, Risking G.O.P. Coalition",
+      "snippet": "Educated, prosperous whites repelled by Mr. Trump’s strident language on race and gender are turning away from Republicanism, a boon for Democrats.",
+      "abstract": "Educated, prosperous whites repelled by Mr. Trump’s strident language on race and gender are turning away from Republicanism, a boon for Democrats.",
+      "lead_paragraph": "HOUSTON — Two years ago, the presidential election hinged in large part on a rightward shift among working-class whites who deserted Democrats.",
+      "publication_date": "2018-11-01T16:24:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/01/us/politics/republicans-trump-house.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Despite Stigma of Khashoggi Killing, Crown Prince Is Seen as Retaining Power",
+      "snippet": "The Trump administration is convinced Saudi Crown Prince Mohammed will ride out the backlash over the killing, according to officials familiar with the matter.",
+      "abstract": "The Trump administration is convinced Saudi Crown Prince Mohammed will ride out the backlash over the killing, according to officials familiar with the matter.",
+      "lead_paragraph": "LONDON — A month after the killing of the Saudi dissident Jamal Khashoggi, the growing international consensus that Crown Prince Mohammed bin Salman was behind it has done almost nothing to weaken his grip on power over the kingdom.",
+      "publication_date": "2018-11-01T16:49:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/01/world/middleeast/with-saudi-prince-holding-on-to-power-us-seen-standing-by-him.html",
+      "byline": "By David D. Kirkpatrick and Ben Hubbard"
+    },
+    {
+      "headline": "Roger Stone Sold Himself to Trump’s Campaign as a WikiLeaks Pipeline. Was He?",
+      "snippet": "The special counsel is investigating whether Mr. Stone, a self-described “dirty trickster,” knew in advance about email releases damaging to Hillary Clinton’s campaign or was merely hyping himself.",
+      "abstract": "The special counsel is investigating whether Mr. Stone, a self-described “dirty trickster,” knew in advance about email releases damaging to Hillary Clinton’s campaign or was merely hyping himself.",
+      "lead_paragraph": "WASHINGTON — When the WikiLeaks founder, Julian Assange, appeared on a video link from Europe a month before the 2016 presidential election and vaguely promised to release a flood of purloined documents related to the race, the head of Donald J. Trump’s campaign, Stephen K. Bannon, was interested.",
+      "publication_date": "2018-11-01T17:36:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/01/us/politics/roger-stone-trump-campaign-mueller-wikileaks.html",
+      "byline": "By Sharon LaFraniere, Michael S. Schmidt, Maggie Haberman and Danny Hakim"
+    },
+    {
+      "headline": "Start-Ups Ask, ‘Are We Making Money for Saudi Arabia?’",
+      "snippet": "Following the money isn’t easy in the opaque world of venture capital.",
+      "abstract": "Following the money isn’t easy in the opaque world of venture capital.",
+      "lead_paragraph": "SAN FRANCISCO — When John Vrionis and Jyoti Bansal set out to raise money this year for their first venture capital fund, Unusual Ventures, industry peers advised them to go after the easy money — sovereign wealth funds like those managed by Saudi Arabia and Abu Dhabi, which have become major investors in Silicon Valley.",
+      "publication_date": "2018-11-01T18:28:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/01/technology/start-ups-venture-capital-saudi-arabia.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "As Midterm Vote Nears, Trump Reprises a Favorite Message: Fear Immigrants",
+      "snippet": "Trying to shift the conversation from pipe bombs and the synagogue massacre, President Trump has fully embraced an anti-immigrant message that he hopes will motivate voters to support Republicans.",
+      "abstract": "Trying to shift the conversation from pipe bombs and the synagogue massacre, President Trump has fully embraced an anti-immigrant message that he hopes will motivate voters to support Republicans.",
+      "lead_paragraph": "WASHINGTON — President Trump’s closing argument is now clear: Build tent cities for migrants. End birthright citizenship. Fear the caravan. Send active-duty troops to the border. Refuse asylum.",
+      "publication_date": "2018-11-01T18:29:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/01/us/politics/trump-immigration.html",
+      "byline": "By Michael D. Shear and Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "A Cryptocurrency Millionaire Wants to Build a Utopia in Nevada",
+      "snippet": "A man spent millions on an enormous plot of land near Reno. Now he wants to build a community based on the blockchain technology introduced by Bitcoin.",
+      "abstract": "A man spent millions on an enormous plot of land near Reno. Now he wants to build a community based on the blockchain technology introduced by Bitcoin.",
+      "lead_paragraph": "STOREY COUNTY, Nev. — An enormous plot of land in the Nevada desert — bigger than nearby Reno — has been the subject of local intrigue since a company with no history, Blockchains L.L.C., bought it for $170 million in cash this year.",
+      "publication_date": "2018-11-01T19:30:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/01/technology/nevada-bitcoin-blockchain-society.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Bitcoin’s ‘First Felon’ Faces More Legal Trouble",
+      "snippet": "Charlie Shrem went to prison in 2015 after he pleaded guilty to helping people buy drugs online. Now he’s being sued by the Winklevoss twins.",
+      "abstract": "Charlie Shrem went to prison in 2015 after he pleaded guilty to helping people buy drugs online. Now he’s being sued by the Winklevoss twins.",
+      "lead_paragraph": "SAN FRANCISCO — Over the last year, Charlie Shrem, a 28-year-old Bitcoin investor, has bought two Maseratis, two powerboats — one of them 32 feet long — and a $2 million house in Florida, along with smaller pieces of real estate.",
+      "publication_date": "2018-11-02T09:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/11/02/technology/bitcoin-charlie-shrem-winklevoss-twins.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "U.S. Added 250,000 Jobs in October; Unemployment at 3.7%",
+      "snippet": "The last official snapshot of the economy before Americans vote on Tuesday offered another reminder of the labor market’s persistent strength.",
+      "abstract": "The last official snapshot of the economy before Americans vote on Tuesday offered another reminder of the labor market’s persistent strength.",
+      "lead_paragraph": "The last official snapshot of the economy before Americans vote on Tuesday offered another reminder of the labor market’s persistent strength. Hiring is up. Wages are up. The total number of workers and job searchers is up.",
+      "publication_date": "2018-11-02T09:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/11/02/business/economy/jobs-report.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

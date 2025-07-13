@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2021-09-10",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "The Justice Dept. sues Texas over its new restrictive abortion law.",
+      "snippet": "The move is the first major step by the Biden administration to confront the new law, the nation’s most restrictive in terms of abortion access.",
+      "abstract": "The move is the first major step by the Biden administration to confront the new law, the nation’s most restrictive in terms of abortion access.",
+      "lead_paragraph": "The Justice Department sued Texas on Thursday over its recently enacted law that prohibits nearly all abortions in the state, the first significant step by the Biden administration to fight the nation’s most restrictive ban on abortion and a move that could once again put the statute before the Supreme Court.",
+      "publication_date": "2021-09-09T19:06:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/09/us/politics/texas-abortion-law-justice-department-lawsuit.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Biden Asks OSHA to Order Vaccine Mandates at Large Employers",
+      "snippet": "The agency is expected to issue an emergency temporary standard to carry out the requirement, which will affect more than 80 million workers.",
+      "abstract": "The agency is expected to issue an emergency temporary standard to carry out the requirement, which will affect more than 80 million workers.",
+      "lead_paragraph": "New federal safety regulations that call for businesses with more than 100 workers to require vaccinations against the coronavirus will affirm mandates already in place at many companies and give cover to employers that had yet to decide.",
+      "publication_date": "2021-09-09T20:06:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/09/business/osha-vaccine-biden-mandate.html",
+      "byline": "By Lauren Hirsch"
+    },
+    {
+      "headline": "Fed Officials’ Trading Draws Outcry, and Fuels Calls for Accountability",
+      "snippet": "Central bank regional presidents traded securities in markets in which Fed choices mattered in 2020. Here’s why critics find that troubling.",
+      "abstract": "Central bank regional presidents traded securities in markets in which Fed choices mattered in 2020. Here’s why critics find that troubling.",
+      "lead_paragraph": "Federal Reserve officials traded stocks and other securities in 2020, a year in which the central bank took emergency steps to prop up financial markets and prevent their collapse — raising questions about whether the Fed’s ethics standards have become too lax as its role has vastly expanded.",
+      "publication_date": "2021-09-09T20:52:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/09/business/economy/fed-stock-trading.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "First Flight From Kabul Is Hailed as Positive Step Amid Troubling Signs",
+      "snippet": "A passenger jet’s departure on Thursday was the first foreign flight out of Afghanistan since the U.S. evacuation ended. But thousands who want to leave remain stuck.",
+      "abstract": "A passenger jet’s departure on Thursday was the first foreign flight out of Afghanistan since the U.S. evacuation ended. But thousands who want to leave remain stuck.",
+      "lead_paragraph": "KABUL, Afghanistan — Ten days after the chaotic evacuation of Afghanistan came to an end, a lone jetliner lifted off from Kabul’s airport on Thursday, the first international passenger flight since American forces ended their 20-year presence in the country.",
+      "publication_date": "2021-09-09T23:07:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/09/world/asia/kabul-airport-qatar.html",
+      "byline": "By Victor J. Blue, Sami Sahak, Lara Jakes and Eric Nagourney"
+    },
+    {
+      "headline": "Biden Mandates Vaccines for Workers, Saying, ‘Our Patience Is Wearing Thin’",
+      "snippet": "Initially reluctant to enact mandates, the president is now moving aggressively to require vaccination as the Delta variant races across the country.",
+      "abstract": "Initially reluctant to enact mandates, the president is now moving aggressively to require vaccination as the Delta variant races across the country.",
+      "lead_paragraph": "WASHINGTON — President Biden on Thursday used the full force of his presidency to push two-thirds of American workers to be vaccinated against the coronavirus, reaching into the private sector to mandate that all companies with more than 100 workers require vaccination or weekly testing.",
+      "publication_date": "2021-09-09T23:39:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/09/us/politics/biden-mandates-vaccines.html",
+      "byline": "By Katie Rogers and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Biden’s New Vaccine Push Is a Fight for the U.S. Economy",
+      "snippet": "The effort reflects the continuing and evolving threat the coronavirus pandemic poses to the economic recovery.",
+      "abstract": "The effort reflects the continuing and evolving threat the coronavirus pandemic poses to the economic recovery.",
+      "lead_paragraph": "WASHINGTON — President Biden’s aggressive move to expand the number of vaccinated Americans and halt the spread of the Delta variant is not just an effort to save lives. It is also an attempt to counter the continuing and evolving threat that the virus poses to the economy.",
+      "publication_date": "2021-09-10T00:28:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/09/us/politics/biden-vaccines-economy.html",
+      "byline": "By Jim Tankersley"
+    },
+    {
+      "headline": "Why $46 Billion Couldn’t Prevent an Eviction Crisis",
+      "snippet": "As national eviction protections lapse, much of the rental assistance sits unspent. Aid was slowed by red tape, resistance from landlords and the difficulty of navigating an informal market. Does a lease on a napkin qualify?",
+      "abstract": "As national eviction protections lapse, much of the rental assistance sits unspent. Aid was slowed by red tape, resistance from landlords and the difficulty of navigating an informal market. Does a lease on a napkin qualify?",
+      "lead_paragraph": "For once, Washington seemed to get in front of a crisis.",
+      "publication_date": "2021-09-10T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/10/business/evictions-rental-assistance.html",
+      "byline": "By Glenn Thrush and Conor Dougherty"
+    },
+    {
+      "headline": "$10 Billion in Student Debt Erased Under Biden, but Calls Grow for More",
+      "snippet": "Even without the blanket forgiveness that progressives have pushed, the administration has sped up and broadened its relief efforts before borrowers are set to resume payments in January.",
+      "abstract": "Even without the blanket forgiveness that progressives have pushed, the administration has sped up and broadened its relief efforts before borrowers are set to resume payments in January.",
+      "lead_paragraph": "Nearly $10 billion in student loan debt has been wiped away since President Biden took office, the most sweeping attempt to fix badly broken parts of the federal student loan system in at least a decade.",
+      "publication_date": "2021-09-10T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/10/business/student-loan-forgiveness-biden.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Biden’s Vaccine Mandate Leaves Businesses Relieved but Full of Questions",
+      "snippet": "Companies will have to decide issues like whether to pick up the tab for weekly testing and how to handle religious exemptions.",
+      "abstract": "Companies will have to decide issues like whether to pick up the tab for weekly testing and how to handle religious exemptions.",
+      "lead_paragraph": "For months, Molly Moon Neitzel, the founder and chief executive of Molly Moon’s Homemade Ice Cream in Seattle, has debated whether to require her 180 employees to be vaccinated. On Thursday, when President Biden announced rules that would mandate such requirements, she felt relieved.",
+      "publication_date": "2021-09-10T13:33:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/10/business/vaccine-mandate-business.html",
+      "byline": "By Lauren Hirsch, Stacy Cowley and Noam Scheiber"
+    },
+    {
+      "headline": "Judge Orders Apple to Ease Restrictions on App Developers",
+      "snippet": "The decision could have major implications for thousands of businesses that pay Apple billions of dollars each year.",
+      "abstract": "The decision could have major implications for thousands of businesses that pay Apple billions of dollars each year.",
+      "lead_paragraph": "A federal judge on Friday struck a serious blow to Apple’s control of its App Store, giving companies a way to avoid handing Apple a cut of their app sales and potentially upending a $100 billion online market.",
+      "publication_date": "2021-09-10T15:38:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/10/technology/epic-apple-app-developers.html",
+      "byline": "By Jack Nicas and Kellen Browning"
+    }
+  ]
+}

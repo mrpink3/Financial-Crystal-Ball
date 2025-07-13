@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2023-12-14",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "State Dept.’s Fight Against Disinformation Comes Under Attack",
+      "snippet": "The Global Engagement Center has become the focus of Republican-led criticism that the U.S. government coerces social media platforms into removing offensive content.",
+      "abstract": "The Global Engagement Center has become the focus of Republican-led criticism that the U.S. government coerces social media platforms into removing offensive content.",
+      "lead_paragraph": "A Republican-led campaign against researchers who study disinformation online has zeroed in on the most prominent American government agency dedicated to countering propaganda and other information operations from terrorists and hostile nations.",
+      "publication_date": "2023-12-14T10:02:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/14/technology/state-department-disinformation-criticism.html",
+      "byline": "By Steven Lee Myers"
+    },
+    {
+      "headline": "Is Jerome Powell’s Fed Pulling Off a Soft Landing?",
+      "snippet": "It’s too soon to declare victory, but the economic outlook seems sunnier than it did a year ago, and many economists are predicting a surprising win.",
+      "abstract": "It’s too soon to declare victory, but the economic outlook seems sunnier than it did a year ago, and many economists are predicting a surprising win.",
+      "lead_paragraph": "The Federal Reserve appears to be creeping closer to an outcome that its own staff economists viewed as unlikely just six months ago: lowering inflation back to a normal range without plunging the economy into a recession.",
+      "publication_date": "2023-12-14T10:03:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/14/business/economy/jerome-powell-soft-landing.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "My Not-So-Perfect Holiday Shopping Excursion With A.I. Chatbots",
+      "snippet": "With Shopify, Mercari and other retailers rolling out chatbots to help buyers, this holiday shopping season is the first to be powered by A.I.",
+      "abstract": "With Shopify, Mercari and other retailers rolling out chatbots to help buyers, this holiday shopping season is the first to be powered by A.I.",
+      "lead_paragraph": "To help with my holiday shopping this year, I recently turned to a new personal assistant online. “I’m looking for a Christmas present for my mother, who spends long hours working,” I typed. “Is there something she can use in her office every day?”",
+      "publication_date": "2023-12-14T15:52:49+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/14/technology/shopping-ai-chatbots.html",
+      "byline": "By Yiwen Lu"
+    }
+  ]
+}

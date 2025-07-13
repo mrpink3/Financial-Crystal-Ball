@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2012-08-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Flood of Errant Trades Is a Black Eye for Wall Street",
+      "snippet": "A New Jersey broker’s stock-trading software accidentally set off millions of trades on Wednesday, drawing renewed attention to the fragility of the nation’s stock exchanges.",
+      "abstract": "A New Jersey broker’s stock-trading software accidentally set off millions of trades on Wednesday, drawing renewed attention to the fragility of the nation’s stock exchanges.",
+      "lead_paragraph": "An automated stock trading program suddenly flooded the market with millions of trades Wednesday morning, spreading turmoil across Wall Street and drawing renewed attention to the fragility and instability of the nation’s stock markets.",
+      "publication_date": "2012-08-01T16:53:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/08/02/business/unusual-volume-roils-early-trading-in-some-stocks.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Fed Sees Slowing Economy, but Defers New Action",
+      "snippet": "The Federal Reserve’s policy committee signaled in a statement that it was ready to take new action if job growth did not improve.",
+      "abstract": "The Federal Reserve’s policy committee signaled in a statement that it was ready to take new action if job growth did not improve.",
+      "lead_paragraph": "WASHINGTON — The Federal Reserve took no new steps to support the economy Wednesday, but it said in a statement that it was ready to act if job growth did not improve.",
+      "publication_date": "2012-08-01T18:25:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/08/02/business/economy/fed-sees-slowing-economy-but-defers-new-action.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "On Touch Screens, Rest Your Finger by Using a Stylus",
+      "snippet": "Steve Jobs didn’t think so, but styluses can come in handy. Here are the pros and cons of 40 of them, some handsome and some quirky.",
+      "abstract": "Steve Jobs didn’t think so, but styluses can come in handy. Here are the pros and cons of 40 of them, some handsome and some quirky.",
+      "lead_paragraph": "When Steve Jobs talked about the iPad’s rivals, he didn’t mince words. “If you see a stylus, they blew it,” he said in 2010.",
+      "publication_date": "2012-08-01T20:17:22+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/08/02/technology/personaltech/on-touch-screens-rest-your-finger-by-using-a-stylus-state-of-the-art.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Tea Party Aims to Apply Its Touch to the Senate G.O.P.",
+      "snippet": "An infusion of new blood could alter the complexion of the Senate, increasing the sorts of conflicts among moderate and conservative Republicans that have reshaped the House.",
+      "abstract": "An infusion of new blood could alter the complexion of the Senate, increasing the sorts of conflicts among moderate and conservative Republicans that have reshaped the House.",
+      "lead_paragraph": "WASHINGTON — The Tea Party is very much alive in the drive for Republican control of the Senate, portending a potential shake-up in the mind-set of the chamber. The easy Republican primary victory in Texas on Tuesday of Ted Cruz, the 41-year-old Sarah Palin-blessed upstart, virtually assured the latest Tea Party candidate a seat in the chamber next year. And he will not be alone when it comes to those backed by the movement, which propelled Republicans to control of the House in 2010. ",
+      "publication_date": "2012-08-02T00:58:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/08/02/us/politics/tea-party-influence-could-reshape-senate-republicans.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "Some PayPal Users Criticize Antifraud Measures",
+      "snippet": "Some of the payment service’s users said the company needlessly froze their accounts when large transactions were involved.",
+      "abstract": "Some of the payment service’s users said the company needlessly froze their accounts when large transactions were involved.",
+      "lead_paragraph": "Jorge Espinoza, the founder of PreRace, a Web site where bicyclists and runners can register for races, was on a roll in March. In three days his site took in over $1 million in registrations for a major bike race, much more than usual.",
+      "publication_date": "2012-08-02T01:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/08/02/technology/paypal-antifraud-measures-are-extreme-some-users-say.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Inquiry Into U.S. Leaks Is Casting Chill Over Coverage",
+      "snippet": "An F.B.I. hunt for leakers of national security information has coincided with Senate consideration of new legislation designed to curb intelligence officials’ exchanges with reporters.",
+      "abstract": "An F.B.I. hunt for leakers of national security information has coincided with Senate consideration of new legislation designed to curb intelligence officials’ exchanges with reporters.",
+      "lead_paragraph": "WASHINGTON — F.B.I. agents on a hunt for leakers have interviewed current and former high-level government officials from multiple agencies in recent weeks, casting a distinct chill over press coverage of national security issues as agencies decline routine interview requests and refuse to provide background briefings.",
+      "publication_date": "2012-08-02T01:13:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/08/02/us/national-security-leaks-lead-to-fbi-hunt-and-news-chill.html",
+      "byline": "By Scott Shane"
+    },
+    {
+      "headline": "Monsanto Wins Big Award in a Biotech Patent Case",
+      "snippet": "A federal jury awarded $1 billion in damages to the crop biotechnology giant Monsanto, saying that its arch rival DuPont had willfully infringed a patent.",
+      "abstract": "A federal jury awarded $1 billion in damages to the crop biotechnology giant Monsanto, saying that its arch rival DuPont had willfully infringed a patent.",
+      "lead_paragraph": "A federal jury awarded $1 billion in damages to the crop biotechnology leader Monsanto on Wednesday, saying that its arch rival DuPont had willfully infringed a patent covering Roundup Ready soybeans. ",
+      "publication_date": "2012-08-02T02:33:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/08/02/business/monsanto-wins-big-award-in-a-biotech-patent-case.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "In Virtual Play, Sex Harassment Is All Too Real",
+      "snippet": "The world of online games has long been characterized by name-calling and trash talk, especially directed against women, but some recent episodes have prompted calls for change.",
+      "abstract": "The world of online games has long been characterized by name-calling and trash talk, especially directed against women, but some recent episodes have prompted calls for change.",
+      "lead_paragraph": "When Miranda Pakozdi entered the Cross Assault video game tournament this year, she knew she had a slim chance of winning the $25,000 prize. But she was ready to compete, and promised fans watching online that she would train just as hard as, if not harder than, anyone else.",
+      "publication_date": "2012-08-02T02:36:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/08/02/us/sexual-harassment-in-online-gaming-stirs-anger.html",
+      "byline": "By Amy O'Leary"
+    },
+    {
+      "headline": "Draghi Edges Closer to Bond Purchases, but Hopes Are Blunted",
+      "snippet": "The European Central Bank chief, Mario Draghi, set off a backlash by investors who were apparently hoping for a bold euro rescue plan.",
+      "abstract": "The European Central Bank chief, Mario Draghi, set off a backlash by investors who were apparently hoping for a bold euro rescue plan.",
+      "lead_paragraph": "FRANKFURT — Maybe this is why central bankers typically don’t like to say much.",
+      "publication_date": "2012-08-02T11:57:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/08/03/business/global/europes-central-bank-holds-benchmark-interest-rate-at-0-75.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "After a Loss in Europe, G.M. Plans Fast Action",
+      "snippet": "General Motors said it would focus new attention on its struggling Opel brand in Europe after net income in the second quarter fell to $1.48 billion, from $2.52 billion in the same period a year ago.",
+      "abstract": "General Motors said it would focus new attention on its struggling Opel brand in Europe after net income in the second quarter fell to $1.48 billion, from $2.52 billion in the same period a year ago.",
+      "lead_paragraph": "DETROIT — General Motors vowed Thursday to accelerate changes at its troubled European division after a loss in the region dragged down the company’s profit by 41 percent in the second quarter.",
+      "publication_date": "2012-08-02T12:08:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/08/03/business/gms-profit-falls-41-on-losses-in-europe.html",
+      "byline": "By Bill Vlasic and Jack Ewing"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2008-09-30",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "‘Is My Money Safe?’ and Other Questions to Ask",
+      "snippet": "Addressing the issues on the minds of investors on Main Street who are distressed by the fallout on Wall Street.",
+      "abstract": "Addressing the issues on the minds of investors on Main Street who are distressed by the fallout on Wall Street.",
+      "lead_paragraph": "For all of you on Main Street who have been watching the turmoil on Wall Street for the last few weeks, Monday’s shockwaves rattled even the most steadfast.",
+      "publication_date": "2008-09-29T23:08:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/yourmoney/30money.html",
+      "byline": "By Ron Lieber and Tara Siegel Bernard"
+    },
+    {
+      "headline": "Economy Expected to Take a Toll on Charitable Giving",
+      "snippet": "Big foundations have been damaged by the turmoil on Wall Street, receiving fewer gifts or seeing some of their stock holdings lose value.",
+      "abstract": "Big foundations have been damaged by the turmoil on Wall Street, receiving fewer gifts or seeing some of their stock holdings lose value.",
+      "lead_paragraph": "To the list of big losers in the turmoil on Wall Street, add these: some big foundations.",
+      "publication_date": "2008-09-30T00:06:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30foundations.html",
+      "byline": "By Geraldine Fabrikant"
+    },
+    {
+      "headline": "Defiant House Rejects Huge Bailout; Next Step Is Uncertain",
+      "snippet": "In a moment of historic drama in the Capitol and on Wall Street, the House of Representatives voted 228-205 to reject a $700 billion rescue of the financial industry.",
+      "abstract": "In a moment of historic drama in the Capitol and on Wall Street, the House of Representatives voted 228-205 to reject a $700 billion rescue of the financial industry.",
+      "lead_paragraph": "WASHINGTON — Defying President Bush and the leaders of both parties, rank-and-file lawmakers in the House on Monday rejected a $700 billion economic rescue plan in a revolt that rocked the Capitol, sent markets plunging and left top lawmakers groping for a resolution.",
+      "publication_date": "2008-09-30T00:38:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30cong.html",
+      "byline": "By Carl Hulse and David M. Herszenhorn"
+    },
+    {
+      "headline": "What Goes Before a Fall? On Wall Street, Reassurance",
+      "snippet": "C.E.O.’s of troubled companies seem to always face the conundrum that right before their companies go out of business, they give an interview with a happy face.",
+      "abstract": "C.E.O.’s of troubled companies seem to always face the conundrum that right before their companies go out of business, they give an interview with a happy face.",
+      "lead_paragraph": "“Jim, we have a great future as an independent company,” Robert K. Steel, Wachovia’s chief executive, told James Cramer on CNBC’s “Mad Money.” “We’re also focused on very exciting prospects when we get things right going forward. I didn’t have time today to talk about the good things going on at Wachovia.”",
+      "publication_date": "2008-09-30T00:52:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Authorities Aid Banks in Europe",
+      "snippet": "The turmoil that has rocked the United States banking system spread to Europe on Monday, buffeting institutions in at least four countries with a chain of new failures.",
+      "abstract": "The turmoil that has rocked the United States banking system spread to Europe on Monday, buffeting institutions in at least four countries with a chain of new failures.",
+      "lead_paragraph": "FRANKFURT  The turmoil that has rocked the United States banking system spread to Europe on Monday, buffeting institutions in at least four countries with a chain of new failures. ",
+      "publication_date": "2008-09-30T00:57:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/worldbusiness/30euro.html",
+      "byline": "By Carter Dougherty"
+    },
+    {
+      "headline": "Treasury and Fed Looking at Options",
+      "snippet": "Without the bailout plan they lobbied for, the Treasury and the Federal Reserve will have to dig deep into their toolkits.",
+      "abstract": "Without the bailout plan they lobbied for, the Treasury and the Federal Reserve will have to dig deep into their toolkits.",
+      "lead_paragraph": "WASHINGTON — For the Federal Reserve and the Treasury Department, the crisis continues. ",
+      "publication_date": "2008-09-30T01:42:03+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30plan.html",
+      "byline": "By Edmund L. Andrews and Mark Landler"
+    },
+    {
+      "headline": "In Bailout Vote, a Leadership Breakdown",
+      "snippet": "As the world looked to the United States to contain the economic crisis, American political leadership faltered.",
+      "abstract": "As the world looked to the United States to contain the economic crisis, American political leadership faltered.",
+      "lead_paragraph": "WASHINGTON — The collapse of the proposed rescue plan for the teetering financial system was the product of a larger failure — of political leadership in Washington — at a moment when the world was looking to the United States to contain the cascading economic crisis. ",
+      "publication_date": "2008-09-30T01:48:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30assess.html",
+      "byline": "By Jackie Calmes"
+    },
+    {
+      "headline": "Countless Proposals With a Common Thread: Urgent Action Is Needed",
+      "snippet": "Many economists and bank executives have advocated new, and perhaps more palatable, alternatives to prevent the financial crisis from spreading.",
+      "abstract": "Many economists and bank executives have advocated new, and perhaps more palatable, alternatives to prevent the financial crisis from spreading.",
+      "lead_paragraph": "With a bank rescue package stalled in Congress, many economists and bank executives said Monday that lawmakers should consider new, and perhaps more palatable, alternatives to prevent the financial crisis from spreading. ",
+      "publication_date": "2008-09-30T02:07:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30alternatives.html",
+      "byline": "By Alex Berenson and Louise Story"
+    },
+    {
+      "headline": "With Wachovia Sale, the Banking Crisis Trickles Up",
+      "snippet": "Federal regulators arranged the sale of Wachovia’s bank unit to Citigroup to stave off what might have been the second failure of a major bank in a week.",
+      "abstract": "Federal regulators arranged the sale of Wachovia’s bank unit to Citigroup to stave off what might have been the second failure of a major bank in a week.",
+      "lead_paragraph": "The crisis gripping the nation’s banks took a troubling turn on Monday as investors’ confidence in even the largest and strongest institutions spiraled lower.",
+      "publication_date": "2008-09-30T02:21:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/09/30/business/30citi.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "A Recovery in Shares on Hopes of a Bailout",
+      "snippet": "Stocks staged a broad recovery on Tuesday after Monday’s big sell-off. But the health of the economy and the global financial system was by no means assured.",
+      "abstract": "Stocks staged a broad recovery on Tuesday after Monday’s big sell-off. But the health of the economy and the global financial system was by no means assured.",
+      "lead_paragraph": "It seemed, by many accounts, a far happier day than the last. ",
+      "publication_date": "2008-09-30T07:07:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2008/10/01/business/01markets.html",
+      "byline": "By Michael M. Grynbaum and Vikas Bajaj"
+    },
+    {
+      "headline": "Senate to Vote Today on the Bailout Plan",
+      "snippet": "Senate leaders scheduled the vote after agreeing to add tax breaks and a higher limit for insured bank deposits in a bid to attract enough votes to reverse defeat in the House.",
+      "abstract": "Senate leaders scheduled the vote after agreeing to add tax breaks and a higher limit for insured bank deposits in a bid to attract enough votes to reverse defeat in the House.",
+      "lead_paragraph": "WASHINGTON  Senate leaders scheduled a Wednesday vote on a $700 billion financial bailout package after accepting tax breaks and a higher limit for insured bank deposits in a bid to win House approval and send legislation to President Bush by the end of the week.",
+      "publication_date": "2008-09-30T13:32:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/10/01/business/01bailout.html",
+      "byline": "By Carl Hulse and Robert Pear"
+    }
+  ]
+}

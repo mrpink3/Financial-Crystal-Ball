@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-10-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Apollo Clients Await Inquiry’s Findings on Chief and Jeffrey Epstein",
+      "snippet": "Leon Black, Apollo Global Management’s co-founder and leader, has been facing questions from investors over his ties to the convicted sex offender. One has already opted to withhold new investment.",
+      "abstract": "Leon Black, Apollo Global Management’s co-founder and leader, has been facing questions from investors over his ties to the convicted sex offender. One has already opted to withhold new investment.",
+      "lead_paragraph": "Leon Black helped start Apollo Global Management three decades ago out of the ashes of a junk-bond scandal and built a $400 billion private-equity powerhouse, handling the investments of institutions around the globe, from public pension systems in California to sovereign wealth funds controlled by foreign governments.",
+      "publication_date": "2020-10-26T17:01:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/26/business/apollo-leon-black-jeffrey-epstein.html",
+      "byline": "By Matthew Goldstein, Mary Williams Walsh and Matt Phillips"
+    },
+    {
+      "headline": "Trump’s Manufacturing Promises Disappoint as Economy Sours",
+      "snippet": "Foxconn’s failure to deliver on a Wisconsin project underscores the limits of the president’s power to make companies bend to his will.",
+      "abstract": "Foxconn’s failure to deliver on a Wisconsin project underscores the limits of the president’s power to make companies bend to his will.",
+      "lead_paragraph": "WASHINGTON — At a 2018 groundbreaking ceremony for a Foxconn plant in Wisconsin, President Trump declared that the factory would be the “eighth wonder of the world” — a $10 billion hub that would hire 13,000 workers to make flat-screen televisions in America’s heartland.",
+      "publication_date": "2020-10-26T19:22:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/26/us/politics/trump-manufacturing-jobs.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Senate Confirms Barrett, Delivering for Trump and Reshaping the Court",
+      "snippet": "The vote capped a brazen feat for Republicans, who pushed through a Supreme Court nominee in little more than five weeks with the election looming.",
+      "abstract": "The vote capped a brazen feat for Republicans, who pushed through a Supreme Court nominee in little more than five weeks with the election looming.",
+      "lead_paragraph": "WASHINGTON — Judge Amy Coney Barrett, a conservative appeals court judge and protégée of former Justice Antonin Scalia, was confirmed on Monday to the Supreme Court, capping a lightning-fast Senate approval that handed President Trump a victory ahead of the election and promised to tip the court to the right for years to come.",
+      "publication_date": "2020-10-27T00:07:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/26/us/politics/senate-confirms-barrett.html",
+      "byline": "By Nicholas Fandos"
+    },
+    {
+      "headline": "How Trump and Bolsonaro Broke Latin America’s Covid-19 Defenses",
+      "snippet": "The two presidents drove out 10,000 Cuban doctors and nurses. They defunded the region’s leading health agency. They wrongly pushed hydroxychloroquine as a cure.",
+      "abstract": "The two presidents drove out 10,000 Cuban doctors and nurses. They defunded the region’s leading health agency. They wrongly pushed hydroxychloroquine as a cure.",
+      "lead_paragraph": "The coronavirus was gathering lethal speed when President Trump met his Brazilian counterpart, Jair Bolsonaro, on March 7 for dinner at Mar-a-Lago. Mr. Bolsonaro had canceled trips that week to Italy, Poland and Hungary, and Brazil’s health minister had urged him to stay away from Florida, too.",
+      "publication_date": "2020-10-27T07:00:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/10/27/world/trump-bolsonaro-coronavirus-latin-america.html",
+      "byline": ""
+    },
+    {
+      "headline": "Recession’s Silver Lining: American Households Are Doing Better Than Expected",
+      "snippet": "With few avenues for spending and big purchases on hold, many Americans are saving more and paying off debts, helped by loan deferrals and relief aid.",
+      "abstract": "With few avenues for spending and big purchases on hold, many Americans are saving more and paying off debts, helped by loan deferrals and relief aid.",
+      "lead_paragraph": "For months, Americans have barely dined at restaurants or traveled for vacation. There have been no ballgames or concerts to attend. Gym and other memberships mostly remain frozen.",
+      "publication_date": "2020-10-27T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/27/business/recession-consumers-savings.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Airbnb Fights Its ‘Party House Problem’",
+      "snippet": "Noise. Damages. Safety questions. Airbnb is racing to address the risks posed by partying guests before it goes public.",
+      "abstract": "Noise. Damages. Safety questions. Airbnb is racing to address the risks posed by partying guests before it goes public.",
+      "lead_paragraph": "The luxury cabin in Incline Village, Nev., just north of Lake Tahoe, has a hot tub, a sauna, a pool table, a fire pit, two patios and a backyard full of towering pine trees. It sleeps 14, according to its listing on Airbnb. And it has been a nightmare for Sara Schmitz, a retiree who lives next door.",
+      "publication_date": "2020-10-27T09:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/27/business/airbnb-party-house-coronavirus.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Why the Best G.D.P. Report Ever Won’t Mean the Economy Has Healed",
+      "snippet": "Government data on Thursday will show a record-setting rebound in economic output. But the numbers are misleading.",
+      "abstract": "Government data on Thursday will show a record-setting rebound in economic output. But the numbers are misleading.",
+      "lead_paragraph": "The United States almost certainly just experienced its fastest three months of economic growth on record. That doesn’t mean the economy is strong.",
+      "publication_date": "2020-10-27T14:20:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/10/27/business/economy/gdp-economy.html",
+      "byline": "By Ben Casselman"
+    }
+  ]
+}

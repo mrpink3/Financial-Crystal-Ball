@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-05-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "The Fed Is Eyeing the Job Market, but It’s Difficult to Read",
+      "snippet": "Fed officials are watching labor trends as they contemplate when to cut rates. But different measures are telling different stories.",
+      "abstract": "Fed officials are watching labor trends as they contemplate when to cut rates. But different measures are telling different stories.",
+      "lead_paragraph": "The Federal Reserve spent much of 2022 and 2023 narrowly focusing on inflation as policymakers set interest rates: Prices were rising way too fast, so they became the central bank’s top priority. But now that inflation has cooled, officials are more clearly factoring the job market into their decisions again.",
+      "publication_date": "2024-05-02T17:17:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/02/business/economy/the-fed-job-market.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Taking Cues From Students, U.C.L.A. Faculty Members Join the Protests",
+      "snippet": "At U.C.L.A., a few professors helped negotiate with the university. At Columbia, they guarded the encampment. But not all faculty members are on board.",
+      "abstract": "At U.C.L.A., a few professors helped negotiate with the university. At Columbia, they guarded the encampment. But not all faculty members are on board.",
+      "lead_paragraph": "Earlier this week, some faculty members at the University of California, Los Angeles, had an emergency call with students who were active in the pro-Palestinian protests.",
+      "publication_date": "2024-05-02T23:59:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/02/us/columbia-protests-professors-support.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "Oil Companies Expand Offshore Drilling, Pointing to Energy Needs",
+      "snippet": "Shell and others say they plan to drill for oil and gas in the Gulf of Mexico in part because doing so releases fewer greenhouse gases than drilling on land.",
+      "abstract": "Shell and others say they plan to drill for oil and gas in the Gulf of Mexico in part because doing so releases fewer greenhouse gases than drilling on land.",
+      "lead_paragraph": "About 80 miles southeast of Louisiana’s coast, 100,000 metric tons of steel floats in the Gulf of Mexico, an emblem of the hopes of oil and gas companies.",
+      "publication_date": "2024-05-03T09:00:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/03/business/energy-environment/shell-offshore-oil-gulf-of-mexico.html",
+      "byline": "By Ivan Penn"
+    },
+    {
+      "headline": "Israeli Officials Weigh Sharing Power With Arab States in Postwar Gaza",
+      "snippet": "Israeli officials say they are discussing inviting Arab states to help oversee Gaza after the war. Arab officials rejected the idea because it doesn’t ensure Palestinian statehood.",
+      "abstract": "Israeli officials say they are discussing inviting Arab states to help oversee Gaza after the war. Arab officials rejected the idea because it doesn’t ensure Palestinian statehood.",
+      "lead_paragraph": "For months, Prime Minister Benjamin Netanyahu of Israel has avoided detailed public discussion about Gaza’s postwar future. Trying to placate both his far-right allies, who seek to rebuild Israeli settlements in Gaza, and Israel’s foreign partners, who want Gaza returned to Palestinian governance, Mr. Netanyahu has stopped short of any specific declaration.",
+      "publication_date": "2024-05-03T09:03:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/03/world/middleeast/israel-gaza-postwar-plan.html",
+      "byline": "By Patrick Kingsley"
+    },
+    {
+      "headline": "The Perils of the Fed’s Vast Bond Holdings",
+      "snippet": "The Federal Reserve is shedding assets at a glacial pace, exposing the financial system to continuing risks, our columnist says.",
+      "abstract": "The Federal Reserve is shedding assets at a glacial pace, exposing the financial system to continuing risks, our columnist says.",
+      "lead_paragraph": "The Federal Reserve is engaged in a colossal transformation of the financial economy. Yet scarcely anyone is noticing.",
+      "publication_date": "2024-05-03T13:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/05/03/business/federal-reserve-markets-turmoil.html",
+      "byline": "By Jeff Sommer"
+    },
+    {
+      "headline": "Horse Racing’s Loudest Critic Is Favored in Its Biggest Race",
+      "snippet": "The brash owner Mike Repole will take a break from tweaking horse racing’s powers when his colt Fierceness runs in the Kentucky Derby on Saturday.",
+      "abstract": "The brash owner Mike Repole will take a break from tweaking horse racing’s powers when his colt Fierceness runs in the Kentucky Derby on Saturday.",
+      "lead_paragraph": "In the world according to Mike Repole, everyone involved in horse racing is a dummy. Except him, Mike from Queens or the Commish, as some of his followers on X call him.",
+      "publication_date": "2024-05-03T13:59:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/05/03/business/kentucky-derby-mike-repole-fierceness.html",
+      "byline": "By Joe Drape"
+    }
+  ]
+}

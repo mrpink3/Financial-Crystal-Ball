@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2017-11-01",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Andrew Weissmann, Mueller’s Legal Pit Bull",
+      "snippet": "Mr. Weissmann, on leave from the Justice Department, brings decades of experience prosecuting Mafia heads and white-collar crime to the Russia investigation.",
+      "abstract": "Mr. Weissmann, on leave from the Justice Department, brings decades of experience prosecuting Mafia heads and white-collar crime to the Russia investigation.",
+      "lead_paragraph": "WASHINGTON — The target was a New York City titan — plain-spoken but Teflon, irresistible to the tabloids and insistent upon loyalty from his associates.",
+      "publication_date": "2017-11-01T00:32:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/10/31/us/politics/andrew-weissmann-mueller.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "What’s the Economic Cost of Brexit? Pineapples Tell a Tale",
+      "snippet": "As Britain pursues an exit from the European Union, higher costs on imported goods and uncertainty about trade have conspired to weaken its economy.",
+      "abstract": "As Britain pursues an exit from the European Union, higher costs on imported goods and uncertainty about trade have conspired to weaken its economy.",
+      "lead_paragraph": "SITTINGBOURNE, England — Britain is increasingly grappling with the bewildering economic consequences of its pending departure from the European Union. For one company, Nim’s Fruit Crisps, the impact is measured in the soaring cost of pineapple.",
+      "publication_date": "2017-11-01T03:45:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/10/31/business/brexit-economic-cost-imports.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "The Upside of Being Ruled by the Five Tech Giants",
+      "snippet": "What if it’s not that bad that so much economic, social and political power is held by Apple, Amazon, Google, Facebook and Microsoft?",
+      "abstract": "What if it’s not that bad that so much economic, social and political power is held by Apple, Amazon, Google, Facebook and Microsoft?",
+      "lead_paragraph": "The tech giants are too big. But what if that’s not so bad?",
+      "publication_date": "2017-11-01T09:00:26+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/11/01/technology/five-tech-giants-upside.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Trump Declares Suspect ‘Should Get Death Penalty’",
+      "snippet": "President Trump’s late-night tweet capped a day in which he sought to turn the Manhattan terrorist attack into a political talking point to push his policy agenda on immigration and national security.",
+      "abstract": "President Trump’s late-night tweet capped a day in which he sought to turn the Manhattan terrorist attack into a political talking point to push his policy agenda on immigration and national security.",
+      "lead_paragraph": "WASHINGTON — President Trump touched off a sharply partisan debate over some of the most divisive issues in American life on Wednesday as he cited this week’s terrorist attack in New York to advance his agenda on immigration and national security while assailing Democrats for endangering the country.",
+      "publication_date": "2017-11-01T12:11:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/01/us/politics/trump-new-york-attack-schumer-visa.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Navy Collisions That Killed 17 Sailors Were ‘Avoidable,’ Official Inquiry Says",
+      "snippet": "Crew and basic navigational errors were to blame for two collisions between Navy ships and commercial vessels in the Western Pacific, the Navy’s top officer said.",
+      "abstract": "Crew and basic navigational errors were to blame for two collisions between Navy ships and commercial vessels in the Western Pacific, the Navy’s top officer said.",
+      "lead_paragraph": "WASHINGTON — Two collisions between Navy destroyers and commercial vessels in the Western Pacific earlier this year were “avoidable” and the result of a string of crew and basic navigational errors, the Navy’s top officer said in reports made public on Wednesday.",
+      "publication_date": "2017-11-01T12:33:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/01/us/politics/navy-collisions-avoidable.html",
+      "byline": "By Eric Schmitt, Thomas Gibbons-Neff and Helene Cooper"
+    },
+    {
+      "headline": "Math Problem Bedevils Republican Tax Rewrite",
+      "snippet": "Republicans are running into political challenges as they try to offset lost revenue to stay within the confines of the $1.5 trillion tax cut that lawmakers have voted to allow.",
+      "abstract": "Republicans are running into political challenges as they try to offset lost revenue to stay within the confines of the $1.5 trillion tax cut that lawmakers have voted to allow.",
+      "lead_paragraph": "WASHINGTON — There is a math problem at the heart of the Republican Party’s protracted introduction of a sprawling tax bill, and it grows, in part, from President Trump’s two nonnegotiable demands.",
+      "publication_date": "2017-11-01T15:35:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/11/01/us/politics/math-problem-bedevils-republican-tax-rewrite.html",
+      "byline": "By Jim Tankersley, Thomas Kaplan and Alan Rappeport"
+    }
+  ]
+}

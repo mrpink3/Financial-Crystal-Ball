@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "date": "2023-08-31",
+    "total_articles": 2
+  },
+  "articles": [
+    {
+      "headline": "Dueling Aerial Assaults Hit Ukraine and Russia",
+      "snippet": "Four military cargo planes at a Russia airfield were damaged, and the Kyiv region was hit with one of the most significant missile and drone barrages in months.",
+      "abstract": "Four military cargo planes at a Russia airfield were damaged, and the Kyiv region was hit with one of the most significant missile and drone barrages in months.",
+      "lead_paragraph": "A wave of exploding drones was launched in six regions of Russia overnight Wednesday, Russian officials said, damaging four military cargo planes at an airfield 30 miles from the border with Estonia, a NATO member, in an apparent sign that Ukraine was increasingly capable of striking back deep inside Moscow’s territory.",
+      "publication_date": "2023-08-30T22:25:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/30/world/europe/ukraine-russia-drone-missile-attacks.html",
+      "byline": "By Andrew E. Kramer and Victoria Kim"
+    },
+    {
+      "headline": "Idalia Brings Surge of Seawater, but Less Damage Than Feared",
+      "snippet": "The storm, which made landfall in a sparsely populated area, wrecked homes and businesses but was not as fierce as Hurricane Ian last year, which was responsible for 150 deaths.",
+      "abstract": "The storm, which made landfall in a sparsely populated area, wrecked homes and businesses but was not as fierce as Hurricane Ian last year, which was responsible for 150 deaths.",
+      "lead_paragraph": "Hurricane Idalia, the first major storm to pummel Florida this season, brought a surge of seawater on Wednesday that flooded neighborhoods along much of the state’s western coast and lacerating winds that cut power and leveled trees. Two people died in traffic accidents that the police linked to the harsh conditions. Rescuers pulled scores of people from homes that were taking on water.",
+      "publication_date": "2023-08-30T23:55:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/08/30/us/idalia-damage-florida.html",
+      "byline": "By Patricia Mazzei and Thomas Fuller"
+    }
+  ]
+}

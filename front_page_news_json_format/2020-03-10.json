@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-03-10",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "As Stock Markets Plunge, Trump Calls for Economic Response to Coronavirus",
+      "snippet": "President Trump said his advisers would meet with lawmakers on Tuesday to discuss a potential payroll tax cut and other relief measures as fears of a recession mounted.",
+      "abstract": "President Trump said his advisers would meet with lawmakers on Tuesday to discuss a potential payroll tax cut and other relief measures as fears of a recession mounted.",
+      "lead_paragraph": "WASHINGTON — President Trump has spent the past several weeks dismissing concerns about any economic effects from the coronavirus and insisting that American companies and consumers are in no danger.",
+      "publication_date": "2020-03-09T17:04:30+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/09/business/economy/trump-coronavirus-economic-fallout.html",
+      "byline": "By Alan Rappeport and Jim Tankersley"
+    },
+    {
+      "headline": "Europe Is Probably in Recession. Can Its Leaders Move Fast and Deliver Relief?",
+      "snippet": "Policymakers on the Continent have a reputation for dithering, prompting fears they will fail to respond to the economic damage of the coronavirus outbreak.",
+      "abstract": "Policymakers on the Continent have a reputation for dithering, prompting fears they will fail to respond to the economic damage of the coronavirus outbreak.",
+      "lead_paragraph": "LONDON — Europe had already been teetering toward trouble. Even before the coronavirus outbreak quarantined the industrial heart of Italy and emptied the teeming streets of Venice, before France banned public gatherings and major trade shows were canceled in Germany and Spain, economists were openly warning about the prospect of an economic downturn across the continent.",
+      "publication_date": "2020-03-09T17:36:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/09/business/europe-recession-coronavirus.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "How a Saudi-Russian Standoff Sent Oil Markets Into a Frenzy",
+      "snippet": "Moscow refused to accept production cuts to offset the effect of the coronavirus outbreak. Now Saudi Arabia is trying an alternative: inflicting pain.",
+      "abstract": "Moscow refused to accept production cuts to offset the effect of the coronavirus outbreak. Now Saudi Arabia is trying an alternative: inflicting pain.",
+      "lead_paragraph": "For the last three years, two factors have been hugely influential in the oil markets. The first has been the surge of shale oil production in the United States, which has turned the country from a large oil importer to an increasingly important exporter. The second is the alliance between Saudi Arabia and Russia, which recently have cooperated in trimming production to try to counter shale’s impact.",
+      "publication_date": "2020-03-09T17:49:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/09/business/energy-environment/oil-opec-saudi-russia.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Coming Home to a Michigan County Where Life Has Shifted",
+      "snippet": "As the primary in Michigan looms, a return to Bay County finds residents wrestling to make ends meet. Many plant jobs are gone. Getting by can be a juggling act.",
+      "abstract": "As the primary in Michigan looms, a return to Bay County finds residents wrestling to make ends meet. Many plant jobs are gone. Getting by can be a juggling act.",
+      "lead_paragraph": "BAY CITY, Mich. — When the United Auto Workers went on strike against General Motors last fall, Robby Lamas and those left at the massive engine plant in this Michigan city walked the picket lines day and night. Mr. Lamas, who, at 30, was the youngest at the plant by a decade, was unsure how the public would react to the walkout, his first strike.",
+      "publication_date": "2020-03-09T18:58:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/09/us/michigan-primary-election.html",
+      "byline": "By Rebecca Blumenstein and Alyssa Schukar"
+    },
+    {
+      "headline": "Italy Announces Restrictions Over Entire Country in Attempt to Halt Coronavirus",
+      "snippet": "All of Italy’s 60 million people are coming under restrictions that had earlier applied to the northern part of the country.",
+      "abstract": "All of Italy’s 60 million people are coming under restrictions that had earlier applied to the northern part of the country.",
+      "lead_paragraph": "ROME — Italy on Monday became the first European country to announce severe nationwide limits on travel as the government struggled to stem the spread of a coronavirus outbreak that has hobbled the economy, threatened to overwhelm public health care and killed more people than anywhere outside China.",
+      "publication_date": "2020-03-09T21:26:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/09/world/europe/italy-lockdown-coronavirus.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Saudi Oil Price Cut Is a Market Shock With Wide Tremors",
+      "snippet": "Oil producers in the United States and other nations brace for lower revenue, reduced investment and job losses as a global glut is compounded.",
+      "abstract": "Oil producers in the United States and other nations brace for lower revenue, reduced investment and job losses as a global glut is compounded.",
+      "lead_paragraph": "HOUSTON — The sudden upheaval in the oil markets may claim victims around the world, from energy companies and their workers to governments whose budgets are pegged to the price of crude.",
+      "publication_date": "2020-03-09T22:39:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/09/business/energy-environment/saudi-oil-price-impact.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Economy Faces ‘Tornado-Like Headwind’ as Financial Markets Spiral",
+      "snippet": "Crashing financial markets are increasing the risk of a vicious cycle that could usher in a recession.",
+      "abstract": "Crashing financial markets are increasing the risk of a vicious cycle that could usher in a recession.",
+      "lead_paragraph": "The fast-spreading coronavirus and a plunge in oil prices set off a chain reaction in financial markets on Monday, a self-perpetuating downward cycle that could inflict serious harm on the global economy.",
+      "publication_date": "2020-03-09T23:09:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/09/business/stock-market-oil-coronavirus.html",
+      "byline": "By Matt Phillips, Peter Eavis and David Enrich"
+    },
+    {
+      "headline": "It’s a ‘Swimming Naked’ Moment: The Financial System Has a Real Test",
+      "snippet": "The coronavirus spread and its economic effects are stressing the U.S. system for the first time since the 2008 financial crisis.",
+      "abstract": "The coronavirus spread and its economic effects are stressing the U.S. system for the first time since the 2008 financial crisis.",
+      "lead_paragraph": "The investor Warren Buffett once gave a famous warning: “It’s only when the tide goes out that you learn who’s been swimming naked.”",
+      "publication_date": "2020-03-10T09:00:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/10/business/stock-market-coronavirus-crisis.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "Putin Endorses Brazen Remedy to Extend His Rule, Possibly for Life",
+      "snippet": "In a carefully scripted appearance, President Vladimir V. Putin of Russia agreed he should be allowed to seek two more terms, if the Constitutional Court approves.",
+      "abstract": "In a carefully scripted appearance, President Vladimir V. Putin of Russia agreed he should be allowed to seek two more terms, if the Constitutional Court approves.",
+      "lead_paragraph": "MOSCOW — It looked as though Vladimir V. Putin had been gearing up to push through obscure constitutional changes as a surreptitious way to remain Russia’s leader after presidential term limits forced him to step down in 2024. But on Tuesday, Mr. Putin endorsed a proposal stunningly simpler and more brazen: resetting the Constitution’s term-limit clock to zero.",
+      "publication_date": "2020-03-10T13:17:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/10/world/europe/putin-president-russia.html",
+      "byline": "By Anton Troianovski"
+    },
+    {
+      "headline": "Sorry, but Working From Home Is Overrated",
+      "snippet": "Home-cooked lunches and no commuting while we deal with coronavirus can’t compensate for what’s lost in creativity.",
+      "abstract": "Home-cooked lunches and no commuting while we deal with coronavirus can’t compensate for what’s lost in creativity.",
+      "lead_paragraph": "I’m writing this from the makeshift quarantine bunker in my dining room — sweatpants on, hand sanitizer nearby, snacking my way through my emergency rations. I’m getting plenty of work done, but I’m starting to get unnerved by the lack of stimulation. It’s been hours (days?) since I interacted face to face with a human who is not related to me, and cabin fever is setting in.",
+      "publication_date": "2020-03-10T14:53:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/10/technology/working-from-home.html",
+      "byline": "By Kevin Roose"
+    }
+  ]
+}

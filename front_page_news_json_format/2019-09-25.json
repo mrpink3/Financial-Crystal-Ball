@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2019-09-25",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "WeWork C.E.O. Adam Neumann Steps Down Under Pressure",
+      "snippet": "The shake-up is the most significant step that the start-up, valued at nearly $50 billion at one point, has taken to win over Wall Street after a botched I.P.O.",
+      "abstract": "The shake-up is the most significant step that the start-up, valued at nearly $50 billion at one point, has taken to win over Wall Street after a botched I.P.O.",
+      "lead_paragraph": "Adam Neumann turned WeWork into one of the most valuable start-ups in the world largely through the force of his outsize personality. He persuaded investors to give him billions of dollars and employees to believe that the shared-office company was changing the world.",
+      "publication_date": "2019-09-24T16:56:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/24/business/dealbook/wework-ceo-adam-neumann.html",
+      "byline": "By David Gelles, Michael J. de la Merced, Peter Eavis and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "White House Seeks Deal for Whistle-Blower to Speak to Congress",
+      "snippet": "As House Democrats moved to begin a formal impeachment inquiry, the administration also prepared to release a redacted version of the whistle-blower’s complaint.",
+      "abstract": "As House Democrats moved to begin a formal impeachment inquiry, the administration also prepared to release a redacted version of the whistle-blower’s complaint.",
+      "lead_paragraph": "White House and intelligence officials were working out a plan on Tuesday to release a redacted version of the whistle-blower complaint that helped ignite the impeachment drive against President Trump and to allow the whistle-blower to speak with congressional investigators, people briefed on the matter said.",
+      "publication_date": "2019-09-24T23:06:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/24/us/politics/trump-whistleblower-congress.html",
+      "byline": "By Michael S. Schmidt, Julian E. Barnes and Maggie Haberman"
+    },
+    {
+      "headline": "Why an Impeachment Inquiry Now? Democrats Cite the Clarity of the Case",
+      "snippet": "After months of internal division over whether to begin a formal effort to oust President Trump, Democrats say his actions gave them no choice.",
+      "abstract": "After months of internal division over whether to begin a formal effort to oust President Trump, Democrats say his actions gave them no choice.",
+      "lead_paragraph": "WASHINGTON — For months, dozens of House Democrats anxiously avoided even the mention of impeaching President Trump — right up until the moment that they demanded it.",
+      "publication_date": "2019-09-24T23:49:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/24/us/politics/trump-democrats.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Vox Media Acquires New York Magazine, Chronicler of the Highbrow and Lowbrow",
+      "snippet": "After more than 50 years and 44 National Magazine Awards, New York finds a home with a digital-media powerhouse.",
+      "abstract": "After more than 50 years and 44 National Magazine Awards, New York finds a home with a digital-media powerhouse.",
+      "lead_paragraph": "After more than 50 years of chronicling the highbrow, lowbrow, brilliant and despicable characters of the city whose name it took, New York Magazine has a new owner.",
+      "publication_date": "2019-09-25T00:53:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/24/business/media/vox-buys-nymag.html",
+      "byline": "By Marc Tracy and Edmund Lee"
+    },
+    {
+      "headline": "Behind WeWork Leader’s Rise and Fall: A Wall St. Bank Playing Many Angles",
+      "snippet": "JPMorgan Chase, an ardent backer of the start-up and Adam Neumann, was as well placed as any investor to see his conflicts of interest.",
+      "abstract": "JPMorgan Chase, an ardent backer of the start-up and Adam Neumann, was as well placed as any investor to see his conflicts of interest.",
+      "lead_paragraph": "The ouster of WeWork’s co-founder and its botched initial public offering are a remarkable collapse of what was considered, up until weeks ago, one of the most valuable start-ups in the world.",
+      "publication_date": "2019-09-25T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/25/business/wework-jpmorgan.html",
+      "byline": ""
+    }
+  ]
+}

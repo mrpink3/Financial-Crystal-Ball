@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-05-09",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Under the Radar, Right-Wing Push to Tighten Voting Laws Persists",
+      "snippet": "The clashes in state capitals have faded, but the Republican push for stricter state election laws is organized and planning for the long term.",
+      "abstract": "The clashes in state capitals have faded, but the Republican push for stricter state election laws is organized and planning for the long term.",
+      "lead_paragraph": "The first recent wave of legislation tightening voting laws came in 2021, when Donald J. Trump’s false claims of voter fraud spurred Republican lawmakers to act over loud objections from Democrats. Two years later, a second wave is steadily moving ahead, but largely under the radar.",
+      "publication_date": "2023-05-08T18:20:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/08/us/politics/voting-laws-restrictions-republicans.html",
+      "byline": "By Nick Corasaniti and Alexandra Berzon"
+    },
+    {
+      "headline": "Brain Drain Threatens the F.D.I.C. and Its Efforts to Regulate Banks",
+      "snippet": "High turnover and low pay are luring its staff to the private sector, leaving the banking supervisor, and the financial system, more vulnerable to a crisis.",
+      "abstract": "High turnover and low pay are luring its staff to the private sector, leaving the banking supervisor, and the financial system, more vulnerable to a crisis.",
+      "lead_paragraph": "For the last three years, Hannah Johnson worked on a New York team of bank examiners at the Federal Deposit Insurance Corporation, assessing the health of banks in the region and looking for potential red flags.",
+      "publication_date": "2023-05-08T19:08:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/08/business/fdic-bank-regulators-svb.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "Financial Stability Experts at the Fed Turn a Wary Eye on Commercial Real Estate",
+      "snippet": "A financial stability report from the Federal Reserve flagged concerns tied to rising interest rates, including in commercial real estate.",
+      "abstract": "A financial stability report from the Federal Reserve flagged concerns tied to rising interest rates, including in commercial real estate.",
+      "lead_paragraph": "Federal Reserve financial stability experts are on the lookout for weaknesses after a year of rising interest rates — and as they survey the potential risks confronting the system, they are increasingly watching office loans and other commercial real estate borrowing.",
+      "publication_date": "2023-05-08T21:35:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/08/business/economy/the-fed-commercial-real-estate.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Biden Said He’d Veer From Trump on Immigration. The Reality Is More Complicated.",
+      "snippet": "Surges of migrants have shaped President Biden’s policies at the border in ways that few of his allies imagined when he was running for president.",
+      "abstract": "Surges of migrants have shaped President Biden’s policies at the border in ways that few of his allies imagined when he was running for president.",
+      "lead_paragraph": "WASHINGTON — In his final debate with Donald J. Trump on Oct. 22, 2020, Joseph R. Biden Jr., then a candidate, excoriated his rival for radically undermining America’s decades-long tradition of welcoming people who seek asylum at the country’s borders.",
+      "publication_date": "2023-05-08T23:29:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/08/us/politics/biden-trump-immigration-title-42.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "China’s Crackdown Widens as Police Raid Another Firm With Foreign Ties",
+      "snippet": "The consulting firm Capvision Partners is the latest to be raided in the name of national security, sending a chill through the foreign business community.",
+      "abstract": "The consulting firm Capvision Partners is the latest to be raided in the name of national security, sending a chill through the foreign business community.",
+      "lead_paragraph": "For weeks, little was known about why prominent international consulting firms in China were being raided by the police. Employees had been questioned and even detained for doing what has long been the nuts and bolts of the job: compiling information about Chinese markets, companies and policies for foreign clients working in the world’s second-largest economy.",
+      "publication_date": "2023-05-09T01:12:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/08/business/capvision-china-espionage-law.html",
+      "byline": "By David Pierson and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "Biden and McCarthy Reach No Consensus as a Possible Default Looms",
+      "snippet": "In their first meeting in three months, the president and House speaker remained at loggerheads over the debt ceiling and spending cuts. But they agreed to meet again.",
+      "abstract": "In their first meeting in three months, the president and House speaker remained at loggerheads over the debt ceiling and spending cuts. But they agreed to meet again.",
+      "lead_paragraph": "President Biden and Speaker Kevin McCarthy emerged from a critical meeting at the White House on Tuesday with no consensus on how to end their impasse over the federal debt and spending just weeks before the nation is set to default on its obligations for the first time.",
+      "publication_date": "2023-05-09T09:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/09/us/politics/biden-mccarthy-debt-limit-meeting.html",
+      "byline": "By Peter Baker, Jim Tankersley and Catie Edmondson"
+    },
+    {
+      "headline": "William Burns, a C.I.A. Spymaster With Unusual Powers",
+      "snippet": "Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.",
+      "abstract": "Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.",
+      "lead_paragraph": "To mark the 20th anniversary of the American-led invasion of Iraq, the C.I.A. director, William J. Burns, stood in the lobby of the agency’s headquarters in Langley, Va., and sought to exorcise the ghosts of the prewar intelligence failures that haunt the building to this day.",
+      "publication_date": "2023-05-09T09:00:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/09/us/politics/william-burns-cia-biden.html",
+      "byline": "By Robert Draper"
+    },
+    {
+      "headline": "‘Rip and Replace’: The Tech Cold War Is Upending Wireless Carriers",
+      "snippet": "As China and the United States jockey for tech primacy, wireless carriers in dozens of states are tearing out Chinese equipment. That has turned into a costly, difficult process.",
+      "abstract": "As China and the United States jockey for tech primacy, wireless carriers in dozens of states are tearing out Chinese equipment. That has turned into a costly, difficult process.",
+      "lead_paragraph": "Deep in a pine forest in Wilcox County, Ala., three workers  dangled from the top of a 350-foot cellular tower. They were there to rip out and replace Chinese equipment from the local wireless network.",
+      "publication_date": "2023-05-09T15:45:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/09/technology/cellular-china-us-zte-huawei.html",
+      "byline": "By Cecilia Kang"
+    }
+  ]
+}

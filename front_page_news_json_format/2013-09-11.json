@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2013-09-11",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Apple Unveils Faster iPhone, and a Cheaper One, Too",
+      "snippet": "The lower-cost model, the iPhone 5C (the “C” for color), comes in a plastic case and has the same features as the now-outdated iPhone 5.",
+      "abstract": "The lower-cost model, the iPhone 5C (the “C” for color), comes in a plastic case and has the same features as the now-outdated iPhone 5.",
+      "lead_paragraph": "CUPERTINO, Calif. — Apple has grown too big for just one iPhone.",
+      "publication_date": "2013-09-10T19:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/11/technology/apple-shows-off-2-new-iphones-one-a-lower-cost-model.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Embracing Wynne Godley, an Economist Who Modeled the Crisis",
+      "snippet": "Mr. Godley, a British economist who died in 2010, helped develop formal models that foresaw the financial crisis of the late 2000s, but underestimated its depth.",
+      "abstract": "Mr. Godley, a British economist who died in 2010, helped develop formal models that foresaw the financial crisis of the late 2000s, but underestimated its depth.",
+      "lead_paragraph": "BOSTON — With the 2008 financial crisis and Great Recession still a raw and painful memory, many economists are asking themselves whether they need the kind of fundamental shift in thinking that occurred during and after the Depression of the 1930s. “We have entered a brave new world,” Olivier Blanchard, the International Monetary Fund’s chief economist, said at a conference in 2011. “The economic crisis has put into question many of our beliefs. We have to accept the intellectual challenge.”",
+      "publication_date": "2013-09-10T22:41:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/11/business/economy/economists-embracing-ideas-of-wynne-godley-late-colleague-who-predicted-recession.html",
+      "byline": "By Jonathan Schlefer"
+    },
+    {
+      "headline": "Court Says Privacy Case Can Proceed vs. Google",
+      "snippet": "A unanimous decision found little merit in Google’s legal maneuverings, stating at one critical point that the company was basically inventing meanings in an effort to declare its actions legal.",
+      "abstract": "A unanimous decision found little merit in Google’s legal maneuverings, stating at one critical point that the company was basically inventing meanings in an effort to declare its actions legal.",
+      "lead_paragraph": "SAN FRANCISCO — In a major legal setback for Google, a federal appeals court here said on Tuesday that a lawsuit accusing the Internet giant of illegal wiretapping could proceed.",
+      "publication_date": "2013-09-11T00:45:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/11/technology/court-says-privacy-case-can-proceed-vs-google.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Counting the Cost of Fixing the Future",
+      "snippet": "Deciding how much should be invested in fighting climate change depends on your investment outlook.",
+      "abstract": "Deciding how much should be invested in fighting climate change depends on your investment outlook.",
+      "lead_paragraph": "What would you pay to protect the world in which your great-great-grandchildren will live from hurricanes, drought and the like?",
+      "publication_date": "2013-09-11T01:27:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/11/business/counting-the-cost-of-fixing-the-future.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "A Housing Slump in India",
+      "snippet": "India’s developers are holding on to a growing inventory of unsold apartments because of worries that discounts could cause a market rout.",
+      "abstract": "India’s developers are holding on to a growing inventory of unsold apartments because of worries that discounts could cause a market rout.",
+      "lead_paragraph": "MUMBAI, India — The Orbit Grand, a block-size complex designed to have at least 26 floors of elegant apartments, an extensive array of ground-floor stores and abundant parking for the chauffeured cars of residents and shoppers, was supposed to be a diadem of India’s real estate market.",
+      "publication_date": "2013-09-11T02:09:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/09/11/business/global/a-housing-slump-in-india.html",
+      "byline": "By Keith Bradsher and Neha Thirani Bagri"
+    },
+    {
+      "headline": "Chemical Disarmament Hard Even in Peacetime",
+      "snippet": "Large numbers of foreign troops would almost certainly be needed to safeguard inspectors working in the midst of the civil war.",
+      "abstract": "Large numbers of foreign troops would almost certainly be needed to safeguard inspectors working in the midst of the civil war.",
+      "lead_paragraph": "Spread far and wide across Syria, the chemical weapons complex of the fractured state includes factories, bunkers, storage depots and thousands of munitions, all of which would have to be inspected and secured under a diplomatic initiative that President Obama says he is willing to explore.",
+      "publication_date": "2013-09-11T02:20:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/11/world/middleeast/Syria-Chemical-Disarmament.html",
+      "byline": "By William J. Broad and C. J. Chivers"
+    },
+    {
+      "headline": "Colorado Lawmakers Ousted in Recall Vote Over Gun Law",
+      "snippet": "Two Democrats who supported tough gun-control laws were recalled in what had become a proxy battle, with outside support from advocates on both sides.",
+      "abstract": "Two Democrats who supported tough gun-control laws were recalled in what had become a proxy battle, with outside support from advocates on both sides.",
+      "lead_paragraph": "COLORADO SPRINGS — Two Colorado Democrats who provided crucial support for a package of state gun laws were voted out of office on Tuesday in special elections seen as a test of whether swing-state voters would accept gun restrictions after mass shootings at a Colorado movie theater and a Connecticut elementary school. ",
+      "publication_date": "2013-09-11T04:17:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/09/11/us/colorado-lawmaker-concedes-defeat-in-recall-over-gun-law.html",
+      "byline": "By Jack Healy"
+    }
+  ]
+}

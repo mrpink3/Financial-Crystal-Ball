@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2008-11-05",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Shazam! A Projector Is Shrunk",
+      "snippet": "When a 100-inch screen is overkill, a ridiculously simple micro-projector like the Optoma Pico really shines.",
+      "abstract": "When a 100-inch screen is overkill, a ridiculously simple micro-projector like the Optoma Pico really shines.",
+      "lead_paragraph": "Come on, admit it: is there anything more awesome than miniaturization?",
+      "publication_date": "2008-11-04T21:15:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/05/technology/personaltech/05pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "F.C.C. Nods to New Use of Airwaves",
+      "snippet": "Regulators approved use of a slice of radio spectrum in hopes that it will lead to improved Internet access.",
+      "abstract": "Regulators approved use of a slice of radio spectrum in hopes that it will lead to improved Internet access.",
+      "lead_paragraph": "Over the objections of television broadcasters and other groups, federal regulators set aside a disputed slice of radio spectrum for public use on Tuesday, hoping it would lead to low-cost, high-speed Internet access and new wireless devices.",
+      "publication_date": "2008-11-04T22:25:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/05/technology/internet/05spectrum.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "In Era of Blog Sniping, Companies Shoot First",
+      "snippet": "Silicon Valley companies are now feeling pressured to break news about layoffs on their own blogs to better control the message.",
+      "abstract": "Silicon Valley companies are now feeling pressured to break news about layoffs on their own blogs to better control the message.",
+      "lead_paragraph": "SAN FRANCISCO  During past downturns, layoffs were mostly a private affair. Big companies tended to issue vague press releases filled with jargon about “downsizing,” and start-ups often gave people the pink slip without telling the world anything at all. ",
+      "publication_date": "2008-11-04T23:39:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/05/technology/start-ups/05blog.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Economy Shifts, and the Ethanol Industry Reels",
+      "snippet": "Falling prices, credit woes and volatile costs for the corn from which ethanol is made are threatening producers.",
+      "abstract": "Falling prices, credit woes and volatile costs for the corn from which ethanol is made are threatening producers.",
+      "lead_paragraph": "As producers of ethanol navigate a triple whammy of falling prices for their product, credit woes and volatile costs for the corn from which ethanol is made, an economic version of “Survivor” is playing out in the industry.",
+      "publication_date": "2008-11-05T01:22:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/05/business/05ethanol.html",
+      "byline": "By Kate Galbraith"
+    },
+    {
+      "headline": "A Time to Reap for Foot Soldiers of Civil Rights",
+      "snippet": "For some African-Americans, the trip to the polls on Tuesday was the culmination of a lifelong journey.",
+      "abstract": "For some African-Americans, the trip to the polls on Tuesday was the culmination of a lifelong journey.",
+      "lead_paragraph": "ALBANY, Ga. — Rutha Mae Harris backed her silver Town Car out of the driveway early Tuesday morning, pointed it toward her polling place on Mercer Avenue and started to sing.",
+      "publication_date": "2008-11-05T01:38:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05civil.html",
+      "byline": "By Kevin Sack"
+    },
+    {
+      "headline": "In Modeling Risk, the Human Factor Was Left Out",
+      "snippet": "Risk models used on Wall Street failed to keep pace with the growth in complex securities, experts say.",
+      "abstract": "Risk models used on Wall Street failed to keep pace with the growth in complex securities, experts say.",
+      "lead_paragraph": "Today’s economic turmoil, it seems, is an implicit indictment of the arcane field of financial engineering  a blend of mathematics, statistics and computing. Its practitioners devised not only the exotic, mortgage-backed securities that proved so troublesome, but also the mathematical models of risk that suggested these securities were safe.",
+      "publication_date": "2008-11-05T02:31:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/05/business/05risk.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Obama Elected President as Racial Barrier Falls",
+      "snippet": "Barack Hussein Obama was elected the 44th president of the United States, as the country chose him as its first black chief executive.",
+      "abstract": "Barack Hussein Obama was elected the 44th president of the United States, as the country chose him as its first black chief executive.",
+      "lead_paragraph": "Barack Hussein Obama was elected the 44th president of the United States on Tuesday, sweeping away the last racial barrier in American politics with ease as the country chose him as its first black chief executive.",
+      "publication_date": "2008-11-05T03:15:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05elect.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "No Time for Laurels; Now the Hard Part",
+      "snippet": "No president since before Barack Obama was born has ascended to the Oval Office confronted by such a set of seismic challenges.",
+      "abstract": "No president since before Barack Obama was born has ascended to the Oval Office confronted by such a set of seismic challenges.",
+      "lead_paragraph": "WASHINGTON — No president since before Barack Obama was born has ascended to the Oval Office confronted by the accumulation of seismic challenges awaiting him. Historians grasping for parallels point to Abraham Lincoln taking office as the nation was collapsing into Civil War, or Franklin D. Roosevelt arriving in Washington in the throes of the Great Depression.",
+      "publication_date": "2008-11-05T04:37:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05ahead.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "For Many Abroad, an Ideal Renewed",
+      "snippet": "It’s hard to overstate how fervently vast stretches of the globe wanted the election to turn out as it did.",
+      "abstract": "It’s hard to overstate how fervently vast stretches of the globe wanted the election to turn out as it did.",
+      "lead_paragraph": "GAZA — From far away, this is how it looks: There is a country out there where tens of millions of white Christians, voting freely, select as their leader a black man of modest origin, the son of a Muslim. There is a place on Earth — call it America — where such a thing happens. ",
+      "publication_date": "2008-11-05T05:04:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05global.html",
+      "byline": "By Ethan Bronner"
+    },
+    {
+      "headline": "Near-Flawless Run Is Credited in Victory",
+      "snippet": "The disciplined and nimble Obama team navigated an intense contest making remarkably few stumbles.",
+      "abstract": "The disciplined and nimble Obama team navigated an intense contest making remarkably few stumbles.",
+      "lead_paragraph": "It was the third week of September, and Senator John McCain was speaking to a nearly empty convention center in Jacksonville, Fla. Lehman Brothers had collapsed that day, a harrowing indicator of the coming financial crisis and a reminder that the presidential campaign was turning into a referendum on which candidate could best address the nation’s economic challenges.",
+      "publication_date": "2008-11-05T05:48:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "P",
+      "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05recon.html",
+      "byline": "By Adam Nagourney, Jim Rutenberg and Jeff Zeleny"
+    },
+    {
+      "headline": "Google Won’t Pursue Yahoo Ad Deal",
+      "snippet": "The move, which came after antitrust regulators raised objections, leaves Yahoo scrambling for a plan for growth.",
+      "abstract": "The move, which came after antitrust regulators raised objections, leaves Yahoo scrambling for a plan for growth.",
+      "lead_paragraph": "SAN FRANCISCO  Google offered its rival Yahoo a marriage of convenience this past summer: an advertising partnership that gave Yahoo an alternative to selling all or part of itself to Microsoft. ",
+      "publication_date": "2008-11-05T15:40:47+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/06/technology/internet/06google.html",
+      "byline": "By Miguel Helft and Steve Lohr"
+    }
+  ]
+}

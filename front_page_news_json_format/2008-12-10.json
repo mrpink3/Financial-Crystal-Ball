@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2008-12-10",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "A Fighter Jet’s Fate Poses a Quandary for Obama",
+      "snippet": "Two of Barack Obama’s goals — creating jobs and cutting waste — may collide in a decision over the F-22 fighter.",
+      "abstract": "Two of Barack Obama’s goals — creating jobs and cutting waste — may collide in a decision over the F-22 fighter.",
+      "lead_paragraph": "Two of President-elect Barack Obama’s stated goals  cutting wasteful spending and saving or creating millions of jobs  are on a collision course in a looming decision over whether to keep building the F-22 fighter jet.",
+      "publication_date": "2008-12-09T23:33:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/12/10/us/politics/10jets.html",
+      "byline": "By Christopher Drew"
+    },
+    {
+      "headline": "For Biotech, a Tax Break Spells Hope",
+      "snippet": "In its pitch to Congress, the biotech industry will portray itself as a model of innovation.",
+      "abstract": "In its pitch to Congress, the biotech industry will portray itself as a model of innovation.",
+      "lead_paragraph": "Move over Big Three. Little Biotech is joining you in seeking federal assistance. ",
+      "publication_date": "2008-12-09T23:37:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/12/10/business/10biobail.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Dire Forecast for Global Economy and Trade",
+      "snippet": "The world economy is on the brink of a rare global recession, the World Bank said, with world trade projected to fall for the first time since 1982.",
+      "abstract": "The world economy is on the brink of a rare global recession, the World Bank said, with world trade projected to fall for the first time since 1982.",
+      "lead_paragraph": "WASHINGTON  The world economy is on the brink of a rare global recession, the World Bank said in a forecast released Tuesday, with world trade projected to fall next year for the first time since 1982 and capital flows to developing countries predicted to plunge 50 percent.",
+      "publication_date": "2008-12-10T00:03:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/12/10/business/worldbusiness/10global.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "$73 an Hour: Adding It Up",
+      "snippet": "The gap between the pay of Big Three autoworkers and workers at foreign-owned plants is less than it seems.",
+      "abstract": "The gap between the pay of Big Three autoworkers and workers at foreign-owned plants is less than it seems.",
+      "lead_paragraph": "Seventy-three dollars an hour.",
+      "publication_date": "2008-12-10T02:37:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/12/10/business/economy/10leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Governor Accused in Scheme to Sell Obama’s Senate Seat",
+      "snippet": "The case extended beyond the Senate appointment and left many wondering who else might yet be implicated in Gov. Rod R. Blagojevich’s negotiations.",
+      "abstract": "The case extended beyond the Senate appointment and left many wondering who else might yet be implicated in Gov. Rod R. Blagojevich’s negotiations.",
+      "lead_paragraph": "CHICAGO  The governor of Illinois brazenly put up for sale his appointment of Barack Obama’s successor in the United States Senate, federal prosecutors said Tuesday.",
+      "publication_date": "2008-12-10T02:59:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/12/10/us/politics/10Illinois.html",
+      "byline": "By Monica Davey"
+    },
+    {
+      "headline": "From Canned Goods to Fresh, Food Banks Adapt",
+      "snippet": "Food banks are preparing ready-to-eat meals, opening their own farms and handling much more fresh produce.",
+      "abstract": "Food banks are preparing ready-to-eat meals, opening their own farms and handling much more fresh produce.",
+      "lead_paragraph": "MADISON, Wis.  Vanessa Rosales comes to the St. Vincent de Paul Food Pantry here rather than others for one reason: She can choose what food she brings home, rather than being handed a bag filled with random groceries. ",
+      "publication_date": "2008-12-10T03:03:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/12/10/us/10foodbank.html",
+      "byline": "By Katie Zezima"
+    },
+    {
+      "headline": "Foreign Automakers Say Little in Aid Debate",
+      "snippet": "Nearly all the foreign companies that build vehicles in the U.S. have said little publicly concerning whether their American rivals should get billions of dollars in aid.",
+      "abstract": "Nearly all the foreign companies that build vehicles in the U.S. have said little publicly concerning whether their American rivals should get billions of dollars in aid.",
+      "lead_paragraph": "There has been no shortage of opinions throughout the debate over a federal bailout for Detroit’s struggling automakers. But one group has been notably silent: foreign car companies.",
+      "publication_date": "2008-12-10T03:09:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/12/10/business/10transplants.html",
+      "byline": "By Micheline Maynard"
+    },
+    {
+      "headline": "Portrait of a Politician: Vengeful and Profane",
+      "snippet": "Even the people of Illinois, familiar with political scandal, were not prepared for Tuesday’s bombshell.",
+      "abstract": "Even the people of Illinois, familiar with political scandal, were not prepared for Tuesday’s bombshell.",
+      "lead_paragraph": "CHICAGO  Little in Gov. Rod R. Blagojevich’s background prepared the people of Illinois for the man who was revealed in the criminal complaint that dropped like a bombshell here on Tuesday. Delusional, narcissistic, vengeful and profane, Mr. Blagojevich as portrayed by federal prosecutors shocked even his most ardent detractors. ",
+      "publication_date": "2008-12-10T03:16:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/12/10/us/10blago.html",
+      "byline": "By Susan Saulny"
+    },
+    {
+      "headline": "As F.H.A.’s Role Grows, So Does the Risk of Fraud",
+      "snippet": "Its business is rising, but the federal mortgage guarantor is slow to weed out abusive lenders.",
+      "abstract": "Its business is rising, but the federal mortgage guarantor is slow to weed out abusive lenders.",
+      "lead_paragraph": "During the subprime boom, the Federal Housing Administration, created in 1934 to help lower-income and first-time buyers purchase homes, all but sat out the party.",
+      "publication_date": "2008-12-10T03:34:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/12/10/business/10fha.html",
+      "byline": "By Barry Meier"
+    },
+    {
+      "headline": "Unexpected Drop in China’s Imports and Exports",
+      "snippet": "Global demand for Chinese products is vanishing as the financial crisis slows trade, one economist says.",
+      "abstract": "Global demand for Chinese products is vanishing as the financial crisis slows trade, one economist says.",
+      "lead_paragraph": "BEIJING  Chinese exports registered their largest drop in nearly a decade last month, suggesting that the global recession could be far worse than many economists had previously predicted. ",
+      "publication_date": "2008-12-10T12:31:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/12/11/business/11yuan.html",
+      "byline": "By Andrew Jacobs and David Barboza"
+    }
+  ]
+}

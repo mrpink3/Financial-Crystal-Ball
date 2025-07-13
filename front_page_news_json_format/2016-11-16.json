@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2016-11-16",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Political Divide Splits Relationships — and Thanksgiving, Too",
+      "snippet": "Families around the country are facing, or even skipping, uncomfortable holidays as the election’s repercussions enter people’s lives.",
+      "abstract": "Families around the country are facing, or even skipping, uncomfortable holidays as the election’s repercussions enter people’s lives.",
+      "lead_paragraph": "WASHINGTON — Matthew Horn, a software engineer from Boulder, Colo., canceled Christmas plans with his family in Texas. Nancy Sundin, a social worker in Spokane, Wash., has called off Thanksgiving with her mother and brother. Ruth Dorancy, a software designer in Chicago, decided to move her wedding so that her fiancé’s grandmother and aunt, strong Trump supporters from Florida, could not attend.",
+      "publication_date": "2016-11-15T20:01:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/11/16/us/political-divide-splits-relationships-and-thanksgiving-too.html",
+      "byline": "By Sabrina Tavernise and Katharine Q. Seelye"
+    },
+    {
+      "headline": "Snapchat’s Parent Files for a Stock Offering",
+      "snippet": "The confidential filing by Snap Inc. might allow the social network company to hold an offering as soon as March.",
+      "abstract": "The confidential filing by Snap Inc. might allow the social network company to hold an offering as soon as March.",
+      "lead_paragraph": "The clock has started for one of the most eagerly awaited market debuts of 2017: that of Snapchat, the popular messaging service.",
+      "publication_date": "2016-11-15T22:07:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/11/16/business/dealbook/snapchats-parent-files-for-a-stock-offering.html",
+      "byline": "By Michael J. de la Merced and Katie Benner"
+    },
+    {
+      "headline": "What’s Organic? A Debate Over Dirt May Boil Down to Turf",
+      "snippet": "With investment up in hydroponic and aquaponic systems that grow plants without soil, the question rages over whether the produce can be labeled organic.",
+      "abstract": "With investment up in hydroponic and aquaponic systems that grow plants without soil, the question rages over whether the produce can be labeled organic.",
+      "lead_paragraph": "If a fruit or vegetable isn’t grown in dirt, can it be organic?",
+      "publication_date": "2016-11-15T22:18:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/11/16/business/organic-certification-hydroponic-aquaponic-produce.html",
+      "byline": "By Stephanie Strom"
+    },
+    {
+      "headline": "William Ackman’s 2016 Fortune: Down, but Far From Out",
+      "snippet": "The silver-haired hedge fund billionaire is on pace to hand investors a second year of steep losses, but they are counting on his knack for turning things around.",
+      "abstract": "The silver-haired hedge fund billionaire is on pace to hand investors a second year of steep losses, but they are counting on his knack for turning things around.",
+      "lead_paragraph": "William A. Ackman is a big-moneyed, swaggering hedge fund manager with a long list of accomplishments.",
+      "publication_date": "2016-11-16T01:28:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/11/16/business/dealbook/william-ackmans-2016-fortune-down-but-far-from-out.html",
+      "byline": "By Alexandra Stevenson and Matthew Goldstein"
+    },
+    {
+      "headline": "Megyn Kelly’s Cautionary Tale of Crossing Donald Trump",
+      "snippet": "While discussing her new book, the Fox News anchor describes her initial run-in with Donald J. Trump as “prescient” and warns fellow journalists to remain vigilant while covering the Trump White House.",
+      "abstract": "While discussing her new book, the Fox News anchor describes her initial run-in with Donald J. Trump as “prescient” and warns fellow journalists to remain vigilant while covering the Trump White House.",
+      "lead_paragraph": "The Fox News anchor Megyn Kelly has spent the better part of the last year living in the main gladiator pit of 2016, becoming as much a target for Donald J. Trump as any of his opponents and emerging as a pivotal figure in the forced resignation of the Fox News Channel chairman Roger Ailes, whom she accused of sexual harassment.",
+      "publication_date": "2016-11-16T01:44:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/11/16/business/media/megyn-kellys-cautionary-tale-of-crossing-donald-j-trump.html",
+      "byline": "By Jim Rutenberg"
+    },
+    {
+      "headline": "Social Media’s Globe-Shaking Power",
+      "snippet": "The election of Donald J. Trump is perhaps the starkest illustration yet that social networks are helping to rewire human society.",
+      "abstract": "The election of Donald J. Trump is perhaps the starkest illustration yet that social networks are helping to rewire human society.",
+      "lead_paragraph": "As the technology industry came to grips in the last week with the reality of a presidential election that did not go its way, many in Silicon Valley landed on the idea that widespread misinformation spread online was a primary factor in the race’s outcome.",
+      "publication_date": "2016-11-16T11:00:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/11/17/technology/social-medias-globe-shaking-power.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Syrian President Calls Donald Trump a ‘Natural Ally’ in Fight Against Terrorism",
+      "snippet": "Bashar al-Assad also predicted that “opposing forces” in the U.S. government and criticism from the news media could affect Mr. Trump’s actions.",
+      "abstract": "Bashar al-Assad also predicted that “opposing forces” in the U.S. government and criticism from the news media could affect Mr. Trump’s actions.",
+      "lead_paragraph": "WASHINGTON — President Bashar al-Assad of Syria, condemned by the Obama administration and much of the West for waging a brutal war of suppression against Islamist opponents in his country, said this week that President-elect Donald J. Trump could be a “natural ally” in the fight against terrorism. The comment underscored the degree to which the new administration’s approach could reverse central tenets of American foreign policy.",
+      "publication_date": "2016-11-16T14:09:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/11/17/world/middleeast/assad-donald-trump-syria-natural-ally.html",
+      "byline": "By Helene Cooper and Eric Schmitt"
+    }
+  ]
+}

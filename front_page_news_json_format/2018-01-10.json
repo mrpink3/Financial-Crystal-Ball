@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-01-10",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "AT&T Drops Huawei’s New Smartphone Amid Security Worries",
+      "snippet": "The telecommunications giant canceled a deal to sell the Mate 10 after U.S. lawmakers expressed misgivings about what they said were Huawei’s ties to the Chinese government.",
+      "abstract": "The telecommunications giant canceled a deal to sell the Mate 10 after U.S. lawmakers expressed misgivings about what they said were Huawei’s ties to the Chinese government.",
+      "lead_paragraph": "SHANGHAI — With an advanced screen, a special artificial-intelligence microchip and an eye-popping price, the newest smartphone from Huawei Technologies was meant to show Americans what China can do with technology.",
+      "publication_date": "2018-01-09T16:57:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/09/business/att-huawei-mate-smartphone.html",
+      "byline": "By Paul Mozur"
+    },
+    {
+      "headline": "Trump Appears to Endorse Path to Citizenship for Millions of Immigrants",
+      "snippet": "President Trump said he would be willing to “take the heat” politically for a sweeping immigration deal, which could alienate some of his supporters.",
+      "abstract": "President Trump said he would be willing to “take the heat” politically for a sweeping immigration deal, which could alienate some of his supporters.",
+      "lead_paragraph": "WASHINGTON — President Trump on Tuesday appeared open to negotiating a sweeping immigration deal that would eventually grant millions of undocumented immigrants a pathway to citizenship, declaring that he was willing to “take the heat” politically for an approach that seemed to flatly contradict the anti-immigration stance that charged his political rise.",
+      "publication_date": "2018-01-09T18:27:58+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/09/us/politics/trump-daca-immigration.html",
+      "byline": "By Julie Hirschfeld Davis and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "As Electric Cars’ Prospects Brighten, Japan Fears Being Left Behind",
+      "snippet": "The country, which missed out on some earlier technological shifts, is now scrambling to catch up as the world warms up to battery-powered vehicles.",
+      "abstract": "The country, which missed out on some earlier technological shifts, is now scrambling to catch up as the world warms up to battery-powered vehicles.",
+      "lead_paragraph": "FUJI, Japan — At a factory near the base of Mount Fuji, workers painstakingly assemble transmissions for some of the world’s top-selling cars. The expensive, complex components, and the workers’ jobs, could be obsolete in a couple of decades.",
+      "publication_date": "2018-01-09T19:38:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/09/business/japan-electric-cars.html",
+      "byline": "By Jonathan Soble"
+    },
+    {
+      "headline": "Steve Bannon Steps Down From Breitbart Post",
+      "snippet": "Mr. Bannon, closely associated with the right-wing news site in recent years, has lost support with conservative backers as President Trump denounced him.",
+      "abstract": "Mr. Bannon, closely associated with the right-wing news site in recent years, has lost support with conservative backers as President Trump denounced him.",
+      "lead_paragraph": "WASHINGTON — Stephen K. Bannon stepped down on Tuesday from his post as executive chairman of Breitbart News, ostracized for now from conservative circles and the Republican Party he brazenly predicted he would remake.",
+      "publication_date": "2018-01-09T21:02:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/09/us/politics/steve-bannon-breitbart-trump.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "North Carolina Is Ordered to Redraw Its Congressional Map",
+      "snippet": "The ruling was the first time that a federal court had blocked a congressional map because the judges believed it to be a partisan gerrymander.",
+      "abstract": "The ruling was the first time that a federal court had blocked a congressional map because the judges believed it to be a partisan gerrymander.",
+      "lead_paragraph": "A panel of federal judges struck down North Carolina’s congressional map on Tuesday, condemning it as unconstitutional because Republicans had drawn the map seeking a political advantage.",
+      "publication_date": "2018-01-09T23:19:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/09/us/north-carolina-gerrymander.html",
+      "byline": "By Alan Blinder and Michael Wines"
+    },
+    {
+      "headline": "Trump’s Negotiation on Immigration, Unfolding on Camera",
+      "snippet": "President Trump and a delegation of lawmakers from both parties engaged in a vigorous discussion of immigration, in effect negotiating legislation in front of the nation.",
+      "abstract": "President Trump and a delegation of lawmakers from both parties engaged in a vigorous discussion of immigration, in effect negotiating legislation in front of the nation.",
+      "lead_paragraph": "WASHINGTON — For 55 minutes, with cameras rolling, President Trump engaged in a vigorous discussion of immigration with congressional leaders of both parties in a setting usually reserved for bland talking points and meaningless photo opportunities.",
+      "publication_date": "2018-01-10T01:25:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/09/us/politics/trump-immigration-meeting.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Trump Sidesteps Question on Mueller Interview",
+      "snippet": "The response was a marked change from June, when President Trump said he would be “100 percent” willing to give a sworn statement to the special counsel.",
+      "abstract": "The response was a marked change from June, when President Trump said he would be “100 percent” willing to give a sworn statement to the special counsel.",
+      "lead_paragraph": "WASHINGTON — President Trump declined on Wednesday to commit to being interviewed by Robert S. Mueller III, the special counsel investigating whether his campaign colluded with Russia to sway the 2016 election, backing off his statement last year that he would be willing to talk to Mr. Mueller under oath.",
+      "publication_date": "2018-01-10T11:00:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/10/us/politics/trump-russia-election-interference.html",
+      "byline": "By Julie Hirschfeld Davis and Nicholas Fandos"
+    }
+  ]
+}

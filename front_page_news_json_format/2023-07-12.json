@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2023-07-12",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Why the Early Success of Threads May Crash Into Reality",
+      "snippet": "Mark Zuckerberg has used Meta’s might to push Threads to a fast start — but that may only work up to a point.",
+      "abstract": "Mark Zuckerberg has used Meta’s might to push Threads to a fast start — but that may only work up to a point.",
+      "lead_paragraph": "A big tech company with billions of users introduces a new social network. Leveraging the popularity and scale of its existing products, the company intends to make the new social platform a success. In doing so, it also plans to squash a leading competitor’s app.",
+      "publication_date": "2023-07-11T16:06:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/11/technology/threads-zuckerberg-meta-google-plus.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Inside the White-Hot Center of A.I. Doomerism",
+      "snippet": "Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.",
+      "abstract": "Anthropic, a safety-focused A.I. start-up, is trying to compete with ChatGPT while preventing an A.I. apocalypse. It’s been a little stressful.",
+      "lead_paragraph": "It’s a few weeks before the release of Claude, a new A.I. chatbot from the artificial intelligence start-up Anthropic, and the nervous energy inside the company’s San Francisco headquarters could power a rocket.",
+      "publication_date": "2023-07-11T20:13:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "NATO Says It Will Invite Ukraine Some Day, Resisting Calls to Act Soon",
+      "snippet": "The alliance firmed up its plans to include Ukraine eventually, but gave no timetable, siding with President Biden and frustrating some East European members.",
+      "abstract": "The alliance firmed up its plans to include Ukraine eventually, but gave no timetable, siding with President Biden and frustrating some East European members.",
+      "lead_paragraph": "NATO declared on Tuesday that Ukraine would be invited to join the alliance, but did not say how or when, disappointing its president but reflecting the resolve by President Biden and other leaders not to be drawn directly into Ukraine’s war with Russia.",
+      "publication_date": "2023-07-11T22:45:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/11/world/europe/ukraine-nato-summit-biden.html",
+      "byline": "By Steven Erlanger, David E. Sanger and Lara Jakes"
+    },
+    {
+      "headline": "F.T.C.’s Court Loss Raises Fresh Questions About Its Chair’s Strategy",
+      "snippet": "Lina Khan has said a fear of defeat should not deter the agency from suing big tech companies. But after Microsoft won a ruling this week, her critics say that strategy is flawed.",
+      "abstract": "Lina Khan has said a fear of defeat should not deter the agency from suing big tech companies. But after Microsoft won a ruling this week, her critics say that strategy is flawed.",
+      "lead_paragraph": "Lina Khan became chair of the Federal Trade Commission two years ago on a promise to bring bold action against the biggest tech companies.",
+      "publication_date": "2023-07-12T01:30:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/11/technology/lina-khan-ftc-strategy.html",
+      "byline": "By Cecilia Kang"
+    },
+    {
+      "headline": "How to Revive a Dying Main Street? One U.K. Landlord Offered Free Rent.",
+      "snippet": "In a coastal English town, a floundering shopping district was given new life after 10 local businesses were given free rent for two years.",
+      "abstract": "In a coastal English town, a floundering shopping district was given new life after 10 local businesses were given free rent for two years.",
+      "lead_paragraph": "For two decades, Steven Wyatt was in a cycle of drug addiction and rehab. In 2006, during a stint at a recovery center, he learned how to restore furniture, a skill that led him to an unexpected place: running his own store in Poole, a coastal town in southwest England.",
+      "publication_date": "2023-07-12T04:01:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/12/business/england-high-street-retail-recovery.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "The Energy Transition Is Underway. Fossil Fuel Workers Could Be Left Behind.",
+      "snippet": "The Biden administration is trying to increase renewable energy investments in distressed regions, but some are skeptical those measures would be enough to make up for job losses.",
+      "abstract": "The Biden administration is trying to increase renewable energy investments in distressed regions, but some are skeptical those measures would be enough to make up for job losses.",
+      "lead_paragraph": "Tiffany Berger spent more than a decade working at a coal-fired power plant in Coshocton County, Ohio, eventually becoming a unit operator making about $100,000 annually.",
+      "publication_date": "2023-07-12T07:00:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/12/us/politics/coal-gas-workers-transition.html",
+      "byline": "By Madeleine Ngo"
+    },
+    {
+      "headline": "Inflation Cools Sharply in June, Good News for Consumers and the Fed",
+      "snippet": "The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”",
+      "abstract": "The Consumer Price Index climbed far more slowly in June, a relief for shoppers and a hopeful — though inconclusive — sign that America might pull off a “soft landing.”",
+      "lead_paragraph": "Inflation cooled significantly in June, offering some of the most hopeful news since the Federal Reserve began trying to tame rapid price increases 16 months ago — and boosting the chances that the central bank might be able to stop raising interest rates after its meeting this month.",
+      "publication_date": "2023-07-12T09:00:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/12/business/economy/inflation-economy-fed-rates.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "How a Peaceful Country Became a Gold Rush State for Drug Cartels",
+      "snippet": "In Ecuador, an intelligence official said: “People consume abroad, but they don’t understand the consequences that take place here.”",
+      "abstract": "In Ecuador, an intelligence official said: “People consume abroad, but they don’t understand the consequences that take place here.”",
+      "lead_paragraph": "A total of 210 tons of drugs seized in a single year, a record. At least 4,500 killings last year, also a record. Children recruited by gangs. Prisons as hubs for crime. Neighborhoods consumed by criminal feuds. And all this chaos financed by powerful outsiders with deep pockets and lots of experience in the global drug business.",
+      "publication_date": "2023-07-12T09:01:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/12/world/americas/ecuador-drug-cartels.html",
+      "byline": "By Julie Turkewitz and Victor Moriyama"
+    },
+    {
+      "headline": "Milan Kundera, Literary Star Who Skewered Communist Rule, Dies at 94",
+      "snippet": "The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.",
+      "abstract": "The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.",
+      "lead_paragraph": "Milan Kundera, the Communist Party outcast who became a global literary star with mordant, sexually charged novels that captured the suffocating absurdity of life in the workers’ paradise of his native Czechoslovakia, died on Tuesday in Paris. He was 94.",
+      "publication_date": "2023-07-12T09:43:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/12/world/europe/milan-kundera-dead.html",
+      "byline": "By Daniel Lewis"
+    },
+    {
+      "headline": "Threads Review: How Meta’s New App Stacks Up Against Twitter",
+      "snippet": "One of us is a Twitter addict; the other not so much. In the end, we were both unsure how people might use Threads in the long run.",
+      "abstract": "One of us is a Twitter addict; the other not so much. In the end, we were both unsure how people might use Threads in the long run.",
+      "lead_paragraph": "When we — Brian X. Chen and Mike Isaac, both longtime tech journalists — got an assignment from our editor last week to review Threads, the new social network from Meta, it was like a blast from the past.",
+      "publication_date": "2023-07-12T14:41:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/12/technology/personaltech/meta-threads-review.html",
+      "byline": "By Brian X. Chen and Mike Isaac"
+    }
+  ]
+}

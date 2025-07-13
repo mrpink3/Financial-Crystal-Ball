@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-03-06",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Nasdaq Changed in Its Climb to 5,000",
+      "snippet": "Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",
+      "abstract": "Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",
+      "lead_paragraph": "That the Nasdaq composite index closed over 5,000 this week for the first time in 15 years is not just a reminder of the virtues of patience. It’s even more a testament to the transformative power of capitalism.",
+      "publication_date": "2015-03-05T20:38:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/06/business/a-changed-nasdaq-makes-the-long-climb-back-to-5000.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "In Ellen Pao’s Suit vs. Kleiner Perkins, World of Venture Capital Is Under Microscope",
+      "snippet": "What is really under examination in this trial is the question of why there are so few women in leadership positions in Silicon Valley.",
+      "abstract": "What is really under examination in this trial is the question of why there are so few women in leadership positions in Silicon Valley.",
+      "lead_paragraph": "SAN FRANCISCO — Speak up — but don’t talk too much. Light up the room — but don’t overshadow others. Be confident and critical — but not cocky or negative.",
+      "publication_date": "2015-03-05T20:55:38+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/06/technology/in-ellen-paos-suit-vs-kleiner-perkins-world-of-venture-capital-is-under-microscope.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Big Banks Pass Muster in Latest Stress Tests",
+      "snippet": "All 31 institutions are found to have enough financial strength to survive a severe downturn in the United States economy.",
+      "abstract": "All 31 institutions are found to have enough financial strength to survive a severe downturn in the United States economy.",
+      "lead_paragraph": "The nation’s largest banks appear to have the financial strength to survive a nightmarish world where unemployment soars, house prices plummet and Wall Street crashes, the Federal Reserve said on Thursday.",
+      "publication_date": "2015-03-05T21:43:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/06/business/dealbook/fed-stress-tests-find-biggest-banks-meet-capital-thresholds.html",
+      "byline": "By Peter Eavis"
+    },
+    {
+      "headline": "Reinventing the Mail Truck ",
+      "snippet": "The United States Postal Service is asking automakers to produce a truck that is more fuel efficient, safer and with room for all the packages mail carriers are increasingly handling.",
+      "abstract": "The United States Postal Service is asking automakers to produce a truck that is more fuel efficient, safer and with room for all the packages mail carriers are increasingly handling.",
+      "lead_paragraph": "ARLINGTON, Va. — On a recent snowy morning, Michael Ellis prepared his mail truck for the daily route he has run here for the last decade, through a neighborhood in the Washington suburbs.",
+      "publication_date": "2015-03-06T00:41:13+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/06/automobiles/the-mail-truck-is-a-classic-and-thats-a-problem-for-a-modern-post-office.html",
+      "byline": "By Aaron M. Kessler"
+    },
+    {
+      "headline": "Companies Turn Tables on Human Rights Lawyers",
+      "snippet": "American companies accused of human rights abuses abroad are on the counterattack, seeking to bring down the lawyers who targeted them.",
+      "abstract": "American companies accused of human rights abuses abroad are on the counterattack, seeking to bring down the lawyers who targeted them.",
+      "lead_paragraph": "Over the past decade, companies doing business in Colombia, like Chiquita Brands and Dole Food, have incurred the wrath of Terrence Collingsworth, a lawyer who has accused them of mistreating workers or conspiring to kill labor activists.",
+      "publication_date": "2015-03-06T02:06:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/06/business/companies-turn-tables-on-human-rights-lawyers.html",
+      "byline": "By Barry Meier"
+    },
+    {
+      "headline": "AbbVie Wins Bidding War for Maker of Cancer Drug, Then Goes on Defensive",
+      "snippet": "Strategically, the $21 billion deal for Pharmacyclics seems to make sense for AbbVie, but at least some analysts said the company had paid too much.",
+      "abstract": "Strategically, the $21 billion deal for Pharmacyclics seems to make sense for AbbVie, but at least some analysts said the company had paid too much.",
+      "lead_paragraph": "Robert Duggan, according to his many websites, has played basketball with Pat Riley of the N.B.A., taught his children to surf by the time they were 3 and made fortunes starting and selling companies in fields as varied as cookies and robot surgery. He is the largest donor to the Church of Scientology.",
+      "publication_date": "2015-03-06T02:07:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/03/06/business/abbvie-wins-bidding-war-for-maker-of-cancer-drug-then-goes-on-defensive.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Iran Gains Influence in Iraq as Shiite Forces Fight ISIS",
+      "snippet": "Iran’s powerful influence in Iraq has been on display as the fight against the Islamic State militants around Tikrit has unfolded, with strong support for Shiite leaders where they were once feared.",
+      "abstract": "Iran’s powerful influence in Iraq has been on display as the fight against the Islamic State militants around Tikrit has unfolded, with strong support for Shiite leaders where they were once feared.",
+      "lead_paragraph": "AWJA, Iraq — All along the green irrigated plains in the heart of what American occupying troops used to call the Sunni triangle, lampposts and watchtowers are flying the flags of the Badr Organization, a Shiite militia long hated and feared by many Iraqi Sunnis.",
+      "publication_date": "2015-03-06T02:29:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/06/world/middleeast/iran-gains-influence-in-iraq-as-shiite-forces-fight-isis.html",
+      "byline": "By Anne Barnard"
+    },
+    {
+      "headline": "Ferguson Report Puts ‘Hands Up’ to Reality Test",
+      "snippet": "The report, which cleared Officer Darren Wilson while sharply criticizing Ferguson’s justice system, called into question the story behind the rallying cry “Hands up, don’t shoot.”",
+      "abstract": "The report, which cleared Officer Darren Wilson while sharply criticizing Ferguson’s justice system, called into question the story behind the rallying cry “Hands up, don’t shoot.”",
+      "lead_paragraph": "They were four words that became the national rallying cry of a new civil rights movement: “Hands up, don’t shoot.” ",
+      "publication_date": "2015-03-06T03:13:49+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/06/us/in-ferguson-both-sides-see-vindication-in-justice-department-reports.html",
+      "byline": "By Jack Healy, Sheryl Gay Stolberg and Vivian Yee"
+    },
+    {
+      "headline": "After a Bounce, Wage Growth Slumps to 0.1% ",
+      "snippet": "The gains exceeded economists’ expectations and added to encouragement about the continued recovery, though wage growth has barely budged in months.",
+      "abstract": "The gains exceeded economists’ expectations and added to encouragement about the continued recovery, though wage growth has barely budged in months.",
+      "lead_paragraph": "The economy is adding jobs at a rapid pace, the Labor Department reported on Friday, but there’s still one major holdout to the recovery: wages.",
+      "publication_date": "2015-03-06T10:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/07/business/economy/jobs-report-unemployment-february.html",
+      "byline": "By Dionne Searcey"
+    },
+    {
+      "headline": "Assignment America: Selma",
+      "snippet": "Fifty years after the police viciously attacked hundreds of marchers in a pivotal moment of the civil rights movement, Selma, Ala., defies neat story lines.",
+      "abstract": "Fifty years after the police viciously attacked hundreds of marchers in a pivotal moment of the civil rights movement, Selma, Ala., defies neat story lines.",
+      "lead_paragraph": "This series will explore changes in American politics, culture and technology, drawing on the reporting and personal experiences of New York Times journalists around the country.",
+      "publication_date": "2015-03-06T12:42:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/03/07/us/selma-gay-talese.html",
+      "byline": "By Gay Talese"
+    }
+  ]
+}

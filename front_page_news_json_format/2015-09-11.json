@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-09-11",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "At WeWork, an Idealistic Start-Up Clashes With Its Cleaners",
+      "snippet": "To its chagrin, the office-space rental firm, with a $10 billion valuation, is accused of callous, anti-labor behavior toward cleaning workers.",
+      "abstract": "To its chagrin, the office-space rental firm, with a $10 billion valuation, is accused of callous, anti-labor behavior toward cleaning workers.",
+      "lead_paragraph": "Adam Neumann bounded through the downtown Manhattan headquarters of WeWork, beaming as he pointed out the amenities of the open floor plan.",
+      "publication_date": "2015-09-10T16:37:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2015/09/13/business/at-wework-an-idealistic-startup-clashes-with-its-cleaners.html",
+      "byline": "By David Gelles"
+    },
+    {
+      "headline": "Justice Dept. Vow to Go After Bankers May Prove a Promise Hard to Keep",
+      "snippet": "Recent investigations suggest that changes to Justice Department guidelines may not guarantee a Wall Street “perp walk.”",
+      "abstract": "Recent investigations suggest that changes to Justice Department guidelines may not guarantee a Wall Street “perp walk.”",
+      "lead_paragraph": "Banks don’t break the law, bankers do.",
+      "publication_date": "2015-09-10T17:04:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/11/business/dealbook/challenges-remain-for-justice-dept-in-prosecuting-executives.html",
+      "byline": "By Ben Protess and Matt Apuzzo"
+    },
+    {
+      "headline": "As Head-Up Displays Become Common, Distraction Becomes an Issue",
+      "snippet": "The technology, which shows data like a vehicle’s speed in front of the driver, is moving beyond performance cars and appearing in more models.",
+      "abstract": "The technology, which shows data like a vehicle’s speed in front of the driver, is moving beyond performance cars and appearing in more models.",
+      "lead_paragraph": "When Manish Undavia took delivery of the 2016 Audi A7 sedan — list price, about $71,000 — it came with technology rarely found in automobiles, even five years ago: collision avoidance systems, sensors to keep the car from drifting and, perhaps most baffling to Mr. Undavia, a head-up display.",
+      "publication_date": "2015-09-10T19:53:19+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/11/automobiles/as-head-up-displays-become-common-distraction-becomes-an-issue.html",
+      "byline": "By Stephen Williams"
+    },
+    {
+      "headline": "A Venezuelan in Silicon Valley Finds a Niche in Finance",
+      "snippet": "Meyer Malka of Ribbit Capital became a rising force in Silicon Valley by betting on financial technology when few others did.",
+      "abstract": "Meyer Malka of Ribbit Capital became a rising force in Silicon Valley by betting on financial technology when few others did.",
+      "lead_paragraph": "PALO ALTO, Calif. — Jonathan Gheller went from selling tequeños, a Venezuelan fried, cheese-filled appetizer, in Caracas to building a company that he sold to Facebook. Now, working at its placid Menlo Park, Calif., headquarters, he credits mostly one person for his change in fortune.",
+      "publication_date": "2015-09-10T22:16:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/11/business/dealbook/a-venezuelan-in-silicon-valley-finds-a-niche-in-finance.html",
+      "byline": "By Vinod Sreeharsha"
+    },
+    {
+      "headline": "The Dubious Case of Dewey & LeBoeuf ",
+      "snippet": "Whether three top executives of the fallen law firm defrauded the firm’s lenders and bondholders in a sophisticated accounting conspiracy is now up to a jury.",
+      "abstract": "Whether three top executives of the fallen law firm defrauded the firm’s lenders and bondholders in a sophisticated accounting conspiracy is now up to a jury.",
+      "lead_paragraph": "The names Enron and WorldCom are synonymous with accounting fraud and an era in which top executives turned to desperate measures to inflate company earnings, mislead investors, prop up share prices and supercharge their already exorbitant compensation.",
+      "publication_date": "2015-09-11T00:12:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/11/business/the-dubious-case-of-dewey-leboeuf.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "In Second Republican Debate, Donald Trump’s Rivals Seek Points, Not Knockout",
+      "snippet": "As the presidential campaign enters a more combative phase, many in the G.O.P. field are refining their battle plans for next week’s debate on CNN.",
+      "abstract": "As the presidential campaign enters a more combative phase, many in the G.O.P. field are refining their battle plans for next week’s debate on CNN.",
+      "lead_paragraph": "The Republican presidential candidates, increasingly certain that their televised debates can have make-or-break consequences for their campaigns, are preparing aggressive new tactics for their next face-off on Wednesday, hoping to draw voters away from the surprisingly durable Donald J. Trump as the 2016 race enters a more combative phase.",
+      "publication_date": "2015-09-11T01:09:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/11/us/politics/looking-to-score-with-republican-debate-viewers-not-floor-donald-trump.html",
+      "byline": "By Patrick Healy and Jonathan Martin"
+    },
+    {
+      "headline": "Influential Pro-Israel Group Suffers Stinging Political Defeat ",
+      "snippet": "The American Israel Public Affairs Committee’s failure to block the Iran deal, after spending nearly $30 million to defeat it, raises questions about whether its power has now been diminished.",
+      "abstract": "The American Israel Public Affairs Committee’s failure to block the Iran deal, after spending nearly $30 million to defeat it, raises questions about whether its power has now been diminished.",
+      "lead_paragraph": "WASHINGTON — Officials at the American Israel Public Affairs Committee knew the odds were against them in the fight to block President Obama’s nuclear deal with Iran from surviving a congressional vote. But the influential pro-Israel group threw itself into a nearly $30 million advertising and lobbying effort to kill the accord anyway.",
+      "publication_date": "2015-09-11T01:22:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/11/world/influential-pro-israel-group-suffers-stinging-political-defeat.html",
+      "byline": "By Julie Hirschfeld Davis"
+    },
+    {
+      "headline": "Empathy and Angst in a German City Transformed by Refugees",
+      "snippet": "Erfurt expects to have added 4,000 migrants to its population of 208,000 by year’s end, a challenge one official calls the biggest since World War II.",
+      "abstract": "Erfurt expects to have added 4,000 migrants to its population of 208,000 by year’s end, a challenge one official calls the biggest since World War II.",
+      "lead_paragraph": "ERFURT, Germany — The mood in the school gymnasium was turning. City officials had invited people from the nearby tower blocks, to explain that a group of migrants, mostly Syrians, had been housed in the neighborhood the night before.",
+      "publication_date": "2015-09-11T11:11:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/09/12/world/europe/empathy-and-angst-in-a-german-city-transformed-by-migrants.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Simpler, Less Expensive 401(k) Options Emerge for Small Businesses",
+      "snippet": "Most employers with fewer than 100 workers don’t offer 401(k) plans, and when they do, they’re expensive. But the landscape is quickly changing.",
+      "abstract": "Most employers with fewer than 100 workers don’t offer 401(k) plans, and when they do, they’re expensive. But the landscape is quickly changing.",
+      "lead_paragraph": "The way Jon Stein sees it, receiving financial advice for retirement should be a fundamental right.",
+      "publication_date": "2015-09-11T12:42:44+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/09/12/your-money/401-k-options-for-small-businesses.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Safety Suffers as Stock Options Propel Executive Pay Packages",
+      "snippet": "A study finds a correlation between awarding executives generous stock options and the incidence of product recalls that could affect consumers’ health.",
+      "abstract": "A study finds a correlation between awarding executives generous stock options and the incidence of product recalls that could affect consumers’ health.",
+      "lead_paragraph": "Outsize executive pay packages have frequently been a flash point for stock market investors. Lavish executive compensation at publicly traded companies should be a significant concern for consumers, too.",
+      "publication_date": "2015-09-11T15:07:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2015/09/13/business/safety-suffers-as-stock-options-propel-executive-pay-packages.html",
+      "byline": "By Gretchen Morgenson"
+    }
+  ]
+}

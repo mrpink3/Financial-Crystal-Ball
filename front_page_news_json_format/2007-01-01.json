@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2007-01-01",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "The Lonely Newspaper Reader",
+      "snippet": "What does the sale by the McClatchy Company of The Minneapolis Star Tribune at a reduced price to a private equity group say about the future of newspapers?",
+      "abstract": "What does the sale by the McClatchy Company of The Minneapolis Star Tribune at a reduced price to a private equity group say about the future of newspapers?",
+      "lead_paragraph": "In the house where I grew up, everybody ate breakfast at the same time. The younger ones would sit at the table elbowing one another for toast while my dad stood, drinking coffee and reading The Minneapolis Star Tribune. ",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/01/business/media/01carr.html",
+      "byline": "By David Carr"
+    },
+    {
+      "headline": "Disney Plans to Introduce a Sleek Makeover of Disney.com Site",
+      "snippet": "Disney executives say the new site is more intuitive than its clumsy predecessor and features video and interactive features.",
+      "abstract": "Disney executives say the new site is more intuitive than its clumsy predecessor and features video and interactive features.",
+      "lead_paragraph": "LOS ANGELES, Dec. 31 — When the Walt Disney Company’s chief executive, Robert A. Iger, takes the stage at the Consumer Electronics Show in Las Vegas on Jan. 8, he is expected to introduce the new Disney.com Web site that has taken more than a year to redesign.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/01/technology/01disney.html",
+      "byline": "By Laura M. Holson"
+    },
+    {
+      "headline": "A Century Later, Los Angeles Atones for Water Sins",
+      "snippet": "A river restoration is among the steps the city is taking to redress the environmental effects of its water policies.",
+      "abstract": "A river restoration is among the steps the city is taking to redress the environmental effects of its water policies.",
+      "lead_paragraph": "INDEPENDENCE, Calif. — It may fall short of a feel-good sequel to “Chinatown,” the movie based on the notorious, somewhat shady water grab by Los Angeles that allowed the city to bloom from a semi-arid desert.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/01/us/01water.html",
+      "byline": "By Randal C. Archibold"
+    },
+    {
+      "headline": "3,000 Deaths in Iraq, Countless Tears at Home",
+      "snippet": "The landmark reflects how dangerous a soldier’s job has become in the face of a growing insurgency.",
+      "abstract": "The landmark reflects how dangerous a soldier’s job has become in the face of a growing insurgency.",
+      "lead_paragraph": "Jordan W. Hess was the unlikeliest of soldiers.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/01/us/01deaths.html",
+      "byline": "By LIZETTE ALVAREZ and ANDREW LEHREN"
+    },
+    {
+      "headline": "Satellite Radio May Try a Merger",
+      "snippet": "If XM and Sirius merged, the new company could reduce programming costs by pruning redundant channels and redundant employees.",
+      "abstract": "If XM and Sirius merged, the new company could reduce programming costs by pruning redundant channels and redundant employees.",
+      "lead_paragraph": "Last year’s debut of Howard Stern’s radio show on Sirius Satellite Radio put the technology on the map, raising the public’s awareness of satellite radio and helping to boost significantly subscriber totals for Sirius and its larger rival, XM Satellite Radio.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/01/technology/01satellite.html",
+      "byline": "By Eric A. Taub"
+    },
+    {
+      "headline": "In Silicon Valley, the Race Is On to Trump Google",
+      "snippet": "Plenty of newcomers — with names like hakia and Snap — are trying to beat Google at its own game.",
+      "abstract": "Plenty of newcomers — with names like hakia and Snap — are trying to beat Google at its own game.",
+      "lead_paragraph": " SAN FRANCISCO, Dec. 29 — In brand-new offices with a still-empty game room and enough space to triple their staff of nearly 30, a trio of entrepreneurs is leading an Internet start-up with an improbable mission: to out-Google Google. ",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/01/technology/01search.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "From Father to Son, Last Words to Live By",
+      "snippet": "In a 200-page journal, First Sgt. Charles Monroe King prepared his boy for a life without him.",
+      "abstract": "In a 200-page journal, First Sgt. Charles Monroe King prepared his boy for a life without him.",
+      "lead_paragraph": "He drew pictures of himself with angel wings. He left a set of his dog tags on a nightstand in my Manhattan apartment. He bought a tiny blue sweat suit for our baby to wear home from the hospital.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/01/us/01charles.html",
+      "byline": "By Dana Canedy"
+    },
+    {
+      "headline": "Studios’ DVDs Face a Crack in Security",
+      "snippet": "An anonymous computer programmer claims to have hacked the copy protection used in both the HD-DVD and Blu-ray high-definition DVD formats.",
+      "abstract": "An anonymous computer programmer claims to have hacked the copy protection used in both the HD-DVD and Blu-ray high-definition DVD formats.",
+      "lead_paragraph": "SAN FRANCISCO, Dec. 31 — An anonymous computer programmer may have skewed the competition over standards for high-definition DVD discs by possibly defeating a scheme that both sides use to protect digital content.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/01/technology/01hack.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "States Take Lead on Ethics Rules for Lawmakers",
+      "snippet": "Plans for reform by Congressional Democrats are less sweeping than changes already adopted by many state legislatures.",
+      "abstract": "Plans for reform by Congressional Democrats are less sweeping than changes already adopted by many state legislatures.",
+      "lead_paragraph": "WASHINGTON, Dec. 31 — The Democrats taking over Congress this week are promising sweeping changes to ethics and lobbying laws, pledging to clean up after a spate of corruption scandals under Republican rules. ",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/01/us/01ethics.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "U.S. Questioned Iraq on the Rush to Hang Hussein",
+      "snippet": "American officials are said to have questioned the political wisdom  of expediting the execution of Saddam Hussein.",
+      "abstract": "American officials are said to have questioned the political wisdom  of expediting the execution of Saddam Hussein.",
+      "lead_paragraph": "BAGHDAD, Dec. 31 — With his plain pine coffin strapped into an American military helicopter for a predawn journey across the desert, Saddam Hussein, the executed dictator who built a legend with his defiance of America, completed a turbulent passage into history on Sunday.",
+      "publication_date": "2007-01-01T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/01/world/middleeast/01iraq.html",
+      "byline": "By John F. Burns and Marc Santora"
+    }
+  ]
+}

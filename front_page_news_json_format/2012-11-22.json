@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2012-11-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Tech Start-Ups Find a Home on the Prairie",
+      "snippet": "From Des Moines to Omaha to Kansas City — a region known more for its barns than its bandwidth — a start-up tech scene is blossoming.",
+      "abstract": "From Des Moines to Omaha to Kansas City — a region known more for its barns than its bandwidth — a start-up tech scene is blossoming.",
+      "lead_paragraph": "DES MOINES — As Ben Milne sought money for the mobile-payment company he began developing here three years ago, investors responded with rejections by the dozens.",
+      "publication_date": "2012-11-21T16:17:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/11/22/us/silicon-prairie-takes-root-in-the-great-plains.html",
+      "byline": "By John Eligon"
+    },
+    {
+      "headline": "Click Wisely to Shop, and Enjoy the Pie",
+      "snippet": "A lot of online retailers are offering sales around the holidays. Here are tips so you can stay home on Black Friday.",
+      "abstract": "A lot of online retailers are offering sales around the holidays. Here are tips so you can stay home on Black Friday.",
+      "lead_paragraph": "Some people may be looking forward to leaving Thanksgiving dinner before the pie is served to join the Black Friday rush, which will begin during dinnertime Thursday, earlier than ever, at stores like Sears, Walmart and Lord & Taylor. ",
+      "publication_date": "2012-11-21T19:14:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/11/22/technology/personaltech/online-shopping-tips-for-the-holidays.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Retailer Shakes Off the Storm",
+      "snippet": "The Eileen Fisher clothing stores and headquarters were hit hard by last month’s big storm, but insurance, some planning and much luck helped executives and employees reopen the business.",
+      "abstract": "The Eileen Fisher clothing stores and headquarters were hit hard by last month’s big storm, but insurance, some planning and much luck helped executives and employees reopen the business.",
+      "lead_paragraph": "IRVINGTON, N.Y. — Eileen Fisher had no time to spare. For her clothing stores to be up and running for Thanksgiving weekend, and her many retail clients stocked for the holiday rush, her company’s response to Hurricane Sandy would need to be close to flawless.",
+      "publication_date": "2012-11-21T19:28:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/11/22/business/a-retailer-eileen-fisher-shakes-off-storms-impact-to-reopen.html",
+      "byline": "By Stephanie Clifford"
+    },
+    {
+      "headline": "Court Allows Liquidation of Hostess",
+      "snippet": "In granting Hostess’s motion, Judge Robert D. Drain of the Federal Bankruptcy Court for the Southern District of New York cited the need for a quick and orderly shuttering of the company to avoid letting its assets molder.",
+      "abstract": "In granting Hostess’s motion, Judge Robert D. Drain of the Federal Bankruptcy Court for the Southern District of New York cited the need for a quick and orderly shuttering of the company to avoid letting its assets molder.",
+      "lead_paragraph": "A federal bankruptcy judge on Wednesday approved plans for Hostess Brands to wind down its operations, but there is little doubt that its best-known brand, Twinkies, will live on.",
+      "publication_date": "2012-11-21T20:44:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/11/21/judge-approves-hostess-brands-plan-to-close-down/",
+      "byline": "By Steven Greenhouse and Michael J. de la Merced"
+    },
+    {
+      "headline": "Two Phones Dazzle, and Yet ...",
+      "snippet": "Microsoft isn’t giving up. This month, Windows Phone 8 arrives aboard two fascinating new phones: the Nokia Lumia 920 and the HTC Windows Phone 8X.",
+      "abstract": "Microsoft isn’t giving up. This month, Windows Phone 8 arrives aboard two fascinating new phones: the Nokia Lumia 920 and the HTC Windows Phone 8X.",
+      "lead_paragraph": "Thanksgiving, is it? I’ll tell you what I’m thankful for: competition.",
+      "publication_date": "2012-11-21T20:59:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/11/22/technology/personaltech/nokia-lumia-920-and-htc-windows-phone-8x-are-great-and-yet.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Egyptian President and Obama Forge Link in Gaza Deal",
+      "snippet": "The agreement brokered between Israel and Hamas was the start of an unlikely alliance with a fair measure of risk for President Obama and Mohamed Morsi, his counterpart in Egypt.",
+      "abstract": "The agreement brokered between Israel and Hamas was the start of an unlikely alliance with a fair measure of risk for President Obama and Mohamed Morsi, his counterpart in Egypt.",
+      "lead_paragraph": "WASHINGTON — President Obama skipped dessert at a long summit meeting dinner in Cambodia on Monday to rush back to his hotel suite. It was after 11:30 p.m., and his mind was on rockets in Gaza rather than Asian diplomacy. He picked up the telephone to call the Egyptian leader who is the new wild card in his Middle East calculations.",
+      "publication_date": "2012-11-22T02:35:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/11/22/world/middleeast/egypt-leader-and-obama-forge-link-in-gaza-deal.html",
+      "byline": "By Peter Baker and David D. Kirkpatrick"
+    },
+    {
+      "headline": "H.P.’s Misstep Shows the Risk in Big Ideas",
+      "snippet": "Hewlett-Packard’s troubled purchase of the software company Autonomy is an example of the problems older technology companies face as they try to get the jump on their younger rivals.",
+      "abstract": "Hewlett-Packard’s troubled purchase of the software company Autonomy is an example of the problems older technology companies face as they try to get the jump on their younger rivals.",
+      "lead_paragraph": "When Hewlett-Packard spent roughly $10 billion on the software company Autonomy, it thought it was buying a slice of the future — investing in the hot trend of big data. But the deal turned out to be a debacle, and not only because H.P. wrote down $5 billion of the purchase. ",
+      "publication_date": "2012-11-22T03:12:59+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/11/22/technology/hps-misstep-shows-risk-in-the-push-for-big-ideas.html",
+      "byline": "By Quentin Hardy"
+    },
+    {
+      "headline": "Don’t Ask? Internet Still Tells",
+      "snippet": "Sites like Google and Bing are showing the precise questions that are most frequently asked, giving everyone a chance to peer virtually over one another’s shoulders at private curiosities.",
+      "abstract": "Sites like Google and Bing are showing the precise questions that are most frequently asked, giving everyone a chance to peer virtually over one another’s shoulders at private curiosities.",
+      "lead_paragraph": "There are the questions you ask friends, family and close confidants. And then there are the questions you ask the Internet. ",
+      "publication_date": "2012-11-22T03:37:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/11/22/technology/in-search-engine-results-a-peek-at-what-we-wonder.html",
+      "byline": "By Quentin Hardy and Matt Richtel"
+    },
+    {
+      "headline": "Factions in Gaza Make Unity Vow After Cease-Fire",
+      "snippet": "Palestinians erupted in  celebrations, vowing unity among rival factions and a  commitment to resistance, while Israel sought to soberly sell its military operation to a domestic audience.",
+      "abstract": "Palestinians erupted in  celebrations, vowing unity among rival factions and a  commitment to resistance, while Israel sought to soberly sell its military operation to a domestic audience.",
+      "lead_paragraph": "GAZA — Palestinians erupted in triumphant celebrations here on Thursday, vowing new unity among rival factions and a renewed commitment to the tactic of resistance, while Israel’s leaders sought to soberly sell the achievements of their latest military operation to a domestic audience long skeptical of cease-fire deals like the one announced the night before.",
+      "publication_date": "2012-11-22T08:17:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/11/23/world/middleeast/israel-gaza-conflict.html",
+      "byline": "By Jodi Rudoren and Isabel Kershner"
+    }
+  ]
+}

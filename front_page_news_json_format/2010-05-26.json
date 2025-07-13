@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-05-26",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Obama to Send Up to 1,200 Troops to Border",
+      "snippet": "President Obama will send National Guard troops to the border and increase law enforcement spending, yielding to demands from lawmakers in both parties, officials said.",
+      "abstract": "President Obama will send National Guard troops to the border and increase law enforcement spending, yielding to demands from lawmakers in both parties, officials said.",
+      "lead_paragraph": "LOS ANGELES — President Obama will send up to 1,200 National Guard troops to the Southwest border and seek increased spending on law enforcement there to combat drug smuggling after demands from Republican and Democratic lawmakers that border security be tightened.",
+      "publication_date": "2010-05-25T20:19:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/26/us/26border.html",
+      "byline": "By Randal C. Archibold"
+    },
+    {
+      "headline": "The New Touch-Face of Vending Machines",
+      "snippet": "Futuristic machines are proliferating at airports, hotels and stores around the world, selling high-end products, and not for small change.",
+      "abstract": "Futuristic machines are proliferating at airports, hotels and stores around the world, selling high-end products, and not for small change.",
+      "lead_paragraph": "Vending machines in neon-splashed Tokyo have electronic eyes that evaluate customers’ skin and wrinkles to determine whether they are old enough to buy tobacco. In bathrooms at upscale Canadian bars, vending machines with flat irons enable women to defrizz their locks. In Abu Dhabi, the lobby of a luxury hotel has a vending machine that dispenses gold bars and coins at more than $1,000 an ounce. ",
+      "publication_date": "2010-05-25T22:01:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/26/business/26vending.html",
+      "byline": "By Stephanie Rosenbloom"
+    },
+    {
+      "headline": "At Harvard, Kagan Aimed Sights Higher",
+      "snippet": "Elena Kagan, the Supreme Court nominee, had hoped to succeed Lawrence H. Summers as the president of the university. ",
+      "abstract": "Elena Kagan, the Supreme Court nominee, had hoped to succeed Lawrence H. Summers as the president of the university. ",
+      "lead_paragraph": "WASHINGTON — One Saturday afternoon in March 2003, Lawrence H. Summers invited Elena Kagan for a private chat in the library of Elmwood, the stately clapboard mansion he occupied as the president of Harvard. The two had been close colleagues, if not close friends, as top aides working for President Bill Clinton. But this was no social call.",
+      "publication_date": "2010-05-25T22:24:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/26/us/politics/26kagan.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Apple Is Said to Face Inquiry About Online Music",
+      "snippet": "The Justice Department is examining Apple’s tactics in the digital music market, according to several people.",
+      "abstract": "The Justice Department is examining Apple’s tactics in the digital music market, according to several people.",
+      "lead_paragraph": "SAN FRANCISCO — The Justice Department is examining Apple’s tactics in the market for digital music, and its staff members have talked to major music labels and Internet music companies, according to several people briefed on the conversations.",
+      "publication_date": "2010-05-25T23:38:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/26/technology/26apple.html",
+      "byline": "By Brad Stone"
+    },
+    {
+      "headline": "Four Ways to a Better Finance Bill",
+      "snippet": "As the House and Senate merge their banking bills, there is an opportunity to produce a strong single piece of legislation if several issues are worked out.",
+      "abstract": "As the House and Senate merge their banking bills, there is an opportunity to produce a strong single piece of legislation if several issues are worked out.",
+      "lead_paragraph": "WASHINGTON",
+      "publication_date": "2010-05-25T23:54:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/26/business/economy/26leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Doubts on European Central Bank Amid Crisis",
+      "snippet": "Analysts said the central bank’s reluctance to take action that might compromise its independence has been seen as indecision.",
+      "abstract": "Analysts said the central bank’s reluctance to take action that might compromise its independence has been seen as indecision.",
+      "lead_paragraph": "LONDON — The euro stops with the European Central Bank — or does it?",
+      "publication_date": "2010-05-26T00:46:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/26/business/global/26ecb.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Europe Pain May Impede U.S. Upturn",
+      "snippet": "Though few experts expect another recession soon, many fear that Europe’s debt problems could cause the American recovery to be slower and more difficult.",
+      "abstract": "Though few experts expect another recession soon, many fear that Europe’s debt problems could cause the American recovery to be slower and more difficult.",
+      "lead_paragraph": " Only months after most economists forecast that the recession could be viewed safely through the rearview mirror, the European fiscal crisis poses an unsettling new challenge for the United States economy.",
+      "publication_date": "2010-05-26T01:13:50+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/26/business/economy/26recession.html",
+      "byline": "By Michael Powell"
+    },
+    {
+      "headline": "Panel Suggests Signs of Trouble Before Rig Explosion",
+      "snippet": "A memo offers the most detailed accounting of the events and decisions made aboard the Deepwater Horizon in the final hours before the April 20 blast.",
+      "abstract": "A memo offers the most detailed accounting of the events and decisions made aboard the Deepwater Horizon in the final hours before the April 20 blast.",
+      "lead_paragraph": "In the hours before the Deepwater Horizon oil rig exploded last month in the Gulf of Mexico, there were strong warning signs that something was terribly wrong with the well, according to a Congressional committee that was briefed on the accident by executives from BP.",
+      "publication_date": "2010-05-26T01:52:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/26/us/26rig.html",
+      "byline": "By Henry Fountain and Tom Zeller Jr"
+    },
+    {
+      "headline": "U.S. Is a Top Villain in Pakistan’s Conspiracy Talk",
+      "snippet": "Conspiracies are a national sport, with the main players — the U.S., India and Israel — changing position with the times. ",
+      "abstract": "Conspiracies are a national sport, with the main players — the U.S., India and Israel — changing position with the times. ",
+      "lead_paragraph": "ISLAMABAD, Pakistan — Americans may think that the failed Times Square bomb was planted by a man named Faisal Shahzad. But the view in the Supreme Court Bar Association here in Pakistan’s capital is that the culprit was an American “think tank.” ",
+      "publication_date": "2010-05-26T02:16:36+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/26/world/asia/26pstan.html",
+      "byline": "By Sabrina Tavernise"
+    },
+    {
+      "headline": "Electronics Maker Promises Review After Suicides",
+      "snippet": "A Taiwan-based supplier to many computer makers faces scrutiny after a rash of suicides.",
+      "abstract": "A Taiwan-based supplier to many computer makers faces scrutiny after a rash of suicides.",
+      "lead_paragraph": "SHENZHEN, China — There were bows and an apology from Terry Gou, one of the richest men in Asia and chairman of Foxconn Technology. ",
+      "publication_date": "2010-05-26T14:52:56+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/27/technology/27suicide.html",
+      "byline": "By David Barboza"
+    }
+  ]
+}

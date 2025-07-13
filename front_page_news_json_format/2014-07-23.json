@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2014-07-23",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Apple Reports $7.7 Billion Profit on Strong iPhone Sales",
+      "snippet": "While rivals like Samsung are starting to show weakness in phone sales, Apple sold 35.2 million iPhones in the third fiscal quarter, up 13 percent from the period a year ago.",
+      "abstract": "While rivals like Samsung are starting to show weakness in phone sales, Apple sold 35.2 million iPhones in the third fiscal quarter, up 13 percent from the period a year ago.",
+      "lead_paragraph": "SAN FRANCISCO — For Apple, the iPhone continues to be the device that makes the company tick.",
+      "publication_date": "2014-07-22T21:00:51+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/07/23/technology/apple-reports-7-7-billion-profit-in-third-quarter.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "A Dearth in Innovation for Key Drugs",
+      "snippet": "While researchers pursue high-cost remedies for rare ailments, development of broadly useful drugs like antibiotics is lagging.",
+      "abstract": "While researchers pursue high-cost remedies for rare ailments, development of broadly useful drugs like antibiotics is lagging.",
+      "lead_paragraph": "There is clearly something wrong with pharmaceutical innovation.",
+      "publication_date": "2014-07-22T22:02:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/07/23/business/a-dearth-of-investment-in-much-needed-drugs.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Lenders Offer Low-Cost Services for the Unbanked",
+      "snippet": "The products provide a different kind of payout: good will from regulators and a chance to woo customers who might one day become profitable.",
+      "abstract": "The products provide a different kind of payout: good will from regulators and a chance to woo customers who might one day become profitable.",
+      "lead_paragraph": "One woman kept her savings — a $100 bill — in the freezer. Another, a single mother in Texas, said she had only enough extra cash each week to buy one wooden letter, for $3, to spell out her daughter’s name on her bedroom wall. A third, a housekeeper in Brooklyn, lives in a homeless shelter.",
+      "publication_date": "2014-07-23T00:53:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/07/22/offering-small-fees-banks-cater-to-low-income-customers/",
+      "byline": "By Michael Corkery and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Amazon’s Fire Phone: Solid Device Beneath a Layer of Whiz-Bang Frippery",
+      "snippet": "Despite its flashy features, such as Dynamic Perspective and Firefly, the Fire Phone can stand alone for those uninterested in such frills.",
+      "abstract": "Despite its flashy features, such as Dynamic Perspective and Firefly, the Fire Phone can stand alone for those uninterested in such frills.",
+      "lead_paragraph": "When Amazon.com unveiled its first smartphone last month, Jeff Bezos, the company’s chief executive, said the device was partly inspired by one of his favorite childhood books, “Mr. Pine’s Purple House.” In the book, by Leonard Kessler, friendly old Mr. Pine grows weary of the 50 identical white houses, all in a line, on Vine Street. When he paints his house purple, his radical color scheme sets off an explosion of architectural innovation among his neighbors on Vine Street, which apparently has a pretty lenient homeowner’s association.",
+      "publication_date": "2014-07-23T01:00:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/07/24/technology/personaltech/review-amazons-fire-phone.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Hamas Gambled on War as Its Woes Grew in Gaza",
+      "snippet": "When war between Israel and Hamas broke out two weeks ago, the Palestinian militant group was so hamstrung, politically, economically and diplomatically, that its leaders appeared to feel they had nothing to lose.",
+      "abstract": "When war between Israel and Hamas broke out two weeks ago, the Palestinian militant group was so hamstrung, politically, economically and diplomatically, that its leaders appeared to feel they had nothing to lose.",
+      "lead_paragraph": "GAZA CITY — When war between Israel and Hamas broke out two weeks ago, the Palestinian militant group was so hamstrung, politically, economically and diplomatically, that its leaders appeared to feel they had nothing to lose.",
+      "publication_date": "2014-07-23T01:36:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/07/23/world/middleeast/hamas-gambled-on-war-as-its-woes-grew-in-gaza.html",
+      "byline": "By Anne Barnard"
+    },
+    {
+      "headline": "Crises Cascade and Converge, Testing Obama",
+      "snippet": "Rarely has a president been confronted with so many seemingly disparate foreign policy crises at once, and the interlocking nature of them all is making the current upheaval more complicated.",
+      "abstract": "Rarely has a president been confronted with so many seemingly disparate foreign policy crises at once, and the interlocking nature of them all is making the current upheaval more complicated.",
+      "lead_paragraph": "WASHINGTON — Not long after a passenger jet exploded in midair and plummeted to the ground in Ukraine last week, escalating a volatile crisis pitting the United States and Europe against Russia, President Obama’s thoughts turned to Syria.",
+      "publication_date": "2014-07-23T02:59:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/07/23/world/crises-cascade-and-converge-testing-obama.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Life in a Jihadist Capital: Order With a Darker Side",
+      "snippet": "Islamist extremists in control of Raqqa, Syria, have blended their fundamentalist interpretation of Islam with the practicalities of governance.",
+      "abstract": "Islamist extremists in control of Raqqa, Syria, have blended their fundamentalist interpretation of Islam with the practicalities of governance.",
+      "lead_paragraph": "RAQQA, Syria — When his factory was bombed in the northern Syrian city of Aleppo, the businessman considered two bleak options: remain at home and risk dying in the next airstrike, or flee like hundreds of thousands of others to a refugee camp in Turkey.",
+      "publication_date": "2014-07-23T15:44:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/07/24/world/middleeast/islamic-state-controls-raqqa-syria.html",
+      "byline": "By an Employee of The New York Times and Ben Hubbard"
+    }
+  ]
+}

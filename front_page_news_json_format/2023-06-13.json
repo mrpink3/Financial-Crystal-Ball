@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-06-13",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "F.T.C. Sues to Stop Microsoft’s Activision Deal From Closing",
+      "snippet": "The agency had sued to halt the blockbuster deal last year. Its latest move in federal court would prevent the acquisition from being completed.",
+      "abstract": "The agency had sued to halt the blockbuster deal last year. Its latest move in federal court would prevent the acquisition from being completed.",
+      "lead_paragraph": "The Federal Trade Commission sued Microsoft on Monday to stop the company from closing its $69 billion purchase of the video game powerhouse Activision Blizzard, escalating the federal government’s efforts to stymie the largest consumer technology deal in decades.",
+      "publication_date": "2023-06-12T17:43:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/12/technology/ftc-sue-microsoft-activision-deal.html",
+      "byline": "By David McCabe and Kellen Browning"
+    },
+    {
+      "headline": "NATO Members Use a Major Air Exercise to Send a Message to Russia",
+      "snippet": "More than 200 planes from 25 countries gathered in Germany for the largest-scale war games in decades, held with an eye on the war in Ukraine.",
+      "abstract": "More than 200 planes from 25 countries gathered in Germany for the largest-scale war games in decades, held with an eye on the war in Ukraine.",
+      "lead_paragraph": "The largest military air exercises in Europe since the end of the Cold War began on Monday as 25 nations took to the air in fighter jets, bombers and cargo planes in a pointed demonstration to Russia.",
+      "publication_date": "2023-06-12T22:40:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/12/world/europe/nato-exercises-germany.html",
+      "byline": "By Lara Jakes"
+    },
+    {
+      "headline": "Cooler Inflation Bolsters Argument for Fed Rate Pause",
+      "snippet": "Consumer prices rose at the slowest pace in more than two years, an encouraging sign for policymakers as they plot their next interest rate move.",
+      "abstract": "Consumer prices rose at the slowest pace in more than two years, an encouraging sign for policymakers as they plot their next interest rate move.",
+      "lead_paragraph": "Federal Reserve officials received an encouraging inflation report on Tuesday as price increases continued their monthslong slowdown in May, news that could give policymakers comfort in pausing interest rate increases at their meeting this week.",
+      "publication_date": "2023-06-13T09:02:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/13/business/may-consumer-price-index.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Trump Is Arraigned on Documents and Obstruction Charges",
+      "snippet": "Donald J. Trump, now twice indicted since leaving the White House, surrendered to federal authorities in Miami and pleaded not guilty, striking a defiant tone afterward.",
+      "abstract": "Donald J. Trump, now twice indicted since leaving the White House, surrendered to federal authorities in Miami and pleaded not guilty, striking a defiant tone afterward.",
+      "lead_paragraph": "Donald J. Trump, twice impeached as president and now twice indicted since leaving the White House, surrendered to federal authorities in Miami on Tuesday and was arraigned on charges that he had put national security secrets at risk and obstructed investigators.",
+      "publication_date": "2023-06-13T13:09:41+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/06/13/us/politics/trump-arraignment-documents.html",
+      "byline": "By Glenn Thrush, Nicholas Nehamas and Eileen Sullivan"
+    },
+    {
+      "headline": "Food Prices Rise Even as Inflation Eases, Straining Consumers’ Budgets",
+      "snippet": "Prices at grocery stores and restaurants ticked up 0.2 percent last month from April, an increase after prices remained flat the two months before.",
+      "abstract": "Prices at grocery stores and restaurants ticked up 0.2 percent last month from April, an increase after prices remained flat the two months before.",
+      "lead_paragraph": "Hanna Hensley, 29, an assistant high school teacher in Arlington, Va., is glad to see some food prices come down recently, because it has helped ease her grocery bill.",
+      "publication_date": "2023-06-13T13:13:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/06/13/business/food-prices-inflation-may.html",
+      "byline": "By Madeleine Ngo"
+    }
+  ]
+}

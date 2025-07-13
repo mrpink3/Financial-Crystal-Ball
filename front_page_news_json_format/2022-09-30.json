@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2022-09-30",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Confused by the New Mortgage Gimmicks? Here’s a Guide.",
+      "snippet": "Mortgage lenders are offering incentives to borrowers, hoping to lure them even as rates soar. It’s up to consumers to sort it all out.",
+      "abstract": "Mortgage lenders are offering incentives to borrowers, hoping to lure them even as rates soar. It’s up to consumers to sort it all out.",
+      "lead_paragraph": "The new math is unforgiving: At 6.7 percent, the average 30-year fixed-rate mortgage has more than doubled in less than a year, scaring away many would-be home buyers. Inflation hasn’t helped either.",
+      "publication_date": "2022-09-29T20:04:43+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/09/29/your-money/mortgage-guide-home-buying.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Far From the Coast, Ian Leaves Flooding and Damage Across Florida",
+      "snippet": "The state was battered on both the Gulf and Atlantic coasts, but some residents of inland areas said the damage was not as severe as feared.",
+      "abstract": "The state was battered on both the Gulf and Atlantic coasts, but some residents of inland areas said the damage was not as severe as feared.",
+      "lead_paragraph": "ORLANDO, Fla. — The emergency call came from the nursing home shortly after 5 a.m.: Water was seeping into the low-slung, low-lying complex called Avante at Orlando and threatening its 106 residents, some of them too frail to walk.",
+      "publication_date": "2022-09-29T21:08:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-flood-damage.html",
+      "byline": "By Richard Fausset, Campbell Robertson and Shawn Hubler"
+    },
+    {
+      "headline": "Hurricane Ian’s Staggering Scale of Wreckage Becomes Clearer in Florida",
+      "snippet": "The extent of the damage was difficult to comprehend, even for residents who had survived and rebuilt after other powerful storms.",
+      "abstract": "The extent of the damage was difficult to comprehend, even for residents who had survived and rebuilt after other powerful storms.",
+      "lead_paragraph": "FORT MYERS, Fla. — The extent of Hurricane Ian’s destruction became clearer on Thursday as people across southwestern Florida, left without electricity, drinking water or inhabitable homes, began to assess the damage and gird for what Gov. Ron DeSantis said would be a yearslong recovery.",
+      "publication_date": "2022-09-30T00:53:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-damage.html",
+      "byline": "By Patricia Mazzei, Nicholas Bogel-Burroughs, Frances Robles and Jack Healy"
+    }
+  ]
+}

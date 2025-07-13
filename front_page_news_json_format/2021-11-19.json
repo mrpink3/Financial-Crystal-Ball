@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2021-11-19",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Ford Moves to Ensure Supply of Chips and Guide Their Design",
+      "snippet": "The automaker will team with GlobalFoundries on producing and developing semiconductors, crucial parts that have been in short supply.",
+      "abstract": "The automaker will team with GlobalFoundries on producing and developing semiconductors, crucial parts that have been in short supply.",
+      "lead_paragraph": "With increasingly sophisticated cars devouring more and more computing power, a shortage of semiconductors has vexed automakers and disrupted production around the world.",
+      "publication_date": "2021-11-18T17:38:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/18/business/ford-globalfoundries-chip-shortage.html",
+      "byline": "By Neal E. Boudette and Don Clark"
+    },
+    {
+      "headline": "Vote on Social Policy Bill Delayed as McCarthy Keeps Talking",
+      "snippet": "Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes.",
+      "abstract": "Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes.",
+      "lead_paragraph": "WASHINGTON — House Democrats delayed plans to pass their $1.85 trillion social policy and climate change bill until Friday morning as the top Republican in the chamber held up the floor with a record-breaking speech railing against President Biden and his agenda.",
+      "publication_date": "2021-11-18T17:45:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html",
+      "byline": "By Emily Cochrane and Jonathan Weisman"
+    },
+    {
+      "headline": "Belarus Clears Migrant Camp, Easing Border Standoff With Poland",
+      "snippet": "Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain.",
+      "abstract": "Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain.",
+      "lead_paragraph": "BRUZGI, Belarus — Belarusian authorities on Thursday cleared the encampments at the main border crossing into Poland, where thousands of migrants had been living in frigid and increasingly squalid conditions, removing for the moment a major flash point that has raised tensions across Europe.",
+      "publication_date": "2021-11-18T22:33:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html",
+      "byline": "By Andrew Higgins and James Hill"
+    },
+    {
+      "headline": "How Elizabeth Holmes Soured the Media on Silicon Valley",
+      "snippet": "Testimony in the fraud trial of Ms. Holmes, the founder of the blood testing start-up Theranos, shows how much coverage of the tech industry has changed over the years.",
+      "abstract": "Testimony in the fraud trial of Ms. Holmes, the founder of the blood testing start-up Theranos, shows how much coverage of the tech industry has changed over the years.",
+      "lead_paragraph": "SAN JOSE, Calif. — At the height of her acclaim in 2015, Elizabeth Holmes, the entrepreneur who founded the blood testing start-up Theranos, was named Glamour’s “Woman of the Year.” Time put her on its list of 100 luminaries. And she graced the covers of Fortune, Forbes, Inc. and T Magazine.",
+      "publication_date": "2021-11-18T22:52:03+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/18/technology/elizabeth-holmes-theranos-trial.html",
+      "byline": "By Erin Griffith and Erin Woo"
+    },
+    {
+      "headline": "Social Policy Bill Will Add to Deficit, C.B.O. Says; Democrats Delay Vote",
+      "snippet": "The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats.",
+      "abstract": "The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats.",
+      "lead_paragraph": "WASHINGTON — The nonpartisan Congressional Budget Office said on Thursday that President Biden’s sprawling climate change and social policy package would increase the federal budget deficit by $160 billion over the next 10 years.",
+      "publication_date": "2021-11-18T23:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html",
+      "byline": "By Jim Tankersley, Alan Rappeport and Emily Cochrane"
+    },
+    {
+      "headline": "Can a Machine Learn Morality?",
+      "snippet": "Researchers at a Seattle A.I. lab say they have built a system that makes ethical judgments. But its judgments can be as confusing as those of humans.",
+      "abstract": "Researchers at a Seattle A.I. lab say they have built a system that makes ethical judgments. But its judgments can be as confusing as those of humans.",
+      "lead_paragraph": "Researchers at an artificial intelligence lab in Seattle called the Allen Institute for AI unveiled new technology last month that was designed to make moral judgments. They called it Delphi, after the religious oracle consulted by the ancient Greeks. Anyone could visit the Delphi website and ask for an ethical decree.",
+      "publication_date": "2021-11-19T10:00:28+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/19/technology/can-a-machine-learn-morality.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "House Narrowly Passes Biden’s Social Safety Net and Climate Bill",
+      "snippet": "The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate.",
+      "abstract": "The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate.",
+      "lead_paragraph": "WASHINGTON — The House narrowly passed the centerpiece of President Biden’s domestic agenda on Friday, approving $2.2 trillion in spending over the next decade to battle climate change, expand health care and reweave the nation’s social safety net, over the unanimous opposition of Republicans.",
+      "publication_date": "2021-11-19T14:49:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html",
+      "byline": "By Emily Cochrane and Jonathan Weisman"
+    }
+  ]
+}

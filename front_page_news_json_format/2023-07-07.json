@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2023-07-07",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Threads Becomes Most Rapidly Downloaded App, Raising Twitter’s Ire",
+      "snippet": "Instagram’s new app was downloaded more than 30 million times in 16 hours. Twitter threatened legal action against its rival.",
+      "abstract": "Instagram’s new app was downloaded more than 30 million times in 16 hours. Twitter threatened legal action against its rival.",
+      "lead_paragraph": "Two hours after pressing the launch button on Wednesday on Threads, Instagram’s new app for real-time, public conversations, Mark Zuckerberg posted that more than two million people had downloaded his latest creation.",
+      "publication_date": "2023-07-06T19:11:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/06/technology/threads-downloads-twitter.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "Biden Weighs Giving Ukraine Weapons Banned by Many U.S. Allies",
+      "snippet": "Ukraine is seeking cluster munitions, which are known to cause grievous injuries to civilians, as its ammunition supply runs low.",
+      "abstract": "Ukraine is seeking cluster munitions, which are known to cause grievous injuries to civilians, as its ammunition supply runs low.",
+      "lead_paragraph": "For more than six months, President Biden and his aides have been wrestling with one of the most vexing questions in the war in Ukraine: whether to risk letting Ukrainian forces run out of the artillery rounds they desperately need to fight Russia, or agree to ship them cluster munitions — widely banned weapons known to cause grievous injury to civilians, especially children.",
+      "publication_date": "2023-07-06T23:59:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/06/us/politics/biden-ukraine-cluster-bombs.html",
+      "byline": "By David E. Sanger and Eric Schmitt"
+    },
+    {
+      "headline": "They Fell in Love in a Video Game. Now Both Are in Jail.",
+      "snippet": "The barrier-breaking romance of a Pakistani woman and an Indian man has led to criminal charges and nationalist intrigue.",
+      "abstract": "The barrier-breaking romance of a Pakistani woman and an Indian man has led to criminal charges and nationalist intrigue.",
+      "lead_paragraph": "Their love affair across one of the world’s most heavily guarded borders had begun on the virtual battlefields of a video game where players bond over having one another’s back against bloody enemy ambushes to become the last survivors.",
+      "publication_date": "2023-07-07T03:44:50+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/06/world/asia/pakistan-india-game-arrest.html",
+      "byline": "By Hari Kumar and Mujib Mashal"
+    },
+    {
+      "headline": "U.S. Raises Pressure on China to Combat Global Fentanyl Crisis",
+      "snippet": "The Biden administration push comes after cooperation on halting the flow of the drug into the United States was derailed by wider geopolitical tensions.",
+      "abstract": "The Biden administration push comes after cooperation on halting the flow of the drug into the United States was derailed by wider geopolitical tensions.",
+      "lead_paragraph": "Just four years ago, a joint American and Chinese effort to stem the flow of fentanyl produced in China from reaching the United States appeared set to take off. Beijing had unveiled a sweeping new law banning the synthetic opioid, leading the Trump administration to praise China’s top leader, Xi Jinping, for “a wonderful humanitarian gesture.”",
+      "publication_date": "2023-07-07T09:00:40+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/07/world/asia/us-china-fentanyl.html",
+      "byline": "By David Pierson, Edward Wong and Olivia Wang"
+    },
+    {
+      "headline": "Against the Odds, the U.S. Economy Chugs Along, as Fears Linger",
+      "snippet": "Hiring slowed last month, a sign that the Federal Reserve’s inflation-fighting campaign is taking hold. But with rising wages and low unemployment, the labor market remains resilient.",
+      "abstract": "Hiring slowed last month, a sign that the Federal Reserve’s inflation-fighting campaign is taking hold. But with rising wages and low unemployment, the labor market remains resilient.",
+      "lead_paragraph": "The U.S. labor market showed signs of continued cooling last month but extended a two-and-a-half-year streak of job growth, the Labor Department said Friday.",
+      "publication_date": "2023-07-07T09:01:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/07/business/economy/jobs-report-june.html",
+      "byline": "By Talmon Joseph Smith"
+    },
+    {
+      "headline": "Looming UPS Strike Spurs Some Companies to Rethink Supply Chains",
+      "snippet": "Businesses around the country are facing what could be the latest disruption to how they get their goods to their customers in a timely and affordable fashion.",
+      "abstract": "Businesses around the country are facing what could be the latest disruption to how they get their goods to their customers in a timely and affordable fashion.",
+      "lead_paragraph": "Kathryn Keeler and her husband, Stuart de Haaff, own an olive oil company in the hills of central California. The couple spend their days harvesting olives, bottling the oil, labeling the glass bottles and shipping them out, relying primarily on UPS to get their product to kitchens throughout the United States. ",
+      "publication_date": "2023-07-07T14:07:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/07/business/ups-strike-retail-shippers.html",
+      "byline": "By Jordyn Holman and J. Edward Moreno"
+    }
+  ]
+}

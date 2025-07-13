@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-11-11",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Rivian I.P.O. Is Embraced by Investors Looking for Another Tesla",
+      "snippet": "The electric-vehicle maker, backed by Amazon and Ford, ended its first day of trading valued at $86 billion, though its deliveries so far total 156.",
+      "abstract": "The electric-vehicle maker, backed by Amazon and Ford, ended its first day of trading valued at $86 billion, though its deliveries so far total 156.",
+      "lead_paragraph": "Rivian, an electric-vehicle maker that has been around for over a decade, finally got around to delivering a product this year — 156 pickup trucks — and nearly all went to its employees.",
+      "publication_date": "2021-11-10T18:12:13+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/10/automobiles/rivian-stock-price-ipo.html",
+      "byline": "By Peter Eavis and Neal E. Boudette"
+    },
+    {
+      "headline": "House Republicans Who Backed Infrastructure Bill Face Vicious Backlash",
+      "snippet": "The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents.",
+      "abstract": "The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents.",
+      "lead_paragraph": "[Follow our live coverage of President Biden signing the infrastructure bill.]",
+      "publication_date": "2021-11-10T21:20:42+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Ozy Media Faces Federal Investigations",
+      "snippet": "The Justice Department and the S.E.C. have contacted companies that discussed investing in the Silicon Valley media business.",
+      "abstract": "The Justice Department and the S.E.C. have contacted companies that discussed investing in the Silicon Valley media business.",
+      "lead_paragraph": "The Justice Department and the Securities and Exchange Commission have opened investigations into the embattled Silicon Valley company Ozy Media, according to people with knowledge of the matter.",
+      "publication_date": "2021-11-10T21:38:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/10/business/ozy-doj-sec-investigations.html",
+      "byline": "By Ben Smith and Ben Protess"
+    },
+    {
+      "headline": "Unlike Before, Poland Gets Support From Europe on Tough Borders",
+      "snippet": "Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations.",
+      "abstract": "Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations.",
+      "lead_paragraph": "Follow our live coverage of the migrant crisis at the Belarus-Poland border.",
+      "publication_date": "2021-11-11T00:19:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html",
+      "byline": "By Steven Erlanger"
+    },
+    {
+      "headline": "‘I Defended Myself,’ Kyle Rittenhouse Tells Jurors in His Homicide Trial",
+      "snippet": "Mr. Rittenhouse testified for hours about the deaths of two men and the shooting of another amid protests in Kenosha, Wis. The judge and prosecutor sparred bitterly over judicial procedure.",
+      "abstract": "Mr. Rittenhouse testified for hours about the deaths of two men and the shooting of another amid protests in Kenosha, Wis. The judge and prosecutor sparred bitterly over judicial procedure.",
+      "lead_paragraph": "KENOSHA, Wis. — Kyle Rittenhouse sobbed and gulped for air on the witness stand as he was asked to describe the moments before he shot three men in the aftermath of demonstrations in Kenosha, Wis. One of them had aggressively chased him into a parking lot, Mr. Rittenhouse testified. The man had lunged at him, he said.",
+      "publication_date": "2021-11-11T01:14:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/10/us/kyle-rittenhouse-testimony.html",
+      "byline": "By Julie Bosman"
+    },
+    {
+      "headline": "Stocks Soar in India, Luring Investors at Home and Abroad",
+      "snippet": "The second-most populous country is enjoying some of the world’s strongest stock market returns. Pro-growth policies and gnawing questions about China have helped.",
+      "abstract": "The second-most populous country is enjoying some of the world’s strongest stock market returns. Pro-growth policies and gnawing questions about China have helped.",
+      "lead_paragraph": "Until the pandemic, India’s stock market was like another world that Dilip Kumar never had a reason to visit. But like so many other people around the world who were stuck at home, he began to see it as the place to be.",
+      "publication_date": "2021-11-11T10:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/11/business/india-stock-market.html",
+      "byline": "By Matt Phillips and Emily Schmall"
+    }
+  ]
+}

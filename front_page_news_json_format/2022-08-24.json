@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2022-08-24",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Trump, Without the Presidency’s Protections, Struggles for a Strategy",
+      "snippet": "Facing serious legal peril in the documents investigation, the former president has turned to his old playbook of painting himself as persecuted amid legal and political stumbles.",
+      "abstract": "Facing serious legal peril in the documents investigation, the former president has turned to his old playbook of painting himself as persecuted amid legal and political stumbles.",
+      "lead_paragraph": "On Tuesday, a Florida judge informed two lawyers representing former President Donald J. Trump, neither of them licensed in the state, that they had bungled routine paperwork to take part in a suit filed following the F.B.I.’s search this month of Mr. Trump’s Mar-a-Lago home and private club.",
+      "publication_date": "2022-08-23T23:15:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/23/us/politics/trump-investigation-strategy.html",
+      "byline": "By Maggie Haberman, Glenn Thrush and Alan Feuer"
+    },
+    {
+      "headline": "6 Months Into War, Ukraine and Russia Are Both Reshaped",
+      "snippet": "It has been six months since Russian forces swept into Ukraine. This is what the conflict looks like for the combatants, and to a worried continent trying to maintain solidarity.",
+      "abstract": "It has been six months since Russian forces swept into Ukraine. This is what the conflict looks like for the combatants, and to a worried continent trying to maintain solidarity.",
+      "lead_paragraph": "For six months, a major land war has sown horror in Europe.",
+      "publication_date": "2022-08-24T04:01:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/24/world/europe/ukraine-russia-six-months.html",
+      "byline": "By Anton Troianovski, Andrew E. Kramer and Steven Erlanger"
+    },
+    {
+      "headline": "What Will Happen to Black Workers’ Gains if There’s a Recession?",
+      "snippet": "Black unemployment fell quickly after the initial pandemic downturn. But as the Federal Reserve fights inflation, those gains could be eroded.",
+      "abstract": "Black unemployment fell quickly after the initial pandemic downturn. But as the Federal Reserve fights inflation, those gains could be eroded.",
+      "lead_paragraph": "Black Americans have been hired much more rapidly in the wake of the pandemic shutdowns than after previous recessions. But as the Federal Reserve tries to soften the labor market in a bid to tame inflation, economists worry that Black workers will bear the brunt of a slowdown — and that without federal aid to cushion the blow, the impact could be severe.",
+      "publication_date": "2022-08-24T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/24/business/economy/black-workers-recession.html",
+      "byline": "By Talmon Joseph Smith and Ben Casselman"
+    },
+    {
+      "headline": "When Your Boss Is Crying, but You’re the One Being Laid Off",
+      "snippet": "Executives are racing to let employees know that they’re not just empty suits. They’re humans, with emotions, which they’re now sharing more broadly.",
+      "abstract": "Executives are racing to let employees know that they’re not just empty suits. They’re humans, with emotions, which they’re now sharing more broadly.",
+      "lead_paragraph": "If you had told Ryan Caldbeck, in his first-ever job, that he would one day be crying to a room full of his employees, he might have simply told you — with the bluster characteristic of any corporate striver — that you were wrong.",
+      "publication_date": "2022-08-24T09:00:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/24/business/ceo-crying-linkedin-layoffs.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "We Need to Talk About How Good A.I. Is Getting",
+      "snippet": "We’re in a golden age of progress in artificial intelligence. It’s time to start taking its potential and risks seriously.",
+      "abstract": "We’re in a golden age of progress in artificial intelligence. It’s time to start taking its potential and risks seriously.",
+      "lead_paragraph": "For the past few days, I’ve been playing around with DALL-E 2, an app developed by the San Francisco company OpenAI that turns text descriptions into hyper-realistic images.",
+      "publication_date": "2022-08-24T09:00:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/08/24/technology/ai-technology-progress.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Biden to Cancel $10,000 in Student Debt; Low-Income Students Are Eligible for More",
+      "snippet": "The debt forgiveness comes after months of deliberations in the White House over fairness and fears that the plan could make inflation worse ahead of the midterm elections.",
+      "abstract": "The debt forgiveness comes after months of deliberations in the White House over fairness and fears that the plan could make inflation worse ahead of the midterm elections.",
+      "lead_paragraph": "WASHINGTON — President Biden announced a plan on Wednesday to wipe out significant amounts of student loan debt for tens of millions of Americans, saying he would cancel $10,000 in debt for those earning less than $125,000 per year and $20,000 for those who had received Pell grants for low-income families.",
+      "publication_date": "2022-08-24T15:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/08/24/us/politics/student-loan-forgiveness-biden.html",
+      "byline": "By Zolan Kanno-Youngs, Stacy Cowley and Jim Tankersley"
+    }
+  ]
+}

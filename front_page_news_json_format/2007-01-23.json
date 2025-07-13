@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2007-01-23",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Pfizer, Hurt by Rival Drugs, Will Lay Off 7,800",
+      "snippet": "Pfizer will reorganize its businesses and close several manufacturing and research sites, including a plant in Brooklyn, the borough where the drug company began.",
+      "abstract": "Pfizer will reorganize its businesses and close several manufacturing and research sites, including a plant in Brooklyn, the borough where the drug company began.",
+      "lead_paragraph": "Pfizer said yesterday that it would cut 7,800 workers, close several manufacturing and research sites and overhaul its business practices in hopes of coping with competition from cheaper generic drugs and setbacks in developing new products. ",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/23/business/23pfizer.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Under Fire, Gap Chief Steps Down",
+      "snippet": "Paul S. Pressler is out in what the company described as a “mutual” decision.",
+      "abstract": "Paul S. Pressler is out in what the company described as a “mutual” decision.",
+      "lead_paragraph": "For the last two weeks, the son of Gap’s founders and the board’s chairman, Robert J. Fisher, conducted a series of secret conference calls with fellow directors. ",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/23/business/23gap.html",
+      "byline": "By Michael Barbaro and Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Springtime for Ethanol",
+      "snippet": "In his State of the Union address, President Bush is expected to call for a huge increase in the amount of ethanol that refiners mix with gasoline.",
+      "abstract": "In his State of the Union address, President Bush is expected to call for a huge increase in the amount of ethanol that refiners mix with gasoline.",
+      "lead_paragraph": " ",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "Washington",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/23/washington/23ethanol.html",
+      "byline": "By Alexei Barrionuevo"
+    },
+    {
+      "headline": "88 Killed as Car Bombs Devastate Busy Baghdad Market",
+      "snippet": "Two powerful car bombs ripped through a market in central Baghdad on Monday in one of the worst scenes of carnage since the war began.",
+      "abstract": "Two powerful car bombs ripped through a market in central Baghdad on Monday in one of the worst scenes of carnage since the war began.",
+      "lead_paragraph": "BAGHDAD, Jan. 22 — Two powerful car bombs ripped through a market in central Baghdad on Monday, turning an area crowded with shoppers and commuters into one of the worst scenes of carnage since the war began. ",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/23/world/middleeast/23iraq.html",
+      "byline": "By Marc Santora"
+    },
+    {
+      "headline": "In the Vortex of Baghdad, Staying Put This Time",
+      "snippet": "U.S. soldiers have fortified a cluster of houses in one of Baghdad’s most dangerous neighborhoods in a test case for President Bush’s new security plan. ",
+      "abstract": "U.S. soldiers have fortified a cluster of houses in one of Baghdad’s most dangerous neighborhoods in a test case for President Bush’s new security plan. ",
+      "lead_paragraph": "BAGHDAD, Jan. 22 — Two blocks from the new American outpost in Ghazaliya, one of Baghdad’s most dangerous neighborhoods, a fight was raging. Shiites were battling Sunnis, the latest skirmish in a sectarian war that has left this area a wasteland.",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/23/world/middleeast/23baghdad.html",
+      "byline": "By Marc Santora"
+    },
+    {
+      "headline": "Death Knell May Be Near for Public Election Funds",
+      "snippet": "The public financing system has failed to keep pace with the torrents of money flowing toward the presidential elections.",
+      "abstract": "The public financing system has failed to keep pace with the torrents of money flowing toward the presidential elections.",
+      "lead_paragraph": "WASHINGTON, Jan. 22 — The public financing system for presidential campaigns, a post-Watergate initiative hailed for decades as the best way to rid politics of the corrupting influence of money, may have quietly died over the weekend.",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/23/us/politics/23donate.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "New Shuffle Roils Waters at Citigroup",
+      "snippet": "Citigroup’s newest management shake-up is raising questions about the bank’s ability to turn itself around.",
+      "abstract": "Citigroup’s newest management shake-up is raising questions about the bank’s ability to turn itself around.",
+      "lead_paragraph": "Citigroup shuffled its management ranks yesterday for the second time in a little more than a month in a shake-up that raises questions about the bank’s ability to turn itself around.",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/23/business/23citi.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "Illinois Is Putting Lottery on Block for Quick Payoff",
+      "snippet": "The state hopes to attract up to $10 billion from investors in one of the largest privatizations of a state-run program.",
+      "abstract": "The state hopes to attract up to $10 billion from investors in one of the largest privatizations of a state-run program.",
+      "lead_paragraph": "The state of Illinois yesterday took the first steps in selling its state lottery system, hoping to attract as much as $10 billion from investors who, in return, would own a monopoly that could turn out to be the biggest jackpot yet. ",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2007/01/23/business/23lotto.html",
+      "byline": "By Charles Duhigg and Jenny Anderson"
+    },
+    {
+      "headline": "Scrambling to Get Hold of a Passport",
+      "snippet": "The new requirement that Americans use a passport when they fly between the U.S. and any point in the Western Hemisphere is testing the processing capabilities of federal offices.",
+      "abstract": "The new requirement that Americans use a passport when they fly between the U.S. and any point in the Western Hemisphere is testing the processing capabilities of federal offices.",
+      "lead_paragraph": "The new requirement that Americans use a passport when they fly between the United States and any point in the Western Hemisphere has significantly increased demand for passports, testing the processing capabilities of federal offices, travel industry officials say.",
+      "publication_date": "2007-01-23T05:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "C",
+      "web_url": "https://www.nytimes.com/2007/01/23/business/23passport.html",
+      "byline": "By Jane L. Levere"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-12-05",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Israeli Forces Near Major City in Southern Gaza as Civilians Panic",
+      "snippet": "Israel, escalating its assault against Hamas in southern Gaza, warned civilians there to evacuate, but some said there was nowhere left to go.",
+      "abstract": "Israel, escalating its assault against Hamas in southern Gaza, warned civilians there to evacuate, but some said there was nowhere left to go.",
+      "lead_paragraph": "Israel widened its military assault against Hamas in the southern part of the Gaza Strip on Monday, with armored vehicles rolling closer to its main city and strikes pummeling urban areas, where images showed smoke rising from flattened buildings and people carrying bodies swaddled in blankets.",
+      "publication_date": "2023-12-04T21:30:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/04/world/middleeast/israel-hamas-gaza-war.html",
+      "byline": "By Hiba Yazbek, Christoph Koettl and Michael Levenson"
+    },
+    {
+      "headline": "China Evergrande’s Crash Was Accelerated by Questionable Accounting",
+      "snippet": "Blame for the property developer’s downfall has been placed on Chinese lending policies, but poor corporate oversight was hiding in plain sight.",
+      "abstract": "Blame for the property developer’s downfall has been placed on Chinese lending policies, but poor corporate oversight was hiding in plain sight.",
+      "lead_paragraph": "In January, more than 100 financial sleuths were dispatched to the Guangzhou headquarters of China Evergrande Group, a real estate giant that had defaulted a year earlier under $300 billion of debt. Its longtime auditor had just resigned, and a nation of home buyers had directed its ire at Evergrande.",
+      "publication_date": "2023-12-05T05:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/05/business/china-evergrande-default-debt.html",
+      "byline": "By Alexandra Stevenson"
+    },
+    {
+      "headline": "Inside the A.I. Arms Race That Changed Silicon Valley Forever",
+      "snippet": "ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.",
+      "abstract": "ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.",
+      "lead_paragraph": "At 1 p.m. on a Friday shortly before Christmas last year, Kent Walker, Google’s top lawyer, summoned four of his employees and ruined their weekend.",
+      "publication_date": "2023-12-05T08:00:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/05/technology/ai-chatgpt-google-meta.html",
+      "byline": "By Karen Weise, Cade Metz, Nico Grant and Mike Isaac"
+    },
+    {
+      "headline": "Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions",
+      "snippet": "Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.",
+      "abstract": "Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.",
+      "lead_paragraph": "President Biden’s urgent push to replenish Ukraine’s war chest and send aid to Israel is on the brink of collapse in the Senate, where Republicans are prepared on Wednesday to block the funding unless Democrats agree to add strict measures to clamp down on migration at the U.S. border with Mexico.",
+      "publication_date": "2023-12-05T12:42:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/05/us/politics/ukraine-aid-zelensky-congress.html",
+      "byline": "By Karoun Demirjian and Marc Santora"
+    },
+    {
+      "headline": "Nikki Haley’s Path From Trump Critic to Defender and Back",
+      "snippet": "As ambassador to the United Nations, Ms. Haley strove to stay in the president’s favor and avoided some battles to change his mind on contentious issues.",
+      "abstract": "As ambassador to the United Nations, Ms. Haley strove to stay in the president’s favor and avoided some battles to change his mind on contentious issues.",
+      "lead_paragraph": "When Nikki Haley was governor of South Carolina in 2016, she said she was appalled by Donald J. Trump’s threat to ban all Muslims from entering the United States should he become president. Ms. Haley, herself the child of Indian immigrants, called the pledge “absolutely un-American,” and part of a pattern of “unacceptable” comments and acts.",
+      "publication_date": "2023-12-05T15:56:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/05/us/politics/nikki-haley-trump.html",
+      "byline": "By Sharon LaFraniere"
+    }
+  ]
+}

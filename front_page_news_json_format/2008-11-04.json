@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2008-11-04",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Automakers Report Grim October Sales",
+      "snippet": "Facing tight credit markets and an economic slowdown, Ford, G.M., Chrysler and Toyota all reported selling far fewer vehicles than a year ago.",
+      "abstract": "Facing tight credit markets and an economic slowdown, Ford, G.M., Chrysler and Toyota all reported selling far fewer vehicles than a year ago.",
+      "lead_paragraph": "DETROIT — Sales of new cars and trucks in the United States plummeted in October to levels not seen in the auto industry in 25 years.",
+      "publication_date": "2008-11-03T18:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/04/business/04auto.html",
+      "byline": "By Bill Vlasic and Nick Bunkley"
+    },
+    {
+      "headline": "Airwaves Battle Pits Dolly Parton Against Google",
+      "snippet": "The F.C.C. will vote on Tuesday on a proposal to make a disputed chunk of radio spectrum available for public use.",
+      "abstract": "The F.C.C. will vote on Tuesday on a proposal to make a disputed chunk of radio spectrum available for public use.",
+      "lead_paragraph": "SAN FRANCISCO  Tuesday marks the end of a battle that has lasted for more than two years, with each side predicting apocalyptic consequences should it lose. ",
+      "publication_date": "2008-11-03T18:11:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/04/technology/internet/04wireless.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "Zaragoza, Beneficiary of Spain’s Heady Years, Feels the Undertow",
+      "snippet": "The experience of Zaragoza, the capital of Spain’s fastest-growing region, illustrates how the crisis is spreading beyond real estate and finance to fundamental sectors of the European economy.",
+      "abstract": "The experience of Zaragoza, the capital of Spain’s fastest-growing region, illustrates how the crisis is spreading beyond real estate and finance to fundamental sectors of the European economy.",
+      "lead_paragraph": "ZARAGOZA, Spain  Few places in Europe have prospered in recent years like this bustling crossroads city of 700,000, halfway between Barcelona and Madrid.",
+      "publication_date": "2008-11-03T23:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/04/business/worldbusiness/04euecon.html",
+      "byline": "By Nelson D. Schwartz"
+    },
+    {
+      "headline": "New Terrain for Panel on Bailout",
+      "snippet": "A committee of five little-known officials is picking winners and losers among institutions seeking a slice of the bailout.",
+      "abstract": "A committee of five little-known officials is picking winners and losers among institutions seeking a slice of the bailout.",
+      "lead_paragraph": "WASHINGTON — There was a rare moment of levity at the Treasury Department on Friday as the children of government workers scampered from office to office in Halloween costumes. A few minutes later, the children were gone and the hallways were retaken by grim-faced grown-ups — handing out tricks and treats of a different sort.",
+      "publication_date": "2008-11-04T00:33:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/04/business/economy/04bailout.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Afghan Officials Aided an Attack on U.S. Soldiers",
+      "snippet": "A report found evidence of collusion between an Afghan police chief and the Taliban in an attack on the U.S. military.",
+      "abstract": "A report found evidence of collusion between an Afghan police chief and the Taliban in an attack on the U.S. military.",
+      "lead_paragraph": "WASHINGTON  An internal review by the American military has found that a local Afghan police chief and another district leader helped Taliban militants carry out an attack on July 13 in which nine United States soldiers were killed and a remote American outpost in eastern Afghanistan was nearly overrun. ",
+      "publication_date": "2008-11-04T02:32:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/04/world/asia/04military.html",
+      "byline": "By Eric Schmitt"
+    },
+    {
+      "headline": "Rein in Chief’s Pay? It’s Doable",
+      "snippet": "How to curb executive pay has become a hot-button issue now that American taxpayers are shareholders in the nation’s largest banks.",
+      "abstract": "How to curb executive pay has become a hot-button issue now that American taxpayers are shareholders in the nation’s largest banks.",
+      "lead_paragraph": "Whoever is elected president on Tuesday, one hot-button issue from this long campaign will keep hounding Wall Street: executive pay. ",
+      "publication_date": "2008-11-04T02:58:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/04/business/04sorkin.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "The ’08 Campaign: Sea Change for Politics as We Know It",
+      "snippet": "The 2008 election has upended how presidential campaigns are fought, a fact almost lost amid the battle.",
+      "abstract": "The 2008 election has upended how presidential campaigns are fought, a fact almost lost amid the battle.",
+      "lead_paragraph": "The 2008 race for the White House that comes to an end on Tuesday fundamentally upended the way presidential campaigns are fought in this country, a legacy that has almost been lost with all the attention being paid to the battle between Senators John McCain and Barack Obama.",
+      "publication_date": "2008-11-04T03:03:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/04/us/politics/04memo.html",
+      "byline": "By Adam Nagourney"
+    },
+    {
+      "headline": "Election Night Guide (Popcorn Included)",
+      "snippet": "What to watch for, from the first poll closings in Indiana to the last tossup state in the West, Nevada.",
+      "abstract": "What to watch for, from the first poll closings in Indiana to the last tossup state in the West, Nevada.",
+      "lead_paragraph": "Pundits and pollsters may be trying to take all the fun out of Election Day. So many have predicted a lopsided victory for Senator Barack Obama over Senator John McCain that you might wonder why even to bother watching the returns on Tuesday night.",
+      "publication_date": "2008-11-04T03:24:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/04/us/politics/04guide.html",
+      "byline": "By Katharine Q. Seelye"
+    },
+    {
+      "headline": "Report Backs Palin in Firing of Commissioner",
+      "snippet": "A report released by a state board cleared Sarah Palin in the dismissal of her public safety commissioner.",
+      "abstract": "A report released by a state board cleared Sarah Palin in the dismissal of her public safety commissioner.",
+      "lead_paragraph": "ANCHORAGE  A report released on Monday by a state board found that Gov. Sarah Palin did not apply improper pressure to try to dismiss a state trooper who was her former brother-in-law and did not violate state ethics laws in the firing of her public safety commissioner.",
+      "publication_date": "2008-11-04T03:27:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2008/11/04/us/politics/04palin.html",
+      "byline": "By William Yardley and Serge F. Kovaleski"
+    },
+    {
+      "headline": "Strongest Election Day Stock Rally in 24 Years",
+      "snippet": "Wall Street had its largest Election Day rally in 24 years as millions of American voters went to the polls.",
+      "abstract": "Wall Street had its largest Election Day rally in 24 years as millions of American voters went to the polls.",
+      "lead_paragraph": "Wall Street built on recent gains Tuesday as reduced volatility and easing in the credit markets helped give stocks their strongest Election Day rally in 24 years.",
+      "publication_date": "2008-11-04T07:55:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2008/11/05/business/05markets.html",
+      "byline": "By Sharon Otterman"
+    }
+  ]
+}

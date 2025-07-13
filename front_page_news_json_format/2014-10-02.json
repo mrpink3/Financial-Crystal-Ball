@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2014-10-02",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "U.S. Patient Aided Ebola Victim in Liberia",
+      "snippet": "Thomas E. Duncan, the first Ebola patient to develop symptoms in the U.S., is in serious but stable condition.",
+      "abstract": "Thomas E. Duncan, the first Ebola patient to develop symptoms in the U.S., is in serious but stable condition.",
+      "lead_paragraph": "DALLAS — The man who has become the first Ebola patient to develop symptoms in the United States told officials at Texas Health Presbyterian Hospital last Thursday that he had just arrived from West Africa but was not admitted that day because that information was not passed along at the hospital, officials acknowledged Wednesday.",
+      "publication_date": "2014-10-01T16:46:31+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/10/02/us/after-ebola-case-in-dallas-health-officials-seek-those-who-had-contact-with-patient.html",
+      "byline": "By Manny Fernandez and Norimitsu Onishi"
+    },
+    {
+      "headline": "Julia Pierson, Secret Service Director, Resigns Under Pressure About Breaches",
+      "snippet": "Ms. Pierson failed to quell a bipartisan political furor over repeated breaches of security and lost the confidence of the president her agency is charged with protecting.",
+      "abstract": "Ms. Pierson failed to quell a bipartisan political furor over repeated breaches of security and lost the confidence of the president her agency is charged with protecting.",
+      "lead_paragraph": "WASHINGTON — Julia Pierson resigned under pressure as director of the Secret Service on Wednesday after failing to quell a bipartisan political furor over repeated breaches of White House security and losing the confidence of the president her agency is charged with protecting.",
+      "publication_date": "2014-10-01T18:25:34+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/10/02/us/julia-pierson-secret-service.html",
+      "byline": "By Michael D. Shear and Michael S. Schmidt"
+    },
+    {
+      "headline": "Tax Tactics Threaten Public Funds ",
+      "snippet": "If global corporations can continue to evade taxation, the burden of government financing could fall disproportionately on ordinary workers.",
+      "abstract": "If global corporations can continue to evade taxation, the burden of government financing could fall disproportionately on ordinary workers.",
+      "lead_paragraph": "When the European Commission charged  this week that Ireland’s sweetheart tax treatment of Apple amounted to an illegal corporate subsidy, the company said that it had done nothing wrong. Apple executives might have added that whatever they did, they were not alone.",
+      "publication_date": "2014-10-01T21:51:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/10/02/business/economy/multinational-tax-strategies-put-public-coffers-at-risk.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Indians Join the Wave of Investors in Condos and Homes in the U.S.",
+      "snippet": "Not-so-superrich Indians are joining buyers from other countries who see the recovering United States housing market as a safe haven for their money.",
+      "abstract": "Not-so-superrich Indians are joining buyers from other countries who see the recovering United States housing market as a safe haven for their money.",
+      "lead_paragraph": "Arun Kumar owns three apartments in New Delhi, where he has carved out a comfortable life as part of India’s rapidly expanding middle class. Not long ago, he also became a global landlord, picking up an inexpensive three-bedroom house and a duplex nearly 8,000 miles away, in St. Louis.",
+      "publication_date": "2014-10-01T23:33:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/10/02/business/owning-a-piece-of-america.html",
+      "byline": "By Dionne Searcey"
+    },
+    {
+      "headline": "Bankruptcy Judge in California Challenges Sanctity of Pensions",
+      "snippet": "A ruling on Stockton’s plan to exit bankruptcy upended the belief that public workers’ pensions have a special status in California.",
+      "abstract": "A ruling on Stockton’s plan to exit bankruptcy upended the belief that public workers’ pensions have a special status in California.",
+      "lead_paragraph": "A federal bankruptcy judge on Wednesday upended the widely held belief that public workers’ pensions have a special status in California that makes them impossible to cut, further chipping away at the idea that pensions are sacrosanct in a municipal bankruptcy.",
+      "publication_date": "2014-10-02T01:15:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/10/01/judge-rules-that-bankruptcy-invalidates-calpers-lien-against-stockton-calif/",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Loan Fraud Inquiry Said to Focus on Used-Car Dealers",
+      "snippet": "Inflated applications can mean that some of the most vulnerable borrowers are saddled with auto loans they cannot afford to repay.",
+      "abstract": "Inflated applications can mean that some of the most vulnerable borrowers are saddled with auto loans they cannot afford to repay.",
+      "lead_paragraph": "Lenders in the housing boom created so-called liar loans, which enabled borrowers, even those with no income or assets, to inflate their income. Government authorities are now taking aim at a new generation of liar loans. Only this time it is subprime auto loans.",
+      "publication_date": "2014-10-02T02:00:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/10/01/loan-fraud-inquiry-said-to-focus-on-used-car-dealers/",
+      "byline": "By Jessica Silver-Greenberg and Michael Corkery"
+    },
+    {
+      "headline": "Delay in Dallas Ebola Cleanup as Workers Balk at Task",
+      "snippet": "Local and federal health officials have displayed an uneven and often-flawed response to the first Ebola case diagnosed in the United States.",
+      "abstract": "Local and federal health officials have displayed an uneven and often-flawed response to the first Ebola case diagnosed in the United States.",
+      "lead_paragraph": "DALLAS — More than six months after an outbreak of Ebola began its rampage through West Africa, local and federal health officials have displayed an uneven and flawed response to the first case diagnosed in the United States. ",
+      "publication_date": "2014-10-02T14:43:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/10/03/us/dallas-ebola-case-thomas-duncan-contacts.html",
+      "byline": "By Kevin Sack and Manny Fernandez"
+    }
+  ]
+}

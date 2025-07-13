@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2011-10-11",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Japan Courts the Money in Reactors",
+      "snippet": "Japanese industrial conglomerates, with the cooperation of the government in Tokyo, are renewing their pursuit of multibillion-dollar nuclear projects, particularly in smaller countries.",
+      "abstract": "Japanese industrial conglomerates, with the cooperation of the government in Tokyo, are renewing their pursuit of multibillion-dollar nuclear projects, particularly in smaller countries.",
+      "lead_paragraph": "TOKYO — Even as Japan plans to phase out nuclear power as too risky for domestic use, the government is supporting a new push by Japanese industry to sell nuclear power technology to other countries.",
+      "publication_date": "2011-10-10T19:27:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/11/business/global/shunning-nuclear-plants-at-home-japan-pursues-building-them-overseas.html",
+      "byline": "By Hiroko Tabuchi"
+    },
+    {
+      "headline": "In Brazil, Energy Finds Put Country at a Whole New Power Level",
+      "snippet": "Brazil, which is maintaining investments to increase oil production even as turmoil hits financial markets, is leading a shift in Latin America’s oil industry.",
+      "abstract": "Brazil, which is maintaining investments to increase oil production even as turmoil hits financial markets, is leading a shift in Latin America’s oil industry.",
+      "lead_paragraph": "RIO DE JANEIRO — Of all those who might smile at Brazil’s unfolding oil boom, Walter Link could rank near the top. A U.S. oilman here at a time of nationalist fervor, he was the former chief geologist for Standard Oil Company of New Jersey whom Brazil hired to find its oil reserves.",
+      "publication_date": "2011-10-10T20:27:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/11/business/energy-environment/in-brazil-energy-finds-put-country-at-a-whole-new-power-level.html",
+      "byline": "By Simon Romero"
+    },
+    {
+      "headline": "Regulators to Set Forth Volcker Rule",
+      "snippet": "The rules, part of the Dodd-Frank law, are intended to limit the ability of banks with government guarantees and Fed borrowing privileges to take outsize risks.",
+      "abstract": "The rules, part of the Dodd-Frank law, are intended to limit the ability of banks with government guarantees and Fed borrowing privileges to take outsize risks.",
+      "lead_paragraph": "WASHINGTON — The outlines of the Volcker Rule, one of the flagship provisions of the sweeping financial regulatory overhaul passed last year, will begin to take shape this week as regulators propose rules to limit the ability of most banks and Wall Street firms to use their own funds to buy and sell stocks, corporate bonds and derivatives.",
+      "publication_date": "2011-10-11T00:58:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/10/11/business/volcker-rule-to-take-shape-this-week.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "States Adding Drug Test as Hurdle for Welfare",
+      "snippet": "As more Americans turn to government programs for refuge from a merciless economy, a growing number are encountering a new price of admission to the social safety net: a urine sample.",
+      "abstract": "As more Americans turn to government programs for refuge from a merciless economy, a growing number are encountering a new price of admission to the social safety net: a urine sample.",
+      "lead_paragraph": "KANSAS CITY, Mo. — As more Americans turn to government programs for refuge from a merciless economy, a growing number are encountering a new price of admission to the social safety net: a urine sample.",
+      "publication_date": "2011-10-11T01:04:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/11/us/states-adding-drug-test-as-hurdle-for-welfare.html",
+      "byline": "By A. G. Sulzberger"
+    },
+    {
+      "headline": "Democrats Try Wary Embrace of the Protests",
+      "snippet": "Leading Democratic figures are embracing the spread of the anti-Wall Street protests as a way to align disenchanted Americans with their party.",
+      "abstract": "Leading Democratic figures are embracing the spread of the anti-Wall Street protests as a way to align disenchanted Americans with their party.",
+      "lead_paragraph": "WASHINGTON — Leading Democratic figures, including party fund-raisers and a top ally of President Obama, are embracing the spread of the anti-Wall Street protests in a clear sign that members of the Democratic establishment see the movement as a way to align disenchanted Americans with their party.",
+      "publication_date": "2011-10-11T01:22:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/11/us/politics/wall-street-protests-gain-support-from-leading-democrats.html",
+      "byline": "By Eric Lichtblau"
+    },
+    {
+      "headline": "Sanctions Pose Growing Threat to Syria’s Assad",
+      "snippet": "More than the popular protests, Western sanctions have threatened President Bashar al-Assad’s government, which relies on its economic successes as a source of its legitimacy.",
+      "abstract": "More than the popular protests, Western sanctions have threatened President Bashar al-Assad’s government, which relies on its economic successes as a source of its legitimacy.",
+      "lead_paragraph": "BEIRUT, Lebanon — The Syrian economy is buckling under the pressure of sanctions by the West and a continuing popular uprising, posing a growing challenge to President Bashar al-Assad’s government as the pain is felt deeply by nearly every layer of Syrian society.",
+      "publication_date": "2011-10-11T02:31:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/10/11/world/middleeast/sanctions-pose-growing-threat-to-syrias-president-assad.html",
+      "byline": "By Nada Bakri"
+    }
+  ]
+}

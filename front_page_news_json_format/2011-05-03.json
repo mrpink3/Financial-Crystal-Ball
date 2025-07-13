@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2011-05-03",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Extra Tax Revenue to Delay Debt Crisis",
+      "snippet": "The department will initiate emergency measures to keep governmental borrowing under the maximum allowed.",
+      "abstract": "The department will initiate emergency measures to keep governmental borrowing under the maximum allowed.",
+      "lead_paragraph": "WASHINGTON — A greater-than-expected increase in tax revenue has extended by about a month, until early August, the federal government’s ability to pay its bills without an increase in the debt ceiling, the Treasury Department said Monday.",
+      "publication_date": "2011-05-02T20:15:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/03/business/economy/03debt.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Supplies Squeezed, Rare Earth Prices Surge",
+      "snippet": "World prices have doubled in the last four months as efforts to increase supplies and break China’s chokehold on the market have faltered.",
+      "abstract": "World prices have doubled in the last four months as efforts to increase supplies and break China’s chokehold on the market have faltered.",
+      "lead_paragraph": " HONG KONG — Rare earth prices are reaching rarefied heights.",
+      "publication_date": "2011-05-02T21:12:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/03/business/03rare.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Obama Finds Praise, Even From Republicans",
+      "snippet": "Former Vice President Dick Cheney, Rudolph W. Giuliani, and Donald Trump expressed admiration.",
+      "abstract": "Former Vice President Dick Cheney, Rudolph W. Giuliani, and Donald Trump expressed admiration.",
+      "lead_paragraph": "WASHINGTON — President Obama drew praise from unlikely quarters on Monday for pursuing a risky and clandestine mission to kill Osama bin Laden, a successful operation that interrupted the withering Republican criticism about his foreign policy, world view and his grasp of the office. ",
+      "publication_date": "2011-05-02T23:15:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/03/us/politics/03obama.html",
+      "byline": "By Jeff Zeleny and Jim Rutenberg"
+    },
+    {
+      "headline": "U.S. Business Has High Tax Rates but Pays Less",
+      "snippet": "The United States has the second-highest corporate tax rate in the world, but a myriad of loopholes make that no better than a sticker rate.",
+      "abstract": "The United States has the second-highest corporate tax rate in the world, but a myriad of loopholes make that no better than a sticker rate.",
+      "lead_paragraph": "The United States may soon wind up with a distinction that makes business leaders cringe — the highest corporate tax rate in the world. ",
+      "publication_date": "2011-05-03T01:12:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/03/business/economy/03rates.html",
+      "byline": "By David Kocieniewski"
+    },
+    {
+      "headline": "Behind the Hunt for Bin Laden",
+      "snippet": "The raid in Pakistan was the culmination of years of painstaking intelligence.",
+      "abstract": "The raid in Pakistan was the culmination of years of painstaking intelligence.",
+      "lead_paragraph": "WASHINGTON — For years, the agonizing search for Osama bin Laden kept coming up empty. Then last July, Pakistanis working for the Central Intelligence Agency drove up behind a white Suzuki  navigating the bustling streets near Peshawar, Pakistan, and wrote down the car’s license plate.",
+      "publication_date": "2011-05-03T01:41:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/05/03/world/asia/03intel.html",
+      "byline": "By Mark Mazzetti, Helene Cooper and Peter Baker"
+    },
+    {
+      "headline": "Enforcing Copyrights Online, for a Profit",
+      "snippet": "Righthaven, a Nevada company, finds newspaper material that has been republished on the Web and obtains the copyrights. Then it sues.",
+      "abstract": "Righthaven, a Nevada company, finds newspaper material that has been republished on the Web and obtains the copyrights. Then it sues.",
+      "lead_paragraph": "DENVER — When Brian Hill, a 20-year-old blogger from North Carolina, posted on his Web site last December a photograph of an airport security officer conducting a pat-down, a legal battle was the last thing he imagined.",
+      "publication_date": "2011-05-03T01:47:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/03/business/media/03righthaven.html",
+      "byline": "By Dan Frosch"
+    },
+    {
+      "headline": "Ownership of TV Sets Falls in U.S.",
+      "snippet": "Nielsen, the ratings company, said that 96.7 percent of American households now own sets, down from 98.9 percent.",
+      "abstract": "Nielsen, the ratings company, said that 96.7 percent of American households now own sets, down from 98.9 percent.",
+      "lead_paragraph": "For the first time in 20 years, the number of homes in the United States with television sets has dropped.",
+      "publication_date": "2011-05-03T04:21:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/03/business/media/03television.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "U.S. Sues Deutsche Bank Over Loan Practices",
+      "snippet": "The government says the bank and its mortgage unit lied about loans included in a program to insure mortgages.",
+      "abstract": "The government says the bank and its mortgage unit lied about loans included in a program to insure mortgages.",
+      "lead_paragraph": "The United States government sued Deutsche Bank on Tuesday, accusing it of lying about the quality of home loans it handled under a government program and demanding that the bank repay hundreds of millions of dollars of losses on those loans.",
+      "publication_date": "2011-05-03T14:03:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/05/04/business/04mortgage.html",
+      "byline": "By Louise Story"
+    }
+  ]
+}

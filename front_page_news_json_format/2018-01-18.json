@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-01-18",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Apple, Capitalizing on New Tax Law, Plans to Bring Billions in Cash Back to U.S.",
+      "snippet": "Less than four weeks after President Trump signed a new tax bill, Apple plans to repatriate the vast majority of its $252 billion in cash held abroad.",
+      "abstract": "Less than four weeks after President Trump signed a new tax bill, Apple plans to repatriate the vast majority of its $252 billion in cash held abroad.",
+      "lead_paragraph": "SAN FRANCISCO — Apple, which had long deferred paying taxes on its foreign earnings and had become synonymous with hoarding money overseas, unveiled plans on Wednesday that would bring back the vast majority of the $252 billion in cash that it held abroad and said it would make a sizable investment in the United States.",
+      "publication_date": "2018-01-17T19:55:53+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/17/technology/apple-tax-bill-repatriate-cash.html",
+      "byline": "By Daisuke Wakabayashi and Brian X. Chen"
+    },
+    {
+      "headline": "A Girl’s Killing Puts Germany’s Migration Policy on Trial",
+      "snippet": "A deadly stabbing in a small German town has become Exhibit A for those arguing that Germany’s migration policy has increased the risk of violent crime.",
+      "abstract": "A deadly stabbing in a small German town has become Exhibit A for those arguing that Germany’s migration policy has increased the risk of violent crime.",
+      "lead_paragraph": "KANDEL, Germany — It happened between neatly stacked rows of shampoo and organic baby food: A teenage boy walked up to his ex-girlfriend in the local drugstore, pulled out a kitchen knife with an eight-inch blade and stabbed her in the heart.",
+      "publication_date": "2018-01-17T21:42:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/17/world/europe/germany-teen-murder-migrant.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Trump Was Not ‘Fully Informed’ in Campaign Vows on Wall, Chief of Staff Says",
+      "snippet": "John F. Kelly told Hispanic members of Congress on Wednesday that President Trump’s campaign promises have “evolved” on immigration.",
+      "abstract": "John F. Kelly told Hispanic members of Congress on Wednesday that President Trump’s campaign promises have “evolved” on immigration.",
+      "lead_paragraph": "WASHINGTON — President Trump’s chief of staff privately told a group of Democratic lawmakers on Wednesday that Mr. Trump had not been “fully informed” when promising voters a wall along the Mexican border last year, and said that he had persuaded the president it was not necessary. He also expressed optimism that a bipartisan immigration deal could eventually be reached.",
+      "publication_date": "2018-01-17T22:39:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/17/us/politics/chief-of-staff-kelly-trump-not-fully-informed.html",
+      "byline": "By Julie Hirschfeld Davis, Sheryl Gay Stolberg and Thomas Kaplan"
+    },
+    {
+      "headline": "IBM May Finally Stop Shrinking. But Is It a Turnaround?",
+      "snippet": "For five and half years IBM has reported a steady erosion of revenue, a losing streak that analysts predict will end on Thursday.",
+      "abstract": "For five and half years IBM has reported a steady erosion of revenue, a losing streak that analysts predict will end on Thursday.",
+      "lead_paragraph": "For five and a half years, nearly the entire tenure of its chief executive, Virginia M. Rometty, IBM has reported a steady erosion of revenue.",
+      "publication_date": "2018-01-17T23:42:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/17/technology/ibm-earnings.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "Senate Democrats Make Hard Turn Left in Warming Up for 2020 Race",
+      "snippet": "The 2020 race for the White House is already unfolding in the Capitol, with no fewer than six Democratic senators angling for their party’s nomination.",
+      "abstract": "The 2020 race for the White House is already unfolding in the Capitol, with no fewer than six Democratic senators angling for their party’s nomination.",
+      "lead_paragraph": "WASHINGTON — It was a made-for-TV moment, perfect for a presidential campaign advertisement.",
+      "publication_date": "2018-01-18T00:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/17/us/politics/democrat-senators-presidential-election-left.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Olympic Détente Upends U.S. Strategy on North Korea",
+      "snippet": "For the White House, the budding détente scrambles its strategy of pressuring the North, with sanctions and threats of military action, to give up its nuclear arsenal.",
+      "abstract": "For the White House, the budding détente scrambles its strategy of pressuring the North, with sanctions and threats of military action, to give up its nuclear arsenal.",
+      "lead_paragraph": "SEOUL, South Korea — North and South Korea reached an agreement Wednesday for their athletes to march together under one flag at the opening ceremony of the Winter Olympics next month, a powerful gesture of reconciliation that further complicates President Trump’s strategy for dealing with the nuclear-armed regime of Kim Jong-un.",
+      "publication_date": "2018-01-18T01:29:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/17/us/politics/trump-north-south-korea-olympics.html",
+      "byline": "By Choe Sang-Hun and Mark Landler"
+    },
+    {
+      "headline": "Hunting a C.I.A. Mole, Agents Gambled and Let a Suspect Return to China",
+      "snippet": "Officials hoped it would help solve the mystery of the deaths of C.I.A. informants. Five years later, an arrest has been made but the mystery remains.",
+      "abstract": "Officials hoped it would help solve the mystery of the deaths of C.I.A. informants. Five years later, an arrest has been made but the mystery remains.",
+      "lead_paragraph": "WASHINGTON — Face to face with a former C.I.A. officer in 2013, federal agents took a calculated risk. They did not confront him about the classified information they had found in his luggage. And they did not ask what they most wanted to know: whether he was a spy for China.",
+      "publication_date": "2018-01-18T01:30:54+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/17/world/asia/jerry-lee-cia-china-mole-hunt-suspect.html",
+      "byline": "By Matt Apuzzo and Adam Goldman"
+    },
+    {
+      "headline": "Fed Up With Drug Companies, Hospitals Decide to Start Their Own",
+      "snippet": "A group of large hospital systems plans to create a nonprofit generic drug company to battle shortages and high prices.",
+      "abstract": "A group of large hospital systems plans to create a nonprofit generic drug company to battle shortages and high prices.",
+      "lead_paragraph": "For years, hospital executives have expressed frustration when essential drugs like heart medicines have become scarce, or when prices have skyrocketed because investors manipulated the market.",
+      "publication_date": "2018-01-18T05:01:21+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/18/health/drug-prices-hospitals.html",
+      "byline": "By Reed Abelson and Katie Thomas"
+    },
+    {
+      "headline": "Amazon Chooses 20 Finalists for Second Headquarters",
+      "snippet": "The list released Thursday leaned toward cities in the Midwest and on the East Coast, and away from the tech-saturated hubs of the West Coast.",
+      "abstract": "The list released Thursday leaned toward cities in the Midwest and on the East Coast, and away from the tech-saturated hubs of the West Coast.",
+      "lead_paragraph": "SEATTLE — Like a college applicant waiting for that special message in the mail, officials in Boston got what they wanted on Thursday: a cryptic four-sentence note informing them that the city made the finals in its bid to host Amazon’s second headquarters.",
+      "publication_date": "2018-01-18T14:05:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/01/18/technology/amazon-finalists-headquarters.html",
+      "byline": "By Nick Wingfield"
+    },
+    {
+      "headline": "House Passes Short-Term Spending Bill, Setting Up Shutdown Battle in Senate",
+      "snippet": "The successful vote in the House provided only a faint glimmer of hope that a crisis could be averted before government funding expires at midnight on Friday.",
+      "abstract": "The successful vote in the House provided only a faint glimmer of hope that a crisis could be averted before government funding expires at midnight on Friday.",
+      "lead_paragraph": "WASHINGTON — The House approved a stopgap spending bill on Thursday night to keep the government open past Friday, but Senate Democrats — angered by President Trump’s vulgar aspersions and a lack of progress on a broader budget and immigration deal — appeared ready to block the measure.",
+      "publication_date": "2018-01-18T14:30:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/01/18/us/politics/government-shutdown-house-vote.html",
+      "byline": "By Thomas Kaplan and Sheryl Gay Stolberg"
+    }
+  ]
+}

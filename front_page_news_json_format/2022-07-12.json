@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-07-12",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "How Elon Musk Damaged Twitter and Left It Worse Off",
+      "snippet": "Mr. Musk swooped in and exposed Twitter’s lack of business and financial prospects. After criticizing the company’s weaknesses, he now wants to back out of buying it.",
+      "abstract": "Mr. Musk swooped in and exposed Twitter’s lack of business and financial prospects. After criticizing the company’s weaknesses, he now wants to back out of buying it.",
+      "lead_paragraph": "SAN FRANCISCO — For years, Twitter was a runner-up social media company. It never grew to the size and scale of a Facebook or an Instagram. It simply muddled along.",
+      "publication_date": "2022-07-11T21:19:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/11/technology/elon-musk-twitter-damaged.html",
+      "byline": "By Kate Conger and Mike Isaac"
+    },
+    {
+      "headline": "Relief Eludes Many Renters as Fed Raises Interest Rates",
+      "snippet": "As the central bank sharply increases borrowing costs, it could lock would-be home buyers into rentals and keep a hot market under pressure.",
+      "abstract": "As the central bank sharply increases borrowing costs, it could lock would-be home buyers into rentals and keep a hot market under pressure.",
+      "lead_paragraph": "Rents have been rising swiftly across America for much of the pandemic era, and housing experts are warning that they could now receive a boost from an unlikely source: the Federal Reserve.",
+      "publication_date": "2022-07-11T21:23:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/11/business/economy/rent-inflation-interest-rates.html",
+      "byline": "By Jeanna Smialek and Conor Dougherty"
+    },
+    {
+      "headline": "Russia Steps Up Attacks on Civilian Areas, Even With Advance Paused",
+      "snippet": "Russian forces in eastern Ukraine are regrouping, with a new offensive expected, but they continue to rain death and destruction on cities and towns.",
+      "abstract": "Russian forces in eastern Ukraine are regrouping, with a new offensive expected, but they continue to rain death and destruction on cities and towns.",
+      "lead_paragraph": "BAKHMUT, Ukraine — Over one town, an arc of fireballs burst and drifted down like fireworks, setting gardens and homes ablaze. In another, Russian missiles slammed into a five-story apartment block, shearing off a side of the building and killing at least 30 people.",
+      "publication_date": "2022-07-11T23:11:11+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/11/world/europe/ukraine-civilian-casualties.html",
+      "byline": "By Carlotta Gall, Kamila Hrabchuk and Matthew Mpoke Bigg"
+    },
+    {
+      "headline": "Half of G.O.P. Voters Ready to Leave Trump Behind, Poll Finds",
+      "snippet": "Far from consolidating his support, the former president appears weakened in his party, especially with younger and college-educated Republicans. Gov. Ron DeSantis of Florida is the most popular alternative.",
+      "abstract": "Far from consolidating his support, the former president appears weakened in his party, especially with younger and college-educated Republicans. Gov. Ron DeSantis of Florida is the most popular alternative.",
+      "lead_paragraph": "As Donald J. Trump weighs whether to open an unusually early White House campaign, a New York Times/Siena College poll shows that his post-presidential quest to consolidate his support within the Republican Party has instead left him weakened, with nearly half the party’s primary voters seeking someone different for president in 2024 and a significant number vowing to abandon him if he wins the nomination.",
+      "publication_date": "2022-07-12T07:00:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/12/us/politics/trump-approval-polling-2024.html",
+      "byline": "By Michael C. Bender"
+    },
+    {
+      "headline": "Is the World Really Falling Apart, or Does It Just Feel That Way?",
+      "snippet": "By most measures — with one glaring exception — people around the world are better off than ever. So why doesn’t it feel that way, especially to Americans?",
+      "abstract": "By most measures — with one glaring exception — people around the world are better off than ever. So why doesn’t it feel that way, especially to Americans?",
+      "lead_paragraph": "Has the world entered a time of unusual turbulence, or does it just feel that way?",
+      "publication_date": "2022-07-12T09:00:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/12/world/interpreter-world-falling-apart.html",
+      "byline": "By Max Fisher"
+    },
+    {
+      "headline": "Advanced E.V. Batteries Move From Labs to Mass Production",
+      "snippet": "Makers of batteries that could charge in a few minutes are setting up assembly lines, bringing the technology a big step closer to auto showrooms.",
+      "abstract": "Makers of batteries that could charge in a few minutes are setting up assembly lines, bringing the technology a big step closer to auto showrooms.",
+      "lead_paragraph": "SAN JOSE, Calif. — For years, scientists in laboratories from Silicon Valley to Boston have been searching for an elusive potion of chemicals, minerals and metals that would allow electric vehicles to recharge in minutes and travel hundreds of miles between charges, all for a much lower cost than batteries available now.",
+      "publication_date": "2022-07-12T09:00:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/07/12/business/electric-vehicle-batteries.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Trump Sought to Conceal Plans for March to Capitol, Panel Says",
+      "snippet": "The House select committee investigating the Jan. 6 attack showed evidence that the former president wanted his call for supporters to descend on Congress to appear spontaneous.",
+      "abstract": "The House select committee investigating the Jan. 6 attack showed evidence that the former president wanted his call for supporters to descend on Congress to appear spontaneous.",
+      "lead_paragraph": "WASHINGTON — President Donald J. Trump attempted to make the Jan. 6, 2021, march on the Capitol appear spontaneous even as he and his team intentionally assembled and galvanized a violence-prone mob to disrupt certification of his electoral defeat, the House committee investigating the attack showed on Tuesday.",
+      "publication_date": "2022-07-12T13:13:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/07/12/us/jan-6-panel-trump.html",
+      "byline": "By Luke Broadwater and Alan Feuer"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-08-26",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Facebook Said to Consider Forming an Election Commission",
+      "snippet": "The social network has contacted academics to create a group to advise it on thorny election-related decisions, said people with knowledge of the matter.",
+      "abstract": "The social network has contacted academics to create a group to advise it on thorny election-related decisions, said people with knowledge of the matter.",
+      "lead_paragraph": "Facebook has approached academics and policy experts about forming a commission to advise it on global election-related matters, said five people with knowledge of the discussions, a move that would allow the social network to shift some of its political decision-making to an advisory body.",
+      "publication_date": "2021-08-25T20:52:30+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/25/technology/facebook-election-commission.html",
+      "byline": "By Ryan Mac, Mike Isaac and Sheera Frenkel"
+    },
+    {
+      "headline": "U.S. Says 1,500 Americans Remain in Afghanistan as Evacuation Enters Final Days",
+      "snippet": "The State Department is frantically trying to track down U.S. citizens. Tens of thousands of Afghan allies will all but certainly be left behind.",
+      "abstract": "The State Department is frantically trying to track down U.S. citizens. Tens of thousands of Afghan allies will all but certainly be left behind.",
+      "lead_paragraph": "WASHINGTON — At least 1,500 American citizens remain in Afghanistan with just days left before the scheduled U.S. withdrawal from the country, but officials on Wednesday acknowledged the reality that tens of thousands of Afghan allies and others at high risk of Taliban reprisals would be left behind.",
+      "publication_date": "2021-08-26T00:07:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/26/world/asia/afghanistan-taliban-united-states-evacuation.html",
+      "byline": "By Lara Jakes and Michael Levenson"
+    },
+    {
+      "headline": "A New Coal Mine for England Is Stirring Hopes and Fears",
+      "snippet": "A mining company’s proposal has largely been embraced locally as an economic stimulus, but climate concerns may shelve the idea.",
+      "abstract": "A mining company’s proposal has largely been embraced locally as an economic stimulus, but climate concerns may shelve the idea.",
+      "lead_paragraph": "WHITEHAVEN, England — Britain has been getting out of the coal business for the past 100 years. The fuel that turned an island nation into a black-skied manufacturing giant during the Industrial Revolution has steadily been replaced by oil, natural gas and, increasingly in recent years, offshore winds and the rays of the sun.",
+      "publication_date": "2021-08-26T04:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/26/business/coal-mine-england-uk.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "Delta’s Extra $200 Insurance Fee Shows Vaccine Dilemma for Employers",
+      "snippet": "Charging unvaccinated workers more for health coverage may seem more appealing than a mandate but could be harder to carry out.",
+      "abstract": "Charging unvaccinated workers more for health coverage may seem more appealing than a mandate but could be harder to carry out.",
+      "lead_paragraph": "For weeks, big employers like Citigroup, Google and the Walt Disney Company have been warming to the idea of requiring coronavirus vaccines for employees. Now that one vaccine has received full federal approval, President Biden wants more to follow suit.",
+      "publication_date": "2021-08-26T07:00:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/26/business/delta-insurance-fee-unvaccinated.html",
+      "byline": "By Niraj Chokshi, Margot Sanger-Katz and Tara Siegel Bernard"
+    },
+    {
+      "headline": "The Real Winner of the Afghan War? It’s Not Who You Think.",
+      "snippet": "Pakistan, nominally a U.S. partner in the war, was the Afghan Taliban’s main patron, and sees the Taliban’s victory as its own. But now what does it do with its prize?",
+      "abstract": "Pakistan, nominally a U.S. partner in the war, was the Afghan Taliban’s main patron, and sees the Taliban’s victory as its own. But now what does it do with its prize?",
+      "lead_paragraph": "Just days after the Taliban took Kabul, their flag was flying high above a central mosque in Pakistan’s capital. It was an in-your-face gesture intended to spite the defeated Americans. But it was also a sign of the real victors in the 20-year Afghan war.",
+      "publication_date": "2021-08-26T07:00:16+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/26/world/asia/afghanistan-pakistan-taliban.html",
+      "byline": "By Jane Perlez"
+    },
+    {
+      "headline": "Spies for Hire: China’s New Breed of Hackers Blends Espionage and Entrepreneurship",
+      "snippet": "The state security ministry is recruiting from a vast pool of private-sector hackers who often have their own agendas and sometimes use their access for commercial cybercrime, experts say.",
+      "abstract": "The state security ministry is recruiting from a vast pool of private-sector hackers who often have their own agendas and sometimes use their access for commercial cybercrime, experts say.",
+      "lead_paragraph": "China’s buzzy high-tech companies don’t usually recruit Cambodian speakers, so the job ads for three well-paid positions with those language skills stood out. The ad, seeking writers of research reports, was placed by an internet security start-up in China’s tropical island-province of Hainan.",
+      "publication_date": "2021-08-26T09:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/26/technology/china-hackers.html",
+      "byline": "By Paul Mozur and Chris Buckley"
+    }
+  ]
+}

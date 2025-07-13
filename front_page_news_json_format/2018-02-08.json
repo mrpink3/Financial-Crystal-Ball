@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2018-02-08",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Rob Porter, White House Aide, Resigns After Accusations of Abuse",
+      "snippet": "Mr. Porter, the White House staff secretary, said he would leave his job a day after a news account that quoted his two ex-wives accusing him of physical abuse.",
+      "abstract": "Mr. Porter, the White House staff secretary, said he would leave his job a day after a news account that quoted his two ex-wives accusing him of physical abuse.",
+      "lead_paragraph": "WASHINGTON — As the White House staff secretary, Rob Porter is not a public figure, but he is responsible for paper flow to the president, a job of crucial importance in the Trump administration. He frequently travels with President Trump on Air Force One, and he helped write Mr. Trump’s first State of the Union address last month.",
+      "publication_date": "2018-02-07T18:51:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/02/07/us/politics/rob-porter-resigns-abuse-white-house-staff-secretary.html",
+      "byline": "By Maggie Haberman and Katie Rogers"
+    },
+    {
+      "headline": "For Millennial Investors, a Harsh Lesson in Market Gyrations",
+      "snippet": "Severe stock swings rattled young investors, many of whom had never experienced such an intense sell-off and were left feeling “a punch to the gut.”",
+      "abstract": "Severe stock swings rattled young investors, many of whom had never experienced such an intense sell-off and were left feeling “a punch to the gut.”",
+      "lead_paragraph": "Watching the wild swings in the stock market has been a heartbreaking experience for Jasmine Okougbo, who started investing only last month.",
+      "publication_date": "2018-02-07T23:33:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/07/business/millennial-investors-stock-market.html",
+      "byline": "By Tiffany Hsu"
+    },
+    {
+      "headline": "Without Steve Wynn, Casino Empire Risks Losing More Than a Name",
+      "snippet": "“None of us in this world are irreplaceable,’’ the head of a Las Vegas marketing firm said. “But that kind of raw imagination is pretty rare.”",
+      "abstract": "“None of us in this world are irreplaceable,’’ the head of a Las Vegas marketing firm said. “But that kind of raw imagination is pretty rare.”",
+      "lead_paragraph": "As the chief architect of modern Las Vegas, and a visionary who didn’t understand the meaning of subdued, Steve Wynn spent more than three decades luring visitors to the Strip with his opulent hotels, fantasy-filled casinos, fine dining experiences and luxe shopping.",
+      "publication_date": "2018-02-08T01:43:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/02/07/business/steve-wynn-name.html",
+      "byline": "By Julie Creswell"
+    }
+  ]
+}

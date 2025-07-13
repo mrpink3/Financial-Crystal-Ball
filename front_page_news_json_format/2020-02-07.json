@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2020-02-07",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Trump Hails Acquittal and Lashes Out at His ‘Evil’ and ‘Corrupt’ Opponents",
+      "snippet": "As President Trump renewed his attacks on Speaker Nancy Pelosi and Democrats, his press secretary threatened payback against them.",
+      "abstract": "As President Trump renewed his attacks on Speaker Nancy Pelosi and Democrats, his press secretary threatened payback against them.",
+      "lead_paragraph": "WASHINGTON — President Trump and his Republican allies focused on exacting payback against his political opponents on Thursday after his acquittal in his Senate impeachment trial, signaling that the conflict that has consumed Washington for months may only escalate rather than recede.",
+      "publication_date": "2020-02-06T16:39:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/06/us/politics/trump-impeachment.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "An Algorithm That Grants Freedom, or Takes It Away",
+      "snippet": "Across the United States and Europe, software is making probation decisions and predicting whether teens will commit crime. Opponents want more human oversight.",
+      "abstract": "Across the United States and Europe, software is making probation decisions and predicting whether teens will commit crime. Opponents want more human oversight.",
+      "lead_paragraph": "PHILADELPHIA — Darnell Gates sat at a long table in a downtown Philadelphia office building. He wore a black T-shirt with “California” in bright yellow letters on the chest. He had never been to the state, but he hoped to visit family there after finishing his probation.",
+      "publication_date": "2020-02-06T16:50:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/02/06/technology/predictive-algorithms-crime.html",
+      "byline": "By Cade Metz and Adam Satariano"
+    },
+    {
+      "headline": "China Tightens Wuhan Lockdown in ‘Wartime’ Battle With Coronavirus",
+      "snippet": "With infections doubling every four days and more than 600 deaths, China intensified its response in Wuhan, with house-to-house temperature checks and mass confinements at quarantine centers.",
+      "abstract": "With infections doubling every four days and more than 600 deaths, China intensified its response in Wuhan, with house-to-house temperature checks and mass confinements at quarantine centers.",
+      "lead_paragraph": "WUHAN, China — The Chinese authorities resorted to increasingly extreme measures in Wuhan on Thursday to try to halt the spread of the deadly coronavirus, ordering house-to-house searches, rounding up the sick and warehousing them in enormous quarantine centers.",
+      "publication_date": "2020-02-06T16:52:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china-wuhan-quarantine.html",
+      "byline": "By Amy Qin, Steven Lee Myers and Elaine Yu"
+    },
+    {
+      "headline": "Chinese Doctor, Silenced After Warning of Outbreak, Dies From Coronavirus",
+      "snippet": "Dr. Li Wenliang issued a warning about a strange new virus. Then the authorities summoned him for questioning.",
+      "abstract": "Dr. Li Wenliang issued a warning about a strange new virus. Then the authorities summoned him for questioning.",
+      "lead_paragraph": "WUHAN, China —  He was the doctor who tried to sound a warning that a troubling cluster of viral infections in a Chinese province could grow out of control — and was then summoned for a middle-of-the-night reprimand over his candor.",
+      "publication_date": "2020-02-06T16:53:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/06/world/asia/chinese-doctor-Li-Wenliang-coronavirus.html",
+      "byline": "By Chris Buckley"
+    },
+    {
+      "headline": "Boeing Refuses to Cooperate With New Inquiry Into Deadly Crash",
+      "snippet": "Dutch lawmakers are reviewing an investigation into a 2009 accident with striking parallels to the recent 737 Max crashes. U.S. safety officials also declined to participate.",
+      "abstract": "Dutch lawmakers are reviewing an investigation into a 2009 accident with striking parallels to the recent 737 Max crashes. U.S. safety officials also declined to participate.",
+      "lead_paragraph": "Boeing and American safety officials refused to cooperate on Thursday with a new inquiry by Dutch lawmakers into a deadly crash near Amsterdam in 2009 that had striking parallels with two more recent accidents involving the manufacturer’s 737 Max.",
+      "publication_date": "2020-02-06T18:18:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/06/business/boeing-737-inquiry.html",
+      "byline": "By Chris Hamby and Claire Moses"
+    },
+    {
+      "headline": "After Disasters, Puerto Ricans Are Left With $1.6 Billion in Unpaid Insurance Claims",
+      "snippet": "Homeowners and cities say they’re getting pennies on the dollar. Some insurers have gone out of business. Lawsuits and claims of fraud — on both sides — are flying.",
+      "abstract": "Homeowners and cities say they’re getting pennies on the dollar. Some insurers have gone out of business. Lawsuits and claims of fraud — on both sides — are flying.",
+      "lead_paragraph": "When the ground shakes in Puerto Rico and it is time to head for higher ground, the people in the northwestern coastal city of Aguadilla find out the old way: the shrill of whistles.",
+      "publication_date": "2020-02-07T00:45:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/06/us/puerto-rico-insurance-tsunami.html",
+      "byline": "By Frances Robles and Patricia Mazzei"
+    },
+    {
+      "headline": "Muddled Democratic Race Hurtles to New Hampshire",
+      "snippet": "A remarkable level of discord enveloped the start of the nominating process as results from Iowa’s troubled caucuses showed Pete Buttigieg and Bernie Sanders in a dead heat.",
+      "abstract": "A remarkable level of discord enveloped the start of the nominating process as results from Iowa’s troubled caucuses showed Pete Buttigieg and Bernie Sanders in a dead heat.",
+      "lead_paragraph": "MANCHESTER, N.H. — Democrats fought among themselves on Thursday over the troubled Iowa caucuses, even as near-final results showed Senator Bernie Sanders and Pete Buttigieg in a dead heat for the lead. ",
+      "publication_date": "2020-02-07T00:56:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/06/us/politics/democratic-iowa-caucuses.html",
+      "byline": "By Jonathan Martin and Reid J. Epstein"
+    },
+    {
+      "headline": "Widespread Outcry in China Over Death of Coronavirus Doctor",
+      "snippet": "The doctor, Li Wenliang, had been silenced by the police after warning about the new coronavirus that has killed hundreds in China and sickened thousands.",
+      "abstract": "The doctor, Li Wenliang, had been silenced by the police after warning about the new coronavirus that has killed hundreds in China and sickened thousands.",
+      "lead_paragraph": "They posted videos of the Les Misérables song “Do You Hear the People Sing.” They invoked article No. 35 of China’s Constitution, which stipulates freedom of speech. They tweeted a phrase from “For Whom the Bell Tolls.”",
+      "publication_date": "2020-02-07T09:46:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/07/business/china-coronavirus-doctor-death.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Black Workers’ Wages Are Finally Rising",
+      "snippet": "Their pay is increasing after a decade of stagnation. One man’s story shows the hope — and limitations — with that shift.",
+      "abstract": "Their pay is increasing after a decade of stagnation. One man’s story shows the hope — and limitations — with that shift.",
+      "lead_paragraph": "PHILADELPHIA — On a brisk January morning Markus Mitchell arrives at his desk at 8:30, his phone ringing before he can even log in to his computer. An employee at the giant nonprofit where Mr. Mitchell works is locked out of the organization’s network and needs the 24-year-old’s help.",
+      "publication_date": "2020-02-07T10:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/07/business/black-unemployment-wages.html",
+      "byline": "By Jeanna Smialek, Ben Casselman and Demetrius Freeman"
+    },
+    {
+      "headline": "PG&E Has a Survival Plan, and Newsom Has Plan B: A Takeover",
+      "snippet": "California’s governor, Gavin Newsom, is threatening to assume control of the utility if its restructuring in bankruptcy doesn’t meet his demands. Does he mean it?",
+      "abstract": "California’s governor, Gavin Newsom, is threatening to assume control of the utility if its restructuring in bankruptcy doesn’t meet his demands. Does he mean it?",
+      "lead_paragraph": "Ferocious wildfires have inflicted several years of death and destruction on California. But they have also presented the state with an opportunity to radically overhaul the company prominently implicated in the fires, Pacific Gas & Electric.",
+      "publication_date": "2020-02-07T10:00:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/07/business/pge-bankruptcy-newsom.html",
+      "byline": "By Ivan Penn and Peter Eavis"
+    },
+    {
+      "headline": "Job Growth Gives the Economy an Upbeat Start to the Year",
+      "snippet": "Payrolls expanded by 225,000 in January, helped by mild weather, and more people were drawn into the labor market.",
+      "abstract": "Payrolls expanded by 225,000 in January, helped by mild weather, and more people were drawn into the labor market.",
+      "lead_paragraph": "Job growth accelerated last month, posting a strong start to an election year in which the economy could prove pivotal.",
+      "publication_date": "2020-02-07T11:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/02/07/business/january-jobs-report.html",
+      "byline": "By Ben Casselman"
+    },
+    {
+      "headline": "Clearview’s Facial Recognition App Is Identifying Child Victims of Abuse",
+      "snippet": "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images.",
+      "abstract": "Though a breakthrough for law enforcement, the technique could allow the little-known start-up to collect an extraordinarily sensitive set of data and images.",
+      "lead_paragraph": "Law enforcement agencies across the United States and Canada are using Clearview AI — a secretive facial recognition start-up with a database of three billion images — to identify children who are victims of sexual abuse. It’s a powerful use case for the company’s technology, but raises new questions about the tool’s accuracy and how the company handles data.",
+      "publication_date": "2020-02-07T15:06:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/02/07/business/clearview-facial-recognition-child-sexual-abuse.html",
+      "byline": "By Kashmir Hill and Gabriel J.X. Dance"
+    }
+  ]
+}

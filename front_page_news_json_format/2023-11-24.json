@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2023-11-24",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Retailers Worry About Shoppers’ Mood This Holiday Season",
+      "snippet": "Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.",
+      "abstract": "Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.",
+      "lead_paragraph": "Christina Beck is approaching this holiday season cautiously.",
+      "publication_date": "2023-11-23T16:42:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/23/business/economy/black-friday-shopping.html",
+      "byline": "By Julie Creswell, Jeanna Smialek and Jordyn Holman"
+    },
+    {
+      "headline": "Johnson’s Release of Jan. 6 Video Feeds Right-Wing Conspiracy Theories",
+      "snippet": "The speaker fulfilled a demand of the far right, which has sought thousands of hours of footage to try to rewrite the history of the Capitol attack.",
+      "abstract": "The speaker fulfilled a demand of the far right, which has sought thousands of hours of footage to try to rewrite the history of the Capitol attack.",
+      "lead_paragraph": "Speaker Mike Johnson’s decision to publicly release thousands of hours of Capitol security footage from Jan. 6, 2021, has fueled a renewed effort by Republican lawmakers and far-right activists to rewrite the history of the attack that day and exonerate the pro-Trump rioters who took part.",
+      "publication_date": "2023-11-23T17:01:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/23/us/politics/mike-johnson-jan-6-video.html",
+      "byline": "By Luke Broadwater, Alan Feuer and Angelo Fichera"
+    },
+    {
+      "headline": "Israel, Hamas Agree to Begin Cease-Fire Friday Morning",
+      "snippet": "Prodded by the U.S., Israel agreed to the pause in hostilities and the release of 150 imprisoned Palestinians in exchange for 50 hostages held in Gaza.",
+      "abstract": "Prodded by the U.S., Israel agreed to the pause in hostilities and the release of 150 imprisoned Palestinians in exchange for 50 hostages held in Gaza.",
+      "lead_paragraph": "Follow live news updates on the Israel-Hamas war.",
+      "publication_date": "2023-11-24T00:01:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/23/world/europe/israel-hamas-ceasefire.html",
+      "byline": "By Aaron Boxerman, Hiba Yazbek and Jason Horowitz"
+    },
+    {
+      "headline": "Black Friday Isn’t What It Used to Be",
+      "snippet": "Big discounts, many of them online only, start appearing well before Thanksgiving and will run long after. Some people still go to the mall, though.",
+      "abstract": "Big discounts, many of them online only, start appearing well before Thanksgiving and will run long after. Some people still go to the mall, though.",
+      "lead_paragraph": "Black Friday was once a hallmark celebration of American consumerism. Lately, it has lost some of its thunder.",
+      "publication_date": "2023-11-24T08:00:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/24/business/what-is-black-friday.html",
+      "byline": "By J. Edward Moreno and Santul Nerkar"
+    },
+    {
+      "headline": "These Retail Workers Make Your Holiday Shopping Spree Possible",
+      "snippet": "It’s the busiest time of year in the retail and logistics industries. Here’s how employees at four of the biggest retailers pull it off.",
+      "abstract": "It’s the busiest time of year in the retail and logistics industries. Here’s how employees at four of the biggest retailers pull it off.",
+      "lead_paragraph": "The holidays are a hectic time of year for everyone. But for those working in the retail and logistics industries, it’s the busiest time. From selecting the carols that play in the store to deciding the most eye-catching places to display toys to getting those Amazon packages to your doorstep on time, there are thousands of people responsible for making the holiday shopping merry. Here are a few of their stories.",
+      "publication_date": "2023-11-24T08:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/24/business/retail-workers-black-friday-shopping.html",
+      "byline": "By Jordyn Holman and Julie Creswell"
+    },
+    {
+      "headline": "Could Haley Really Beat Trump? Big Donors Are Daring to Dream.",
+      "snippet": "Powerful players in the business world have gravitated toward Nikki Haley, aware that she remains an underdog but beginning to believe she has a chance.",
+      "abstract": "Powerful players in the business world have gravitated toward Nikki Haley, aware that she remains an underdog but beginning to believe she has a chance.",
+      "lead_paragraph": "Late last month, Nikki Haley, the former U.S. ambassador to the United Nations, got an unexpected call from Jamie Dimon, the chief executive of JPMorgan Chase. Mr. Dimon said he was impressed by Ms. Haley’s knowledge of policy details and her open-minded approach to complex issues raised in the Republican presidential race, according to a person familiar with what they discussed. Keep it up, he told her.",
+      "publication_date": "2023-11-24T10:02:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/24/us/politics/nikki-haley-trump-2024.html",
+      "byline": "By Kate Kelly and Rebecca Davis O'Brien"
+    },
+    {
+      "headline": "Growing Numbers of Chinese Migrants Are Crossing the Southern Border",
+      "snippet": "More than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined.",
+      "abstract": "More than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined.",
+      "lead_paragraph": "The surge of migrants entering the United States across the southern border increasingly includes people from a surprising place: China.",
+      "publication_date": "2023-11-24T15:57:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/24/us/politics/china-migrants-us-border.html",
+      "byline": "By Eileen Sullivan"
+    }
+  ]
+}

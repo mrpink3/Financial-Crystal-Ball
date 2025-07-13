@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-08-24",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Should These Tests Get a Failing Grade?",
+      "snippet": "High scores on standardized tests are crucial for students seeking admission to elite schools. But faulty questions may be skewing the scores.",
+      "abstract": "High scores on standardized tests are crucial for students seeking admission to elite schools. But faulty questions may be skewing the scores.",
+      "lead_paragraph": "I haven’t had to take a standardized test in decades. Before I took the SAT, when I was a senior in high school, I had no coaching or test preparation. As far as I know, none was then offered in the small Midwestern city where I grew up. Still, I did well enough to gain admission to DePauw University, and later Harvard Law School, and I doubt I’d be where I am today were it not for my test scores.",
+      "publication_date": "2018-08-23T17:17:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/23/business/nyc-admissions-tests-shsat.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "David Pecker, Chief of National Enquirer’s Publisher, Is Said to Get Immunity in Trump Inquiry",
+      "snippet": "Mr. Pecker is close to President Trump and Michael D. Cohen, his former lawyer, and had been integral to a campaign effort to help protect Mr. Trump from embarrassing stories about women.",
+      "abstract": "Mr. Pecker is close to President Trump and Michael D. Cohen, his former lawyer, and had been integral to a campaign effort to help protect Mr. Trump from embarrassing stories about women.",
+      "lead_paragraph": "Federal prosecutors reached an immunity deal with the tabloid executive David J. Pecker, a key witness in their monthslong investigation into payments during the 2016 campaign to two women who said they had affairs with Donald J. Trump, according to two people familiar with the investigation.",
+      "publication_date": "2018-08-23T17:54:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/23/us/politics/david-pecker-immunity-trump.html",
+      "byline": "By Jim Rutenberg, Rebecca R. Ruiz and Ben Protess"
+    },
+    {
+      "headline": "Trump’s South Africa Tweet Seems to Embrace Racist Narrative on Land Dispute",
+      "snippet": "The post appeared to be the culmination of a lobbying effort by a right-wing South African group that falsely claims that white farmers are being systematically forced off their land and killed in large numbers.",
+      "abstract": "The post appeared to be the culmination of a lobbying effort by a right-wing South African group that falsely claims that white farmers are being systematically forced off their land and killed in large numbers.",
+      "lead_paragraph": "WASHINGTON — Like so many of President Trump’s late-night tweets, this one was inspired by a segment on his favorite cable channel, Fox News.",
+      "publication_date": "2018-08-24T01:34:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/23/us/politics/trump-south-africa-land.html",
+      "byline": "By Julie Hirschfeld Davis and Norimitsu Onishi"
+    },
+    {
+      "headline": "Pope to Visit Ireland, Where Scars of Sex Abuse Are ‘Worse Than the I.R.A.’",
+      "snippet": "Many Catholics are frustrated by the church’s leadership. This is especially true in Donegal, where Francis reappointed a bishop who shielded a notorious pedophile priest.",
+      "abstract": "Many Catholics are frustrated by the church’s leadership. This is especially true in Donegal, where Francis reappointed a bishop who shielded a notorious pedophile priest.",
+      "lead_paragraph": "GORTAHORK, Ireland — If any place illustrates the depth and depravity of child sexual abuse in the Roman Catholic Church — and why the Irish are so angry about it — it is this unlikely corner of the country, where among rolling hills of wild heather, castles and bucolic fishing villages, predatory priests terrorized children with impunity for decades.",
+      "publication_date": "2018-08-24T02:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/23/world/europe/francis-ireland-sexual-abuse-catholic-church.html",
+      "byline": "By Kimiko de Freytas-Tamura"
+    },
+    {
+      "headline": "For Female Candidates, Harassment and Threats Come Every Day",
+      "snippet": "The abuse already common in many women’s everyday lives can be amplified in political campaigns, especially if the candidate is also a member of a minority group.",
+      "abstract": "The abuse already common in many women’s everyday lives can be amplified in political campaigns, especially if the candidate is also a member of a minority group.",
+      "lead_paragraph": "Four days before the 2016 congressional primary in her Northern California district, Erin Schrode woke up to tens of thousands of messages. They were everywhere: in her email, on her cellphone, on her Facebook and her Twitter and her Instagram. ",
+      "publication_date": "2018-08-24T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/24/us/politics/women-harassment-elections.html",
+      "byline": "By Maggie Astor"
+    },
+    {
+      "headline": "Pesticide Studies Won E.P.A.’s Trust, Until Trump’s Team Scorned ‘Secret Science’",
+      "snippet": "Backed by agrochemical companies, the current administration and Congress are moving to curb the role of human health studies in regulation.",
+      "abstract": "Backed by agrochemical companies, the current administration and Congress are moving to curb the role of human health studies in regulation.",
+      "lead_paragraph": "SALINAS, Calif. — José Camacho once worked the fields here in the Salinas Valley, known as “the Salad Bowl of the World” for its abundance of lettuce and vegetables. His wife still does.",
+      "publication_date": "2018-08-24T13:00:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/08/24/business/epa-pesticides-studies-epidemiology.html",
+      "byline": "By Danny Hakim and Eric Lipton"
+    },
+    {
+      "headline": "‘Economy Is Strong,’ Fed Chairman Says, Urging a Policy of Risk Management",
+      "snippet": "Jerome H. Powell, the Federal Reserve chairman, says the central bank is moving carefully and is prepared to shift gears depending on economic data.",
+      "abstract": "Jerome H. Powell, the Federal Reserve chairman, says the central bank is moving carefully and is prepared to shift gears depending on economic data.",
+      "lead_paragraph": "JACKSON, Wyo. — The economy is right about where the Federal Reserve wants it, running neither too hot nor too cold, Jerome H. Powell, the Fed chairman, said in a speech on Friday as he argued for caution and risk management.",
+      "publication_date": "2018-08-24T14:12:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/24/business/fed-economy-jerome-powell.html",
+      "byline": "By Neil Irwin"
+    }
+  ]
+}

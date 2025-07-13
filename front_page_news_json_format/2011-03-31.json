@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2011-03-31",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "The Cloud That Rains Music",
+      "snippet": "Amazon has introduced the Cloud Player, a Web page that allows you listen to your music collection from any computer or Android phone. And it’s almost free.",
+      "abstract": "Amazon has introduced the Cloud Player, a Web page that allows you listen to your music collection from any computer or Android phone. And it’s almost free.",
+      "lead_paragraph": "For years now, the most popular music system — Apple’s — has worked like this. You buy song files from the iTunes store. They download to your computer. If you want to listen to them on the road, you connect your iPod or iPhone to that computer and copy the files to it.",
+      "publication_date": "2011-03-30T17:35:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/31/technology/personaltech/31pogue.html",
+      "byline": "By David Pogue"
+    },
+    {
+      "headline": "Paul Allen Writes of Plots and Slights at Microsoft",
+      "snippet": "In a new book, Paul Allen describes the years with his co-founder, Bill Gates, hinting at disappointment in the way he was treated.",
+      "abstract": "In a new book, Paul Allen describes the years with his co-founder, Bill Gates, hinting at disappointment in the way he was treated.",
+      "lead_paragraph": "SAN FRANCISCO — Paul G. Allen, the Microsoft co-founder, may be one of the world’s richest men, with a fortune pegged at $13 billion. But he still resents his former partner, Bill Gates, for not sharing enough credit or giving him his due financially. ",
+      "publication_date": "2011-03-30T18:17:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/31/technology/31soft.html",
+      "byline": "By Miguel Helft"
+    },
+    {
+      "headline": "Can We Do Without the Mideast?",
+      "snippet": "As the price of fuels rises, energy specialists say the United States should make some of the hard choices now to end dependence on foreign supplies of oil.",
+      "abstract": "As the price of fuels rises, energy specialists say the United States should make some of the hard choices now to end dependence on foreign supplies of oil.",
+      "lead_paragraph": "IMAGINE a foreign policy version of the movie “Groundhog Day,” with Bill Murray playing the president of the United States. The alarm clock rings. Political mayhem is again shaking the Middle East, crude oil and gasoline prices are climbing, and an economic recovery is under threat. ",
+      "publication_date": "2011-03-30T21:04:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2011/03/31/business/energy-environment/31FUEL.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "C.I.A. Agents in Libya Aid Airstrikes and Meet Rebels",
+      "snippet": "Clandestine operatives have been sent into Libya to gather intelligence for military airstrikes and make contacts with rebels battling Col. Muammar el-Qaddafi’s forces.",
+      "abstract": "Clandestine operatives have been sent into Libya to gather intelligence for military airstrikes and make contacts with rebels battling Col. Muammar el-Qaddafi’s forces.",
+      "lead_paragraph": "WASHINGTON — The Central Intelligence Agency has inserted clandestine operatives into Libya to gather intelligence for military airstrikes and to contact and vet the beleaguered rebels battling Col. Muammar el-Qaddafi’s forces, according to American officials.",
+      "publication_date": "2011-03-30T21:12:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/31/world/africa/31intel.html",
+      "byline": "By Mark Mazzetti and Eric Schmitt"
+    },
+    {
+      "headline": "Trading Pumps for Plugs: We Aren’t There Yet",
+      "snippet": "The promise of an electric car revolution in the United States has come once again. How it will unfold is an open question.",
+      "abstract": "The promise of an electric car revolution in the United States has come once again. How it will unfold is an open question.",
+      "lead_paragraph": "KEVIN WALSH and his wife, Jeri Countryman, are young professionals in San Francisco with jobs requiring a fair amount of commuting. By himself, Mr. Walsh, a process engineer for a large international pharmaceutical company in San Carlos, Calif., logs a total of 43 miles each day.",
+      "publication_date": "2011-03-30T21:38:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "F",
+      "web_url": "https://www.nytimes.com/2011/03/31/business/31ELECTRIC.html",
+      "byline": "By Tom Zeller Jr"
+    },
+    {
+      "headline": "Workers Give Glimpse of Japan’s Nuclear Crisis",
+      "snippet": "Interviews, e-mails and blog posts offer a view of problems faced by the thousands of anxious but eager Tokyo Electric Power employees working to re-establish order.",
+      "abstract": "Interviews, e-mails and blog posts offer a view of problems faced by the thousands of anxious but eager Tokyo Electric Power employees working to re-establish order.",
+      "lead_paragraph": "TOKYO — With the power out, trucks were parked in a circle with their lights on, creating a shadowy stage. A manager from the Tokyo Electric Power Company explained how the Fukushima Daiichi nuclear plant had been slammed by a mammoth tsunami and rocked by hydrogen explosions and had become highly radioactive. Some workers wept.",
+      "publication_date": "2011-03-30T23:27:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/31/world/asia/31workers.html",
+      "byline": "By Ken Belson"
+    },
+    {
+      "headline": "Tests Show Irish Banks Still Ailing",
+      "snippet": "The bill for bailing out the banks is expected to rise to more than $98 billion, and the ultimate total may be far higher.",
+      "abstract": "The bill for bailing out the banks is expected to rise to more than $98 billion, and the ultimate total may be far higher.",
+      "lead_paragraph": "LONDON — Once again, Ireland’s banking mess seems to be sending a message that Europe does not want to hear: only by dealing with stricken banks can the Continent expect to end its debt crisis soon.",
+      "publication_date": "2011-03-31T01:03:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/31/business/global/31bank.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Treasury Now Sees Profit From Bailouts",
+      "snippet": "The value has rebounded of more than $1.6 trillion in mortgage bonds that the government bought at the height of the crisis.",
+      "abstract": "The value has rebounded of more than $1.6 trillion in mortgage bonds that the government bought at the height of the crisis.",
+      "lead_paragraph": "Take your pick: A $100 billion loss. A nearly $24 billion profit. A $100 billion profit. ",
+      "publication_date": "2011-03-31T01:33:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/31/business/31tarp.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "Odd Alliance: Business Lobby and Tea Party",
+      "snippet": "Washington’s influence industry has adapted itself to a movement that is often skeptical of big business.",
+      "abstract": "Washington’s influence industry has adapted itself to a movement that is often skeptical of big business.",
+      "lead_paragraph": "The Tea Party does not have a presence in Indonesia, where the term evokes cups of orange pekoe and sweet cakes rather than angry citizens in “Don’t Tread on Me” T-shirts.",
+      "publication_date": "2011-03-31T01:52:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/31/us/politics/31liberty.html",
+      "byline": "By Mike McIntire"
+    },
+    {
+      "headline": "An Arizona Senate Race Waits to See if Giffords Emerges to Run",
+      "snippet": "Some aides suggest Representative Gabrielle Giffords might recover in time to seek a seat made available by Jon Kyl’s retirement.",
+      "abstract": "Some aides suggest Representative Gabrielle Giffords might recover in time to seek a seat made available by Jon Kyl’s retirement.",
+      "lead_paragraph": "TUCSON — Representative Gabrielle Giffords is still in the hospital, but some of her most ardent backers are so enamored of the idea of her running for the Senate that they describe the inevitable campaign commercials: the deep-voiced narrator recounting what happened to her, the images of her wounded, then recovering and speaking into the camera alongside her astronaut husband to call on Arizonans to unite.",
+      "publication_date": "2011-03-31T02:21:35+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/03/31/us/politics/31giffords.html",
+      "byline": "By Marc Lacey"
+    },
+    {
+      "headline": "Antitrust Cry From Microsoft",
+      "snippet": "Microsoft is joining a chorus of complaints saying that Google’s search engine unfairly promotes its own products, like Google Product Search.",
+      "abstract": "Microsoft is joining a chorus of complaints saying that Google’s search engine unfairly promotes its own products, like Google Product Search.",
+      "lead_paragraph": "The wheel of technology history turns remarkably fast. Microsoft, whose domination of the technology industry provoked a landmark federal antitrust case, is crying foul against Google and urging European Union antitrust officials to go after the search giant. ",
+      "publication_date": "2011-03-31T04:00:20+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/03/31/technology/companies/31google.html",
+      "byline": "By Steve Lohr"
+    },
+    {
+      "headline": "2 Cabinet Officials Say U.S. Isn’t Likely to Arm Libyans",
+      "snippet": "Defense Secretary Robert M. Gates signaled that the U.S. was unlikely to arm the rebels, raising the possibility that the French alone would provide weapons for the rebels.",
+      "abstract": "Defense Secretary Robert M. Gates signaled that the U.S. was unlikely to arm the rebels, raising the possibility that the French alone would provide weapons for the rebels.",
+      "lead_paragraph": "WASHINGTON — President Obama’s top two national security officials signaled on Thursday that the United States was unlikely to arm the Libyan rebels, raising the possibility that the French alone among the Western allies would provide weapons and training for the poorly organized forces fighting Col. Muammar el-Qaddafi’s government.",
+      "publication_date": "2011-03-31T14:19:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/04/01/world/africa/01military.html",
+      "byline": "By Elisabeth Bumiller and Thom Shanker"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2012-07-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Bain Attacks Make Inroads for President",
+      "snippet": "President Obama is successfully invoking Mitt Romney’s career at Bain Capital to raise doubts about Mr. Romney’s commitment to the middle class, strategists in both parties say.",
+      "abstract": "President Obama is successfully invoking Mitt Romney’s career at Bain Capital to raise doubts about Mr. Romney’s commitment to the middle class, strategists in both parties say.",
+      "lead_paragraph": "Propelled by a torrent of blistering television advertisements, President Obama is successfully invoking Mitt Romney’s career at Bain Capital to raise questions about his commitment to the middle class, strategists in both parties say, as the candidates engage in a critical summer duel to set the terms for this fall.",
+      "publication_date": "2012-07-01T00:52:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/01/us/politics/bain-attacks-make-inroads-for-president.html",
+      "byline": "By Jim Rutenberg and Jeff Zeleny"
+    },
+    {
+      "headline": "Newly Elected Mexican Leader Pledges Transparency",
+      "snippet": "President-elect Enrique Peña Nieto began the transition to power on Monday, declaring that he would begin to name members of his cabinet, and pledging to defeat organized crime and improve the economy.",
+      "abstract": "President-elect Enrique Peña Nieto began the transition to power on Monday, declaring that he would begin to name members of his cabinet, and pledging to defeat organized crime and improve the economy.",
+      "lead_paragraph": "MEXICO CITY — Mexico’s president-elect, Enrique Peña Nieto, began the transition to power on Monday, declaring that he would begin to name members of his cabinet in the next few days, and pledging to lead an efficient, transparent administration focused on defeating organized crime and improving the economy.",
+      "publication_date": "2012-07-01T17:55:23+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/02/world/americas/mexico-presidential-election.html",
+      "byline": "By Randal C. Archibold"
+    },
+    {
+      "headline": "Stung by Recession, Young Voters Shed Image as Obama Brigade",
+      "snippet": "Since President Obama swept into office with vast backing from young people, a new corps of voters have come of age with views shaped by the recession.",
+      "abstract": "Since President Obama swept into office with vast backing from young people, a new corps of voters have come of age with views shaped by the recession.",
+      "lead_paragraph": "Maria Verdugo, a 20-year-old graduate of the University of California, Santa Cruz, barely remembers the presidential election of 2008 — the one that spawned a youth movement that was singular in its scope and political effectiveness — except for “something about Obama saying we needed a change.”",
+      "publication_date": "2012-07-01T18:58:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/02/us/politics/economy-cuts-into-obamas-youth-support.html",
+      "byline": "By Susan Saulny"
+    },
+    {
+      "headline": "Doubts Greet Plan for a New Euro Zone Bank Regulator",
+      "snippet": "A pledge to create a central regulator has analysts asking whether the new agency would be given the power to rein in risky practices and hold banks accountable.",
+      "abstract": "A pledge to create a central regulator has analysts asking whether the new agency would be given the power to rein in risky practices and hold banks accountable.",
+      "lead_paragraph": "BRUSSELS — Facing a bank crisis in Spain and the prospect of outbreaks in other major countries, European leaders have pledged to establish a new agency aimed at curbing problems afflicting lenders in the euro zone.",
+      "publication_date": "2012-07-01T21:45:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/02/business/global/doubts-greet-plan-for-euro-zone-bank-regulator.html",
+      "byline": "By James Kanter"
+    },
+    {
+      "headline": "News Corp. Split Adds to Pressure on Papers",
+      "snippet": "The success of News Corporation’s cable and entertainment assets has shielded its print properties from a downturn, but now journalists at those publications worry about their future in a separate company.",
+      "abstract": "The success of News Corporation’s cable and entertainment assets has shielded its print properties from a downturn, but now journalists at those publications worry about their future in a separate company.",
+      "lead_paragraph": "With the announcement that News Corporation will be split in two, employees at the company’s many print papers are facing a new reality: they are now in the newspaper business.",
+      "publication_date": "2012-07-01T22:19:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/02/business/media/news-corp-split-puts-new-pressure-on-papers.html",
+      "byline": "By Christine Haughney"
+    },
+    {
+      "headline": "Murdoch’s Change of Heart",
+      "snippet": "The falling fortunes of Rupert Murdoch’s publishing assets finally compelled him to agree to split News Corporation into two companies, a move he had long resisted.",
+      "abstract": "The falling fortunes of Rupert Murdoch’s publishing assets finally compelled him to agree to split News Corporation into two companies, a move he had long resisted.",
+      "lead_paragraph": "Last week, News Corporation’s board voted to quarantine the newspapers that Rupert Murdoch has so lovingly nurtured, separating them into a new company. Cleaving the giant media conglomerate in two will free the lucrative entertainment division to find a share price more befitting its stellar run. ",
+      "publication_date": "2012-07-01T23:33:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/02/business/media/why-murdoch-changed-his-mind-on-news-corp-split.html",
+      "byline": "By David Carr"
+    },
+    {
+      "headline": "A Summer Storm’s Disruption Is Felt in the Technology Cloud",
+      "snippet": "A failure in Amazon’s cloud computing service might prompt some companies to re-examine their dependence on such services.",
+      "abstract": "A failure in Amazon’s cloud computing service might prompt some companies to re-examine their dependence on such services.",
+      "lead_paragraph": "The cutting edge of the Web just bled a little.",
+      "publication_date": "2012-07-02T00:10:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2012/07/02/technology/amazons-cloud-service-is-disrupted-by-a-summer-storm.html",
+      "byline": "By Quentin Hardy"
+    },
+    {
+      "headline": "Russians and Syrians, Allied by History and Related by Marriage",
+      "snippet": "An estimated 20,000 Russian women live in Syria, married to Syrian men who studied in the former Soviet Union, an unusual diaspora offering insight into the two countries’ relations.",
+      "abstract": "An estimated 20,000 Russian women live in Syria, married to Syrian men who studied in the former Soviet Union, an unusual diaspora offering insight into the two countries’ relations.",
+      "lead_paragraph": "MOSCOW — On one jasmine-shaded block in the Syrian port city of Latakia, Natalya lives three doors away from Nina, two from Olga, across a narrow alley from Tatyana, and a short walk from Yelena, Faina and Nadezhda. They are all women from the former Soviet Union who married Syrian men. Pan out to the greater expanse of Syria and the number of Russian wives grows to 20,000, the human legacy of a cold war alliance that, starting in the 1960s, mingled its young elites in Soviet dormitories and classrooms.",
+      "publication_date": "2012-07-02T00:44:07+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/02/world/middleeast/for-russia-syrian-ties-complicated-by-marriage.html",
+      "byline": "By Ellen Barry"
+    },
+    {
+      "headline": "Chairman of Barclays Resigns",
+      "snippet": "The resignation of Marcus Agius comes as Barclays tries to limit fallout from a broad investigation into how big banks set certain rates that affect borrowing costs for consumers and companies.",
+      "abstract": "The resignation of Marcus Agius comes as Barclays tries to limit fallout from a broad investigation into how big banks set certain rates that affect borrowing costs for consumers and companies.",
+      "lead_paragraph": "10:01 a.m. | Updated ",
+      "publication_date": "2012-07-02T00:48:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2012/07/01/chairman-of-barclays-is-expected-to-resign/",
+      "byline": "By Mark Scott and Michael J. de la Merced"
+    },
+    {
+      "headline": "Financial Giants Are Moving Jobs Off Wall Street",
+      "snippet": "Investment houses are moving jobs, mostly those of middle-tier staff members, out of the New York area to places like North Carolina, Salt Lake City and Jacksonville, Fla.",
+      "abstract": "Investment houses are moving jobs, mostly those of middle-tier staff members, out of the New York area to places like North Carolina, Salt Lake City and Jacksonville, Fla.",
+      "lead_paragraph": "New York’s biggest investment houses are shifting jobs out of the area and expanding in cheaper locales in the United States, threatening the vast middle tier of positions that form the backbone of employment on Wall Street. ",
+      "publication_date": "2012-07-02T00:49:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2012/07/02/business/finance-jobs-leave-wall-street-as-firms-cut-costs.html",
+      "byline": "By Nelson D. Schwartz"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-07-13",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Biden Braces NATO for Long Conflict With Russia, Making Cold War Parallel",
+      "snippet": "Concluding a NATO summit focused on the war in Ukraine and other fast-changing challenges, President Biden vowed that the alliance would oppose Russian aggression for as long as needed.",
+      "abstract": "Concluding a NATO summit focused on the war in Ukraine and other fast-changing challenges, President Biden vowed that the alliance would oppose Russian aggression for as long as needed.",
+      "lead_paragraph": "President Biden concluded a meeting of NATO allies on Wednesday in Vilnius, Lithuania, with an address to that country, and the world, comparing the battle to expel Russia from Ukraine with the Cold War struggle for freedom in Europe, and promising “we will not waver” no matter how long the war continues.",
+      "publication_date": "2023-07-12T21:27:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/12/world/europe/biden-nato-lithuania-ukraine.html",
+      "byline": "By David E. Sanger and Zolan Kanno-Youngs"
+    },
+    {
+      "headline": "G.O.P.’s Far Right Seeks to Use Defense Bill to Defund Ukraine War Effort",
+      "snippet": "The group’s proposals have no chance of passage, but they have further mired the military spending bill in a partisan fight and highlighted Republican divisions over the war.",
+      "abstract": "The group’s proposals have no chance of passage, but they have further mired the military spending bill in a partisan fight and highlighted Republican divisions over the war.",
+      "lead_paragraph": "A group of right-wing House Republicans pushing to load up the annual defense bill with socially conservative policies on abortion, race and gender have another demand: severe restrictions on U.S. military support for Ukraine.",
+      "publication_date": "2023-07-12T23:28:06+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/12/us/politics/defense-bill-republicans-ukraine-war.html",
+      "byline": "By Karoun Demirjian"
+    },
+    {
+      "headline": "Looming U.S. Investment Restrictions on China Threaten Diplomatic Outreach",
+      "snippet": "Any such restrictions are expected to anger Beijing and will be the first test of the new channels of communication that the world’s two largest economies are trying to restore.",
+      "abstract": "Any such restrictions are expected to anger Beijing and will be the first test of the new channels of communication that the world’s two largest economies are trying to restore.",
+      "lead_paragraph": "Efforts to ease tensions between the United States and China through a series of diplomatic visits to Beijing could be undermined as the White House presses ahead with plans to impose new restrictions on American investments in Chinese companies involved in quantum computing, artificial intelligence and semiconductors.",
+      "publication_date": "2023-07-13T04:00:08+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/13/us/politics/us-china-investment-restrictions.html",
+      "byline": "By Alan Rappeport and Ana Swanson"
+    },
+    {
+      "headline": "Actors Join Writers on Strike, Bringing Hollywood to a Standstill",
+      "snippet": "The dual walkouts pit more than 170,000 workers against old-line studios like Disney and Sony, as well as tech juggernauts like Netflix and Amazon.",
+      "abstract": "The dual walkouts pit more than 170,000 workers against old-line studios like Disney and Sony, as well as tech juggernauts like Netflix and Amazon.",
+      "lead_paragraph": "The Hollywood actors’ union approved a strike on Thursday for the first time in 43 years, bringing the $134 billion American movie and television business to a halt over anger about pay and fears of a tech-dominated future.",
+      "publication_date": "2023-07-13T08:10:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/13/business/media/sag-aftra-writers-strike.html",
+      "byline": "By Brooks Barnes, John Koblin and Nicole Sperling"
+    },
+    {
+      "headline": "Banana Republic Wants to Outfit Your Home, Too",
+      "snippet": "Responding to a volatile market for work clothes, the retailer hopes that selling home goods will help stabilize its business.",
+      "abstract": "Responding to a volatile market for work clothes, the retailer hopes that selling home goods will help stabilize its business.",
+      "lead_paragraph": "Inside Banana Republic’s design studio in San Francisco, Sandra Stangl, the company’s chief executive, pointed to an item that had been creating buzz in stores.",
+      "publication_date": "2023-07-13T09:00:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/13/business/banana-republic-home-goods-furniture.html",
+      "byline": "By Jordyn Holman"
+    },
+    {
+      "headline": "How Netflix Plans Total Global Domination, One Korean Drama at a Time",
+      "snippet": "Popular content produced in Asia and around the world has taken on greater significance with most of Hollywood now on strike.",
+      "abstract": "Popular content produced in Asia and around the world has taken on greater significance with most of Hollywood now on strike.",
+      "lead_paragraph": "They met in a 20th-floor conference room in Seoul named for one successful project with Korean talent — “Okja,” a 2017 film of one girl’s devotion to a genetically modified super pig — to discuss what they hoped would become another hit.",
+      "publication_date": "2023-07-13T09:00:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/07/13/business/media/netflix-korea-asia-drama.html",
+      "byline": "By Daisuke Wakabayashi and Jin Yu Young"
+    },
+    {
+      "headline": "F.T.C. Opens Investigation Into ChatGPT Maker Over Technology’s Potential Harms",
+      "snippet": "The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.",
+      "abstract": "The agency sent OpenAI, which makes ChatGPT, a letter this week over consumer harms and the company’s security practices.",
+      "lead_paragraph": "The Federal Trade Commission has opened an investigation into OpenAI, the artificial intelligence start-up that makes ChatGPT, over whether the chatbot has harmed consumers through its collection of data and its publication of false information on individuals.",
+      "publication_date": "2023-07-13T15:03:12+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/13/technology/chatgpt-investigation-ftc-openai.html",
+      "byline": "By Cecilia Kang and Cade Metz"
+    },
+    {
+      "headline": "This Agency Was Created With a Terrorism Focus. Now It Also Has to Care for Migrants.",
+      "snippet": "Customs and Border Protection was set up after 9/11 amid the fight against terrorism. Its responsibilities have ballooned with the influx of asylum-seeking migrants crossing the southern border.",
+      "abstract": "Customs and Border Protection was set up after 9/11 amid the fight against terrorism. Its responsibilities have ballooned with the influx of asylum-seeking migrants crossing the southern border.",
+      "lead_paragraph": "On a 90-degree day in early May, hundreds of migrants were gathered on American soil near a border gate in El Paso. Many had waited for days, without food, shelter or enough water and bathrooms, before Border Patrol agents allowed them through the gate and took them to holding facilities.",
+      "publication_date": "2023-07-13T15:07:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/07/13/us/politics/cbp-border-migrants-immigration-el-paso.html",
+      "byline": "By Eileen Sullivan"
+    },
+    {
+      "headline": "Founder of Bankrupt Crypto Firm Celsius Is Arrested on Fraud Charges",
+      "snippet": "Alex Mashinsky was arrested on Thursday morning. He and his former firm also face lawsuits from the Securities and Exchange Commission and other regulators.",
+      "abstract": "Alex Mashinsky was arrested on Thursday morning. He and his former firm also face lawsuits from the Securities and Exchange Commission and other regulators.",
+      "lead_paragraph": "Alex Mashinsky, the founder and former chief executive of the bankrupt cryptocurrency firm Celsius Network, was arrested on Thursday and charged with defrauding customers and lying about his firm’s business model.",
+      "publication_date": "2023-07-13T15:10:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/07/13/business/celsius-cryptocurrency-founder-arrested.html",
+      "byline": "By David Yaffe-Bellany and Matthew Goldstein"
+    }
+  ]
+}

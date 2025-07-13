@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "date": "2010-04-30",
+    "total_articles": 13
+  },
+  "articles": [
+    {
+      "headline": "White House Takes a Bigger Role in the Oil Spill Cleanup",
+      "snippet": "President Obama increased his administration’s role in the cleanup, while officials were concerned that the oil slick could reach shore as soon as Thursday evening.",
+      "abstract": "President Obama increased his administration’s role in the cleanup, while officials were concerned that the oil slick could reach shore as soon as Thursday evening.",
+      "lead_paragraph": "NEW ORLEANS — The response to the oil spill in the Gulf of Mexico intensified abruptly on Thursday, with the federal government intervening more aggressively as the rapidly growing slick drifted ever closer to the fragile coastline of Louisiana.",
+      "publication_date": "2010-04-29T17:45:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/30/us/30gulf.html",
+      "byline": "By Campbell Robertson"
+    },
+    {
+      "headline": "Save Greece, Protect Germany",
+      "snippet": "Germany needs to salvage Greece to stabilize the euro, and thus protect its own export industry. It’s a monetary strategy that has a lot in common with China’s.",
+      "abstract": "Germany needs to salvage Greece to stabilize the euro, and thus protect its own export industry. It’s a monetary strategy that has a lot in common with China’s.",
+      "lead_paragraph": "China is to the world as Germany is to Europe.",
+      "publication_date": "2010-04-29T20:50:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/30/business/30norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "Puerto Rican Lenders Face Their Own Crisis",
+      "snippet": "Federal regulators are moving to arrange mergers as several bank failures become likely.",
+      "abstract": "Federal regulators are moving to arrange mergers as several bank failures become likely.",
+      "lead_paragraph": "The latest American banking crisis is taking shape far from Wall Street and the empty subdivisions that stretch across the Sun Belt. ",
+      "publication_date": "2010-04-29T21:19:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/30/business/30fdic.html",
+      "byline": "By Eric Dash"
+    },
+    {
+      "headline": "In Europe, a Delicate Decision on Rates",
+      "snippet": "With signs of a turnaround, the European Central Bank may have to raise interest rates to slow inflation, perhaps harming a recovery in Greece.",
+      "abstract": "With signs of a turnaround, the European Central Bank may have to raise interest rates to slow inflation, perhaps harming a recovery in Greece.",
+      "lead_paragraph": "FRANKFURT — Europe’s collective anguish over Greece was interrupted by some good news on Thursday. German unemployment fell more than expected, while earnings surged for some of the country’s biggest companies.",
+      "publication_date": "2010-04-29T23:54:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/30/business/global/30ecb.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Pakistan, in Shift, Weighs Attack on Militant Lair",
+      "snippet": "Western officials have long believed that North Waziristan is the single most important haven for militants with Al Qaeda and the Taliban.",
+      "abstract": "Western officials have long believed that North Waziristan is the single most important haven for militants with Al Qaeda and the Taliban.",
+      "lead_paragraph": "This article is by Sabrina Tavernise, Carlotta Gall and Ismail Khan. ",
+      "publication_date": "2010-04-30T00:35:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/30/world/asia/30pstan.html",
+      "byline": "By Sabrina Tavernise, Carlotta Gall and Ismail Khan"
+    },
+    {
+      "headline": "As Greek Drama Plays Out, Where Is Europe?",
+      "snippet": "The inability of European leaders to deal decisively with Greece’s debt crisis has led some to question their abilities.",
+      "abstract": "The inability of European leaders to deal decisively with Greece’s debt crisis has led some to question their abilities.",
+      "lead_paragraph": "WASHINGTON — With new European Union leaders practically invisible and some national leaders acting largely for domestic political reasons, the burden of shaping a rapid and credible restructuring program for Greece has fallen primarily to the International Monetary Fund — exactly where proud European Union leaders had insisted it should not be.",
+      "publication_date": "2010-04-30T00:52:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/30/world/europe/30europe.html",
+      "byline": "By Steven Erlanger"
+    },
+    {
+      "headline": "U.S. Said to Open Criminal Inquiry Into Goldman  \r\n    ",
+      "snippet": "The investigation, reported to be in a preliminary stage, raises the possibility of criminal charges against the Wall Street giant.",
+      "abstract": "The investigation, reported to be in a preliminary stage, raises the possibility of criminal charges against the Wall Street giant.",
+      "lead_paragraph": "Federal prosecutors have opened an investigation into trading at Goldman Sachs, raising the possibility of criminal charges against the Wall Street giant, according to people familiar with the matter.",
+      "publication_date": "2010-04-30T00:59:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/04/30/business/30case.html",
+      "byline": "By Louise Story and Michael J. de la Merced"
+    },
+    {
+      "headline": "Oil Spill’s Blow to BP’s Image May Eclipse Costs",
+      "snippet": "The long-term damage to BP’s reputation and perhaps to its future for drilling in the Gulf of Mexico are likely to be high, industry analysts said.",
+      "abstract": "The long-term damage to BP’s reputation and perhaps to its future for drilling in the Gulf of Mexico are likely to be high, industry analysts said.",
+      "lead_paragraph": "HAMMOND, La. — BP says that the offshore drilling accident that is spewing thousands of barrels of oil a day into the Gulf of Mexico could cost the company several hundred million dollars.",
+      "publication_date": "2010-04-30T01:12:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/30/business/30bp.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "How the Destinies of Motorola and Palm Grew Apart",
+      "snippet": "For much of this decade, the fates of Palm  and Motorola  were intertwined. But their paths have now sharply diverged.",
+      "abstract": "For much of this decade, the fates of Palm  and Motorola  were intertwined. But their paths have now sharply diverged.",
+      "lead_paragraph": "For much of this decade, the fates of Palm and Motorola were intertwined. Both were early innovators in the mobile phone industry, but neither had had a hit in years.",
+      "publication_date": "2010-04-30T01:28:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/04/30/technology/30moto.html",
+      "byline": "By Jenna Wortham"
+    },
+    {
+      "headline": "BP Is Criticized\r\nOver Oil Spill, but U.S. Missed\r\nChances to Act",
+      "snippet": "As oil edged toward the Louisiana coast and officials assailed BP America’s response, a government agency also said the flow from a seabed oil well could grow much larger.",
+      "abstract": "As oil edged toward the Louisiana coast and officials assailed BP America’s response, a government agency also said the flow from a seabed oil well could grow much larger.",
+      "lead_paragraph": "NEW ORLEANS — Officials in the Obama administration began for the first time Friday to publicly chastise BP America for its handling of the spreading oil gusher in the Gulf of Mexico, calling the oil company’s current resources inadequate to stop what is unfolding into an environmental catastrophe.",
+      "publication_date": "2010-04-30T09:16:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/05/01/us/01gulf.html",
+      "byline": "By Campbell Robertson and Eric Lipton"
+    },
+    {
+      "headline": "Consumers Help Drive U.S. Economy to 3.2% Growth Rate",
+      "snippet": "A speedup in consumer spending helped keep the economy ticking, after a mainly business-driven growth spurt last quarter.",
+      "abstract": "A speedup in consumer spending helped keep the economy ticking, after a mainly business-driven growth spurt last quarter.",
+      "lead_paragraph": "The United States economy has expanded for three quarters in a row, the Commerce Department said on Friday, helped along by consumer spending. Now the question is, Will the jobs follow?",
+      "publication_date": "2010-04-30T12:38:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/01/business/economy/01econ.html",
+      "byline": "By Catherine Rampell"
+    },
+    {
+      "headline": "The Bitter Pills in the Plan to Rescue Greece",
+      "snippet": "The Greek government has agreed to austerity measures totaling about $32 billion that will include cutting some jobs as well as opening up parts of the economy.",
+      "abstract": "The Greek government has agreed to austerity measures totaling about $32 billion that will include cutting some jobs as well as opening up parts of the economy.",
+      "lead_paragraph": "ATHENS — Racing to secure financial aid and avoid a debt default, the Greek government has agreed to austerity measures totaling 24 billion euros (about $32 billion) that will include cutting some workers’ pay and some public sector jobs as well as opening up parts of the economy, Greek officials said Friday. ",
+      "publication_date": "2010-04-30T12:46:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/01/business/global/01euro.html",
+      "byline": "By Dan Bilefsky and Landon Thomas Jr"
+    },
+    {
+      "headline": "Goldman’s Shares Plunge on Inquiries and Downgrades",
+      "snippet": "Facing investigations on two fronts, Goldman Sachs came under pressure from investors as well after Standard & Poor’s changed its rating to sell.",
+      "abstract": "Facing investigations on two fronts, Goldman Sachs came under pressure from investors as well after Standard & Poor’s changed its rating to sell.",
+      "lead_paragraph": "How much trouble is Goldman Sachs really in?",
+      "publication_date": "2010-04-30T15:22:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/05/01/business/01goldman.html",
+      "byline": "By Graham Bowley"
+    }
+  ]
+}

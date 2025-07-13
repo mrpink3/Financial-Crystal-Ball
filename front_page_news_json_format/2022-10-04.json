@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-10-04",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Democrats’ Troubles in Nevada Are a Microcosm of Nationwide Headwinds",
+      "snippet": "Inflation and a rocky economy are bolstering Republicans in their races against incumbent Democrats, motivating “an electorate that simply wants change,” as one G.O.P. consultant says.",
+      "abstract": "Inflation and a rocky economy are bolstering Republicans in their races against incumbent Democrats, motivating “an electorate that simply wants change,” as one G.O.P. consultant says.",
+      "lead_paragraph": "LAS VEGAS — The Culinary Workers Union members who are knocking on doors to get out the vote are on the cursed-at front lines of the Democratic Party’s midterm battle.",
+      "publication_date": "2022-10-03T16:11:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/03/us/politics/nevada-elections-democrats-republicans.html",
+      "byline": "By Jennifer Medina and Jonathan Weisman"
+    },
+    {
+      "headline": "Silicon Valley County Battles With Uber Over Reporting of Sexual Assault",
+      "snippet": "Uber does not inform the police of such incidents, citing advocacy group guidelines. But officials in Santa Clara County argue that it should.",
+      "abstract": "Uber does not inform the police of such incidents, citing advocacy group guidelines. But officials in Santa Clara County argue that it should.",
+      "lead_paragraph": "In February, Terry Harman, an assistant district attorney for Santa Clara County in California, wrote a memo detailing her concerns about sexual assaults on Uber rides.",
+      "publication_date": "2022-10-03T17:27:25+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms",
+      "snippet": "The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.",
+      "abstract": "The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.",
+      "lead_paragraph": "The Biden administration is expected to announce new measures to restrict Chinese companies from getting access to technologies that enable high-performance computing, according to several people familiar with the matter, the latest in a series of moves aimed at hobbling Beijing’s ambitions to craft next-generation weapons and automate large-scale surveillance systems.",
+      "publication_date": "2022-10-03T18:01:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html",
+      "byline": "By Paul Mozur, Ana Swanson and Edward Wong"
+    },
+    {
+      "headline": "In Retreat on Ukrainian Fronts, Russia Shows Signs of Disarray",
+      "snippet": "Confusion and recriminations marked the Russian efforts to call up draftees and claim sovereignty over Ukrainian territory, as well as the Russian response to battlefield setbacks.",
+      "abstract": "Confusion and recriminations marked the Russian efforts to call up draftees and claim sovereignty over Ukrainian territory, as well as the Russian response to battlefield setbacks.",
+      "lead_paragraph": "IZIUM, Ukraine — Russian forces in Ukraine were on the run Monday across a broad swath of the front line, as the Ukrainian military pressed its blitz offensive in the east and made gains in the south, belying President Vladimir V. Putin’s claims to have absorbed into Russia territories that his armies are steadily losing.",
+      "publication_date": "2022-10-03T23:08:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/03/world/europe/russia-disarray-ukraine.html",
+      "byline": "By Andrew E. Kramer, Carlotta Gall and Anton Troianovski"
+    },
+    {
+      "headline": "Russia’s Small Nuclear Arms: A Risky Option for Putin and Ukraine Alike",
+      "snippet": "President Vladimir V. Putin of Russia has 2,000 small nuclear weapons, but their utility on the battlefield may not be worth the longer-term costs.",
+      "abstract": "President Vladimir V. Putin of Russia has 2,000 small nuclear weapons, but their utility on the battlefield may not be worth the longer-term costs.",
+      "lead_paragraph": "WASHINGTON — For all his threats to fire tactical nuclear arms at Ukrainian targets, President Vladimir V. Putin of Russia is now discovering what the United States itself concluded years ago, American officials suspect: Small nuclear weapons are hard to use, harder to control and a far better weapon of terror and intimidation than a weapon of war.",
+      "publication_date": "2022-10-03T23:39:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html",
+      "byline": "By David E. Sanger and William J. Broad"
+    },
+    {
+      "headline": "Britain’s Economic Experiment Stumbles at the Start",
+      "snippet": "Prime Minister Liz Truss says a mix of tax cuts and deregulation is needed to jump-start Britain’s sluggish economy. Investors, economists and some in Truss’s own party disagree.",
+      "abstract": "Prime Minister Liz Truss says a mix of tax cuts and deregulation is needed to jump-start Britain’s sluggish economy. Investors, economists and some in Truss’s own party disagree.",
+      "lead_paragraph": "Britain’s economy has wobbled along since the financial crisis more than a decade ago, in 2008, with weak productivity and low pay. Recently, it lost its place as the world’s fifth-largest economy to India.",
+      "publication_date": "2022-10-04T04:01:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/04/business/truss-tax-cuts-britain.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Businesses Brace for Currency Chaos in Asia, a Region With a History of Crisis",
+      "snippet": "A 1997 financial catastrophe casts a long shadow in countries that are seeing the value of their money plunge to record lows.",
+      "abstract": "A 1997 financial catastrophe casts a long shadow in countries that are seeing the value of their money plunge to record lows.",
+      "lead_paragraph": "Tigun Wibisana and Sandra Kok, who own a cafe in Malaysia, are facing an excruciating decision that could make or break their business of 14 years: Can they increase prices to cover rising expenses without driving customers into the arms of their bigger rivals?",
+      "publication_date": "2022-10-04T04:01:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/10/04/business/asia-currency-dollar.html",
+      "byline": "By Daisuke Wakabayashi and Ben Dooley"
+    },
+    {
+      "headline": "‘Where Am I Going to Go?’ Floridians Hit by a Hurricane and a Housing Crunch.",
+      "snippet": "Losses from the storm are just coming into focus. But what is clear is that recovery will be hardest on people already struggling to make ends meet.",
+      "abstract": "Losses from the storm are just coming into focus. But what is clear is that recovery will be hardest on people already struggling to make ends meet.",
+      "lead_paragraph": "FORT MYERS, Fla. — Days after Hurricane Ian buffeted the state with a trifecta of wind, rain and storm surge, many Floridians are emerging from the wreckage uncertain of their next chapter — and fearing they may become homeless.",
+      "publication_date": "2022-10-04T09:00:39+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/10/04/us/florida-hurricane-housing-crisis.html",
+      "byline": "By Frances Robles, Audra D. S. Burch, Richard Fausset and Michael Majchrowicz"
+    }
+  ]
+}

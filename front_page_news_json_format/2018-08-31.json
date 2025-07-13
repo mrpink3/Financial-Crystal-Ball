@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-08-31",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "You Don’t Drive a Minivan? You Should. Here’s Why.",
+      "snippet": "Ready for a satisfying relationship with your car? Skip high-maintenance coupes and sport utility vehicles that demand you open your wallet all the time.",
+      "abstract": "Ready for a satisfying relationship with your car? Skip high-maintenance coupes and sport utility vehicles that demand you open your wallet all the time.",
+      "lead_paragraph": "We often shun the ones that can help our lives the most. Maybe out of pride. Perhaps ignorance. Many of us are looking for good solid family material, yet reject prospects that are committed and generous.",
+      "publication_date": "2018-08-30T18:07:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/30/business/drive-a-minivan.html",
+      "byline": "By Tom Voelk"
+    },
+    {
+      "headline": "Here’s the Conversation We Really Need to Have About Bias at Google",
+      "snippet": "President Trump’s charges that Google shows anti-conservative search bias is wrong. But Google may well be biased against minorities and others who lack real-world power.",
+      "abstract": "President Trump’s charges that Google shows anti-conservative search bias is wrong. But Google may well be biased against minorities and others who lack real-world power.",
+      "lead_paragraph": "Let’s get this out of the way first: There is no basis for the charge that President Trump leveled against Google this week — that the search engine, for political reasons, favored anti-Trump news outlets in its results. None.",
+      "publication_date": "2018-08-31T00:24:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/30/technology/bias-google-trump.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Ronan Farrow’s Ex-Producer Says NBC Impeded Weinstein Reporting",
+      "snippet": "Rich McHugh said an order to pull the plug on an investigation of Harvey Weinstein had come from “the very highest levels of NBC.”",
+      "abstract": "Rich McHugh said an order to pull the plug on an investigation of Harvey Weinstein had come from “the very highest levels of NBC.”",
+      "lead_paragraph": "In October, when Ronan Farrow published his first article in The New Yorker on the alleged transgressions of Harvey Weinstein, people in the media and entertainment industries wondered how NBC had missed the story. After all, Mr. Farrow had spent months gathering material on the mogul when he was with NBC News.",
+      "publication_date": "2018-08-31T00:45:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/30/business/media/ronan-farrow-weinstein-producer.html",
+      "byline": "By John Koblin"
+    },
+    {
+      "headline": "Chemnitz Protests Show New Strength of Germany’s Far Right",
+      "snippet": "A rampage in the eastern city now stands as a high-water mark in the outpouring of anti-immigrant hatred that has swelled in Germany.",
+      "abstract": "A rampage in the eastern city now stands as a high-water mark in the outpouring of anti-immigrant hatred that has swelled in Germany.",
+      "lead_paragraph": "CHEMNITZ, Germany — Waving German flags, with some flashing Nazi salutes, the angry mob made its way through the streets, chasing after dark-skinned bystanders as police officers, vastly outnumbered, were too afraid to intervene.",
+      "publication_date": "2018-08-31T03:00:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/30/world/europe/germany-neo-nazi-protests-chemnitz.html",
+      "byline": "By Katrin Bennhold"
+    },
+    {
+      "headline": "Coca-Cola Bets on Coffee With $5.1 Billion Deal for Costa",
+      "snippet": "Buying the British coffee chain, which has over 3,800 stores worldwide, is meant to give Coke a way to branch out from sugary sodas.",
+      "abstract": "Buying the British coffee chain, which has over 3,800 stores worldwide, is meant to give Coke a way to branch out from sugary sodas.",
+      "lead_paragraph": "LONDON — As consumers shy away more and more from sugary soft drinks, Coca-Cola is betting on a new way to cater to them: Serve them coffee.",
+      "publication_date": "2018-08-31T07:41:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/31/business/dealbook/coca-cola-costa-coffee.html",
+      "byline": "By Michael J. de la Merced"
+    },
+    {
+      "headline": "Beto O’Rourke Dreams of One Texas. Ted Cruz Sees Another Clearly.",
+      "snippet": "For years, a blue Texas has seemed both impossible and inevitable. Have the political winds there finally shifted enough for an unapologetic liberal to win a Senate seat?",
+      "abstract": "For years, a blue Texas has seemed both impossible and inevitable. Have the political winds there finally shifted enough for an unapologetic liberal to win a Senate seat?",
+      "lead_paragraph": "LONGVIEW, Tex. — Beto O’Rourke was racing left again, insisting he knew what he was doing.",
+      "publication_date": "2018-08-31T09:00:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/31/us/politics/beto-orourke-dreams-of-one-texas-ted-cruz-sees-another-clearly.html",
+      "byline": "By Matt Flegenheimer and Tamir Kalifa"
+    },
+    {
+      "headline": "Lego Wants to Completely Remake Its Toy Bricks (Without Anyone Noticing)",
+      "snippet": "The Danish toymaker has relied on oil-based plastics for over 50 years. It wants to give them up by 2030. Finding alternatives is a vast project.",
+      "abstract": "The Danish toymaker has relied on oil-based plastics for over 50 years. It wants to give them up by 2030. Finding alternatives is a vast project.",
+      "lead_paragraph": "BILLUND, Denmark — At the heart of this town lies a building that is a veritable temple to the area’s most famous creation, the humble Lego brick. It is filled with complex creations, from a 50-foot tree to a collection of multicolored dinosaurs, all of them built with a product that has barely changed in more than 50 years.",
+      "publication_date": "2018-08-31T12:00:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/31/business/energy-environment/lego-plastic-denmark-environment-toys.html",
+      "byline": "By Stanley Reed"
+    },
+    {
+      "headline": "The Last Company You Would Expect Is Reinventing Health Benefits",
+      "snippet": "Frustrated with insurers, some large companies — including a certain cable behemoth — are shedding long-held practices and adopting a do-it-yourself approach.",
+      "abstract": "Frustrated with insurers, some large companies — including a certain cable behemoth — are shedding long-held practices and adopting a do-it-yourself approach.",
+      "lead_paragraph": "It’s hard to think of a company that seems less likely to transform health care.",
+      "publication_date": "2018-08-31T13:30:05+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/08/31/health/comcast-health-insurance-employees.html",
+      "byline": "By Reed Abelson"
+    },
+    {
+      "headline": "White House Gives Canada More Time to Rework Nafta",
+      "snippet": "The administration informed Congress on Friday that it intends to sign a trade agreement with Mexico and, if it is willing, with Canada.",
+      "abstract": "The administration informed Congress on Friday that it intends to sign a trade agreement with Mexico and, if it is willing, with Canada.",
+      "lead_paragraph": "WASHINGTON — The Trump administration eased off its threat to exclude Canada from the North American Free Trade Agreement, extending talks that were set to end on Friday while warning that the Canadians must be “willing” to accept the United States’ terms.",
+      "publication_date": "2018-08-31T14:20:53+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/31/business/us-canada-nafta.html",
+      "byline": "By Ana Swanson and Alan Rappeport"
+    },
+    {
+      "headline": "Lobbyist Sam Patten Pleads Guilty to Steering Foreign Funds to Trump Inaugural",
+      "snippet": "The lobbyist, Sam Patten, worked for a pro-Russia Ukrainian political party, the same one that employed Paul Manafort.",
+      "abstract": "The lobbyist, Sam Patten, worked for a pro-Russia Ukrainian political party, the same one that employed Paul Manafort.",
+      "lead_paragraph": "WASHINGTON — An American lobbyist on Friday admitted brokering access to President Trump’s inauguration for a pro-Russian Ukrainian oligarch in a scheme that highlighted the rush by foreign interests to influence the new administration.",
+      "publication_date": "2018-08-31T15:27:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/31/us/politics/patten-fara-manafort.html",
+      "byline": "By Kenneth P. Vogel, Sharon LaFraniere and Adam Goldman"
+    }
+  ]
+}

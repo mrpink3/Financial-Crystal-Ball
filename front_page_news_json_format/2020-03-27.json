@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-03-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Migrant Farmworkers Whose Harvests Feed Europe Are Blocked at Borders",
+      "snippet": "Legions of seasonal workers from Eastern Europe who harvest crops from Spain to Sweden can’t get in, forcing a rapid rethink of how to secure food at Europe’s farms.",
+      "abstract": "Legions of seasonal workers from Eastern Europe who harvest crops from Spain to Sweden can’t get in, forcing a rapid rethink of how to secure food at Europe’s farms.",
+      "lead_paragraph": "PARIS — When Europe tightened its borders to prevent the spread of the coronavirus, France’s biggest farmers sounded an alarm: The workers they rely on from other countries to harvest much of the nation’s food could no longer make the trip.",
+      "publication_date": "2020-03-27T04:01:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/27/business/coronavirus-farm-labor-europe.html",
+      "byline": "By Liz Alderman, Melissa Eddy and Amie Tsang"
+    },
+    {
+      "headline": "$2 Trillion Coronavirus Stimulus Bill Is Signed Into Law",
+      "snippet": "Dozens of lawmakers rushed back to Washington to thwart a stall tactic from Representative Thomas Massie of Kentucky.",
+      "abstract": "Dozens of lawmakers rushed back to Washington to thwart a stall tactic from Representative Thomas Massie of Kentucky.",
+      "lead_paragraph": "WASHINGTON — President Trump on Friday signed a sweeping $2 trillion measure to respond to the coronavirus pandemic, but not before a late objection from a lone rank-and-file Republican forced hundreds of lawmakers to rush back to the capital even as the virus continued to spread through their ranks.",
+      "publication_date": "2020-03-27T09:00:16+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/27/us/politics/coronavirus-house-voting.html",
+      "byline": "By Emily Cochrane and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "I Became a Disciplined Investor Over 40 Years. The Virus Broke Me in 40 Days.",
+      "snippet": "I’ve survived — and even prospered through — four stock-market crashes. But nothing prepared me for this.",
+      "abstract": "I’ve survived — and even prospered through — four stock-market crashes. But nothing prepared me for this.",
+      "lead_paragraph": "It’s Thursday morning, March 19 — four weeks into the coronavirus crash of 2020. The Dow Jones industrial average has opened down another 700 points, after plunging below 20,000 a day before. It’s down 30 percent in a month, the steepest drop ever, even worse than during the Great Depression.",
+      "publication_date": "2020-03-27T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/03/27/business/stock-market-pandemic-coronavirus.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "For the Class of 2020, a Job-Eating Virus Recalls the Great Recession",
+      "snippet": "With interviews postponed and internships canceled, graduates seeking work fear for the future.",
+      "abstract": "With interviews postponed and internships canceled, graduates seeking work fear for the future.",
+      "lead_paragraph": "They hoped to secure jobs on political campaigns, at fashion brands and law offices, and in sales and finance. Instead, they’ve had internships canceled and interviews postponed, wandered through empty job fairs and seen recruiters ignore their anxious emails.",
+      "publication_date": "2020-03-27T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/03/27/business/coronavirus-class-of-2020-jobs.html",
+      "byline": "By David Yaffe-Bellany and Jaclyn Peiser"
+    },
+    {
+      "headline": "A New Mission for Nonprofits During the Outbreak: Survival",
+      "snippet": "Upended by the coronavirus outbreak, nonprofits are laying off workers and seeking help from stretched donors.",
+      "abstract": "Upended by the coronavirus outbreak, nonprofits are laying off workers and seeking help from stretched donors.",
+      "lead_paragraph": "It took Stephanie Cartier nearly three years to open No Limits, a central New Jersey cafe operated by people with intellectual disabilities. That was early February. It took only a few days in March to close the 65-seat restaurant indefinitely.",
+      "publication_date": "2020-03-27T09:00:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/27/business/nonprofits-survival-coronavirus.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Boris Johnson Contracts Coronavirus, Rattling Top Ranks of U.K. Government",
+      "snippet": "The British leader, who long resisted social distancing, is now isolating himself. But he said he would continue to lead the country’s response to the pandemic.",
+      "abstract": "The British leader, who long resisted social distancing, is now isolating himself. But he said he would continue to lead the country’s response to the pandemic.",
+      "lead_paragraph": "LONDON — For weeks, Prime Minister Boris Johnson of Britain was a defiant holdout among Western leaders in refusing to lock down his country against the spread of the coronavirus. On Friday, he became the first of those leaders known to have contracted the disease.",
+      "publication_date": "2020-03-27T11:41:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/27/world/europe/boris-johnson-coronavirus.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "As Life Moves Online, an Older Generation Faces a Digital Divide",
+      "snippet": "Uncomfortable with tech, many are struggling to use modern tools to keep up with friends and family in the pandemic.",
+      "abstract": "Uncomfortable with tech, many are struggling to use modern tools to keep up with friends and family in the pandemic.",
+      "lead_paragraph": "For more than a week, Linda Quinn, 81, has isolated herself inside her Bellevue, Wash., home to keep away from the coronavirus. Her only companion has been her goldendoodle, Lucy.",
+      "publication_date": "2020-03-27T13:30:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/03/27/technology/virus-older-generation-digital-divide.html",
+      "byline": "By Kate Conger and Erin Griffith"
+    }
+  ]
+}

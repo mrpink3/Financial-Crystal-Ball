@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-03-08",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Why Wendy’s Is Facing Campus Protests (It’s About the Tomatoes)",
+      "snippet": "A drive in college towns aims to get the fast-food chain to follow McDonald’s and Walmart in buying tomatoes grown under strict labor standards.",
+      "abstract": "A drive in college towns aims to get the fast-food chain to follow McDonald’s and Walmart in buying tomatoes grown under strict labor standards.",
+      "lead_paragraph": "A program created by a group that organizes farmworkers has persuaded companies like Walmart and McDonald’s to buy their tomatoes from growers who follow strict labor standards. But high-profile holdouts have threatened to halt the effort’s progress.",
+      "publication_date": "2019-03-07T17:08:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/07/business/economy/wendys-farm-workers-tomatoes.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Chinese Officials Becoming Wary of a Quick Trade Deal",
+      "snippet": "While the United States and China have made progress toward a compromise, Beijing is leery of holding a summit without concluding a deal first.",
+      "abstract": "While the United States and China have made progress toward a compromise, Beijing is leery of holding a summit without concluding a deal first.",
+      "lead_paragraph": "BEIJING — President Trump says he is optimistic that a landmark trade deal with China is close. Chinese officials are not so sure.",
+      "publication_date": "2019-03-07T17:19:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/07/business/us-china-trade-deal.html",
+      "byline": "By Keith Bradsher and Ana Swanson"
+    },
+    {
+      "headline": "Mark Zuckerberg Wants Facebook to Emulate WeChat. Can It?",
+      "snippet": "China’s WeChat messaging app offers clues as to how Facebook may carry out its shift toward private messaging. But whether Facebook can pull the change off is another question.",
+      "abstract": "China’s WeChat messaging app offers clues as to how Facebook may carry out its shift toward private messaging. But whether Facebook can pull the change off is another question.",
+      "lead_paragraph": "SAN FRANCISCO — As Mark Zuckerberg begins shifting Facebook to private messaging and away from public sharing and open conversations, the vision he has sketched out for the future of social networking already exists — just not in the United States.",
+      "publication_date": "2019-03-08T00:00:40+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/07/technology/facebook-zuckerberg-wechat.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "A College Chain Crumbles, and Millions in Student Loan Cash Disappears",
+      "snippet": "About 26,000 students are caught in the meltdown at Dream Center. The Education Department has scrambled to salvage their educations after it approved an unlikely turnaround plan.",
+      "abstract": "About 26,000 students are caught in the meltdown at Dream Center. The Education Department has scrambled to salvage their educations after it approved an unlikely turnaround plan.",
+      "lead_paragraph": "When the Education Department approved a proposal by Dream Center, a Christian nonprofit with no experience in higher education, to buy a troubled chain of for-profit colleges, skeptics warned that the charity was unlikely to pull off the turnaround it promised.",
+      "publication_date": "2019-03-08T00:18:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/07/business/argosy-college-art-insititutes-south-university.html",
+      "byline": "By Stacy Cowley and Erica L. Green"
+    },
+    {
+      "headline": "Endeavor Returns Money to Saudi Arabia, Protesting Khashoggi Murder",
+      "snippet": "The talent agency sent $400 million back to Saudi Arabia’s sovereign wealth fund, a rare example of a business severing ties with the kingdom.",
+      "abstract": "The talent agency sent $400 million back to Saudi Arabia’s sovereign wealth fund, a rare example of a business severing ties with the kingdom.",
+      "lead_paragraph": "There was much to celebrate last spring when Ariel Emanuel, the chief executive of the talent agency Endeavor, helped throw a splashy Hollywood party for Saudi Arabia’s crown prince, Mohammed bin Salman.",
+      "publication_date": "2019-03-08T10:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/08/business/endeavor-saudi-arabia.html",
+      "byline": "By Kate Kelly and Ben Hubbard"
+    },
+    {
+      "headline": "The Jobs Report Was the Weakest in Months. Here’s Why.",
+      "snippet": "February’s meager gain follows other signs of economic sluggishness. But there were encouraging signs in the data as well.",
+      "abstract": "February’s meager gain follows other signs of economic sluggishness. But there were encouraging signs in the data as well.",
+      "lead_paragraph": "The economy’s remarkably steady job-creation machine sputtered in February and produced a mere 20,000 jobs. It was the smallest gain in well over a year and came on top of other signs that the economy was off to a sluggish start in 2019. ",
+      "publication_date": "2019-03-08T10:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/03/08/business/economy/jobs-report.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "The Man Deciding Facebook’s Fate",
+      "snippet": "Joseph J. Simons, the F.T.C. chairman, is a newbie on data privacy policy. But he is overseeing the biggest privacy case in the agency’s history.",
+      "abstract": "Joseph J. Simons, the F.T.C. chairman, is a newbie on data privacy policy. But he is overseeing the biggest privacy case in the agency’s history.",
+      "lead_paragraph": "WASHINGTON — The Federal Trade Commission has no shortage of critics who say it cannot protect Americans from the prying eyes of Big Tech. Instead of forceful action against the likes of Facebook and Google, they say, the F.T.C. leans on rules that make it hard to impose penalties bigger than rounding errors for the companies.",
+      "publication_date": "2019-03-08T14:30:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/03/08/technology/ftc-facebook-joseph-simons.html",
+      "byline": "By Cecilia Kang"
+    }
+  ]
+}

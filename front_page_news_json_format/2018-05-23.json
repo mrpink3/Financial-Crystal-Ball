@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2018-05-23",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Congress Approves First Big Dodd-Frank Rollback",
+      "snippet": "The bipartisan legislation will now head to President Trump, leaving fewer than 10 big banks subject to stricter post-crisis oversight.",
+      "abstract": "The bipartisan legislation will now head to President Trump, leaving fewer than 10 big banks subject to stricter post-crisis oversight.",
+      "lead_paragraph": "WASHINGTON — A decade after the global financial crisis tipped the United States into a recession, Congress agreed on Tuesday to free thousands of small and medium-sized banks from strict rules that had been enacted as part of the 2010 Dodd-Frank law to prevent another meltdown.",
+      "publication_date": "2018-05-22T16:14:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/22/business/congress-passes-dodd-frank-rollback-for-smaller-banks.html",
+      "byline": "By Alan Rappeport and Emily Flitter"
+    },
+    {
+      "headline": "Trump Backs Away From Demand for Immediate North Korean Denuclearization",
+      "snippet": "The president’s hint of flexibility came after North Korea declared last week that it would never agree to unilaterally surrender its weapons and threatened to cancel a June summit meeting.",
+      "abstract": "The president’s hint of flexibility came after North Korea declared last week that it would never agree to unilaterally surrender its weapons and threatened to cancel a June summit meeting.",
+      "lead_paragraph": "WASHINGTON — President Trump opened the door on Tuesday to a phased dismantling of North Korea’s nuclear weapons program, backing away from his demand that the North’s leader, Kim Jong-un, completely abandon his arsenal without any reciprocal American concessions.",
+      "publication_date": "2018-05-22T16:32:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/22/world/asia/trump-korea-summit.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Whites’ Unease Shadows the Politics of a More Diverse America",
+      "snippet": "As the country heads for a time when no group makes up a majority, the change may affect white attitudes in far more than racial and economic matters.",
+      "abstract": "As the country heads for a time when no group makes up a majority, the change may affect white attitudes in far more than racial and economic matters.",
+      "lead_paragraph": "In 1985, the pollster Stanley Greenberg went to Macomb County, Mich., to figure out how a traditionally Democratic suburban area could have delivered a landslide for Ronald Reagan. Last year, he was back with a similar question: How could voters in a county that turned out twice for Barack Obama have defected in such large numbers that they arguably delivered Michigan to Donald Trump?",
+      "publication_date": "2018-05-22T17:17:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/22/business/economy/trump-election-ethnic-diverse-whites.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Paul Ryan’s Hold on Speaker’s Job Is Tested by G.O.P. Infighting",
+      "snippet": "Mr. Ryan’s fractious conference is a management problem for him, but now he is caught between conservatives and moderates on immigration, the special counsel and more.",
+      "abstract": "Mr. Ryan’s fractious conference is a management problem for him, but now he is caught between conservatives and moderates on immigration, the special counsel and more.",
+      "lead_paragraph": "WASHINGTON — Speaker Paul D. Ryan pledged to “run through the tape” and finish out his term when he announced last month that he would retire from Congress. But with Republicans in revolt on both his right and his left, Mr. Ryan is increasingly facing questions about whether he can manage to stumble across the finish line.",
+      "publication_date": "2018-05-23T01:30:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/22/us/politics/ryan-speaker-term-retire.html",
+      "byline": "By Sheryl Gay Stolberg, Thomas Kaplan and Nicholas Fandos"
+    },
+    {
+      "headline": "Stacey Abrams Wins Georgia Democratic Primary for Governor, Making History",
+      "snippet": "Ms. Abrams is the first black woman in the U.S. to be a major party’s nominee for governor. A Democrat, Ms. Abrams will test just how much the state’s conservative politics are shifting.",
+      "abstract": "Ms. Abrams is the first black woman in the U.S. to be a major party’s nominee for governor. A Democrat, Ms. Abrams will test just how much the state’s conservative politics are shifting.",
+      "lead_paragraph": "Georgia Democrats selected the first black woman to be a major party nominee for governor in the United States on Tuesday, choosing Stacey Abrams, a liberal former State House leader, who will test just how much the state’s traditionally conservative politics are shifting.",
+      "publication_date": "2018-05-23T01:32:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/22/us/politics/georgia-primary-abrams-results.html",
+      "byline": "By Jonathan Martin and Alexander Burns"
+    },
+    {
+      "headline": "Deep in the Desert, Iran Quietly Advances Missile Technology",
+      "snippet": "Iran’s long-range missile program was thought to be dormant, but researchers see evidence that it may have resumed.",
+      "abstract": "Iran’s long-range missile program was thought to be dormant, but researchers see evidence that it may have resumed.",
+      "lead_paragraph": "When an explosion nearly razed Iran’s long-range missile research facility in 2011 — and killed the military scientist who ran it — many Western intelligence analysts viewed it as devastating to Tehran’s technological ambitions.",
+      "publication_date": "2018-05-23T09:00:13+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/05/23/world/middleeast/iran-missiles.html",
+      "byline": "By Max Fisher"
+    },
+    {
+      "headline": "Getting a Flood of G.D.P.R.-Related Privacy Policy Updates? Read Them",
+      "snippet": "To comply with Europe’s General Data Protection Regulation, which goes into effect on May 25, internet companies have been updating their data policies. Here’s how you can benefit.",
+      "abstract": "To comply with Europe’s General Data Protection Regulation, which goes into effect on May 25, internet companies have been updating their data policies. Here’s how you can benefit.",
+      "lead_paragraph": "You have probably noticed a flood of emails and alerts from companies in the last few weeks informing you about changes to their privacy policies.",
+      "publication_date": "2018-05-23T09:00:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/05/23/technology/personaltech/what-you-should-look-for-europe-data-law.html",
+      "byline": "By Brian X. Chen"
+    }
+  ]
+}

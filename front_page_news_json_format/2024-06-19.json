@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2024-06-19",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "U.S. Pier for Gaza Aid Is Failing, and Could Be Dismantled Early",
+      "snippet": "Officials hope a looming deadline will pressure Israel to open more land routes into the territory, which is facing extreme levels of hunger.",
+      "abstract": "Officials hope a looming deadline will pressure Israel to open more land routes into the territory, which is facing extreme levels of hunger.",
+      "lead_paragraph": "The $230 million temporary pier that the U.S. military built on short notice to rush humanitarian aid to Gaza has largely failed in its mission, aid organizations say, and will probably end operations weeks earlier than originally expected.",
+      "publication_date": "2024-06-18T17:46:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/18/us/politics/gaza-pier-israel-aid.html",
+      "byline": "By Helene Cooper and Eric Schmitt"
+    },
+    {
+      "headline": "Nvidia Becomes Most Valuable Public Company, Topping Microsoft",
+      "snippet": "The chip maker’s stock price has jumped over the last year thanks to its stranglehold on the market for the chips needed to build A.I. systems.",
+      "abstract": "The chip maker’s stock price has jumped over the last year thanks to its stranglehold on the market for the chips needed to build A.I. systems.",
+      "lead_paragraph": "Move over, Microsoft and Apple. The stock market has a new king.",
+      "publication_date": "2024-06-18T20:12:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html",
+      "byline": "By Tripp Mickle and Joe Rennison"
+    },
+    {
+      "headline": "Britain Election Winner’s First Problem: Fix a Stagnant Economy",
+      "snippet": "After more than a decade of deep budget cuts, slow growth and weak productivity, the country has struggled to overcome years of uncertainty and underinvestment.",
+      "abstract": "After more than a decade of deep budget cuts, slow growth and weak productivity, the country has struggled to overcome years of uncertainty and underinvestment.",
+      "lead_paragraph": "“Our economy has truly turned a corner,” Rishi Sunak, Britain’s prime minister, said last week as he introduced his party’s election manifesto, buoyed by recent data showing that Britain’s economy had exited from a recession more strongly than expected in the beginning of the year and that inflation had slowed substantially.",
+      "publication_date": "2024-06-19T06:13:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/19/business/britain-economy-inflation.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Anarchy Hinders Gaza Aid Efforts, Despite Daily Combat Pause",
+      "snippet": "Thousands of tons of aid stockpiled in southern Gaza cannot be distributed because the roads are too dangerous, relief groups say.",
+      "abstract": "Thousands of tons of aid stockpiled in southern Gaza cannot be distributed because the roads are too dangerous, relief groups say.",
+      "lead_paragraph": "The extreme anarchy that has gripped the Gaza Strip is making it too dangerous and difficult to distribute desperately needed aid in the south, relief groups and others say, despite a daily pause in fighting that Israel is observing along a key road there.",
+      "publication_date": "2024-06-19T11:35:58+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/06/19/world/middleeast/gaza-aid-chaos.html",
+      "byline": "By Vivian Yee and Aaron Boxerman"
+    },
+    {
+      "headline": "Are Planes Safe Right Now? Here’s What the Experts Say.",
+      "snippet": "You should expect the unexpected while flying, but few disruptions should provoke serious concern, aviation experts say.",
+      "abstract": "You should expect the unexpected while flying, but few disruptions should provoke serious concern, aviation experts say.",
+      "lead_paragraph": "Smoke in the cabin. A tire blowout. A cracked windshield. No shortage of problems can affect a flight, fueling traveler anxiety and contributing to thousands of daily delays and cancellations around the world.",
+      "publication_date": "2024-06-19T14:18:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/06/19/business/airplane-safety-flight-problems.html",
+      "byline": "By Niraj Chokshi and Christine Chung"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2017-06-16",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Secrecy Surrounding Senate Health Bill Raises Alarms in Both Parties",
+      "snippet": "Senate leaders are writing legislation to repeal and replace the Affordable Care Act without a single hearing on the bill and without an open drafting session.",
+      "abstract": "Senate leaders are writing legislation to repeal and replace the Affordable Care Act without a single hearing on the bill and without an open drafting session.",
+      "lead_paragraph": "WASHINGTON — As they draft legislation to repeal the Affordable Care Act, Senate Republican leaders are aiming to transform large sections of the American health care system without a single hearing on their bill and without a formal, open drafting session.",
+      "publication_date": "2017-06-15T17:17:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/15/us/politics/secrecy-surrounding-senate-health-bill-raises-alarms-in-both-parties.html",
+      "byline": "By Thomas Kaplan and Robert Pear"
+    },
+    {
+      "headline": "OPEC Took Aim at U.S. Oil Producers, but Hurt Itself, Too",
+      "snippet": "The Saudi-led cartel thought low prices would squeeze American shale output. Now its effort to reverse course is proving difficult to pull off.",
+      "abstract": "The Saudi-led cartel thought low prices would squeeze American shale output. Now its effort to reverse course is proving difficult to pull off.",
+      "lead_paragraph": "HOUSTON — Picture a three-year-old tug of war waged across the globe that leaves both sides wobbly and scarred but unmoved. That’s one way of looking at the high-stakes competition between the world’s big oil exporters and the companies drilling in American shale fields.",
+      "publication_date": "2017-06-15T21:11:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/15/business/energy-environment/gas-oil-petrol-opec.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Shooting Brings Rare Comity to the Capital, but Will It Last?",
+      "snippet": "Senators and lobbyists, staff members with a job to do and residents with an evening to spare, joined for a moment on Thursday in a bipartisan rebuttal: Play ball.",
+      "abstract": "Senators and lobbyists, staff members with a job to do and residents with an evening to spare, joined for a moment on Thursday in a bipartisan rebuttal: Play ball.",
+      "lead_paragraph": "WASHINGTON — The lawmakers trotted from their dugouts at Nationals Park, together in a near-summer air that never quite felt swampy, united in a certainty that the game must go on, just not exactly as it had before.",
+      "publication_date": "2017-06-15T23:04:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/15/us/politics/shooting-brings-rare-comity-to-the-capitol-but-will-it-last.html",
+      "byline": "By Matt Flegenheimer"
+    },
+    {
+      "headline": "At Last, Jeff Bezos Offers a Hint of His Philanthropic Plans",
+      "snippet": "People have wondered if the Amazon chief was waiting until retirement to make a big charitable splash. In a tweet, he solicited ideas from the public.",
+      "abstract": "People have wondered if the Amazon chief was waiting until retirement to make a big charitable splash. In a tweet, he solicited ideas from the public.",
+      "lead_paragraph": "Jeff Bezos, the founder and chief executive of Amazon, is well on his way to becoming the richest person in the world, with a net worth of more than $80 billion. What’s less certain is what he plans to do with his fortune, and how he could reinvent philanthropy.",
+      "publication_date": "2017-06-15T23:52:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/15/business/media/jeff-bezos-amazon-rich-charity.html",
+      "byline": "By Robert Frank"
+    },
+    {
+      "headline": "Mueller, Known for Being Above the Fray, Is Now in the Thick of It",
+      "snippet": "His appointment as special counsel has thrown him into a political brawl, especially since his early hires include several prosecutors who have donated to Democrats.",
+      "abstract": "His appointment as special counsel has thrown him into a political brawl, especially since his early hires include several prosecutors who have donated to Democrats.",
+      "lead_paragraph": "WASHINGTON — Robert S. Mueller III managed in a dozen years as F.B.I. director to stay above the partisan fray, carefully cultivating a rare reputation for independence and fairness. But his appointment as special counsel overseeing the Trump-Russia investigation has thrown him into the middle of the most charged political brawl of his career — especially since his early hires include several prosecutors who have donated to Democratic candidates in the past.",
+      "publication_date": "2017-06-16T01:10:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/15/us/politics/robert-mueller-special-counsel.html",
+      "byline": "By Scott Shane and Charlie Savage"
+    },
+    {
+      "headline": "World Offers Cautionary Tale for Trump’s Infrastructure Plan",
+      "snippet": "President Trump has called for private money to fund his $1 trillion plan, but similar moves in other countries have faced cost and quality problems.",
+      "abstract": "President Trump has called for private money to fund his $1 trillion plan, but similar moves in other countries have faced cost and quality problems.",
+      "lead_paragraph": "LONDON — The rest of the planet bears a warning for President Trump’s plan to lean heavily on private business in conjuring a trillion dollars’ worth of American infrastructure: Handing profit-making companies responsibility for public works can produce trouble.",
+      "publication_date": "2017-06-16T04:01:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/16/business/trump-train-road-india-china.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "He Thought He’d Be Your Rabbi. Now, He’ll Get You a Mortgage.",
+      "snippet": "After rabbinical school, David Frankel was drawn to a very different profession. Second in a series on the intersection of religion and finance.",
+      "abstract": "After rabbinical school, David Frankel was drawn to a very different profession. Second in a series on the intersection of religion and finance.",
+      "lead_paragraph": "PHILADELPHIA — Perhaps it was preordained that David Frankel would become a mortgage banker.",
+      "publication_date": "2017-06-16T09:00:28+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/06/16/your-money/mortgages/finance-religion-mortgage-real-estate.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "May and London Mayor Are Met With Anger as They Respond to Fire",
+      "snippet": "Estimates of the death toll at Grenfell Tower reached past 70, as resentment over inequality and a slow response boiled over in public.",
+      "abstract": "Estimates of the death toll at Grenfell Tower reached past 70, as resentment over inequality and a slow response boiled over in public.",
+      "lead_paragraph": "LONDON — Grenfell Tower residents said they had warned about fire hazards for years before their London public housing project became a 24-story cinder. On Friday, they stormed the local government council, accusing officials first of ignoring them and then of leaving them without financial assistance and lodging, or even a rough accounting of their missing loved ones.",
+      "publication_date": "2017-06-16T11:17:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/16/world/europe/uk-london-fire-grenfell-tower.html",
+      "byline": "By Ceylan Yeginsu and Stephen Castle"
+    },
+    {
+      "headline": "Amazon to Buy Whole Foods for $13.4 Billion",
+      "snippet": "The deal for a physical grocery retailer reflects Amazon’s ambition to become an even more frequent shopping habit to customers.",
+      "abstract": "The deal for a physical grocery retailer reflects Amazon’s ambition to become an even more frequent shopping habit to customers.",
+      "lead_paragraph": "Amazon agreed to buy the upscale grocery chain Whole Foods for $13.4 billion, in a deal that will instantly transform the company that pioneered online shopping into a merchant with physical outposts in hundreds of neighborhoods across the country.",
+      "publication_date": "2017-06-16T13:15:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/16/business/dealbook/amazon-whole-foods.html",
+      "byline": "By Nick Wingfield and Michael J. de la Merced"
+    },
+    {
+      "headline": "Trump Attacks Rosenstein in Latest Rebuke of Justice Department",
+      "snippet": "The president is increasingly at odds with the Justice Department and the F.B.I. as the investigation into Russian election interference expands.",
+      "abstract": "The president is increasingly at odds with the Justice Department and the F.B.I. as the investigation into Russian election interference expands.",
+      "lead_paragraph": "WASHINGTON — President Trump escalated his attacks on his own Justice Department on Friday, using an early-morning Twitter rant to condemn the department’s actions as “phony” and “sad!” and to challenge the integrity of the official overseeing the expanding inquiry into Russian influence of the 2016 election.",
+      "publication_date": "2017-06-16T13:33:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/06/16/us/politics/trump-investigation-comey-russia.html",
+      "byline": "By Michael D. Shear, Charlie Savage and Maggie Haberman"
+    }
+  ]
+}

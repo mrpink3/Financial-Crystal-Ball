@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2023-02-07",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "Immigration Rebound Eases Shortage of Workers, Up to a Point",
+      "snippet": "While the Biden administration has accelerated processing after Trump-era restrictions and a pandemic slowdown, visa backlogs remain large.",
+      "abstract": "While the Biden administration has accelerated processing after Trump-era restrictions and a pandemic slowdown, visa backlogs remain large.",
+      "lead_paragraph": "The flow of immigrants and refugees into the United States has ramped up over the past year, helping to replenish the American labor force after a decline that began with restrictions imposed under the Trump administration and that was compounded by the pandemic.",
+      "publication_date": "2023-02-06T16:40:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/06/business/economy/immigration-labor.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Outnumbered and Worn Out, Ukrainians in East Brace for Russian Assault",
+      "snippet": "The war is intensifying in a string of villages on the eastern front, where doctors struggle to handle an influx of gruesome injuries and soldiers fret about a Russian army sending waves of new conscripts.",
+      "abstract": "The war is intensifying in a string of villages on the eastern front, where doctors struggle to handle an influx of gruesome injuries and soldiers fret about a Russian army sending waves of new conscripts.",
+      "lead_paragraph": "NEVSKE, Ukraine — In a tiny village in eastern Ukraine at the epicenter of the next phase of the war, Lyudmila Degtyaryova measures the Russian advance by listening to the boom of incoming artillery shells.",
+      "publication_date": "2023-02-06T17:05:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/06/world/europe/ukraine-russia-offensive.html",
+      "byline": "By Michael Schwirtz and Lynsey Addario"
+    },
+    {
+      "headline": "Earthquake Strikes Syrian Region Already Mired in Humanitarian Crisis",
+      "snippet": "One of the hardest hit areas was northwestern Syria, where nearly three million people displaced by the country’s decade-long civil war were already living in precarious conditions.",
+      "abstract": "One of the hardest hit areas was northwestern Syria, where nearly three million people displaced by the country’s decade-long civil war were already living in precarious conditions.",
+      "lead_paragraph": "CAIRO — Once again, Syrians heard the roar and thud of buildings coming down, once again saw dust rising from the mounds of gray, jagged concrete and twisted metal where houses and offices had stood. Once again, people dug in the ruins with their hands, hoping, often in vain, to save the people they loved.",
+      "publication_date": "2023-02-06T20:50:49+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/06/world/middleeast/syrian-humanitarian-crisis-earthquake.html",
+      "byline": "By Vivian Yee, Raja Abdulrahim and Hwaida Saad"
+    },
+    {
+      "headline": "Powerful Quake Strikes Turkey and Syria, Killing More Than 4,300",
+      "snippet": "Desperate survivors dug through rubble with shovels and their bare hands, hoping to find loved ones.",
+      "abstract": "Desperate survivors dug through rubble with shovels and their bare hands, hoping to find loved ones.",
+      "lead_paragraph": "ISTANBUL — A powerful earthquake struck Turkey and Syria before dawn on Monday, killing more than 4,300 people, destroying thousands of buildings and shattering lives in a region already rocked by war, a refugee crisis and economic distress.",
+      "publication_date": "2023-02-06T22:44:17+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/06/world/middleeast/turkey-syria-earthquake.html",
+      "byline": "By Ben Hubbard and Nimet Kirac"
+    },
+    {
+      "headline": "Biden’s State of the Union Prep: No Acronyms and Tricks to Conquer a Stutter",
+      "snippet": "Aides describe a process in which the president spends weeks reading drafts aloud, rejecting anything that smacks of Washington-speak.",
+      "abstract": "Aides describe a process in which the president spends weeks reading drafts aloud, rejecting anything that smacks of Washington-speak.",
+      "lead_paragraph": "WASHINGTON — As President Biden prepared to deliver one of the biggest speeches of his presidency, he met with a close group of aides at the White House and read drafts aloud from top to bottom. He practiced in front of teleprompters at Camp David, making sure the language was relatable and clear.",
+      "publication_date": "2023-02-07T00:09:52+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/06/us/politics/biden-state-of-the-union-preparation.html",
+      "byline": "By Katie Rogers"
+    },
+    {
+      "headline": "How Russia Is Surviving the Tightening Grip on Its Oil Revenue",
+      "snippet": "Restrictions on Russia’s oil trade are raising the stakes in a protracted economic standoff that is reshaping the global energy market.",
+      "abstract": "Restrictions on Russia’s oil trade are raising the stakes in a protracted economic standoff that is reshaping the global energy market.",
+      "lead_paragraph": "Shunned by the West, Russia was able last year to redirect its potent oil exports to Asia, marshal a fleet of tankers unencumbered by Western penalties and adapt evasion schemes perfected previously by its allies Iran and Venezuela.",
+      "publication_date": "2023-02-07T05:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/07/business/russia-oil-embargo.html",
+      "byline": "By Anatoly Kurmanaev and Stanley Reed"
+    },
+    {
+      "headline": "For More Certainty in Your Retirement Portfolio, Consider Annuities",
+      "snippet": "Higher interest rates made annuities more attractive in 2022. Better quality products are increasingly available, but consumers still need to read the fine print.",
+      "abstract": "Higher interest rates made annuities more attractive in 2022. Better quality products are increasingly available, but consumers still need to read the fine print.",
+      "lead_paragraph": "In a kinder universe, retirees wouldn’t need to worry about market volatility or outliving their money. But 2022 was a nail-biter: Bonds plunged alongside stocks, and many people in or nearing retirement wanted investments that would guarantee a smoother ride. ",
+      "publication_date": "2023-02-07T10:00:26+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/07/your-money/retirement-annuities-investments.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Biden Calls on Republicans to Help Him ‘Finish the Job’ and Build the Economy",
+      "snippet": "President Biden was heckled during the State of the Union address when he spoke about fentanyl and when he accused Republicans of threatening Social Security and Medicare.",
+      "abstract": "President Biden was heckled during the State of the Union address when he spoke about fentanyl and when he accused Republicans of threatening Social Security and Medicare.",
+      "lead_paragraph": "WASHINGTON — President Biden challenged the new House Republican majority on Tuesday night to work together with him to “finish the job” of repairing America’s unsettled economy and fragile democracy even as the emboldened opposition geared up to try to force him to change course.",
+      "publication_date": "2023-02-07T10:00:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/02/07/us/politics/biden-state-union.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Meta, Long an A.I. Leader, Tries Not to Be Left Out of the Boom",
+      "snippet": "It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that can spread misinformation and toxic content.",
+      "abstract": "It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that can spread misinformation and toxic content.",
+      "lead_paragraph": "SAN FRANCISCO — Two weeks before a chatbot called ChatGPT appeared on the internet in November and wowed the world, Meta, the owner of Facebook, WhatsApp and Instagram, unveiled a chatbot of its own.",
+      "publication_date": "2023-02-07T10:00:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.html",
+      "byline": "By Cade Metz and Mike Isaac"
+    },
+    {
+      "headline": "Americans Flunked This Test on Online Privacy",
+      "snippet": "Many consumers want control over their personal details. But few understand how online tracking works, says a new report from the University of Pennsylvania.",
+      "abstract": "Many consumers want control over their personal details. But few understand how online tracking works, says a new report from the University of Pennsylvania.",
+      "lead_paragraph": "Many people in the United States would like to control the information that companies can learn about them online. Yet when presented with a series of true-or-false questions about how digital devices and services track users, most Americans struggled to answer them, according to a report published on Tuesday by the Annenberg School for Communication at the University of Pennsylvania.",
+      "publication_date": "2023-02-07T10:00:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/07/technology/online-privacy-tracking-report.html",
+      "byline": "By Natasha Singer and Jason Karaian"
+    },
+    {
+      "headline": "The People Onscreen Are Fake. The Disinformation Is Real.",
+      "snippet": "For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.",
+      "abstract": "For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.",
+      "lead_paragraph": "In one video, a news anchor with perfectly combed dark hair and a stubbly beard outlined what he saw as the United States’ shameful lack of action against gun violence.",
+      "publication_date": "2023-02-07T10:00:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/02/07/technology/artificial-intelligence-training-deepfake.html",
+      "byline": "By Adam Satariano and Paul Mozur"
+    }
+  ]
+}

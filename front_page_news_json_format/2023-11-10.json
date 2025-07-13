@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-11-10",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Silicon Valley’s Big, Bold Sci-Fi Bet on the Device That Comes After the Smartphone",
+      "snippet": "Humane, a company started by two former Apple employees, says its new artificial intelligence pin can stop all the scrolling. Can it live up to the hype?",
+      "abstract": "Humane, a company started by two former Apple employees, says its new artificial intelligence pin can stop all the scrolling. Can it live up to the hype?",
+      "lead_paragraph": "Inside a former horse stable in the San Francisco neighborhood of SoMa, a wave of gentle chirps emerged from small, blinking devices pinned to the chests of employees at a start-up called Humane.",
+      "publication_date": "2023-11-09T17:01:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2023/11/09/technology/silicon-valleys-big-bold-sci-fi-bet-on-the-device-that-comes-after-the-smartphone.html",
+      "byline": "By Erin Griffith, Tripp Mickle and Photographs and Videos by Kelsey McClellan"
+    },
+    {
+      "headline": "Israeli Forces Have Limited Time in Gaza, U.S. Officials Say",
+      "snippet": "Israel’s response to the Hamas attacks has fueled sympathy around the world for the Palestinian cause even as Israel continues to bury its dead.",
+      "abstract": "Israel’s response to the Hamas attacks has fueled sympathy around the world for the Palestinian cause even as Israel continues to bury its dead.",
+      "lead_paragraph": "The Israeli military has limited time to carry out its operations in Gaza before anger among Arabs in the region and frustration in the United States and other countries over the spiraling civilian death toll constrain Israel’s goal of eradicating Hamas, U.S. officials said this week.",
+      "publication_date": "2023-11-09T20:17:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/09/us/politics/israel-hamas-gaza-deaths.html",
+      "byline": "By Helene Cooper, Eric Schmitt and Adam Goldman"
+    },
+    {
+      "headline": "Vatican Says Transgender People Can Be Baptized and Become Godparents",
+      "snippet": "A document approved by Pope Francis lays out nuanced guidance in keeping with his vision of a more inclusive church, but it does not amount to a policy change in the church, the Vatican says.",
+      "abstract": "A document approved by Pope Francis lays out nuanced guidance in keeping with his vision of a more inclusive church, but it does not amount to a policy change in the church, the Vatican says.",
+      "lead_paragraph": "Pope Francis, who has made reaching out to L.G.B.T.Q. Catholics a hallmark of his papacy, has made clear that transgender people can be baptized, serve as godparents and be witnesses at church weddings, furthering his vision of a more inclusive church.",
+      "publication_date": "2023-11-09T21:39:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/09/world/europe/pope-francis-transgender-people.html",
+      "byline": "By Jason Horowitz, Elisabetta Povoledo and Ruth Graham"
+    },
+    {
+      "headline": "President’s War Against ‘Fake News’ Raises Alarms in South Korea",
+      "snippet": "He calls fake news an enemy that threatens democracy. Critics of President Yoon Suk Yeol say he is silencing journalists in the name of fighting disinformation.",
+      "abstract": "He calls fake news an enemy that threatens democracy. Critics of President Yoon Suk Yeol say he is silencing journalists in the name of fighting disinformation.",
+      "lead_paragraph": "Allies of President Yoon Suk Yeol are attacking what they see as an existential threat to South Korea, and they are mincing few words. The head of Mr. Yoon’s party has called for the death sentence for a case of “high treason.” The culture ministry has vowed to root out what it called an “organized and dirty” conspiracy to undermine the country’s democracy.",
+      "publication_date": "2023-11-10T05:01:24+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/10/world/asia/south-korea-fake-news-disinformation.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "Deadly Fire in Africa’s Richest City Exposed a Secret in Plain Sight",
+      "snippet": "Officials blame immigrants and liberal housing laws, but a Times investigation found the entrenched problems that turned downtown Johannesburg into a blighted tinderbox.",
+      "abstract": "Officials blame immigrants and liberal housing laws, but a Times investigation found the entrenched problems that turned downtown Johannesburg into a blighted tinderbox.",
+      "lead_paragraph": "Days after the fire, officials in Johannesburg reached for a well-worn script. They gathered the media for a made-for-television police raid.",
+      "publication_date": "2023-11-10T10:00:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/11/10/world/africa/johannesburg-building-fire-south-africa.html",
+      "byline": "By Lynsey Chutel, Selam Gebrekidan and John Eligon"
+    },
+    {
+      "headline": "Man vs. Musk: A Whistleblower Creates Headaches for Tesla",
+      "snippet": "An employee who was fired after expressing safety concerns leaked personnel records and sensitive data about driver-assistance software.",
+      "abstract": "An employee who was fired after expressing safety concerns leaked personnel records and sensitive data about driver-assistance software.",
+      "lead_paragraph": "A day after Lukasz Krupski put out a fire at a Tesla car delivery location in Norway, seriously burning his hands and preventing a disaster, he got an email from Elon Musk.",
+      "publication_date": "2023-11-10T10:02:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/10/business/tesla-whistleblower-elon-musk.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Personalized A.I. Agents Are Here. Is the World Ready for Them?",
+      "snippet": "The age of autonomous A.I. assistants could have huge implications.",
+      "abstract": "The age of autonomous A.I. assistants could have huge implications.",
+      "lead_paragraph": "You could think of the recent history of A.I. chatbots as having two distinct phases.",
+      "publication_date": "2023-11-10T10:03:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/10/technology/personalized-ai-agents.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "After Averting a Hotel Strike, Las Vegas Still Has a Lot of Work to Do",
+      "snippet": "Two big unions reached contract agreements with the three largest resort operators ahead of a series of events crucial to the city’s economic rebound.",
+      "abstract": "Two big unions reached contract agreements with the three largest resort operators ahead of a series of events crucial to the city’s economic rebound.",
+      "lead_paragraph": "Debra Jefferies, a cocktail waitress at the Horseshoe Las Vegas, spent much of the week wondering whether she would be walking a picket line, as she did in 1984 — the last time there was a major strike among hospitality workers in the city.",
+      "publication_date": "2023-11-10T10:43:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/11/10/business/economy/las-vegas-casino-culinary-workers.html",
+      "byline": "By Kurtis Lee"
+    }
+  ]
+}

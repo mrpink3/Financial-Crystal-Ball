@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-07-17",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Why Midsize Cities Struggle to Catch Up to Superstar Cities",
+      "snippet": "For decades, smaller metropolitan areas closed the income gap with bigger, richer ones, but no longer. So places like Winston-Salem, N.C., are trying to lay a new foundation for prosperity.",
+      "abstract": "For decades, smaller metropolitan areas closed the income gap with bigger, richer ones, but no longer. So places like Winston-Salem, N.C., are trying to lay a new foundation for prosperity.",
+      "lead_paragraph": "WINSTON-SALEM, N.C. — Within sight of a couple of huge brick smokestacks, looming witnesses to a past built on tobacco and powered by coal, there is something weirdly out of place about Wake Forest University’s Institute for Regenerative Medicine.",
+      "publication_date": "2019-07-16T19:28:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/16/business/economy/winston-salem-convergence.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "A Prosperous China Says ‘Men Preferred,’ and Women Lose",
+      "snippet": "Gender is now one of the most important factors behind income inequality in China, where workplace discrimination and court rulings have set women back.",
+      "abstract": "Gender is now one of the most important factors behind income inequality in China, where workplace discrimination and court rulings have set women back.",
+      "lead_paragraph": "TIANJIN, China — Bella Wang barely noticed the section on the application inquiring whether she was married or had children. Employers in China routinely ask women such questions, and she had encountered them before in job interviews.",
+      "publication_date": "2019-07-16T20:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/16/world/asia/china-women-discrimination.html",
+      "byline": "By Amy Qin"
+    },
+    {
+      "headline": "Tech Hearings: Congress Unites to Take Aim at Amazon, Apple, Facebook and Google",
+      "snippet": "A series of hearings on Capitol Hill showed the rising force of the political backlash against the country’s tech giants.",
+      "abstract": "A series of hearings on Capitol Hill showed the rising force of the political backlash against the country’s tech giants.",
+      "lead_paragraph": "WASHINGTON — Lawmakers leveled stinging criticism and sharp questions at Big Tech executives on Tuesday, attacking Amazon, Apple, Facebook and Google for their market power, their perceived bias as gatekeepers of communication and Facebook’s ambitions to reshape the financial industry.",
+      "publication_date": "2019-07-16T23:20:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/16/technology/big-tech-antitrust-hearing.html",
+      "byline": "By Steve Lohr, Mike Isaac and Nathaniel Popper"
+    },
+    {
+      "headline": "Trump Sets the 2020 Tone: Like 2016, Only This Time ‘the Squad’ Is Here",
+      "snippet": "The president boasted of “marrying” Nancy Pelosi to four progressive congresswomen of color, betting that he can cast the entire Democratic Party as radical.",
+      "abstract": "The president boasted of “marrying” Nancy Pelosi to four progressive congresswomen of color, betting that he can cast the entire Democratic Party as radical.",
+      "lead_paragraph": "WASHINGTON — With three days of attacks on four liberal, minority first-term congresswomen, President Trump and the Republicans have sent the clearest signal yet that their approach to 2020 will be a racially divisive reprise of the strategy that helped Mr. Trump narrowly capture the White House in 2016.",
+      "publication_date": "2019-07-17T00:24:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/16/us/politics/trump-election-squad.html",
+      "byline": "By Jeremy W. Peters, Annie Karni and Maggie Haberman"
+    },
+    {
+      "headline": "Supreme Court Justice John Paul Stevens, Who Led Liberal Wing, Dies at 99",
+      "snippet": "On the Supreme Court, John Paul Stevens transformed from a Republican antitrust lawyer into the leader of the court’s liberal wing.",
+      "abstract": "On the Supreme Court, John Paul Stevens transformed from a Republican antitrust lawyer into the leader of the court’s liberal wing.",
+      "lead_paragraph": "John Paul Stevens, whose 35 years on the United States Supreme Court transformed him, improbably, from a Republican antitrust lawyer into the outspoken leader of the court’s liberal wing, died on Tuesday at a hospital in Fort Lauderdale, Fla. He was 99.",
+      "publication_date": "2019-07-17T00:49:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/16/us/john-paul-stevens-dead.html",
+      "byline": "By Linda Greenhouse"
+    },
+    {
+      "headline": "Elon Musk’s Neuralink Wants ‘Sewing Machine-Like’ Robots to Wire Brains to the Internet",
+      "snippet": "A San Francisco company financed by Mr. Musk, Neuralink says it has created a device that could one day wire data links directly to the brain.",
+      "abstract": "A San Francisco company financed by Mr. Musk, Neuralink says it has created a device that could one day wire data links directly to the brain.",
+      "lead_paragraph": "SAN FRANCISCO — Elon Musk aspires to make inserting a computer connection into your brain as safe and painless as Lasik eye surgery.",
+      "publication_date": "2019-07-17T03:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/16/technology/neuralink-elon-musk.html",
+      "byline": "By John Markoff"
+    },
+    {
+      "headline": "Notre-Dame came far closer to collapsing than people knew. This is how it was saved.",
+      "snippet": "A baffling alert. A race to the wrong building. Notre-Dame still stands only because firefighters decided to risk everything, a New York Times reconstruction has found.",
+      "abstract": "A baffling alert. A race to the wrong building. Notre-Dame still stands only because firefighters decided to risk everything, a New York Times reconstruction has found.",
+      "lead_paragraph": "A baffling alert. A race to the wrong building. Notre-Dame still stands only because firefighters decided to risk everything, a New York Times reconstruction has found.",
+      "publication_date": "2019-07-17T03:27:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html",
+      "byline": "By Elian Peltier, James Glanz, Mika Gröndahl, Weiyi Cai, Adam Nossiter and Liz Alderman"
+    },
+    {
+      "headline": "Google Glass May Have an Afterlife as a Device to Teach Autistic Children",
+      "snippet": "Privacy concerns caused the computerized eyewear to fail with the general public. But researchers believe it could help autistic children learn to recognize emotion and make eye contact.",
+      "abstract": "Privacy concerns caused the computerized eyewear to fail with the general public. But researchers believe it could help autistic children learn to recognize emotion and make eye contact.",
+      "lead_paragraph": "SAN FRANCISCO — When Esaïe Prickett sat down in the living room with his mother, father and four older brothers, he was the only one wearing Google Glass.",
+      "publication_date": "2019-07-17T09:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/17/technology/google-glass-device-treat-autism.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Despite High Hopes, Self-Driving Cars Are ‘Way in the Future’",
+      "snippet": "Ford and other companies say the industry overestimated the arrival of autonomous vehicles, which still struggle to anticipate what other drivers and pedestrians will do.",
+      "abstract": "Ford and other companies say the industry overestimated the arrival of autonomous vehicles, which still struggle to anticipate what other drivers and pedestrians will do.",
+      "lead_paragraph": "A year ago, Detroit and Silicon Valley had visions of putting thousands of self-driving taxis on the road in 2019, ushering in an age of driverless cars. ",
+      "publication_date": "2019-07-17T09:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Sanctions on Russia and North Korea Put Tiny Latvia in U.S. Cross Hairs",
+      "snippet": "Corruption has driven honest investors away and damaged the Latvian economy, making the cleaning up of illicit bank activity a top priority for a new government.",
+      "abstract": "Corruption has driven honest investors away and damaged the Latvian economy, making the cleaning up of illicit bank activity a top priority for a new government.",
+      "lead_paragraph": "RIGA, Latvia — One was a dodgy investment adviser who used a pyramid scheme to bilk unsuspecting Russians out of $10 million. Another was a Taiwanese businessman who was secretly helping North Korea buy precision tools for its nuclear weapons program. Yet another was a corrupt Ukrainian politician spiriting millions of embezzled dollars out of his country.",
+      "publication_date": "2019-07-17T13:46:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/17/business/latvia-money-laundering.html",
+      "byline": "By Jack Ewing"
+    }
+  ]
+}

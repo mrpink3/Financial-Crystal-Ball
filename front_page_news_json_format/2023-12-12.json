@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-12-12",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "To Revive Portland, Officials Seek to Ban Public Drug Use",
+      "snippet": "State and local leaders are proposing to roll back part of the nation’s pioneering drug decriminalization law and step up police enforcement.",
+      "abstract": "State and local leaders are proposing to roll back part of the nation’s pioneering drug decriminalization law and step up police enforcement.",
+      "lead_paragraph": "After years of rising overdoses and an exodus of business from central Portland, Gov. Tina Kotek of Oregon said on Monday that state and city officials are proposing to roll back a portion of the nation’s most wide-ranging drug decriminalization law in a bid to revive the troubled city.",
+      "publication_date": "2023-12-11T20:41:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html",
+      "byline": "By Mike Baker"
+    },
+    {
+      "headline": "Google Loses Antitrust Court Battle With Makers of Fortnite Video Game",
+      "snippet": "The case could reshape the rules of how other businesses can make money on the Android operating system.",
+      "abstract": "The case could reshape the rules of how other businesses can make money on the Android operating system.",
+      "lead_paragraph": "A jury ruled on Monday that Google had violated antitrust laws to extract fees and limit competition from Epic Games and other developers on its Play mobile app store, in a case that could rewrite the rules on how thousands of businesses make money on Google’s smartphone operating system, Android.",
+      "publication_date": "2023-12-12T00:51:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/11/technology/epic-games-google-antitrust-ruling.html",
+      "byline": "By Nico Grant"
+    },
+    {
+      "headline": "As Fighting Rages in Gaza, Israel Issues Warnings on Another Front",
+      "snippet": "Top Israeli officials hinted at a powerful response to attacks by Hezbollah across the northern border with Lebanon, as to the south Israeli troops wage street battles against Hamas in Gaza.",
+      "abstract": "Top Israeli officials hinted at a powerful response to attacks by Hezbollah across the northern border with Lebanon, as to the south Israeli troops wage street battles against Hamas in Gaza.",
+      "lead_paragraph": "Street-to-street combat raged in what Israel described as three Hamas strongholds in the Gaza Strip on Monday, as top Israeli officials warned that increased attacks on northern Israel by Hezbollah, from Lebanon, could prompt a powerful response.",
+      "publication_date": "2023-12-12T01:02:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/11/world/middleeast/israel-hamas-gaza-hezbollah.html",
+      "byline": "By Andrés R. Martínez, Neil MacFarquhar and Thomas Fuller"
+    },
+    {
+      "headline": "‘I Have No Future’: China’s Rebel Influencer Is Still Paying a Price",
+      "snippet": "Li Ying used social media to help tell the world about last year’s protests. Now in exile, he has been threatened and lost his livelihood for his defiance.",
+      "abstract": "Li Ying used social media to help tell the world about last year’s protests. Now in exile, he has been threatened and lost his livelihood for his defiance.",
+      "lead_paragraph": "In November 2022, Li Ying was a painter and art school graduate in Milan, living in a state of sadness, fear and despair. China’s strict pandemic policies had kept him from seeing his parents for three years, and he was unsure where his country was heading.",
+      "publication_date": "2023-12-12T05:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/12/business/china-teacher-li-ying.html",
+      "byline": "By Li Yuan"
+    },
+    {
+      "headline": "Why Volkswagen Is Building a Team of 3,000 Engineers in China",
+      "snippet": "Volkswagen is shifting more operations to China, tapping the country’s electric vehicle capacity and building factories.",
+      "abstract": "Volkswagen is shifting more operations to China, tapping the country’s electric vehicle capacity and building factories.",
+      "lead_paragraph": "A bright orange robot, 10 feet tall, looms over Volkswagen’s new electric car assembly line in central China. It was imported from Germany. The factory’s other 1,074 robots were made in Shanghai.",
+      "publication_date": "2023-12-12T05:01:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/12/business/volkswagen-china.html",
+      "byline": "By Keith Bradsher and Melissa Eddy"
+    },
+    {
+      "headline": "How Africans Are Changing French — One Joke, Rap and Book at a Time",
+      "snippet": "More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.",
+      "abstract": "More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.",
+      "lead_paragraph": "French, by most estimates the world’s fifth most spoken language, is changing — perhaps not in the gilded hallways of the institution in Paris that publishes its official dictionary, but on a rooftop in Abidjan, the largest city in Ivory Coast.",
+      "publication_date": "2023-12-12T05:01:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html",
+      "byline": "By Elian Peltier, Arlette Bashizi and Hannah Reyes Morales"
+    },
+    {
+      "headline": "Inflation Holds Roughly Steady Ahead of Fed Meeting",
+      "snippet": "Consumer prices rose 3.1 percent in the year through November, and a closely watched core index was roughly the same rate as the previous month.",
+      "abstract": "Consumer prices rose 3.1 percent in the year through November, and a closely watched core index was roughly the same rate as the previous month.",
+      "lead_paragraph": "Inflation data released on Tuesday showed that price increases remained moderate in November, the latest sign that inflation has cooled substantially from its June 2022 peak. That’s likely to keep the Federal Reserve on track to leave interest rates unchanged at its final meeting of the year, which takes place this week.",
+      "publication_date": "2023-12-12T10:02:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/12/11/business/economy/november-inflation-report.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Harvard’s Board Unites Behind Its President, but Its Campus Remains Splintered",
+      "snippet": "Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.",
+      "abstract": "Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.",
+      "lead_paragraph": "As universities across the country strained under pressure to take a public position on the Oct. 7 attack on Israel by Hamas, few were as tormented as Harvard.",
+      "publication_date": "2023-12-12T13:26:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/12/us/harvard-president-claudine-gay.html",
+      "byline": "By Jeremy W. Peters, Dana Goldstein and Anemona Hartocollis"
+    },
+    {
+      "headline": "Biden Says Russia Is Celebrating U.S. Divisions Over Providing Aid to Ukraine",
+      "snippet": "President Volodymyr Zelensky of Ukraine traveled to Washington to make a last-ditch appeal for more help to fight Russia. But Republicans said they wouldn’t act without a border deal.",
+      "abstract": "President Volodymyr Zelensky of Ukraine traveled to Washington to make a last-ditch appeal for more help to fight Russia. But Republicans said they wouldn’t act without a border deal.",
+      "lead_paragraph": "President Biden warned on Tuesday that Russia was celebrating American division over providing aid to Ukraine, as President Volodymyr Zelensky hit a wall of resistance from congressional Republicans during a daylong lobbying blitz in Washington.",
+      "publication_date": "2023-12-12T14:03:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/12/12/us/politics/zelensky-biden-washington-ukraine.html",
+      "byline": "By Zolan Kanno-Youngs, Catie Edmondson, Karoun Demirjian and Michael D. Shear"
+    }
+  ]
+}

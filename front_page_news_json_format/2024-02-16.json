@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2024-02-16",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Palestinians Flee as Israeli Forces Raid a Major Hospital in Gaza",
+      "snippet": "Israel says Hamas routinely operates within — and beneath — places like Nasser hospital in Khan Younis, using them as shields, and has held Israeli hostages there. The group denies the charges.",
+      "abstract": "Israel says Hamas routinely operates within — and beneath — places like Nasser hospital in Khan Younis, using them as shields, and has held Israeli hostages there. The group denies the charges.",
+      "lead_paragraph": "The Israeli military on Thursday raided the largest hospital still functioning in the Gaza Strip, in what it called a search for Hamas fighters and the bodies of hostages. Many people who had sought shelter there were forced to flee from combat once again. ",
+      "publication_date": "2024-02-16T00:30:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/15/world/middleeast/israel-gaza-nasser-hospital.html",
+      "byline": "By Vivian Yee"
+    },
+    {
+      "headline": "D.A. Denies Improper Relationship With Special Trump Prosecutor",
+      "snippet": "Defense lawyers argue a romance between the Fulton County district attorney, Fani T. Willis, and the special prosecutor she hired to handle the election interference case in Georgia should disqualify them.",
+      "abstract": "Defense lawyers argue a romance between the Fulton County district attorney, Fani T. Willis, and the special prosecutor she hired to handle the election interference case in Georgia should disqualify them.",
+      "lead_paragraph": "A case charging former President Donald J. Trump and his allies with trying to subvert the 2020 election results in Georgia took a detour on Thursday into the details of the prosecutors’ romantic and financial lives  — their sleeping arrangements, vacations and private bank accounts — in an unusual and highly contentious hearing.",
+      "publication_date": "2024-02-16T00:35:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/15/us/politics/trump-georgia-willis-wade-hearing.html",
+      "byline": "By Danny Hakim, Richard Fausset and Michael Levenson"
+    },
+    {
+      "headline": "The Antitrust Enforcers Aimed at Big Tech. Then Came the Backlash.",
+      "snippet": "South Korea pledged to protect its online platforms from marketplace giants, but lobbyists are crying foul play.",
+      "abstract": "South Korea pledged to protect its online platforms from marketplace giants, but lobbyists are crying foul play.",
+      "lead_paragraph": "The South Korean government unleashed a wave of panic across the internet industry: The country’s antitrust regulator said it would enact the toughest competition law outside Europe, curbing the influence of major technology companies.",
+      "publication_date": "2024-02-16T05:01:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/16/business/korea-fair-trade-commission-antitrust.html",
+      "byline": "By Jin Yu Young and Daisuke Wakabayashi"
+    },
+    {
+      "headline": "As Home Insurance Bills Go Up, Owners’ Coverage Is Going Down",
+      "snippet": "Frequent natural disasters and high inflation have led insurers to raise premiums, and forced many customers to pare back their policies.",
+      "abstract": "Frequent natural disasters and high inflation have led insurers to raise premiums, and forced many customers to pare back their policies.",
+      "lead_paragraph": "Robert Shiver’s bill for his homeowner insurance jumped from $3,800 in 2022 to $8,000 in July. “I remember opening the bill and, honestly, laughing, like, ‘This is not feasible,’” he said.",
+      "publication_date": "2024-02-16T10:03:25+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/16/business/homeowners-insurance-bills-coverage.html",
+      "byline": "By Emily Flitter"
+    },
+    {
+      "headline": "Kevin Morris, Hunter Biden’s $6.5 Million Patron, Draws Fire From All Sides",
+      "snippet": "The Hollywood lawyer’s support of the president’s son is under scrutiny from House Republicans while his aggressive tactics are rankling the White House.",
+      "abstract": "The Hollywood lawyer’s support of the president’s son is under scrutiny from House Republicans while his aggressive tactics are rankling the White House.",
+      "lead_paragraph": "He found a house for Hunter Biden’s new family, paid divorce costs to Mr. Biden’s ex-wife and helped resolve a paternity lawsuit from a third woman. He footed the bill for Mr. Biden’s security, back taxes and car payments, facilitated the publication of a memoir and the launch of an art career, and provided emotional support as Mr. Biden dealt with scrutiny from prosecutors and political adversaries.",
+      "publication_date": "2024-02-16T10:04:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/16/us/politics/hunter-biden-kevin-morris.html",
+      "byline": "By Kenneth P. Vogel, Luke Broadwater and Michael S. Schmidt"
+    },
+    {
+      "headline": "Biden Tried to Show Solidarity With East Palestine. He Found Divisions Instead.",
+      "snippet": "The president visited the Ohio town over a year after a devastating train derailment. He faced a divided community anxious over the long-term health consequences of an environmental disaster.",
+      "abstract": "The president visited the Ohio town over a year after a devastating train derailment. He faced a divided community anxious over the long-term health consequences of an environmental disaster.",
+      "lead_paragraph": "President Biden traveled to East Palestine on Friday to show solidarity with a community still reeling more than a year after a Norfolk Southern train derailed, spilling a toxic mess across this small Ohio town near the border with Pennsylvania.",
+      "publication_date": "2024-02-16T10:06:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/16/us/politics/biden-east-palestine-visit.html",
+      "byline": "By Zolan Kanno-Youngs and Erica L. Green"
+    },
+    {
+      "headline": "In Big Election Year, A.I.’s Architects Move Against Its Misuse",
+      "snippet": "Anthropic, OpenAI, Google, Meta and other key developers are acting to prevent the technology from threatening democracies, even as their tools become more powerful.",
+      "abstract": "Anthropic, OpenAI, Google, Meta and other key developers are acting to prevent the technology from threatening democracies, even as their tools become more powerful.",
+      "lead_paragraph": "Artificial intelligence companies have been at the vanguard of developing the transformative technology. Now they are also racing to set limits on how A.I. is used in a year stacked with major elections around the world.",
+      "publication_date": "2024-02-16T11:30:08+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/02/16/technology/ai-elections-defense.html",
+      "byline": "By Tiffany Hsu and Cade Metz"
+    },
+    {
+      "headline": "Trump Privately Expresses Support for a 16-Week Abortion Ban",
+      "snippet": "In supporting a 16-week ban with exceptions, Donald Trump appears to be trying to satisfy social conservatives who want to further restrict abortion access and voters who want more modest limits.",
+      "abstract": "In supporting a 16-week ban with exceptions, Donald Trump appears to be trying to satisfy social conservatives who want to further restrict abortion access and voters who want more modest limits.",
+      "lead_paragraph": "Former President Donald J. Trump has told advisers and allies that he likes the idea of a 16-week national abortion ban with three exceptions, in cases of rape or incest, or to save the life of the mother, according to two people with direct knowledge of Mr. Trump’s deliberations.",
+      "publication_date": "2024-02-16T15:48:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/02/16/us/politics/trump-abortion-ban.html",
+      "byline": "By Maggie Haberman, Jonathan Swan and Lisa Lerer"
+    }
+  ]
+}

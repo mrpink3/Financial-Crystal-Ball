@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "date": "2020-12-28",
+    "total_articles": 16
+  },
+  "articles": [
+    {
+      "headline": "One Vaccine Side Effect: Global Economic Inequality",
+      "snippet": "As Covid inoculations begin, the economic downturn stands to be reversed, but developing countries are at risk of being left behind.",
+      "abstract": "As Covid inoculations begin, the economic downturn stands to be reversed, but developing countries are at risk of being left behind.",
+      "lead_paragraph": "LONDON — The end of the pandemic is finally in view. So is rescue from the most traumatic global economic catastrophe since the Great Depression. As Covid vaccines enter the bloodstream, recovery has become reality.",
+      "publication_date": "2020-12-25T16:52:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/25/business/coronavirus-vaccines-global-economy.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "For a Civil Rights Hero, 90, a New Battle Unfolds on His Childhood Street",
+      "snippet": "Before he defended Rosa Parks and became a leading legal force, Fred Gray grew up on an avenue named for Jefferson Davis in Montgomery, Ala. Now a push is underway for a new name for the street: Mr. Gray’s.",
+      "abstract": "Before he defended Rosa Parks and became a leading legal force, Fred Gray grew up on an avenue named for Jefferson Davis in Montgomery, Ala. Now a push is underway for a new name for the street: Mr. Gray’s.",
+      "lead_paragraph": "MONTGOMERY, Ala. — This summer, as Mayor Steven L. Reed of Montgomery mulled over ways to commemorate the 65th anniversary of the city’s bus boycott, he took a critical look at whose legacies had been honored since that protest — and whose, it seemed, had been forgotten.",
+      "publication_date": "2020-12-25T18:40:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/25/us/politics/fred-gray-rosa-parks-montgomery.html",
+      "byline": "By Elaina Plott"
+    },
+    {
+      "headline": "Brexit Deal Done, Britain Now Scrambles to See How It Will Work",
+      "snippet": "Britain is finally departing from the European Union, but its formal exit is only the beginning of a high-stakes experiment to unstitch commercial relations across an integrated continent.",
+      "abstract": "Britain is finally departing from the European Union, but its formal exit is only the beginning of a high-stakes experiment to unstitch commercial relations across an integrated continent.",
+      "lead_paragraph": "LONDON — For weary Brexit negotiators on both sides of the English Channel, a Christmas Eve trade agreement sealed 11 months of painstaking deliberations over Britain’s departure from the European Union, encompassing details as arcane as what species of fish could be caught by each side’s boats in British waters.",
+      "publication_date": "2020-12-25T21:45:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/25/world/europe/brexit-britain-european-union.html",
+      "byline": "By Benjamin Mueller"
+    },
+    {
+      "headline": "As Virus Resurges in Africa, Doctors Fear the Worst Is Yet to Come",
+      "snippet": "The coronavirus killed far fewer people in Africa than in Europe and the Americas, leading to a widespread perception that it was a disease of the West. Now, a tide of new cases on the continent is raising alarms.",
+      "abstract": "The coronavirus killed far fewer people in Africa than in Europe and the Americas, leading to a widespread perception that it was a disease of the West. Now, a tide of new cases on the continent is raising alarms.",
+      "lead_paragraph": "PORT ELIZABETH, South Africa — At the center of a terrifying coronavirus surge, 242 patients lay in row after row of beds under the soaring metal beams of a decommissioned Volkswagen factory.",
+      "publication_date": "2020-12-26T08:00:19+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/26/world/africa/africa-coronavirus-pandemic.html",
+      "byline": "By Sheri Fink"
+    },
+    {
+      "headline": "Market Edges Toward Euphoria, Despite Pandemic’s Toll",
+      "snippet": "Investors of all stripes piled into stocks this year, creating levels of froth reminiscent of the dot-com boom. Analysts say there’s room to go higher, but some worry about a bubble.",
+      "abstract": "Investors of all stripes piled into stocks this year, creating levels of froth reminiscent of the dot-com boom. Analysts say there’s room to go higher, but some worry about a bubble.",
+      "lead_paragraph": "The stock market will not quit.",
+      "publication_date": "2020-12-26T14:26:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/26/business/investors-bull-market-pandemic.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "A Racial Slur, a Viral Video, and a Reckoning",
+      "snippet": "A white high school student withdrew from her chosen college after a three-second video caused an uproar online. The classmate who shared it publicly has no regrets.",
+      "abstract": "A white high school student withdrew from her chosen college after a three-second video caused an uproar online. The classmate who shared it publicly has no regrets.",
+      "lead_paragraph": "[To read more stories on race from The New York Times, sign up here for our Race/Related newsletter.]",
+      "publication_date": "2020-12-26T17:22:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/26/us/mimi-groves-jimmy-galligan-racial-slurs.html",
+      "byline": "By Dan Levin"
+    },
+    {
+      "headline": "Trump’s Fraud Claims Died in Court, but the Myth of Stolen Elections Lives On",
+      "snippet": "For years, Republicans have used the specter of cheating as a reason to impose barriers to ballot access. A definitive debunking of claims of wrongdoing in 2020 has not changed that message.",
+      "abstract": "For years, Republicans have used the specter of cheating as a reason to impose barriers to ballot access. A definitive debunking of claims of wrongdoing in 2020 has not changed that message.",
+      "lead_paragraph": "President Trump’s baseless and desperate claims of a stolen election over the last seven weeks — the most aggressive promotion of “voter fraud” in American history — failed to get any traction in courts across seven states, or come anywhere close to reversing the loss he suffered to Joseph R. Biden Jr.",
+      "publication_date": "2020-12-26T18:49:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/26/us/politics/republicans-voter-fraud.html",
+      "byline": "By Jim Rutenberg, Nick Corasaniti and Alan Feuer"
+    },
+    {
+      "headline": "The Treasured Diners and Hidden Haunts That Covid-19 Closed for Good",
+      "snippet": "A Pittsburgh hot dog joint, a famous Cambridge dive bar and a vibrant Filipino restaurant in Los Angeles were among the casualties of 2020.",
+      "abstract": "A Pittsburgh hot dog joint, a famous Cambridge dive bar and a vibrant Filipino restaurant in Los Angeles were among the casualties of 2020.",
+      "lead_paragraph": "We gather today to mourn the 150-year-old restaurant that served up platters of fried chicken and creamed corn to Abilene, Kan. To bid farewell to the New Orleans cafe that was a destination for huge crab omelets and endless conversation. To raise one last glass to the tavern in Cambridge, Mass., where the regulars arrived at 8 a.m. and the Austin diner where Janis Joplin nearly sang the neon lights off the walls.",
+      "publication_date": "2020-12-27T08:00:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/27/us/covid-restaurants-diners-closed.html",
+      "byline": "By Jack Healy"
+    },
+    {
+      "headline": "Managing Movie Superheroes Is About to Get a Lot More Complicated",
+      "snippet": "Walter Hamada, who runs DC Films, is overseeing a dizzying number of projects, part of a swarm of comics-based stories coming from Hollywood.",
+      "abstract": "Walter Hamada, who runs DC Films, is overseeing a dizzying number of projects, part of a swarm of comics-based stories coming from Hollywood.",
+      "lead_paragraph": "LOS ANGELES — Walter Hamada is not a typical superhero wrangler.",
+      "publication_date": "2020-12-27T22:05:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/27/business/media/dc-superheroes-movies.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Heather Cox Richardson Offers a Break From the Media Maelstrom. It’s Working.",
+      "snippet": "She is the breakout star of the newsletter platform Substack, doing the opposite of most media as she calmly situates the news of the day in the long sweep of American history.",
+      "abstract": "She is the breakout star of the newsletter platform Substack, doing the opposite of most media as she calmly situates the news of the day in the long sweep of American history.",
+      "lead_paragraph": "Last Wednesday, I broke the news to Heather Cox Richardson that she was the most successful individual author of a paid publication on the breakout newsletter platform Substack.",
+      "publication_date": "2020-12-28T00:32:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/27/business/media/heather-cox-richardson-substack-boston-college.html",
+      "byline": "By Ben Smith"
+    },
+    {
+      "headline": "A Quiet Life, a Thunderous Death, and a Nightmare That Shook Nashville",
+      "snippet": "DNA tests show that Anthony Warner blew himself up along with a stretch of downtown Nashville on Christmas morning.",
+      "abstract": "DNA tests show that Anthony Warner blew himself up along with a stretch of downtown Nashville on Christmas morning.",
+      "lead_paragraph": "NASHVILLE — Anthony Warner had a solitary job as an information technology specialist, stopping in to various offices to fix computers. He was 63. He was not married. His neighbors barely knew him.",
+      "publication_date": "2020-12-28T01:08:59+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/27/us/anthony-quinn-warner-dead.html",
+      "byline": "By Rick Rojas, Adam Goldman and Jamie McGee"
+    },
+    {
+      "headline": "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses",
+      "snippet": "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open.",
+      "abstract": "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open.",
+      "lead_paragraph": "WASHINGTON — President Trump on Sunday abruptly signed a measure providing $900 billion in pandemic aid and funding the government through September, ending last-minute turmoil he himself had created over legislation that will offer an economic lifeline to millions of Americans and avert a government shutdown.",
+      "publication_date": "2020-12-28T01:13:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html",
+      "byline": "By Emily Cochrane, Nelson D. Schwartz and Gillian Friedman"
+    },
+    {
+      "headline": "Refugees Come Under Fire as Old Foes Fight in Concert in Ethiopia",
+      "snippet": "Forces from neighboring Eritrea have joined the war in northern Ethiopia, and have rampaged through refugee camps committing human rights violations, officials and witnesses say.",
+      "abstract": "Forces from neighboring Eritrea have joined the war in northern Ethiopia, and have rampaged through refugee camps committing human rights violations, officials and witnesses say.",
+      "lead_paragraph": "NAIROBI, Kenya — As fighting raged across the Tigray region of northern Ethiopia last month, a group of soldiers arrived one day at Hitsats, a small hamlet ringed by scrubby hills that was home to a sprawling refugee camp of 25,000 people.",
+      "publication_date": "2020-12-28T08:00:09+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/world/africa/Ethiopia-Eritrea-Tigray.html",
+      "byline": "By Declan Walsh and Simon Marks"
+    },
+    {
+      "headline": "Democrats’ Georgia Hopes Rest on Jon Ossoff, 33. How Did He Get Here?",
+      "snippet": "Some well-timed introductions and a knack for opportunity have helped Mr. Ossoff’s rise in Georgia politics. Now he is pursuing his most ambitious goal yet, a U.S. Senate seat.",
+      "abstract": "Some well-timed introductions and a knack for opportunity have helped Mr. Ossoff’s rise in Georgia politics. Now he is pursuing his most ambitious goal yet, a U.S. Senate seat.",
+      "lead_paragraph": "Jon Ossoff was 16 years old when he wrote a letter to John Lewis, the Georgia congressman and civil rights pioneer, that led to a spot as a volunteer in Mr. Lewis’s office.",
+      "publication_date": "2020-12-28T08:00:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/us/politics/jon-ossoff-georgia-senate.html",
+      "byline": "By Reid J. Epstein and Serge F. Kovaleski"
+    },
+    {
+      "headline": "How the Pandemic Is Imperiling a Working-Class College",
+      "snippet": "The coronavirus has hurt Indiana University of Pennsylvania, but its financial problems were planted years ago.",
+      "abstract": "The coronavirus has hurt Indiana University of Pennsylvania, but its financial problems were planted years ago.",
+      "lead_paragraph": "Rachel Foor’s grandparents are in their 70s, so when the pandemic hit, its stresses gave her such stomach pains that she could not eat or sleep. She worried she would infect them if she brought the coronavirus home from Indiana University of Pennsylvania, where she is a senior, or from Walmart, where she stocks milk and eggs to help pay tuition.",
+      "publication_date": "2020-12-28T08:00:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/28/us/college-coronavirus-tuition.html",
+      "byline": "By Matt Richtel and Sarah Blesener"
+    },
+    {
+      "headline": "The Gospel of Hydrogen Power",
+      "snippet": "Mike Strizki powers his house and cars with hydrogen he home-brews. He is using his retirement to evangelize for the planet-saving advantages of hydrogen batteries.",
+      "abstract": "Mike Strizki powers his house and cars with hydrogen he home-brews. He is using his retirement to evangelize for the planet-saving advantages of hydrogen batteries.",
+      "lead_paragraph": "In December, the California Fuel Cell Partnership tallied 8,890 electric cars and 48 electric buses running on hydrogen batteries, which are refillable in minutes at any of 42 stations there. On the East Coast, the number of people who own and drive a hydrogen electric car is somewhat lower. In fact, there’s just one. His name is Mike Strizki. He is so devoted to hydrogen fuel-cell energy that he drives a Toyota Mirai even though it requires him to refine hydrogen fuel in his yard himself.",
+      "publication_date": "2020-12-28T10:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/28/business/hydrogen-power-cars.html",
+      "byline": "By Roy Furchgott"
+    }
+  ]
+}

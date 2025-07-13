@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2023-03-14",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "A24 Achieves Art-House Supremacy With Triumphant Oscar Night",
+      "snippet": "The independent studio behind “Everything Everywhere All at Once” and “The Whale” became the first to sweep the acting awards and win best director and best picture in the same year.",
+      "abstract": "The independent studio behind “Everything Everywhere All at Once” and “The Whale” became the first to sweep the acting awards and win best director and best picture in the same year.",
+      "lead_paragraph": "Six years after nabbing the best picture Oscar for “Moonlight,” the hip, art-house studio A24 succeeded at Sunday night’s Academy Awards on a scale that seemed to surprise even its executives, who entered the post-show Governor’s Ball with what-just-happened-looks on their faces.",
+      "publication_date": "2023-03-13T19:50:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/13/business/media/a24-oscars-everything-everywhere-the-whale.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Is My Money Safe? Here’s What Is Covered, and How You Can Do More.",
+      "snippet": "The F.D.I.C. and other entities will protect most people’s bank and brokerage balances. But it’s as good a time as any for consumers to create other backstops.",
+      "abstract": "The F.D.I.C. and other entities will protect most people’s bank and brokerage balances. But it’s as good a time as any for consumers to create other backstops.",
+      "lead_paragraph": "Customers of Silicon Valley Bank aren’t going to lose any of their deposits. Neither will the businesses or individuals who have money at Signature Bank.",
+      "publication_date": "2023-03-13T21:14:56+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/13/your-money/fdic-banks-svb.html",
+      "byline": "By Ron Lieber and Tara Siegel Bernard"
+    },
+    {
+      "headline": "Back-to-Back Bank Collapses Came After Deregulatory Push",
+      "snippet": "Officials with Signature and Silicon Valley banks, which regulators seized in recent days, had called for looser financial requirements for midsize banks.",
+      "abstract": "Officials with Signature and Silicon Valley banks, which regulators seized in recent days, had called for looser financial requirements for midsize banks.",
+      "lead_paragraph": "In the spring of 2018, President Donald J. Trump signed a law that watered down the landmark regulatory reform act that his predecessor had enacted following the global financial crisis. The changes won a surprising supporter: the liberal former congressman Barney Frank.",
+      "publication_date": "2023-03-13T22:40:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/13/business/signature-silicon-valley-bank-dodd-frank-regulation.html",
+      "byline": "By David Enrich"
+    },
+    {
+      "headline": "Regional Banks Slammed by Fear of a Broader Financial Crisis",
+      "snippet": "Across the country, banks of various sizes are battling market turmoil as customers rushed to withdraw their deposits and investors, worried about more bank runs, dumped bank stocks.",
+      "abstract": "Across the country, banks of various sizes are battling market turmoil as customers rushed to withdraw their deposits and investors, worried about more bank runs, dumped bank stocks.",
+      "lead_paragraph": "The unexpected seizure of two banks in three days by regulators intensified fears of a broader financial crisis, sending the stocks of more than two dozen banks into free fall on Monday, even as President Biden reassured Americans that the banking system was resilient and that customers’ money was safe.",
+      "publication_date": "2023-03-13T22:44:52+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/03/13/business/regional-bank-stocks.html",
+      "byline": "By Stacy Cowley, Rob Copeland and Anupreeta Das"
+    },
+    {
+      "headline": "Was This a Bailout? Skeptics Descend on Silicon Valley Bank Response.",
+      "snippet": "The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.",
+      "abstract": "The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.",
+      "lead_paragraph": "WASHINGTON — A sweeping package aimed at containing damage to the financial system in the wake of high-profile failures has prompted questions about whether the federal government is again bailing out Wall Street.",
+      "publication_date": "2023-03-13T23:22:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/13/business/economy/svb-bailout-questions.html",
+      "byline": "By Jeanna Smialek and Alan Rappeport"
+    },
+    {
+      "headline": "After Bank Debacle, Silicon Valley Reckons With Its Image",
+      "snippet": "Even as start-ups and investors began recovering their money from Silicon Valley Bank, the episode exposed the tech industry’s vulnerabilities.",
+      "abstract": "Even as start-ups and investors began recovering their money from Silicon Valley Bank, the episode exposed the tech industry’s vulnerabilities.",
+      "lead_paragraph": "On Sunday afternoon, Prashant Fonseka was flying to San Francisco from Austin, Texas, with other techies returning from the South by Southwest conference. Midway through the flight, federal regulators announced the government would ensure that all depositors of Silicon Valley Bank — which had failed on Friday — would be paid back in full.",
+      "publication_date": "2023-03-13T23:40:19+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/13/technology/silicon-valley-image.html",
+      "byline": "By Erin Griffith and Mike Isaac"
+    },
+    {
+      "headline": "Britain Wants Its Early Retirees Back, but Their Days Are ‘Never Boring’",
+      "snippet": "The country’s work force is smaller than it was before the pandemic, sapping economic potential. The government is going to try luring more people off the sidelines.",
+      "abstract": "The country’s work force is smaller than it was before the pandemic, sapping economic potential. The government is going to try luring more people off the sidelines.",
+      "lead_paragraph": "Britain’s top financial official started the year with a plea. To those who retired early in the pandemic or have not found the right job after furlough, Jeremy Hunt said, “Britain needs you.”",
+      "publication_date": "2023-03-14T09:00:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/14/business/britain-retirees-return-to-work-covid.html",
+      "byline": "By Eshe Nelson"
+    },
+    {
+      "headline": "Meta to Lay Off Another 10,000 Workers",
+      "snippet": "It would be the tech company’s second round of cuts since November. Mark Zuckerberg, its chief executive, has declared 2023 the “year of efficiency.”",
+      "abstract": "It would be the tech company’s second round of cuts since November. Mark Zuckerberg, its chief executive, has declared 2023 the “year of efficiency.”",
+      "lead_paragraph": "Meta, the owner of Facebook and Instagram, said on Tuesday that it planned to lay off about 10,000 employees, or roughly 13 percent of its work force, the latest move to hew to what the company’s founder, Mark Zuckerberg, has called a “year of efficiency.”",
+      "publication_date": "2023-03-14T13:32:27+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/03/14/technology/meta-facebook-layoffs.html",
+      "byline": "By Mike Isaac"
+    }
+  ]
+}

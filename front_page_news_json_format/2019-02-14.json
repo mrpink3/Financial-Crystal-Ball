@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-02-14",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Spy Betrayed U.S. to Work for Iran, Charges Say",
+      "snippet": "Prosecutors say Monica Elfriede Witt gave the Iranians the code name and mission of a secret Pentagon program involving American intelligence operations.",
+      "abstract": "Prosecutors say Monica Elfriede Witt gave the Iranians the code name and mission of a secret Pentagon program involving American intelligence operations.",
+      "lead_paragraph": "WASHINGTON — Inside the government, some officials called her “Wayward Storm.”",
+      "publication_date": "2019-02-13T16:05:39+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/13/world/middleeast/air-force-monica-elfriede-witt-iran.html",
+      "byline": "By Adam Goldman"
+    },
+    {
+      "headline": "U.S. Revives Secret Program to Sabotage Iranian Missiles and Rockets",
+      "snippet": "The covert attacks on aerospace supply chains are meant to cripple Iran’s missile fleets. Iranian leaders maintain they are not deterred by any setbacks.",
+      "abstract": "The covert attacks on aerospace supply chains are meant to cripple Iran’s missile fleets. Iranian leaders maintain they are not deterred by any setbacks.",
+      "lead_paragraph": "WARSAW — The Trump White House has accelerated a secret American program to sabotage Iran’s missiles and rockets, according to current and former administration officials, who described it as part of an expanding campaign by the United States to undercut Tehran’s military and isolate its economy.",
+      "publication_date": "2019-02-13T17:20:15+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/13/us/politics/iran-missile-launch-failures.html",
+      "byline": "By David E. Sanger and William J. Broad"
+    },
+    {
+      "headline": "The Strange Experience of Being Australia’s First Tech Billionaires",
+      "snippet": "In a country where wealth usually comes from mining or banking, Scott Farquhar and Mike Cannon-Brookes of Atlassian are a new kind of mogul. And they’re getting into politics.",
+      "abstract": "In a country where wealth usually comes from mining or banking, Scott Farquhar and Mike Cannon-Brookes of Atlassian are a new kind of mogul. And they’re getting into politics.",
+      "lead_paragraph": "SYDNEY, Australia — Atlassian is a very boring software company. It develops products for software engineers and project managers, with hits like Jira (for software project management and bug tracking) and Fisheye (a revision-control browser). And who could forget Confluence (an enterprise knowledge management system)?",
+      "publication_date": "2019-02-13T18:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/13/technology/atlassian-cannon-brookes-farquhar.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "The Struggle to Control PG&E",
+      "snippet": "Less than a month into the California utility’s bankruptcy, various players are trying to shape the company’s future. Here are three big questions facing it.",
+      "abstract": "Less than a month into the California utility’s bankruptcy, various players are trying to shape the company’s future. Here are three big questions facing it.",
+      "lead_paragraph": "Pacific Gas & Electric, the California utility that faces billions of dollars in wildfire damages, hopes to use its bankruptcy to reduce its liabilities and emerge a more stable company. ",
+      "publication_date": "2019-02-13T23:08:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/13/business/energy-environment/pge-wildfire-bankruptcy-control.html",
+      "byline": "By Peter Eavis and Ivan Penn"
+    },
+    {
+      "headline": "Trump Puts Best Face on Border Deal, as Aides Try to Assuage an Angry Right",
+      "snippet": "It was arguably the most punishing defeat President Trump has experienced in office, and it left the White House scrounging for other ways to pay for a wall.",
+      "abstract": "It was arguably the most punishing defeat President Trump has experienced in office, and it left the White House scrounging for other ways to pay for a wall.",
+      "lead_paragraph": "WASHINGTON — In pursuit of a wall, President Trump ran into one. A single-minded drive to force Congress to finance his signature campaign promise has left Mr. Trump right back where he started, this time seeking a way to climb over the political barrier in his way after trying to charge through it did not work.",
+      "publication_date": "2019-02-14T01:18:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/13/us/politics/deal-government-shutdown.html",
+      "byline": "By Peter Baker and Maggie Haberman"
+    },
+    {
+      "headline": "Airbus Retiring Its Jaw-Dropping Giant, the A380, in an Industry Gone Nimble",
+      "snippet": "The European plane maker says it will stop deliveries in 2021 for the jet, which became less competitive as people changed the way they flew.",
+      "abstract": "The European plane maker says it will stop deliveries in 2021 for the jet, which became less competitive as people changed the way they flew.",
+      "lead_paragraph": "TOULOUSE, France — Since a solo flight by the Wright brothers on the shore of North Carolina more than a century ago, the size of airplanes has gone in one direction — up. But the era of ever larger jets, and the romantic idea of continent-hopping travel they inspired, came to an unofficial end with the announcement by Airbus on Thursday that it plans to cease production of the A380, the largest passenger airliner ever built.",
+      "publication_date": "2019-02-14T06:01:07+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/14/business/airbus-a380.html",
+      "byline": "By Amie Tsang and David Segal"
+    },
+    {
+      "headline": "Europe’s Middle Class Is Shrinking. Spain Bears Much of the Pain.",
+      "snippet": "Europe’s recovery from its economic crisis has left many in the middle class vulnerable. In Spain, a model of economic and labor reform, precariousness is growing.",
+      "abstract": "Europe’s recovery from its economic crisis has left many in the middle class vulnerable. In Spain, a model of economic and labor reform, precariousness is growing.",
+      "lead_paragraph": "MADRID — Raquel Navarro downed an early-morning coffee, kissed her husband goodbye and hurried from her family’s spacious brick home in a suburb north of the Spanish capital.",
+      "publication_date": "2019-02-14T09:43:39+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/14/business/spain-europe-middle-class.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "A Locked Door, a Fire and 41 Girls Killed as Police Stood By",
+      "snippet": "Guatemalan officers stood by for nine minutes as the fire raged at a government-run home. It was the culmination of a long history of abuse.",
+      "abstract": "Guatemalan officers stood by for nine minutes as the fire raged at a government-run home. It was the culmination of a long history of abuse.",
+      "lead_paragraph": "GUATEMALA CITY — As fire swept through the classroom, the pleas from the 56 girls locked inside began to fade.",
+      "publication_date": "2019-02-14T10:00:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/14/world/americas/guatemala-shelter-fire-trial.html",
+      "byline": "By Azam Ahmed"
+    },
+    {
+      "headline": "India Proposes Chinese-Style Internet Censorship",
+      "snippet": "The Modi government’s plan, which would require tech companies to automatically block a vast array of content, stifles free speech, critics said.",
+      "abstract": "The Modi government’s plan, which would require tech companies to automatically block a vast array of content, stifles free speech, critics said.",
+      "lead_paragraph": "NEW DELHI — India’s government has proposed giving itself vast new powers to suppress internet content, igniting a heated battle with global technology giants and prompting comparisons to censorship in China.",
+      "publication_date": "2019-02-14T10:00:09+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/02/14/technology/india-internet-censorship.html",
+      "byline": "By Vindu Goel"
+    },
+    {
+      "headline": "McCabe Says Justice Dept. Officials Had Discussions About Pushing Trump Out",
+      "snippet": "The former deputy F.B.I. director, in a “60 Minutes” interview that will air fully on Sunday, said top department officials had considered recruiting cabinet members to invoke the 25th Amendment.",
+      "abstract": "The former deputy F.B.I. director, in a “60 Minutes” interview that will air fully on Sunday, said top department officials had considered recruiting cabinet members to invoke the 25th Amendment.",
+      "lead_paragraph": "WASHINGTON — Andrew G. McCabe, the former deputy F.B.I. director, said in an interview aired on Thursday that top Justice Department officials became so alarmed by President Trump’s decision in May 2017 to fire James B. Comey, the bureau’s director, that they discussed whether to recruit cabinet members to invoke the 25th Amendment to remove Mr. Trump from office.",
+      "publication_date": "2019-02-14T14:24:48+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/02/14/us/politics/mccabe-trump.html",
+      "byline": "By Adam Goldman and Matthew Haag"
+    }
+  ]
+}

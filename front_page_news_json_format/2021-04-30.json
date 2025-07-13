@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "date": "2021-04-30",
+    "total_articles": 3
+  },
+  "articles": [
+    {
+      "headline": "Joe Biden Has the Vision. Now Chuck Schumer Has to Bring It to Life.",
+      "snippet": "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order.",
+      "abstract": "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order.",
+      "lead_paragraph": "WASHINGTON — President Biden laid out his ambitious vision for a post-pandemic America on Wednesday night. Now it is up to Senator Chuck Schumer to make it a reality.",
+      "publication_date": "2021-04-29T16:08:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/29/us/politics/biden-schumer-agenda.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "After a Year of Loss, South America Suffers Worst Death Tolls Yet",
+      "snippet": "If the world doesn’t stop the region’s surging caseload, it could cost us all that we’ve done to fight the pandemic, one health official said.",
+      "abstract": "If the world doesn’t stop the region’s surging caseload, it could cost us all that we’ve done to fight the pandemic, one health official said.",
+      "lead_paragraph": "BOGOTÁ, Colombia — In the capital of Colombia, Bogotá, the mayor is warning residents to brace for “the worst two weeks of our lives.”",
+      "publication_date": "2021-04-29T20:49:43+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/29/world/americas/covid-latin-america.html",
+      "byline": "By Julie Turkewitz and Mitra Taj"
+    },
+    {
+      "headline": "‘A Perfect Positive Storm’: Bonkers Dollars for Big Tech",
+      "snippet": "The dictionary doesn’t have enough superlatives to describe what’s happening to the five biggest technology companies, raising uncomfortable questions for their C.E.O.s.",
+      "abstract": "The dictionary doesn’t have enough superlatives to describe what’s happening to the five biggest technology companies, raising uncomfortable questions for their C.E.O.s.",
+      "lead_paragraph": "In the Great Recession more than a decade ago, big tech companies hit a rough patch just like everyone else. Now they have become unquestioned winners of the pandemic economy.",
+      "publication_date": "2021-04-29T21:40:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/29/technology/big-tech-pandemic-economy.html",
+      "byline": "By Shira Ovide"
+    }
+  ]
+}

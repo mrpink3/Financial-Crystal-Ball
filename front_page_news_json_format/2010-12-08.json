@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2010-12-08",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Obama Defends Tax Deal, but His Party Stays Hostile",
+      "snippet": "President Obama strongly defended his tax-cut deal with Republicans, insisting it was “a good deal for the American people.”",
+      "abstract": "President Obama strongly defended his tax-cut deal with Republicans, insisting it was “a good deal for the American people.”",
+      "lead_paragraph": "WASHINGTON  President Obama on Tuesday strongly defended his tax cut deal with Congressional Republicans against intense criticism from his own party, insisting it was “a good deal for the American people.” ",
+      "publication_date": "2010-12-07T16:32:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/08/us/politics/08cong.html",
+      "byline": "By David M. Herszenhorn and Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "U.S. Drops Bid to Sway Israel on Settlements",
+      "snippet": "The White House ended its effort to get Israel to renew a freeze on the construction of Jewish settlements.",
+      "abstract": "The White House ended its effort to get Israel to renew a freeze on the construction of Jewish settlements.",
+      "lead_paragraph": "WASHINGTON  After three weeks of fruitless haggling with Prime Minister Benjamin Netanyahu, the Obama administration has given up its effort to persuade the Israeli government to freeze construction of Jewish settlements for 90 days, a senior administration official said Tuesday.",
+      "publication_date": "2010-12-07T20:53:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/08/world/middleeast/08diplo.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "A Political Life Filled With Cruel Reversals",
+      "snippet": "Mrs. Edwards shared John Edwards’s quest for the White House as she struggled with cancer, and, secretly, his infidelity.",
+      "abstract": "Mrs. Edwards shared John Edwards’s quest for the White House as she struggled with cancer, and, secretly, his infidelity.",
+      "lead_paragraph": "Elizabeth Edwards, who as the wife of former Senator John Edwards gave America an intimate look at a candidate’s marriage by sharing his quest for the 2008 presidential nomination as she struggled with incurable cancer and, secretly, with his infidelity, died Tuesday morning at her home in Chapel Hill, N.C. She was 61.",
+      "publication_date": "2010-12-07T22:15:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/08/us/08edwards.html",
+      "byline": "By Robert D. McFadden"
+    },
+    {
+      "headline": "At CNN, Talk Show Tensions",
+      "snippet": "Despite flat ratings, CNN executives say the “Parker Spitzer” talk show is gaining traction.",
+      "abstract": "Despite flat ratings, CNN executives say the “Parker Spitzer” talk show is gaining traction.",
+      "lead_paragraph": "In one sweeping move, the 8 p.m. political talk show “Parker Spitzer” could have turned around CNN’s flailing prime-time ratings, publicly rehabilitated the fallen New York governor Eliot Spitzer, and turned his co-host Kathleen Parker into a television star.",
+      "publication_date": "2010-12-08T00:54:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/08/business/media/08cnn.html",
+      "byline": "By Brian Stelter"
+    },
+    {
+      "headline": "Central Bank and Financiers Fight Over Fate of the Euro",
+      "snippet": "The European Central Bank is spending billions to prop up bond markets as investors bet against those same bonds.",
+      "abstract": "The European Central Bank is spending billions to prop up bond markets as investors bet against those same bonds.",
+      "lead_paragraph": "It is the battle that could well determine the fate of the euro.",
+      "publication_date": "2010-12-08T01:17:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/08/business/global/08bond.html",
+      "byline": "By Graham Bowley and Jack Ewing"
+    },
+    {
+      "headline": "In Tax Plan, a Boost for Jobs",
+      "snippet": "Despite anger from Congressional Democrats, President Obama’s tax plan is intended to help short-term job creation.",
+      "abstract": "Despite anger from Congressional Democrats, President Obama’s tax plan is intended to help short-term job creation.",
+      "lead_paragraph": "WASHINGTON",
+      "publication_date": "2010-12-08T01:32:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/08/business/economy/08leonhardt.html",
+      "byline": "By David Leonhardt"
+    },
+    {
+      "headline": "Rigs in Gulf Ready to Drill, but There’s Little Work",
+      "snippet": "A slow permit process has idled oil rigs and threatened prospects for rig owners, despite the end of the moratorium on drilling in the Gulf of Mexico.",
+      "abstract": "A slow permit process has idled oil rigs and threatened prospects for rig owners, despite the end of the moratorium on drilling in the Gulf of Mexico.",
+      "lead_paragraph": "ABOARD SEAHAWK 2007, Gulf of Mexico  For the 31 workers on this jackup oil rig, the waiting is finally over.",
+      "publication_date": "2010-12-08T02:42:47+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/08/business/energy-environment/08offshore.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Election Violence Flares in Haiti",
+      "snippet": "Preliminary election results set off violence and vote rigging questions.",
+      "abstract": "Preliminary election results set off violence and vote rigging questions.",
+      "lead_paragraph": "PORT-AU-PRINCE, Haiti  Violent protests, ignited by preliminary presidential election results that were widely considered suspect, shut down this troubled country on Wednesday and threatened the fragile stability that has held since the devastating Jan. 12 earthquake.",
+      "publication_date": "2010-12-08T15:57:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/12/09/world/americas/09haiti.html",
+      "byline": "By Deborah Sontag"
+    }
+  ]
+}

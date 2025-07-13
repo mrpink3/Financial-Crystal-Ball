@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2020-05-27",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "A Socially Distanced Las Vegas? What Are the Odds?",
+      "snippet": "Will a stripped-down version of the city attract the same number of visitors who used to come to party at pools, dance in nightclubs and gamble in casinos?",
+      "abstract": "Will a stripped-down version of the city attract the same number of visitors who used to come to party at pools, dance in nightclubs and gamble in casinos?",
+      "lead_paragraph": "For decades, the El Cortez Hotel & Casino in downtown Las Vegas has been known for single-deck blackjack.",
+      "publication_date": "2020-05-26T16:10:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/26/business/coronavirus-las-vegas-casinos.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "HBO Max Is Here to Take On Netflix. Is It Too Late?",
+      "snippet": "AT&T’s streaming platform goes live on Wednesday. At $15 a month, it’s more expensive than its rivals and comes at a time when household income is dropping.",
+      "abstract": "AT&T’s streaming platform goes live on Wednesday. At $15 a month, it’s more expensive than its rivals and comes at a time when household income is dropping.",
+      "lead_paragraph": "HBO has been an innovator for much of its nearly 50-year run. Now, with the unveiling of HBO Max, it’s playing catch-up.",
+      "publication_date": "2020-05-26T17:31:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/26/business/media/hbo-max-netflix-streaming.html",
+      "byline": "By Edmund Lee"
+    },
+    {
+      "headline": "Hunger Program’s Slow Start Leaves Millions of Children Waiting",
+      "snippet": "Child hunger is soaring, but two months after Congress approved billions to replace school meals, only 15 percent of eligible children had received benefits.",
+      "abstract": "Child hunger is soaring, but two months after Congress approved billions to replace school meals, only 15 percent of eligible children had received benefits.",
+      "lead_paragraph": "WASHINGTON — As child hunger soars to levels without modern precedent, an emergency program Congress created two months ago has reached only a small fraction of the 30 million children it was intended to help.",
+      "publication_date": "2020-05-26T18:53:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/26/us/politics/child-hunger-coronavirus.html",
+      "byline": "By Jason DeParle"
+    },
+    {
+      "headline": "Twitter Refutes Inaccuracies in Trump’s Tweets About Mail-In Voting",
+      "snippet": "Twitter added a link to two of President Trump’s tweets in which he had made false claims about mail-in ballots, urging people to “get the facts.”",
+      "abstract": "Twitter added a link to two of President Trump’s tweets in which he had made false claims about mail-in ballots, urging people to “get the facts.”",
+      "lead_paragraph": "OAKLAND, Calif. — Twitter added information to refute the inaccuracies in President Trump’s tweets for the first time on Tuesday, after years of pressure over its inaction on his false and threatening posts.",
+      "publication_date": "2020-05-26T22:30:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/26/technology/twitter-trump-mail-in-ballots.html",
+      "byline": "By Kate Conger and Davey Alba"
+    },
+    {
+      "headline": "Bystander Videos of George Floyd and Others Are Policing the Police",
+      "snippet": "The initial police account of the death of a Minneapolis man did not mention that an officer’s knee pinned him to the ground. “Please, I can’t breathe,” he said.",
+      "abstract": "The initial police account of the death of a Minneapolis man did not mention that an officer’s knee pinned him to the ground. “Please, I can’t breathe,” he said.",
+      "lead_paragraph": "[Follow our live coverage of the protests in Minneapolis over George Floyd’s death.]",
+      "publication_date": "2020-05-26T23:47:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/26/us/george-floyd-minneapolis-police.html",
+      "byline": "By Audra D. S. Burch and John Eligon"
+    },
+    {
+      "headline": "An ‘Avalanche of Evictions’ Could Be Bearing Down on America’s Renters",
+      "snippet": "The economic downturn is shaping up to be particularly devastating for renters, who are more likely to be lower-income and work hourly jobs cut during the pandemic.",
+      "abstract": "The economic downturn is shaping up to be particularly devastating for renters, who are more likely to be lower-income and work hourly jobs cut during the pandemic.",
+      "lead_paragraph": "EUCLID, Ohio — The United States, already wrestling with an economic collapse not seen in a generation, is facing a wave of evictions as government relief payments and legal protections run out for millions of out-of-work Americans who have little financial cushion and few choices when looking for new housing.",
+      "publication_date": "2020-05-27T09:00:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/27/us/coronavirus-evictions-renters.html",
+      "byline": "By Sarah Mervosh"
+    },
+    {
+      "headline": "Larry Kramer, Playwright and Outspoken AIDS Activist, Dies at 84",
+      "snippet": "He sought to shock the country into dealing with AIDS as a public-health emergency and foresaw that it could kill millions regardless of sexual orientation.",
+      "abstract": "He sought to shock the country into dealing with AIDS as a public-health emergency and foresaw that it could kill millions regardless of sexual orientation.",
+      "lead_paragraph": "Larry Kramer, the noted writer whose raucous, antagonistic campaign for an all-out response to the AIDS crisis helped shift national health policy in the 1980s and ’90s, died on Wednesday morning in Manhattan. He was 84. ",
+      "publication_date": "2020-05-27T15:39:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/27/us/larry-kramer-dead.html",
+      "byline": "By Daniel Lewis"
+    }
+  ]
+}

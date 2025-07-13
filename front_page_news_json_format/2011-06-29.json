@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2011-06-29",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Another Try by Google to Take On Facebook",
+      "snippet": "The new service is intended to make it easy to share with groups, instead of all of one’s friends or the entire Web.",
+      "abstract": "The new service is intended to make it easy to share with groups, instead of all of one’s friends or the entire Web.",
+      "lead_paragraph": "Remember Google Buzz? What about Orkut, or Google Wave? ",
+      "publication_date": "2011-06-28T17:07:39+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/29/technology/29google.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Spine Experts Repudiate Medtronic Studies",
+      "snippet": "In an extraordinary move, specialists repudiated other experts’ research that had backed a Medtronic product.",
+      "abstract": "In an extraordinary move, specialists repudiated other experts’ research that had backed a Medtronic product.",
+      "lead_paragraph": "In an extraordinary move, a group of spine specialists are publicly repudiating the research of other experts that has backed the widespread use of a Medtronic bone growth product. In a series of reports published in a medical journal on Tuesday, the specialists called the research misleading and biased. ",
+      "publication_date": "2011-06-28T21:12:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/29/business/29spine.html",
+      "byline": "By Barry Meier and Duff Wilson"
+    },
+    {
+      "headline": "White House and Congress Clear Trade Deal Hurdle",
+      "snippet": "A vote will take place on free trade agreements with South Korea, Colombia and Panama.",
+      "abstract": "A vote will take place on free trade agreements with South Korea, Colombia and Panama.",
+      "lead_paragraph": "WASHINGTON — The White House struck a deal with House Republicans Tuesday to reinstate benefits for workers who lose jobs to foreign competition, addressing a major obstacle to consideration of three free trade agreements with South Korea, Colombia and Panama.",
+      "publication_date": "2011-06-28T21:35:29+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/29/business/29trade.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "$8.5 Billion Deal Near in Suit on Bank Mortgage Debt",
+      "snippet": "Bank of America is near a deal to settle a suit by investors who bought securities that soured.",
+      "abstract": "Bank of America is near a deal to settle a suit by investors who bought securities that soured.",
+      "lead_paragraph": "Bank of America is completing an agreement to pay $8.5 billion to settle claims by investors that purchased mortgage securities that soured when the housing bubble burst, according to people briefed on the deal. It represents what is likely to be the single biggest settlement tied to the subprime mortgage boom and the subsequent financial crisis of 2008. ",
+      "publication_date": "2011-06-28T22:33:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/29/business/29mortgage.html",
+      "byline": "By Nelson D. Schwartz and Eric Dash"
+    },
+    {
+      "headline": "A Parliament on the Move Grows Costly",
+      "snippet": "Plenary sessions have members traveling to Strasbourg, France, every month despite growing cries of waste.",
+      "abstract": "Plenary sessions have members traveling to Strasbourg, France, every month despite growing cries of waste.",
+      "lead_paragraph": "BRUSSELS — Moving day had arrived. On a recent Friday evening, the color-coded crates were ready, some 2,500 of them stacked outside virtually every office door along the vast halls of the European Parliament complex here.",
+      "publication_date": "2011-06-29T00:30:42+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/29/world/europe/29strasbourg.html",
+      "byline": "By Suzanne Daley and Stephen Castle"
+    },
+    {
+      "headline": "In a Greek Default, Higher Risk for Money Market Funds",
+      "snippet": "As Europe struggles with its debt crisis, a popular haven for conservative investors could be a tad less safe.",
+      "abstract": "As Europe struggles with its debt crisis, a popular haven for conservative investors could be a tad less safe.",
+      "lead_paragraph": "Money market funds have long been a popular haven for conservative investors, but they could become one way that the tremors of the financial crisis in Greece touch the pocketbooks of Americans — about 50 million of them.",
+      "publication_date": "2011-06-29T01:25:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/29/business/global/29money.html",
+      "byline": "By Graham Bowley"
+    },
+    {
+      "headline": "Dodd-Frank Rekindles Old Debate",
+      "snippet": "A classic American political debate — state versus federal law — is surfacing in the banking sector, as regulators work to put in place the financial reforms passed a year ago in Washington.",
+      "abstract": "A classic American political debate — state versus federal law — is surfacing in the banking sector, as regulators work to put in place the financial reforms passed a year ago in Washington.",
+      "lead_paragraph": "One of the most classic American political debates — state versus federal law — is surfacing again in the banking sector, as regulators work to put in place the financial reforms passed a year ago in Washington.",
+      "publication_date": "2011-06-29T01:57:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/29/business/economy/29bank.html",
+      "byline": "By Louise Story"
+    },
+    {
+      "headline": "Attack at Kabul Hotel Deflates Security Hopes in Afghanistan",
+      "snippet": "A deadly assault shook public confidence in the ability of Afghan forces to assume responsibility for security.",
+      "abstract": "A deadly assault shook public confidence in the ability of Afghan forces to assume responsibility for security.",
+      "lead_paragraph": "KABUL, Afghanistan — Nazir Amini, an Afghan visiting from his home in Germany, had just returned from the buffet with a bowl of ice cream when two men with an AK-47 rifle and a machine gun started shooting guests around the pool at the Intercontinental Hotel, one of the capital’s most fortified buildings. ",
+      "publication_date": "2011-06-29T07:08:20+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/30/world/asia/30afghanistan.html",
+      "byline": "By Alissa J. Rubin"
+    },
+    {
+      "headline": "Greece Approves Tough Measures on Economy",
+      "snippet": "Parliament voted in an austerity plan that foreign lenders required before Greece could receive additional funds.",
+      "abstract": "Parliament voted in an austerity plan that foreign lenders required before Greece could receive additional funds.",
+      "lead_paragraph": "ATHENS — Greek lawmakers voted on Wednesday to sharply reduce government spending and sell off an array of national assets, staving off default on the country’s debt and easing, for the moment, a crisis among countries that use the euro.",
+      "publication_date": "2011-06-29T09:35:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2011/06/30/world/europe/30greece.html",
+      "byline": "By Rachel Donadio"
+    },
+    {
+      "headline": "Bank of America Settles Claims Stemming From Mortgage Crisis",
+      "snippet": "The charge, which will drive the company to a multibillion-dollar loss in the second quarter, is the biggest single settlement tied to the subprime mortgage boom.",
+      "abstract": "The charge, which will drive the company to a multibillion-dollar loss in the second quarter, is the biggest single settlement tied to the subprime mortgage boom.",
+      "lead_paragraph": "Just how much will it cost the big banks to atone for the mortgage mess?",
+      "publication_date": "2011-06-29T12:19:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2011/06/30/business/30mortgage.html",
+      "byline": "By Nelson D. Schwartz and Eric Dash"
+    }
+  ]
+}

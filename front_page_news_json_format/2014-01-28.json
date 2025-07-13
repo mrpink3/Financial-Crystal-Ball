@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "date": "2014-01-28",
+    "total_articles": 12
+  },
+  "articles": [
+    {
+      "headline": "Spy Agencies Tap Data Streaming From Phone Apps",
+      "snippet": "As personal data pour onto mobile networks, American and British eavesdroppers are prying into so-called leaky apps to extract geographical data, address books and phone logs, secret documents show.",
+      "abstract": "As personal data pour onto mobile networks, American and British eavesdroppers are prying into so-called leaky apps to extract geographical data, address books and phone logs, secret documents show.",
+      "lead_paragraph": "When a smartphone user opens Angry Birds, the popular game application, and starts slinging birds at chortling green pigs, spies could be lurking in the background to snatch data revealing the player’s location, age, sex and other personal information, according to secret British intelligence documents.",
+      "publication_date": "2014-01-27T17:33:18+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/28/world/spy-agencies-scour-phone-apps-for-personal-data.html",
+      "byline": "By James Glanz, Jeff Larson and Andrew W. Lehren"
+    },
+    {
+      "headline": "A Fed Policy Maker, Changing His Mind, Urges More Stimulus",
+      "snippet": "Narayana Kocherlakota, president of the Minneapolis Fed, said the central bank should increase its efforts to stimulate the economy.",
+      "abstract": "Narayana Kocherlakota, president of the Minneapolis Fed, said the central bank should increase its efforts to stimulate the economy.",
+      "lead_paragraph": "MINNEAPOLIS — Narayana R. Kocherlakota, president of the Federal Reserve Bank of Minneapolis, was once a leading opponent of the Federal Reserve’s efforts to stimulate the economy. Today, he has emerged as the only senior official arguing publicly that the Fed should do even more.",
+      "publication_date": "2014-01-27T17:36:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/28/business/a-federal-reserve-policy-maker-urges-it-to-do-more.html",
+      "byline": "By Binyamin Appelbaum"
+    },
+    {
+      "headline": "Sales of iPhones Set Record for Quarter: 51 Million",
+      "snippet": "Apple’s blockbuster phone sales helped the company post a profit of $13.1 billion on revenue of $57.6 billion.",
+      "abstract": "Apple’s blockbuster phone sales helped the company post a profit of $13.1 billion on revenue of $57.6 billion.",
+      "lead_paragraph": "SAN FRANCISCO — Apple’s iPhone is still defying a long-held rule of the cellphone business: What goes up must come down.",
+      "publication_date": "2014-01-27T21:45:48+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/28/technology/apple-reports-record-iphone-sales.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "U.S. Relaxes Some Data Disclosure Rules",
+      "snippet": "The Obama administration will allow Internet companies to talk more specifically about when they are forced to turn over customer data to the government, the Justice Department said.",
+      "abstract": "The Obama administration will allow Internet companies to talk more specifically about when they are forced to turn over customer data to the government, the Justice Department said.",
+      "lead_paragraph": "WASHINGTON — The Obama administration says it will allow Internet companies to give customers a better idea of how often the government demands their information, but will not allow companies to disclose what is being collected or how much.",
+      "publication_date": "2014-01-27T21:48:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/28/business/government-to-allow-technology-companies-to-disclose-more-data-on-surveillance-requests.html",
+      "byline": "By Matt Apuzzo and Nicole Perlroth"
+    },
+    {
+      "headline": "Company Struggles to Keep U.S. in the Uranium Enrichment Game",
+      "snippet": "The only American-owned uranium-enrichment company is struggling to raise billions to construct a modern centrifuge facility, while a European-owned rival thrives in New Mexico.",
+      "abstract": "The only American-owned uranium-enrichment company is struggling to raise billions to construct a modern centrifuge facility, while a European-owned rival thrives in New Mexico.",
+      "lead_paragraph": "EUNICE, N.M. — While the only American-owned company that enriches uranium prepares for bankruptcy, its competitor is zooming ahead with construction of what it describes as a cluster of far more economical and efficient new centrifuges.",
+      "publication_date": "2014-01-28T01:46:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/28/business/energy-environment/company-struggles-to-keep-us-in-the-uranium-enrichment-game.html",
+      "byline": "By Matthew L. Wald"
+    },
+    {
+      "headline": "Job Aid Zones Face a New Test in Coal Country",
+      "snippet": "Experts are skeptical that any federal initiative can combat the upheaval of lost coal jobs or the economic woes caused by remoteness, poor infrastructure and undereducated workers.",
+      "abstract": "Experts are skeptical that any federal initiative can combat the upheaval of lost coal jobs or the economic woes caused by remoteness, poor infrastructure and undereducated workers.",
+      "lead_paragraph": "HAZARD, Ky. — Joseph Nantz still looks back fondly at his job as a heavy machinery operator at the mountaintop coal mine here, helping to blast and cart away layers of rock to reveal seams of coal and then restore the rubble for a handsome $24 an hour.",
+      "publication_date": "2014-01-28T02:06:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/28/business/job-aid-zones-face-a-new-test-in-coal-country.html",
+      "byline": "By Annie Lowrey"
+    },
+    {
+      "headline": "Genetic Weapon Against Insects Raises Hope and Fear in Farming",
+      "snippet": "Scientists, looking for new weapons against insect pests in farming, have developed gene-silencing agents. But skeptics are concerned about potential threats to nontarget insects and even humans.",
+      "abstract": "Scientists, looking for new weapons against insect pests in farming, have developed gene-silencing agents. But skeptics are concerned about potential threats to nontarget insects and even humans.",
+      "lead_paragraph": "Scientists and biotechnology companies are developing what could become the next powerful weapon in the war on pests — one that harnesses a Nobel Prize-winning discovery to kill insects and pathogens by disabling their genes.",
+      "publication_date": "2014-01-28T02:14:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/28/business/energy-environment/genetic-weapon-against-insects-raises-hope-and-fear-in-farming.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Anxiety Rising Over Relations Between Japan and China",
+      "snippet": "A major topic of discussion at the World Economic Forum was the ties of two Asian neighbors with a long history of strained interactions.",
+      "abstract": "A major topic of discussion at the World Economic Forum was the ties of two Asian neighbors with a long history of strained interactions.",
+      "lead_paragraph": " DAVOS, Switzerland — Even with all the optimism about the global economy here last week at the annual meeting of the World Economic Forum, there was a remarkable economic and political risk that appeared to have been largely overlooked: The long-simmering battle between China and Japan may be close to boiling over. One top executive went so far as to describe the nations’ relationship as a “stealth war.”",
+      "publication_date": "2014-01-28T02:18:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/01/27/anxiety-rising-over-relations-between-japan-and-china/",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "Google Glass to Be Covered by Vision Care Insurer VSP",
+      "snippet": "In a sign of how wearable devices are entering the mainstream, a major optical insurance provider will subsidize frames and prescription lenses for customers buying Google Glass.",
+      "abstract": "In a sign of how wearable devices are entering the mainstream, a major optical insurance provider will subsidize frames and prescription lenses for customers buying Google Glass.",
+      "lead_paragraph": "SAN FRANCISCO — Google and VSP, the nation’s biggest optical health insurance provider, have struck a deal to offer subsidized frames and prescription lenses for Google Glass, the Internet-connected eyewear. ",
+      "publication_date": "2014-01-28T05:01:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/28/technology/google-glass-to-be-covered-by-vision-care-insurer-vsp.html",
+      "byline": "By Claire Cain Miller"
+    },
+    {
+      "headline": "Top Republicans to Call for Legal Status for Some Immigrants",
+      "snippet": "House leaders’ ideas include a path to legal status — but not citizenship — for many of the 11 million adult immigrants who are in the country illegally.",
+      "abstract": "House leaders’ ideas include a path to legal status — but not citizenship — for many of the 11 million adult immigrants who are in the country illegally.",
+      "lead_paragraph": "WASHINGTON — The House Republican leadership’s broad framework for overhauling the nation’s immigration laws will call this week for a path to legal status — but not citizenship — for many of the 11 million adult immigrants who are in the country illegally, according to aides who have seen the party’s statement of principles. For immigrants brought to the United States illegally as young children, the Republicans would offer a path to citizenship. ",
+      "publication_date": "2014-01-28T05:12:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/28/us/politics/backing-in-gop-for-legal-status-for-immigrants.html",
+      "byline": "By Jonathan Weisman and Ashley Parker"
+    },
+    {
+      "headline": "In State of the Union Address, Obama Vows to Act Alone on the Economy",
+      "snippet": "After five years of political combat, President Obama declared independence from Congress in his address, outlining a list of economic actions he will take without legislative approval.",
+      "abstract": "After five years of political combat, President Obama declared independence from Congress in his address, outlining a list of economic actions he will take without legislative approval.",
+      "lead_paragraph": "WASHINGTON — After five years of fractious political combat, President Obama declared independence from Congress on Tuesday as he vowed to tackle economic disparity with a series of limited initiatives on jobs, wages and retirement that he will enact without legislative approval.",
+      "publication_date": "2014-01-28T11:00:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/29/us/politics/obama-state-of-the-union.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Sign of a Chill: E.U. Doesn’t Set Table for Putin",
+      "snippet": "President Vladimir V. Putin of Russia arrived in Brussels absent the customary ceremony, a small sign that unrest in Ukraine has chilled Russian relations with Europe.",
+      "abstract": "President Vladimir V. Putin of Russia arrived in Brussels absent the customary ceremony, a small sign that unrest in Ukraine has chilled Russian relations with Europe.",
+      "lead_paragraph": "BRUSSELS — President Vladimir V. Putin of Russia has for years trumpeted grand ambitions for Moscow’s relations with the European Union, pushing to break down visa barriers and urging the creation of what he calls a “harmonious economic community stretching from Lisbon to Vladivostok.”",
+      "publication_date": "2014-01-28T14:01:59+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/29/world/europe/putin-russia-european-union.html",
+      "byline": "By Andrew Higgins"
+    }
+  ]
+}

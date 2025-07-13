@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2020-05-20",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "The Hot New Thing in Clubby Silicon Valley? An App Called Clubhouse",
+      "snippet": "For all the high-minded talk among techies, their new favorite app is an invite-only (so far) social network for mingling with one another.",
+      "abstract": "For all the high-minded talk among techies, their new favorite app is an invite-only (so far) social network for mingling with one another.",
+      "lead_paragraph": "SAN FRANCISCO — Marc Andreessen, a Silicon Valley investor, published a rallying cry last month that quickly ricocheted around the tech industry. In it, he placed the blame for America’s dismal response to the coronavirus on “smug complacency, this satisfaction with the status quo and the unwillingness to build.”",
+      "publication_date": "2020-05-19T19:03:56+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/19/technology/clubby-silicon-valley-app-clubhouse.html",
+      "byline": "By Erin Griffith and Taylor Lorenz"
+    },
+    {
+      "headline": "Mnuchin and Powell Warn of Economic Scarring, and Offer Divergent Solutions",
+      "snippet": "The Treasury secretary and Fed chair said economic damage could last. One prescribed rapid reopening, the other robust policy action.",
+      "abstract": "The Treasury secretary and Fed chair said economic damage could last. One prescribed rapid reopening, the other robust policy action.",
+      "lead_paragraph": "WASHINGTON — The United States economy faces irreparable damage from the coronavirus, the nation’s top economic policymakers warned on Tuesday, although they offered differing solutions on how to ease the blow to business that has thrown more than 20 million people out of work.",
+      "publication_date": "2020-05-19T20:08:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/19/us/politics/mnuchin-powell-senate-hearing.html",
+      "byline": "By Alan Rappeport and Jeanna Smialek"
+    },
+    {
+      "headline": "At Fox News, Mixed Message on Malaria Drug: ‘Very Safe’ vs. ‘It Will Kill You’",
+      "snippet": "For two days running, Neil Cavuto has warned that a drug taken by President Trump, hydroxychloroquine, carries risks. Some of his colleagues disagree.",
+      "abstract": "For two days running, Neil Cavuto has warned that a drug taken by President Trump, hydroxychloroquine, carries risks. Some of his colleagues disagree.",
+      "lead_paragraph": "The stress of the coronavirus pandemic is testing even the closest relationships.",
+      "publication_date": "2020-05-19T20:18:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/19/business/media/coronavirus-hydroxychloroquine-fox-news.html",
+      "byline": "By Michael M. Grynbaum"
+    },
+    {
+      "headline": "Johnson & Johnson to End Talc-Based Baby Powder Sales in North America",
+      "snippet": "The company has faced thousands of lawsuits from cancer patients who claim that its talc was contaminated with asbestos, a known carcinogen, and that the company knew of the risks.",
+      "abstract": "The company has faced thousands of lawsuits from cancer patients who claim that its talc was contaminated with asbestos, a known carcinogen, and that the company knew of the risks.",
+      "lead_paragraph": "Johnson & Johnson is discontinuing North American sales of its talc-based baby powder, a product that once defined the company’s wholesome image and that it has defended for decades even as it faced thousands of lawsuits filed by patients who say it caused cancer.",
+      "publication_date": "2020-05-19T20:49:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/19/business/johnson-baby-powder-sales-stopped.html",
+      "byline": "By Tiffany Hsu and Roni Caryn Rabin"
+    },
+    {
+      "headline": "Iran Quietly Lowers the Temperature With U.S.",
+      "snippet": "Despite the heated rhetoric on both sides, Iran has toned down its approach to the West on several fronts, and the U.S. has reciprocated.",
+      "abstract": "Despite the heated rhetoric on both sides, Iran has toned down its approach to the West on several fronts, and the U.S. has reciprocated.",
+      "lead_paragraph": "BAGHDAD — After years of increasing tensions that nearly led to war, Iran has moderated its approach to the West, shifting from a policy of provocation to one of limited cooperation. The change reflects an effort to avoid direct confrontation with the United States that the Iranians say could benefit President Trump in the November election.",
+      "publication_date": "2020-05-19T23:13:32+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/05/19/world/middleeast/iran-us-relations.html",
+      "byline": "By Alissa J. Rubin and Farnaz Fassihi"
+    },
+    {
+      "headline": "A City Locks Down to Fight Coronavirus, but Robots Come and Go",
+      "snippet": "Like many other places, a community 50 miles outside London went into quarantine. A fleet of delivery robots has been helping with the groceries.",
+      "abstract": "Like many other places, a community 50 miles outside London went into quarantine. A fleet of delivery robots has been helping with the groceries.",
+      "lead_paragraph": "If any place was prepared for quarantine, it was Milton Keynes. Two years before the pandemic, a start-up called Starship Technologies deployed a fleet of rolling delivery robots in the small city about 50 miles northwest of London.",
+      "publication_date": "2020-05-20T04:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/20/technology/delivery-robots-coronavirus-milton-keynes.html",
+      "byline": "By Cade Metz and Erin Griffith"
+    },
+    {
+      "headline": "Is a Pandemic the Right Time to Start a Business? It Just Might Be",
+      "snippet": "Previous financial crises gave rise to high-profile American companies. The spread of the coronavirus challenges entrepreneurs to meet new needs.",
+      "abstract": "Previous financial crises gave rise to high-profile American companies. The spread of the coronavirus challenges entrepreneurs to meet new needs.",
+      "lead_paragraph": "In March, as small businesses across the country were shutting down amid the spreading coronavirus pandemic, Shanel Fields was about to open one up.",
+      "publication_date": "2020-05-20T07:13:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/20/business/coronavirus-small-business-startup.html",
+      "byline": "By Amy Haimerl"
+    },
+    {
+      "headline": "Poor Americans Face Hurdles in Getting Promised Internet",
+      "snippet": "Broadband companies like Charter and Comcast vowed to help low-income people during the pandemic. But taking them up on the offer hasn’t always been easy.",
+      "abstract": "Broadband companies like Charter and Comcast vowed to help low-income people during the pandemic. But taking them up on the offer hasn’t always been easy.",
+      "lead_paragraph": "The people behind a nonprofit that helps workers at the famed Churchill Downs racetrack in Louisville, Ky., had spotted a great opportunity.",
+      "publication_date": "2020-05-20T09:00:31+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/20/technology/coronavirus-broadband-discounts.html",
+      "byline": "By David McCabe"
+    },
+    {
+      "headline": "How the ‘Plandemic’ Movie and Its Falsehoods Spread Widely Online",
+      "snippet": "Conspiracy theories about the pandemic have gained more traction than mainstream online events. Here’s how.",
+      "abstract": "Conspiracy theories about the pandemic have gained more traction than mainstream online events. Here’s how.",
+      "lead_paragraph": "There have been plenty of jaw-dropping digital moments during the coronavirus pandemic.",
+      "publication_date": "2020-05-20T09:00:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/20/technology/plandemic-movie-youtube-facebook-coronavirus.html",
+      "byline": "By Sheera Frenkel, Ben Decker and Davey Alba"
+    },
+    {
+      "headline": "As Reopening Starts, Americans Expect Recovery to Take Years",
+      "snippet": "Even those financially unaffected by the coronavirus shutdown don’t foresee a rapid rebound for the economy, a Times survey finds.",
+      "abstract": "Even those financially unaffected by the coronavirus shutdown don’t foresee a rapid rebound for the economy, a Times survey finds.",
+      "lead_paragraph": "Businesses are beginning to reopen and new coronavirus cases are declining, but Americans don’t expect life — or the economy — to return to normal any time soon.",
+      "publication_date": "2020-05-20T14:57:40+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/05/20/business/economy/coronavirus-economy-survey.html",
+      "byline": "By Ben Casselman and Jim Tankersley"
+    }
+  ]
+}

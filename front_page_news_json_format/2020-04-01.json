@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2020-04-01",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "‘Never Thought I Would Need It’: Americans Put Pride Aside to Seek Aid",
+      "snippet": "With coronavirus-related job losses, many workers are reluctantly seeking charity and unemployment benefits for the first time in their lives.",
+      "abstract": "With coronavirus-related job losses, many workers are reluctantly seeking charity and unemployment benefits for the first time in their lives.",
+      "lead_paragraph": "The cars arrived at the food bank in southern Dallas in a stream — a minivan, a Chevrolet Tahoe, a sedan with a busted window, a Jaguar of unclear vintage. Inside the vehicles sat people who scarcely could believe they needed to be there.",
+      "publication_date": "2020-04-01T00:01:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/03/31/us/virus-food-banks-unemployment.html",
+      "byline": "By Cara Buckley"
+    },
+    {
+      "headline": "Coronavirus Battle Creates a Global ‘Free-for-All’ to Find Masks",
+      "snippet": "Traders scour factories and warehouses, find planes and pilots and look for buyers as hospitals and governments beg for protective gear.",
+      "abstract": "Traders scour factories and warehouses, find planes and pilots and look for buyers as hospitals and governments beg for protective gear.",
+      "lead_paragraph": "SHANGHAI — Million-dollar wire transfers to strangers. Rumors of hidden supplies in forgotten warehouses. Wheeler-dealers trying to talk regulators and customs officials into letting that one precious shipment through.",
+      "publication_date": "2020-04-01T07:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/01/business/coronavirus-china-masks.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "Covid-19 Changed How the World Does Science, Together",
+      "snippet": "Never before, scientists say, have so many of the world’s researchers focused so urgently on a single topic. Nearly all other research has ground to a halt.",
+      "abstract": "Never before, scientists say, have so many of the world’s researchers focused so urgently on a single topic. Nearly all other research has ground to a halt.",
+      "lead_paragraph": "Using flag-draped memes and military terminology, the Trump administration and its Chinese counterparts have cast coronavirus research as national imperatives, sparking talk of a biotech arms race.",
+      "publication_date": "2020-04-01T09:00:28+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/01/world/europe/coronavirus-science-research-cooperation.html",
+      "byline": "By Matt Apuzzo and David D. Kirkpatrick"
+    },
+    {
+      "headline": "Why the Global Recession Could Last a Long Time",
+      "snippet": "Fears are growing that the worldwide economic downturn could be especially deep and lengthy, with recovery limited by continued anxiety.",
+      "abstract": "Fears are growing that the worldwide economic downturn could be especially deep and lengthy, with recovery limited by continued anxiety.",
+      "lead_paragraph": "LONDON — The world is almost certainly ensnared in a devastating recession delivered by the coronavirus pandemic.",
+      "publication_date": "2020-04-01T09:00:33+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/04/01/business/economy/coronavirus-recession.html",
+      "byline": "By Peter S. Goodman"
+    },
+    {
+      "headline": "Start-Ups Are Pummeled in the ‘Great Unwinding’",
+      "snippet": "Dozens have laid off thousands, slashed costs and changed their businesses to try to survive the pandemic. All that may not work.",
+      "abstract": "Dozens have laid off thousands, slashed costs and changed their businesses to try to survive the pandemic. All that may not work.",
+      "lead_paragraph": "SAN FRANCISCO — After a crush of travel cancellations in March, WanderJaunt, a short-term home rental start-up in San Francisco, laid off 56 of its 240 employees last week.",
+      "publication_date": "2020-04-01T13:00:15+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/04/01/technology/virus-start-ups-pummeled-layoffs-unwinding.html",
+      "byline": "By Erin Griffith"
+    }
+  ]
+}

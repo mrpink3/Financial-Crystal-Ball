@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-09-15",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "House Bill Raises Chance for Global Pact to Curb Corporate Tax Havens",
+      "snippet": "Several big details remain to be worked out before an international October deadline.",
+      "abstract": "Several big details remain to be worked out before an international October deadline.",
+      "lead_paragraph": "WASHINGTON — The prospect of the largest overhaul to the global tax system in a century took a step forward this week as top Democrats introduced a plan to rewrite tax rules for multinational companies in a way that would allow the United States to join the rest of the world in an effort to crack down on tax havens.",
+      "publication_date": "2021-09-14T21:33:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/14/us/house-bill-global-tax.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "As California Votes, It Rethinks Its Tradition of Direct Democracy",
+      "snippet": "Any proposed changes to a century-old recall law are likely to be met with stiff opposition from Republicans, who see it as one of the last avenues of influence in a Democratic-led state.",
+      "abstract": "Any proposed changes to a century-old recall law are likely to be met with stiff opposition from Republicans, who see it as one of the last avenues of influence in a Democratic-led state.",
+      "lead_paragraph": "SACRAMENTO — As Californians went to the polls on Tuesday to determine whether Gov. Gavin Newsom would be removed from office, the recall election had already spawned another campaign: to recall the recall.",
+      "publication_date": "2021-09-14T23:28:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/14/us/california-recall-constitutional-amendment.html",
+      "byline": "By Thomas Fuller, Maggie Astor and Conor Dougherty"
+    },
+    {
+      "headline": "Newsom’s Anti-Trump Recall Strategy Offers Republicans a Warning for 2022",
+      "snippet": "California Democrats were able to nationalize the vote — thanks to an avalanche of money, party discipline and, above all, an easily demonized opponent.",
+      "abstract": "California Democrats were able to nationalize the vote — thanks to an avalanche of money, party discipline and, above all, an easily demonized opponent.",
+      "lead_paragraph": "SAN LEANDRO, Calif. — California basks in its clairvoyance. “The future happens here first,” says Gov. Gavin Newsom, calling his state “America’s coming attraction.”",
+      "publication_date": "2021-09-15T09:00:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/15/us/politics/midterms-california-republicans-newsom.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "Climate Change Calls for Backup Power, and One Company Cashes In",
+      "snippet": "Generac, a Wisconsin-based manufacturer that dominates the market for standby home generators, is an unlikely Wall Street darling.",
+      "abstract": "Generac, a Wisconsin-based manufacturer that dominates the market for standby home generators, is an unlikely Wall Street darling.",
+      "lead_paragraph": "Living on the South Carolina coast means living under the threat of dangerous weather during storm season. But the added peril of the pandemic made Ann Freeman nervous.",
+      "publication_date": "2021-09-15T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/15/business/generac-climate-change-generators.html",
+      "byline": "By Matt Phillips"
+    },
+    {
+      "headline": "The Greatest Killer in New Orleans Wasn’t the Hurricane. It Was the Heat.",
+      "snippet": "A huge power failure after Hurricane Ida left vulnerable residents in sweltering apartments for days. At least 10 deaths in the city have been tied to the heat.",
+      "abstract": "A huge power failure after Hurricane Ida left vulnerable residents in sweltering apartments for days. At least 10 deaths in the city have been tied to the heat.",
+      "lead_paragraph": "NEW ORLEANS — In many ways, Iley Joseph’s one-bedroom apartment was an ideal place to ride out a hurricane. It was on the third floor — much too high to flood — of a building that was sturdy and new, part of a sleek, gated community for older residents like him.",
+      "publication_date": "2021-09-15T09:00:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/15/us/new-orleans-hurricane-ida-heat.html",
+      "byline": "By Nicholas Bogel-Burroughs and Katy Reckdahl"
+    },
+    {
+      "headline": "This Is Life in Rural Afghanistan After the Taliban Takeover",
+      "snippet": "Since the Taliban takeover, much of Afghanistan’s countryside has seen a big drop in violence after 20 years of fighting. “It has been a long time now since a bullet hit our homes.”",
+      "abstract": "Since the Taliban takeover, much of Afghanistan’s countryside has seen a big drop in violence after 20 years of fighting. “It has been a long time now since a bullet hit our homes.”",
+      "lead_paragraph": "CHAK-E WARDAK, Afghanistan — Sixty bone-rattling miles southwest of Kabul, remnants of America’s longest war are abundant. Pillaged outposts scatter the hilltops, and skeletons of burned-out police pickup trucks and Humvees litter the road that weaves through the valleys in between.",
+      "publication_date": "2021-09-15T09:00:33+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/15/world/Afghanistan-rural-life-under-Taliban.html",
+      "byline": "By Jim Huylebroek"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2013-02-13",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Bitterly Divided Senate Panel Backs Hagel for Defense",
+      "snippet": "The Senate Armed Services Committee on Tuesday approved the nomination of former Senator Chuck Hagel as defense secretary, sending it to the full Senate.",
+      "abstract": "The Senate Armed Services Committee on Tuesday approved the nomination of former Senator Chuck Hagel as defense secretary, sending it to the full Senate.",
+      "lead_paragraph": "WASHINGTON — After a combative two-hour debate that tested the bounds of Senate collegiality, the Armed Services Committee on Tuesday approved the nomination of former Senator Chuck Hagel as defense secretary on a sharply partisan vote.",
+      "publication_date": "2013-02-12T20:04:01+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/02/13/us/politics/hagel-faces-tense-panel-vote-on-his-pentagon-confirmation.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "In Europe, a Risk-Filled Choice for Britain",
+      "snippet": "As the country’s economic fortunes sag, the prospect of leaving the European Union jeopardizes Britain’s access to trade with the Continent.",
+      "abstract": "As the country’s economic fortunes sag, the prospect of leaving the European Union jeopardizes Britain’s access to trade with the Continent.",
+      "lead_paragraph": "LONDON — BM Catalysts, a British producer of catalytic converters and other car exhaust parts, is an example of the kind of successful exporter that might seem to validate the historic gamble that Prime Minister David Cameron has taken by raising the prospect of Britain’s departure from the European Union.",
+      "publication_date": "2013-02-12T20:21:34+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/02/13/business/global/britains-risk-filled-choice.html",
+      "byline": "By Landon Thomas Jr"
+    },
+    {
+      "headline": "Obama Pledges Push to Lift Economy for Middle Class",
+      "snippet": "President Obama pledged to fight for a higher minimum wage, more government investment in schools and clean energy, and deficit reduction through spending cuts and tax increases.",
+      "abstract": "President Obama pledged to fight for a higher minimum wage, more government investment in schools and clean energy, and deficit reduction through spending cuts and tax increases.",
+      "lead_paragraph": "WASHINGTON — President Obama, seeking to put the prosperity and promise of the middle class at the heart of his second-term agenda, called on Congress on Tuesday night to raise the federal minimum wage to $9 an hour, saying that would lift millions out of poverty and energize the economy.",
+      "publication_date": "2013-02-12T20:30:47+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/02/13/us/politics/obama-delivers-state-of-the-union-address.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Dispute Develops Over Discount Drug Program",
+      "snippet": "Drug makers say a system of discounts intended for low-income and uninsured patients is being abused, but hospitals say they can’t do business without it.",
+      "abstract": "Drug makers say a system of discounts intended for low-income and uninsured patients is being abused, but hospitals say they can’t do business without it.",
+      "lead_paragraph": "When a private oncology practice in Memphis formed a partnership with a nearby hospital in late 2011, the organizations proclaimed that the deal would “transform cancer care” in the region.",
+      "publication_date": "2013-02-12T21:47:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/02/13/business/dispute-develops-over-340b-discount-drug-program.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Comcast Buys Rest of NBC in Early Sale",
+      "snippet": "The purchase completes a sales process that was expected to take several more years.",
+      "abstract": "The purchase completes a sales process that was expected to take several more years.",
+      "lead_paragraph": "9:28 a.m. | Updated Comcast gave NBCUniversal a $16.7 billion vote of confidence on Tuesday, agreeing to pay that sum to acquire General Electric’s remaining 49 percent stake in the entertainment company. The deal accelerated a sales process that was expected to take several more years.",
+      "publication_date": "2013-02-12T21:54:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://mediadecoder.blogs.nytimes.com/2013/02/12/comcast-buying-g-e-s-stake-in-nbcuniversal-for-16-7-billion/",
+      "byline": "By Amy Chozick and Brian Stelter"
+    },
+    {
+      "headline": "Authorities to Determine if Remains Are of California Fugitive",
+      "snippet": "Officials will begin forensic tests to determine if charred human remains in a burned-out cabin are those of Christopher J. Dorner, the former Los Angeles police officer sought in the region’s largest manhunt.",
+      "abstract": "Officials will begin forensic tests to determine if charred human remains in a burned-out cabin are those of Christopher J. Dorner, the former Los Angeles police officer sought in the region’s largest manhunt.",
+      "lead_paragraph": "BIG BEAR LAKE, Calif. — After a shootout and a forest standoff on Tuesday afternoon, Christopher J. Dorner, the former Los Angeles police officer sought in the region’s largest manhunt, was apparently killed in a cabin as it burned down around him, but officials said they needed time to sort through the rubble. ",
+      "publication_date": "2013-02-12T22:01:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/02/13/us/officials-report-shootout-with-fugitive-ex-officer.html",
+      "byline": "By Ian Lovett, Jennifer Medina, Michael Wilson and Fernanda Santos"
+    },
+    {
+      "headline": "In Shovels, a Remedy for Jobs and Growth",
+      "snippet": "Economic growth remains blighted by the recession, and Washington’s policy makers could be doing more about it, like investing in infrastructure.",
+      "abstract": "Economic growth remains blighted by the recession, and Washington’s policy makers could be doing more about it, like investing in infrastructure.",
+      "lead_paragraph": "The budget deficit in 2013 is expected to fall below $1 trillion for the first time in five years. Perhaps policy makers in Washington can now focus on the other $1 trillion deficit, one that gets next to no attention yet is much more threatening to the well-being of American families: our sluggish economic growth. ",
+      "publication_date": "2013-02-12T23:19:35+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2013/02/13/business/in-a-shovel-a-cure-for-stunted-economic-growth.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Silicon Valley and Immigrant Groups Find Common Cause",
+      "snippet": "Silicon Valley executives, who have long pushed for more visas for foreign-born experts in math and science, are joining forces with immigration advocates.",
+      "abstract": "Silicon Valley executives, who have long pushed for more visas for foreign-born experts in math and science, are joining forces with immigration advocates.",
+      "lead_paragraph": "SAN FRANCISCO — What do computer programmers and illegal immigrants have to do with each other?",
+      "publication_date": "2013-02-12T23:23:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/02/13/business/tech-companies-and-immigrant-advocates-join-forces.html",
+      "byline": "By Somini Sengupta"
+    },
+    {
+      "headline": "Big Banks Are Told to Review Their Own Foreclosures",
+      "snippet": "An independent audit failed to give speedy relief to homeowners, but housing advocates are worried that banks will take shortcuts when they do it themselves.",
+      "abstract": "An independent audit failed to give speedy relief to homeowners, but housing advocates are worried that banks will take shortcuts when they do it themselves.",
+      "lead_paragraph": "Washington is seeking help from an unlikely group in its effort to distribute billions of dollars to struggling homeowners in foreclosure: the same banks accused of abusing homeowners with shoddy foreclosure practices.",
+      "publication_date": "2013-02-13T02:01:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2013/02/12/big-banks-are-told-to-review-their-own-foreclosures/",
+      "byline": "By Jessica Silver-Greenberg and Ben Protess"
+    },
+    {
+      "headline": "‘Constant Drumbeat’\r\nSped the Pope’s Exit",
+      "snippet": "“It wasn’t one thing, but a whole combination of them” that caused Pope Benedict XVI to resign, an expert said. Scandals have battered the papacy relentlessly.",
+      "abstract": "“It wasn’t one thing, but a whole combination of them” that caused Pope Benedict XVI to resign, an expert said. Scandals have battered the papacy relentlessly.",
+      "lead_paragraph": "VATICAN CITY — Just days after Pope Benedict XVI returned from a 2010 trip to Britain where he met the queen and mended fences with the Anglicans, prosecutors in Rome impounded $30 million from the Vatican Bank in an investigation linked to money laundering.",
+      "publication_date": "2013-02-13T02:30:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2013/02/13/world/europe/constant-drumbeat-hastened-the-popes-exit.html",
+      "byline": "By Rachel Donadio"
+    }
+  ]
+}

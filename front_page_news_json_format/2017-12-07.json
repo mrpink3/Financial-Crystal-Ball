@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2017-12-07",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "A Democratic Chorus Rises in the Senate: ‘Franken Should Resign’",
+      "snippet": "By Wednesday evening, there was widespread expectation in the Democratic caucus that Senator Al Franken would step down. He has scheduled an announcement on his future in the Senate for Thursday.",
+      "abstract": "By Wednesday evening, there was widespread expectation in the Democratic caucus that Senator Al Franken would step down. He has scheduled an announcement on his future in the Senate for Thursday.",
+      "lead_paragraph": "WASHINGTON — Support for Al Franken all but collapsed on Wednesday among his Democratic colleagues in the Senate, with dozens calling for him to resign after a sixth woman said he had made an improper advance on her.",
+      "publication_date": "2017-12-06T16:53:45+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/06/us/politics/franken-harrassment-resign.html",
+      "byline": "By Yamiche Alcindor and Nicholas Fandos"
+    },
+    {
+      "headline": "Bitcoin Hasn’t Replaced Cash, but Investors Don’t Care",
+      "snippet": "Investors have lifted Bitcoin past $13,000, likening it to gold as a place to store money. Early followers who hoped for a faster, cheaper way to pay for things are looking elsewhere.",
+      "abstract": "Investors have lifted Bitcoin past $13,000, likening it to gold as a place to store money. Early followers who hoped for a faster, cheaper way to pay for things are looking elsewhere.",
+      "lead_paragraph": "SAN FRANCISCO — When Bitcoin first entered the public consciousness a few years back, a handful of large companies like Dell and Expedia announced that they would begin accepting the virtual currency. But there weren’t many takers.",
+      "publication_date": "2017-12-06T20:57:17+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/06/technology/bitcoin-payments-gold.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "Mystery Buyer of $450 Million ‘Salvator Mundi’ Was a Saudi Prince",
+      "snippet": "The prince bought Leonardo da Vinci’s portrait of Christ, according to documents reviewed by The New York Times.",
+      "abstract": "The prince bought Leonardo da Vinci’s portrait of Christ, according to documents reviewed by The New York Times.",
+      "lead_paragraph": "LONDON — He is a little-known Saudi prince from a remote branch of the royal family, with no history as a major art collector, and no publicly known source of great wealth. But the prince, Bader bin Abdullah bin Mohammed bin Farhan al-Saud, is the mystery buyer of Leonardo da Vinci’s painting “Salvator Mundi,” which fetched a record $450.3 million at auction last month, documents show.",
+      "publication_date": "2017-12-06T23:18:12+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/06/world/middleeast/salvator-mundi-da-vinci-saudi-prince-bader.html",
+      "byline": "By David D. Kirkpatrick"
+    },
+    {
+      "headline": "Coinbase: The Heart of the Bitcoin Frenzy",
+      "snippet": "The San Francisco start-up has been at the center of the virtual currency boom. But like any young company, it is experiencing growing pains.",
+      "abstract": "The San Francisco start-up has been at the center of the virtual currency boom. But like any young company, it is experiencing growing pains.",
+      "lead_paragraph": "SAN FRANCISCO — The booming stock market of the 1920s had the New York Stock Exchange. The tech bubble of the 1990s had Nasdaq and E-Trade. And the virtual currency market of the last year has had Coinbase. ",
+      "publication_date": "2017-12-07T00:41:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/06/technology/coinbase-bitcoin.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "For Trump, an Embassy in Jerusalem Is a Political Decision, Not a Diplomatic One",
+      "snippet": "The president seemed to relish playing a familiar role: the political insurgent, defying foreign policy orthodoxy on behalf of the people who elected him.",
+      "abstract": "The president seemed to relish playing a familiar role: the political insurgent, defying foreign policy orthodoxy on behalf of the people who elected him.",
+      "lead_paragraph": "WASHINGTON — Ten days before Donald J. Trump took office, Sheldon G. Adelson went to Trump Tower for a private meeting. Afterward, Mr. Adelson, the casino billionaire and Republican donor, called an old friend, Morton A. Klein, to report that Mr. Trump told him that moving the American Embassy from Tel Aviv to Jerusalem would be a major priority.",
+      "publication_date": "2017-12-07T01:52:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/06/us/politics/trump-embassy-jerusalem-israel.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "Tax Changes Are Coming Next Year, but You Can Plan for Them Now",
+      "snippet": "High-earning taxpayers cannot afford to wait and see what happens with the tax overhaul; they need to act this month before certain opportunities go away.",
+      "abstract": "High-earning taxpayers cannot afford to wait and see what happens with the tax overhaul; they need to act this month before certain opportunities go away.",
+      "lead_paragraph": "The Senate and House may spend most of the month ironing out the differences in their tax bills. Or they may be delayed by other legislation and not enact a new tax code until the new year.",
+      "publication_date": "2017-12-07T10:00:21+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/07/your-money/tax-overhaul-wealth.html",
+      "byline": "By Paul Sullivan"
+    },
+    {
+      "headline": "G.E. Cuts Jobs as It Navigates a Shifting Energy Market",
+      "snippet": "General Electric is cutting 18 percent of the jobs in its power division as it tries to keep pace with seismic shifts in the global energy market.",
+      "abstract": "General Electric is cutting 18 percent of the jobs in its power division as it tries to keep pace with seismic shifts in the global energy market.",
+      "lead_paragraph": "General Electric is racing to keep pace with seismic shifts in the global energy industry, as its new leadership moves to eliminate bloat and grapples with the fallout from earlier, ill-timed decisions.",
+      "publication_date": "2017-12-07T12:55:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/12/07/business/general-electric-power-jobs.html",
+      "byline": "By Tiffany Hsu and Clifford Krauss"
+    },
+    {
+      "headline": "Al Franken to Resign From Senate Amid Harassment Allegations",
+      "snippet": "The Democratic senator of Minnesota announced his plans to resign, a day after a sixth woman accused him of misconduct and dozens of his colleagues called for him to step down.",
+      "abstract": "The Democratic senator of Minnesota announced his plans to resign, a day after a sixth woman accused him of misconduct and dozens of his colleagues called for him to step down.",
+      "lead_paragraph": "WASHINGTON — Senator Al Franken of Minnesota, in an emotional speech on the Senate floor, announced on Thursday that he would resign from Congress, the most prominent figure in a growing list of lawmakers felled by charges of sexual harassment or indiscretions.",
+      "publication_date": "2017-12-07T15:47:00+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/12/07/us/politics/al-franken-senate-sexual-harassment.html",
+      "byline": "By Sheryl Gay Stolberg, Yamiche Alcindor and Nicholas Fandos"
+    }
+  ]
+}

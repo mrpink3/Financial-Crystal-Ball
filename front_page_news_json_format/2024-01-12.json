@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2024-01-12",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Why Bill Belichick Fit In So Well, for So Long, in New England",
+      "snippet": "The head coach of the Patriots, who has parted ways with the team after 24 years, won six Super Bowls with a taciturn approach that rewarded performance over potential.",
+      "abstract": "The head coach of the Patriots, who has parted ways with the team after 24 years, won six Super Bowls with a taciturn approach that rewarded performance over potential.",
+      "lead_paragraph": "It is hard to make an impression, and even harder to make history in a place as old and momentous as New England. The measuring stick is so high.",
+      "publication_date": "2024-01-11T16:47:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/11/us/bill-belichick-new-england-patriots.html",
+      "byline": "By Bill Pennington"
+    },
+    {
+      "headline": "F.A.A. Investigating Whether Boeing 737 Max 9 Conformed to Approved Design",
+      "snippet": "Regulators are examining whether Boeing complied with safety rules on a plane that lost a fuselage panel while in flight last week.",
+      "abstract": "Regulators are examining whether Boeing complied with safety rules on a plane that lost a fuselage panel while in flight last week.",
+      "lead_paragraph": "The Federal Aviation Administration said on Thursday that it had opened an investigation into whether Boeing failed to ensure that its 737 Max 9 plane was safe and manufactured to match the design approved by the agency.",
+      "publication_date": "2024-01-11T17:21:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/11/business/faa-boeing-737-boeing-max-investigation.html",
+      "byline": "By Mark Walker"
+    },
+    {
+      "headline": "U.S. Missiles Strike Targets in Yemen Linked to the Houthi Militia",
+      "snippet": "The American-led strikes came in response to more than two dozen Houthi drone and missile attacks against commercial shipping in the Red Sea since the Israel-Hamas war began.",
+      "abstract": "The American-led strikes came in response to more than two dozen Houthi drone and missile attacks against commercial shipping in the Red Sea since the Israel-Hamas war began.",
+      "lead_paragraph": "The United States and five of its allies on Thursday carried out military strikes against more than a dozen targets in Yemen controlled by the Iranian-backed Houthi militia, in an expansion of the war in the Middle East that the Biden administration had sought to avoid for the past three months.",
+      "publication_date": "2024-01-11T23:49:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/11/us/politics/us-houthi-missile-strikes.html",
+      "byline": "By Eric Schmitt and Helene Cooper"
+    },
+    {
+      "headline": "Taiwan Party, Reviled by China, Battles to Prove Its Staying Power",
+      "snippet": "The Democratic Progressive Party has transformed Taiwan into a bastion against Chinese power. Now it is promising a mix of change and continuity.",
+      "abstract": "The Democratic Progressive Party has transformed Taiwan into a bastion against Chinese power. Now it is promising a mix of change and continuity.",
+      "lead_paragraph": "Nearly four decades ago, a group of lawyers, intellectuals and activists assembled in a hotel ballroom in Taipei to found an illegal political party dedicated to ending authoritarian rule in Taiwan.",
+      "publication_date": "2024-01-12T05:01:34+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/12/world/asia/taiwan-election-democratic-progressive-party.html",
+      "byline": "By Chris Buckley, Amy Chang Chien and Lam Yik Fei"
+    },
+    {
+      "headline": "The Billionaires Spending a Fortune to Lure Scientists Away From Universities",
+      "snippet": "Arena BioWorks is promising big paydays to nearly 100 researchers from Harvard, M.I.T. and other prestigious institutions.",
+      "abstract": "Arena BioWorks is promising big paydays to nearly 100 researchers from Harvard, M.I.T. and other prestigious institutions.",
+      "lead_paragraph": "In an unmarked laboratory stationed between the campuses of Harvard and the Massachusetts Institute of Technology, a splinter group of scientists is hunting for the next billion-dollar drug.",
+      "publication_date": "2024-01-12T10:00:43+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html",
+      "byline": "By Rob Copeland"
+    },
+    {
+      "headline": "Biggest U.S. Banks Earn Billions, Even After Insurance Bill",
+      "snippet": "JPMorgan Chase, Bank of America and Wells Fargo reported healthy quarterly profits. Citigroup said its ongoing restructuring would result in about 20,000 job cuts.",
+      "abstract": "JPMorgan Chase, Bank of America and Wells Fargo reported healthy quarterly profits. Citigroup said its ongoing restructuring would result in about 20,000 job cuts.",
+      "lead_paragraph": "The nation’s largest banks are churning out profits as interest rates remain high, even though the lenders have had to set aside billions of dollars to replenish a deposit insurance fund that was heavily depleted by a crisis among midsize banks last spring.",
+      "publication_date": "2024-01-12T14:22:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/12/business/citibank-morgan-stanley-bank-america-wells-fargo.html",
+      "byline": "By Emily Flitter and Stacy Cowley"
+    }
+  ]
+}

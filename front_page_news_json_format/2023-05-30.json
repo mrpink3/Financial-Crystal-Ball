@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2023-05-30",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "A British Reporter Had a Big #MeToo Scoop. Her Editor Killed It.",
+      "snippet": "Seven women say that a star columnist groped them or made unwanted sexual advances. But Britain’s news media has a complicated relationship with outing its own.",
+      "abstract": "Seven women say that a star columnist groped them or made unwanted sexual advances. But Britain’s news media has a complicated relationship with outing its own.",
+      "lead_paragraph": "Inside the Financial Times newsroom this winter, one of its star investigative reporters, Madison Marriage, had a potentially explosive scoop involving another newspaper.",
+      "publication_date": "2023-05-30T07:00:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/30/world/europe/me-too-guardian-financial-times-madison-marriage.html",
+      "byline": "By Jane Bradley"
+    },
+    {
+      "headline": "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn",
+      "snippet": "Leaders from OpenAI, Google DeepMind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.",
+      "abstract": "Leaders from OpenAI, Google DeepMind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons.",
+      "lead_paragraph": "A group of industry leaders warned on Tuesday that the artificial intelligence technology they were building might one day pose an existential threat to humanity and should be considered a societal risk on a par with pandemics and nuclear wars.",
+      "publication_date": "2023-05-30T09:01:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "G.O.P. Revolts Over Debt Limit Deal as Bill Moves Toward a House Vote",
+      "snippet": "Despite growing Republican opposition, a key committee voted to move the bill forward to the House floor.",
+      "abstract": "Despite growing Republican opposition, a key committee voted to move the bill forward to the House floor.",
+      "lead_paragraph": "A bipartisan deal to suspend the federal debt ceiling advanced on Tuesday night toward a climactic House vote despite a rebellion by hard-right Republicans who said the party was squandering a chance to force fundamental changes in government spending.",
+      "publication_date": "2023-05-30T09:10:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/30/us/debt-limit-bill-house-rules-committee.html",
+      "byline": "By Carl Hulse and Catie Edmondson"
+    },
+    {
+      "headline": "Companies Push Prices Higher, Protecting Profits but Adding to Inflation",
+      "snippet": "Corporate profits have been bolstered by higher prices even as some of the costs of doing business have fallen in recent months.",
+      "abstract": "Corporate profits have been bolstered by higher prices even as some of the costs of doing business have fallen in recent months.",
+      "lead_paragraph": "The prices of oil, transportation, food ingredients and other raw materials have fallen in recent months as the shocks stemming from the pandemic and the war in Ukraine have faded. Yet many big businesses have continued raising prices at a rapid clip.",
+      "publication_date": "2023-05-30T09:13:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/05/30/business/economy/inflation-companies-profits-higher-prices.html",
+      "byline": "By Talmon Joseph Smith and Joe Rennison"
+    },
+    {
+      "headline": "Elizabeth Holmes Reports to Prison to Begin More Than 11-Year Sentence",
+      "snippet": "The disgraced founder of the blood testing start-up Theranos, who was convicted of fraud, turned herself in at a minimum-security prison in Texas.",
+      "abstract": "The disgraced founder of the blood testing start-up Theranos, who was convicted of fraud, turned herself in at a minimum-security prison in Texas.",
+      "lead_paragraph": "Elizabeth Holmes, the disgraced entrepreneur who was convicted of defrauding investors at her failed blood testing start-up, Theranos, reported to a federal prison in Texas on Tuesday to begin her 11-year, three-month sentence.",
+      "publication_date": "2023-05-30T15:21:51+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/05/30/technology/elizabeth-holmes-theranos-prison.html",
+      "byline": "By Erin Griffith"
+    }
+  ]
+}

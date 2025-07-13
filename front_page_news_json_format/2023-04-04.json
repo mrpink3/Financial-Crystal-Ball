@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2023-04-04",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "DeSantis and Disney Clash Anew Over Florida Theme Park’s Authority",
+      "snippet": "The Florida governor wants the state inspector general to look into Disney’s efforts to limit oversight of Walt Disney World. The company called his action “anti-business.”",
+      "abstract": "The Florida governor wants the state inspector general to look into Disney’s efforts to limit oversight of Walt Disney World. The company called his action “anti-business.”",
+      "lead_paragraph": "Gov. Ron DeSantis of Florida and the Walt Disney Company clashed anew on Monday, with the governor requesting an investigation into Disney’s effort to sidestep state oversight of its theme parks and Robert A. Iger, Disney’s chief executive, blasting Mr. DeSantis as “anti-business” and “anti-Florida.”",
+      "publication_date": "2023-04-03T16:29:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/03/business/media/ron-desantis-disney-world-florida.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Millions on Medicaid May Soon Lose Coverage as Pandemic Protections Expire",
+      "snippet": "A requirement that states keep people on Medicaid during the coronavirus pandemic has come to an end, and 15 million people could lose their coverage as a result.",
+      "abstract": "A requirement that states keep people on Medicaid during the coronavirus pandemic has come to an end, and 15 million people could lose their coverage as a result.",
+      "lead_paragraph": "KANSAS CITY, Mo. — In a closet-sized windowless office, Kialah Marshall maintains an Excel spreadsheet with a prosaic title, “Medicaid Unwinding,” the source material for a mind-numbing routine.",
+      "publication_date": "2023-04-03T17:41:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/03/us/politics/medicaid-enrollment-pandemic.html",
+      "byline": "By Noah Weiland"
+    },
+    {
+      "headline": "China Strikes Back at U.S. Chip Maker Even as It Signals Openness",
+      "snippet": "Beijing’s security review of Micron Technology, which has deep roots in China, could have wide-ranging ramifications for other foreign businesses.",
+      "abstract": "Beijing’s security review of Micron Technology, which has deep roots in China, could have wide-ranging ramifications for other foreign businesses.",
+      "lead_paragraph": "When top Chinese officials held receptions for dozens of American and European business executives at back-to-back annual economic forums last week, the intended message was clear: China is open for business.",
+      "publication_date": "2023-04-04T06:36:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/04/04/business/micron-china-investigation.html",
+      "byline": "By Chang Che and John Liu"
+    },
+    {
+      "headline": "Instant Videos Could Represent the Next Leap in A.I. Technology",
+      "snippet": "A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.",
+      "abstract": "A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.",
+      "lead_paragraph": "Ian Sansavera, a software architect at a New York start-up called Runway AI, typed a short description of what he wanted to see in a video. “A tranquil river in the forest,” he wrote.",
+      "publication_date": "2023-04-04T09:00:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/04/04/technology/runway-ai-videos.html",
+      "byline": "By Cade Metz"
+    }
+  ]
+}

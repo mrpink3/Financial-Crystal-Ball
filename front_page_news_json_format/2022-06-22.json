@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2022-06-22",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’",
+      "snippet": "The technology giant will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool.",
+      "abstract": "The technology giant will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool.",
+      "lead_paragraph": "For years, activists and academics have been raising concerns that facial analysis software that claims to be able to identify a person’s age, gender and emotional state can be biased, unreliable or invasive — and shouldn’t be sold.",
+      "publication_date": "2022-06-21T16:02:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
+      "byline": "By Kashmir Hill"
+    },
+    {
+      "headline": "Meta Agrees to Alter Ad Technology in Settlement With U.S.",
+      "snippet": "The Justice Department had accused Meta’s housing advertising system of discriminating against Facebook users based on their race, gender, religion and other characteristics.",
+      "abstract": "The Justice Department had accused Meta’s housing advertising system of discriminating against Facebook users based on their race, gender, religion and other characteristics.",
+      "lead_paragraph": "SAN FRANCISCO — Meta on Tuesday agreed to alter its ad technology and pay a penalty of $115,054, in a settlement with the Justice Department over claims that the company’s ad systems had discriminated against Facebook users by restricting who was able to see housing ads on the platform based on their race, gender and ZIP code.",
+      "publication_date": "2022-06-21T18:16:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/21/technology/meta-ad-targeting-settlement.html",
+      "byline": "By Mike Isaac"
+    },
+    {
+      "headline": "‘There Is Nowhere I Feel Safe’: Election Officials Describe Threats Fueled by Trump",
+      "snippet": "“Do you know how it feels to have the president of the United States target you?’’ Ruby Freeman, a Black election worker from Georgia, told the Jan. 6 committee.",
+      "abstract": "“Do you know how it feels to have the president of the United States target you?’’ Ruby Freeman, a Black election worker from Georgia, told the Jan. 6 committee.",
+      "lead_paragraph": "WASHINGTON — Rusty Bowers, the Republican speaker of Arizona’s House, braced every weekend for hordes of Trump supporters, some with weapons, who swarmed his home and blared videos that called him a pedophile.",
+      "publication_date": "2022-06-21T23:53:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/21/us/politics/jan-6-trump-threats.html",
+      "byline": "By Catie Edmondson"
+    },
+    {
+      "headline": "Companies Brace for Impact of New Forced Labor Law",
+      "snippet": "Billions of dollars could be at stake as a law banning imports of some products from China goes into effect.",
+      "abstract": "Billions of dollars could be at stake as a law banning imports of some products from China goes into effect.",
+      "lead_paragraph": "WASHINGTON — A sweeping new law aimed at cracking down on Chinese forced labor could have significant — and unanticipated — ramifications for American companies and consumers.",
+      "publication_date": "2022-06-22T04:00:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/22/us/politics/xinjiang-uyghur-forced-labor-law.html",
+      "byline": "By Ana Swanson"
+    },
+    {
+      "headline": "Linchpin of Ukrainian Defiance, a Southern City Endures Russian Barrage",
+      "snippet": "Without its Black Sea coast, a landlocked Ukraine would struggle. Mykolaiv is determined that won’t happen.",
+      "abstract": "Without its Black Sea coast, a landlocked Ukraine would struggle. Mykolaiv is determined that won’t happen.",
+      "lead_paragraph": "MYKOLAIV, Ukraine — There is no door on Anna Svetlaya’s fridge. A Russian missile blew it off the other day. The detached door saved her, protecting her chest from shrapnel as she passed out in a pool of blood.",
+      "publication_date": "2022-06-22T04:01:14+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/22/world/europe/ukraine-mykolaiv-russia.html",
+      "byline": "By Roger Cohen and Laetitia Vancon"
+    },
+    {
+      "headline": "Biden Pushes Congress for Three-Month Gas Tax Holiday",
+      "snippet": "Vulnerable Democrats have championed the move ahead of the midterm elections, but experts remain skeptical that suspending the federal tax would benefit consumers much.",
+      "abstract": "Vulnerable Democrats have championed the move ahead of the midterm elections, but experts remain skeptical that suspending the federal tax would benefit consumers much.",
+      "lead_paragraph": "WASHINGTON — With fuel prices near record highs, President Biden on Wednesday urged Congress to temporarily suspend the federal gas tax and give Americans “just a little bit of breathing room,” even as the proposal faced dim prospects on Capitol Hill.",
+      "publication_date": "2022-06-22T09:00:33+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/22/us/politics/biden-gas-tax-holiday.html",
+      "byline": "By Zolan Kanno-Youngs and Lydia DePillis"
+    },
+    {
+      "headline": "First Pineapples, Now Fish: To Pressure Taiwan, China Flexes Economic Muscle",
+      "snippet": "Taiwan’s lucrative grouper industry is bracing for heavy losses after China’s recent ban on imports of the fish from the island.",
+      "abstract": "Taiwan’s lucrative grouper industry is bracing for heavy losses after China’s recent ban on imports of the fish from the island.",
+      "lead_paragraph": "FANGLIAO, Taiwan — Lin Chun-lai bought his grouper farm in southern Taiwan about a decade ago with an eye on mainland China’s growing appetite for live fish. In just a few years, the former electrician made enough money to comfortably support his family of four and even open a small inn.",
+      "publication_date": "2022-06-22T09:00:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/22/business/china-taiwan-grouper-ban.html",
+      "byline": "By Amy Chang Chien"
+    },
+    {
+      "headline": "Powell says the Fed is ‘not trying to provoke’ a recession, but it is ‘certainly a possibility.’",
+      "snippet": "Jerome H. Powell, the chair of the Federal Reserve, testified before a Senate committee at a moment of rapid inflation and rising interest rates.",
+      "abstract": "Jerome H. Powell, the chair of the Federal Reserve, testified before a Senate committee at a moment of rapid inflation and rising interest rates.",
+      "lead_paragraph": "Jerome H. Powell, the chair of the Federal Reserve, said that the central bank might be able to lower rapid inflation without tipping America into a painful downturn, though he cautioned that pulling it off would be “very challenging” to achieve and that a recession is “certainly a possibility.”",
+      "publication_date": "2022-06-22T13:37:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/22/business/powell-fed-inflation-recession.html",
+      "byline": "By Jeanna Smialek"
+    }
+  ]
+}

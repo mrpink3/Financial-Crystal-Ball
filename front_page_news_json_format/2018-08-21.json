@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2018-08-21",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Brett Kavanaugh Urged Graphic Questions in Clinton Inquiry",
+      "snippet": "A newly released memo shows that Mr. Kavanaugh, President Trump’s Supreme Court pick, took a relentlessly tough stance as a young lawyer investigating Bill Clinton’s affair with Monica Lewinsky.",
+      "abstract": "A newly released memo shows that Mr. Kavanaugh, President Trump’s Supreme Court pick, took a relentlessly tough stance as a young lawyer investigating Bill Clinton’s affair with Monica Lewinsky.",
+      "lead_paragraph": "WASHINGTON — Brett M. Kavanaugh, President Trump’s Supreme Court nominee, urged prosecutors investigating President Bill Clinton to question him in graphic detail about his sexual relationship with Monica Lewinsky, a White House intern, according to a memorandum released on Monday by the National Archives.",
+      "publication_date": "2018-08-20T16:56:29+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/20/us/politics/brett-kavanaugh-clinton-starr.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "A Chinese Pharmacist Found Out He Had Cancer. Then He Vanished.",
+      "snippet": "Rather than burden his parents with the expense of his treatment, Tang Gongwei chose to disappear.",
+      "abstract": "Rather than burden his parents with the expense of his treatment, Tang Gongwei chose to disappear.",
+      "lead_paragraph": "ZHANGJIAJIE, China — Tang Chunwu set off from his room in a ramshackle inn just after sunrise, the beginning of Day 92 in his search for his son.",
+      "publication_date": "2018-08-20T18:30:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/20/business/china-missing-pharmacist.html",
+      "byline": "By Sui-Lee Wee and Elsie Chen"
+    },
+    {
+      "headline": "‘We Cannot Afford This’: Malaysia Pushes Back Against China’s Vision",
+      "snippet": "A country that once courted Chinese investment now fears becoming overly indebted for big projects that are neither viable nor necessary — except to China.",
+      "abstract": "A country that once courted Chinese investment now fears becoming overly indebted for big projects that are neither viable nor necessary — except to China.",
+      "lead_paragraph": "KUANTAN, Malaysia — In the world’s most vital maritime chokepoint, through which much of Asian trade passes, a Chinese power company is investing in a deepwater port large enough to host an aircraft carrier. Another state-owned Chinese company is revamping a harbor along the fiercely contested South China Sea.",
+      "publication_date": "2018-08-20T18:33:29+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/20/world/asia/china-malaysia.html",
+      "byline": "By Hannah Beech"
+    },
+    {
+      "headline": "Companies Warn More China Tariffs Will Cripple Them and Hurt Consumers",
+      "snippet": "The Trump administration, which will hold trade talks with the Chinese this week, began six days of hearings on its proposal to tax another $200 billion worth of Chinese goods.",
+      "abstract": "The Trump administration, which will hold trade talks with the Chinese this week, began six days of hearings on its proposal to tax another $200 billion worth of Chinese goods.",
+      "lead_paragraph": "WASHINGTON — As the United States and China prepare to resume fractious trade talks this week, executives from American companies flocked to Washington on Monday to warn the Trump administration that imposing tariffs on an additional $200 billion worth of Chinese goods would cripple their businesses and raise prices on everything from bicycles to car seats to refrigerators.",
+      "publication_date": "2018-08-20T23:51:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/20/us/politics/china-tariffs-businesses.html",
+      "byline": "By Alan Rappeport"
+    },
+    {
+      "headline": "New Russian Hacking Targeted Republican Groups, Microsoft Says",
+      "snippet": "Microsoft was surprised not that recent “spear phishing” attempts had occurred, but that they targeted traditional conservative think tanks. Those groups have been critical of Russia.",
+      "abstract": "Microsoft was surprised not that recent “spear phishing” attempts had occurred, but that they targeted traditional conservative think tanks. Those groups have been critical of Russia.",
+      "lead_paragraph": "BOSTON — The Russian military intelligence unit that sought to influence the 2016 election appears to have a new target: conservative American think tanks that have broken with President Trump and are seeking continued sanctions against Moscow, exposing oligarchs or pressing for human rights.",
+      "publication_date": "2018-08-21T04:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/21/us/politics/russia-cyber-hack.html",
+      "byline": "By David E. Sanger and Sheera Frenkel"
+    },
+    {
+      "headline": "How Do You Get Better Schools? Take the State to Court, More Advocates Say",
+      "snippet": "A wave of lawsuits against states has opened another front in the fight for more resources and greater fairness in public education.",
+      "abstract": "A wave of lawsuits against states has opened another front in the fight for more resources and greater fairness in public education.",
+      "lead_paragraph": "By his own account, Alejandro Cruz-Guzman’s five children have received a good education at public schools in St. Paul. His two oldest daughters are starting careers in finance and teaching. Another daughter, a high-school student, plans to become a doctor.",
+      "publication_date": "2018-08-21T06:00:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/21/us/school-segregation-funding-lawsuits.html",
+      "byline": "By Dana Goldstein"
+    },
+    {
+      "headline": "Facebook Fueled Anti-Refugee Attacks in Germany, New Research Suggests",
+      "snippet": "Towns where people use Facebook more also had more attacks on refugees, building on suspicions that the platform makes users more prone to violence.",
+      "abstract": "Towns where people use Facebook more also had more attacks on refugees, building on suspicions that the platform makes users more prone to violence.",
+      "lead_paragraph": "ALTENA, Germany — When you ask locals why Dirk Denkhaus, a young firefighter trainee who had been considered neither dangerous nor political, broke into the attic of a refugee group house and tried to set it on fire, they will list the familiar issues.",
+      "publication_date": "2018-08-21T09:00:15+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/08/21/world/europe/facebook-refugee-attacks-germany.html",
+      "byline": "By Amanda Taub and Max Fisher"
+    },
+    {
+      "headline": "Amazon’s Ripple Effect on Grocery Industry: Rivals Stock Up on Start-Ups",
+      "snippet": "Since the Whole Foods sale a year ago, traditional grocers have agreed to a variety of deals and partnerships. The latest investment is a Japanese chain’s $110 million stake in Boxed.",
+      "abstract": "Since the Whole Foods sale a year ago, traditional grocers have agreed to a variety of deals and partnerships. The latest investment is a Japanese chain’s $110 million stake in Boxed.",
+      "lead_paragraph": "Chieh Huang spent years trying to get grocery industry executives excited about the technology at Boxed, his grocery e-commerce company. He regularly gave tours of the company’s state-of-the-art fulfillment centers, featuring a custom software system and roving bands of autonomous carts.",
+      "publication_date": "2018-08-21T13:00:06+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/21/technology/amazon-grocery-boxed-aeon.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Uber Appoints New Head of Finance as It Marches Toward an I.P.O.",
+      "snippet": "Picking a chief financial officer is crucial for Uber because the company has said it plans to go public by the end of 2019, in what is likely to be one of the biggest-ever technology I.P.O.s.",
+      "abstract": "Picking a chief financial officer is crucial for Uber because the company has said it plans to go public by the end of 2019, in what is likely to be one of the biggest-ever technology I.P.O.s.",
+      "lead_paragraph": "SAN FRANCISCO — After a yearslong search, Uber has finally found a chief financial officer as it advances toward an initial public offering.",
+      "publication_date": "2018-08-21T16:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/08/21/technology/uber-cfo-nelson-chai.html",
+      "byline": "By Kate Conger"
+    }
+  ]
+}

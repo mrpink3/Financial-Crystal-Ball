@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2022-06-03",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability",
+      "snippet": "Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years.",
+      "abstract": "Global restrictions on sending advanced technology to Russia are hampering the country’s military capacity, U.S. officials say, though Russia has stockpiled American equipment for years.",
+      "lead_paragraph": "WASHINGTON — With magnifying glasses, screwdrivers and a delicate touch from a soldering gun, two men from an investigative group that tracks weapons pried open Russian munitions and equipment that had been captured across Ukraine.",
+      "publication_date": "2022-06-02T16:55:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html",
+      "byline": "By Ana Swanson, John Ismay and Edward Wong"
+    },
+    {
+      "headline": "‘Enough, Enough’: Biden Calls On Lawmakers to Pass Gun Legislation",
+      "snippet": "President Biden urged lawmakers to stop the sale of assault-style weapons, expand universal background checks and pass “red flag” laws after last month’s massacres in Texas and New York.",
+      "abstract": "President Biden urged lawmakers to stop the sale of assault-style weapons, expand universal background checks and pass “red flag” laws after last month’s massacres in Texas and New York.",
+      "lead_paragraph": "WASHINGTON — President Biden demanded on Thursday that lawmakers respond to communities turned into “killing fields” by passing far-reaching limits on guns, calling on Congress to ban assault-style weapons, expand background checks and pass “red flag” laws after massacres in Texas and New York.",
+      "publication_date": "2022-06-02T18:00:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/02/us/politics/biden-guns-speech.html",
+      "byline": "By Michael D. Shear"
+    },
+    {
+      "headline": "Biden to Travel to Saudi Arabia, Ending Its ‘Pariah’ Status",
+      "snippet": "As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia.",
+      "abstract": "As a candidate, President Biden vowed to punish the kingdom for the brutal assassination of Jamal Khashoggi. But now he wants to rebuild relations as he seeks to lower gas prices and isolate Russia.",
+      "lead_paragraph": "WASHINGTON — President Biden, who as a candidate vowed to make Saudi Arabia a “pariah” in response to the assassination of a prominent dissident, has decided to travel to Riyadh this month to rebuild relations with the oil-rich kingdom at a time when he is seeking to lower gas prices at home and isolate Russia abroad.",
+      "publication_date": "2022-06-02T20:06:21+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/02/us/politics/biden-saudi-arabia.html",
+      "byline": "By Peter Baker and Ben Hubbard"
+    },
+    {
+      "headline": "What Sheryl Sandberg’s ‘Lean In’ Has Meant to Women",
+      "snippet": "The high-profile executive’s decision to leave Meta is also a moment to reflect on the impact of her best-selling book and philosophy about success in the workplace.",
+      "abstract": "The high-profile executive’s decision to leave Meta is also a moment to reflect on the impact of her best-selling book and philosophy about success in the workplace.",
+      "lead_paragraph": "When Amy Bailey, a communications strategist, read “Lean In” by Sheryl Sandberg, the year was 2013. The #MeToo movement hadn’t yet ballooned, spotlighting the abuses women can face in the workplace. The term #girlboss wasn’t trending. And the question of how Facebook might affect democracy was not front and center.",
+      "publication_date": "2022-06-02T21:04:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/02/business/sheryl-sandberg-lean-in.html",
+      "byline": "By Emma Goldberg"
+    },
+    {
+      "headline": "Who Is Mark Zuckerberg’s New No. 2? It’s a Trick Question.",
+      "snippet": "Mr. Zuckerberg, Meta’s chief executive, has restructured his company so that he no longer has a top deputy.",
+      "abstract": "Mr. Zuckerberg, Meta’s chief executive, has restructured his company so that he no longer has a top deputy.",
+      "lead_paragraph": "For more than a decade, Mark Zuckerberg and Sheryl Sandberg began and ended each week by meeting together.",
+      "publication_date": "2022-06-02T23:19:01+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html",
+      "byline": "By Sheera Frenkel and Mike Isaac"
+    },
+    {
+      "headline": "Is ‘Greedflation’ Rewriting Economics, or Do Old Rules Still Apply?",
+      "snippet": "Economists and politicians are debating whether monopolistic companies are fueling inflation in ways that confound longstanding theory.",
+      "abstract": "Economists and politicians are debating whether monopolistic companies are fueling inflation in ways that confound longstanding theory.",
+      "lead_paragraph": "There are few good things about living through a period with the highest inflation in four decades, but here’s one: It’s a chance to re-examine what happens in an economy that’s gone haywire.",
+      "publication_date": "2022-06-03T09:00:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2022/06/03/business/economy/price-gouging-inflation.html",
+      "byline": "By Lydia DePillis"
+    },
+    {
+      "headline": "Hiring Remains Strong Even as Fed Tries to Cool Economy",
+      "snippet": "The Labor Department reported 390,000 new jobs in May, as policymakers try to ease inflation without inducing a recession.",
+      "abstract": "The Labor Department reported 390,000 new jobs in May, as policymakers try to ease inflation without inducing a recession.",
+      "lead_paragraph": "American employers extended an impressive run of hiring in May, even as policymakers took steps to cool the economy in an effort to ease high inflation.",
+      "publication_date": "2022-06-03T09:14:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2022/06/03/business/economy/forecasters-expect-job-gains-to-slow-yet-remain-solid.html",
+      "byline": "By Talmon Joseph Smith, Lydia DePillis and Jeanna Smialek"
+    }
+  ]
+}

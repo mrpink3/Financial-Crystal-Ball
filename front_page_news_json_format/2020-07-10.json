@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-07-10",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "A Coffee Chain Reveals Flaws in the Fed’s Plan to Save Main Street",
+      "snippet": "Businesses that want to use the Federal Reserve’s Main Street program cannot, and many that can use it have better options in the private market.",
+      "abstract": "Businesses that want to use the Federal Reserve’s Main Street program cannot, and many that can use it have better options in the private market.",
+      "lead_paragraph": "WASHINGTON — La Colombe, a Philadelphia-based purveyor of fancy coffee and canned draft lattes, has seen its business fall off sharply in 2020 as the coronavirus pandemic shuttered its cafes and closed the upscale restaurants that serve its brew. But the company has fallen through the cracks when it comes to government relief.",
+      "publication_date": "2020-07-09T19:29:41+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/09/business/economy/federal-reserve-treasury-main-street.html",
+      "byline": "By Jeanna Smialek"
+    },
+    {
+      "headline": "Hiring Outlook Remains Dim, With ‘Scarring in the Economy’",
+      "snippet": "As unemployment claims keep pouring in, new job postings are lacking, and an end to some benefits is approaching.",
+      "abstract": "As unemployment claims keep pouring in, new job postings are lacking, and an end to some benefits is approaching.",
+      "lead_paragraph": "The number of new state unemployment claims dipped last week, but job losses continue to batter the economy as rising coronavirus cases pushed some regions of the country to reverse course and reimpose shutdown orders on businesses.",
+      "publication_date": "2020-07-09T19:59:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/09/business/economy/unemployment-claims-coronavirus.html",
+      "byline": "By Patricia Cohen and Ben Casselman"
+    },
+    {
+      "headline": "A Conservative Court and Trump’s Own Appointees Declare Their Independence",
+      "snippet": "The Supreme Court’s dismissal of President Trump’s claims of immunity was a reminder that institutional prerogatives still matter in Washington, even in a time of extreme partisanship.",
+      "abstract": "The Supreme Court’s dismissal of President Trump’s claims of immunity was a reminder that institutional prerogatives still matter in Washington, even in a time of extreme partisanship.",
+      "lead_paragraph": "WASHINGTON — At his campaign rally last month in Tulsa, Okla., President Trump ranked his Supreme Court appointments among his biggest achievements. “Two great Supreme Court judges!” he boasted. “So, we have two justices of the Supreme Court, Justice Gorsuch, Justice Kavanaugh, they’re great. They are — they’re great.”",
+      "publication_date": "2020-07-09T23:38:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/09/us/politics/supreme-court-trump.html",
+      "byline": "By Peter Baker"
+    },
+    {
+      "headline": "Why Is a Tech Executive Installing Security Cameras Around San Francisco?",
+      "snippet": "Chris Larsen knows that a crypto mogul spending his own money for a city’s camera surveillance system might sound creepy. He’s here to explain why it’s not.",
+      "abstract": "Chris Larsen knows that a crypto mogul spending his own money for a city’s camera surveillance system might sound creepy. He’s here to explain why it’s not.",
+      "lead_paragraph": "SAN FRANCISCO — It sounds sinister. A soft-spoken cryptocurrency mogul is paying for a private network of high-definition security cameras around the city. Zoom in and you can see the finest details: the sticker on a cellphone, the make of a backpack, the color of someone’s eyes.",
+      "publication_date": "2020-07-10T09:00:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2020/07/10/business/camera-surveillance-san-francisco.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "The Last Reporter in Town Had One Big Question for His Rich Boss",
+      "snippet": "His newspaper has withered under a hedge fund. His industry was in turmoil even before a pandemic. But Evan Brandt won’t stop chronicling his town.",
+      "abstract": "His newspaper has withered under a hedge fund. His industry was in turmoil even before a pandemic. But Evan Brandt won’t stop chronicling his town.",
+      "lead_paragraph": "POTTSTOWN, Pa. — An essential worker drove his cluttered Toyota Corolla through the early spring emptiness, past a sign outside a closed parochial school asking people to pray. Time to bear witness in a pandemic.",
+      "publication_date": "2020-07-10T09:00:53+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/10/us/alden-global-capital-pottstown-mercury.html",
+      "byline": "By Dan Barry and Haruka Sakaguchi"
+    },
+    {
+      "headline": "California, After Riding a Boom, Braces for Hard Times",
+      "snippet": "Early hopes for a quick rebound from the pandemic have yielded to worries about its long-term impact on state finances and the governor’s ambitious agenda.",
+      "abstract": "Early hopes for a quick rebound from the pandemic have yielded to worries about its long-term impact on state finances and the governor’s ambitious agenda.",
+      "lead_paragraph": "OAKLAND, Calif. — When California shut down its economy in March, it became a model for painful but aggressive action to counter the new coronavirus. The implicit trade-off was that a lot of upfront pain would help slow the spread, allowing the state to reopen sooner and more triumphantly than places that failed to act as decisively.",
+      "publication_date": "2020-07-10T09:01:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/10/business/economy/california-economy-coronavirus.html",
+      "byline": "By Conor Dougherty"
+    },
+    {
+      "headline": "Daily Virus Death Toll Rises in Some States",
+      "snippet": "In several states where the virus has surged in recent weeks, the death toll is edging up. That may end a long period in which the national toll has steadily declined.",
+      "abstract": "In several states where the virus has surged in recent weeks, the death toll is edging up. That may end a long period in which the national toll has steadily declined.",
+      "lead_paragraph": "The daily number of deaths from the coronavirus has risen recently in some of the nation’s most populous states, leaving behind grieving families and signaling a possible end to months of declining death totals nationally.",
+      "publication_date": "2020-07-10T14:30:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/10/us/daily-virus-death-toll-rises-in-some-states.html",
+      "byline": "By Farah Stockman, Mitch Smith and Giulia McDonnell Nieto del Rio"
+    },
+    {
+      "headline": "‘I’m Sorry to Everyone’: In Death, South Korean Mayor Is Tainted by Scandal",
+      "snippet": "A longtime champion of women’s rights, Park Won-soon was accused by his secretary of sexual harassment. He is presumed to have killed himself.",
+      "abstract": "A longtime champion of women’s rights, Park Won-soon was accused by his secretary of sexual harassment. He is presumed to have killed himself.",
+      "lead_paragraph": "SEOUL, South Korea — Mayor Park Won-soon of Seoul spoke passionately at a news conference on Wednesday about his vision to create jobs and fight climate change in a post-pandemic world, part of his broader, socially conscious campaign that also called for building a city that was more innovative and safer for women.",
+      "publication_date": "2020-07-10T14:44:25+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/07/10/world/asia/seoul-mayor-dead.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "The Students Are Victims of Fraud, but the Government Won’t Help",
+      "snippet": "Education Secretary Betsy DeVos is denying huge batches of relief requests from students whose schools defrauded them. Even those who aren’t denied are getting very little — or sometimes nothing.",
+      "abstract": "Education Secretary Betsy DeVos is denying huge batches of relief requests from students whose schools defrauded them. Even those who aren’t denied are getting very little — or sometimes nothing.",
+      "lead_paragraph": "When Albert Paul Cruz opened a letter from the Education Department last month, he saw the words he’d been waiting for: “We approved your claim.” The government finally agreed that he’d been defrauded by ITT Technical Institute, the defunct for-profit chain where he’d racked up almost $60,000 in student loans getting what he considers a worthless degree.",
+      "publication_date": "2020-07-10T15:49:49+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/07/10/business/student-loans-betsy-devos-borrower-defense.html",
+      "byline": "By Stacy Cowley"
+    }
+  ]
+}

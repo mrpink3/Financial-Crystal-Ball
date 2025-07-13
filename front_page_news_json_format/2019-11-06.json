@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2019-11-06",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Sondland Updates Impeachment Testimony, Describing Ukraine Quid Pro Quo",
+      "snippet": "Gordon D. Sondland recounted how he told Ukrainian officials that military aid was tied to their commitment to investigations President Trump wanted.",
+      "abstract": "Gordon D. Sondland recounted how he told Ukrainian officials that military aid was tied to their commitment to investigations President Trump wanted.",
+      "lead_paragraph": "WASHINGTON — A crucial witness in the impeachment inquiry reversed himself this week and acknowledged to investigators that he had told a top Ukrainian official that the country would most likely have to give President Trump what he wanted — a public pledge for investigations — in order to unlock military aid.",
+      "publication_date": "2019-11-05T18:06:40+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/05/us/politics/impeachment-trump.html",
+      "byline": "By Michael S. Schmidt"
+    },
+    {
+      "headline": "Your DNA Profile is Private? A Florida Judge Just Said Otherwise",
+      "snippet": "Privacy experts say a warrant granted in Florida could set a precedent, opening up all consumer DNA sites to law enforcement agencies across the country.",
+      "abstract": "Privacy experts say a warrant granted in Florida could set a precedent, opening up all consumer DNA sites to law enforcement agencies across the country.",
+      "lead_paragraph": "For police officers around the country, the genetic profiles that 20 million people have uploaded to consumer DNA sites represent a tantalizing resource that could be used to solve cases both new and cold. But for years, the vast majority of the data have been off limits to investigators. The two largest sites, Ancestry.com and 23andMe, have long pledged to keep their users’ genetic information private, and a smaller one, GEDmatch, severely restricted  police access to its records this year.",
+      "publication_date": "2019-11-05T20:14:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/05/business/dna-database-search-warrant.html",
+      "byline": "By Kashmir Hill and Heather Murphy"
+    },
+    {
+      "headline": "Mormon Family Massacre Stuns Mexico, Laying Bare Government’s Helplessness",
+      "snippet": "When the gunfire on a rural roadway finally stopped, six children and three women were dead.",
+      "abstract": "When the gunfire on a rural roadway finally stopped, six children and three women were dead.",
+      "lead_paragraph": "MEXICO CITY — The women and their children were taking a drive along a familiar rural road in northern Mexico when the gunmen attacked, riddling the three-car convoy with bullets.",
+      "publication_date": "2019-11-06T01:00:21+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/05/world/americas/mexico-mormons-killed.html",
+      "byline": "By Elisabeth Malkin, Kirk Semple and Julie Turkewitz"
+    },
+    {
+      "headline": "Trump Tax Return Case Confronts Supreme Court With a Momentous Choice",
+      "snippet": "Richard M. Nixon and Bill Clinton sustained unanimous losses when they sought to withhold evidence, suggesting that President Trump may face an uphill fight.",
+      "abstract": "Richard M. Nixon and Bill Clinton sustained unanimous losses when they sought to withhold evidence, suggesting that President Trump may face an uphill fight.",
+      "lead_paragraph": "WASHINGTON — In a matter of days, President Trump will ask the Supreme Court to rule on his bold claim that he is absolutely immune from criminal investigation while he remains in office. If the court agrees to hear the case, its decision is likely to produce a major statement on the limits of presidential power — and to test the independence of the court itself.",
+      "publication_date": "2019-11-06T01:41:37+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/05/us/politics/trump-tax-returns-supreme-court.html",
+      "byline": "By Adam Liptak"
+    },
+    {
+      "headline": "Democrats Win Control in Virginia and Claim Narrow Victory in Kentucky Governor’s Race",
+      "snippet": "Control of Virginia’s government fell to Democrats for the first time in decades, while Andy Beshear held an edge over Gov. Matt Bevin in the Kentucky election.",
+      "abstract": "Control of Virginia’s government fell to Democrats for the first time in decades, while Andy Beshear held an edge over Gov. Matt Bevin in the Kentucky election.",
+      "lead_paragraph": "Democrats won complete control of the Virginia government for the first time in a generation on Tuesday and claimed a narrow victory in the Kentucky governor’s race, as Republicans struggled in suburbs where President Trump is increasingly unpopular.",
+      "publication_date": "2019-11-06T03:27:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/05/us/politics/ky-va-ms-elections-recap.html",
+      "byline": "By Jonathan Martin"
+    },
+    {
+      "headline": "‘Extremely Evil Misconduct’: Thailand’s Palace Intrigue Spills Into View",
+      "snippet": "Six months after King Maha Vajiralongkorn’s coronation, aide after aide has been ousted and denounced, even as he moves to bolster his authority.",
+      "abstract": "Six months after King Maha Vajiralongkorn’s coronation, aide after aide has been ousted and denounced, even as he moves to bolster his authority.",
+      "lead_paragraph": "BANGKOK — The denunciations have swirled through Thailand’s gilded palaces with the rhetorical extravagance of a Shakespearean history.",
+      "publication_date": "2019-11-06T05:29:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/11/06/world/asia/thailand-king-consort-wives.html",
+      "byline": "By Hannah Beech"
+    },
+    {
+      "headline": "SoftBank Takes a $4.6 Billion Hit From WeWork. Its C.E.O. Remains Defiant.",
+      "snippet": "Masayoshi Son defended the Japanese company’s investment, while admitting he misjudged the American firm’s founder, Adam Neumann.",
+      "abstract": "Masayoshi Son defended the Japanese company’s investment, while admitting he misjudged the American firm’s founder, Adam Neumann.",
+      "lead_paragraph": "TOKYO — Masayoshi Son makes big bets. Over nearly four decades, the chief executive of SoftBank Group of Japan has spent vast amounts of money to build an investment empire that spans countries and industries and that has increasingly shaken up the technology world. ",
+      "publication_date": "2019-11-06T07:12:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/06/business/softbank-loss-wework.html",
+      "byline": "By Ben Dooley"
+    },
+    {
+      "headline": "Why $4.5 Billion From Big Tech Won’t End California Housing Crisis",
+      "snippet": "Efforts by Apple, Facebook and Google to address the California housing crunch must contend with the forces that created it.",
+      "abstract": "Efforts by Apple, Facebook and Google to address the California housing crunch must contend with the forces that created it.",
+      "lead_paragraph": "SAN FRANCISCO — A mile from Apple’s headquarters in Cupertino lies the sun-faded carcass of the Vallco Shopping Mall. At the moment it consists of empty, buff-colored buildings, acres of black asphalt and a pile of rubble where the parking garage used to be. ",
+      "publication_date": "2019-11-06T10:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/11/06/business/economy/california-housing-apple.html",
+      "byline": "By Conor Dougherty"
+    }
+  ]
+}

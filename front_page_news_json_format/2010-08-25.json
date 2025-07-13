@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2010-08-25",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Digital Devices Deprive Brain of Needed Downtime",
+      "snippet": "Time without digital input can allow people to learn better or come up with new ideas.",
+      "abstract": "Time without digital input can allow people to learn better or come up with new ideas.",
+      "lead_paragraph": "SAN FRANCISCO  It’s 1 p.m. on a Thursday and Dianne Bates, 40, juggles three screens. She listens to a few songs on her iPod, then taps out a quick e-mail on her iPhone and turns her attention to the high-definition television.",
+      "publication_date": "2010-08-24T18:54:55+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/25/technology/25brain.html",
+      "byline": "By Matt Richtel"
+    },
+    {
+      "headline": "Carmakers Initiating More Recalls Voluntarily",
+      "snippet": "Since the Toyota recalls, automakers are taking initiative instead of waiting for regulators, which has caused a flood of recalls.",
+      "abstract": "Since the Toyota recalls, automakers are taking initiative instead of waiting for regulators, which has caused a flood of recalls.",
+      "lead_paragraph": "DETROIT  Most vehicle recalls used to happen only after long, drawn-out government inquiries had identified safety defects and required the car companies to fix them.",
+      "publication_date": "2010-08-24T22:17:35+0000",
+      "section_name": "Automobiles",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/25/automobiles/25recall.html",
+      "byline": "By Nick Bunkley and Bill Vlasic"
+    },
+    {
+      "headline": "I.R.S. Plan to Uncover Companies’ Tax Strategies",
+      "snippet": "The I.R.S. plans to make companies provide a description of their uncertain tax positions and their rationale.",
+      "abstract": "The I.R.S. plans to make companies provide a description of their uncertain tax positions and their rationale.",
+      "lead_paragraph": "It is the tax world’s version of blind man’s bluff.",
+      "publication_date": "2010-08-24T22:19:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/25/business/25taxes.html",
+      "byline": "By David Kocieniewski"
+    },
+    {
+      "headline": "U.S. Rejected Hen Vaccine Despite British Success",
+      "snippet": "British farmers virtually wiped out salmonella in eggs, but American regulators decided against a mandate.",
+      "abstract": "British farmers virtually wiped out salmonella in eggs, but American regulators decided against a mandate.",
+      "lead_paragraph": "Faced with a crisis more than a decade ago in which thousands of people were sickened from salmonella in infected eggs, farmers in Britain began vaccinating their hens against the bacteria. That simple but decisive step virtually wiped out the health threat.",
+      "publication_date": "2010-08-25T00:26:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/25/business/25vaccine.html",
+      "byline": "By William Neuman"
+    },
+    {
+      "headline": "Egg Recall Exposes Flaws in Nation’s Food Safety System",
+      "snippet": "Some consumer advocates say the broader problem in the nation is a food safety system that is complicated and often dysfunctional.",
+      "abstract": "Some consumer advocates say the broader problem in the nation is a food safety system that is complicated and often dysfunctional.",
+      "lead_paragraph": " Federal investigators have descended on Iowa to try to figure out the cause of a salmonella outbreak that may have sickened thousands of people and led to the recall of a half billion eggs. ",
+      "publication_date": "2010-08-25T00:41:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/25/business/25eggs.html",
+      "byline": "By Andrew Martin"
+    },
+    {
+      "headline": "Housing Market Plunged in July, Fueling Anxiety",
+      "snippet": "Housing sales fell a surprising 25.5 percent in July below the level of a year ago, as buyers lost the spur of a government tax credit.",
+      "abstract": "Housing sales fell a surprising 25.5 percent in July below the level of a year ago, as buyers lost the spur of a government tax credit.",
+      "lead_paragraph": " Americans’ long infatuation with owning a home, which even the economic collapse of 2008 could not kill, shuddered and stalled last month.",
+      "publication_date": "2010-08-25T00:51:22+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/25/business/economy/25housing.html",
+      "byline": "By David Streitfeld"
+    },
+    {
+      "headline": "Job Losses Over Drilling Ban Fail to Materialize",
+      "snippet": "The worst forecasts have failed to materialize as companies wait to see how long the moratorium will last before making cuts.",
+      "abstract": "The worst forecasts have failed to materialize as companies wait to see how long the moratorium will last before making cuts.",
+      "lead_paragraph": "WASHINGTON — When the Obama administration called a halt to virtually all deepwater drilling activity in the Gulf of Mexico after the Deepwater Horizon blowout and fire in April, oil executives, economists and local officials complained that the six-month moratorium would cost thousands of jobs and billions of dollars in lost revenue.",
+      "publication_date": "2010-08-25T00:57:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/25/us/25drill.html",
+      "byline": "By John M. Broder and Clifford Krauss"
+    },
+    {
+      "headline": "AARP Says Brand-Name Drug Prices Up 8% in 2009",
+      "snippet": "Drug industry officials countered that selecting brand-name drug prices did not reflect the reality of more people using low-price generic drugs.",
+      "abstract": "Drug industry officials countered that selecting brand-name drug prices did not reflect the reality of more people using low-price generic drugs.",
+      "lead_paragraph": " A new report on retail prices of brand-name drugs shows the 217 products most used by older Americans increased by an average of 8.3 percent during 2009, the largest increase in years, even as inflation was negative.",
+      "publication_date": "2010-08-25T01:34:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/08/25/business/25drug.html",
+      "byline": "By Duff Wilson"
+    },
+    {
+      "headline": "A Relieved Chile Braces for a Long Mine Rescue",
+      "snippet": "Trapped miners in Chile have not heard the news that it could take months to pull them to the surface.",
+      "abstract": "Trapped miners in Chile have not heard the news that it could take months to pull them to the surface.",
+      "lead_paragraph": "SAN JOSÉ MINE, Chile  Through a skinny borehole from the surface, the 33 miners trapped more than 2,000 feet below the parched earth here have gotten a gel-like substance to keep them alive, tiny lights to illuminate the darkness and encouraging notes from their families waiting above. ",
+      "publication_date": "2010-08-25T01:34:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/25/world/americas/25chile.html",
+      "byline": "By Alexei Barrionuevo"
+    },
+    {
+      "headline": "Coordinated Attacks Strike 13 Iraqi Cities",
+      "snippet": "With a withering wave of assaults on security forces, which killed dozens, insurgents proved their ability to launch attacks virtually anywhere in Iraq.",
+      "abstract": "With a withering wave of assaults on security forces, which killed dozens, insurgents proved their ability to launch attacks virtually anywhere in Iraq.",
+      "lead_paragraph": "BAGHDAD  Insurgents unleashed a wave of coordinated attacks across Iraq on Wednesday in a demonstration of their ability to strike at will, offering their counterpoint to American aspirations of bringing the war in Iraq “to a responsible end.”",
+      "publication_date": "2010-08-25T10:06:00+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/08/26/world/middleeast/26iraq.html",
+      "byline": "By Anthony Shadid"
+    }
+  ]
+}

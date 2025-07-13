@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2010-10-19",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "U.S. Sues Michigan Blue Cross Over Pricing",
+      "snippet": "The administration said the insurer violated antitrust laws and gained a competitive advantage by forcing hospitals to charge higher prices to its rivals.",
+      "abstract": "The administration said the insurer violated antitrust laws and gained a competitive advantage by forcing hospitals to charge higher prices to its rivals.",
+      "lead_paragraph": "WASHINGTON  The Justice Department sued Blue Cross Blue Shield of Michigan on Monday, asserting that the company, the state’s dominant health insurer, had violated antitrust laws and secured a huge competitive advantage by forcing hospitals to charge higher prices to Blue Cross’s rivals.",
+      "publication_date": "2010-10-18T17:40:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/10/19/business/19insure.html",
+      "byline": "By Robert Pear"
+    },
+    {
+      "headline": "Aviation World at Odds Over Plane Loans",
+      "snippet": "Negotiators are meeting in Ottawa this week to discuss questions about the financing of the airplane business.",
+      "abstract": "Negotiators are meeting in Ottawa this week to discuss questions about the financing of the airplane business.",
+      "lead_paragraph": "Back in the mid-1980s, Boeing and Airbus avoided a trade war by making a gentlemen’s agreement not to seek government financing to sell planes in each other’s home markets. The deal symbolized an aviation world dominated by the United States and Europe. ",
+      "publication_date": "2010-10-18T19:37:51+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/10/19/business/global/19subsidies.html",
+      "byline": "By Jad Mouawad and Nicola Clark"
+    },
+    {
+      "headline": "Killings in Nigeria Are Linked to Islamic Sect",
+      "snippet": "A radical group, Boko Haram, has been blamed for attacks by men on motorcycles in the city of Maiduguri.",
+      "abstract": "A radical group, Boko Haram, has been blamed for attacks by men on motorcycles in the city of Maiduguri.",
+      "lead_paragraph": "MAIDUGURI, Nigeria  A rash of mysterious killings by gun-wielding motorcycle assassins of policemen, politicians and others in this city near the desert has led authorities to declare that a radical Islamic sect thought to have been crushed by Nigerian troops last year has been revived.",
+      "publication_date": "2010-10-18T20:34:44+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/10/19/world/africa/19nigeria.html",
+      "byline": "By Adam Nossiter"
+    },
+    {
+      "headline": "Largest Bank Will Resume Foreclosure Push in 23 States",
+      "snippet": "Curtailing a moratorium sooner than expected, Bank of America said it would resume 102,000 foreclosures in 23 states where court approval is needed to go ahead.",
+      "abstract": "Curtailing a moratorium sooner than expected, Bank of America said it would resume 102,000 foreclosures in 23 states where court approval is needed to go ahead.",
+      "lead_paragraph": "Bank of America announced on Monday that it would resume home foreclosures in nearly two dozen states, despite the running controversy over how banks handled tens of thousands of cases of homeowners facing eviction. ",
+      "publication_date": "2010-10-18T20:43:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/10/19/business/19mortgage.html",
+      "byline": "By Nelson D. Schwartz and Andrew Martin"
+    },
+    {
+      "headline": "Some Sand in the Gears of Securitizing",
+      "snippet": "The possibility that mortgages are invalid raises serious concerns for the great securitization machine.",
+      "abstract": "The possibility that mortgages are invalid raises serious concerns for the great securitization machine.",
+      "lead_paragraph": "Was the great securitization machine that made hundreds of billions of dollars in mortgage loans based on a legal foundation of sand?",
+      "publication_date": "2010-10-18T23:40:44+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/10/19/business/19norris.html",
+      "byline": "By Floyd Norris"
+    },
+    {
+      "headline": "A Hedge Fund Controlled by Women, So It Claimed",
+      "snippet": "The thriving hedge fund may have misled customers when it said it was owned and operated by women when it was financed by S. Donald Sussman, a hedge fund mogul.",
+      "abstract": "The thriving hedge fund may have misled customers when it said it was owned and operated by women when it was financed by S. Donald Sussman, a hedge fund mogul.",
+      "lead_paragraph": "Jane Buchan is a rarity in the big-money boys’ club of hedge funds. ",
+      "publication_date": "2010-10-19T01:07:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/10/19/business/19hedge.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "From Obama, the Tax Cut Nobody Heard Of",
+      "snippet": "The Obama stimulus bill cut taxes for 95 percent of working families, but few voters noticed, a troubling sign for Democrats.",
+      "abstract": "The Obama stimulus bill cut taxes for 95 percent of working families, but few voters noticed, a troubling sign for Democrats.",
+      "lead_paragraph": "HUNTERSVILLE, N.C.  What if a president cut Americans’ income taxes by $116 billion and nobody noticed? ",
+      "publication_date": "2010-10-19T01:12:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/10/19/us/politics/19taxes.html",
+      "byline": "By Michael Cooper"
+    },
+    {
+      "headline": "Officials Push to Bolster Law on Wiretapping",
+      "snippet": "Telecommunications companies in recent years have begun new services and made system upgrades that create technical obstacles to surveillance.",
+      "abstract": "Telecommunications companies in recent years have begun new services and made system upgrades that create technical obstacles to surveillance.",
+      "lead_paragraph": "WASHINGTON  Law enforcement and counterterrorism officials, citing lapses in compliance with surveillance orders, are pushing to overhaul a federal law that requires phone and broadband carriers to ensure that their networks can be wiretapped, federal officials say. ",
+      "publication_date": "2010-10-19T01:43:18+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/10/19/us/19wiretap.html",
+      "byline": "By Charlie Savage"
+    },
+    {
+      "headline": "Tribune Is Said to Seek Chief’s Resignation",
+      "snippet": "Randy Michaels, the controversial chief executive of the Tribune Company, is expected to be asked to resign.",
+      "abstract": "Randy Michaels, the controversial chief executive of the Tribune Company, is expected to be asked to resign.",
+      "lead_paragraph": "The board of directors of the Tribune Company is expected to ask Tuesday for the resignation of Randy Michaels, the controversial chief executive of the company, according to a person directly involved in the matter.",
+      "publication_date": "2010-10-19T03:41:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/10/19/business/media/19tribune.html",
+      "byline": "By David Carr and Tim Arango"
+    },
+    {
+      "headline": "Chinese City Has Many Buildings, but Few People",
+      "snippet": "China’s sizzling economy has created a speculative real estate market  and, in some cases, sparkling new ghost towns.",
+      "abstract": "China’s sizzling economy has created a speculative real estate market  and, in some cases, sparkling new ghost towns.",
+      "lead_paragraph": "ORDOS, China  By many measures, this resource-rich city in northern China is a fabulous success.",
+      "publication_date": "2010-10-19T15:13:57+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/10/20/business/global/20ghost.html",
+      "byline": "By David Barboza"
+    },
+    {
+      "headline": "China Raises Rates, Jolting World Markets",
+      "snippet": "China’s Central Bank said it would raise interest rates for the first time in nearly three years, apparently in the hopes of dampening inflation and cooling off the hot property market.",
+      "abstract": "China’s Central Bank said it would raise interest rates for the first time in nearly three years, apparently in the hopes of dampening inflation and cooling off the hot property market.",
+      "lead_paragraph": "BEIJING — A surprise announcement by China’s central bank that it would raise interest rates for the first time in nearly three years jolted world financial markets Tuesday, as investors worried that China, the world’s second-largest economy after the United States, could slow and crimp the global recovery.",
+      "publication_date": "2010-10-19T15:17:12+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/10/20/business/global/20yuan.html",
+      "byline": "By David Barboza and Christine Hauser"
+    }
+  ]
+}

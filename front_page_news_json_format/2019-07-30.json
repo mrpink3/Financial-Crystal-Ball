@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2019-07-30",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "From Environmental Leader to ‘Worst Company in the World’",
+      "snippet": "Fierce criticism of the American agricultural giant shows how companies that fall short of ambitious commitments can quickly anger advocacy groups.",
+      "abstract": "Fierce criticism of the American agricultural giant shows how companies that fall short of ambitious commitments can quickly anger advocacy groups.",
+      "lead_paragraph": "For years, the American agricultural giant Cargill has been on relatively good terms with environmental advocates, praised for agreeing to a landmark moratorium on buying soybeans grown on deforested land in the Amazon rain forest.",
+      "publication_date": "2019-07-29T16:39:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/29/business/brazil-deforestation-cargill.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Republican Senators Are Cool to Trump’s Choice for Top Intelligence Post",
+      "snippet": "Democrats and former officials also expressed concern that the pick, Representative John Ratcliffe, will politicize what is supposed to be a nonpartisan job.",
+      "abstract": "Democrats and former officials also expressed concern that the pick, Representative John Ratcliffe, will politicize what is supposed to be a nonpartisan job.",
+      "lead_paragraph": "WASHINGTON — Republicans hesitated on Monday to embrace President Trump’s choice for the director of national intelligence, and some privately expressed doubts about his potential confirmation, echoing concerns of experts and Democrats that he was too inexperienced and too partisan.",
+      "publication_date": "2019-07-29T18:20:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/29/us/politics/trump-ratcliffe-national-intelligence.html",
+      "byline": "By Julian E. Barnes, Nicholas Fandos and Adam Goldman"
+    },
+    {
+      "headline": "America’s Farmers, Reeling From Floods, Face a New Problem: No Water",
+      "snippet": "The breach of an irrigation canal left more than 100,000 acres of farmland in Nebraska and Wyoming without water at a critical point in the growing cycle.",
+      "abstract": "The breach of an irrigation canal left more than 100,000 acres of farmland in Nebraska and Wyoming without water at a critical point in the growing cycle.",
+      "lead_paragraph": "MITCHELL, Neb. — For farmers battered by floods and blizzards and one of the rainiest springs on record, this has been a year tainted by too much water.",
+      "publication_date": "2019-07-29T18:58:46+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/29/us/nebraska-wyoming-farmers-water.html",
+      "byline": "By Mitch Smith"
+    },
+    {
+      "headline": "Capital One Data Breach Compromises Data of Over 100 Million",
+      "snippet": "A software engineer, facing federal charges in Seattle, was accused of gaining access to 140,000 Social Security numbers and 80,000 bank account numbers.",
+      "abstract": "A software engineer, facing federal charges in Seattle, was accused of gaining access to 140,000 Social Security numbers and 80,000 bank account numbers.",
+      "lead_paragraph": "A software engineer in Seattle hacked into a server holding customer information for Capital One and obtained the personal data of over 100 million people, federal prosecutors said on Monday, in one of the largest thefts of data from a bank.",
+      "publication_date": "2019-07-30T00:09:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/07/29/business/capital-one-data-breach-hacked.html",
+      "byline": "By Emily Flitter and Karen Weise"
+    },
+    {
+      "headline": "Your Next iPhone Might Be Made in Vietnam. Thank the Trade War.",
+      "snippet": "Samsung already assembles half of its handsets in the country, which got a big lift from U.S. tariffs on Chinese goods. Now Apple is homing in.",
+      "abstract": "Samsung already assembles half of its handsets in the country, which got a big lift from U.S. tariffs on Chinese goods. Now Apple is homing in.",
+      "lead_paragraph": "BAC NINH, Vietnam — No country on earth has benefited from President Trump’s trade fight with China more than Vietnam. ",
+      "publication_date": "2019-07-30T07:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/30/technology/trump-trade-war-vietnam.html",
+      "byline": "By Raymond Zhong"
+    },
+    {
+      "headline": "Huawei’s Sales Jump Despite Trump’s Blacklisting",
+      "snippet": "Executives at the Chinese tech giant sounded exuberant about the firm’s ability to thrive, even if it ends up fully cut off from American technology.",
+      "abstract": "Executives at the Chinese tech giant sounded exuberant about the firm’s ability to thrive, even if it ends up fully cut off from American technology.",
+      "lead_paragraph": "BEIJING — A little over two months after Huawei’s chief executive began comparing his embattled company to a bullet-riddled fighter plane, the Chinese tech giant said its sales for January through June grew by nearly a quarter from a year earlier, a sign that the Trump administration’s clampdown has hardly brought the company crashing to the ground.",
+      "publication_date": "2019-07-30T07:27:52+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/07/30/technology/huawei-trump.html",
+      "byline": "By Raymond Zhong"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-07-20",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "U.S.-Funded Broadcaster Directed Ads to Americans",
+      "snippet": "Radio Free Europe/Radio Liberty is mostly restricted by law from promoting its content in the United States except on request.",
+      "abstract": "Radio Free Europe/Radio Liberty is mostly restricted by law from promoting its content in the United States except on request.",
+      "lead_paragraph": "A broadcasting organization backed by the federal government has used Facebook to target ads at United States citizens, in potential violation of longstanding laws meant to protect Americans from domestic propaganda.",
+      "publication_date": "2018-07-19T17:16:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/19/technology/facebook-ads-propaganda.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "How E.U. Is Getting Ready for Chaos in a Worst-Case Brexit",
+      "snippet": "European Union countries are hiring thousands of staff, buying drones and preparing for huge delays as they gird for a worst-case scenario.",
+      "abstract": "European Union countries are hiring thousands of staff, buying drones and preparing for huge delays as they gird for a worst-case scenario.",
+      "lead_paragraph": "The Dutch government is hiring nearly 1,000 customs officials. Britain’s health agency is mulling how to ensure medicine supplies. Ireland is preparing border inspections for food shipments and even racehorses.",
+      "publication_date": "2018-07-19T17:33:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/19/business/europe-brexit-contingencies.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "Trump to Invite Putin to Washington, Blindsiding His Intelligence Chief",
+      "snippet": "The announcement came as uncertainty spread throughout the government about what the president had agreed to.",
+      "abstract": "The announcement came as uncertainty spread throughout the government about what the president had agreed to.",
+      "lead_paragraph": "WASHINGTON — President Trump plans to invite President Vladimir V. Putin of Russia to visit Washington in the fall, the White House said Thursday — an invitation that stunned the nation’s top intelligence official, who said he was still groping for details of what the two leaders had discussed in their encounter this week in Helsinki, Finland.",
+      "publication_date": "2018-07-19T18:56:22+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/19/us/politics/trump-putin-browder-mcfaul.html",
+      "byline": "By Mark Landler"
+    },
+    {
+      "headline": "What Stays on Facebook and What Goes? The Social Network Cannot Answer",
+      "snippet": "Asked about the kind of content Facebook keeps up and the kind it removes, company executives from Mark Zuckerberg on down have been comically tripped up in their responses.",
+      "abstract": "Asked about the kind of content Facebook keeps up and the kind it removes, company executives from Mark Zuckerberg on down have been comically tripped up in their responses.",
+      "lead_paragraph": "Facebook was once the most nimble company of its generation. The speed at which it adapted to every challenge was legendary. It needed only about a decade to go from a dorm-room start-up to the largest and most influential communications platform in the world.",
+      "publication_date": "2018-07-20T00:24:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/19/technology/facebook-misinformation.html",
+      "byline": "By Farhad Manjoo"
+    },
+    {
+      "headline": "Revealed: The People Behind an Anti-Breitbart Twitter Account",
+      "snippet": "No longer anonymously run, Sleeping Giants continues its mission of alerting companies to where their digital ads end up.",
+      "abstract": "No longer anonymously run, Sleeping Giants continues its mission of alerting companies to where their digital ads end up.",
+      "lead_paragraph": "Just after the 2016 election, an anonymously run Twitter account emerged with a plan to choke off advertising dollars to Breitbart News, the hard-edge, nationalist website closely tied to President Trump’s administration.",
+      "publication_date": "2018-07-20T09:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/07/20/business/media/sleeping-giants-breitbart-twitter.html",
+      "byline": "By Sapna Maheshwari"
+    },
+    {
+      "headline": "‘I’m Doing It for the Babies’: Inside the Ground Game to Reverse Roe v. Wade",
+      "snippet": "With a new Supreme Court justice on the way, anti-abortion groups sense a unique moment to achieve their goal, and they’re mobilizing forces at the local level.",
+      "abstract": "With a new Supreme Court justice on the way, anti-abortion groups sense a unique moment to achieve their goal, and they’re mobilizing forces at the local level.",
+      "lead_paragraph": "AVON, Ind. — Armed with sunscreen, doorknob fliers and a mission 50 years in the making, the team of activists sporting blue “I Vote Pro-Life” T-shirts fanned out into a web of cul-de-sacs in a subdivision just west of Indianapolis, undeterred by towering rain clouds and 90-degree heat.",
+      "publication_date": "2018-07-20T09:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/20/us/politics/anti-abortion-roe-v-wade.html",
+      "byline": "By Elizabeth Dias"
+    },
+    {
+      "headline": "The $20 Billion Question for Guyana",
+      "snippet": "This largely underdeveloped country on South America’s northern Atlantic coast is the unlikely setting for the world’s next big oil boom. But is it ready to handle the riches?",
+      "abstract": "This largely underdeveloped country on South America’s northern Atlantic coast is the unlikely setting for the world’s next big oil boom. But is it ready to handle the riches?",
+      "lead_paragraph": "GEORGETOWN, Guyana — Guyana is a vast, watery wilderness with only three paved highways. There are a few dirt roads between villages that sit on stilts along rivers snaking through the rain forest. Children in remote areas go to school in dugout canoes, and play naked in the muggy heat. ",
+      "publication_date": "2018-07-20T09:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2018/07/20/business/energy-environment/the-20-billion-question-for-guyana.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "A Minister Fetes a Convicted Lynch Mob, and Many Indians Recoil",
+      "snippet": "Jayant Sinha, an American-educated politician, draped flowers around the necks of Hindu men convicted of killing a Muslim, prompting a national debate.",
+      "abstract": "Jayant Sinha, an American-educated politician, draped flowers around the necks of Hindu men convicted of killing a Muslim, prompting a national debate.",
+      "lead_paragraph": "HAZARIBAGH, India — Jayant Sinha is a Celtics fan. He graduated from Harvard. He worked for McKinsey & Company.",
+      "publication_date": "2018-07-20T09:25:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/20/world/asia/india-jayant-sinha-lynch-mob.html",
+      "byline": "By Jeffrey Gettleman and Hari Kumar"
+    },
+    {
+      "headline": "Trump Blasts Fed, China and Europe for Putting U.S. Economy at a Disadvantage",
+      "snippet": "The president turned his ire on the American central bank, as well as trading partners that are fighting back against his tariffs, in a series of Twitter posts.",
+      "abstract": "The president turned his ire on the American central bank, as well as trading partners that are fighting back against his tariffs, in a series of Twitter posts.",
+      "lead_paragraph": "WASHINGTON — President Trump accused China and the European Union on Friday of manipulating their currencies to gain an edge in global trade and escalated his criticism of the Federal Reserve for raising interest rates, saying those moves were putting the United States at a disadvantage.",
+      "publication_date": "2018-07-20T14:20:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/20/business/trump-fed-china-economy.html",
+      "byline": "By Ana Swanson, Jim Tankersley and Alan Rappeport"
+    },
+    {
+      "headline": "Michael Cohen Secretly Taped Trump Discussing Payment to Playboy Model",
+      "snippet": "The F.B.I. seized the recording in a raid. Its existence recording highlights the potential legal and political danger that Mr. Cohen represents to the president.",
+      "abstract": "The F.B.I. seized the recording in a raid. Its existence recording highlights the potential legal and political danger that Mr. Cohen represents to the president.",
+      "lead_paragraph": "WASHINGTON — Updated July 25, 2018: The audio recording of Mr. Cohen and Mr. Trump discussing hush money for a former Playboy model has been released. Read our latest coverage. The audio is also available below. ",
+      "publication_date": "2018-07-20T15:39:25+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/07/20/us/politics/michael-cohen-trump-tape.html",
+      "byline": "By Matt Apuzzo, Maggie Haberman and Michael S. Schmidt"
+    }
+  ]
+}

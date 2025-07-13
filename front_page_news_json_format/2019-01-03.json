@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-01-03",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Tesla Reports Record Output, but Cuts Prices, and Its Shares Plunge",
+      "snippet": "The automaker said sales of the Model 3 sedan increased 13 percent over the previous quarter, but the price cut could signal softening demand.",
+      "abstract": "The automaker said sales of the Model 3 sedan increased 13 percent over the previous quarter, but the price cut could signal softening demand.",
+      "lead_paragraph": "Tesla reported a record quarter on Wednesday, and investors responded with a sell-off.",
+      "publication_date": "2019-01-02T16:05:55+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/02/business/tesla-sales-price-cut.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Led by Cult Bourbons, Distillers Dream of a ‘Napa-fication’ of Kentucky",
+      "snippet": "The global liquor industry is pouring capital into the region. But will tourists really travel for the “whiskey experience”?",
+      "abstract": "The global liquor industry is pouring capital into the region. But will tourists really travel for the “whiskey experience”?",
+      "lead_paragraph": "In September 2014, a bourbon brand called Kentucky Owl began to appear on liquor-store shelves around Louisville. The American whiskey market was booming, and dozens of new bourbons were showing up each year. But Kentucky Owl was different. Released exclusively within the state in tiny quantities and produced by the scion of an old Kentucky whiskey family, it had an undeniable mystique — and a price tag of $170.",
+      "publication_date": "2019-01-02T16:43:46+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/01/02/business/kentucky-owl-bourbon-tourism-napa.html",
+      "byline": "By Clay Risen"
+    },
+    {
+      "headline": "E.C.B. Takes Reins of Italian Bank to Prevent Wider Crisis",
+      "snippet": "Europe’s central bank took control of troubled Banca Carige, an unprecedented step to manage risk as Italy’s political and economic woes continue.",
+      "abstract": "Europe’s central bank took control of troubled Banca Carige, an unprecedented step to manage risk as Italy’s political and economic woes continue.",
+      "lead_paragraph": "FRANKFURT — The European Central Bank took control of a troubled Italian bank Wednesday, an unprecedented step that spotlighted the risks to the eurozone’s financial system from political chaos in Rome and a sputtering economy.",
+      "publication_date": "2019-01-02T20:39:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/02/business/ecb-italian-bank-banca-carige.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "Sexism Claims From Bernie Sanders’s 2016 Run: Paid Less, Treated Worse",
+      "snippet": "Complaints of sexual harassment and pay disparity by former campaign staff members, which have gone unaddressed by the Vermont senator, could hinder a second presidential run.",
+      "abstract": "Complaints of sexual harassment and pay disparity by former campaign staff members, which have gone unaddressed by the Vermont senator, could hinder a second presidential run.",
+      "lead_paragraph": "In February 2016, Giulianna Di Lauro, a Latino outreach strategist for Senator Bernie Sanders’s presidential operation, complained to her supervisor that she had been harassed by a campaign surrogate whom she drove to events ahead of the Democratic primary in Nevada.",
+      "publication_date": "2019-01-02T20:45:11+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/02/us/politics/bernie-sanders-campaign-sexism.html",
+      "byline": "By Sydney Ember and Katie Benner"
+    },
+    {
+      "headline": "Spurning Erdogan’s Vision, Turks Leave in Droves, Draining Money and Talent",
+      "snippet": "Driven by fear of persecution and economic mismanagement, the exodus threatens to reorder the society permanently and set Turkey back decades.",
+      "abstract": "Driven by fear of persecution and economic mismanagement, the exodus threatens to reorder the society permanently and set Turkey back decades.",
+      "lead_paragraph": "ISTANBUL — For 17 years, President Recep Tayyip Erdogan won elections by offering voters a vision of restoring the glories of Turkey’s Ottoman past. He extended his country’s influence with increased trade and military deployments, and he raised living standards with years of unbroken economic growth.",
+      "publication_date": "2019-01-02T20:51:31+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/02/world/europe/turkey-emigration-erdogan.html",
+      "byline": "By Carlotta Gall"
+    },
+    {
+      "headline": "Nancy Pelosi, Icon of Female Power, Will Reclaim Role as Speaker and Seal a Place in History",
+      "snippet": "Ms. Pelosi is poised to become House speaker again Thursday, solidifying her status as the highest-ranking and most powerful elected woman in the history of American politics.",
+      "abstract": "Ms. Pelosi is poised to become House speaker again Thursday, solidifying her status as the highest-ranking and most powerful elected woman in the history of American politics.",
+      "lead_paragraph": "WASHINGTON — There was a brief moment in Nancy Pelosi’s life when she worried she had too much power. She had so many titles in the California Democratic Party, including chairwoman, that she told Lindy Boggs, a Louisiana congresswoman, that she was thinking of giving some up.",
+      "publication_date": "2019-01-02T21:01:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/02/us/politics/nancy-pelosi-house-speaker.html",
+      "byline": "By Sheryl Gay Stolberg"
+    },
+    {
+      "headline": "Apple Cuts Revenue Forecast Because of Slow iPhone Sales in China",
+      "snippet": "A surprise announcement added to concerns about the ability of American tech giants to navigate an increasingly uncertain economy and a trade war with China.",
+      "abstract": "A surprise announcement added to concerns about the ability of American tech giants to navigate an increasingly uncertain economy and a trade war with China.",
+      "lead_paragraph": "SAN FRANCISCO — Apple reduced its revenue expectations for the first time in 16 years on Wednesday because of poor iPhone sales in China, an unexpected development that underscored the slowing of China’s economy and raised fears of further turmoil in global markets.",
+      "publication_date": "2019-01-02T22:03:34+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/02/technology/apple-revenue-decline-china.html",
+      "byline": "By Jack Nicas and Keith Bradsher"
+    },
+    {
+      "headline": "Last Month, Investors Seemed Too Pessimistic. Now, They Seem Prescient.",
+      "snippet": "Revenue warnings from Apple and Delta Air Lines and weaker manufacturing data suggest that the economy and corporate profits are slowing more than expected.",
+      "abstract": "Revenue warnings from Apple and Delta Air Lines and weaker manufacturing data suggest that the economy and corporate profits are slowing more than expected.",
+      "lead_paragraph": "Maybe the markets were not overreacting.",
+      "publication_date": "2019-01-03T09:22:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/03/business/world-stock-market.html",
+      "byline": "By Peter Eavis and Binyamin Appelbaum"
+    },
+    {
+      "headline": "Devices That Will Invade Your Life in 2019 (and What’s Overhyped)",
+      "snippet": "A.I. that responds to your voice. Next-generation wireless networks. If this year’s biggest consumer technology trends have a familiar ring, there’s a reason for that. ",
+      "abstract": "A.I. that responds to your voice. Next-generation wireless networks. If this year’s biggest consumer technology trends have a familiar ring, there’s a reason for that. ",
+      "lead_paragraph": "Imagine a future where you are never truly alone. Even when your spouse is on a business trip or your children are away at summer camp, you will always have someone (or something) to talk to. In the morning, you could ask the microwave to heat up a bowl of oatmeal. In your car, you could tell your stereo to put on some ’90s music. And when you walk into the office, you could ask your smartphone, “What’s on my calendar today?”",
+      "publication_date": "2019-01-03T10:00:07+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/01/03/technology/personaltech/tech-2019-overhyped.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Spy or Not? American Who Loves Russia Ensnared in New Cold War",
+      "snippet": "Paul N. Whelan, now in a Moscow prison, cut a curious figure. He traveled on Russian trains, collected tea glass holders and cultivated military contacts.",
+      "abstract": "Paul N. Whelan, now in a Moscow prison, cut a curious figure. He traveled on Russian trains, collected tea glass holders and cultivated military contacts.",
+      "lead_paragraph": "WASHINGTON — He loved to travel around Russia by train, collected tea glass holders stamped with Russian historical scenes and maintained social media friendships with ordinary Russians, from a hairstylist to retired members of the country’s military.",
+      "publication_date": "2019-01-03T15:09:26+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/01/03/world/europe/us-spy-suspect-whelan-russia.html",
+      "byline": "By Julian E. Barnes and Neil MacFarquhar"
+    }
+  ]
+}

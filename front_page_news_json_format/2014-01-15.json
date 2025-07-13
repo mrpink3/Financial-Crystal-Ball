@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2014-01-15",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Rebuffing F.C.C. in ‘Net Neutrality’ Case, Court Allows Streaming Deals",
+      "snippet": "The decision by a federal appeals court could pave the way for providers like Verizon and AT&T to charge content companies to deliver data at a faster speed.",
+      "abstract": "The decision by a federal appeals court could pave the way for providers like Verizon and AT&T to charge content companies to deliver data at a faster speed.",
+      "lead_paragraph": "WASHINGTON — Internet service providers are free to make deals with services like Netflix or Amazon allowing those companies to pay to stream their products to online viewers through a faster, express lane on the web, a federal appeals court ruled on Tuesday.",
+      "publication_date": "2014-01-14T17:09:45+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/15/technology/appeals-court-rejects-fcc-rules-on-internet-service-providers.html",
+      "byline": "By Edward Wyatt"
+    },
+    {
+      "headline": "Seeking Ways to Help the Poor and Childless",
+      "snippet": "A program similar to the earned-income tax credit acknowledges that the job market alone can’t provide for all workers’ needs.",
+      "abstract": "A program similar to the earned-income tax credit acknowledges that the job market alone can’t provide for all workers’ needs.",
+      "lead_paragraph": "Last Friday at the Food Bank for New York on 116th Street, I caught a glimpse of the many shapes of need.",
+      "publication_date": "2014-01-14T22:17:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/15/business/economy/looking-for-ways-to-help-the-childless-poor.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Obama to Place Some Restraints on Surveillance",
+      "snippet": "President Obama plans to increase limits on access to phone data, call for privacy safeguards for foreigners and propose the creation of a public advocate post, according to people briefed on his thinking.",
+      "abstract": "President Obama plans to increase limits on access to phone data, call for privacy safeguards for foreigners and propose the creation of a public advocate post, according to people briefed on his thinking.",
+      "lead_paragraph": "WASHINGTON — President Obama will issue new guidelines on Friday to curtail government surveillance, but will not embrace the most far-reaching proposals of his own advisers and will ask Congress to help decide some of the toughest issues, according to people briefed on his thinking.",
+      "publication_date": "2014-01-14T22:31:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/15/us/politics/judge-warns-proposed-safeguards-could-hamper-surveillance-court.html",
+      "byline": "By Peter Baker and Charlie Savage"
+    },
+    {
+      "headline": "N.S.A. Devises Radio Pathway Into Computers",
+      "snippet": "The agency has put software in thousands of computers that allows for surveillance and can also create a path for launching cyberattacks, according to documents, experts and officials.",
+      "abstract": "The agency has put software in thousands of computers that allows for surveillance and can also create a path for launching cyberattacks, according to documents, experts and officials.",
+      "lead_paragraph": "WASHINGTON — The National Security Agency has implanted software in nearly 100,000 computers around the world that allows the United States to conduct surveillance on those machines and can also create a digital highway for launching cyberattacks.",
+      "publication_date": "2014-01-15T00:49:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/15/us/nsa-effort-pries-open-computers-not-connected-to-internet.html",
+      "byline": "By David E. Sanger and Thom Shanker"
+    },
+    {
+      "headline": "Seeking Clues to Obesity in Rare Hunger Disorder",
+      "snippet": "A drug being developed for weight loss has been tested in patients with Prader-Willi syndrome, a condition marked by incessant, uncontrollable hunger, and other studies are in the wings.",
+      "abstract": "A drug being developed for weight loss has been tested in patients with Prader-Willi syndrome, a condition marked by incessant, uncontrollable hunger, and other studies are in the wings.",
+      "lead_paragraph": "Lisa Tremblay still recalls in horror the time her daughter Kristin pulled a hot dog crawling with ants from the garbage at a cookout and prepared to swallow it.",
+      "publication_date": "2014-01-15T01:14:46+0000",
+      "section_name": "Health",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/15/health/seeking-clues-to-obesity-in-rare-hunger-disorder.html",
+      "byline": "By Andrew Pollack"
+    },
+    {
+      "headline": "Tech Security Upstarts Enter Fray",
+      "snippet": "Younger firms like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016.",
+      "abstract": "Younger firms like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016.",
+      "lead_paragraph": "SAN FRANCISCO — Steve Bennett, the chief executive of the computer security company Symantec, is spoiling for a fight.",
+      "publication_date": "2014-01-15T01:31:24+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2014/01/15/technology/upstarts-challenge-old-timers-in-lucrative-computer-security-field.html",
+      "byline": "By Nicole Perlroth"
+    },
+    {
+      "headline": "As Refinancing Wanes, Banks Are Wary of New Loans",
+      "snippet": "Many potential borrowers are shut out of the mortgage market, despite evidence in earnings reports that banks are strong enough to provide them with credit.",
+      "abstract": "Many potential borrowers are shut out of the mortgage market, despite evidence in earnings reports that banks are strong enough to provide them with credit.",
+      "lead_paragraph": " The stars seem to be aligning in the housing market. Home prices have been rising for many months, and the federal government is providing immense support to bolster the mortgage market. The big banks that make home loans are strong enough to provide credit to borrowers, as seen in the fourth-quarter results reported Tuesday by JPMorgan Chase and Wells Fargo.",
+      "publication_date": "2014-01-15T02:20:37+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://dealbook.nytimes.com/2014/01/14/as-refinancing-wanes-banks-remain-wary-of-new-loans/",
+      "byline": "By Peter Eavis and Jessica Silver-Greenberg"
+    },
+    {
+      "headline": "Arab Neighbors Take Split Paths in Constitutions",
+      "snippet": "Tunisia and Egypt, whose revolts ignited the Arab Spring, provide a dual lesson in the pitfalls and potentials for democracy in the region as they move toward new charters.",
+      "abstract": "Tunisia and Egypt, whose revolts ignited the Arab Spring, provide a dual lesson in the pitfalls and potentials for democracy in the region as they move toward new charters.",
+      "lead_paragraph": "CAIRO — One is setting a standard for dialogue and democracy that is the envy of the Arab world. The other has become a study in the risks of revolution, on a violent path that seems to lead only in circles.",
+      "publication_date": "2014-01-15T02:26:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/15/world/middleeast/arab-neighbors-take-split-paths-in-constitutions.html",
+      "byline": "By David D. Kirkpatrick and Carlotta Gall"
+    },
+    {
+      "headline": "Ads Attacking Health Law Stagger Outspent Democrats",
+      "snippet": "A group financed in part by the Koch brothers is spending millions on ads aimed at vulnerable Democrats who supported the Affordable Care Act.",
+      "abstract": "A group financed in part by the Koch brothers is spending millions on ads aimed at vulnerable Democrats who supported the Affordable Care Act.",
+      "lead_paragraph": "WASHINGTON — Democrats are increasingly anxious about an onslaught of television ads hitting vulnerable Senate and House candidates for their support of the new health law, since many lack the resources to fight back in the early stages of the midterm campaign.",
+      "publication_date": "2014-01-15T05:37:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/15/us/politics/ads-attacking-on-health-law-stagger-outspent-democrats.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "After Flurry of Changes, Some States Ease Up",
+      "snippet": "In many states under single-party control, lawmakers are steering away from the divisive battles on abortion, gun control, collective bargaining and large tax cuts that have marked recent sessions in state capitols.",
+      "abstract": "In many states under single-party control, lawmakers are steering away from the divisive battles on abortion, gun control, collective bargaining and large tax cuts that have marked recent sessions in state capitols.",
+      "lead_paragraph": "LOS ANGELES — One year ago, Gov. John W. Hickenlooper, a Colorado Democrat, stood before a state legislature controlled by his party and laid out an aggressive agenda that included a sweeping expansion of gun-control laws after the mass shooting at an Aurora movie house. “Why not have universal background checks for all gun sales?” he asked.",
+      "publication_date": "2014-01-15T06:07:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2014/01/15/us/politics/after-flurry-of-changes-some-states-ease-up.html",
+      "byline": "By Adam Nagourney"
+    }
+  ]
+}

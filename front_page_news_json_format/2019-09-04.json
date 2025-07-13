@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2019-09-04",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Welcome to San Diego. Don’t Mind the Scooters.",
+      "snippet": "A year ago, electric rental scooters were hailed as the next big thing in transportation. But their troubles in San Diego show how the services have now hit growing pains.",
+      "abstract": "A year ago, electric rental scooters were hailed as the next big thing in transportation. But their troubles in San Diego show how the services have now hit growing pains.",
+      "lead_paragraph": "SAN DIEGO — The first thing you notice in San Diego’s historic Gaslamp Quarter is not the brick sidewalks, the rows of bars and the roving gaggles of bachelorette parties and conferencegoers, or even the actual gas lamps.",
+      "publication_date": "2019-09-04T07:00:21+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/04/technology/san-diego-electric-scooters.html",
+      "byline": "By Erin Griffith"
+    },
+    {
+      "headline": "Hong Kong’s Leader, Carrie Lam, to Withdraw Extradition Bill That Ignited Protests",
+      "snippet": "The move eliminates a major objection among protesters, but it was unclear if it would be enough to bring an end to intensifying demonstrations.",
+      "abstract": "The move eliminates a major objection among protesters, but it was unclear if it would be enough to bring an end to intensifying demonstrations.",
+      "lead_paragraph": "HONG KONG — Carrie Lam, Hong Kong’s chief executive, said Wednesday that the government would withdraw a contentious extradition bill that ignited months of protests in the city, moving to quell the worst political crisis since the former British colony returned to Chinese control 22 years ago.",
+      "publication_date": "2019-09-04T07:06:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/04/world/asia/hong-kong-carrie-lam-protests.html",
+      "byline": "By Austin Ramzy and Elaine Yu"
+    },
+    {
+      "headline": "A Breakthrough for A.I. Technology: Passing an 8th-Grade Science Test",
+      "snippet": "Researchers at the Allen Institute have hit an artificial-intelligence milestone: a machine that is ready for high school science. Maybe even college.",
+      "abstract": "Researchers at the Allen Institute have hit an artificial-intelligence milestone: a machine that is ready for high school science. Maybe even college.",
+      "lead_paragraph": "SAN FRANCISCO — Four years ago, more than 700 computer scientists competed in a contest to build artificial intelligence that could pass an eighth-grade science test. There was $80,000 in prize money on the line.",
+      "publication_date": "2019-09-04T09:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/04/technology/artificial-intelligence-aristo-passed-test.html",
+      "byline": "By Cade Metz"
+    },
+    {
+      "headline": "Google Is Fined $170 Million for Violating Children’s Privacy on YouTube",
+      "snippet": "As part of a settlement, YouTube said it would also institute new privacy measures on children’s videos. Critics said the changes did not go far enough to protect children.",
+      "abstract": "As part of a settlement, YouTube said it would also institute new privacy measures on children’s videos. Critics said the changes did not go far enough to protect children.",
+      "lead_paragraph": "Google agreed on Wednesday to pay a record $170 million fine and make changes to protect children’s privacy on YouTube, as regulators said the video site had knowingly and illegally harvested personal information from children and used it to profit by targeting them with ads.",
+      "publication_date": "2019-09-04T13:10:35+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/04/technology/google-youtube-fine-ftc.html",
+      "byline": "By Natasha Singer and Kate Conger"
+    }
+  ]
+}

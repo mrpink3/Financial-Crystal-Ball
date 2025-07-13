@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2015-04-08",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "In Parched California, Innovation, Like Water, Has Limits",
+      "snippet": "California’s challenge is economic and political. The state may have plenty of water, but it doesn’t have enough for every possible use.",
+      "abstract": "California’s challenge is economic and political. The state may have plenty of water, but it doesn’t have enough for every possible use.",
+      "lead_paragraph": "California’s drought has not spared A. G. Kawamura.",
+      "publication_date": "2015-04-07T18:41:13+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/08/business/economy/in-parched-california-innovation-like-water-has-a-limit.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "Rand Paul Taking an Untested Route to the Republican Nomination",
+      "snippet": "A conservative message threaded with a contrarian strain of libertarianism is perhaps the most unconventional route to assembling a winning coalition.",
+      "abstract": "A conservative message threaded with a contrarian strain of libertarianism is perhaps the most unconventional route to assembling a winning coalition.",
+      "lead_paragraph": "LOUISVILLE, Ky. — Senator Rand Paul’s entry on Tuesday into the race for the White House said as much about his own political aspirations as it did about a vexing truth for Republicans: Many of them believe their party is simply not big enough to elect a president in 2016.",
+      "publication_date": "2015-04-07T20:38:09+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/08/us/politics/rand-paul-is-trying-an-untested-route-to-the-white-house.html",
+      "byline": "By Jeremy W. Peters"
+    },
+    {
+      "headline": "In Newark, a Vertical Indoor Farm Helps Anchor an Area’s Revival",
+      "snippet": "AeroFarms, which produces vegetables and herbs indoors, is transforming an old steel factory into a $39 million, 69,000-square-foot complex in the Ironbound section.",
+      "abstract": "AeroFarms, which produces vegetables and herbs indoors, is transforming an old steel factory into a $39 million, 69,000-square-foot complex in the Ironbound section.",
+      "lead_paragraph": "NEWARK — Schools, sports arenas and apartment buildings have sprouted in recent years in this troubled city as part of efforts to revitalize it. Now, it’s kale’s turn to take root in a most unusual spot.",
+      "publication_date": "2015-04-07T20:39:31+0000",
+      "section_name": "Real Estate",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/08/realestate/commercial/in-newark-a-vertical-indoor-farm-helps-anchor-an-areas-revival.html",
+      "byline": "By C. J. Hughes"
+    },
+    {
+      "headline": "Iran’s Leaders Fall Into Line Behind Nuclear Accord",
+      "snippet": "For perhaps the first time, conservatives opposed to a nuclear deal with the West seem to have become disconnected from the power structure in Iran.",
+      "abstract": "For perhaps the first time, conservatives opposed to a nuclear deal with the West seem to have become disconnected from the power structure in Iran.",
+      "lead_paragraph": "TEHRAN — Since the Islamic Revolution in 1979, Iranian hard-liners have been free to take to the streets and object to any form of compromise with the West, and particularly the United States.",
+      "publication_date": "2015-04-07T20:42:22+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/08/world/middleeast/irans-establishment-closes-ranks-in-support-of-nuclear-accord.html",
+      "byline": "By Thomas Erdbrink"
+    },
+    {
+      "headline": "Kansas Limits Abortion Method, Opening a New Line of Attack",
+      "snippet": "The state became the first in the nation to restrict or alter the most common technique used for second-trimester abortions, a move that anti-abortion forces hope other states will follow.",
+      "abstract": "The state became the first in the nation to restrict or alter the most common technique used for second-trimester abortions, a move that anti-abortion forces hope other states will follow.",
+      "lead_paragraph": "Kansas on Tuesday became the first state to sharply restrict or alter the most common technique used for second-trimester abortions, opening a new, emotionally charged line of attack by anti-abortion forces who hope to take it swiftly to other states.",
+      "publication_date": "2015-04-07T21:39:30+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/08/us/kansas-bans-common-second-trimester-abortion-procedure.html",
+      "byline": "By Erik Eckholm and Frances Robles"
+    },
+    {
+      "headline": "South Carolina Officer Is Charged With Murder of Walter Scott",
+      "snippet": "The North Charleston officer, who is white, had said Mr. Scott, an apparently unarmed black man, took his stun gun. But a video shows the officer firing at him eight times.",
+      "abstract": "The North Charleston officer, who is white, had said Mr. Scott, an apparently unarmed black man, took his stun gun. But a video shows the officer firing at him eight times.",
+      "lead_paragraph": "WASHINGTON — A white police officer in North Charleston, S.C., was charged with murder on Tuesday after a video surfaced showing him shooting in the back and killing an apparently unarmed black man while the man ran away.",
+      "publication_date": "2015-04-07T21:59:54+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/04/08/us/south-carolina-officer-is-charged-with-murder-in-black-mans-death.html",
+      "byline": "By Michael S. Schmidt and Matt Apuzzo"
+    },
+    {
+      "headline": "Royal Dutch Shell in Talks for BG Group, a Gas Producer",
+      "snippet": "The BG Group, a British company that is a major player in the market for liquefied natural gas, confirmed the talks. The deal could top $50 billion, the largest in the sector in over five years.",
+      "abstract": "The BG Group, a British company that is a major player in the market for liquefied natural gas, confirmed the talks. The deal could top $50 billion, the largest in the sector in over five years.",
+      "lead_paragraph": "LONDON — The British oil and gas producer BG Group said on Tuesday that it was in advanced discussions with Royal Dutch Shell over a potential sale. A deal could top $50 billion. ",
+      "publication_date": "2015-04-07T23:07:19+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/08/business/dealbook/royal-dutch-shell-in-talks-for-bg-group-a-gas-producer.html",
+      "byline": "By Stanley Reed and Michael J. de la Merced"
+    },
+    {
+      "headline": "Giving Out Private Data for Discount in Insurance",
+      "snippet": "John Hancock will become the first life insurance company to offer a program for Americans that tracks medical information and offers lower premiums for healthful behavior.",
+      "abstract": "John Hancock will become the first life insurance company to offer a program for Americans that tracks medical information and offers lower premiums for healthful behavior.",
+      "lead_paragraph": "Andrew Thomas’s life insurer knows exactly when he arrives at his local gym. The company is notified when he swipes his membership card, and 30 minutes later, it checks that he is still there, tracking his location through his smartphone.",
+      "publication_date": "2015-04-08T04:01:21+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/08/your-money/giving-out-private-data-for-discount-in-insurance.html",
+      "byline": "By Tara Siegel Bernard"
+    },
+    {
+      "headline": "Royal Dutch Shell to Buy BG Group for Nearly $70 Billion",
+      "snippet": "The BG Group is a major player in liquefied natural gas, and if the deal is completed, the sale would be a rare bright spot for energy deal makers.",
+      "abstract": "The BG Group is a major player in liquefied natural gas, and if the deal is completed, the sale would be a rare bright spot for energy deal makers.",
+      "lead_paragraph": "LONDON — Energy companies have spent months in a state of strategic paralysis, wary of making big moves with oil prices plunging.",
+      "publication_date": "2015-04-08T07:15:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/09/business/dealbook/royal-dutch-shell-bg-group.html",
+      "byline": "By Stanley Reed and Michael J. de la Merced"
+    },
+    {
+      "headline": "Apple Watch Review: Bliss, but Only After a Steep Learning Curve",
+      "snippet": "When apps are streamlined and first-generation bugs are fixed, the Apple Watch has the potential to be a life-changer. (With video.)",
+      "abstract": "When apps are streamlined and first-generation bugs are fixed, the Apple Watch has the potential to be a life-changer. (With video.)",
+      "lead_paragraph": "It took three days — three long, often confusing and frustrating days — for me to fall for the Apple Watch. But once I fell, I fell hard.",
+      "publication_date": "2015-04-08T12:01:04+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/04/09/technology/personaltech/apple-watch-bliss-but-only-after-a-steep-learning-curve.html",
+      "byline": "By Farhad Manjoo"
+    }
+  ]
+}

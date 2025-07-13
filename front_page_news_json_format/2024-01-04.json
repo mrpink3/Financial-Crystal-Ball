@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2024-01-04",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Leader’s Killing Is a Blow, but Not a Knockout, for Hamas",
+      "snippet": "The killing of Saleh al-Arouri, a key Hamas strategist, in Lebanon sets the organization back at a vulnerable time. The group has rebuilt after the assassination of other leaders, though.",
+      "abstract": "The killing of Saleh al-Arouri, a key Hamas strategist, in Lebanon sets the organization back at a vulnerable time. The group has rebuilt after the assassination of other leaders, though.",
+      "lead_paragraph": "The killing of Saleh al-Arouri, a top Hamas leader, on Tuesday deprives the group of one of its most skilled tacticians, who helped route money and weapons to its operatives in the Gaza Strip and elsewhere in the Middle East and integrated Hamas more tightly into Iran’s network of forces committed to fighting Israel, according to analysts.",
+      "publication_date": "2024-01-03T16:15:48+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/world/middleeast/hamas-leader-saleh-al-arouri-killed-ramifications.html",
+      "byline": "By Ben Hubbard"
+    },
+    {
+      "headline": "Auto Sales Are Expected to Slow After a Strong 2023",
+      "snippet": "Automakers sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from higher interest rates.",
+      "abstract": "Automakers sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from higher interest rates.",
+      "lead_paragraph": "After enjoying a strong rebound in sales in 2023, the auto industry appears headed for slower growth this year as consumers struggle with elevated interest rates and high prices for new cars and light trucks.",
+      "publication_date": "2024-01-03T16:31:58+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/03/business/economy/auto-sales-general-motors.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says",
+      "snippet": "The National Labor Relations Board said the rocket company had wrongly dismissed eight people for a letter raising concerns about the chief executive.",
+      "abstract": "The National Labor Relations Board said the rocket company had wrongly dismissed eight people for a letter raising concerns about the chief executive.",
+      "lead_paragraph": "Federal labor officials accused the rocket company SpaceX on Wednesday of illegally firing eight employees for circulating a letter critical of the company’s founder and chief executive, Elon Musk.",
+      "publication_date": "2024-01-03T19:41:27+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Menendez Case Focuses on How Qatar Trades Its Riches for Clout",
+      "snippet": "The tiny Gulf state has cultivated relationships with powerful people and institutions to raise its global profile, and to protect its interests.",
+      "abstract": "The tiny Gulf state has cultivated relationships with powerful people and institutions to raise its global profile, and to protect its interests.",
+      "lead_paragraph": "When Senator Robert Menendez arrived in Qatar in 2022 to attend the country’s lavish production of the men’s soccer World Cup, he gave an unusual interview to the authoritarian government’s news agency praising the progress that Qatar had made on labor rights.",
+      "publication_date": "2024-01-03T21:04:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/world/middleeast/menendez-indictment-qatar.html",
+      "byline": "By Vivian Nereim and Tariq Panja"
+    },
+    {
+      "headline": "Attacks Heighten Fears of a Wider War for the Middle East and U.S.",
+      "snippet": "The killing of a top Hamas leader in Lebanon and mysterious twin explosions in Iran heighten fears of a regional war that could draw in the United States.",
+      "abstract": "The killing of a top Hamas leader in Lebanon and mysterious twin explosions in Iran heighten fears of a regional war that could draw in the United States.",
+      "lead_paragraph": "American, Israeli and Lebanese officials insist that few parties want Israel’s war in Gaza to become a wider conflict that engulfs the Middle East.",
+      "publication_date": "2024-01-03T23:35:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/us/politics/war-israel-iran-hezbollah-yemen.html",
+      "byline": "By Eric Schmitt, Julian E. Barnes, Helene Cooper and David E. Sanger"
+    },
+    {
+      "headline": "A Skeptic of the G.O.P.’s Hard Immigration Line Becomes Its Champion",
+      "snippet": "Representative Tony Gonzales, who represents a Texas border district, drew a censure and primary opponents for defying his fellow Republicans on immigration. Now he has swung into line.",
+      "abstract": "Representative Tony Gonzales, who represents a Texas border district, drew a censure and primary opponents for defying his fellow Republicans on immigration. Now he has swung into line.",
+      "lead_paragraph": "When Speaker Mike Johnson and scores of House Republicans converged in Eagle Pass, Texas, on Wednesday to call for a crackdown on migrants at the border, they had a somewhat unlikely host.",
+      "publication_date": "2024-01-04T00:54:17+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/03/us/politics/tony-gonzales-immigration-republicans.html",
+      "byline": "By Karoun Demirjian"
+    },
+    {
+      "headline": "Putin’s Drive to Rewrite History Snares a Retired Lithuanian Judge",
+      "snippet": "A few years ago, Kornelija Maceviciene ruled against Soviet officers for a brutal crackdown on pro-independence protesters in her country in 1991. That has made her a target for a Russian court.",
+      "abstract": "A few years ago, Kornelija Maceviciene ruled against Soviet officers for a brutal crackdown on pro-independence protesters in her country in 1991. That has made her a target for a Russian court.",
+      "lead_paragraph": "When the International Criminal Court issued an arrest warrant last year for President Vladimir V. Putin of Russia, a Moscow court launched a surprise counterattack: It ordered the arrest of a 70-year-old retired judge in Lithuania.",
+      "publication_date": "2024-01-04T10:04:04+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2024/01/04/world/europe/putin-russia-lithuania-judge.html",
+      "byline": "By Andrew Higgins"
+    }
+  ]
+}

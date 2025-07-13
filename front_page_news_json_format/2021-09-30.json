@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2021-09-30",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "Gas Shortages Awaken Britain to Some Crucial Workers: Truck Drivers",
+      "snippet": "Dwindling pay, poor roadside conditions and post-Brexit immigration rules have led to a critical shortage of drivers. Despite appeals, some say they are reluctant to return.",
+      "abstract": "Dwindling pay, poor roadside conditions and post-Brexit immigration rules have led to a critical shortage of drivers. Despite appeals, some say they are reluctant to return.",
+      "lead_paragraph": "LONDON — For more than three decades David Carden drove across England’s Midlands, transporting tens of thousands of liters of fuel from holding tanks to service stations. The flammable liquid made it a dangerous job requiring skill and caution, but when he started the pay and the benefits were good, enabling him to support his young family.",
+      "publication_date": "2021-09-29T17:04:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/29/business/gas-shortages-britain-truck-drivers.html",
+      "byline": "By Eshe Nelson and Megan Specia"
+    },
+    {
+      "headline": "Democrats Move to Avert Shutdown, but Divisions Imperil Biden’s Agenda",
+      "snippet": "Democrats prepared a spending bill to keep the government funded past a Thursday deadline, but moderates dug in harder against their ambitious social safety net bill.",
+      "abstract": "Democrats prepared a spending bill to keep the government funded past a Thursday deadline, but moderates dug in harder against their ambitious social safety net bill.",
+      "lead_paragraph": "Follow our live news coverage on the government shutdown and infrastructure bill.",
+      "publication_date": "2021-09-29T17:31:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/29/us/politics/debt-limit-spending-bill.html",
+      "byline": "By Emily Cochrane and Jim Tankersley"
+    },
+    {
+      "headline": "‘Stalkerware’ Apps Are Proliferating. Protect Yourself.",
+      "snippet": "These spyware apps record your conversations, location and everything you type, all while camouflaged as a calculator or calendar.",
+      "abstract": "These spyware apps record your conversations, location and everything you type, all while camouflaged as a calculator or calendar.",
+      "lead_paragraph": "It looked like a calculator app. But it was actually spyware recording my every keystroke — the type of data that would give a stalker unfettered access to my private life.",
+      "publication_date": "2021-09-29T18:09:58+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/09/29/technology/personaltech/stalkerware-apps-protection.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Kyrsten Sinema Is at the Center of It All. Some Arizonans Wish She Weren’t.",
+      "snippet": "The centrist senator is key to President Biden’s agenda in Washington. Her positions have angered some Democrats back home.",
+      "abstract": "The centrist senator is key to President Biden’s agenda in Washington. Her positions have angered some Democrats back home.",
+      "lead_paragraph": "PHOENIX — Jade Duran once spent her weekends knocking on doors to campaign for Senator Kyrsten Sinema, the stubbornly centrist Democrat whose vote could seal the fate of a vast Democratic effort to remake America’s social safety net. But no more.",
+      "publication_date": "2021-09-29T20:27:43+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/09/29/us/kyrsten-sinema-voters.html",
+      "byline": "By Jack Healy and Emily Cochrane"
+    }
+  ]
+}

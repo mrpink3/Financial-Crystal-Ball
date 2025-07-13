@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2019-09-20",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Survey Shows Broad Opposition to Trump Trade Policies",
+      "snippet": "An increasing share of Americans say the tariff fight with China will be bad for the United States, and the concern crosses party lines.",
+      "abstract": "An increasing share of Americans say the tariff fight with China will be bad for the United States, and the concern crosses party lines.",
+      "lead_paragraph": "Economists and business leaders have been warning for months that President Trump’s trade war could damage the economy. The American public increasingly shares those concerns.",
+      "publication_date": "2019-09-19T16:30:32+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/19/business/economy/trade-war-economic-concerns.html",
+      "byline": "By Ben Casselman and Ana Swanson"
+    },
+    {
+      "headline": "U.S. Orders Duke and U.N.C. to Recast Tone in Mideast Studies",
+      "snippet": "The Education Department is investigating a Middle East studies program run by Duke and the University of North Carolina, citing, among other issues, how Judaism is discussed.",
+      "abstract": "The Education Department is investigating a Middle East studies program run by Duke and the University of North Carolina, citing, among other issues, how Judaism is discussed.",
+      "lead_paragraph": "WASHINGTON — The Education Department has ordered Duke University and the University of North Carolina at Chapel Hill to remake the Middle East studies program run jointly by the two schools after concluding that it was offering students a biased curriculum that, among other complaints, did not present enough “positive” imagery of Judaism and Christianity in the region.",
+      "publication_date": "2019-09-19T17:12:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/19/us/politics/anti-israel-bias-higher-education.html",
+      "byline": "By Erica L. Green"
+    },
+    {
+      "headline": "Attack on Saudi Oil Facilities Tests U.S. Guarantee to Defend Gulf",
+      "snippet": "The American hesitation to take military action may signal a weakening of its commitment to protect the Arab Persian Gulf and could embolden Iran.",
+      "abstract": "The American hesitation to take military action may signal a weakening of its commitment to protect the Arab Persian Gulf and could embolden Iran.",
+      "lead_paragraph": "The oil-rich monarchies of the Persian Gulf have relied for decades on the promise of protection by the United States military, a commitment sealed by the rollback of the 1990 invasion of Kuwait and reinforced by a half dozen American military bases that sprang up around the region.",
+      "publication_date": "2019-09-19T22:43:53+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/19/world/middleeast/saudi-iran-attack-oil.html",
+      "byline": "By David D. Kirkpatrick and Ben Hubbard"
+    },
+    {
+      "headline": "Bezos and Zuckerberg Take Their Pitches to Washington",
+      "snippet": "The Amazon and Facebook leaders were there for different reasons, but the appearances highlighted their companies’ need to reshape the public debate about their practices.",
+      "abstract": "The Amazon and Facebook leaders were there for different reasons, but the appearances highlighted their companies’ need to reshape the public debate about their practices.",
+      "lead_paragraph": "WASHINGTON — Two of the technology industry’s leading figures descended on Washington on Thursday as their companies face growing political pressure.",
+      "publication_date": "2019-09-19T23:17:09+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/09/19/business/bezos-zuckerberg-washington.html",
+      "byline": "By David McCabe and Karen Weise"
+    },
+    {
+      "headline": "Silicon Valley Goes to Therapy",
+      "snippet": "Bummed out by the world and their role in it, tech workers are seeking help — and founding some start-ups along the way.",
+      "abstract": "Bummed out by the world and their role in it, tech workers are seeking help — and founding some start-ups along the way.",
+      "lead_paragraph": "SAN FRANCISCO — Silicon Valley told itself a good story, the best one, really: It was saving the world. For nearly a decade, this gave the modern tech worker purpose, optimism and self-confidence.",
+      "publication_date": "2019-09-20T09:00:05+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/09/20/business/silicon-valley-therapy-anxiety.html",
+      "byline": "By Nellie Bowles"
+    },
+    {
+      "headline": "Secret F.B.I. Subpoenas Scoop Up Personal Data From Scores of Companies",
+      "snippet": "The practice, which the bureau says is vital to counterterrorism efforts, casts a much wider net than previously disclosed, newly released documents show.",
+      "abstract": "The practice, which the bureau says is vital to counterterrorism efforts, casts a much wider net than previously disclosed, newly released documents show.",
+      "lead_paragraph": "The F.B.I. has used secret subpoenas to obtain personal data from far more companies than previously disclosed, newly released documents show.",
+      "publication_date": "2019-09-20T09:00:10+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/09/20/us/data-privacy-fbi.html",
+      "byline": "By Jennifer Valentino-DeVries"
+    },
+    {
+      "headline": "Roundup Weedkiller Is Blamed for Cancers, but Farmers Say It’s Not Going Away",
+      "snippet": "After a blockbuster acquisition, Bayer may lose billions over claims that the No. 1 agricultural chemical is unsafe. But its market niche seems secure.",
+      "abstract": "After a blockbuster acquisition, Bayer may lose billions over claims that the No. 1 agricultural chemical is unsafe. But its market niche seems secure.",
+      "lead_paragraph": "From his farm in northwestern Wisconsin, Andy Bensend watched as first one jury, then another and another, delivered staggering multimillion-dollar verdicts to people who argued that their use of a weedkiller sold at nearly every hardware and home-improvement store had caused their cancer.",
+      "publication_date": "2019-09-20T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "BU",
+      "web_url": "https://www.nytimes.com/2019/09/20/business/bayer-roundup.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}

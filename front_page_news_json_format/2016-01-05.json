@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2016-01-05",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "U.S. Sues Volkswagen in Diesel Emissions Scandal",
+      "snippet": "Federal prosecutors stopped short of criminal charges and did not single out individuals in the scandal, but the Clean Air Act penalties could top $19 billion.",
+      "abstract": "Federal prosecutors stopped short of criminal charges and did not single out individuals in the scandal, but the Clean Air Act penalties could top $19 billion.",
+      "lead_paragraph": "WASHINGTON — The Justice Department sued the German automaker Volkswagen in federal court on Monday, saying that the company installed illegal devices in nearly 600,000 diesel engine systems to impair emissions controls, increasing harmful air pollution.",
+      "publication_date": "2016-01-04T18:09:28+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/05/business/vw-sued-justice-department-emissions-scandal.html",
+      "byline": "By Coral Davenport and Danny Hakim"
+    },
+    {
+      "headline": "As Justices Weigh Affirmative Action, Michigan Offers an Alternative",
+      "snippet": "With the Supreme Court considering a challenge to the affirmative action policy of the University of Texas, campuses like Michigan are finding new ways to attract minorities.",
+      "abstract": "With the Supreme Court considering a challenge to the affirmative action policy of the University of Texas, campuses like Michigan are finding new ways to attract minorities.",
+      "lead_paragraph": "ANN ARBOR, Mich. — Kedra Ishop got results.",
+      "publication_date": "2016-01-04T20:36:07+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/05/us/affirmative-action-supreme-court-michigan.html",
+      "byline": "By Anemona Hartocollis"
+    },
+    {
+      "headline": "Obama to Expand Gun Background Checks and Tighten Enforcement",
+      "snippet": "President Obama’s executive actions on guns will stop short of the kind of large-scale changes that he unsuccessfully sought from Congress three years ago.",
+      "abstract": "President Obama’s executive actions on guns will stop short of the kind of large-scale changes that he unsuccessfully sought from Congress three years ago.",
+      "lead_paragraph": "WASHINGTON — President Obama will announce executive actions on Tuesday intended to expand background checks for some firearm purchases and step up federal enforcement of the nation’s gun laws, White House officials said Monday, once again trying to sidestep a gridlocked Congress on a politically divisive issue.",
+      "publication_date": "2016-01-04T21:28:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/05/us/politics/obama-says-he-will-act-on-gun-control-in-coming-days.html",
+      "byline": "By Michael D. Shear and Eric Lichtblau"
+    },
+    {
+      "headline": "Iran, Emerging From Sanctions, Faces Crisis After Saudi Arabia Embassy Attack",
+      "snippet": "Some Iranians are wondering whether Saudi Arabia has again gained the upper hand in a new diplomatic crisis.",
+      "abstract": "Some Iranians are wondering whether Saudi Arabia has again gained the upper hand in a new diplomatic crisis.",
+      "lead_paragraph": "TEHRAN — When a Saudi state executioner beheaded the prominent Shiite dissident Sheikh Nimr al-Nimr on Saturday, the Shiite theocracy in Iran took it as a deliberate provocation by its regional rival and dusted off its favored playbook, unleashing hard-liner anger on the streets.",
+      "publication_date": "2016-01-04T23:35:47+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/05/world/middleeast/iran-emerging-from-sanctions-faces-more-isolation-after-embassy-attack.html",
+      "byline": "By Thomas Erdbrink"
+    },
+    {
+      "headline": "A Growing Conflict in Wall St. Buyouts",
+      "snippet": "An insidious relationship has developed between the largest private equity firms, the banks that lend them billions to fund buyouts, and the law firms that advise on these deals.",
+      "abstract": "An insidious relationship has developed between the largest private equity firms, the banks that lend them billions to fund buyouts, and the law firms that advise on these deals.",
+      "lead_paragraph": "It goes by a rather innocuous-sounding name, the sort of phrase you might breeze past in a loan document: “designated lender counsel.”",
+      "publication_date": "2016-01-05T01:52:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/05/business/dealbook/a-growing-conflict-in-wall-st-buyouts.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "U.S. in a Bind as Saudi Actions Test a Durable Alliance",
+      "snippet": "The Obama administration could not bring itself to condemn the execution of a dissident cleric who challenged the royal family, for fear of undermining the Saudi leadership it desperately needs in fighting ISIS.",
+      "abstract": "The Obama administration could not bring itself to condemn the execution of a dissident cleric who challenged the royal family, for fear of undermining the Saudi leadership it desperately needs in fighting ISIS.",
+      "lead_paragraph": "WASHINGTON — The Obama administration on Monday confronted the fundamental contradiction in its increasingly tense relationship with Saudi Arabia. It could not bring itself, at least in public, to condemn the execution of a dissident cleric who challenged the royal family, for fear of undermining the fragile Saudi leadership that it desperately needs in fighting the Islamic State and ending the conflict in Syria.",
+      "publication_date": "2016-01-05T01:57:14+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/05/us/politics/us-struggles-to-explain-alliance-with-saudis.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Microsoft Faces New Scrutiny in China",
+      "snippet": "The company’s problems in the country began in 2014, when it ended support for Windows XP, hoping users would upgrade to more recent operating systems.",
+      "abstract": "The company’s problems in the country began in 2014, when it ended support for Windows XP, hoping users would upgrade to more recent operating systems.",
+      "lead_paragraph": "HONG KONG — A few months ago, Satya Nadella, the chief executive of Microsoft, hosted a technology summit meeting at the company’s headquarters near Seattle with some of China’s most powerful political leaders. He smiled for a photo while flanked by Xi Jinping, the country’s president, and Lu Wei, its Internet czar.",
+      "publication_date": "2016-01-05T13:55:04+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2016/01/06/business/international/microsoft-china-antitrust-inquiry.html",
+      "byline": "By Paul Mozur and Nick Wingfield"
+    },
+    {
+      "headline": "Reports of Attacks on Women in Germany Heighten Tension Over Migrants",
+      "snippet": "The reports of assaults on New Year’s Eve in Cologne set off a national outcry after the police described the attackers as young men “who appeared to have a North African or Arabic” background.",
+      "abstract": "The reports of assaults on New Year’s Eve in Cologne set off a national outcry after the police described the attackers as young men “who appeared to have a North African or Arabic” background.",
+      "lead_paragraph": "BERLIN — The tensions simmering beneath Germany’s willingness to take in one million migrants blew into the open on Tuesday after reports that scores of young women in Cologne had been groped and robbed on New Year’s Eve by gangs of men described by the authorities as having “a North African or Arabic” appearance.",
+      "publication_date": "2016-01-05T15:59:06+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2016/01/06/world/europe/coordinated-attacks-on-women-in-cologne-were-unprecedented-germany-says.html",
+      "byline": "By Melissa Eddy"
+    }
+  ]
+}

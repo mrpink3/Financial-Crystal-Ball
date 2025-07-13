@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "date": "2021-06-01",
+    "total_articles": 4
+  },
+  "articles": [
+    {
+      "headline": "China’s Concrete Jungles Make Room for Green Space",
+      "snippet": "A national push to build urban parks is transforming Chinese cities, as the country tries to improve the quality of daily life.",
+      "abstract": "A national push to build urban parks is transforming Chinese cities, as the country tries to improve the quality of daily life.",
+      "lead_paragraph": "SHANGHAI — Suzhou Creek was little more than an open sewer for decades as its murky waters coursed through the heart of Shanghai. Now, it teems with life along verdant banks that stretch for 26 miles.",
+      "publication_date": "2021-06-01T09:00:18+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/01/business/china-parks-green-space.html",
+      "byline": "By Keith Bradsher"
+    },
+    {
+      "headline": "A Rural-Urban Broadband Divide, but Not the One You Think Of",
+      "snippet": "Many more people in cities lack broadband access than in rural areas, but lawmakers are primarily focused on extending high-speed access to remote areas.",
+      "abstract": "Many more people in cities lack broadband access than in rural areas, but lawmakers are primarily focused on extending high-speed access to remote areas.",
+      "lead_paragraph": "Whom should the government help get superfast internet access?",
+      "publication_date": "2021-06-01T09:00:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/06/01/business/rural-urban-broadband-biden.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "How the World Ran Out of Everything",
+      "snippet": "Global shortages of many goods reflect the disruption of the pandemic combined with decades of companies limiting their inventories.",
+      "abstract": "Global shortages of many goods reflect the disruption of the pandemic combined with decades of companies limiting their inventories.",
+      "lead_paragraph": "In the story of how the modern world was constructed, Toyota stands out as the mastermind of a monumental advance in industrial efficiency. The Japanese automaker pioneered so-called Just In Time manufacturing, in which parts are delivered to factories right as they are required, minimizing the need to stockpile them.",
+      "publication_date": "2021-06-01T09:00:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/01/business/coronavirus-global-shortages.html",
+      "byline": "By Peter S. Goodman and Niraj Chokshi"
+    },
+    {
+      "headline": "Disputing Racism’s Reach, Republicans Rattle American Schools",
+      "snippet": "In a culture-war brawl that has spilled into the country’s educational system, Republicans at the local, state and national levels are trying to block curriculums that emphasize systemic racism.",
+      "abstract": "In a culture-war brawl that has spilled into the country’s educational system, Republicans at the local, state and national levels are trying to block curriculums that emphasize systemic racism.",
+      "lead_paragraph": "In Loudoun County, Va., a group of parents led by a former Trump appointee are pushing to recall school board members after the school district called for mandatory teacher training in “systemic oppression and implicit bias.”",
+      "publication_date": "2021-06-01T09:00:24+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/06/01/us/politics/critical-race-theory.html",
+      "byline": "By Trip Gabriel and Dana Goldstein"
+    }
+  ]
+}

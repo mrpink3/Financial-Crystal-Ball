@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2010-11-30",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Splits in Euro Zone Emerge Amid Debt Crisis",
+      "snippet": "Announcing new growth figures, a senior European Union official acknowledged Monday that a two-speed euro zone might now be developing.",
+      "abstract": "Announcing new growth figures, a senior European Union official acknowledged Monday that a two-speed euro zone might now be developing.",
+      "lead_paragraph": "BRUSSELS — Even as Europe struggles to contain its latest debt crisis, fresh fissures are emerging that show the euro zone diverging into two — or even three — different economic parts that threaten to compound the problems even further.",
+      "publication_date": "2010-11-29T20:00:00+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/30/business/global/30euro.html",
+      "byline": "By Stephen Castle"
+    },
+    {
+      "headline": "Cables Depict U.S. Haggling to Clear Guantánamo",
+      "snippet": "State Department cables show the efforts to reduce the population of the Guantánamo prison so it can eventually close.",
+      "abstract": "State Department cables show the efforts to reduce the population of the Guantánamo prison so it can eventually close.",
+      "lead_paragraph": "WASHINGTON — Last year, King Abdullah of Saudi Arabia proposed an unorthodox way to return Guantánamo Bay prisoners to a chaotic country like Yemen without fear that they would disappear and join a terrorist group.",
+      "publication_date": "2010-11-29T21:29:55+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/11/30/world/americas/30gitmo.html",
+      "byline": "By Charlie Savage and Andrew W. Lehren"
+    },
+    {
+      "headline": "North Korea Keeps the World Guessing",
+      "snippet": "The cables on North Korea are short on facts, even when conveying the thoughts of diplomats from China, the North’s ally.",
+      "abstract": "The cables on North Korea are short on facts, even when conveying the thoughts of diplomats from China, the North’s ally.",
+      "lead_paragraph": "WASHINGTON — With North Korea reeling from economic and succession crises, American and South Korean officials early this year secretly began gaming out what would happen if the North, led by one of the world’s most brutal family dynasties, collapsed.",
+      "publication_date": "2010-11-29T21:30:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2010/11/30/world/asia/30korea.html",
+      "byline": "By David E. Sanger"
+    },
+    {
+      "headline": "Breaking Away From Coal",
+      "snippet": "Many companies find that older coal-fired plants require expensive upgrades to meet coming tougher rules on emissions.",
+      "abstract": "Many companies find that older coal-fired plants require expensive upgrades to meet coming tougher rules on emissions.",
+      "lead_paragraph": "HOUSTON  Progress Energy Carolinas, one of the South’s larger utilities, faced a dilemma last winter. ",
+      "publication_date": "2010-11-29T22:41:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/11/30/business/energy-environment/30utilities.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Europe Opens Antitrust Inquiry Into Google",
+      "snippet": "The European regulator said it would examine claims the Internet giant has abused its dominance in online search.",
+      "abstract": "The European regulator said it would examine claims the Internet giant has abused its dominance in online search.",
+      "lead_paragraph": "BRUSSELS  Europe opened a formal antitrust investigation on Tuesday into accusations that Google had abused its dominance in online search, exposing the company’s zealously guarded technology to unwelcome scrutiny.",
+      "publication_date": "2010-11-30T11:10:00+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2010/12/01/technology/01google.html",
+      "byline": "By James Kanter and Eric Pfanner"
+    }
+  ]
+}

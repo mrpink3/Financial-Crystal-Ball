@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2018-04-02",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "The Taliban Have Gone High-Tech. That Poses a Dilemma for the U.S.",
+      "snippet": "American commanders have been forced to consider loosening restrictions on access to night-vision devices for Afghan forces, even though they fear the equipment could be lost or sold underground.",
+      "abstract": "American commanders have been forced to consider loosening restrictions on access to night-vision devices for Afghan forces, even though they fear the equipment could be lost or sold underground.",
+      "lead_paragraph": "WASHINGTON — Once described as an ill-equipped band of insurgents, the Taliban are increasingly attacking security forces across Afghanistan using night-vision goggles and lasers that United States military officials said were either stolen from Afghan and international troops or bought on the black market.",
+      "publication_date": "2018-04-01T07:00:05+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/01/world/asia/taliban-night-vision.html",
+      "byline": "By Thomas Gibbons-Neff and Jawad Sukhanyar"
+    },
+    {
+      "headline": "The Kushners Saw Redemption in the White House. It Was a Mirage.",
+      "snippet": "For the Kushner patriarch and his family, the pinnacle of American political power has turned out to be a wellspring of trouble, bringing criminal and regulatory inquiries.",
+      "abstract": "For the Kushner patriarch and his family, the pinnacle of American political power has turned out to be a wellspring of trouble, bringing criminal and regulatory inquiries.",
+      "lead_paragraph": "It was sweet redemption for Charles Kushner last year when his son Jared was named senior White House adviser. A dozen years earlier, a sordid scandal stemming partly from a family falling-out had reduced the senior Mr. Kushner from real estate baron to felon making wallets at a prison camp in Alabama.",
+      "publication_date": "2018-04-01T09:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/01/us/charles-jared-kushner-white-house-real-estate.html",
+      "byline": "By Sharon LaFraniere and Katie Benner"
+    },
+    {
+      "headline": "After Gun Control Marches, ‘It’ll Go Away’ vs. ‘We Are Not Cynical Yet’",
+      "snippet": "Advocates as well as opponents of gun control, both plotting next steps after the March for Our Lives rally, think their adversaries will eventually tire.",
+      "abstract": "Advocates as well as opponents of gun control, both plotting next steps after the March for Our Lives rally, think their adversaries will eventually tire.",
+      "lead_paragraph": "BERRYVILLE, Va. — For more than a month now, the questions have ricocheted down this Main Street culled from a Norman Rockwell dreamscape — past the dueling barbershops and the outdoor broom sale and the mural with the horse — quietly at first, when the Florida massacre was still fresh, and then not so quietly.",
+      "publication_date": "2018-04-01T14:17:56+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/01/us/politics/gun-control-marches-protests.html",
+      "byline": "By Matt Flegenheimer and Jess Bidgood"
+    },
+    {
+      "headline": "Hollywood’s Ambassador, Schooled in Diplomacy and the Muppets",
+      "snippet": "Charles H. Rivkin, an assistant secretary of state during the Obama administration, is now the chairman of the Motion Picture Association of America. He takes over in a time of upheaval.",
+      "abstract": "Charles H. Rivkin, an assistant secretary of state during the Obama administration, is now the chairman of the Motion Picture Association of America. He takes over in a time of upheaval.",
+      "lead_paragraph": "LOS ANGELES — Charles H. Rivkin began his Hollywood career in 1988, when Jim Henson hired him to plot a business future for Kermit the Frog.",
+      "publication_date": "2018-04-01T21:19:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/01/business/media/mpaa-hollywood-rivkin.html",
+      "byline": "By Brooks Barnes"
+    },
+    {
+      "headline": "Retailers Race Against Amazon to Automate Stores",
+      "snippet": "The opening of Amazon Go was alarming for many retailers, who saw a sudden willingness by Amazon to wield its power in new ways.",
+      "abstract": "The opening of Amazon Go was alarming for many retailers, who saw a sudden willingness by Amazon to wield its power in new ways.",
+      "lead_paragraph": "SEATTLE — To see what it’s like inside stores where sensors and artificial intelligence have replaced cashiers, shoppers have to trek to Amazon Go, the internet retailer’s experimental convenience shop in downtown Seattle.",
+      "publication_date": "2018-04-01T21:52:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/01/technology/retailer-stores-automation-amazon.html",
+      "byline": "By Nick Wingfield, Paul Mozur and Michael Corkery"
+    },
+    {
+      "headline": "They Tried to Boycott Facebook, Apple and Google. They Failed.",
+      "snippet": "People are increasingly calling for boycotts of the big tech companies amid a backlash. The problem is that Facebook, Apple, Amazon and Google are nearly inescapable.",
+      "abstract": "People are increasingly calling for boycotts of the big tech companies amid a backlash. The problem is that Facebook, Apple, Amazon and Google are nearly inescapable.",
+      "lead_paragraph": "SAN FRANCISCO — Ryan Knight, a Democratic activist in Los Angeles, called for a boycott of Apple in February because it hadn’t responded to calls to delete a channel from the National Rifle Association from its streaming-video service after the Parkland, Fla., school shooting.",
+      "publication_date": "2018-04-01T22:44:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/01/business/boycott-facebook-apple-google-failed.html",
+      "byline": "By Jack Nicas"
+    },
+    {
+      "headline": "Tech Thinks It Has a Fix for the Problems It Created: Blockchain",
+      "snippet": "First used with Bitcoin, blockchain technology could reduce the control that big internet companies have over our personal information. But it’s far from a mature technology.",
+      "abstract": "First used with Bitcoin, blockchain technology could reduce the control that big internet companies have over our personal information. But it’s far from a mature technology.",
+      "lead_paragraph": "SAN FRANCISCO — Worried about someone hacking the next election? Bothered by the way Facebook and Equifax coughed up your personal information?",
+      "publication_date": "2018-04-01T22:54:42+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2018/04/01/technology/blockchain-uses.html",
+      "byline": "By Nathaniel Popper"
+    },
+    {
+      "headline": "As Authoritarianism Spreads, Uzbekistan Goes the Other Way",
+      "snippet": "Bucking a global trend, Uzbekistan’s new leader is reining in the secret police, releasing political prisoners and allowing some freedom of expression.",
+      "abstract": "Bucking a global trend, Uzbekistan’s new leader is reining in the secret police, releasing political prisoners and allowing some freedom of expression.",
+      "lead_paragraph": "TASHKENT, Uzbekistan — Unraveling a police state is never easy, and just how fraught the process can be has been playing out in a basement cell in Uzbekistan, a rare example of a country seeking to tame a vicious security apparatus at a time when many other nations are doing the opposite.",
+      "publication_date": "2018-04-02T00:28:03+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/01/world/asia/uzbekistan-reform.html",
+      "byline": "By Andrew Higgins"
+    },
+    {
+      "headline": "Where Companies Welcome Refugees, the More, the Better",
+      "snippet": "In a tight labor market, positions in poultry plants and lumber mills can be tough to fill. But that spells opportunity for recruiters like Ray Wiley.",
+      "abstract": "In a tight labor market, positions in poultry plants and lumber mills can be tough to fill. But that spells opportunity for recruiters like Ray Wiley.",
+      "lead_paragraph": "SILVER SPRING, Md. — With forecasters expecting the unemployment rate to sink further this week, the chorus of complaints about worker shortages — from custodians to computer prodigies — has swelled.",
+      "publication_date": "2018-04-02T01:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/01/business/economy/labor-recruit.html",
+      "byline": "By Patricia Cohen"
+    },
+    {
+      "headline": "Trump’s Immigration Tweets Followed by Policy Plans to Match",
+      "snippet": "President Trump has begun a new push for legislation to crack down on illegal immigration and make it more difficult to obtain refuge in the United States, White House officials said Monday.",
+      "abstract": "President Trump has begun a new push for legislation to crack down on illegal immigration and make it more difficult to obtain refuge in the United States, White House officials said Monday.",
+      "lead_paragraph": "WASHINGTON — President Trump has begun a new push for legislation to crack down on illegal immigration and make it more difficult to obtain refuge in the United States, White House officials said Monday, arguing that lax laws have drawn a flood of migrants to the country’s borders.",
+      "publication_date": "2018-04-02T12:00:44+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2018/04/02/us/politics/trump-immigration-mexico-daca.html",
+      "byline": "By Julie Hirschfeld Davis"
+    }
+  ]
+}

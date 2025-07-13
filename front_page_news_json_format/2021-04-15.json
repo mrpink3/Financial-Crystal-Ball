@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2021-04-15",
+    "total_articles": 8
+  },
+  "articles": [
+    {
+      "headline": "Western Warnings Tarnish Covid Vaccines the World Badly Needs",
+      "snippet": "Amid a deep residue of mistrust, American and European cautions on the AstraZeneca and Johnson & Johnson vaccines risk igniting anti-vaccine fervor in countries that can’t afford to be particular.",
+      "abstract": "Amid a deep residue of mistrust, American and European cautions on the AstraZeneca and Johnson & Johnson vaccines risk igniting anti-vaccine fervor in countries that can’t afford to be particular.",
+      "lead_paragraph": "Safety worries about the AstraZeneca and Johnson & Johnson Covid-19 vaccines have jeopardized inoculation campaigns far beyond the United States, undercutting faith in two sorely needed shots and threatening to prolong the coronavirus pandemic in countries that can ill afford to be choosy about vaccines.",
+      "publication_date": "2021-04-14T17:35:46+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/14/world/europe/western-vaccines-africa-hesitancy.html",
+      "byline": "By Benjamin Mueller"
+    },
+    {
+      "headline": "Biden, Setting Afghanistan Withdrawal, Says ‘It Is Time to End the Forever War’",
+      "snippet": "The president said the main objective of ensuring that Afghanistan would not be a launching pad for terrorism had been achieved and that it was time for American troops to come home.",
+      "abstract": "The president said the main objective of ensuring that Afghanistan would not be a launching pad for terrorism had been achieved and that it was time for American troops to come home.",
+      "lead_paragraph": "WASHINGTON — President Biden declared on Wednesday that “it is time to end the forever war” in Afghanistan, saying that the United States had long ago accomplished its main mission of denying terrorists a haven in the country and that leaving American forces there was no longer worth the cost in blood and money.",
+      "publication_date": "2021-04-15T00:08:05+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/14/us/politics/biden-afghanistan-troop-withdrawal.html",
+      "byline": "By David E. Sanger and Michael D. Shear"
+    },
+    {
+      "headline": "‘It’s a Roller-Coaster Ride’: Global Chip Shortage Is Making Industries Sweat",
+      "snippet": "The internet-connected world is completely dependent on the production of semiconductors. That’s become a problem now that supplies are running short.",
+      "abstract": "The internet-connected world is completely dependent on the production of semiconductors. That’s become a problem now that supplies are running short.",
+      "lead_paragraph": "Dan Rozycki, the president of a small engineering firm, worries about what a global semiconductor shortage could mean for curing concrete.",
+      "publication_date": "2021-04-15T07:00:10+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/15/technology/computer-chip-semiconductor-shortage.html",
+      "byline": "By Don Clark"
+    },
+    {
+      "headline": "Voters Like Biden Infrastructure Plan; G.O.P. Still Sees an Opening on Taxes",
+      "snippet": "A Times poll shows large majorities back spending on roads, ports, broadband and more. But Republicans aim to make corporate tax increases the issue.",
+      "abstract": "A Times poll shows large majorities back spending on roads, ports, broadband and more. But Republicans aim to make corporate tax increases the issue.",
+      "lead_paragraph": "President Biden’s $2.3 trillion infrastructure plan has yet to win over a single Republican in Congress, but it is broadly popular with voters nationwide, mirroring the dynamics of the $1.9 trillion economic aid bill that Mr. Biden signed into law last month.",
+      "publication_date": "2021-04-15T09:00:15+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/15/business/economy/infrastructure-economy-biden.html",
+      "byline": "By Jim Tankersley, Ben Casselman and Emily Cochrane"
+    },
+    {
+      "headline": "U.S. Imposes Stiff Sanctions on Russia, Blaming It for Major Hacking Operation",
+      "snippet": "After years of wrist slaps under President Donald J. Trump, the new measures are intended to have a noticeable effect on the Russian economy.",
+      "abstract": "After years of wrist slaps under President Donald J. Trump, the new measures are intended to have a noticeable effect on the Russian economy.",
+      "lead_paragraph": "WASHINGTON — President Biden on Thursday imposed extensive new sanctions on Russia and formally blamed the country’s premier intelligence agency for the sophisticated hacking operation that breached American government agencies and the nation’s largest companies.",
+      "publication_date": "2021-04-15T12:37:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/04/15/world/europe/us-russia-sanctions.html",
+      "byline": "By David E. Sanger and Andrew E. Kramer"
+    },
+    {
+      "headline": "Biden Takes On Sagging Safety Net With Plan to Fix Long-Term Care",
+      "snippet": "The proposal to spend $400 billion over eight years faces political challenges and a funding system not designed for the burden it has come to bear.",
+      "abstract": "The proposal to spend $400 billion over eight years faces political challenges and a funding system not designed for the burden it has come to bear.",
+      "lead_paragraph": "President Biden’s $400 billion proposal to improve long-term care for older adults and those with disabilities was received as either a long overdue expansion of the social safety net or an example of misguided government overreach.",
+      "publication_date": "2021-04-15T15:24:59+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/15/business/economy/home-care-biden.html",
+      "byline": "By Eduardo Porter"
+    },
+    {
+      "headline": "China’s Economy Is Booming. Shoppers Are Skittish Anyway.",
+      "snippet": "The world’s traditional growth engine reported an 18.3 percent leap in the first quarter. But consumers and small businesses aren’t fully sharing in the spoils.",
+      "abstract": "The world’s traditional growth engine reported an 18.3 percent leap in the first quarter. But consumers and small businesses aren’t fully sharing in the spoils.",
+      "lead_paragraph": "Factories are whirring, new apartments are being snapped up, and more jobs are up for grabs. When China released its new economic figures on Friday, they showed a remarkable postpandemic surge.",
+      "publication_date": "2021-04-15T15:47:45+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/15/business/economy/china-economy.html",
+      "byline": "By Alexandra Stevenson and Cao Li"
+    },
+    {
+      "headline": "Feeding Hate With Video: A Former Alt-Right YouTuber Explains His Methods",
+      "snippet": "Focus on conflict. Feed the algorithm. Make sure whatever you produce reinforces a narrative. Don’t worry if it is true.",
+      "abstract": "Focus on conflict. Feed the algorithm. Make sure whatever you produce reinforces a narrative. Don’t worry if it is true.",
+      "lead_paragraph": "To hear more audio stories from publishers like The New York Times, download Audm for iPhone or Android.",
+      "publication_date": "2021-04-15T16:00:11+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/04/15/technology/alt-right-youtube-algorithm.html",
+      "byline": "By Cade Metz"
+    }
+  ]
+}

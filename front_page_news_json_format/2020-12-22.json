@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2020-12-22",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Barr Sees ‘No Reason’ for Special Counsels for Hunter Biden or the Election",
+      "snippet": "The departing attorney general, William P. Barr, again broke with President Trump on his unsupported claims of widespread election fraud and the need to appoint a special counsel to investigate the president-elect’s son.",
+      "abstract": "The departing attorney general, William P. Barr, again broke with President Trump on his unsupported claims of widespread election fraud and the need to appoint a special counsel to investigate the president-elect’s son.",
+      "lead_paragraph": "WASHINGTON — Attorney General William P. Barr distanced himself again from President Trump on Monday, saying he saw no reason to appoint special counsels to oversee the Justice Department’s criminal investigation into Hunter Biden, son of President-elect Joseph R. Biden Jr., or to investigate Mr. Trump’s baseless claims of widespread voter fraud.",
+      "publication_date": "2020-12-21T16:55:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/21/us/politics/barr-trump-hunter-biden-election.html",
+      "byline": "By Katie Benner"
+    },
+    {
+      "headline": "Concerns About Coronavirus Variant Cut Off U.K. From Europe",
+      "snippet": "Dozens of countries banned air and rail links to Britain, foreshadowing what a “no deal” Brexit could look like in 10 days.",
+      "abstract": "Dozens of countries banned air and rail links to Britain, foreshadowing what a “no deal” Brexit could look like in 10 days.",
+      "lead_paragraph": "LONDON — Britain was all but cut off from the rest of Europe on Monday, with flights and trains banned by some 40 countries and freight deliveries halted at French ports, as its neighbors tried desperately to stop a fast-spreading variant of the coronavirus from leaping across the English Channel.",
+      "publication_date": "2020-12-21T17:29:56+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/21/world/europe/coronavirus-variant-uk.html",
+      "byline": "By Mark Landler and Stephen Castle"
+    },
+    {
+      "headline": "Pandemic Aid Bolsters Biden and Shows Potential Path for His Agenda in Congress",
+      "snippet": "Working together with the president-elect, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future.",
+      "abstract": "Working together with the president-elect, bipartisan groups in the Senate and House helped push feuding leaders to compromise. It could be a template for the future.",
+      "lead_paragraph": "Producing it was a torturous, time-consuming affair that did nothing to improve Congress’s reputation for dysfunction. But the agreement on a new pandemic aid package showed the ascendance of moderates as a new force in a divided Senate and validated President-elect Joseph R. Biden Jr.’s belief that it is still possible to make deals on Capitol Hill.",
+      "publication_date": "2020-12-21T17:40:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/21/us/politics/biden-stimulus.html",
+      "byline": "By Carl Hulse"
+    },
+    {
+      "headline": "Kelly Loeffler, a Wall Street Senator With a Hardscrabble Pitch",
+      "snippet": "The hard right turn of Ms. Loeffler, one of two Republican candidates in Georgia’s pivotal Senate runoff elections, reflects the ideological gymnastics embraced by her party in the Trump era.",
+      "abstract": "The hard right turn of Ms. Loeffler, one of two Republican candidates in Georgia’s pivotal Senate runoff elections, reflects the ideological gymnastics embraced by her party in the Trump era.",
+      "lead_paragraph": "In the year since Kelly Loeffler was appointed to the Senate, the largely unknown financial executive has crafted a narrative of her life and built a campaign around it.",
+      "publication_date": "2020-12-21T20:50:55+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/21/us/politics/kelly-loeffler-georgia-senate.html",
+      "byline": "By Danny Hakim, Jo Becker and Astead W. Herndon"
+    },
+    {
+      "headline": "Relief Deal Would Give Small Businesses a Shot at a Second Loan",
+      "snippet": "The stimulus package being negotiated in Washington includes $285 billion for a renewed Paycheck Protection Program.",
+      "abstract": "The stimulus package being negotiated in Washington includes $285 billion for a renewed Paycheck Protection Program.",
+      "lead_paragraph": "Federal lawmakers have agreed to revive the signature small-business relief effort established last spring, committing $285 billion for additional loans under the Paycheck Protection Program and allowing particularly hard-hit companies to get a second loan.",
+      "publication_date": "2020-12-21T23:31:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/21/business/stimulus-paycheck-protection-program.html",
+      "byline": "By Stacy Cowley"
+    },
+    {
+      "headline": "Congress Passes Huge Coronavirus Relief Bill",
+      "snippet": "Lawmakers approved a $900 billion pandemic aid bill that provides a $600 payment for most Americans.",
+      "abstract": "Lawmakers approved a $900 billion pandemic aid bill that provides a $600 payment for most Americans.",
+      "lead_paragraph": "WASHINGTON — Congress on Monday night overwhelmingly approved a $900 billion stimulus package that would send billions of dollars to American households and businesses grappling with the economic and health toll of the pandemic.",
+      "publication_date": "2020-12-22T00:41:20+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2020/12/21/us/politics/coronavirus-stimulus-deal.html",
+      "byline": "By Emily Cochrane"
+    },
+    {
+      "headline": "Does the Shoe Fit? Try It On With Augmented Reality",
+      "snippet": "Retailers are turning to the filtering technology popularized by Snapchat to add a real-world feel to online shopping.",
+      "abstract": "Retailers are turning to the filtering technology popularized by Snapchat to add a real-world feel to online shopping.",
+      "lead_paragraph": "OAKLAND, Calif. — When Eden Chen wants to go sneaker shopping, he takes out his smartphone and points the camera at his feet. Shoes materialize. He turns his feet from side to side. How does the shoe look on his foot? How does the top of the sneaker meet the cuff of his pants leg?",
+      "publication_date": "2020-12-22T10:00:18+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/22/technology/augmented-reality-online-shopping.html",
+      "byline": "By Kate Conger"
+    },
+    {
+      "headline": "A Race to Become the Tesla of Delivery Trucks and Vans",
+      "snippet": "Investors are betting that small companies like Workhorse will help popularize electric commercial vehicles. And Tesla aims to extend its reach.",
+      "abstract": "Investors are betting that small companies like Workhorse will help popularize electric commercial vehicles. And Tesla aims to extend its reach.",
+      "lead_paragraph": "A business like Workhorse Group, which employs 130 people and had sales of less than $1 million in the first nine months of the year, would not normally attract much attention on Wall Street.",
+      "publication_date": "2020-12-22T10:00:21+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/22/business/electric-delivery-vans-workhorse.html",
+      "byline": "By Neal E. Boudette"
+    },
+    {
+      "headline": "Misinformation Amplifiers Target Georgia Senate Races",
+      "snippet": "The conservative social media personalities who spread baseless rumors of election fraud are starting to focus on the races that will decide control of the Senate.",
+      "abstract": "The conservative social media personalities who spread baseless rumors of election fraud are starting to focus on the races that will decide control of the Senate.",
+      "lead_paragraph": "Two weeks ago, the conservative media personalities Diamond and Silk falsely claimed on their Facebook page that people who were not eligible to vote were receiving ballots in Georgia’s special elections next month. Their post was shared more than 300 times.",
+      "publication_date": "2020-12-22T15:19:36+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2020/12/22/technology/georgia-senate-runoff-misinformation.html",
+      "byline": "By Sheera Frenkel and Davey Alba"
+    }
+  ]
+}

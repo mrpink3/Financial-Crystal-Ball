@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "date": "2015-06-09",
+    "total_articles": 7
+  },
+  "articles": [
+    {
+      "headline": "Apple Music Is Unveiled, Along With Operating System Upgrades",
+      "snippet": "The new streaming service, which will cost $10 a month, will compete with Spotify and be offered alongside an overhauled iTunes Radio.",
+      "abstract": "The new streaming service, which will cost $10 a month, will compete with Spotify and be offered alongside an overhauled iTunes Radio.",
+      "lead_paragraph": "SAN FRANCISCO — Apple’s iTunes has grown stale. It is difficult to use and feels dated when compared with online music services like Spotify and Pandora. Pick your critique, and Apple has heard it.",
+      "publication_date": "2015-06-08T18:10:05+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/06/09/technology/apple-wwdc-2015.html",
+      "byline": "By Brian X. Chen"
+    },
+    {
+      "headline": "Pensions in Greece Feel the Pinch of Debt Negotiations",
+      "snippet": "As it confronts its creditors, the left-wing government in Athens faces few more daunting problems than how to meet the promises it has made to retirees.",
+      "abstract": "As it confronts its creditors, the left-wing government in Athens faces few more daunting problems than how to meet the promises it has made to retirees.",
+      "lead_paragraph": "ATHENS — Vasiliki Meliou did not want to retire at 53, but she had little choice, she said, after the state-owned bank she worked for was sold three years ago.",
+      "publication_date": "2015-06-08T19:42:38+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/06/09/world/europe/greece-pensions-debt-negotiations-alexis-tsipras.html",
+      "byline": "By Suzanne Daley"
+    },
+    {
+      "headline": "Cleveland Leaders Bypass Prosecutors to Seek Charge in Tamir Rice Case",
+      "snippet": "Community leaders will invoke a seldom-used Ohio law and go directly to a judge to request murder charges against the police officers in the shooting.",
+      "abstract": "Community leaders will invoke a seldom-used Ohio law and go directly to a judge to request murder charges against the police officers in the shooting.",
+      "lead_paragraph": "WASHINGTON — Community leaders in Cleveland, distrustful of the criminal justice system, said Monday that they would not wait for prosecutors to decide whether to file charges against the police officers involved in the fatal shooting of 12-year-old Tamir Rice last year. Instead, they will invoke a seldom-used Ohio law and go directly to a judge to request murder charges against the officers.",
+      "publication_date": "2015-06-08T23:25:23+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/06/09/us/cleveland-leaders-bypass-prosecutors-to-seek-charge-in-tamir-rice-case.html",
+      "byline": "By Michael S. Schmidt and Matt Apuzzo"
+    },
+    {
+      "headline": "Regulator Said to Have Pressed for Exit of Deutsche Chiefs",
+      "snippet": "German regulators played a role in the departures at the bank, according to two people briefed on the events that contributed to the leadership upheaval.",
+      "abstract": "German regulators played a role in the departures at the bank, according to two people briefed on the events that contributed to the leadership upheaval.",
+      "lead_paragraph": "When the two executives who lead Deutsche Bank, Germany’s largest bank, unexpectedly announced their resignations on Sunday, pressure from angry shareholders was widely seen as the chief factor.",
+      "publication_date": "2015-06-09T00:53:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/06/09/business/dealbook/regulator-said-to-have-pressed-for-exit-of-deutsche-chiefs.html",
+      "byline": "By Jack Ewing and Peter Eavis"
+    },
+    {
+      "headline": "Mergers Might Not Signal Optimism ",
+      "snippet": "Usually confidence in a robust economy drives merger activity. With revenue growth dwindling, that might not be the case this time.",
+      "abstract": "Usually confidence in a robust economy drives merger activity. With revenue growth dwindling, that might not be the case this time.",
+      "lead_paragraph": "A boom in mergers and acquisitions usually signals confidence in the economy, and recent headline-grabbing deals evoke images of chief executives and directors cheering about their business prospects and overall growth.",
+      "publication_date": "2015-06-09T01:16:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2015/06/09/business/dealbook/mergers-might-not-signal-optimism.html",
+      "byline": "By Andrew Ross Sorkin"
+    },
+    {
+      "headline": "MERS Virus’s Path: One Man, Many South Korean Hospitals",
+      "snippet": "The MERS virus found ideal conditions to spread quickly in South Korea, where emergency rooms are known to cram seats and beds closely together and patients hospital shop.",
+      "abstract": "The MERS virus found ideal conditions to spread quickly in South Korea, where emergency rooms are known to cram seats and beds closely together and patients hospital shop.",
+      "lead_paragraph": "SEOUL, South Korea — At first, doctors thought the 68-year-old man might have simple pneumonia. He coughed and wheezed his way through four hospitals before officials figured out, nine days later, that he had something far more serious and contagious.",
+      "publication_date": "2015-06-09T01:19:01+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/06/09/world/asia/mers-viruss-path-one-man-many-south-korean-hospitals.html",
+      "byline": "By Choe Sang-Hun"
+    },
+    {
+      "headline": "Marco Rubio’s Career Bedeviled by Financial Struggles",
+      "snippet": "Among presidential contenders, Mr. Rubio stands out for his youth, his meteoric political rise — and recurring doubts about how he manages his finances.",
+      "abstract": "Among presidential contenders, Mr. Rubio stands out for his youth, his meteoric political rise — and recurring doubts about how he manages his finances.",
+      "lead_paragraph": "WEST MIAMI, Fla. — For years, Senator Marco Rubio struggled under the weight of student debt, mortgages and an extra loan against the value of his home totaling hundreds of thousands of dollars. But in 2012, financial salvation seemed to have arrived: A publisher paid him $800,000 to write a book about growing up as the son of Cuban immigrants.",
+      "publication_date": "2015-06-09T09:05:50+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2015/06/10/us/politics/marco-rubio-finances-debt-loans-credit.html",
+      "byline": "By Steve Eder and Michael Barbaro"
+    }
+  ]
+}

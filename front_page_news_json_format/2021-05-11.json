@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "date": "2021-05-11",
+    "total_articles": 11
+  },
+  "articles": [
+    {
+      "headline": "How the Colonial Pipeline Became a Vital Artery for Fuel",
+      "snippet": "Reliance on the pipeline has grown as rising domestic production of oil and gas has led to reduced refining capacity in the Northeast.",
+      "abstract": "Reliance on the pipeline has grown as rising domestic production of oil and gas has led to reduced refining capacity in the Northeast.",
+      "lead_paragraph": "[Latest news: Colonial Pipeline restarted its operations.]",
+      "publication_date": "2021-05-10T21:11:38+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/10/business/colonial-pipeline-ransomware.html",
+      "byline": "By Clifford Krauss"
+    },
+    {
+      "headline": "Biden Defends Unemployment Benefits, Provided Workers Accept Job Offers",
+      "snippet": "The president’s comments and a raft of policy announcements were a pushback to Republican criticism of his economic plan after a disappointing jobs report on Friday.",
+      "abstract": "The president’s comments and a raft of policy announcements were a pushback to Republican criticism of his economic plan after a disappointing jobs report on Friday.",
+      "lead_paragraph": "WASHINGTON — President Biden ordered the Labor Department on Monday to ensure that unemployed Americans cannot draw enhanced federal jobless benefits if they turn down a suitable job offer, even as he rejected claims by Republicans that his weekly unemployment bonus is undermining efforts to get millions of Americans back to work.",
+      "publication_date": "2021-05-10T21:37:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/10/business/economy/biden-unemployment-benefits.html",
+      "byline": "By Jim Tankersley and Alan Rappeport"
+    },
+    {
+      "headline": "F.B.I. Identifies Group Behind Pipeline Hack",
+      "snippet": "The attack by DarkSide, a relatively new criminal group believed to have roots in Eastern Europe, exposed the remarkable vulnerability of key American infrastructure.",
+      "abstract": "The attack by DarkSide, a relatively new criminal group believed to have roots in Eastern Europe, exposed the remarkable vulnerability of key American infrastructure.",
+      "lead_paragraph": "President Biden said on Monday that the United States would “disrupt and prosecute” a criminal gang of hackers called DarkSide, which the F.B.I. formally blamed for a huge ransomware attack that has disrupted the flow of nearly half of the gasoline and jet fuel supplies to the East Coast.",
+      "publication_date": "2021-05-10T23:48:32+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/10/us/politics/pipeline-hack-darkside.html",
+      "byline": "By David E. Sanger and Nicole Perlroth"
+    },
+    {
+      "headline": "China’s ‘Long-Term Time Bomb’: Falling Births Stunt Population Growth",
+      "snippet": "Only 12 million babies were born last year, the lowest number of births since 1961, providing fresh evidence of a looming demographic crisis that could complicate Beijing’s ambitions.",
+      "abstract": "Only 12 million babies were born last year, the lowest number of births since 1961, providing fresh evidence of a looming demographic crisis that could complicate Beijing’s ambitions.",
+      "lead_paragraph": "China’s population is growing at its slowest pace in decades, with a plunge in births and a graying work force presenting the Communist Party with one of its gravest social and economic challenges.",
+      "publication_date": "2021-05-11T02:07:42+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/10/china-census-births-fall.html",
+      "byline": "By Sui-Lee Wee"
+    },
+    {
+      "headline": "I.P.A. Signing Bonuses and Free Subs: Luring Labor as a Beach Economy Booms",
+      "snippet": "Restaurants are cutting lunch hours and gas stations are paying signing bonuses as a beach town’s boom serves as a possible preview to the nation.",
+      "abstract": "Restaurants are cutting lunch hours and gas stations are paying signing bonuses as a beach town’s boom serves as a possible preview to the nation.",
+      "lead_paragraph": "REHOBOTH BEACH, Del. — Dogfish Head Craft Brewery is struggling to hire manufacturing workers for its beer factory and staff members for its restaurants in this coastal area, a shortage that has grown so acute that the company has cut dining room hours and is now offering vintage cases of its 120 Minute India Pale Ale as a signing bonus to new hires.",
+      "publication_date": "2021-05-11T07:00:17+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/11/business/economy/beach-jobs-rehoboth-summer-economy.html",
+      "byline": "By Jeanna Smialek and Jim Tankersley"
+    },
+    {
+      "headline": "F.B.I. Asking Questions After a Pension Fund Aimed High and Fell Short",
+      "snippet": "The Pennsylvania teachers’ retirement fund put more than half its assets into risky alternative investments. The math didn’t work out, spurring an investigation.",
+      "abstract": "The Pennsylvania teachers’ retirement fund put more than half its assets into risky alternative investments. The math didn’t work out, spurring an investigation.",
+      "lead_paragraph": "The search for high returns takes many pension funds far and wide, but the Pennsylvania teachers’ fund went farther than most. It invested in trailer park chains, pistachio farms, pay phone systems for prison inmates — and, in a particularly bizarre twist, loans to Kurds trying to carve out their own homeland in northern Iraq.",
+      "publication_date": "2021-05-11T09:00:16+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/11/business/dealbook/psers-pennsylvania-fund-fbi.html",
+      "byline": "By Mary Williams Walsh"
+    },
+    {
+      "headline": "Diet Companies See Gains as Americans Try to Drop Pandemic Pounds",
+      "snippet": "In recent weeks and months, as people have ventured out more often, business has jumped for companies that sell plans to help lose weight.",
+      "abstract": "In recent weeks and months, as people have ventured out more often, business has jumped for companies that sell plans to help lose weight.",
+      "lead_paragraph": "Maybe it was the frozen pizza. Or the cheesy snack crackers she mindlessly nibbled on as she worked from home over the past year. Or those darn cookies.",
+      "publication_date": "2021-05-11T09:00:20+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/11/business/covid-weight-loss-companies.html",
+      "byline": "By Julie Creswell"
+    },
+    {
+      "headline": "More Than 30 Dead in Gaza and Israel as Fighting Quickly Escalates",
+      "snippet": "Hamas fires rockets at Israeli cities. Israel hits Gaza with airstrikes. Civilians suffer the most casualties, but leaders on each side may reap political benefits.",
+      "abstract": "Hamas fires rockets at Israeli cities. Israel hits Gaza with airstrikes. Civilians suffer the most casualties, but leaders on each side may reap political benefits.",
+      "lead_paragraph": "ASHKELON, Israel — The worst fighting between Israelis and Palestinians in seven years intensified on Tuesday night, as Israeli airstrikes began targeting Hamas offices in Gaza City and militants in Gaza fired rockets at the metropolis of Tel Aviv, the southern city of Ashkelon and Israel’s main airport.",
+      "publication_date": "2021-05-11T10:52:57+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/11/world/middleeast/israel-gaza-airstrikes.html",
+      "byline": "By Patrick Kingsley and Isabel Kershner"
+    },
+    {
+      "headline": "Gas Pipeline Hack Leads to Panic Buying in the Southeast",
+      "snippet": "The national average for a gallon of regular gasoline rose 2 cents on Tuesday, and some airlines began to take small measures in response to the shutdown.",
+      "abstract": "The national average for a gallon of regular gasoline rose 2 cents on Tuesday, and some airlines began to take small measures in response to the shutdown.",
+      "lead_paragraph": "HOUSTON — Panicked drivers scrambled to fuel their vehicles across the Southeast on Tuesday, leaving thousands of stations without gasoline as a vital fuel pipeline remained largely shut down after a ransomware attack.",
+      "publication_date": "2021-05-11T13:13:56+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/11/business/colonial-pipeline-shutdown-latest-news.html",
+      "byline": "By Clifford Krauss, Niraj Chokshi and David E. Sanger"
+    },
+    {
+      "headline": "Washington Post Names A.P. Editor, Sally Buzbee, as Its Top Editor",
+      "snippet": "After more than three decades at a respected news service, Ms. Buzbee becomes the successor to the star editor Martin Baron.",
+      "abstract": "After more than three decades at a respected news service, Ms. Buzbee becomes the successor to the star editor Martin Baron.",
+      "lead_paragraph": "After nearly a decade of revitalization under the ownership of the multibillionaire Jeff Bezos and the newsroom leadership of Martin Baron, The Washington Post announced on Tuesday that it had selected Sally Buzbee, the executive editor of The Associated Press, as its next top editor.",
+      "publication_date": "2021-05-11T13:57:14+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/05/11/business/media/washington-post-sally-buzbee-editor.html",
+      "byline": "By Rachel Abrams and Katie Robertson"
+    },
+    {
+      "headline": "For Clean Energy, Buy American or Buy It Quick and Cheap?",
+      "snippet": "President Biden says slowing climate change will create jobs. Tension between unions and environmentalists shows it’s not so simple.",
+      "abstract": "President Biden says slowing climate change will create jobs. Tension between unions and environmentalists shows it’s not so simple.",
+      "lead_paragraph": "Patricia Fahy, a New York State legislator, celebrated when a new development project for the Port of Albany — the country’s first assembly plant dedicated to building offshore wind towers — was approved in January.",
+      "publication_date": "2021-05-11T15:19:11+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/05/11/business/economy/clean-energy-biden.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

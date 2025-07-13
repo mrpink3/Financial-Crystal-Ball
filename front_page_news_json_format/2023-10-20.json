@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2023-10-20",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Silicon Valley Ditches News, Shaking an Unstable Industry",
+      "snippet": "News organizations are scrambling to adjust to the latest rift in the long-fractious relationship between publishers and tech platforms.",
+      "abstract": "News organizations are scrambling to adjust to the latest rift in the long-fractious relationship between publishers and tech platforms.",
+      "lead_paragraph": "Campbell Brown, Facebook’s top news executive, said this month that she was leaving the company. Twitter, now known as X, removed headlines from the platform days later. The head of Instagram’s Threads app, an X competitor, reiterated that his social network would not amplify news.",
+      "publication_date": "2023-10-19T16:01:51+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/19/technology/news-social-media-traffic.html",
+      "byline": "By Mike Isaac, Katie Robertson and Nico Grant"
+    },
+    {
+      "headline": "Deal Lays Groundwork for Aid to Reach Desperate Gazans, Officials Say",
+      "snippet": "Trucks loaded with food and medicine are lined up tantalizingly close to people who need it, separated only by border gates that war and diplomatic wrangling have kept closed.",
+      "abstract": "Trucks loaded with food and medicine are lined up tantalizingly close to people who need it, separated only by border gates that war and diplomatic wrangling have kept closed.",
+      "lead_paragraph": "On one side of the border crossing between Egypt and Gaza sit more than 100 trucks packed with desperately needed food, water and medical supplies. On the other wait more than two million Gazans now scraping by on dwindling stocks of basic human necessities.",
+      "publication_date": "2023-10-19T19:19:45+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/19/world/middleeast/gaza-israel-aid-egypt-rafah.html",
+      "byline": "By Matthew Rosenberg, Emma Bubola, Matina Stevis-Gridneff, Vivian Yee and Monika Pronczuk"
+    },
+    {
+      "headline": "Prospect of Prolonged Israel-Gaza War Adds Economic Havoc to Human Toll",
+      "snippet": "A widening conflict would test Israel’s economic resilience while worsening an already bleak outlook for the Palestinian economy.",
+      "abstract": "A widening conflict would test Israel’s economic resilience while worsening an already bleak outlook for the Palestinian economy.",
+      "lead_paragraph": "As the fighting between Israel and Hamas risks bursting into regionwide chaos, the prospect of a long and potentially widening war could pile economic havoc atop a devastating human toll.",
+      "publication_date": "2023-10-20T09:00:54+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/20/business/israel-economy-war-gaza-hamas.html",
+      "byline": "By Liz Alderman"
+    },
+    {
+      "headline": "A Small Country Far From Ukraine Is Sending Hundreds toWar, on Both Sides",
+      "snippet": "Scores of young Nepali men have gone to fight, some lured by Russia’s promise of work, others to fight for Ukraine, raising the prospect of Nepalis fighting one another in a distant war.",
+      "abstract": "Scores of young Nepali men have gone to fight, some lured by Russia’s promise of work, others to fight for Ukraine, raising the prospect of Nepalis fighting one another in a distant war.",
+      "lead_paragraph": "Several months ago, Sandip Thapaliya, an out-of-work lab technician, called his sister in Kathmandu to share some exciting news.",
+      "publication_date": "2023-10-20T09:03:08+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/20/world/asia/ukraine-russia-nepal.html",
+      "byline": "By Bhadra Sharma and Jeffrey Gettleman"
+    },
+    {
+      "headline": "‘Oof’: Sam Bankman-Fried’s Trial Reveals Inside Details of How FTX Died",
+      "snippet": "Prosecutors in the criminal fraud case have built the most intricate account to date of the cryptocurrency exchange’s frantic final days.",
+      "abstract": "Prosecutors in the criminal fraud case have built the most intricate account to date of the cryptocurrency exchange’s frantic final days.",
+      "lead_paragraph": "On the morning of Nov. 6, Nishad Singh, a top executive at the cryptocurrency exchange FTX, sent a message in a group chat with two senior colleagues. Customers were rushing to withdraw funds from the exchange, he wrote. Within the last day, they had tried to move $1.25 billion off the platform, and $120 million in withdrawal requests had come in over the last hour.",
+      "publication_date": "2023-10-20T09:03:32+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/20/technology/sam-bankman-fried-trial-ftx-collapse.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Crypto Influencers and ‘Degenerates’ Flock to Sam Bankman-Fried’s Trial",
+      "snippet": "The presence of crypto YouTubers, podcasters and commentators at the FTX founder’s fraud trial has created something of a culture clash in the courtroom.",
+      "abstract": "The presence of crypto YouTubers, podcasters and commentators at the FTX founder’s fraud trial has created something of a culture clash in the courtroom.",
+      "lead_paragraph": "A parade of powerful legal minds has gathered over the last three weeks at the criminal trial of Sam Bankman-Fried, the disgraced cryptocurrency mogul. Damian Williams, the top federal prosecutor in Manhattan, has sat for hours in the 26th-floor courtroom, alongside partners at prestigious law firms and a former deputy to Robert Mueller III, who served as special counsel in an investigation of President Donald J. Trump.",
+      "publication_date": "2023-10-20T09:03:43+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/20/technology/crypto-influencers-degenerates-sam-bankman-fried-trial.html",
+      "byline": "By David Yaffe-Bellany"
+    },
+    {
+      "headline": "Republicans Vote Out Jordan as Speaker Nominee, Continuing Chaos in House",
+      "snippet": "House Republicans will meet again on Monday in an effort to find a new speaker from among a flurry of new candidates.",
+      "abstract": "House Republicans will meet again on Monday in an effort to find a new speaker from among a flurry of new candidates.",
+      "lead_paragraph": "Republicans cast aside their latest nominee for House speaker on Friday, rejecting Representative Jim Jordan of Ohio during a secret ballot vote, leaving them once again to search for a new leader amid raging personal and political recriminations.",
+      "publication_date": "2023-10-20T12:43:02+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/20/us/politics/house-speaker-jim-jordan.html",
+      "byline": "By Luke Broadwater"
+    },
+    {
+      "headline": "Apple’s New Film Strategy Debuts With ‘Killers of the Flower Moon’",
+      "snippet": "Martin Scorsese’s three-and-a-half-hour epic is the first of three high-profile movies the tech company will give wide theatrical releases in the coming months.",
+      "abstract": "Martin Scorsese’s three-and-a-half-hour epic is the first of three high-profile movies the tech company will give wide theatrical releases in the coming months.",
+      "lead_paragraph": "The box office results for Martin Scorsese’s new film, “Killers of the Flower Moon,” will be revealed on Sunday and analyzed by reporters and industry insiders. Did the movie perform well? Did it fall short? Did Leonardo DiCaprio’s inability to promote the film because of the actors’ strike ultimately mean fewer people went to see it?",
+      "publication_date": "2023-10-20T14:12:31+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2023/10/20/business/media/apple-killers-of-the-flower-moon-theaters.html",
+      "byline": "By Nicole Sperling"
+    },
+    {
+      "headline": "Biden Requests $105 Billion Aid Package for Israel, Ukraine and Other Crises",
+      "snippet": "The conflict in the Middle East has given President Biden a path to approving Ukraine aid that otherwise might have remained stalled.",
+      "abstract": "The conflict in the Middle East has given President Biden a path to approving Ukraine aid that otherwise might have remained stalled.",
+      "lead_paragraph": "President Biden on Friday delivered to Congress a $105 billion request for military aid, mostly for Israel and Ukraine, essentially daring lawmakers who oppose parts of the proposal to vote against an overall package that he said will ensure “American security for generations.”",
+      "publication_date": "2023-10-20T14:35:38+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2023/10/20/us/politics/biden-aid-israel-ukraine-taiwan-border.html",
+      "byline": "By Michael D. Shear and Karoun Demirjian"
+    }
+  ]
+}

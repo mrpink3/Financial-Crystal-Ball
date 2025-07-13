@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "date": "2019-06-04",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "headline": "Antitrust Troubles Snowball for Tech Giants as Lawmakers Join In",
+      "snippet": "Intense new scrutiny on companies like Google, Apple, Facebook and Amazon could last years and lead to the first overhaul of antitrust rules in decades.",
+      "abstract": "Intense new scrutiny on companies like Google, Apple, Facebook and Amazon could last years and lead to the first overhaul of antitrust rules in decades.",
+      "lead_paragraph": "WASHINGTON — The federal government is stepping up its scrutiny of the world’s biggest tech companies, leaving them vulnerable to new rules and federal lawsuits. Regulators are divvying up antitrust oversight of the Silicon Valley giants and lawmakers are investigating whether they have stifled competition and hurt consumers.",
+      "publication_date": "2019-06-03T16:40:16+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/03/technology/facebook-ftc-antitrust.html",
+      "byline": "By Cecilia Kang, David Streitfeld and Annie Karni"
+    },
+    {
+      "headline": "Trump Insults London Mayor as ‘Loser’ as He Pays Tribute to the Queen",
+      "snippet": "Queen Elizabeth welcomed Mr. Trump to Buckingham Palace, while he engaged in an ugly dispute with London’s mayor, calling him a “stone cold loser.”",
+      "abstract": "Queen Elizabeth welcomed Mr. Trump to Buckingham Palace, while he engaged in an ugly dispute with London’s mayor, calling him a “stone cold loser.”",
+      "lead_paragraph": "LONDON — Queen Elizabeth II welcomed President Trump to Buckingham Palace on Monday with an honor guard and royal artillery salute, while Mr. Trump carried on an ugly dispute with the mayor of London, whom he called a “stone cold loser” and said was doing a terrible job of running Britain’s capital city.",
+      "publication_date": "2019-06-03T17:39:35+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/03/world/europe/trump-banquet-meghan-markle-sadiq-khan.html",
+      "byline": "By Mark Landler and Maggie Haberman"
+    },
+    {
+      "headline": "Mexico Cracks Down on Migrants, After Pressure From Trump to Act",
+      "snippet": "Although President Andrés Manuel López Obrador of Mexico had opened his arms to migrants, his officials have recently ramped up detentions and deportations, following pressure from President Trump.",
+      "abstract": "Although President Andrés Manuel López Obrador of Mexico had opened his arms to migrants, his officials have recently ramped up detentions and deportations, following pressure from President Trump.",
+      "lead_paragraph": "TAPACHULA, Mexico — They arrived at dusk, dressed for combat, pouring from government vehicles. A phalanx of military and police personnel swarmed a small hotel in the center of Tapachula, this scrappy city near Mexico’s border with Guatemala. Their target: undocumented migrants.",
+      "publication_date": "2019-06-03T20:16:30+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/03/world/americas/mexico-migration-crackdown.html",
+      "byline": "By Kirk Semple"
+    },
+    {
+      "headline": "A Farewell for iTunes",
+      "snippet": "Apple’s software changed the way we listen to music. And though it got a little bloated over the years, we will miss it.",
+      "abstract": "Apple’s software changed the way we listen to music. And though it got a little bloated over the years, we will miss it.",
+      "lead_paragraph": "Dearly beloved,",
+      "publication_date": "2019-06-03T22:56:44+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/03/technology/itunes-shutting-down.html",
+      "byline": "By Kevin Roose"
+    },
+    {
+      "headline": "Hollywood Producer Seeks to Raise Funds to Battle Anti-Abortion Laws",
+      "snippet": "Peter Chernin sent an email seeking donations from entertainment power players like Jeff Bezos, Shonda Rhimes, Tim Cook, Ari Emanuel and Ted Sarandos.",
+      "abstract": "Peter Chernin sent an email seeking donations from entertainment power players like Jeff Bezos, Shonda Rhimes, Tim Cook, Ari Emanuel and Ted Sarandos.",
+      "lead_paragraph": "LOS ANGELES — One of Hollywood’s heaviest hitters, the producer and investor Peter Chernin, has started a campaign to raise millions of dollars to help fund a legal attack on new anti-abortion laws in Georgia and other states.",
+      "publication_date": "2019-06-03T23:45:01+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/03/business/media/abortion-laws-hollywood.html",
+      "byline": "By Brooks Barnes and Cara Buckley"
+    },
+    {
+      "headline": "John Boehner: From Speaker of the House to Cannabis Pitchman",
+      "snippet": "In Congress, Mr. Boehner “unalterably opposed” legalizing marijuana. Now he’s pushing for it, with a $20 million Big Weed payday on the line.",
+      "abstract": "In Congress, Mr. Boehner “unalterably opposed” legalizing marijuana. Now he’s pushing for it, with a $20 million Big Weed payday on the line.",
+      "lead_paragraph": "WASHINGTON — John A. Boehner, the former speaker of the House, once stood second in line for the presidency and staunchly against legalized marijuana. Now you can find the longtime Republican standing before a wall-size photo of the Capitol, making an online infomercial pitch for the cannabis industry.",
+      "publication_date": "2019-06-04T00:20:51+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/03/us/politics/john-boehner-marijuana-cannabis.html",
+      "byline": "By Elizabeth Williamson"
+    },
+    {
+      "headline": "A Slower Economy. A Trade War. Now, China Faces Rising Food Prices.",
+      "snippet": "Pork and fruit are costing more even as Beijing reassures the public that supplies are plentiful.",
+      "abstract": "Pork and fruit are costing more even as Beijing reassures the public that supplies are plentiful.",
+      "lead_paragraph": "BEIJING — Business is normally bustling at the sprawling Xinfandi produce market in southern Beijing, where stores, restaurants and thrifty shoppers buy their fruits and vegetables in bulk. ",
+      "publication_date": "2019-06-04T07:00:08+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/04/business/china-food-prices-inflation.html",
+      "byline": "By Keith Bradsher and Alexandra Stevenson"
+    },
+    {
+      "headline": "Climate Change Takes Center Stage as Biden and Warren Release Plans",
+      "snippet": "Even former Vice President Joseph R. Biden Jr. has embraced the goals of the Green New Deal, showing just how far the Democratic field has moved on climate change.",
+      "abstract": "Even former Vice President Joseph R. Biden Jr. has embraced the goals of the Green New Deal, showing just how far the Democratic field has moved on climate change.",
+      "lead_paragraph": "WASHINGTON — When Joseph R. Biden Jr. was Barack Obama’s vice president, their administration brokered the landmark Paris climate accord and imposed the nation’s first federal regulations for cutting carbon dioxide emissions.",
+      "publication_date": "2019-06-04T10:00:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2019/06/04/us/politics/joe-biden-climate-plan.html",
+      "byline": "By Coral Davenport and Katie Glueck"
+    },
+    {
+      "headline": "Stocks Jump as Fed’s Powell Suggests Rates Could Come Down",
+      "snippet": "Jerome H. Powell, the Federal Reserve chairman, said the central bank was “closely monitoring” trade and “as always, we will act as appropriate” to sustain the expansion.",
+      "abstract": "Jerome H. Powell, the Federal Reserve chairman, said the central bank was “closely monitoring” trade and “as always, we will act as appropriate” to sustain the expansion.",
+      "lead_paragraph": "CHICAGO — The Federal Reserve chairman, Jerome H. Powell, said on Tuesday that the central bank was prepared to act to sustain the economic expansion if President Trump’s trade war weakened the economy. His remarks sent stocks soaring as investors predicted a cut in interest rates.",
+      "publication_date": "2019-06-04T13:55:06+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/04/business/economy/powell-fed-trade-wars.html",
+      "byline": "By Jeanna Smialek and Matt Phillips"
+    },
+    {
+      "headline": "11,000 People Who Prepare Your Airline Food Are Considering a Strike",
+      "snippet": "A shortage of controllers hastened the end of the government shutdown this year. Now catering employees hope a similar dynamic will help them win better pay.",
+      "abstract": "A shortage of controllers hastened the end of the government shutdown this year. Now catering employees hope a similar dynamic will help them win better pay.",
+      "lead_paragraph": "President Trump announced a deal to end the government shutdown in January after a shortage of air traffic controllers briefly stopped flights into La Guardia Airport. At the time, many concluded that workers’ impact on travel had led the White House to retreat.",
+      "publication_date": "2019-06-04T15:18:24+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2019/06/04/business/economy/airport-workers-union.html",
+      "byline": "By Noam Scheiber"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "date": "2021-08-03",
+    "total_articles": 6
+  },
+  "articles": [
+    {
+      "headline": "Labor Board Official Backs Union Challenge on Amazon Vote",
+      "snippet": "A hearing officer for the National Labor Relations Board found that Amazon illegally discouraged organizing at an Alabama warehouse. The company can appeal to block a new election.",
+      "abstract": "A hearing officer for the National Labor Relations Board found that Amazon illegally discouraged organizing at an Alabama warehouse. The company can appeal to block a new election.",
+      "lead_paragraph": "A hearing officer of the National Labor Relations Board has recommended that the board throw out a union election at an Amazon warehouse in Bessemer, Ala., where results announced in early April showed workers rejecting a union by a more than two-to-one ratio.",
+      "publication_date": "2021-08-02T23:25:23+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/02/business/amazon-union-alabama-nlrb.html",
+      "byline": "By Noam Scheiber"
+    },
+    {
+      "headline": "Americans Suffer Pandemic Whiplash as Leaders Struggle With Changing Virus",
+      "snippet": "An evolving virus and 18 months of ever-changing pandemic messaging have left Americans angry, exhausted and skeptical of public health advice.",
+      "abstract": "An evolving virus and 18 months of ever-changing pandemic messaging have left Americans angry, exhausted and skeptical of public health advice.",
+      "lead_paragraph": "WASHINGTON — A week of public health reversals from the White House and the Centers for Disease Control and Prevention has left Americans with pandemic whiplash, sowing confusion about coronavirus vaccines and mask-wearing as the Delta variant upends what people thought they knew about how to stay safe.",
+      "publication_date": "2021-08-02T23:59:04+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/02/us/politics/covid-pandemic-guidelines.html",
+      "byline": "By Sheryl Gay Stolberg and Michael D. Shear"
+    },
+    {
+      "headline": "What’s in the $1 Trillion Infrastructure Bill",
+      "snippet": "The sprawling, 2,702-page bill includes historic investments in traditional projects as well as broadband expansion and funds for some climate projects.",
+      "abstract": "The sprawling, 2,702-page bill includes historic investments in traditional projects as well as broadband expansion and funds for some climate projects.",
+      "lead_paragraph": "WASHINGTON — Amtrak would see its biggest infusion of money since its inception a half-century ago. Climate resilience programs would receive their largest burst of government spending ever. The nation’s power grid would be upgraded to the tune of $73 billion.",
+      "publication_date": "2021-08-03T01:35:03+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/02/us/politics/infrastructure-bill.html",
+      "byline": "By Emily Cochrane, Christopher Flavelle and Alan Rappeport"
+    },
+    {
+      "headline": "Big Economic Challenges Await Biden and the Fed This Fall",
+      "snippet": "Expiring unemployment benefits and the Delta variant add uncertainty to a recovery that has brought strong growth but an unusual labor market.",
+      "abstract": "Expiring unemployment benefits and the Delta variant add uncertainty to a recovery that has brought strong growth but an unusual labor market.",
+      "lead_paragraph": "WASHINGTON — The U.S. economy is heading toward an increasingly uncertain autumn as a surge in the Delta variant of the coronavirus coincides with the expiration of expanded unemployment benefits for millions of people, complicating what was supposed to be a return to normal as a wave of workers re-entered the labor market.",
+      "publication_date": "2021-08-03T07:00:10+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/03/business/economy/Biden-Federal-Reserve-economic-challenges.html",
+      "byline": "By Jim Tankersley and Jeanna Smialek"
+    },
+    {
+      "headline": "What if Highways Were Electric? Germany Is Testing the Idea.",
+      "snippet": "An electrified highway is theoretically the most efficient way to eliminate truck emissions. But the political obstacles are daunting.",
+      "abstract": "An electrified highway is theoretically the most efficient way to eliminate truck emissions. But the political obstacles are daunting.",
+      "lead_paragraph": "OBER-RAMSTADT, Germany — On a highway south of Frankfurt recently, Thomas Schmieder maneuvered his Scania tractor-trailer and its load of house paint into the far right lane. Then he flicked a switch you won’t find on most truck dashboards.",
+      "publication_date": "2021-08-03T09:00:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/08/03/business/electric-trucks-catenary-wire.html",
+      "byline": "By Jack Ewing"
+    },
+    {
+      "headline": "The Biden administration issues a new eviction moratorium as the virus surges.",
+      "snippet": "The Centers for Disease Control and Prevention said it would impose a 60-day ban on evictions in places hit hard by the Delta variant.",
+      "abstract": "The Centers for Disease Control and Prevention said it would impose a 60-day ban on evictions in places hit hard by the Delta variant.",
+      "lead_paragraph": "WASHINGTON — The Biden administration on Tuesday imposed a new, 60-day federal moratorium on evictions in areas of the country ravaged by the Delta variant, a move aimed at protecting hundreds of thousands of renters at risk of being kicked out of their homes during a pandemic.",
+      "publication_date": "2021-08-03T14:38:13+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/08/03/us/politics/evictions-housing-moratorium-pelosi-yellen.html",
+      "byline": "By Glenn Thrush, Michael D. Shear and Alan Rappeport"
+    }
+  ]
+}

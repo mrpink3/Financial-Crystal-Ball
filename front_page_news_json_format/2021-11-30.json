@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2021-11-30",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "headline": "Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria",
+      "snippet": "The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties.",
+      "abstract": "The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties.",
+      "lead_paragraph": "Defense Secretary Lloyd J. Austin III on Monday ordered a new high-level investigation into a U.S. airstrike in Syria in 2019 that killed dozens of women and children, the Pentagon said.",
+      "publication_date": "2021-11-29T20:08:19+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html",
+      "byline": "By Eric Schmitt and Dave Philipps"
+    },
+    {
+      "headline": "Who Is Parag Agrawal, Twitter’s New C.E.O.?",
+      "snippet": "A longtime Twitter insider and a confidant of co-founder Jack Dorsey, Mr. Agrawal takes over as the social media company confronts various challenges.",
+      "abstract": "A longtime Twitter insider and a confidant of co-founder Jack Dorsey, Mr. Agrawal takes over as the social media company confronts various challenges.",
+      "lead_paragraph": "SAN FRANCISCO — When Jack Dorsey, then Twitter’s executive chairman, pushed the company to build out its machine learning and artificial intelligence capabilities in 2014, he turned to an engineer, Parag Agrawal.",
+      "publication_date": "2021-11-29T22:56:13+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/29/technology/parag-agrawal-twitter.html",
+      "byline": "By Mike Isaac, Kate Conger and Cade Metz"
+    },
+    {
+      "headline": "Here We Go Again: Chaos Rules Global Response to Omicron Variant",
+      "snippet": "Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy.",
+      "abstract": "Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy.",
+      "lead_paragraph": "ROME — In a wrenchingly familiar cycle of tracking first cases, pointing fingers and banning travel, nations worldwide reacted Monday to the Omicron variant of the coronavirus in the piecemeal fashion that has defined — and hobbled — the pandemic response all along.",
+      "publication_date": "2021-11-29T23:05:41+0000",
+      "section_name": "World",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html",
+      "byline": "By Jason Horowitz"
+    },
+    {
+      "headline": "Elizabeth Holmes Says Former Boyfriend Abused Her",
+      "snippet": "Ms. Holmes, the founder of the failed blood testing start-up Theranos, blamed Ramesh Balwani, the former No. 2 at the company.",
+      "abstract": "Ms. Holmes, the founder of the failed blood testing start-up Theranos, blamed Ramesh Balwani, the former No. 2 at the company.",
+      "lead_paragraph": "SAN JOSE, Calif. — Taking a deep breath, Elizabeth Holmes briefly crumpled her face as she spoke, her voice breaking.",
+      "publication_date": "2021-11-29T23:25:33+0000",
+      "section_name": "Technology",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2021/11/29/technology/elizabeth-holmes-sunny-balwani.html",
+      "byline": "By Erin Woo and Erin Griffith"
+    },
+    {
+      "headline": "With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time",
+      "snippet": "“Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic.",
+      "abstract": "“Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic.",
+      "lead_paragraph": "WASHINGTON — By the time President Biden was briefed on the emergence of a fast-moving new Covid variant on the morning after Thanksgiving, he had a choice to make — and little information to base it on.",
+      "publication_date": "2021-11-30T00:51:28+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html",
+      "byline": "By Michael D. Shear and Sheryl Stolberg"
+    }
+  ]
+}

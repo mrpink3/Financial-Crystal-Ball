@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "date": "2017-05-05",
+    "total_articles": 9
+  },
+  "articles": [
+    {
+      "headline": "Wells Fargo Whistle-Blowers’ Fate Becomes Just a Footnote",
+      "snippet": "After a scandal involving fraudulent accounts, the bank insists that employees can safely report wrongdoing. But its inquiry into past cases isn’t encouraging.",
+      "abstract": "After a scandal involving fraudulent accounts, the bank insists that employees can safely report wrongdoing. But its inquiry into past cases isn’t encouraging.",
+      "lead_paragraph": "In November, the newly installed Wells Fargo chief executive, Timothy J. Sloan, told employees that retaliation against whistle-blowers would “not be tolerated at Wells Fargo.”",
+      "publication_date": "2017-05-04T18:01:02+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/04/business/wells-fargo-whistle-blowers.html",
+      "byline": "By James B. Stewart"
+    },
+    {
+      "headline": "House Passes Measure to Repeal and Replace the Affordable Care Act",
+      "snippet": "After weeks of struggle, House Republicans narrowly passed hard-fought legislation to repeal and replace large parts of the Affordable Care Act.",
+      "abstract": "After weeks of struggle, House Republicans narrowly passed hard-fought legislation to repeal and replace large parts of the Affordable Care Act.",
+      "lead_paragraph": "WASHINGTON — The House on Thursday narrowly approved legislation to repeal and replace major parts of the Affordable Care Act, as Republicans recovered from their earlier failures and moved a step closer to delivering on their promise to reshape American health care without mandated insurance coverage.",
+      "publication_date": "2017-05-04T18:20:12+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/04/us/politics/health-care-bill-vote.html",
+      "byline": "By Thomas Kaplan and Robert Pear"
+    },
+    {
+      "headline": "Republicans Get Their Health Bill. But It May Cost Them.",
+      "snippet": "The legislative victory may weaken G.O.P. lawmakers facing re-election in moderate districts. “Will it cause headaches for people? Absolutely,” one said.",
+      "abstract": "The legislative victory may weaken G.O.P. lawmakers facing re-election in moderate districts. “Will it cause headaches for people? Absolutely,” one said.",
+      "lead_paragraph": "WASHINGTON — In voting to repeal President Barack Obama’s signature health care law, House Republicans finally made progress on a key Trump administration goal and on a campaign promise that they have made for the better part of a decade — but at a potentially steep price.",
+      "publication_date": "2017-05-04T18:21:36+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/04/us/politics/house-republican-health-bill.html",
+      "byline": "By Jennifer Steinhauer"
+    },
+    {
+      "headline": "On Campuses Far From China, Still Under Beijing’s Watchful Eye",
+      "snippet": "A group for Chinese students has worked in tandem with Beijing to promote a pro-Chinese agenda and tamp down anti-Chinese speech on Western campuses.",
+      "abstract": "A group for Chinese students has worked in tandem with Beijing to promote a pro-Chinese agenda and tamp down anti-Chinese speech on Western campuses.",
+      "lead_paragraph": "SAN DIEGO — In the competition for marquee commencement speakers, the University of California, San Diego thought it had scored a coup this year — a Nobel Peace Prize winner, best-selling author and spiritual North Star to millions of people.",
+      "publication_date": "2017-05-04T21:24:27+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/04/us/chinese-students-western-campuses-china-influence.html",
+      "byline": "By Stephanie Saul"
+    },
+    {
+      "headline": "Fox News Besieged by New Bias Lawsuit and Federal Inquiry",
+      "snippet": "A Fox News Radio reporter sued the network on the same day that a woman who accused Bill O’Reilly of harassment said she would meet with British regulators about a proposed Fox merger.",
+      "abstract": "A Fox News Radio reporter sued the network on the same day that a woman who accused Bill O’Reilly of harassment said she would meet with British regulators about a proposed Fox merger.",
+      "lead_paragraph": "New troubles for Fox News arose on Thursday as a lawsuit accused it of gender discrimination and one of the women who have accused Bill O’Reilly of sexual harassment said she would appear before the British regulatory group that is assessing 21st Century Fox’s attempted takeover of Sky, the satellite TV giant.",
+      "publication_date": "2017-05-05T01:07:48+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/04/business/media/fox-news-lawsuit-gender-discrimination-sky-takeover.html",
+      "byline": "By Emily Steel and Niraj Chokshi"
+    },
+    {
+      "headline": "Message of Puerto Rico Debt Crisis: Easy Bets Sometimes Lose",
+      "snippet": "Hedge funds bought up the island’s high-interest bonds at a discount, confident because the territory couldn’t declare bankruptcy. This week, it essentially did.",
+      "abstract": "Hedge funds bought up the island’s high-interest bonds at a discount, confident because the territory couldn’t declare bankruptcy. This week, it essentially did.",
+      "lead_paragraph": "When some of Wall Street’s savviest hedge funds piled into Puerto Rico’s debt in 2014, it seemed like an easy bet: Buy up the island’s bonds at a discount, pocket the high interest and persuade politicians to make decisions that would raise the value of their investments.",
+      "publication_date": "2017-05-05T01:20:36+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/04/business/dealbook/puerto-rico-creditors-hedge-funds.html",
+      "byline": "By Michael Corkery and Mary Williams Walsh"
+    },
+    {
+      "headline": "The Best Consumer Self-Advocacy Tool You’ve Never Used",
+      "snippet": "A well-written message to company executives can solve a host of consumer problems. Just follow the model laid out 10 years ago — and use it sparingly.",
+      "abstract": "A well-written message to company executives can solve a host of consumer problems. Just follow the model laid out 10 years ago — and use it sparingly.",
+      "lead_paragraph": "Even semiprofessional consumers like me run into our share of problems. These are particularly irksome, since we should probably know better than to find ourselves on the wrong end of a busted product or poorly delivered service.",
+      "publication_date": "2017-05-05T09:00:12+0000",
+      "section_name": "Your Money",
+      "print_page": "1",
+      "page_section": "B",
+      "web_url": "https://www.nytimes.com/2017/05/05/your-money/the-best-consumer-self-advocacy-tool-youve-never-used.html",
+      "byline": "By Ron Lieber"
+    },
+    {
+      "headline": "Second Chance for ‘Obamacare’ Repeal. And for Reince Priebus.",
+      "snippet": "President Trump blamed Mr. Priebus, his chief of staff, for the failure of his first push on health care, and Mr. Priebus saw this week’s vote as a make-or-break moment.",
+      "abstract": "President Trump blamed Mr. Priebus, his chief of staff, for the failure of his first push on health care, and Mr. Priebus saw this week’s vote as a make-or-break moment.",
+      "lead_paragraph": "WASHINGTON — The Republican health care overhaul might never become law, but it has already changed the life of one American: Reince Priebus, who knew it was his best and perhaps last hope of becoming an empowered White House chief of staff.",
+      "publication_date": "2017-05-05T09:01:26+0000",
+      "section_name": "U.S.",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/05/us/politics/reince-priebus-health-care.html",
+      "byline": "By Glenn Thrush and Maggie Haberman"
+    },
+    {
+      "headline": "Jobless Rate at 10-Year Low as Hiring Grows and Wages Rise",
+      "snippet": "The economy added 211,000 jobs in April, the Labor Department said, after weak hiring figures for March. The jobless rate declined to 4.4 percent.",
+      "abstract": "The economy added 211,000 jobs in April, the Labor Department said, after weak hiring figures for March. The jobless rate declined to 4.4 percent.",
+      "lead_paragraph": "The jobless rate dropped to 4.4 percent in April, the lowest level in more than a decade, the government said on Friday, signaling the economy’s resilience and showing a labor market closing in on full capacity.",
+      "publication_date": "2017-05-05T09:01:26+0000",
+      "section_name": "Business Day",
+      "print_page": "1",
+      "page_section": "A",
+      "web_url": "https://www.nytimes.com/2017/05/05/business/economy/jobs-report-unemployment.html",
+      "byline": "By Patricia Cohen"
+    }
+  ]
+}
