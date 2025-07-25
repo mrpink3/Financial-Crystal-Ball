@@ -101,8 +101,8 @@ def train(model, dataloader, loss_fn, optimizer, device, epochs=10):
             optimizer.step()
             total_loss += loss.item()
 
-        mae, rmse, r2 = evaluate_regression(model, dataloader, device)
-        print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, MAE: {mae:.5f}, RMSE: {rmse:.5f}, R²: {r2:.4f}")
+        #mae, rmse, r2 = evaluate_regression(model, dataloader, device)
+        #print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, MAE: {mae:.5f}, RMSE: {rmse:.5f}, R²: {r2:.4f}")
 
 
 
@@ -110,7 +110,7 @@ def train(model, dataloader, loss_fn, optimizer, device, epochs=10):
 def main():
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    dataset = StockRegressionDataset("LSTM Models/data/regression_data_returns.csv")
+    dataset = StockRegressionDataset("LSTM Models/data/regression_data.csv")
 
     X_train, y_train = dataset.get_Train()
     X_test, y_test = dataset.get_Test()

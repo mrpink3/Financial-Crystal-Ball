@@ -6,6 +6,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 import pandas as pd
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix
+from sklearn.preprocessing import StandardScaler
 
 # Dataset
 class StockClassificationDataset(Dataset):
@@ -69,7 +70,7 @@ def get_predictions(model, dataloader, device):
 
     print(f"Length preds: {len(preds)}")
     print(f"Length truths: {len(truths)}")
-    
+
     return np.array(preds), np.array(truths)
 
 
@@ -106,23 +107,52 @@ def train(model, dataloader, loss_fn, optimizer, device, epochs=10):
             optimizer.step()
             total_loss += loss.item()
 
-        #acc, f1, prec, rec, cm = evaluate_classification(model, dataloader, device)
-        #print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, Acc: {acc:.4f}, F1: {f1:.4f}")
-        #print(f"Precision: {prec:.4f}, Recall: {rec:.4f}")
-        #print("Confusion Matrix:\n", cm)
+        acc, f1, prec, rec, cm = evaluate_classification(model, dataloader, device)
+        print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, Acc: {acc:.4f}, F1: {f1:.4f}")
+        print(f"Precision: {prec:.4f}, Recall: {rec:.4f}")
+        print("Confusion Matrix:\n", cm)
 
 # Main
 def main():
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    dataset = StockClassificationDataset("LSTM Models/data/classification_data.csv")
+    dataset = StockClassificationDataset("LSTM Models/data/classification_data_returns.csv")
 
-    X_train, y_train = dataset.get_Train()
-    X_test, y_test = dataset.get_Test()
+    X_train_raw, y_train = dataset.get_Train()
+    X_test_raw, y_test = dataset.get_Test()
     #dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
 
-    train_dataset = torch.utils.data.TensorDataset(X_train, y_train)
-    test_dataset = torch.utils.data.TensorDataset(X_test, y_test)
+    X_train_returns = X_train_raw[:, :10]
+    X_train_sentiments = X_train_raw[:, 10:]
+
+    X_test_returns = X_test_raw[:, :10]
+    X_test_sentiments = X_test_raw[:, 10:]
+
+    X_train_flat_return = X_train_raw.reshape(X_train_returns.shape[0], -1)  # (num_samples, 14)
+    X_test_flat_return = X_test_raw.reshape(X_test_returns.shape[0], -1)
+
+    scaler = StandardScaler()
+    X_train_returns_scaled = scaler.fit_transform(X_train_flat_return)
+    X_test_returns_scaled = scaler.transform(X_test_flat_return)
+
+    X_train_returns_scaled_r = X_train_returns_scaled.reshape(-1, 1, 14)
+    X_test_returns_scaled_r = X_test_returns_scaled.reshape(-1, 1, 14)
+
+    X_train = np.concatenate([X_train_returns_scaled_r, X_train_sentiments], axis=1)
+    X_test = np.concatenate([X_test_returns_scaled_r, X_test_sentiments], axis=1)
+
+    # Reshape back to 3D: (num_samples, 1, 14)
+    # X_train = X_train.reshape(-1, 1, 14)
+    # X_test = X_test.reshape(-1, 1, 14)
+
+    # Convert to tensors
+    X_train_tensor = torch.tensor(X_train, dtype=torch.float32)
+    X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
+    y_train_tensor = torch.tensor(y_train, dtype=torch.long)
+    y_test_tensor = torch.tensor(y_test, dtype=torch.long)
+
+    train_dataset = torch.utils.data.TensorDataset(X_train_tensor, y_train_tensor)
+    test_dataset = torch.utils.data.TensorDataset(X_test_tensor, y_test_tensor)
 
     train_loader = DataLoader(train_dataset, batch_size=64, shuffle=False)
     test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
@@ -138,6 +168,8 @@ def main():
         acc, f1, prec, rec, cm = evaluate_classification(model, test_loader, device)
         print(f"[Test] Epoch {epoch+1}, Acc: {acc:.5f}, F1: {f1:.5f}, Precision: {prec:.5f}, Recall: {rec:.5f}")
         print("Confusion Matrix:\n", cm)
+
+    #train(model, train_loader, criterion, optimizer, device, epochs=500)
 
     preds, truths = get_predictions(model, test_loader, device)
 
