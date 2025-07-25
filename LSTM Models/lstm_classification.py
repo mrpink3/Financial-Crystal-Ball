@@ -1,6 +1,7 @@
 # lstm_classifier.py
 
 import torch
+import numpy as np
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 import pandas as pd
@@ -12,8 +13,26 @@ class StockClassificationDataset(Dataset):
         df = pd.read_csv(csv_file)
         self.X = df.drop(columns=['movement_label']).values.astype('float32')
         self.y = df['movement_label'].values.astype('int64')
-        self.X = torch.tensor(self.X).unsqueeze(1)
-        self.y = torch.tensor(self.y)
+
+        
+        split_index = int(len(self.X) * 0.8)
+        self.X_train, self.X_test = self.X[:split_index], self.X[split_index:]
+        self.y_train, self.y_test = self.y[:split_index], self.y[split_index:]
+
+        self.X_train = torch.tensor(self.X_train).unsqueeze(1)
+        self.y_train = torch.tensor(self.y_train)
+        self.X_test = torch.tensor(self.X_test).unsqueeze(1)
+        self.y_test = torch.tensor(self.y_test)
+
+        #self.X = torch.tensor(self.X).unsqueeze(1)
+        #self.y = torch.tensor(self.y)
+
+
+    def get_Train(self):
+        return self.X_train, self.y_train
+    
+    def get_Test(self):
+        return self.X_test, self.y_test
 
     def __len__(self):
         return len(self.X)
@@ -23,7 +42,7 @@ class StockClassificationDataset(Dataset):
 
 # Model
 class StockLSTMClassifier(nn.Module):
-    def __init__(self, input_size=11, hidden_size=64, num_classes=3):
+    def __init__(self, input_size=14, hidden_size=64, num_classes=3):
         super().__init__()
         self.lstm = nn.LSTM(input_size=input_size, hidden_size=hidden_size, batch_first=True)
         self.classifier = nn.Sequential(
@@ -36,6 +55,23 @@ class StockLSTMClassifier(nn.Module):
     def forward(self, x):
         _, (hn, _) = self.lstm(x)
         return self.classifier(hn[-1])
+    
+def get_predictions(model, dataloader, device):
+    model.eval()
+    preds = []
+    truths = []
+    with torch.no_grad():
+        for X, y in dataloader:
+            X, y = X.to(device), y.to(device)
+            outputs = model(X)
+            preds.extend(outputs.cpu().numpy().flatten())
+            truths.extend(y.cpu().numpy().flatten())
+
+    print(f"Length preds: {len(preds)}")
+    print(f"Length truths: {len(truths)}")
+    
+    return np.array(preds), np.array(truths)
+
 
 # Training + Evaluation
 def evaluate_classification(model, dataloader, device):
@@ -70,22 +106,47 @@ def train(model, dataloader, loss_fn, optimizer, device, epochs=10):
             optimizer.step()
             total_loss += loss.item()
 
-        acc, f1, prec, rec, cm = evaluate_classification(model, dataloader, device)
-        print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, Acc: {acc:.4f}, F1: {f1:.4f}")
-        print(f"Precision: {prec:.4f}, Recall: {rec:.4f}")
-        print("Confusion Matrix:\n", cm)
+        #acc, f1, prec, rec, cm = evaluate_classification(model, dataloader, device)
+        #print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, Acc: {acc:.4f}, F1: {f1:.4f}")
+        #print(f"Precision: {prec:.4f}, Recall: {rec:.4f}")
+        #print("Confusion Matrix:\n", cm)
 
 # Main
 def main():
+
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     dataset = StockClassificationDataset("LSTM Models/data/classification_data.csv")
-    dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
+
+    X_train, y_train = dataset.get_Train()
+    X_test, y_test = dataset.get_Test()
+    #dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
+
+    train_dataset = torch.utils.data.TensorDataset(X_train, y_train)
+    test_dataset = torch.utils.data.TensorDataset(X_test, y_test)
+
+    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=False)
+    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
 
     model = StockLSTMClassifier().to(device)
     criterion = nn.CrossEntropyLoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
 
-    train(model, dataloader, criterion, optimizer, device, epochs=20)
+    #train(model, dataloader, criterion, optimizer, device, epochs=1000)
+
+    for epoch in range(100):
+        train(model, train_loader, criterion, optimizer, device, epochs=1)
+        acc, f1, prec, rec, cm = evaluate_classification(model, test_loader, device)
+        print(f"[Test] Epoch {epoch+1}, Acc: {acc:.5f}, F1: {f1:.5f}, Precision: {prec:.5f}, Recall: {rec:.5f}")
+        print("Confusion Matrix:\n", cm)
+
+    preds, truths = get_predictions(model, test_loader, device)
+
+    df_results = pd.DataFrame({
+        "True": truths,
+        "Predicted": preds
+    })
+
+    df_results.to_csv("test_predictions_Classification.csv", index=False)
 
 if __name__ == "__main__":
     main()
