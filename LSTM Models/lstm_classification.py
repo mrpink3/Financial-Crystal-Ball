@@ -21,12 +21,14 @@ import matplotlib.pyplot as plt
 class StockClassificationDataset(Dataset):
     def __init__(self, csv_file):
         df = pd.read_csv(csv_file)
-        self.X = df.drop(columns=["movement_label"]).values.astype("float32")
+        self.X = df.drop(columns=["movement_label","Date"]).values.astype("float32")
         self.y = df["movement_label"].values.astype("int64")
+        self.Date = df["Date"]
 
         split_index = int(len(self.X) * 0.8)
         self.X_train, self.X_test = self.X[:split_index], self.X[split_index:]
         self.y_train, self.y_test = self.y[:split_index], self.y[split_index:]
+        self.X_date, self.y_date = self.Date[:split_index], self.Date[split_index:]
 
         self.X_train = torch.tensor(self.X_train).unsqueeze(1)
         self.y_train = torch.tensor(self.y_train)
@@ -47,6 +49,9 @@ class StockClassificationDataset(Dataset):
 
     def __getitem__(self, idx):
         return self.X[idx], self.y[idx]
+    
+    def get_Date(self):
+        return self.X_date, self.y_date
 
 
 # Model
@@ -65,7 +70,7 @@ class StockLSTMClassifier(nn.Module):
         return self.classifier(hn[-1])
 
 
-def get_predictions(model, dataloader, device):
+"""def get_predictions(model, dataloader, device):
     model.eval()
     preds = []
     truths = []
@@ -78,6 +83,27 @@ def get_predictions(model, dataloader, device):
 
     print(f"Length preds: {len(preds)}")
     print(f"Length truths: {len(truths)}")
+
+    return np.array(preds), np.array(truths)"""
+
+
+def get_predictions(model, dataloader, device):
+    model.eval()
+    preds = []
+    truths = []
+    with torch.no_grad():
+        for X, y in dataloader:
+            X, y = X.to(device), y.to(device)
+            outputs = model(X)
+            predicted_classes = torch.argmax(outputs, dim=1)
+            preds.extend(predicted_classes.cpu().numpy())
+            truths.extend(y.cpu().numpy())
+
+    # print(f"Length preds: {len(preds)}")
+    # print(f"Length truths: {len(truths)}")
+
+    print(f"type(preds): {type(preds)}, shape: {np.shape(preds)}")
+    print(f"type(truths): {type(truths)}, shape: {np.shape(truths)}")
 
     return np.array(preds), np.array(truths)
 
@@ -116,109 +142,139 @@ def train(model, dataloader, loss_fn, optimizer, device, epochs=10):
             optimizer.step()
             total_loss += loss.item()
 
-        acc, f1, prec, rec, cm = evaluate_classification(model, dataloader, device)
+        """acc, f1, prec, rec, cm = evaluate_classification(model, dataloader, device)
         print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}, Acc: {acc:.4f}, F1: {f1:.4f}")
         print(f"Precision: {prec:.4f}, Recall: {rec:.4f}")
-        print("Confusion Matrix:\n", cm)
+        print("Confusion Matrix:\n", cm)"""
 
 
 # Main
 def main():
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    dataset = StockClassificationDataset(
-        "LSTM Models/data/classification_data_returns.csv"
-    )
 
-    X_train_raw, y_train = dataset.get_Train()
-    X_test_raw, y_test = dataset.get_Test()
-    # dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
+    stocks_in_order =['10Y Treasury','Apple','Coca-Cola','Disney','Dow Jones',
+                'EUR-USD','Exxon Mobil','Fed Funds Rate','Gold','Google',
+                'Intel','Johnson & Johnson','JP Morgan','Microsoft','NASDAQ Composite',
+                'Oil','S&P 500','USD-JPY','Walmart']
+    
+    for stock in stocks_in_order:
 
-    X_train_returns = X_train_raw[:, :10]
-    X_train_sentiments = X_train_raw[:, 10:]
-
-    X_test_returns = X_test_raw[:, :10]
-    X_test_sentiments = X_test_raw[:, 10:]
-
-    X_train_flat_return = X_train_raw.reshape(
-        X_train_returns.shape[0], -1
-    )  # (num_samples, 14)
-    X_test_flat_return = X_test_raw.reshape(X_test_returns.shape[0], -1)
-
-    scaler = StandardScaler()
-    X_train_returns_scaled = scaler.fit_transform(X_train_flat_return)
-    X_test_returns_scaled = scaler.transform(X_test_flat_return)
-
-    X_train_returns_scaled_r = X_train_returns_scaled.reshape(-1, 1, 14)
-    X_test_returns_scaled_r = X_test_returns_scaled.reshape(-1, 1, 14)
-
-    X_train = np.concatenate([X_train_returns_scaled_r, X_train_sentiments], axis=1)
-    X_test = np.concatenate([X_test_returns_scaled_r, X_test_sentiments], axis=1)
-
-    # Reshape back to 3D: (num_samples, 1, 14)
-    # X_train = X_train.reshape(-1, 1, 14)
-    # X_test = X_test.reshape(-1, 1, 14)
-
-    # Convert to tensors
-    X_train_tensor = torch.tensor(X_train, dtype=torch.float32)
-    X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
-    y_train_tensor = torch.tensor(y_train, dtype=torch.long)
-    y_test_tensor = torch.tensor(y_test, dtype=torch.long)
-
-    train_dataset = torch.utils.data.TensorDataset(X_train_tensor, y_train_tensor)
-    test_dataset = torch.utils.data.TensorDataset(X_test_tensor, y_test_tensor)
-
-    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=False)
-    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
-
-    model = StockLSTMClassifier().to(device)
-    criterion = nn.CrossEntropyLoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
-
-    # train(model, dataloader, criterion, optimizer, device, epochs=1000)
-
-    for epoch in range(250):
-        train(model, train_loader, criterion, optimizer, device, epochs=1)
-        acc, f1, prec, rec, cm = evaluate_classification(model, test_loader, device)
-        print(
-            f"[Test] Epoch {epoch+1}, Acc: {acc:.5f}, F1: {f1:.5f}, Precision: {prec:.5f}, Recall: {rec:.5f}"
+        dataset = StockClassificationDataset(
+            f"LSTM Models/shifted_data/classification_data_returns_{stock}.csv"
         )
+
+        X_train_raw, y_train = dataset.get_Train()
+        X_test_raw, y_test = dataset.get_Test()
+        X_test_date, y_test_date = dataset.get_Date()
+        # dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
+
+        X_train_returns = X_train_raw[:, :10]
+        X_train_sentiments = X_train_raw[:, 10:]
+
+        X_test_returns = X_test_raw[:, :10]
+        X_test_sentiments = X_test_raw[:, 10:]
+
+        X_train_flat_return = X_train_raw.reshape(
+            X_train_returns.shape[0], -1
+        )  # (num_samples, 14)
+        X_test_flat_return = X_test_raw.reshape(X_test_returns.shape[0], -1)
+
+        scaler = StandardScaler()
+        X_train_returns_scaled = scaler.fit_transform(X_train_flat_return)
+        X_test_returns_scaled = scaler.transform(X_test_flat_return)
+
+        X_train_returns_scaled_r = X_train_returns_scaled.reshape(-1, 1, 14)
+        X_test_returns_scaled_r = X_test_returns_scaled.reshape(-1, 1, 14)
+
+        X_train = np.concatenate([X_train_returns_scaled_r, X_train_sentiments], axis=1)
+        X_test = np.concatenate([X_test_returns_scaled_r, X_test_sentiments], axis=1)
+
+        # Reshape back to 3D: (num_samples, 1, 14)
+        # X_train = X_train.reshape(-1, 1, 14)
+        # X_test = X_test.reshape(-1, 1, 14)
+
+        # Convert to tensors
+        X_train_tensor = torch.tensor(X_train, dtype=torch.float32)
+        X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
+        y_train_tensor = torch.tensor(y_train, dtype=torch.long)
+        y_test_tensor = torch.tensor(y_test, dtype=torch.long)
+
+        train_dataset = torch.utils.data.TensorDataset(X_train_tensor, y_train_tensor)
+        test_dataset = torch.utils.data.TensorDataset(X_test_tensor, y_test_tensor)
+
+        train_loader = DataLoader(train_dataset, batch_size=64, shuffle=False)
+        test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False)
+
+        model = StockLSTMClassifier().to(device)
+        criterion = nn.CrossEntropyLoss()
+        optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
+
+        # train(model, dataloader, criterion, optimizer, device, epochs=1000)
+
+        for epoch in range(100):
+            train(model, train_loader, criterion, optimizer, device, epochs=1)
+            #acc, f1, prec, rec, cm = evaluate_classification(model, test_loader, device)
+            #print(
+            #    f"[Test] Epoch {epoch+1}, Acc: {acc:.5f}, F1: {f1:.5f}, Precision: {prec:.5f}, Recall: {rec:.5f}"
+            #)
+            #print("Confusion Matrix:\n", cm)
+
+        acc, f1, prec, rec, cm = evaluate_classification(model, test_loader, device)
+        print(f"[Test] Epoch {epoch+1}, Acc: {acc:.5f}, F1: {f1:.5f}, Precision: {prec:.5f}, Recall: {rec:.5f}")
         print("Confusion Matrix:\n", cm)
 
-    # train(model, train_loader, criterion, optimizer, device, epochs=500)
+        # train(model, train_loader, criterion, optimizer, device, epochs=500)
 
-    preds, truths = get_predictions(model, test_loader, device)
+        preds, truths = get_predictions(model, test_loader, device)
 
-    model.eval()
-    with torch.no_grad():
-        all_preds = []
-        all_targets = []
-        for xb, yb in test_loader:
-            xb = xb.to(device)
-            logits = model(xb).cpu()
-            preds = torch.argmax(logits, dim=1)
+        model.eval()
+        with torch.no_grad():
+            all_preds = []
+            all_targets = []
+            for xb, yb in test_loader:
+                xb = xb.to(device)
+                logits = model(xb).cpu()
+                batch_preds = torch.argmax(logits, dim=1)
 
-            all_preds.extend(preds.numpy())
-            all_targets.extend(yb.numpy())
+                all_preds.extend(batch_preds.numpy())
+                all_targets.extend(yb.numpy())
 
-    cm = confusion_matrix(all_targets, all_preds)
-    labels = [0, 1, 2] 
+        truths = np.array(truths).flatten().tolist()
+        preds = np.array(preds).flatten().tolist()
+        dates = np.array(y_test_date).flatten().tolist()
+
+        print(f"type(dates): {type(dates)}, shape: {np.shape(dates)}")
+
+        assert len(truths) == len(preds), f"Length mismatch: {len(truths)} vs {len(preds)}"
+
+        df_results = pd.DataFrame({
+        "True": truths,
+        "Predicted": preds,
+        "Dates": y_test_date
+        })
+
+        df_results.to_csv(f"LSTM Models/results/shifted_classification/test_predictions_Classification_{stock}.csv", index=False)
+
+    """X_test_raw["Predicted"] = preds
+
+    X_test_raw.to_csv(
+        "LSTM Models/results/non_shifted_classification/test_predictions_Classification_10Y_Treasury.csv",
+        index=False,
+    )"""
+
+    """cm = confusion_matrix(all_targets, all_preds)
+    labels = [0, 1, 2]
 
     plt.figure(figsize=(6, 5))
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
-                xticklabels=labels, yticklabels=labels)
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    plt.title('Confusion Matrix (Last Epoch)')
+    sns.heatmap(
+        cm, annot=True, fmt="d", cmap="Blues", xticklabels=labels, yticklabels=labels
+    )
+    plt.xlabel("Predicted")
+    plt.ylabel("True")
+    plt.title("Confusion Matrix (Last Epoch)")
     plt.tight_layout()
-    plt.show()
-
-    """df_results = pd.DataFrame({
-        "True": truths,
-        "Predicted": preds
-    })
-
-    df_results.to_csv("test_predictions_Classification.csv", index=False)"""
+    plt.show()"""
 
 
 if __name__ == "__main__":
